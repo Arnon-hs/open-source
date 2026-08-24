@@ -1,6 +1,6 @@
 # arjunprabhulal/mcp-gemini-search
 
-[![Stars](https://img.shields.io/github/stars/arjunprabhulal/mcp-gemini-search?style=flat-square&color=yellow)](https://github.com/arjunprabhulal/mcp-gemini-search/stargazers) [![Forks](https://img.shields.io/github/forks/arjunprabhulal/mcp-gemini-search?style=flat-square&color=blue)](https://github.com/arjunprabhulal/mcp-gemini-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arjunprabhulal/mcp-gemini-search?style=flat-square&color=yellow)](https://github.com/arjunprabhulal/mcp-gemini-search/stargazers) [![Forks](https://img.shields.io/github/forks/arjunprabhulal/mcp-gemini-search?style=flat-square&color=blue)](https://github.com/arjunprabhulal/mcp-gemini-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) with Gemini 2.5 Pro. Convert conversational queries into flight searches using Gemini's function calling capabilities and MCP's flight search tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Education
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ arjunprabhulal/mcp-gemini-search 通过将 Gemini 2.5 Pro 的函数调用能力�
 | forks | 33/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

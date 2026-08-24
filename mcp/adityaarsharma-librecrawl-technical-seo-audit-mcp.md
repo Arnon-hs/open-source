@@ -1,6 +1,6 @@
 # adityaarsharma/librecrawl-technical-seo-audit-mcp
 
-[![Stars](https://img.shields.io/github/stars/adityaarsharma/librecrawl-technical-seo-audit-mcp?style=flat-square&color=yellow)](https://github.com/adityaarsharma/librecrawl-technical-seo-audit-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/adityaarsharma/librecrawl-technical-seo-audit-mcp?style=flat-square&color=blue)](https://github.com/adityaarsharma/librecrawl-technical-seo-audit-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adityaarsharma/librecrawl-technical-seo-audit-mcp?style=flat-square&color=yellow)](https://github.com/adityaarsharma/librecrawl-technical-seo-audit-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/adityaarsharma/librecrawl-technical-seo-audit-mcp?style=flat-square&color=blue)](https://github.com/adityaarsharma/librecrawl-technical-seo-audit-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-native technical SEO crawler. Open-source MCP server for Claude / Cursor / Codex — 37 tools, 50+ checks, unlimited pages, WAF detection, ephemeral by design. Built on LibreCrawl. MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Data
+MCP · AI/ML · Backend · Data · Design
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ adityaarsharma/librecrawl-technical-seo-audit-mcp 的价值在于它帮助连接
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

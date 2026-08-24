@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ worldwonderer/oh-story-dsh：worldwonderer/oh-story-dsh helps add AI capability 
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

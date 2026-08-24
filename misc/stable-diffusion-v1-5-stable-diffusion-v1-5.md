@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
 | 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2024-09-07 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -106,6 +106,7 @@ stable-diffusion-v1-5/stable-diffusion-v1-5 是一个流行的开源模型，用
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

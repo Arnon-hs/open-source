@@ -1,6 +1,6 @@
 # OpenCoven/coven-cave
 
-[![Stars](https://img.shields.io/github/stars/OpenCoven/coven-cave?style=flat-square&color=yellow)](https://github.com/OpenCoven/coven-cave/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCoven/coven-cave?style=flat-square&color=blue)](https://github.com/OpenCoven/coven-cave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenCoven/coven-cave?style=flat-square&color=yellow)](https://github.com/OpenCoven/coven-cave/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCoven/coven-cave?style=flat-square&color=blue)](https://github.com/OpenCoven/coven-cave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Native OpenCoven workspace for familiars, agent sessions, memory, tools, workflows, and local-first development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ OpenCoven/coven-cave：OpenCoven/coven-cave helps turn isolated prompts and tool
 | forks | 36/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

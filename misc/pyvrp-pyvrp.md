@@ -1,6 +1,6 @@
 # PyVRP/PyVRP
 
-[![Stars](https://img.shields.io/github/stars/PyVRP/PyVRP?style=flat-square&color=yellow)](https://github.com/PyVRP/PyVRP/stargazers) [![Forks](https://img.shields.io/github/forks/PyVRP/PyVRP?style=flat-square&color=blue)](https://github.com/PyVRP/PyVRP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PyVRP/PyVRP?style=flat-square&color=yellow)](https://github.com/PyVRP/PyVRP/stargazers) [![Forks](https://img.shields.io/github/forks/PyVRP/PyVRP?style=flat-square&color=blue)](https://github.com/PyVRP/PyVRP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, state-of-the-art vehicle routing problem solver in an easy-to-use Python package.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ PyVRP/PyVRP：PyVRP/PyVRP may be useful when its README and activity match a con
 | forks | 55/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

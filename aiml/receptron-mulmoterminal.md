@@ -1,6 +1,6 @@
 # receptron/mulmoterminal
 
-[![Stars](https://img.shields.io/github/stars/receptron/mulmoterminal?style=flat-square&color=yellow)](https://github.com/receptron/mulmoterminal/stargazers) [![Forks](https://img.shields.io/github/forks/receptron/mulmoterminal?style=flat-square&color=blue)](https://github.com/receptron/mulmoterminal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/receptron/mulmoterminal?style=flat-square&color=yellow)](https://github.com/receptron/mulmoterminal/stargazers) [![Forks](https://img.shields.io/github/forks/receptron/mulmoterminal?style=flat-square&color=blue)](https://github.com/receptron/mulmoterminal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ receptron/mulmoterminal 的生产可用性为中等。它适用于原型或内�
 | forks | 31/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

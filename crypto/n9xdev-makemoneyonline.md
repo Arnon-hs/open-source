@@ -1,6 +1,6 @@
 # n9xdev/makemoneyonline
 
-[![Stars](https://img.shields.io/github/stars/n9xdev/makemoneyonline?style=flat-square&color=yellow)](https://github.com/n9xdev/makemoneyonline/stargazers) [![Forks](https://img.shields.io/github/forks/n9xdev/makemoneyonline?style=flat-square&color=blue)](https://github.com/n9xdev/makemoneyonline/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n9xdev/makemoneyonline?style=flat-square&color=yellow)](https://github.com/n9xdev/makemoneyonline/stargazers) [![Forks](https://img.shields.io/github/forks/n9xdev/makemoneyonline?style=flat-square&color=blue)](https://github.com/n9xdev/makemoneyonline/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 $150k+ Polymarket Trader & Developer: AI Agents • GameFi • Provably Fair Casinos • DeFi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML · Frontend · DevTools
+Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ n9xdev/makemoneyonline 是一个开源项目，用于帮助开发者快速构建
 | forks | 0/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

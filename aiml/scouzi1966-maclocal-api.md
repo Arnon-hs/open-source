@@ -1,6 +1,6 @@
 # scouzi1966/maclocal-api
 
-[![Stars](https://img.shields.io/github/stars/scouzi1966/maclocal-api?style=flat-square&color=yellow)](https://github.com/scouzi1966/maclocal-api/stargazers) [![Forks](https://img.shields.io/github/forks/scouzi1966/maclocal-api?style=flat-square&color=blue)](https://github.com/scouzi1966/maclocal-api/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scouzi1966/maclocal-api?style=flat-square&color=yellow)](https://github.com/scouzi1966/maclocal-api/stargazers) [![Forks](https://img.shields.io/github/forks/scouzi1966/maclocal-api?style=flat-square&color=blue)](https://github.com/scouzi1966/maclocal-api/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Supports Apple Vision and single command (non-server) inference with piping as well . Now with Web Browser and  local AI API aggregator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Design
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ scouzi1966/maclocal-api 具有较高的生产可用性，主要原因是：
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

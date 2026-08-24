@@ -1,6 +1,6 @@
 # tikoci/routeros-skills
 
-[![Stars](https://img.shields.io/github/stars/tikoci/routeros-skills?style=flat-square&color=yellow)](https://github.com/tikoci/routeros-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tikoci/routeros-skills?style=flat-square&color=blue)](https://github.com/tikoci/routeros-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tikoci/routeros-skills?style=flat-square&color=yellow)](https://github.com/tikoci/routeros-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tikoci/routeros-skills?style=flat-square&color=blue)](https://github.com/tikoci/routeros-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Custom instruction SKILL.md for MikroTik RouterOS v7
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ tikoci/routeros‑skills 为 MikroTik RouterOS v7 提供了一个可复用的 
 | forks | 21/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # shihuili1218/rssh
 
-[![Stars](https://img.shields.io/github/stars/shihuili1218/rssh?style=flat-square&color=yellow)](https://github.com/shihuili1218/rssh/stargazers) [![Forks](https://img.shields.io/github/forks/shihuili1218/rssh?style=flat-square&color=blue)](https://github.com/shihuili1218/rssh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shihuili1218/rssh?style=flat-square&color=yellow)](https://github.com/shihuili1218/rssh/stargazers) [![Forks](https://img.shields.io/github/forks/shihuili1218/rssh?style=flat-square&color=blue)](https://github.com/shihuili1218/rssh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform SSH application that doesn’t “pee” 💩 on your system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ shihuili1218/rssh 是一款跨平台的 SSH 客户端，用 Rust 编写，运行
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

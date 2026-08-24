@@ -1,6 +1,6 @@
 # alibaba/fastjson2
 
-[![Stars](https://img.shields.io/github/stars/alibaba/fastjson2?style=flat-square&color=yellow)](https://github.com/alibaba/fastjson2/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/fastjson2?style=flat-square&color=blue)](https://github.com/alibaba/fastjson2/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/fastjson2?style=flat-square&color=yellow)](https://github.com/alibaba/fastjson2/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/fastjson2?style=flat-square&color=blue)](https://github.com/alibaba/fastjson2/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 576 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database · Mobile
+Data · Mobile
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ fastjson2 在生产环境中具有很高的可用性。项目最近有活动，�
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

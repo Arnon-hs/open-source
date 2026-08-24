@@ -1,6 +1,6 @@
 # morluto/rea
 
-[![Stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square&color=yellow)](https://github.com/morluto/rea/stargazers) [![Forks](https://img.shields.io/github/forks/morluto/rea?style=flat-square&color=blue)](https://github.com/morluto/rea/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square&color=yellow)](https://github.com/morluto/rea/stargazers) [![Forks](https://img.shields.io/github/forks/morluto/rea?style=flat-square&color=blue)](https://github.com/morluto/rea/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Reverse engineer anything with agents: one CLI and MCP server to inspect any app, understand it fully down to the binary level.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ morluto/rea 是一款基于多代理的逆向工程工具，提供统一的 CLI 
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

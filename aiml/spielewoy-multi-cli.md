@@ -1,6 +1,6 @@
 # Spielewoy/multi-cli
 
-[![Stars](https://img.shields.io/github/stars/Spielewoy/multi-cli?style=flat-square&color=yellow)](https://github.com/Spielewoy/multi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Spielewoy/multi-cli?style=flat-square&color=blue)](https://github.com/Spielewoy/multi-cli/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Spielewoy/multi-cli?style=flat-square&color=yellow)](https://github.com/Spielewoy/multi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Spielewoy/multi-cli?style=flat-square&color=blue)](https://github.com/Spielewoy/multi-cli/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Launch multiple sandboxed profiles of any AI CLI or IDE - each with its own auth, config, and extensions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security · Product
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Spielewoy/multi-cli的价值在于它可以帮助开发者快速添加AI能力�
 | forks | 12/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

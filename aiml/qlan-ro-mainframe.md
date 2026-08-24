@@ -1,6 +1,6 @@
 # qlan-ro/mainframe
 
-[![Stars](https://img.shields.io/github/stars/qlan-ro/mainframe?style=flat-square&color=yellow)](https://github.com/qlan-ro/mainframe/stargazers) [![Forks](https://img.shields.io/github/forks/qlan-ro/mainframe?style=flat-square&color=blue)](https://github.com/qlan-ro/mainframe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qlan-ro/mainframe?style=flat-square&color=yellow)](https://github.com/qlan-ro/mainframe/stargazers) [![Forks](https://img.shields.io/github/forks/qlan-ro/mainframe?style=flat-square&color=blue)](https://github.com/qlan-ro/mainframe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native development environment for orchestrating agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · DevOps/Infra
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ qlan-ro/mainframe 是一个 AI‑native 开发环境，专为编排多代理（a
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 21/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

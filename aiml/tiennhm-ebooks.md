@@ -1,6 +1,6 @@
 # TienNHM/ebooks
 
-[![Stars](https://img.shields.io/github/stars/TienNHM/ebooks?style=flat-square&color=yellow)](https://github.com/TienNHM/ebooks/stargazers) [![Forks](https://img.shields.io/github/forks/TienNHM/ebooks?style=flat-square&color=blue)](https://github.com/TienNHM/ebooks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TienNHM/ebooks?style=flat-square&color=yellow)](https://github.com/TienNHM/ebooks/stargazers) [![Forks](https://img.shields.io/github/forks/TienNHM/ebooks?style=flat-square&color=blue)](https://github.com/TienNHM/ebooks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Tổng hợp các ebooks hay
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 561 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ TienNHM/ebooks 是一个开源的电子书聚合库，收录了大量高质量�
 | forks | 57/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

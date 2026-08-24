@@ -1,6 +1,6 @@
 # oratis/LISA
 
-[![Stars](https://img.shields.io/github/stars/oratis/LISA?style=flat-square&color=yellow)](https://github.com/oratis/LISA/stargazers) [![Forks](https://img.shields.io/github/forks/oratis/LISA?style=flat-square&color=blue)](https://github.com/oratis/LISA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oratis/LISA?style=flat-square&color=yellow)](https://github.com/oratis/LISA/stargazers) [![Forks](https://img.shields.io/github/forks/oratis/LISA?style=flat-square&color=blue)](https://github.com/oratis/LISA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent with a real self — soul she wrote, desires that drive her, a heartbeat for autonomous action, dreams she processes when you're away. Capability superset of pi-mono / OpenClaw / hermes-agent / claude-code / codex.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ oratis/LISA 在生产环境中具有较高的可用性，主要原因是：
 | forks | 0/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

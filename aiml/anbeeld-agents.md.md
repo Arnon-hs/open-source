@@ -1,6 +1,6 @@
 # Anbeeld/AGENTS.md
 
-[![Stars](https://img.shields.io/github/stars/Anbeeld/AGENTS.md?style=flat-square&color=yellow)](https://github.com/Anbeeld/AGENTS.md/stargazers) [![Forks](https://img.shields.io/github/forks/Anbeeld/AGENTS.md?style=flat-square&color=blue)](https://github.com/Anbeeld/AGENTS.md/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anbeeld/AGENTS.md?style=flat-square&color=yellow)](https://github.com/Anbeeld/AGENTS.md/stargazers) [![Forks](https://img.shields.io/github/forks/Anbeeld/AGENTS.md?style=flat-square&color=blue)](https://github.com/Anbeeld/AGENTS.md/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Global instructions for coding agents: evidence, parallelization, validation, all in one AGENTS.md / CLAUDE.md
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Anbeeld/AGENTS.md 的生产可用性评级为中等（Medium）。它适用于 p
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

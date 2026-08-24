@@ -1,6 +1,6 @@
 # nashsu/llm_wiki
 
-[![Stars](https://img.shields.io/github/stars/nashsu/llm_wiki?style=flat-square&color=yellow)](https://github.com/nashsu/llm_wiki/stargazers) [![Forks](https://img.shields.io/github/forks/nashsu/llm_wiki?style=flat-square&color=blue)](https://github.com/nashsu/llm_wiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nashsu/llm_wiki?style=flat-square&color=yellow)](https://github.com/nashsu/llm_wiki/stargazers) [![Forks](https://img.shields.io/github/forks/nashsu/llm_wiki?style=flat-square&color=blue)](https://github.com/nashsu/llm_wiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.9k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Database
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ nashsu/llm_wiki在生产环境中具有较高的可用性。它的GitHub仓库�
 | forks | 81/100 |
 | stars | 89/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

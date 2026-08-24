@@ -1,6 +1,6 @@
 # proxmox/proxmox-datacenter-manager
 
-[![Stars](https://img.shields.io/github/stars/proxmox/proxmox-datacenter-manager?style=flat-square&color=yellow)](https://github.com/proxmox/proxmox-datacenter-manager/stargazers) [![Forks](https://img.shields.io/github/forks/proxmox/proxmox-datacenter-manager?style=flat-square&color=blue)](https://github.com/proxmox/proxmox-datacenter-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proxmox/proxmox-datacenter-manager?style=flat-square&color=yellow)](https://github.com/proxmox/proxmox-datacenter-manager/stargazers) [![Forks](https://img.shields.io/github/forks/proxmox/proxmox-datacenter-manager?style=flat-square&color=blue)](https://github.com/proxmox/proxmox-datacenter-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Read-Only Mirror of the Proxmox Datacenter Manager project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ proxmox/proxmox-datacenter-manager：proxmox/proxmox-datacenter-manager helps te
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

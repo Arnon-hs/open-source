@@ -1,6 +1,6 @@
 # bootphon/phonemizer
 
-[![Stars](https://img.shields.io/github/stars/bootphon/phonemizer?style=flat-square&color=yellow)](https://github.com/bootphon/phonemizer/stargazers) [![Forks](https://img.shields.io/github/forks/bootphon/phonemizer?style=flat-square&color=blue)](https://github.com/bootphon/phonemizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bootphon/phonemizer?style=flat-square&color=yellow)](https://github.com/bootphon/phonemizer/stargazers) [![Forks](https://img.shields.io/github/forks/bootphon/phonemizer?style=flat-square&color=blue)](https://github.com/bootphon/phonemizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Simple text to phones converter for multiple languages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ bootphon/phonemizer 的生产可用性为中等。虽然它是一个稳定的项
 | forks | 58/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

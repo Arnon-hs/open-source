@@ -1,6 +1,6 @@
 # wcampbell0x2a/backhand
 
-[![Stars](https://img.shields.io/github/stars/wcampbell0x2a/backhand?style=flat-square&color=yellow)](https://github.com/wcampbell0x2a/backhand/stargazers) [![Forks](https://img.shields.io/github/forks/wcampbell0x2a/backhand?style=flat-square&color=blue)](https://github.com/wcampbell0x2a/backhand/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wcampbell0x2a/backhand?style=flat-square&color=yellow)](https://github.com/wcampbell0x2a/backhand/stargazers) [![Forks](https://img.shields.io/github/forks/wcampbell0x2a/backhand?style=flat-square&color=blue)](https://github.com/wcampbell0x2a/backhand/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Library and binaries for the reading, creating, and modification of SquashFS file systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Wcampbell0x2a/backhand的生产可用性为中等。它适合于原型验证或�
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

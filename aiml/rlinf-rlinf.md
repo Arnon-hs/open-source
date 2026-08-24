@@ -1,6 +1,6 @@
 # RLinf/RLinf
 
-[![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=flat-square&color=yellow)](https://github.com/RLinf/RLinf/stargazers) [![Forks](https://img.shields.io/github/forks/RLinf/RLinf?style=flat-square&color=blue)](https://github.com/RLinf/RLinf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RLinf/RLinf?style=flat-square&color=yellow)](https://github.com/RLinf/RLinf/stargazers) [![Forks](https://img.shields.io/github/forks/RLinf/RLinf?style=flat-square&color=blue)](https://github.com/RLinf/RLinf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 548 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Education
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ RLinf（Reinforcement Learning Infrastructure for Embodied and Agentic AI）是�
 | forks | 68/100 |
 | stars | 76/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

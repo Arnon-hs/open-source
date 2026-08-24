@@ -1,6 +1,6 @@
 # nrkoka786/synapse
 
-[![Stars](https://img.shields.io/github/stars/nrkoka786/synapse?style=flat-square&color=yellow)](https://github.com/nrkoka786/synapse/stargazers) [![Forks](https://img.shields.io/github/forks/nrkoka786/synapse?style=flat-square&color=blue)](https://github.com/nrkoka786/synapse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nrkoka786/synapse?style=flat-square&color=yellow)](https://github.com/nrkoka786/synapse/stargazers) [![Forks](https://img.shields.io/github/forks/nrkoka786/synapse?style=flat-square&color=blue)](https://github.com/nrkoka786/synapse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Show HN: Synapse 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 36/100 |
+| quality | 26/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 41/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nylxar/curium
 
-[![Stars](https://img.shields.io/github/stars/nylxar/curium?style=flat-square&color=yellow)](https://github.com/nylxar/curium/stargazers) [![Forks](https://img.shields.io/github/forks/nylxar/curium?style=flat-square&color=blue)](https://github.com/nylxar/curium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nylxar/curium?style=flat-square&color=yellow)](https://github.com/nylxar/curium/stargazers) [![Forks](https://img.shields.io/github/forks/nylxar/curium?style=flat-square&color=blue)](https://github.com/nylxar/curium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, feature-rich, and ad-free QR customizer, generator, and scanner
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile · Product
+Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ nylxar/curium 帮助开发者快速构建用户界面，减少自定义 UI 工�
 | forks | 27/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

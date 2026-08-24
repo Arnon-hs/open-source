@@ -1,6 +1,6 @@
 # yinxulai/one-switch
 
-[![Stars](https://img.shields.io/github/stars/yinxulai/one-switch?style=flat-square&color=yellow)](https://github.com/yinxulai/one-switch/stargazers) [![Forks](https://img.shields.io/github/forks/yinxulai/one-switch?style=flat-square&color=blue)](https://github.com/yinxulai/one-switch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yinxulai/one-switch?style=flat-square&color=yellow)](https://github.com/yinxulai/one-switch/stargazers) [![Forks](https://img.shields.io/github/forks/yinxulai/one-switch?style=flat-square&color=blue)](https://github.com/yinxulai/one-switch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > One Switch 是面向 Codex、Claude Code 等 AI 开发工具的本地故障切换网关。它通过统一的本地 API 入口集中管理多个 AI 供应商、模型与密钥，让各类工具只需配置一次，无需在切换供应商或模型时反复修改 Base URL、模型名称和 API Key。当上游服务出现网络故障、超时、限流、鉴权失败或服务端异常时，One Switch 会按优先级自动切换到可用渠道，尽可能保障 AI 工作流持续稳定运行。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ yinxulai/one-switch：yinxulai/one-switch helps add AI capability without starti
 | forks | 0/100 |
 | stars | 24/100 |
 | topics | 50/100 |
-| outlook | 66/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

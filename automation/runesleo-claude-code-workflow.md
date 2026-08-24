@@ -1,6 +1,6 @@
 # runesleo/claude-code-workflow
 
-[![Stars](https://img.shields.io/github/stars/runesleo/claude-code-workflow?style=flat-square&color=yellow)](https://github.com/runesleo/claude-code-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/runesleo/claude-code-workflow?style=flat-square&color=blue)](https://github.com/runesleo/claude-code-workflow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runesleo/claude-code-workflow?style=flat-square&color=yellow)](https://github.com/runesleo/claude-code-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/runesleo/claude-code-workflow?style=flat-square&color=blue)](https://github.com/runesleo/claude-code-workflow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 708 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ runesleo/claude-code-workflow 是一个开源项目，提供了一种轻量级�
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

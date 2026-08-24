@@ -1,6 +1,6 @@
 # NethermindEth/stellar-private-payments
 
-[![Stars](https://img.shields.io/github/stars/NethermindEth/stellar-private-payments?style=flat-square&color=yellow)](https://github.com/NethermindEth/stellar-private-payments/stargazers) [![Forks](https://img.shields.io/github/forks/NethermindEth/stellar-private-payments?style=flat-square&color=blue)](https://github.com/NethermindEth/stellar-private-payments/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NethermindEth/stellar-private-payments?style=flat-square&color=yellow)](https://github.com/NethermindEth/stellar-private-payments/stargazers) [![Forks](https://img.shields.io/github/forks/NethermindEth/stellar-private-payments?style=flat-square&color=blue)](https://github.com/NethermindEth/stellar-private-payments/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Nethermind Privacy Engineering team's implementation of private payments for the Stellar network
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ NethermindEth/stellar-private-payments 是 Nethermind 私有工程团队为 Stel
 | forks | 38/100 |
 | stars | 37/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

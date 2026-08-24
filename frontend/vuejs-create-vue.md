@@ -1,6 +1,6 @@
 # vuejs/create-vue
 
-[![Stars](https://img.shields.io/github/stars/vuejs/create-vue?style=flat-square&color=yellow)](https://github.com/vuejs/create-vue/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs/create-vue?style=flat-square&color=blue)](https://github.com/vuejs/create-vue/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vuejs/create-vue?style=flat-square&color=yellow)](https://github.com/vuejs/create-vue/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs/create-vue?style=flat-square&color=blue)](https://github.com/vuejs/create-vue/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🛠️ The recommended way to start a Vite-powered Vue project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 525 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ vuejs/create-vue 的生产可用性为 Medium。它适用于以下场景：
 | forks | 68/100 |
 | stars | 78/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

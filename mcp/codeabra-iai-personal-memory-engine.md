@@ -1,6 +1,6 @@
 # CodeAbra/iai-personal-memory-engine
 
-[![Stars](https://img.shields.io/github/stars/CodeAbra/iai-personal-memory-engine?style=flat-square&color=yellow)](https://github.com/CodeAbra/iai-personal-memory-engine/stargazers) [![Forks](https://img.shields.io/github/forks/CodeAbra/iai-personal-memory-engine?style=flat-square&color=blue)](https://github.com/CodeAbra/iai-personal-memory-engine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeAbra/iai-personal-memory-engine?style=flat-square&color=yellow)](https://github.com/CodeAbra/iai-personal-memory-engine/stargazers) [![Forks](https://img.shields.io/github/forks/CodeAbra/iai-personal-memory-engine?style=flat-square&color=blue)](https://github.com/CodeAbra/iai-personal-memory-engine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The best-benchmarked open-source memory system for AI coding assistants
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ CodeAbra/iai‑personal‑memory‑engine 是目前基准表现最优的开源�
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # anysearch-ai/anysearch-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/anysearch-ai/anysearch-mcp-server?style=flat-square&color=yellow)](https://github.com/anysearch-ai/anysearch-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/anysearch-ai/anysearch-mcp-server?style=flat-square&color=blue)](https://github.com/anysearch-ai/anysearch-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anysearch-ai/anysearch-mcp-server?style=flat-square&color=yellow)](https://github.com/anysearch-ai/anysearch-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/anysearch-ai/anysearch-mcp-server?style=flat-square&color=blue)](https://github.com/anysearch-ai/anysearch-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Unified real-time search MCP server supporting general web search, vertical domain search, parallel batch search, and full-page URL content extraction.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ anysearch-ai/anysearch-mcp-server：anysearch-ai/anysearch-mcp-server helps conn
 | forks | 57/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

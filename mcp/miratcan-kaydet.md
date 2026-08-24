@@ -1,6 +1,6 @@
 # miratcan/kaydet
 
-[![Stars](https://img.shields.io/github/stars/miratcan/kaydet?style=flat-square&color=yellow)](https://github.com/miratcan/kaydet/stargazers) [![Forks](https://img.shields.io/github/forks/miratcan/kaydet?style=flat-square&color=blue)](https://github.com/miratcan/kaydet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miratcan/kaydet?style=flat-square&color=yellow)](https://github.com/miratcan/kaydet/stargazers) [![Forks](https://img.shields.io/github/forks/miratcan/kaydet?style=flat-square&color=blue)](https://github.com/miratcan/kaydet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Never lose a solution twice. Terminal note-taking app for developers. CLI notes, work logs, daily journal, with SQLite FTS search and MCP AI integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend · DevTools · Database · Observability
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ miratcan/kaydet 具有高生产可用性，主要原因包括：
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

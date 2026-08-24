@@ -1,6 +1,6 @@
 # mensfeld/pocketrb
 
-[![Stars](https://img.shields.io/github/stars/mensfeld/pocketrb?style=flat-square&color=yellow)](https://github.com/mensfeld/pocketrb/stargazers) [![Forks](https://img.shields.io/github/forks/mensfeld/pocketrb?style=flat-square&color=blue)](https://github.com/mensfeld/pocketrb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mensfeld/pocketrb?style=flat-square&color=yellow)](https://github.com/mensfeld/pocketrb/stargazers) [![Forks](https://img.shields.io/github/forks/mensfeld/pocketrb?style=flat-square&color=blue)](https://github.com/mensfeld/pocketrb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ mensfeld/pocketrb 的生产可用性为中等，适用于原型或内部工作�
 | forks | 0/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

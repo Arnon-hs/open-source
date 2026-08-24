@@ -1,6 +1,6 @@
 # boltmcp/boltmcp
 
-[![Stars](https://img.shields.io/github/stars/boltmcp/boltmcp?style=flat-square&color=yellow)](https://github.com/boltmcp/boltmcp/stargazers) [![Forks](https://img.shields.io/github/forks/boltmcp/boltmcp?style=flat-square&color=blue)](https://github.com/boltmcp/boltmcp/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boltmcp/boltmcp?style=flat-square&color=yellow)](https://github.com/boltmcp/boltmcp/stargazers) [![Forks](https://img.shields.io/github/forks/boltmcp/boltmcp?style=flat-square&color=blue)](https://github.com/boltmcp/boltmcp/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 356 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ boltmcp/boltmcp 为 AI 助手提供了一个统一的 **Model Context Protocol (
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

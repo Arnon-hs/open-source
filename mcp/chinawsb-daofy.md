@@ -1,6 +1,6 @@
 # chinawsb/daofy
 
-[![Stars](https://img.shields.io/github/stars/chinawsb/daofy?style=flat-square&color=yellow)](https://github.com/chinawsb/daofy/stargazers) [![Forks](https://img.shields.io/github/forks/chinawsb/daofy?style=flat-square&color=blue)](https://github.com/chinawsb/daofy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chinawsb/daofy?style=flat-square&color=yellow)](https://github.com/chinawsb/daofy/stargazers) [![Forks](https://img.shields.io/github/forks/chinawsb/daofy?style=flat-square&color=blue)](https://github.com/chinawsb/daofy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Daofy for Delphi — MCP Server that compiles Delphi projects and queries knowledge base for AI assistants.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Daofy for Delphi 的生产可用性较高，主要原因是：
 | forks | 31/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

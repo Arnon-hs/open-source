@@ -1,6 +1,6 @@
 # besoeasy/yantr
 
-[![Stars](https://img.shields.io/github/stars/besoeasy/yantr?style=flat-square&color=yellow)](https://github.com/besoeasy/yantr/stargazers) [![Forks](https://img.shields.io/github/forks/besoeasy/yantr?style=flat-square&color=blue)](https://github.com/besoeasy/yantr/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/besoeasy/yantr?style=flat-square&color=yellow)](https://github.com/besoeasy/yantr/stargazers) [![Forks](https://img.shields.io/github/forks/besoeasy/yantr?style=flat-square&color=blue)](https://github.com/besoeasy/yantr/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > YANTR is a powerful, cross-platform alternative to Umbrel — a Docker-based app store designed for flexible, server-grade self-hosting. It lets you deploy ready-to-run apps — from Bitcoin nodes and privacy tools to file converters — all packaged as lightweight containers, giving you more control, portability, and freedom over your setup.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · Backend · Database
+Crypto · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ YANTR（besoeasy/yantr）是一款基于 Docker 的跨平台应用商店，提�
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

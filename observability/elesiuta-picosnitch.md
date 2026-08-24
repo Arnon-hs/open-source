@@ -1,6 +1,6 @@
 # elesiuta/picosnitch
 
-[![Stars](https://img.shields.io/github/stars/elesiuta/picosnitch?style=flat-square&color=yellow)](https://github.com/elesiuta/picosnitch/stargazers) [![Forks](https://img.shields.io/github/forks/elesiuta/picosnitch?style=flat-square&color=blue)](https://github.com/elesiuta/picosnitch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elesiuta/picosnitch?style=flat-square&color=yellow)](https://github.com/elesiuta/picosnitch/stargazers) [![Forks](https://img.shields.io/github/forks/elesiuta/picosnitch?style=flat-square&color=blue)](https://github.com/elesiuta/picosnitch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Monitor network traffic per executable
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 953 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ elesiuta/picosnitch 通过把网络流量与具体可执行文件绑定，帮助
 | forks | 39/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

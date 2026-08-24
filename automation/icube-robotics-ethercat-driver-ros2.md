@@ -1,6 +1,6 @@
 # ICube-Robotics/ethercat_driver_ros2
 
-[![Stars](https://img.shields.io/github/stars/ICube-Robotics/ethercat_driver_ros2?style=flat-square&color=yellow)](https://github.com/ICube-Robotics/ethercat_driver_ros2/stargazers) [![Forks](https://img.shields.io/github/forks/ICube-Robotics/ethercat_driver_ros2?style=flat-square&color=blue)](https://github.com/ICube-Robotics/ethercat_driver_ros2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ICube-Robotics/ethercat_driver_ros2?style=flat-square&color=yellow)](https://github.com/ICube-Robotics/ethercat_driver_ros2/stargazers) [![Forks](https://img.shields.io/github/forks/ICube-Robotics/ethercat_driver_ros2?style=flat-square&color=blue)](https://github.com/ICube-Robotics/ethercat_driver_ros2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Hardware Interface for EtherCAT module integration with ros2_control
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ ICube-Robotics/ethercat_driver_ros2 是一个用于 EtherCAT 模块与 ros2_cont
 | forks | 52/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

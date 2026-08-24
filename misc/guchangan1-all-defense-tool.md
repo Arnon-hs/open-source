@@ -1,6 +1,6 @@
 # guchangan1/All-Defense-Tool
 
-[![Stars](https://img.shields.io/github/stars/guchangan1/All-Defense-Tool?style=flat-square&color=yellow)](https://github.com/guchangan1/All-Defense-Tool/stargazers) [![Forks](https://img.shields.io/github/forks/guchangan1/All-Defense-Tool?style=flat-square&color=blue)](https://github.com/guchangan1/All-Defense-Tool/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guchangan1/All-Defense-Tool?style=flat-square&color=yellow)](https://github.com/guchangan1/All-Defense-Tool/stargazers) [![Forks](https://img.shields.io/github/forks/guchangan1/All-Defense-Tool?style=flat-square&color=blue)](https://github.com/guchangan1/All-Defense-Tool/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其他安全攻防资料。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ Let's craft: "guchangan1/All-Defense-Tool 汇集了全网优秀的攻防武器�
 | forks | 79/100 |
 | stars | 83/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

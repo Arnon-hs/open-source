@@ -1,6 +1,6 @@
 # machulav/accountant24
 
-[![Stars](https://img.shields.io/github/stars/machulav/accountant24?style=flat-square&color=yellow)](https://github.com/machulav/accountant24/stargazers) [![Forks](https://img.shields.io/github/forks/machulav/accountant24?style=flat-square&color=blue)](https://github.com/machulav/accountant24/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/machulav/accountant24?style=flat-square&color=yellow)](https://github.com/machulav/accountant24/stargazers) [![Forks](https://img.shields.io/github/forks/machulav/accountant24?style=flat-square&color=blue)](https://github.com/machulav/accountant24/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI agent for personal finance
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ machulav/accountant24 是一个本地首先的 AI 代理，专注于个人财务
 | forks | 26/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

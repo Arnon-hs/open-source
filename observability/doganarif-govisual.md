@@ -1,6 +1,6 @@
 # doganarif/GoVisual
 
-[![Stars](https://img.shields.io/github/stars/doganarif/GoVisual?style=flat-square&color=yellow)](https://github.com/doganarif/GoVisual/stargazers) [![Forks](https://img.shields.io/github/forks/doganarif/GoVisual?style=flat-square&color=blue)](https://github.com/doganarif/GoVisual/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doganarif/GoVisual?style=flat-square&color=yellow)](https://github.com/doganarif/GoVisual/stargazers) [![Forks](https://img.shields.io/github/forks/doganarif/GoVisual?style=flat-square&color=blue)](https://github.com/doganarif/GoVisual/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ doganarif/GoVisual 是一款零配置、纯 Go 实现的 HTTP 请求可视化与
 | forks | 33/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

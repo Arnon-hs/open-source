@@ -1,6 +1,6 @@
 # Nwflower/dsh-chat-import
 
-[![Stars](https://img.shields.io/github/stars/Nwflower/dsh-chat-import?style=flat-square&color=yellow)](https://github.com/Nwflower/dsh-chat-import/stargazers) [![Forks](https://img.shields.io/github/forks/Nwflower/dsh-chat-import?style=flat-square&color=blue)](https://github.com/Nwflower/dsh-chat-import/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nwflower/dsh-chat-import?style=flat-square&color=yellow)](https://github.com/Nwflower/dsh-chat-import/stargazers) [![Forks](https://img.shields.io/github/forks/Nwflower/dsh-chat-import?style=flat-square&color=blue)](https://github.com/Nwflower/dsh-chat-import/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 从Claude Code、Codex、Reasonix等Agent工具导入迁移历史消息，并在DeepSeek Harness(DSH)中继续对话
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Nwflower/dsh-chat-import 的生产可用性为中等，适合用于原型设计�
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

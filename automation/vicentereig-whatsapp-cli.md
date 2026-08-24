@@ -1,6 +1,6 @@
 # vicentereig/whatsapp-cli
 
-[![Stars](https://img.shields.io/github/stars/vicentereig/whatsapp-cli?style=flat-square&color=yellow)](https://github.com/vicentereig/whatsapp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/vicentereig/whatsapp-cli?style=flat-square&color=blue)](https://github.com/vicentereig/whatsapp-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vicentereig/whatsapp-cli?style=flat-square&color=yellow)](https://github.com/vicentereig/whatsapp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/vicentereig/whatsapp-cli?style=flat-square&color=blue)](https://github.com/vicentereig/whatsapp-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Danger. Danger. High Voltage. Give your codex/claude access to WhatsApp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools
+Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ vicentereig/whatsapp-cli 的价值在于帮助开发者：
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

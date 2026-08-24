@@ -1,6 +1,6 @@
 # Leonxlnx/tasty-desktop
 
-[![Stars](https://img.shields.io/github/stars/Leonxlnx/tasty-desktop?style=flat-square&color=yellow)](https://github.com/Leonxlnx/tasty-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Leonxlnx/tasty-desktop?style=flat-square&color=blue)](https://github.com/Leonxlnx/tasty-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leonxlnx/tasty-desktop?style=flat-square&color=yellow)](https://github.com/Leonxlnx/tasty-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Leonxlnx/tasty-desktop?style=flat-square&color=blue)](https://github.com/Leonxlnx/tasty-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Windows desktop GUI and agent harness for Kimi Code CLI, built with Tauri and React.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Leonxlnx/tasty-desktop 是一个基于 Tauri 与 React 构建的非官方 Window
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

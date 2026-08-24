@@ -1,6 +1,6 @@
 # Cosmic-Ide/Cosmic-IDE
 
-[![Stars](https://img.shields.io/github/stars/Cosmic-Ide/Cosmic-IDE?style=flat-square&color=yellow)](https://github.com/Cosmic-Ide/Cosmic-IDE/stargazers) [![Forks](https://img.shields.io/github/forks/Cosmic-Ide/Cosmic-IDE?style=flat-square&color=blue)](https://github.com/Cosmic-Ide/Cosmic-IDE/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cosmic-Ide/Cosmic-IDE?style=flat-square&color=yellow)](https://github.com/Cosmic-Ide/Cosmic-IDE/stargazers) [![Forks](https://img.shields.io/github/forks/Cosmic-Ide/Cosmic-IDE?style=flat-square&color=blue)](https://github.com/Cosmic-Ide/Cosmic-IDE/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop-class, general-purpose IDE for Android, powered by a full Linux environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 681 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Cosmic-IDE 的生产可用性为中等，适合用于原型或内部工作流程
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

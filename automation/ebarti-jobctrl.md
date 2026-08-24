@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ebarti/JobCtrl：ebarti/JobCtrl helps remove repetitive manual operations from a
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

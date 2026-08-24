@@ -1,6 +1,6 @@
 # edaywalid/undo
 
-[![Stars](https://img.shields.io/github/stars/edaywalid/undo?style=flat-square&color=yellow)](https://github.com/edaywalid/undo/stargazers) [![Forks](https://img.shields.io/github/forks/edaywalid/undo?style=flat-square&color=blue)](https://github.com/edaywalid/undo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edaywalid/undo?style=flat-square&color=yellow)](https://github.com/edaywalid/undo/stargazers) [![Forks](https://img.shields.io/github/forks/edaywalid/undo?style=flat-square&color=blue)](https://github.com/edaywalid/undo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Undo what the last shell command did to the filesystem
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ edaywalid/undo 的生产可用性较高，因为它有以下特点：
 | forks | 17/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

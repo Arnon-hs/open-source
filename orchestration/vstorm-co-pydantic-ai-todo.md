@@ -1,6 +1,6 @@
 # vstorm-co/pydantic-ai-todo
 
-[![Stars](https://img.shields.io/github/stars/vstorm-co/pydantic-ai-todo?style=flat-square&color=yellow)](https://github.com/vstorm-co/pydantic-ai-todo/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/pydantic-ai-todo?style=flat-square&color=blue)](https://github.com/vstorm-co/pydantic-ai-todo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vstorm-co/pydantic-ai-todo?style=flat-square&color=yellow)](https://github.com/vstorm-co/pydantic-ai-todo/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/pydantic-ai-todo?style=flat-square&color=blue)](https://github.com/vstorm-co/pydantic-ai-todo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Task Planning and Tracking toolset for Pydantic AI agents, enabling hierarchical task management with subtasks, PostgreSQL storage for multi-tenancy, and an event system for webhooks and callbacks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Database
+Orchestration · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ vstorm-co/pydantic-ai-todo 帮助将孤立的提示和工具转化为可重复�
 | forks | 31/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # keel-hq/keel
 
-[![Stars](https://img.shields.io/github/stars/keel-hq/keel?style=flat-square&color=yellow)](https://github.com/keel-hq/keel/stargazers) [![Forks](https://img.shields.io/github/forks/keel-hq/keel?style=flat-square&color=blue)](https://github.com/keel-hq/keel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keel-hq/keel?style=flat-square&color=yellow)](https://github.com/keel-hq/keel/stargazers) [![Forks](https://img.shields.io/github/forks/keel-hq/keel?style=flat-square&color=blue)](https://github.com/keel-hq/keel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 320 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Keel具有很高的生产可用性，主要原因是：
 | forks | 63/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 70/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

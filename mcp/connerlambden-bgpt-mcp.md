@@ -1,6 +1,6 @@
 # connerlambden/bgpt-mcp
 
-[![Stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat-square&color=yellow)](https://github.com/connerlambden/bgpt-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/connerlambden/bgpt-mcp?style=flat-square&color=blue)](https://github.com/connerlambden/bgpt-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat-square&color=yellow)](https://github.com/connerlambden/bgpt-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/connerlambden/bgpt-mcp?style=flat-square&color=blue)](https://github.com/connerlambden/bgpt-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Scientific paper search API for AI agents: REST, Python, OpenAPI, and MCP with structured full-text evidence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Database
+MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ connerlambden/bgpt-mcp 是一个面向 AI 代理的学术论文检索 API，提�
 | forks | 25/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

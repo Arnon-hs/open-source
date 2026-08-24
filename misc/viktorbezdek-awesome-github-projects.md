@@ -1,6 +1,6 @@
 # viktorbezdek/awesome-github-projects
 
-[![Stars](https://img.shields.io/github/stars/viktorbezdek/awesome-github-projects?style=flat-square&color=yellow)](https://github.com/viktorbezdek/awesome-github-projects/stargazers) [![Forks](https://img.shields.io/github/forks/viktorbezdek/awesome-github-projects?style=flat-square&color=blue)](https://github.com/viktorbezdek/awesome-github-projects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/viktorbezdek/awesome-github-projects?style=flat-square&color=yellow)](https://github.com/viktorbezdek/awesome-github-projects/stargazers) [![Forks](https://img.shields.io/github/forks/viktorbezdek/awesome-github-projects?style=flat-square&color=blue)](https://github.com/viktorbezdek/awesome-github-projects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of GitHub projects I starred over the years
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 831 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Here's a brief summary of the open-source project:
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

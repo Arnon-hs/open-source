@@ -1,6 +1,6 @@
 # vinta/hal-9000
 
-[![Stars](https://img.shields.io/github/stars/vinta/hal-9000?style=flat-square&color=yellow)](https://github.com/vinta/hal-9000/stargazers) [![Forks](https://img.shields.io/github/forks/vinta/hal-9000?style=flat-square&color=blue)](https://github.com/vinta/hal-9000/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinta/hal-9000?style=flat-square&color=yellow)](https://github.com/vinta/hal-9000/stargazers) [![Forks](https://img.shields.io/github/forks/vinta/hal-9000?style=flat-square&color=blue)](https://github.com/vinta/hal-9000/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated AI coding agent and dev environment automation for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ vinta/hal-9000 在生产环境中具有较高的可用性。它具有以下特�
 | forks | 34/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ciddwd/overlay-translator
 
-[![Stars](https://img.shields.io/github/stars/ciddwd/overlay-translator?style=flat-square&color=yellow)](https://github.com/ciddwd/overlay-translator/stargazers) [![Forks](https://img.shields.io/github/forks/ciddwd/overlay-translator?style=flat-square&color=blue)](https://github.com/ciddwd/overlay-translator/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ciddwd/overlay-translator?style=flat-square&color=yellow)](https://github.com/ciddwd/overlay-translator/stargazers) [![Forks](https://img.shields.io/github/forks/ciddwd/overlay-translator?style=flat-square&color=blue)](https://github.com/ciddwd/overlay-translator/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root Android real-time screen translator for games, visual novels, and manga. Supports on-device and cloud OCR, offline LLMs, multiple translation services, on-screen translations, and text-to-speech (TTS).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ ciddwd/overlay-translator 的生产可用性为中等（Medium），适合用于
 | forks | 29/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

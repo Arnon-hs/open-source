@@ -1,6 +1,6 @@
 # Green-PT/honey-for-devs
 
-[![Stars](https://img.shields.io/github/stars/Green-PT/honey-for-devs?style=flat-square&color=yellow)](https://github.com/Green-PT/honey-for-devs/stargazers) [![Forks](https://img.shields.io/github/forks/Green-PT/honey-for-devs?style=flat-square&color=blue)](https://github.com/Green-PT/honey-for-devs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Green-PT/honey-for-devs?style=flat-square&color=yellow)](https://github.com/Green-PT/honey-for-devs/stargazers) [![Forks](https://img.shields.io/github/forks/Green-PT/honey-for-devs?style=flat-square&color=blue)](https://github.com/Green-PT/honey-for-devs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs — write less code, less prose, and denser agent-to-agent handoffs (−53%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -125,14 +125,15 @@ Green‑PT 的 *Honey (I Shrunk the AI)* 是一套跨工具的编码能力插件
 | forks | 19/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

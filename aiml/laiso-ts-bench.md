@@ -1,6 +1,6 @@
 # laiso/ts-bench
 
-[![Stars](https://img.shields.io/github/stars/laiso/ts-bench?style=flat-square&color=yellow)](https://github.com/laiso/ts-bench/stargazers) [![Forks](https://img.shields.io/github/forks/laiso/ts-bench?style=flat-square&color=blue)](https://github.com/laiso/ts-bench/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laiso/ts-bench?style=flat-square&color=yellow)](https://github.com/laiso/ts-bench/stargazers) [![Forks](https://img.shields.io/github/forks/laiso/ts-bench?style=flat-square&color=blue)](https://github.com/laiso/ts-bench/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Benchmark CLI for comparing AI coding agents on TypeScript workloads.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Marketing
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ laiso/ts-bench 的生产可用性为中等（Medium）。它适合用于快速 p
 | forks | 28/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xemu-project/xemu
 
-[![Stars](https://img.shields.io/github/stars/xemu-project/xemu?style=flat-square&color=yellow)](https://github.com/xemu-project/xemu/stargazers) [![Forks](https://img.shields.io/github/forks/xemu-project/xemu?style=flat-square&color=blue)](https://github.com/xemu-project/xemu/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xemu-project/xemu?style=flat-square&color=yellow)](https://github.com/xemu-project/xemu/stargazers) [![Forks](https://img.shields.io/github/forks/xemu-project/xemu?style=flat-square&color=blue)](https://github.com/xemu-project/xemu/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 450 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ xemu（xemu-project/xemu）是一款开源的 Original Xbox 模拟器，支持 W
 | forks | 66/100 |
 | stars | 76/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 74/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

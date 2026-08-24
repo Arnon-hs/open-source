@@ -1,6 +1,6 @@
 # harleyszhang/lite_llama
 
-[![Stars](https://img.shields.io/github/stars/harleyszhang/lite_llama?style=flat-square&color=yellow)](https://github.com/harleyszhang/lite_llama/stargazers) [![Forks](https://img.shields.io/github/forks/harleyszhang/lite_llama?style=flat-square&color=blue)](https://github.com/harleyszhang/lite_llama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harleyszhang/lite_llama?style=flat-square&color=yellow)](https://github.com/harleyszhang/lite_llama/stargazers) [![Forks](https://img.shields.io/github/forks/harleyszhang/lite_llama?style=flat-square&color=blue)](https://github.com/harleyszhang/lite_llama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A light llama-like llm inference framework based on the triton kernel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ harleyszhang/lite_llama：harleyszhang/lite_llama helps add AI capability withou
 | forks | 38/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

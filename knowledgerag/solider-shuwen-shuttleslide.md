@@ -1,6 +1,6 @@
 # solider-shuwen/shuttleslide
 
-[![Stars](https://img.shields.io/github/stars/solider-shuwen/shuttleslide?style=flat-square&color=yellow)](https://github.com/solider-shuwen/shuttleslide/stargazers) [![Forks](https://img.shields.io/github/forks/solider-shuwen/shuttleslide?style=flat-square&color=blue)](https://github.com/solider-shuwen/shuttleslide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solider-shuwen/shuttleslide?style=flat-square&color=yellow)](https://github.com/solider-shuwen/shuttleslide/stargazers) [![Forks](https://img.shields.io/github/forks/solider-shuwen/shuttleslide?style=flat-square&color=blue)](https://github.com/solider-shuwen/shuttleslide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python toolkit for PowerPoint ↔ HTML, built for AI. Round-trip fidelity preserves formatting across every edit loop — ideal for RAG ingestion, LLM agents, and AI-assisted slide editing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · DevTools · Database
+Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ solider-shuwen/shuttleslide 的生产可用性为中等。它适合用于原型�
 | forks | 23/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

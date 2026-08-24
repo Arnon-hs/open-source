@@ -1,6 +1,6 @@
 # firstintent/ccteam
 
-[![Stars](https://img.shields.io/github/stars/firstintent/ccteam?style=flat-square&color=yellow)](https://github.com/firstintent/ccteam/stargazers) [![Forks](https://img.shields.io/github/forks/firstintent/ccteam?style=flat-square&color=blue)](https://github.com/firstintent/ccteam/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firstintent/ccteam?style=flat-square&color=yellow)](https://github.com/firstintent/ccteam/stargazers) [![Forks](https://img.shields.io/github/forks/firstintent/ccteam?style=flat-square&color=blue)](https://github.com/firstintent/ccteam/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > ccteam turns the coding agents you already run (Claude Code, Codex, Grok, Kimi…) into one team — any session can spawn, dispatch, and collect work from any vendor on any machine, while you steer it all from Telegram, Lark, or a browser tab. 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ firstintent/ccteam 帮助你在不从头搭建模型堆栈的情况下，添加 
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

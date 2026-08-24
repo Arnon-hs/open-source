@@ -1,6 +1,6 @@
 # wanxingai/LightAgent
 
-[![Stars](https://img.shields.io/github/stars/wanxingai/LightAgent?style=flat-square&color=yellow)](https://github.com/wanxingai/LightAgent/stargazers) [![Forks](https://img.shields.io/github/forks/wanxingai/LightAgent?style=flat-square&color=blue)](https://github.com/wanxingai/LightAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanxingai/LightAgent?style=flat-square&color=yellow)](https://github.com/wanxingai/LightAgent/stargazers) [![Forks](https://img.shields.io/github/forks/wanxingai/LightAgent?style=flat-square&color=blue)](https://github.com/wanxingai/LightAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · Education
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ LightAgent 是一套轻量级的 AI 代理框架，内置记忆、MCP（Multi‑
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # William-Lu-stack/Flawless
 
-[![Stars](https://img.shields.io/github/stars/William-Lu-stack/Flawless?style=flat-square&color=yellow)](https://github.com/William-Lu-stack/Flawless/stargazers) [![Forks](https://img.shields.io/github/forks/William-Lu-stack/Flawless?style=flat-square&color=blue)](https://github.com/William-Lu-stack/Flawless/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/William-Lu-stack/Flawless?style=flat-square&color=yellow)](https://github.com/William-Lu-stack/Flawless/stargazers) [![Forks](https://img.shields.io/github/forks/William-Lu-stack/Flawless?style=flat-square&color=blue)](https://github.com/William-Lu-stack/Flawless/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI SRE AgenticOps for Kubernetes and cloud infrastructure.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ William-Lu-stack/Flawless 的生产可用性非常高，主要原因是：
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

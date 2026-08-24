@@ -1,6 +1,6 @@
 # Savory/Danet
 
-[![Stars](https://img.shields.io/github/stars/Savory/Danet?style=flat-square&color=yellow)](https://github.com/Savory/Danet/stargazers) [![Forks](https://img.shields.io/github/forks/Savory/Danet?style=flat-square&color=blue)](https://github.com/Savory/Danet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Savory/Danet?style=flat-square&color=yellow)](https://github.com/Savory/Danet/stargazers) [![Forks](https://img.shields.io/github/forks/Savory/Danet?style=flat-square&color=blue)](https://github.com/Savory/Danet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Savory/Danet 是面向 Deno 的成熟后端框架，提供完整的 HTTP、WebSo
 | forks | 35/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # worldwonderer/novel-to-game
 
-[![Stars](https://img.shields.io/github/stars/worldwonderer/novel-to-game?style=flat-square&color=yellow)](https://github.com/worldwonderer/novel-to-game/stargazers) [![Forks](https://img.shields.io/github/forks/worldwonderer/novel-to-game?style=flat-square&color=blue)](https://github.com/worldwonderer/novel-to-game/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/worldwonderer/novel-to-game?style=flat-square&color=yellow)](https://github.com/worldwonderer/novel-to-game/stargazers) [![Forks](https://img.shields.io/github/forks/worldwonderer/novel-to-game?style=flat-square&color=blue)](https://github.com/worldwonderer/novel-to-game/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 将任何小说蒸馏为可玩的游戏 · Turn any novel/story into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 440 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ worldwonderer/novel-to-game 是一个开源项目，允许将小说转换为可�
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

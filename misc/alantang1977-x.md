@@ -1,6 +1,6 @@
 # alantang1977/X
 
-[![Stars](https://img.shields.io/github/stars/alantang1977/X?style=flat-square&color=yellow)](https://github.com/alantang1977/X/stargazers) [![Forks](https://img.shields.io/github/forks/alantang1977/X?style=flat-square&color=blue)](https://github.com/alantang1977/X/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alantang1977/X?style=flat-square&color=yellow)](https://github.com/alantang1977/X/stargazers) [![Forks](https://img.shields.io/github/forks/alantang1977/X?style=flat-square&color=blue)](https://github.com/alantang1977/X/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 如果喜欢，请点亮右上角星星，如有侵权请反馈！谢谢！免责声明：📛本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ alantang1977/X has a medium production readiness score, indicating that it may b
 | forks | 56/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

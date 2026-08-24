@@ -1,6 +1,6 @@
 # defiprime/defiprime1
 
-[![Stars](https://img.shields.io/github/stars/defiprime/defiprime1?style=flat-square&color=yellow)](https://github.com/defiprime/defiprime1/stargazers) [![Forks](https://img.shields.io/github/forks/defiprime/defiprime1?style=flat-square&color=blue)](https://github.com/defiprime/defiprime1/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/defiprime/defiprime1?style=flat-square&color=yellow)](https://github.com/defiprime/defiprime1/stargazers) [![Forks](https://img.shields.io/github/forks/defiprime/defiprime1?style=flat-square&color=blue)](https://github.com/defiprime/defiprime1/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > All things #DeFi - trustless and transparent financial products built on top of the blockchain.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | SCSS |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · Database · Product
+Crypto
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ defiprime/defiprime1 的生产可用性为中等（Medium）。它适合用于 p
 | forks | 47/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

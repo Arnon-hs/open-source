@@ -1,6 +1,6 @@
 # Dominic789654/awesome-deepseek-harness
 
-[![Stars](https://img.shields.io/github/stars/Dominic789654/awesome-deepseek-harness?style=flat-square&color=yellow)](https://github.com/Dominic789654/awesome-deepseek-harness/stargazers) [![Forks](https://img.shields.io/github/forks/Dominic789654/awesome-deepseek-harness?style=flat-square&color=blue)](https://github.com/Dominic789654/awesome-deepseek-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dominic789654/awesome-deepseek-harness?style=flat-square&color=yellow)](https://github.com/Dominic789654/awesome-deepseek-harness/stargazers) [![Forks](https://img.shields.io/github/forks/Dominic789654/awesome-deepseek-harness?style=flat-square&color=blue)](https://github.com/Dominic789654/awesome-deepseek-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Dominic789654/awesome-deepseek-harness 是一个开源项目，提供了一系�
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

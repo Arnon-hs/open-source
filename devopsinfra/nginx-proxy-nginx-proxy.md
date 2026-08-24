@@ -1,6 +1,6 @@
 # nginx-proxy/nginx-proxy
 
-[![Stars](https://img.shields.io/github/stars/nginx-proxy/nginx-proxy?style=flat-square&color=yellow)](https://github.com/nginx-proxy/nginx-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/nginx-proxy/nginx-proxy?style=flat-square&color=blue)](https://github.com/nginx-proxy/nginx-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nginx-proxy/nginx-proxy?style=flat-square&color=yellow)](https://github.com/nginx-proxy/nginx-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/nginx-proxy/nginx-proxy?style=flat-square&color=blue)](https://github.com/nginx-proxy/nginx-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Automated Nginx Reverse Proxy for Docker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.9k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ nginx‑proxy/nginx‑proxy 是一个自动化的 Nginx 反向代理工具，专
 | forks | 87/100 |
 | stars | 91/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # DGouron/review-flow
 
-[![Stars](https://img.shields.io/github/stars/DGouron/review-flow?style=flat-square&color=yellow)](https://github.com/DGouron/review-flow/stargazers) [![Forks](https://img.shields.io/github/forks/DGouron/review-flow?style=flat-square&color=blue)](https://github.com/DGouron/review-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DGouron/review-flow?style=flat-square&color=yellow)](https://github.com/DGouron/review-flow/stargazers) [![Forks](https://img.shields.io/github/forks/DGouron/review-flow?style=flat-square&color=blue)](https://github.com/DGouron/review-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Automated AI code reviews powered — webhook-driven, real-time dashboard, MCP integration, smart queue with deduplication, multi-agent audits, and iterative follow-up reviews for GitLab MRs and GitHub PRs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ DGouron/review-flow可以帮助将孤立的提示和工具转化为可重复的�
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

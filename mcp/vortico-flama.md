@@ -1,6 +1,6 @@
 # vortico/flama
 
-[![Stars](https://img.shields.io/github/stars/vortico/flama?style=flat-square&color=yellow)](https://github.com/vortico/flama/stargazers) [![Forks](https://img.shields.io/github/forks/vortico/flama?style=flat-square&color=blue)](https://github.com/vortico/flama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vortico/flama?style=flat-square&color=yellow)](https://github.com/vortico/flama/stargazers) [![Forks](https://img.shields.io/github/forks/vortico/flama?style=flat-square&color=blue)](https://github.com/vortico/flama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The production framework for Predictive and Generative AI. Serve any model as an API in one line, with OpenAI/Anthropic/Ollama-compatible endpoints, a built-in chat UI, and native MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · AI/ML · Backend · Design
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ vortico/flama 的生产可用性很高，尤其是考虑到它是一个开源项
 | forks | 31/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

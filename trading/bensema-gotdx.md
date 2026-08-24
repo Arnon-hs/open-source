@@ -1,6 +1,6 @@
 # bensema/gotdx
 
-[![Stars](https://img.shields.io/github/stars/bensema/gotdx?style=flat-square&color=yellow)](https://github.com/bensema/gotdx/stargazers) [![Forks](https://img.shields.io/github/forks/bensema/gotdx?style=flat-square&color=blue)](https://github.com/bensema/gotdx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bensema/gotdx?style=flat-square&color=yellow)](https://github.com/bensema/gotdx/stargazers) [![Forks](https://img.shields.io/github/forks/bensema/gotdx?style=flat-square&color=blue)](https://github.com/bensema/gotdx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 通达信行情API协议解析
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Backend
+Trading
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ bensema/gotdx 的生产可用性很高，主要原因是：
 | forks | 50/100 |
 | stars | 52/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

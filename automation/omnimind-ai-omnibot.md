@@ -1,6 +1,6 @@
 # omnimind-ai/OmniBot
 
-[![Stars](https://img.shields.io/github/stars/omnimind-ai/OmniBot?style=flat-square&color=yellow)](https://github.com/omnimind-ai/OmniBot/stargazers) [![Forks](https://img.shields.io/github/forks/omnimind-ai/OmniBot?style=flat-square&color=blue)](https://github.com/omnimind-ai/OmniBot/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnimind-ai/OmniBot?style=flat-square&color=yellow)](https://github.com/omnimind-ai/OmniBot/stargazers) [![Forks](https://img.shields.io/github/forks/omnimind-ai/OmniBot?style=flat-square&color=blue)](https://github.com/omnimind-ai/OmniBot/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Database · Mobile
+Automation · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ omnimind-ai/OmniBot 的生产可用性较高，主要原因是：
 | forks | 51/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

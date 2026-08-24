@@ -1,6 +1,6 @@
 # teableio/teable
 
-[![Stars](https://img.shields.io/github/stars/teableio/teable?style=flat-square&color=yellow)](https://github.com/teableio/teable/stargazers) [![Forks](https://img.shields.io/github/forks/teableio/teable?style=flat-square&color=blue)](https://github.com/teableio/teable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teableio/teable?style=flat-square&color=yellow)](https://github.com/teableio/teable/stargazers) [![Forks](https://img.shields.io/github/forks/teableio/teable?style=flat-square&color=blue)](https://github.com/teableio/teable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ AI Spreadsheet for Business
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Database · Marketing
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ teableio/teable 的生产可用性很高，主要理由是：
 | forks | 78/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 85/100 |
+| recency | 60/100 |
 | adoption | 88/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

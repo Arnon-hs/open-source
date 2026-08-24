@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-claude-fable-5
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/awesome-claude-fable-5?style=flat-square&color=yellow)](https://github.com/Anil-matcha/awesome-claude-fable-5/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/awesome-claude-fable-5?style=flat-square&color=blue)](https://github.com/Anil-matcha/awesome-claude-fable-5/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/awesome-claude-fable-5?style=flat-square&color=yellow)](https://github.com/Anil-matcha/awesome-claude-fable-5/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/awesome-claude-fable-5?style=flat-square&color=blue)](https://github.com/Anil-matcha/awesome-claude-fable-5/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Curated Claude Fable 5 use cases, tutorials, integrations, demos, and benchmark evidence with source links. Access Claude Fable 5 exclusively via MuAPI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Education
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Anil‑matcha/awesome‑claude‑fable‑5 汇总了 Claude Fable 5 的使�
 | forks | 45/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

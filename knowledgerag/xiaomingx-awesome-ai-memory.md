@@ -1,6 +1,6 @@
 # XiaomingX/awesome-ai-memory
 
-[![Stars](https://img.shields.io/github/stars/XiaomingX/awesome-ai-memory?style=flat-square&color=yellow)](https://github.com/XiaomingX/awesome-ai-memory/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/awesome-ai-memory?style=flat-square&color=blue)](https://github.com/XiaomingX/awesome-ai-memory/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaomingX/awesome-ai-memory?style=flat-square&color=yellow)](https://github.com/XiaomingX/awesome-ai-memory/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/awesome-ai-memory?style=flat-square&color=blue)](https://github.com/XiaomingX/awesome-ai-memory/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A list of AI memory projects（ AI长期记忆的开源和商业项目列表）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ XiaomingX/awesome-ai-memory 的价值在于它可以帮助：
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

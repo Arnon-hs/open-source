@@ -1,6 +1,6 @@
 # AmineDjeghri/personal-os-setup
 
-[![Stars](https://img.shields.io/github/stars/AmineDjeghri/personal-os-setup?style=flat-square&color=yellow)](https://github.com/AmineDjeghri/personal-os-setup/stargazers) [![Forks](https://img.shields.io/github/forks/AmineDjeghri/personal-os-setup?style=flat-square&color=blue)](https://github.com/AmineDjeghri/personal-os-setup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmineDjeghri/personal-os-setup?style=flat-square&color=yellow)](https://github.com/AmineDjeghri/personal-os-setup/stargazers) [![Forks](https://img.shields.io/github/forks/AmineDjeghri/personal-os-setup?style=flat-square&color=blue)](https://github.com/AmineDjeghri/personal-os-setup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An app and guide to easily configure Windows, Linux, MacOS, Google TV, Stremio, Home Assistant and more (including WSL2, GPU drivers & development tools). Improve your UX & productivity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 572 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Product
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ AmineDjeghri/personal‑os‑setup 是一个跨平台（Windows、Linux、macOS�
 | forks | 42/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sksamuel/scrimage
 
-[![Stars](https://img.shields.io/github/stars/sksamuel/scrimage?style=flat-square&color=yellow)](https://github.com/sksamuel/scrimage/stargazers) [![Forks](https://img.shields.io/github/forks/sksamuel/scrimage?style=flat-square&color=blue)](https://github.com/sksamuel/scrimage/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sksamuel/scrimage?style=flat-square&color=yellow)](https://github.com/sksamuel/scrimage/stargazers) [![Forks](https://img.shields.io/github/forks/sksamuel/scrimage?style=flat-square&color=blue)](https://github.com/sksamuel/scrimage/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > JVM - Java, Kotlin, Scala image processing library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,14 +122,15 @@ scrimage (sk​samuel/scrimage) is a JVM‑based image‑processing library writ
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

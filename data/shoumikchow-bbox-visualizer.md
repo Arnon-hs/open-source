@@ -1,6 +1,6 @@
 # shoumikchow/bbox-visualizer
 
-[![Stars](https://img.shields.io/github/stars/shoumikchow/bbox-visualizer?style=flat-square&color=yellow)](https://github.com/shoumikchow/bbox-visualizer/stargazers) [![Forks](https://img.shields.io/github/forks/shoumikchow/bbox-visualizer?style=flat-square&color=blue)](https://github.com/shoumikchow/bbox-visualizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shoumikchow/bbox-visualizer?style=flat-square&color=yellow)](https://github.com/shoumikchow/bbox-visualizer/stargazers) [![Forks](https://img.shields.io/github/forks/shoumikchow/bbox-visualizer?style=flat-square&color=blue)](https://github.com/shoumikchow/bbox-visualizer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Make drawing and labeling bounding boxes a piece of cake
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ shoumikchow/bbox-visualizer 的生产可用性评估为高。由于近期的活�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

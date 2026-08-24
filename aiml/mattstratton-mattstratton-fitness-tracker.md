@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ Don't Give the Model SQL：Don't Give the Model SQL helps add AI capability with
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

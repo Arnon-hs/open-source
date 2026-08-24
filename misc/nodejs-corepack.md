@@ -1,6 +1,6 @@
 # nodejs/corepack
 
-[![Stars](https://img.shields.io/github/stars/nodejs/corepack?style=flat-square&color=yellow)](https://github.com/nodejs/corepack/stargazers) [![Forks](https://img.shields.io/github/forks/nodejs/corepack?style=flat-square&color=blue)](https://github.com/nodejs/corepack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nodejs/corepack?style=flat-square&color=yellow)](https://github.com/nodejs/corepack/stargazers) [![Forks](https://img.shields.io/github/forks/nodejs/corepack?style=flat-square&color=blue)](https://github.com/nodejs/corepack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Package manager version manager for Node.js projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Node.js Corepack 的生产可用性非常高，主要原因是：
 | forks | 61/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

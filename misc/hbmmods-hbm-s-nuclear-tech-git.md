@@ -1,6 +1,6 @@
 # HbmMods/Hbm-s-Nuclear-Tech-GIT
 
-[![Stars](https://img.shields.io/github/stars/HbmMods/Hbm-s-Nuclear-Tech-GIT?style=flat-square&color=yellow)](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT/stargazers) [![Forks](https://img.shields.io/github/forks/HbmMods/Hbm-s-Nuclear-Tech-GIT?style=flat-square&color=blue)](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HbmMods/Hbm-s-Nuclear-Tech-GIT?style=flat-square&color=yellow)](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT/stargazers) [![Forks](https://img.shields.io/github/forks/HbmMods/Hbm-s-Nuclear-Tech-GIT?style=flat-square&color=blue)](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 892 |
 | 🍴 **Forks** | 479 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ If you need a fast way to experiment with nuclear mechanics in Minecraft, Hbm‑
 | forks | 67/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

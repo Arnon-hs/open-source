@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-agent-plugins
 
-[![Stars](https://img.shields.io/github/stars/SonarSource/sonarqube-agent-plugins?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarqube-agent-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarqube-agent-plugins?style=flat-square&color=blue)](https://github.com/SonarSource/sonarqube-agent-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SonarSource/sonarqube-agent-plugins?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarqube-agent-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarqube-agent-plugins?style=flat-square&color=blue)](https://github.com/SonarSource/sonarqube-agent-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > SonarQube Plugin for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ SonarSource/sonarqube‑agent‑plugins 为 SonarQube 平台提供即插即用�
 | forks | 15/100 |
 | stars | 42/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

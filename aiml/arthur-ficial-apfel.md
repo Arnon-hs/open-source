@@ -1,6 +1,6 @@
 # Arthur-Ficial/apfel
 
-[![Stars](https://img.shields.io/github/stars/Arthur-Ficial/apfel?style=flat-square&color=yellow)](https://github.com/Arthur-Ficial/apfel/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur-Ficial/apfel?style=flat-square&color=blue)](https://github.com/Arthur-Ficial/apfel/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur-Ficial/apfel?style=flat-square&color=yellow)](https://github.com/Arthur-Ficial/apfel/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur-Ficial/apfel?style=flat-square&color=blue)](https://github.com/Arthur-Ficial/apfel/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Design · Marketing
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Arthur‑Ficial/apfel 是一款运行在本地 Mac 上的免费 AI 解决方案�
 | forks | 58/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

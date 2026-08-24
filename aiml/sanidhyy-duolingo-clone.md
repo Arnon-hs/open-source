@@ -1,6 +1,6 @@
 # sanidhyy/duolingo-clone
 
-[![Stars](https://img.shields.io/github/stars/sanidhyy/duolingo-clone?style=flat-square&color=yellow)](https://github.com/sanidhyy/duolingo-clone/stargazers) [![Forks](https://img.shields.io/github/forks/sanidhyy/duolingo-clone?style=flat-square&color=blue)](https://github.com/sanidhyy/duolingo-clone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanidhyy/duolingo-clone?style=flat-square&color=yellow)](https://github.com/sanidhyy/duolingo-clone/stargazers) [![Forks](https://img.shields.io/github/forks/sanidhyy/duolingo-clone?style=flat-square&color=blue)](https://github.com/sanidhyy/duolingo-clone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Lingo - Interactive platform for language learning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database · Education
+AI/ML · Frontend · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ sanidhyy/duolingo-clone 帮助用户在不从头开始时添加 AI 能力。它�
 | forks | 64/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

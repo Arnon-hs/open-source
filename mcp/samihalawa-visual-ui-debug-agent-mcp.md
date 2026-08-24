@@ -1,6 +1,6 @@
 # samihalawa/visual-ui-debug-agent-mcp
 
-[![Stars](https://img.shields.io/github/stars/samihalawa/visual-ui-debug-agent-mcp?style=flat-square&color=yellow)](https://github.com/samihalawa/visual-ui-debug-agent-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/samihalawa/visual-ui-debug-agent-mcp?style=flat-square&color=blue)](https://github.com/samihalawa/visual-ui-debug-agent-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samihalawa/visual-ui-debug-agent-mcp?style=flat-square&color=yellow)](https://github.com/samihalawa/visual-ui-debug-agent-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/samihalawa/visual-ui-debug-agent-mcp?style=flat-square&color=blue)](https://github.com/samihalawa/visual-ui-debug-agent-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Visual UI testing and debugging MCP server with Playwright, screenshots, DOM inspection, workflow validation, and visual diffs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ samihalawa/visual-ui-debug-agent-mcp 是一个开源项目，用于可视化 UI 
 | forks | 23/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

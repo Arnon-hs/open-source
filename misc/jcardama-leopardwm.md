@@ -1,6 +1,6 @@
 # jcardama/LeopardWM
 
-[![Stars](https://img.shields.io/github/stars/jcardama/LeopardWM?style=flat-square&color=yellow)](https://github.com/jcardama/LeopardWM/stargazers) [![Forks](https://img.shields.io/github/forks/jcardama/LeopardWM?style=flat-square&color=blue)](https://github.com/jcardama/LeopardWM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jcardama/LeopardWM?style=flat-square&color=yellow)](https://github.com/jcardama/LeopardWM/stargazers) [![Forks](https://img.shields.io/github/forks/jcardama/LeopardWM?style=flat-square&color=blue)](https://github.com/jcardama/LeopardWM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A tiling window manager for Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ LeopardWM（jcardana/LeopardWM）是一款用 Rust 编写的 Windows 平铺式�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

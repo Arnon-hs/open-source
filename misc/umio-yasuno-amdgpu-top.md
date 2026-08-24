@@ -1,6 +1,6 @@
 # Umio-Yasuno/amdgpu_top
 
-[![Stars](https://img.shields.io/github/stars/Umio-Yasuno/amdgpu_top?style=flat-square&color=yellow)](https://github.com/Umio-Yasuno/amdgpu_top/stargazers) [![Forks](https://img.shields.io/github/forks/Umio-Yasuno/amdgpu_top?style=flat-square&color=blue)](https://github.com/Umio-Yasuno/amdgpu_top/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Umio-Yasuno/amdgpu_top?style=flat-square&color=yellow)](https://github.com/Umio-Yasuno/amdgpu_top/stargazers) [![Forks](https://img.shields.io/github/forks/Umio-Yasuno/amdgpu_top?style=flat-square&color=blue)](https://github.com/Umio-Yasuno/amdgpu_top/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Tool to display AMDGPU usage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ Umio‑Yasuno/amdgpu_top 是一个用 Rust 编写的轻量级命令行工具，�
 | forks | 44/100 |
 | stars | 69/100 |
 | topics | 25/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

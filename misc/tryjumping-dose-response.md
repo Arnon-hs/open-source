@@ -1,6 +1,6 @@
 # tryjumping/dose-response
 
-[![Stars](https://img.shields.io/github/stars/tryjumping/dose-response?style=flat-square&color=yellow)](https://github.com/tryjumping/dose-response/stargazers) [![Forks](https://img.shields.io/github/forks/tryjumping/dose-response?style=flat-square&color=blue)](https://github.com/tryjumping/dose-response/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tryjumping/dose-response?style=flat-square&color=yellow)](https://github.com/tryjumping/dose-response/stargazers) [![Forks](https://img.shields.io/github/forks/tryjumping/dose-response?style=flat-square&color=blue)](https://github.com/tryjumping/dose-response/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Dose Response is a roguelike where you play an addict. Avoid the dangers threatening your mind and body while desperately looking for the next fix.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ Dose‑Response (tryjumping/dose‑response) is an open‑source roguelike writt
 | forks | 21/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # justlovemaki/PrismFlowAgent
 
-[![Stars](https://img.shields.io/github/stars/justlovemaki/PrismFlowAgent?style=flat-square&color=yellow)](https://github.com/justlovemaki/PrismFlowAgent/stargazers) [![Forks](https://img.shields.io/github/forks/justlovemaki/PrismFlowAgent?style=flat-square&color=blue)](https://github.com/justlovemaki/PrismFlowAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justlovemaki/PrismFlowAgent?style=flat-square&color=yellow)](https://github.com/justlovemaki/PrismFlowAgent/stargazers) [![Forks](https://img.shields.io/github/forks/justlovemaki/PrismFlowAgent?style=flat-square&color=blue)](https://github.com/justlovemaki/PrismFlowAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 全栈资讯处理与 AI Agent 系统。它能够自动化地从全球多源渠道抓取高质量资讯，利用顶级大语言模型进行深度总结，并将其分发至多种终端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Prism
 | forks | 27/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

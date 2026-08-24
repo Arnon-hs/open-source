@@ -1,6 +1,6 @@
 # diffplug/spotless
 
-[![Stars](https://img.shields.io/github/stars/diffplug/spotless?style=flat-square&color=yellow)](https://github.com/diffplug/spotless/stargazers) [![Forks](https://img.shields.io/github/forks/diffplug/spotless?style=flat-square&color=blue)](https://github.com/diffplug/spotless/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diffplug/spotless?style=flat-square&color=yellow)](https://github.com/diffplug/spotless/stargazers) [![Forks](https://img.shields.io/github/forks/diffplug/spotless?style=flat-square&color=blue)](https://github.com/diffplug/spotless/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Keep your code spotless
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 551 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ diffplug/spotless 的生产可用性非常高，主要原因是：
 | forks | 69/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

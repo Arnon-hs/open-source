@@ -1,6 +1,6 @@
 # anyproto/anytype-mcp
 
-[![Stars](https://img.shields.io/github/stars/anyproto/anytype-mcp?style=flat-square&color=yellow)](https://github.com/anyproto/anytype-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/anyproto/anytype-mcp?style=flat-square&color=blue)](https://github.com/anyproto/anytype-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anyproto/anytype-mcp?style=flat-square&color=yellow)](https://github.com/anyproto/anytype-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/anyproto/anytype-mcp?style=flat-square&color=blue)](https://github.com/anyproto/anytype-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server enabling AI assistants to interact with Anytype - your encrypted, local and collaborative wiki - to organize objects, lists, and more through natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ anyproto/anytype-mcp 帮助连接 AI 助手与现实工具和数据，提供了�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

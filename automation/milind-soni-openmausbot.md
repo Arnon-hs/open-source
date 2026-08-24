@@ -1,6 +1,6 @@
 # milind-soni/OpenMausBot
 
-[![Stars](https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&color=yellow)](https://github.com/milind-soni/OpenMausBot/stargazers) [![Forks](https://img.shields.io/github/forks/milind-soni/OpenMausBot?style=flat-square&color=blue)](https://github.com/milind-soni/OpenMausBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&color=yellow)](https://github.com/milind-soni/OpenMausBot/stargazers) [![Forks](https://img.shields.io/github/forks/milind-soni/OpenMausBot?style=flat-square&color=blue)](https://github.com/milind-soni/OpenMausBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Alternative to Grok Bot with a virtual machine that bots can use
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ OpenMausBot 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 58/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

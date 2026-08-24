@@ -1,6 +1,6 @@
 # klauspost/compress
 
-[![Stars](https://img.shields.io/github/stars/klauspost/compress?style=flat-square&color=yellow)](https://github.com/klauspost/compress/stargazers) [![Forks](https://img.shields.io/github/forks/klauspost/compress?style=flat-square&color=blue)](https://github.com/klauspost/compress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/klauspost/compress?style=flat-square&color=yellow)](https://github.com/klauspost/compress/stargazers) [![Forks](https://img.shields.io/github/forks/klauspost/compress?style=flat-square&color=blue)](https://github.com/klauspost/compress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Optimized Go Compression Packages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ klauspost/compress具有高生产可用性，主要原因是：
 | forks | 65/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dotnet/machinelearning
 
-[![Stars](https://img.shields.io/github/stars/dotnet/machinelearning?style=flat-square&color=yellow)](https://github.com/dotnet/machinelearning/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/machinelearning?style=flat-square&color=blue)](https://github.com/dotnet/machinelearning/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/machinelearning?style=flat-square&color=yellow)](https://github.com/dotnet/machinelearning/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/machinelearning?style=flat-square&color=blue)](https://github.com/dotnet/machinelearning/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ML.NET is an open source and cross-platform machine learning framework for .NET.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ dotnet/machinelearning 在生产环境中的可用性很高。项目有强烈的
 | forks | 82/100 |
 | stars | 84/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

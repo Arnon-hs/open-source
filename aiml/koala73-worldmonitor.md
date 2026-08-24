@@ -1,6 +1,6 @@
 # koala73/worldmonitor
 
-[![Stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=flat-square&color=yellow)](https://github.com/koala73/worldmonitor/stargazers) [![Forks](https://img.shields.io/github/forks/koala73/worldmonitor?style=flat-square&color=blue)](https://github.com/koala73/worldmonitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=flat-square&color=yellow)](https://github.com/koala73/worldmonitor/stargazers) [![Forks](https://img.shields.io/github/forks/koala73/worldmonitor?style=flat-square&color=blue)](https://github.com/koala73/worldmonitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58.6k |
 | 🍴 **Forks** | 9.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Observability · DevOps/Infra
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ koala73/worldmonitor：koala73/worldmonitor helps add AI capability without star
 | forks | 99/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tomtom-international/tomtom-maps-mcp
 
-[![Stars](https://img.shields.io/github/stars/tomtom-international/tomtom-maps-mcp?style=flat-square&color=yellow)](https://github.com/tomtom-international/tomtom-maps-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tomtom-international/tomtom-maps-mcp?style=flat-square&color=blue)](https://github.com/tomtom-international/tomtom-maps-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomtom-international/tomtom-maps-mcp?style=flat-square&color=yellow)](https://github.com/tomtom-international/tomtom-maps-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tomtom-international/tomtom-maps-mcp?style=flat-square&color=blue)](https://github.com/tomtom-international/tomtom-maps-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server providing TomTom's location services, search, routing, and traffic data to AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ tomtom‑international/tomtom-maps-mcp 是一个基于 **Model Context Protocol 
 | forks | 34/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

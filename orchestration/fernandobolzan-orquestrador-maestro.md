@@ -1,6 +1,6 @@
 # FernandoBolzan/Orquestrador-Maestro
 
-[![Stars](https://img.shields.io/github/stars/FernandoBolzan/Orquestrador-Maestro?style=flat-square&color=yellow)](https://github.com/FernandoBolzan/Orquestrador-Maestro/stargazers) [![Forks](https://img.shields.io/github/forks/FernandoBolzan/Orquestrador-Maestro?style=flat-square&color=blue)](https://github.com/FernandoBolzan/Orquestrador-Maestro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FernandoBolzan/Orquestrador-Maestro?style=flat-square&color=yellow)](https://github.com/FernandoBolzan/Orquestrador-Maestro/stargazers) [![Forks](https://img.shields.io/github/forks/FernandoBolzan/Orquestrador-Maestro?style=flat-square&color=blue)](https://github.com/FernandoBolzan/Orquestrador-Maestro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, OpenCode, Cursor, Gemini and Windsurf.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ FernandoBolzan/Orquestrador-Maestro 是一个跨平台（Windows、Linux/macOS�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

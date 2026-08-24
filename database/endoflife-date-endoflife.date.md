@@ -1,6 +1,6 @@
 # endoflife-date/endoflife.date
 
-[![Stars](https://img.shields.io/github/stars/endoflife-date/endoflife.date?style=flat-square&color=yellow)](https://github.com/endoflife-date/endoflife.date/stargazers) [![Forks](https://img.shields.io/github/forks/endoflife-date/endoflife.date?style=flat-square&color=blue)](https://github.com/endoflife-date/endoflife.date/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endoflife-date/endoflife.date?style=flat-square&color=yellow)](https://github.com/endoflife-date/endoflife.date/stargazers) [![Forks](https://img.shields.io/github/forks/endoflife-date/endoflife.date?style=flat-square&color=blue)](https://github.com/endoflife-date/endoflife.date/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Informative site with EoL dates of everything
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ endoflife-date/endoflife.date 的生产可用性很高，理由如下：
 | forks | 78/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

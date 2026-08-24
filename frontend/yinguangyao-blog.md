@@ -1,6 +1,6 @@
 # yinguangyao/blog
 
-[![Stars](https://img.shields.io/github/stars/yinguangyao/blog?style=flat-square&color=yellow)](https://github.com/yinguangyao/blog/stargazers) [![Forks](https://img.shields.io/github/forks/yinguangyao/blog?style=flat-square&color=blue)](https://github.com/yinguangyao/blog/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yinguangyao/blog?style=flat-square&color=yellow)](https://github.com/yinguangyao/blog/stargazers) [![Forks](https://img.shields.io/github/forks/yinguangyao/blog?style=flat-square&color=blue)](https://github.com/yinguangyao/blog/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 关于 JavaScript 前端开发、工作经验的一点点总结。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ yinguangyao/blog 有很高的生产可用性。项目最近有活动，采用广
 | forks | 28/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

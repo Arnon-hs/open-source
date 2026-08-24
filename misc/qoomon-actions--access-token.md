@@ -1,6 +1,6 @@
 # qoomon/actions--access-token
 
-[![Stars](https://img.shields.io/github/stars/qoomon/actions--access-token?style=flat-square&color=yellow)](https://github.com/qoomon/actions--access-token/stargazers) [![Forks](https://img.shields.io/github/forks/qoomon/actions--access-token?style=flat-square&color=blue)](https://github.com/qoomon/actions--access-token/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qoomon/actions--access-token?style=flat-square&color=yellow)](https://github.com/qoomon/actions--access-token/stargazers) [![Forks](https://img.shields.io/github/forks/qoomon/actions--access-token?style=flat-square&color=blue)](https://github.com/qoomon/actions--access-token/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Get rid of personal access tokens (PAT) and credential management, use temporary GitHub Application access tokens instead!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ As for the production readiness of this project, it is rated as "Medium". This i
 | forks | 33/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

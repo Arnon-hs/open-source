@@ -1,6 +1,6 @@
 # kantord/headson
 
-[![Stars](https://img.shields.io/github/stars/kantord/headson?style=flat-square&color=yellow)](https://github.com/kantord/headson/stargazers) [![Forks](https://img.shields.io/github/forks/kantord/headson?style=flat-square&color=blue)](https://github.com/kantord/headson/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kantord/headson?style=flat-square&color=yellow)](https://github.com/kantord/headson/stargazers) [![Forks](https://img.shields.io/github/forks/kantord/headson?style=flat-square&color=blue)](https://github.com/kantord/headson/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > head/tail for structured data - summarize/preview JSON/YAML and source code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data · Database · Marketing
+AI/ML · DevTools · Data
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ kantord/headson 的生产可用性较高，主要原因是：
 | forks | 21/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

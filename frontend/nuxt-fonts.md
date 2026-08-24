@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ nuxt/fonts：nuxt/fonts helps ship user-facing interfaces with less custom UI wo
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

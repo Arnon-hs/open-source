@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -71,6 +71,7 @@ Show HN: MiniMax H3 on a 16GB Mac, 5 days after open weights：Show HN: MiniMax 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # anyofai/claude-pro
 
-[![Stars](https://img.shields.io/github/stars/anyofai/claude-pro?style=flat-square&color=yellow)](https://github.com/anyofai/claude-pro/stargazers) [![Forks](https://img.shields.io/github/forks/anyofai/claude-pro?style=flat-square&color=blue)](https://github.com/anyofai/claude-pro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anyofai/claude-pro?style=flat-square&color=yellow)](https://github.com/anyofai/claude-pro/stargazers) [![Forks](https://img.shields.io/github/forks/anyofai/claude-pro?style=flat-square&color=blue)](https://github.com/anyofai/claude-pro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 2026年最新Claude充值订阅攻略，包括Claude注册、Claude账号购买、Claude拼车合租、Claude Pro代充、Claude Code国内使用教程！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ anyofai/claude-pro 是一套 2026 年最新的 Claude 充值与使用攻略合�
 | forks | 46/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

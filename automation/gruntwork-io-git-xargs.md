@@ -1,6 +1,6 @@
 # gruntwork-io/git-xargs
 
-[![Stars](https://img.shields.io/github/stars/gruntwork-io/git-xargs?style=flat-square&color=yellow)](https://github.com/gruntwork-io/git-xargs/stargazers) [![Forks](https://img.shields.io/github/forks/gruntwork-io/git-xargs?style=flat-square&color=blue)](https://github.com/gruntwork-io/git-xargs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gruntwork-io/git-xargs?style=flat-square&color=yellow)](https://github.com/gruntwork-io/git-xargs/stargazers) [![Forks](https://img.shields.io/github/forks/gruntwork-io/git-xargs?style=flat-square&color=blue)](https://github.com/gruntwork-io/git-xargs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Product
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -121,14 +121,15 @@ git-xargs 的生产可用性很高，主要原因是：
 | forks | 47/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

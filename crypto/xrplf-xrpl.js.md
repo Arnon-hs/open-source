@@ -1,6 +1,6 @@
 # XRPLF/xrpl.js
 
-[![Stars](https://img.shields.io/github/stars/XRPLF/xrpl.js?style=flat-square&color=yellow)](https://github.com/XRPLF/xrpl.js/stargazers) [![Forks](https://img.shields.io/github/forks/XRPLF/xrpl.js?style=flat-square&color=blue)](https://github.com/XRPLF/xrpl.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XRPLF/xrpl.js?style=flat-square&color=yellow)](https://github.com/XRPLF/xrpl.js/stargazers) [![Forks](https://img.shields.io/github/forks/XRPLF/xrpl.js?style=flat-square&color=blue)](https://github.com/XRPLF/xrpl.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript/TypeScript API for interacting with the XRP Ledger in Node.js and the browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 580 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ XRPLF/xrpl.js 是一个面向 Node.js 与浏览器的 JavaScript/TypeScript SDK�
 | forks | 69/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

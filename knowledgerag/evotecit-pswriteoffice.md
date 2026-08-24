@@ -1,6 +1,6 @@
 # EvotecIT/PSWriteOffice
 
-[![Stars](https://img.shields.io/github/stars/EvotecIT/PSWriteOffice?style=flat-square&color=yellow)](https://github.com/EvotecIT/PSWriteOffice/stargazers) [![Forks](https://img.shields.io/github/forks/EvotecIT/PSWriteOffice?style=flat-square&color=blue)](https://github.com/EvotecIT/PSWriteOffice/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvotecIT/PSWriteOffice?style=flat-square&color=yellow)](https://github.com/EvotecIT/PSWriteOffice/stargazers) [![Forks](https://img.shields.io/github/forks/EvotecIT/PSWriteOffice?style=flat-square&color=blue)](https://github.com/EvotecIT/PSWriteOffice/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MIT-licensed PowerShell document automation for Word, Excel, PowerPoint, PDF, email, PST/OST, OneNote, Visio, OpenDocument, and mixed-format Reader workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Database
+Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ EvotecIT/PSWriteOffice 的生产可用性为中等（Medium），适合用于原
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

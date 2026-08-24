@@ -1,6 +1,6 @@
 # kamyu104/LeetCode-Solutions
 
-[![Stars](https://img.shields.io/github/stars/kamyu104/LeetCode-Solutions?style=flat-square&color=yellow)](https://github.com/kamyu104/LeetCode-Solutions/stargazers) [![Forks](https://img.shields.io/github/forks/kamyu104/LeetCode-Solutions?style=flat-square&color=blue)](https://github.com/kamyu104/LeetCode-Solutions/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kamyu104/LeetCode-Solutions?style=flat-square&color=yellow)](https://github.com/kamyu104/LeetCode-Solutions/stargazers) [![Forks](https://img.shields.io/github/forks/kamyu104/LeetCode-Solutions?style=flat-square&color=blue)](https://github.com/kamyu104/LeetCode-Solutions/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🏋️ Python / Modern C++ Solutions of All 3920 LeetCode Problems (Weekly Update)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ kamyu104/LeetCode-Solutions 是一个开源仓库，收录了 **Python 与 Moder
 | forks | 81/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 80/100 |
-| production | 83/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

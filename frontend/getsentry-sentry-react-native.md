@@ -1,6 +1,6 @@
 # getsentry/sentry-react-native
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-react-native?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-react-native?style=flat-square&color=blue)](https://github.com/getsentry/sentry-react-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-react-native?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-react-native?style=flat-square&color=blue)](https://github.com/getsentry/sentry-react-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Official Sentry SDK for React Native
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Mobile · Product
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ getsentry/sentry-react-native 是一个开源项目，提供了 Sentry SDK 的 R
 | forks | 64/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # OtterMind/Nubase
 
-[![Stars](https://img.shields.io/github/stars/OtterMind/Nubase?style=flat-square&color=yellow)](https://github.com/OtterMind/Nubase/stargazers) [![Forks](https://img.shields.io/github/forks/OtterMind/Nubase?style=flat-square&color=blue)](https://github.com/OtterMind/Nubase/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OtterMind/Nubase?style=flat-square&color=yellow)](https://github.com/OtterMind/Nubase/stargazers) [![Forks](https://img.shields.io/github/forks/OtterMind/Nubase?style=flat-square&color=blue)](https://github.com/OtterMind/Nubase/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 440 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend · DevTools · Data
+Knowledge/RAG · AI/ML · DevTools · Database · Security
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Nubase（OtterMind/Nubase）是一款开源、AI 原生的后端平台，提供�
 | forks | 40/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

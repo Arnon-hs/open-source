@@ -1,6 +1,6 @@
 # SimplyLiz/ckb
 
-[![Stars](https://img.shields.io/github/stars/SimplyLiz/ckb?style=flat-square&color=yellow)](https://github.com/SimplyLiz/ckb/stargazers) [![Forks](https://img.shields.io/github/forks/SimplyLiz/ckb?style=flat-square&color=blue)](https://github.com/SimplyLiz/ckb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimplyLiz/ckb?style=flat-square&color=yellow)](https://github.com/SimplyLiz/ckb/stargazers) [![Forks](https://img.shields.io/github/forks/SimplyLiz/ckb?style=flat-square&color=blue)](https://github.com/SimplyLiz/ckb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Code intelligence for AI assistants - MCP server, CLI, and HTTP API with symbol navigation, impact analysis, and architecture mapping
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ SimplyLiz/ckb 是一套面向 AI 助手的代码情报平台，提供 MCP 服务
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

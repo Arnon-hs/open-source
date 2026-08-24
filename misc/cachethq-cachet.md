@@ -1,6 +1,6 @@
 # cachethq/cachet
 
-[![Stars](https://img.shields.io/github/stars/cachethq/cachet?style=flat-square&color=yellow)](https://github.com/cachethq/cachet/stargazers) [![Forks](https://img.shields.io/github/forks/cachethq/cachet?style=flat-square&color=blue)](https://github.com/cachethq/cachet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cachethq/cachet?style=flat-square&color=yellow)](https://github.com/cachethq/cachet/stargazers) [![Forks](https://img.shields.io/github/forks/cachethq/cachet?style=flat-square&color=blue)](https://github.com/cachethq/cachet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🚦 Cachet, the open source, self-hosted status page system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Cachet 的生产可用性是高的，因为它有以下优势：
 | forks | 80/100 |
 | stars | 89/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

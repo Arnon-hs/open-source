@@ -1,6 +1,6 @@
 # apache/tomee
 
-[![Stars](https://img.shields.io/github/stars/apache/tomee?style=flat-square&color=yellow)](https://github.com/apache/tomee/stargazers) [![Forks](https://img.shields.io/github/forks/apache/tomee?style=flat-square&color=blue)](https://github.com/apache/tomee/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/tomee?style=flat-square&color=yellow)](https://github.com/apache/tomee/stargazers) [![Forks](https://img.shields.io/github/forks/apache/tomee?style=flat-square&color=blue)](https://github.com/apache/tomee/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Apache TomEE
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 694 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Apache TomEE 在生产环境中可用性为中等（Medium）。它适合用于�
 | forks | 71/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # openkursar-flynn/build-ai-agent-platform
 
-[![Stars](https://img.shields.io/github/stars/openkursar-flynn/build-ai-agent-platform?style=flat-square&color=yellow)](https://github.com/openkursar-flynn/build-ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar-flynn/build-ai-agent-platform?style=flat-square&color=blue)](https://github.com/openkursar-flynn/build-ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openkursar-flynn/build-ai-agent-platform?style=flat-square&color=yellow)](https://github.com/openkursar-flynn/build-ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar-flynn/build-ai-agent-platform?style=flat-square&color=blue)](https://github.com/openkursar-flynn/build-ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 《如何从零构建 7×24 小时 AI Agent》—— 拆解 30 万行真实 AI Agent 平台的技术书
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database · Education
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ openkursar-flynn/build-ai-agent-platform 是一个开源项目，提供了一个
 | forks | 24/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

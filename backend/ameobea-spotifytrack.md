@@ -1,6 +1,6 @@
 # Ameobea/spotifytrack
 
-[![Stars](https://img.shields.io/github/stars/Ameobea/spotifytrack?style=flat-square&color=yellow)](https://github.com/Ameobea/spotifytrack/stargazers) [![Forks](https://img.shields.io/github/forks/Ameobea/spotifytrack?style=flat-square&color=blue)](https://github.com/Ameobea/spotifytrack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ameobea/spotifytrack?style=flat-square&color=yellow)](https://github.com/Ameobea/spotifytrack/stargazers) [![Forks](https://img.shields.io/github/forks/Ameobea/spotifytrack?style=flat-square&color=blue)](https://github.com/Ameobea/spotifytrack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A personal homepage showing users' top songs and artists, providing a shareable link that they can use to show it off to friends.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Ameobea/spotifytrack 帮助团队重用服务基础设施，减少重复工作�
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # FossifyOrg/Phone
 
-[![Stars](https://img.shields.io/github/stars/FossifyOrg/Phone?style=flat-square&color=yellow)](https://github.com/FossifyOrg/Phone/stargazers) [![Forks](https://img.shields.io/github/forks/FossifyOrg/Phone?style=flat-square&color=blue)](https://github.com/FossifyOrg/Phone/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FossifyOrg/Phone?style=flat-square&color=yellow)](https://github.com/FossifyOrg/Phone/stargazers) [![Forks](https://img.shields.io/github/forks/FossifyOrg/Phone?style=flat-square&color=blue)](https://github.com/FossifyOrg/Phone/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A handy phone call manager with phonebook, number blocking and multi-SIM support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ FossifyOrg/Phone的
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

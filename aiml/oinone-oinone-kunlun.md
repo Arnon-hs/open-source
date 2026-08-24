@@ -1,6 +1,6 @@
 # oinone/oinone-kunlun
 
-[![Stars](https://img.shields.io/github/stars/oinone/oinone-kunlun?style=flat-square&color=yellow)](https://github.com/oinone/oinone-kunlun/stargazers) [![Forks](https://img.shields.io/github/forks/oinone/oinone-kunlun?style=flat-square&color=blue)](https://github.com/oinone/oinone-kunlun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oinone/oinone-kunlun?style=flat-square&color=yellow)](https://github.com/oinone/oinone-kunlun/stargazers) [![Forks](https://img.shields.io/github/forks/oinone/oinone-kunlun?style=flat-square&color=blue)](https://github.com/oinone/oinone-kunlun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Oinone is an AI‑Powered low‑code framework that unifies AI and developers around a shared metadata model to build maintainable, evolvable, high‑quality enterprise intelligent applications.[AI Coding][Vibe Coding][Framework][Low Code]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Oinone/Kunlun 是一个 AI 驱动的低代码框架，通过共享元数据模�
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

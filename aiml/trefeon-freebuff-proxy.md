@@ -1,6 +1,6 @@
 # trefeon/freebuff-proxy
 
-[![Stars](https://img.shields.io/github/stars/trefeon/freebuff-proxy?style=flat-square&color=yellow)](https://github.com/trefeon/freebuff-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/trefeon/freebuff-proxy?style=flat-square&color=blue)](https://github.com/trefeon/freebuff-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trefeon/freebuff-proxy?style=flat-square&color=yellow)](https://github.com/trefeon/freebuff-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/trefeon/freebuff-proxy?style=flat-square&color=blue)](https://github.com/trefeon/freebuff-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Marketing
+AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ trefeon/freebuff-proxy 帮助开发者快速添加 AI 能力，而不需要从�
 | forks | 33/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

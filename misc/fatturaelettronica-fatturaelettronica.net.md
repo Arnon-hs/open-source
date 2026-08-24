@@ -1,6 +1,6 @@
 # FatturaElettronica/FatturaElettronica.NET
 
-[![Stars](https://img.shields.io/github/stars/FatturaElettronica/FatturaElettronica.NET?style=flat-square&color=yellow)](https://github.com/FatturaElettronica/FatturaElettronica.NET/stargazers) [![Forks](https://img.shields.io/github/forks/FatturaElettronica/FatturaElettronica.NET?style=flat-square&color=blue)](https://github.com/FatturaElettronica/FatturaElettronica.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FatturaElettronica/FatturaElettronica.NET?style=flat-square&color=yellow)](https://github.com/FatturaElettronica/FatturaElettronica.NET/stargazers) [![Forks](https://img.shields.io/github/forks/FatturaElettronica/FatturaElettronica.NET?style=flat-square&color=blue)](https://github.com/FatturaElettronica/FatturaElettronica.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Fattura Elettronica per le aziende e la Pubblica Amministrazione Italiana
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ FatturaElettronica/FatturaElettronica
 | forks | 46/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

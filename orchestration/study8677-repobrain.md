@@ -1,6 +1,6 @@
 # study8677/repobrain
 
-[![Stars](https://img.shields.io/github/stars/study8677/repobrain?style=flat-square&color=yellow)](https://github.com/study8677/repobrain/stargazers) [![Forks](https://img.shields.io/github/forks/study8677/repobrain?style=flat-square&color=blue)](https://github.com/study8677/repobrain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/study8677/repobrain?style=flat-square&color=yellow)](https://github.com/study8677/repobrain/stargazers) [![Forks](https://img.shields.io/github/forks/study8677/repobrain?style=flat-square&color=blue)](https://github.com/study8677/repobrain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ RepoBrain 的生产可用性很高，它具有以下特点：
 | forks | 60/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 85/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

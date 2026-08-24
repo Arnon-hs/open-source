@@ -1,6 +1,6 @@
 # umputun/cc-thingz
 
-[![Stars](https://img.shields.io/github/stars/umputun/cc-thingz?style=flat-square&color=yellow)](https://github.com/umputun/cc-thingz/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/cc-thingz?style=flat-square&color=blue)](https://github.com/umputun/cc-thingz/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umputun/cc-thingz?style=flat-square&color=yellow)](https://github.com/umputun/cc-thingz/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/cc-thingz?style=flat-square&color=blue)](https://github.com/umputun/cc-thingz/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > various things for claude code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 356 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ umputun/cc-thingz is a collection of miscellaneous utilities and scripts written
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

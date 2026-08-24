@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ yusufklncc/Hackintosh-for-All-Computers：yusufklncc/Hackintosh-for-All-Computer
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

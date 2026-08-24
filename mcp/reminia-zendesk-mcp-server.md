@@ -1,6 +1,6 @@
 # reminia/zendesk-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/reminia/zendesk-mcp-server?style=flat-square&color=yellow)](https://github.com/reminia/zendesk-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/reminia/zendesk-mcp-server?style=flat-square&color=blue)](https://github.com/reminia/zendesk-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reminia/zendesk-mcp-server?style=flat-square&color=yellow)](https://github.com/reminia/zendesk-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/reminia/zendesk-mcp-server?style=flat-square&color=blue)](https://github.com/reminia/zendesk-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol server for Zendesk
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ reminia/zendesk-mcp-server 是一个用于 Zendesk 的 Model Context Protocol �
 | forks | 48/100 |
 | stars | 44/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

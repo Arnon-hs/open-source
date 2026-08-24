@@ -1,6 +1,6 @@
 # aldefy/compose-skill
 
-[![Stars](https://img.shields.io/github/stars/aldefy/compose-skill?style=flat-square&color=yellow)](https://github.com/aldefy/compose-skill/stargazers) [![Forks](https://img.shields.io/github/forks/aldefy/compose-skill?style=flat-square&color=blue)](https://github.com/aldefy/compose-skill/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aldefy/compose-skill?style=flat-square&color=yellow)](https://github.com/aldefy/compose-skill/stargazers) [![Forks](https://img.shields.io/github/forks/aldefy/compose-skill?style=flat-square&color=blue)](https://github.com/aldefy/compose-skill/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code receipts. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot, Windsurf, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database · Mobile
+AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ aldefy/compose-skill 的生产可用性较高，主要原因是：
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

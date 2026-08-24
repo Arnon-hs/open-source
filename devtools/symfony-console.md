@@ -1,6 +1,6 @@
 # symfony/console
 
-[![Stars](https://img.shields.io/github/stars/symfony/console?style=flat-square&color=yellow)](https://github.com/symfony/console/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/console?style=flat-square&color=blue)](https://github.com/symfony/console/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symfony/console?style=flat-square&color=yellow)](https://github.com/symfony/console/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/console?style=flat-square&color=blue)](https://github.com/symfony/console/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Eases the creation of beautiful and testable command line interfaces
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Symfony Console — это проверенный набор компоне�
 | forks | 61/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

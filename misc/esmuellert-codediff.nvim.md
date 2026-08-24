@@ -1,6 +1,6 @@
 # esmuellert/codediff.nvim
 
-[![Stars](https://img.shields.io/github/stars/esmuellert/codediff.nvim?style=flat-square&color=yellow)](https://github.com/esmuellert/codediff.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/esmuellert/codediff.nvim?style=flat-square&color=blue)](https://github.com/esmuellert/codediff.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esmuellert/codediff.nvim?style=flat-square&color=yellow)](https://github.com/esmuellert/codediff.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/esmuellert/codediff.nvim?style=flat-square&color=blue)](https://github.com/esmuellert/codediff.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ esmuellert/codediff.nvim 可能在以下场景中有价值：
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 78/100 |
-| usefulness | 42/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

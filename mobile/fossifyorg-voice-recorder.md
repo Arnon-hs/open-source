@@ -1,6 +1,6 @@
 # FossifyOrg/Voice-Recorder
 
-[![Stars](https://img.shields.io/github/stars/FossifyOrg/Voice-Recorder?style=flat-square&color=yellow)](https://github.com/FossifyOrg/Voice-Recorder/stargazers) [![Forks](https://img.shields.io/github/forks/FossifyOrg/Voice-Recorder?style=flat-square&color=blue)](https://github.com/FossifyOrg/Voice-Recorder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FossifyOrg/Voice-Recorder?style=flat-square&color=yellow)](https://github.com/FossifyOrg/Voice-Recorder/stargazers) [![Forks](https://img.shields.io/github/forks/FossifyOrg/Voice-Recorder?style=flat-square&color=blue)](https://github.com/FossifyOrg/Voice-Recorder/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An easy way of recording any discussion or sounds without ads or internet access
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 939 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ FossifyOrg/Voice-Recorder 的价值在于它提供了一个免费、无广告的
 | forks | 49/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

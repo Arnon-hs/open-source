@@ -1,6 +1,6 @@
 # kotlin-telegram-bot/kotlin-telegram-bot
 
-[![Stars](https://img.shields.io/github/stars/kotlin-telegram-bot/kotlin-telegram-bot?style=flat-square&color=yellow)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot/stargazers) [![Forks](https://img.shields.io/github/forks/kotlin-telegram-bot/kotlin-telegram-bot?style=flat-square&color=blue)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kotlin-telegram-bot/kotlin-telegram-bot?style=flat-square&color=yellow)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot/stargazers) [![Forks](https://img.shields.io/github/forks/kotlin-telegram-bot/kotlin-telegram-bot?style=flat-square&color=blue)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A wrapper for the Telegram Bot API written in Kotlin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 965 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ kotlin‑telegram‑bot 为 Telegram Bot API 提供了 Kotlin 原生封装，能
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

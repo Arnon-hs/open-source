@@ -1,6 +1,6 @@
 # ably/ably-js
 
-[![Stars](https://img.shields.io/github/stars/ably/ably-js?style=flat-square&color=yellow)](https://github.com/ably/ably-js/stargazers) [![Forks](https://img.shields.io/github/forks/ably/ably-js?style=flat-square&color=blue)](https://github.com/ably/ably-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ably/ably-js?style=flat-square&color=yellow)](https://github.com/ably/ably-js/stargazers) [![Forks](https://img.shields.io/github/forks/ably/ably-js?style=flat-square&color=blue)](https://github.com/ably/ably-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Javascript, Node, Typescript, React, React Native client library SDK for Ably realtime messaging service
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Ably/Ably-js 的生产可用性很高，原因如下：
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

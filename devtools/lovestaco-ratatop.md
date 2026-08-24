@@ -1,6 +1,6 @@
 # lovestaco/ratatop
 
-[![Stars](https://img.shields.io/github/stars/lovestaco/ratatop?style=flat-square&color=yellow)](https://github.com/lovestaco/ratatop/stargazers) [![Forks](https://img.shields.io/github/forks/lovestaco/ratatop?style=flat-square&color=blue)](https://github.com/lovestaco/ratatop/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lovestaco/ratatop?style=flat-square&color=yellow)](https://github.com/lovestaco/ratatop/stargazers) [![Forks](https://img.shields.io/github/forks/lovestaco/ratatop?style=flat-square&color=blue)](https://github.com/lovestaco/ratatop/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag programming): ratatop: the network box, and why your ISP lies with units
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ ratatop 的生产可用性为中等。它适合用于原型设计或内部工作
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 35/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

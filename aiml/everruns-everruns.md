@@ -1,6 +1,6 @@
 # everruns/everruns
 
-[![Stars](https://img.shields.io/github/stars/everruns/everruns?style=flat-square&color=yellow)](https://github.com/everruns/everruns/stargazers) [![Forks](https://img.shields.io/github/forks/everruns/everruns?style=flat-square&color=blue)](https://github.com/everruns/everruns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/everruns/everruns?style=flat-square&color=yellow)](https://github.com/everruns/everruns/stargazers) [![Forks](https://img.shields.io/github/forks/everruns/everruns?style=flat-square&color=blue)](https://github.com/everruns/everruns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Headless durable agentic harness engine. Run durable AI agents reliably and scalably.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ everruns/everruns 提供了一个 **无头（headless）且持久（durable）�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 50/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zammad/zammad-docker-compose
 
-[![Stars](https://img.shields.io/github/stars/zammad/zammad-docker-compose?style=flat-square&color=yellow)](https://github.com/zammad/zammad-docker-compose/stargazers) [![Forks](https://img.shields.io/github/forks/zammad/zammad-docker-compose?style=flat-square&color=blue)](https://github.com/zammad/zammad-docker-compose/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zammad/zammad-docker-compose?style=flat-square&color=yellow)](https://github.com/zammad/zammad-docker-compose/stargazers) [![Forks](https://img.shields.io/github/forks/zammad/zammad-docker-compose?style=flat-square&color=blue)](https://github.com/zammad/zammad-docker-compose/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Zammad Docker images for docker-compose & Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ zammad/zammad-docker-compose 是一个开源项目，提供了 Zammad 的 Docker
 | forks | 64/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

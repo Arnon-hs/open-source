@@ -1,6 +1,6 @@
 # redhat-developer/lsp4ij
 
-[![Stars](https://img.shields.io/github/stars/redhat-developer/lsp4ij?style=flat-square&color=yellow)](https://github.com/redhat-developer/lsp4ij/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-developer/lsp4ij?style=flat-square&color=blue)](https://github.com/redhat-developer/lsp4ij/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redhat-developer/lsp4ij?style=flat-square&color=yellow)](https://github.com/redhat-developer/lsp4ij/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-developer/lsp4ij?style=flat-square&color=blue)](https://github.com/redhat-developer/lsp4ij/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > LSP & DAP Client for IntelliJ
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ LSP4ij 的生产可用性较高，原因有以下几点：
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

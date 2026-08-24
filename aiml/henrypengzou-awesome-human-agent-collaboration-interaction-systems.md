@@ -1,6 +1,6 @@
 # HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems
 
-[![Stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=flat-square&color=yellow)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/stargazers) [![Forks](https://img.shields.io/github/forks/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=flat-square&color=blue)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=flat-square&color=yellow)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/stargazers) [![Forks](https://img.shields.io/github/forks/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=flat-square&color=blue)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > [ACL 2026] LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | Awesome Human-Agent Collaboration | Human-AI Collaboration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ The project is considered to be at medium production readiness, making it suitab
 | forks | 29/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

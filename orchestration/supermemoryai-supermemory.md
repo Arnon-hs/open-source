@@ -1,6 +1,6 @@
 # supermemoryai/supermemory
 
-[![Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=flat-square&color=yellow)](https://github.com/supermemoryai/supermemory/stargazers) [![Forks](https://img.shields.io/github/forks/supermemoryai/supermemory?style=flat-square&color=blue)](https://github.com/supermemoryai/supermemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=flat-square&color=yellow)](https://github.com/supermemoryai/supermemory/stargazers) [![Forks](https://img.shields.io/github/forks/supermemoryai/supermemory?style=flat-square&color=blue)](https://github.com/supermemoryai/supermemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.7k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · Database
+Orchestration · AI/ML · Database
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Supermemory 的生产可用性很高，最近有活跃的开发和采用，强�
 | forks | 85/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 86/100 |
+| recency | 60/100 |
 | adoption | 92/100 |
-| production | 85/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

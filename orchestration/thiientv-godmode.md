@@ -1,6 +1,6 @@
 # thiientv/godmode
 
-[![Stars](https://img.shields.io/github/stars/thiientv/godmode?style=flat-square&color=yellow)](https://github.com/thiientv/godmode/stargazers) [![Forks](https://img.shields.io/github/forks/thiientv/godmode?style=flat-square&color=blue)](https://github.com/thiientv/godmode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thiientv/godmode?style=flat-square&color=yellow)](https://github.com/thiientv/godmode/stargazers) [![Forks](https://img.shields.io/github/forks/thiientv/godmode?style=flat-square&color=blue)](https://github.com/thiientv/godmode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ thiientv/godmode 在生产环境中具有较高的可用性。根据项目
 | forks | 48/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SOVEREIGN-NET/The-Sovereign-Network
 
-[![Stars](https://img.shields.io/github/stars/SOVEREIGN-NET/The-Sovereign-Network?style=flat-square&color=yellow)](https://github.com/SOVEREIGN-NET/The-Sovereign-Network/stargazers) [![Forks](https://img.shields.io/github/forks/SOVEREIGN-NET/The-Sovereign-Network?style=flat-square&color=blue)](https://github.com/SOVEREIGN-NET/The-Sovereign-Network/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SOVEREIGN-NET/The-Sovereign-Network?style=flat-square&color=yellow)](https://github.com/SOVEREIGN-NET/The-Sovereign-Network/stargazers) [![Forks](https://img.shields.io/github/forks/SOVEREIGN-NET/The-Sovereign-Network?style=flat-square&color=blue)](https://github.com/SOVEREIGN-NET/The-Sovereign-Network/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Zero Knowledge Hypertext Transfer Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ SOVEREIGN-NET（The Sovereign Network）是一套基于零知识（Zero‑Knowle
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 37/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 67/100 |
+| production | 41/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

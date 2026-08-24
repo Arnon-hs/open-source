@@ -1,6 +1,6 @@
 # AmbireTech/extension
 
-[![Stars](https://img.shields.io/github/stars/AmbireTech/extension?style=flat-square&color=yellow)](https://github.com/AmbireTech/extension/stargazers) [![Forks](https://img.shields.io/github/forks/AmbireTech/extension?style=flat-square&color=blue)](https://github.com/AmbireTech/extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmbireTech/extension?style=flat-square&color=yellow)](https://github.com/AmbireTech/extension/stargazers) [![Forks](https://img.shields.io/github/forks/AmbireTech/extension?style=flat-square&color=blue)](https://github.com/AmbireTech/extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Your Web3 Wallet that just works. EIP-7702 ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ AmbireTech/extension 的生产可用性为中等，适合用于原型开发或�
 | forks | 37/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

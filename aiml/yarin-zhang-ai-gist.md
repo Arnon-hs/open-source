@@ -1,6 +1,6 @@
 # yarin-zhang/AI-Gist
 
-[![Stars](https://img.shields.io/github/stars/yarin-zhang/AI-Gist?style=flat-square&color=yellow)](https://github.com/yarin-zhang/AI-Gist/stargazers) [![Forks](https://img.shields.io/github/forks/yarin-zhang/AI-Gist?style=flat-square&color=blue)](https://github.com/yarin-zhang/AI-Gist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yarin-zhang/AI-Gist?style=flat-square&color=yellow)](https://github.com/yarin-zhang/AI-Gist/stargazers) [![Forks](https://img.shields.io/github/forks/yarin-zhang/AI-Gist?style=flat-square&color=blue)](https://github.com/yarin-zhang/AI-Gist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 833 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ AI‑Gist（yarin-zhang/AI‑Gist）是一款以隐私为先的 AI 提示词管�
 | forks | 47/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

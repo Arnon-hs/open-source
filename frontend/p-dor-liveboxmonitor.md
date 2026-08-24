@@ -1,6 +1,6 @@
 # p-dor/LiveboxMonitor
 
-[![Stars](https://img.shields.io/github/stars/p-dor/LiveboxMonitor?style=flat-square&color=yellow)](https://github.com/p-dor/LiveboxMonitor/stargazers) [![Forks](https://img.shields.io/github/forks/p-dor/LiveboxMonitor?style=flat-square&color=blue)](https://github.com/p-dor/LiveboxMonitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p-dor/LiveboxMonitor?style=flat-square&color=yellow)](https://github.com/p-dor/LiveboxMonitor/stargazers) [![Forks](https://img.shields.io/github/forks/p-dor/LiveboxMonitor?style=flat-square&color=blue)](https://github.com/p-dor/LiveboxMonitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Interface graphique de contrôle d'une Livebox 4, 5, 6, 7, W7 ou S
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ p-dor/LiveboxMonitor 的生产可用性为中等。该项目适合用于原型�
 | forks | 37/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

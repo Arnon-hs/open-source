@@ -1,6 +1,6 @@
 # qingmeng1/bilijump-ai
 
-[![Stars](https://img.shields.io/github/stars/qingmeng1/bilijump-ai?style=flat-square&color=yellow)](https://github.com/qingmeng1/bilijump-ai/stargazers) [![Forks](https://img.shields.io/github/forks/qingmeng1/bilijump-ai?style=flat-square&color=blue)](https://github.com/qingmeng1/bilijump-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qingmeng1/bilijump-ai?style=flat-square&color=yellow)](https://github.com/qingmeng1/bilijump-ai/stargazers) [![Forks](https://img.shields.io/github/forks/qingmeng1/bilijump-ai?style=flat-square&color=blue)](https://github.com/qingmeng1/bilijump-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 一个使用 AI 自动跳过 Bilibili 视频植入广告的扩展程序。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 420 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ qingmeng1/bilijump-ai：qingmeng1/bilijump-ai helps add AI capability without st
 | forks | 33/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

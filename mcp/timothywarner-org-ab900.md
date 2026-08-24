@@ -1,6 +1,6 @@
 # timothywarner-org/ab900
 
-[![Stars](https://img.shields.io/github/stars/timothywarner-org/ab900?style=flat-square&color=yellow)](https://github.com/timothywarner-org/ab900/stargazers) [![Forks](https://img.shields.io/github/forks/timothywarner-org/ab900?style=flat-square&color=blue)](https://github.com/timothywarner-org/ab900/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timothywarner-org/ab900?style=flat-square&color=yellow)](https://github.com/timothywarner-org/ab900/stargazers) [![Forks](https://img.shields.io/github/forks/timothywarner-org/ab900?style=flat-square&color=blue)](https://github.com/timothywarner-org/ab900/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AB-900 exam prep + AI study buddy | O'Reilly Live Learning course materials, distilled Microsoft Learn content, and a GitHub Copilot agent that generates practice questions, scenario walkthroughs, and personalized study plans
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Education
+MCP · AI/ML · Backend · Education
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ timothywarner-org/ab900 的价值在于，它帮助连接 AI 助手到实用的�
 | forks | 29/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # omdsh-dev/DSH-better-sidebar
 
-[![Stars](https://img.shields.io/github/stars/omdsh-dev/DSH-better-sidebar?style=flat-square&color=yellow)](https://github.com/omdsh-dev/DSH-better-sidebar/stargazers) [![Forks](https://img.shields.io/github/forks/omdsh-dev/DSH-better-sidebar?style=flat-square&color=blue)](https://github.com/omdsh-dev/DSH-better-sidebar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omdsh-dev/DSH-better-sidebar?style=flat-square&color=yellow)](https://github.com/omdsh-dev/DSH-better-sidebar/stargazers) [![Forks](https://img.shields.io/github/forks/omdsh-dev/DSH-better-sidebar?style=flat-square&color=blue)](https://github.com/omdsh-dev/DSH-better-sidebar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ omdsh-dev/DSH-better-sidebar：omdsh-dev/DSH-better-sidebar may be useful when i
 | forks | 53/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

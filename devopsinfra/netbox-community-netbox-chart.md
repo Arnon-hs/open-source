@@ -1,6 +1,6 @@
 # netbox-community/netbox-chart
 
-[![Stars](https://img.shields.io/github/stars/netbox-community/netbox-chart?style=flat-square&color=yellow)](https://github.com/netbox-community/netbox-chart/stargazers) [![Forks](https://img.shields.io/github/forks/netbox-community/netbox-chart?style=flat-square&color=blue)](https://github.com/netbox-community/netbox-chart/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netbox-community/netbox-chart?style=flat-square&color=yellow)](https://github.com/netbox-community/netbox-chart/stargazers) [![Forks](https://img.shields.io/github/forks/netbox-community/netbox-chart?style=flat-square&color=blue)](https://github.com/netbox-community/netbox-chart/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Helm chart for NetBox
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ NetBox-Chart 的生产可用性为中等（Medium）。它适合于用于原型�
 | forks | 57/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

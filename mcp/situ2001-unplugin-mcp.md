@@ -1,6 +1,6 @@
 # situ2001/unplugin-mcp
 
-[![Stars](https://img.shields.io/github/stars/situ2001/unplugin-mcp?style=flat-square&color=yellow)](https://github.com/situ2001/unplugin-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/situ2001/unplugin-mcp?style=flat-square&color=blue)](https://github.com/situ2001/unplugin-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/situ2001/unplugin-mcp?style=flat-square&color=yellow)](https://github.com/situ2001/unplugin-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/situ2001/unplugin-mcp?style=flat-square&color=blue)](https://github.com/situ2001/unplugin-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A unified plugin for developers integrating MCP servers into modern JavaScript build tools, including Webpack, Rollup, Vite, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ situ2001/unplugin-mcp 已经有较高的生产可用性。根据评分，它在�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # electkismet/eltdx
 
-[![Stars](https://img.shields.io/github/stars/electkismet/eltdx?style=flat-square&color=yellow)](https://github.com/electkismet/eltdx/stargazers) [![Forks](https://img.shields.io/github/forks/electkismet/eltdx?style=flat-square&color=blue)](https://github.com/electkismet/eltdx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electkismet/eltdx?style=flat-square&color=yellow)](https://github.com/electkismet/eltdx/stargazers) [![Forks](https://img.shields.io/github/forks/electkismet/eltdx?style=flat-square&color=blue)](https://github.com/electkismet/eltdx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 通达信A股行情协议 Python 库，MCP，支持快照、分时、逐笔、K 线、集合竞价等接口、量化数据接口，支持MCP给Agent用
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Data
+MCP · Data
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ electkismet/eltdx 是一个开源项目，提供了一个通达信A股行情协�
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # summer-rs/summer-rs
 
-[![Stars](https://img.shields.io/github/stars/summer-rs/summer-rs?style=flat-square&color=yellow)](https://github.com/summer-rs/summer-rs/stargazers) [![Forks](https://img.shields.io/github/forks/summer-rs/summer-rs?style=flat-square&color=blue)](https://github.com/summer-rs/summer-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/summer-rs/summer-rs?style=flat-square&color=yellow)](https://github.com/summer-rs/summer-rs/stargazers) [![Forks](https://img.shields.io/github/forks/summer-rs/summer-rs?style=flat-square&color=blue)](https://github.com/summer-rs/summer-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🍃spring-rs is a application framework written in rust inspired by java's spring-boot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 957 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ summer‑rs 是一个用 Rust 编写的应用框架，受 Java Spring‑Boot 启
 | forks | 43/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

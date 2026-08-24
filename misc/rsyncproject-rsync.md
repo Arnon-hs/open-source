@@ -1,6 +1,6 @@
 # RsyncProject/rsync
 
-[![Stars](https://img.shields.io/github/stars/RsyncProject/rsync?style=flat-square&color=yellow)](https://github.com/RsyncProject/rsync/stargazers) [![Forks](https://img.shields.io/github/forks/RsyncProject/rsync?style=flat-square&color=blue)](https://github.com/RsyncProject/rsync/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RsyncProject/rsync?style=flat-square&color=yellow)](https://github.com/RsyncProject/rsync/stargazers) [![Forks](https://img.shields.io/github/forks/RsyncProject/rsync?style=flat-square&color=blue)](https://github.com/RsyncProject/rsync/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 588 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ RsyncProject/rsync 的生产可用性为中等（Medium）。它可以用于内�
 | forks | 69/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

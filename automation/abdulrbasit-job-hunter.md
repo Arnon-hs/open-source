@@ -1,6 +1,6 @@
 # abdulrbasit/job-hunter
 
-[![Stars](https://img.shields.io/github/stars/abdulrbasit/job-hunter?style=flat-square&color=yellow)](https://github.com/abdulrbasit/job-hunter/stargazers) [![Forks](https://img.shields.io/github/forks/abdulrbasit/job-hunter?style=flat-square&color=blue)](https://github.com/abdulrbasit/job-hunter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abdulrbasit/job-hunter?style=flat-square&color=yellow)](https://github.com/abdulrbasit/job-hunter/stargazers) [![Forks](https://img.shields.io/github/forks/abdulrbasit/job-hunter?style=flat-square&color=blue)](https://github.com/abdulrbasit/job-hunter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Automate your job search — find listings, score fit, tailor your resume, and draft cover letters with AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ abdulrbasit/job‑hunter 是一款基于 AI 的求职自动化工具，能够批
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

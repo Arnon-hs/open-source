@@ -1,6 +1,6 @@
 # myYangyunfan/dsh_desktop
 
-[![Stars](https://img.shields.io/github/stars/myYangyunfan/dsh_desktop?style=flat-square&color=yellow)](https://github.com/myYangyunfan/dsh_desktop/stargazers) [![Forks](https://img.shields.io/github/forks/myYangyunfan/dsh_desktop?style=flat-square&color=blue)](https://github.com/myYangyunfan/dsh_desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/myYangyunfan/dsh_desktop?style=flat-square&color=yellow)](https://github.com/myYangyunfan/dsh_desktop/stargazers) [![Forks](https://img.shields.io/github/forks/myYangyunfan/dsh_desktop?style=flat-square&color=blue)](https://github.com/myYangyunfan/dsh_desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ myYangyunfan/dsh_desktop 帮助您在不从零开始搭建模型堆栈的情况�
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

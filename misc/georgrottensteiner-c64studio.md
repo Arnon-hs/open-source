@@ -1,6 +1,6 @@
 # GeorgRottensteiner/C64Studio
 
-[![Stars](https://img.shields.io/github/stars/GeorgRottensteiner/C64Studio?style=flat-square&color=yellow)](https://github.com/GeorgRottensteiner/C64Studio/stargazers) [![Forks](https://img.shields.io/github/forks/GeorgRottensteiner/C64Studio?style=flat-square&color=blue)](https://github.com/GeorgRottensteiner/C64Studio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GeorgRottensteiner/C64Studio?style=flat-square&color=yellow)](https://github.com/GeorgRottensteiner/C64Studio/stargazers) [![Forks](https://img.shields.io/github/forks/GeorgRottensteiner/C64Studio?style=flat-square&color=blue)](https://github.com/GeorgRottensteiner/C64Studio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > C64Studio is a .NET based IDE specializing in game development for the C64 in assembler and BASIC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ GeorgRottensteiner/C64Studio：GeorgRottensteiner/C64Studio may be useful when i
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

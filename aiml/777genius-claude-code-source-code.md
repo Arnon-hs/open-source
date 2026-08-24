@@ -1,6 +1,6 @@
 # 777genius/claude-code-source-code
 
-[![Stars](https://img.shields.io/github/stars/777genius/claude-code-source-code?style=flat-square&color=yellow)](https://github.com/777genius/claude-code-source-code/stargazers) [![Forks](https://img.shields.io/github/forks/777genius/claude-code-source-code?style=flat-square&color=blue)](https://github.com/777genius/claude-code-source-code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/777genius/claude-code-source-code?style=flat-square&color=yellow)](https://github.com/777genius/claude-code-source-code/stargazers) [![Forks](https://img.shields.io/github/forks/777genius/claude-code-source-code?style=flat-square&color=blue)](https://github.com/777genius/claude-code-source-code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Claude code source code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 919 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Claude Code 源码项目是由 777genius 开源的 AI 能力集成项目。它�
 | forks | 76/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

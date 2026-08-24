@@ -1,6 +1,6 @@
 # microsoft/waza
 
-[![Stars](https://img.shields.io/github/stars/microsoft/waza?style=flat-square&color=yellow)](https://github.com/microsoft/waza/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/waza?style=flat-square&color=blue)](https://github.com/microsoft/waza/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/waza?style=flat-square&color=yellow)](https://github.com/microsoft/waza/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/waza?style=flat-square&color=blue)](https://github.com/microsoft/waza/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · DevTools
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Microsoft Waza 的生产可用性为中等水平。它适合用于原型或内�
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

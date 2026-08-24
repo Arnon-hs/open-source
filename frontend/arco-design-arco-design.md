@@ -1,6 +1,6 @@
 # arco-design/arco-design
 
-[![Stars](https://img.shields.io/github/stars/arco-design/arco-design?style=flat-square&color=yellow)](https://github.com/arco-design/arco-design/stargazers) [![Forks](https://img.shields.io/github/forks/arco-design/arco-design?style=flat-square&color=blue)](https://github.com/arco-design/arco-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arco-design/arco-design?style=flat-square&color=yellow)](https://github.com/arco-design/arco-design/stargazers) [![Forks](https://img.shields.io/github/forks/arco-design/arco-design?style=flat-square&color=blue)](https://github.com/arco-design/arco-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive React UI components library based on Arco Design
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 725 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ arco-design/arco-design 具有高生产可用性，主要原因包括：
 | forks | 72/100 |
 | stars | 80/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 78/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

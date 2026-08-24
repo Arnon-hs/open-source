@@ -1,6 +1,6 @@
 # Jamie-Cui/magent
 
-[![Stars](https://img.shields.io/github/stars/Jamie-Cui/magent?style=flat-square&color=yellow)](https://github.com/Jamie-Cui/magent/stargazers) [![Forks](https://img.shields.io/github/forks/Jamie-Cui/magent?style=flat-square&color=blue)](https://github.com/Jamie-Cui/magent/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jamie-Cui/magent?style=flat-square&color=yellow)](https://github.com/Jamie-Cui/magent/stargazers) [![Forks](https://img.shields.io/github/forks/Jamie-Cui/magent?style=flat-square&color=blue)](https://github.com/Jamie-Cui/magent/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An Emacs Lisp AI coding agent with multi-agent architecture, permission-based tool access, and LLM integration via gptel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Jamie-Cui/magent 的生产可用性为中等水平，适合用于原型开发或
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # paiml/paiml-mcp-agent-toolkit
 
-[![Stars](https://img.shields.io/github/stars/paiml/paiml-mcp-agent-toolkit?style=flat-square&color=yellow)](https://github.com/paiml/paiml-mcp-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/paiml/paiml-mcp-agent-toolkit?style=flat-square&color=blue)](https://github.com/paiml/paiml-mcp-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paiml/paiml-mcp-agent-toolkit?style=flat-square&color=yellow)](https://github.com/paiml/paiml-mcp-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/paiml/paiml-mcp-agent-toolkit?style=flat-square&color=blue)](https://github.com/paiml/paiml-mcp-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Design
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -128,14 +128,15 @@ Pragmatic AI Labs MCP Agent Toolkit（`paiml/paiml-mcp-agent-toolkit`）是一�
 | forks | 36/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

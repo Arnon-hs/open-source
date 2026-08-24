@@ -1,6 +1,6 @@
 # jrnl-org/jrnl
 
-[![Stars](https://img.shields.io/github/stars/jrnl-org/jrnl?style=flat-square&color=yellow)](https://github.com/jrnl-org/jrnl/stargazers) [![Forks](https://img.shields.io/github/forks/jrnl-org/jrnl?style=flat-square&color=blue)](https://github.com/jrnl-org/jrnl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jrnl-org/jrnl?style=flat-square&color=yellow)](https://github.com/jrnl-org/jrnl/stargazers) [![Forks](https://img.shields.io/github/forks/jrnl-org/jrnl?style=flat-square&color=blue)](https://github.com/jrnl-org/jrnl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Collect your thoughts and notes without leaving the command line.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 548 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ jrnl（jrnl‑org/jrnl）是一款基于命令行的轻量笔记本工具，帮�
 | forks | 68/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
 | adoption | 78/100 |
-| production | 82/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

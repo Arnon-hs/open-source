@@ -1,6 +1,6 @@
 # depado/gin-auth-example
 
-[![Stars](https://img.shields.io/github/stars/depado/gin-auth-example?style=flat-square&color=yellow)](https://github.com/depado/gin-auth-example/stargazers) [![Forks](https://img.shields.io/github/forks/depado/gin-auth-example?style=flat-square&color=blue)](https://github.com/depado/gin-auth-example/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/depado/gin-auth-example?style=flat-square&color=yellow)](https://github.com/depado/gin-auth-example/stargazers) [![Forks](https://img.shields.io/github/forks/depado/gin-auth-example?style=flat-square&color=blue)](https://github.com/depado/gin-auth-example/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Example cookie-based authentication with Gin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Security · Education
+Security
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ depado/gin-auth-example 是一个基于 Gin 框架的开源示例项目，展示
 | forks | 38/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

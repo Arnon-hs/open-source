@@ -1,6 +1,6 @@
 # Teradata/teradata-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/Teradata/teradata-mcp-server?style=flat-square&color=yellow)](https://github.com/Teradata/teradata-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Teradata/teradata-mcp-server?style=flat-square&color=blue)](https://github.com/Teradata/teradata-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Teradata/teradata-mcp-server?style=flat-square&color=yellow)](https://github.com/Teradata/teradata-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Teradata/teradata-mcp-server?style=flat-square&color=blue)](https://github.com/Teradata/teradata-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The community development of a MCP server for a Teradata database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend · Data · Database
+MCP · Database
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ Teradata/teradata-mcp-server：Teradata/teradata-mcp-server helps connect AI ass
 | forks | 44/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

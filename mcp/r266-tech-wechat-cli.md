@@ -1,6 +1,6 @@
 # r266-tech/wechat-cli
 
-[![Stars](https://img.shields.io/github/stars/r266-tech/wechat-cli?style=flat-square&color=yellow)](https://github.com/r266-tech/wechat-cli/stargazers) [![Forks](https://img.shields.io/github/forks/r266-tech/wechat-cli?style=flat-square&color=blue)](https://github.com/r266-tech/wechat-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r266-tech/wechat-cli?style=flat-square&color=yellow)](https://github.com/r266-tech/wechat-cli/stargazers) [![Forks](https://img.shields.io/github/forks/r266-tech/wechat-cli?style=flat-square&color=blue)](https://github.com/r266-tech/wechat-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > WeChat/微信 local chat history MCP server for macOS agents. Read messages, contacts, media, favorites, transfers, red packets, Moments and full-text search from local WeChat 4.x data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ r266-tech/wechat-cli 是一个用于 macOS 的 WeChat 本地聊天历史 MCP 服
 | forks | 33/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

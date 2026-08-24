@@ -1,6 +1,6 @@
 # uw-syfi/TraceLab
 
-[![Stars](https://img.shields.io/github/stars/uw-syfi/TraceLab?style=flat-square&color=yellow)](https://github.com/uw-syfi/TraceLab/stargazers) [![Forks](https://img.shields.io/github/forks/uw-syfi/TraceLab?style=flat-square&color=blue)](https://github.com/uw-syfi/TraceLab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uw-syfi/TraceLab?style=flat-square&color=yellow)](https://github.com/uw-syfi/TraceLab/stargazers) [![Forks](https://img.shields.io/github/forks/uw-syfi/TraceLab?style=flat-square&color=blue)](https://github.com/uw-syfi/TraceLab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An open toolkit and public dataset hub for collecting, sanitizing, analyzing, and visualizing coding agent traces.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra
+AI/ML
 
 ## 📝 Summary
 
@@ -87,14 +87,15 @@ TraceLab 的生产可用性为中等。它适合用于 prototyping 或内部工�
 | forks | 25/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

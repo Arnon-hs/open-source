@@ -1,6 +1,6 @@
 # GiovanniPasq/agentic-rag-for-dummies
 
-[![Stars](https://img.shields.io/github/stars/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=yellow)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/stargazers) [![Forks](https://img.shields.io/github/forks/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=blue)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=yellow)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/stargazers) [![Forks](https://img.shields.io/github/forks/GiovanniPasq/agentic-rag-for-dummies?style=flat-square&color=blue)](https://github.com/GiovanniPasq/agentic-rag-for-dummies/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 486 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ GiovanniPasq/agentic-rag-for-dummies 的价值在于，它可以帮助你标准�
 | forks | 67/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

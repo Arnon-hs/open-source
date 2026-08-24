@@ -1,6 +1,6 @@
 # arabold/docs-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/arabold/docs-mcp-server?style=flat-square&color=yellow)](https://github.com/arabold/docs-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/arabold/docs-mcp-server?style=flat-square&color=blue)](https://github.com/arabold/docs-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arabold/docs-mcp-server?style=flat-square&color=yellow)](https://github.com/arabold/docs-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/arabold/docs-mcp-server?style=flat-square&color=blue)](https://github.com/arabold/docs-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Grounded Docs MCP Server 的生产可用性为高，其最近的活动、采用�
 | forks | 56/100 |
 | stars | 68/100 |
 | topics | 88/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

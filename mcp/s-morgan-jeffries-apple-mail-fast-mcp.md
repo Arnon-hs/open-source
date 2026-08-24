@@ -1,6 +1,6 @@
 # s-morgan-jeffries/apple-mail-fast-mcp
 
-[![Stars](https://img.shields.io/github/stars/s-morgan-jeffries/apple-mail-fast-mcp?style=flat-square&color=yellow)](https://github.com/s-morgan-jeffries/apple-mail-fast-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/s-morgan-jeffries/apple-mail-fast-mcp?style=flat-square&color=blue)](https://github.com/s-morgan-jeffries/apple-mail-fast-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s-morgan-jeffries/apple-mail-fast-mcp?style=flat-square&color=yellow)](https://github.com/s-morgan-jeffries/apple-mail-fast-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/s-morgan-jeffries/apple-mail-fast-mcp?style=flat-square&color=blue)](https://github.com/s-morgan-jeffries/apple-mail-fast-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 MCP server for Apple Mail - Manage emails with AI using Claude Desktop. Search, send, organize mail with natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ To adopt s-morgan-jeffries/apple-mail-fast-mcp, users can follow these steps:
 | forks | 38/100 |
 | stars | 42/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

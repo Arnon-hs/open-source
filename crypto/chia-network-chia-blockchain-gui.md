@@ -1,6 +1,6 @@
 # Chia-Network/chia-blockchain-gui
 
-[![Stars](https://img.shields.io/github/stars/Chia-Network/chia-blockchain-gui?style=flat-square&color=yellow)](https://github.com/Chia-Network/chia-blockchain-gui/stargazers) [![Forks](https://img.shields.io/github/forks/Chia-Network/chia-blockchain-gui?style=flat-square&color=blue)](https://github.com/Chia-Network/chia-blockchain-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chia-Network/chia-blockchain-gui?style=flat-square&color=yellow)](https://github.com/Chia-Network/chia-blockchain-gui/stargazers) [![Forks](https://img.shields.io/github/forks/Chia-Network/chia-blockchain-gui?style=flat-square&color=blue)](https://github.com/Chia-Network/chia-blockchain-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Chia blockchain GUI in electron/react
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Chia-Network/chia-blockchain-gui：Chia-Network/chia-blockchain-gui helps protot
 | forks | 61/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

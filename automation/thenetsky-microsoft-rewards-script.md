@@ -1,6 +1,6 @@
 # TheNetsky/Microsoft-Rewards-Script
 
-[![Stars](https://img.shields.io/github/stars/TheNetsky/Microsoft-Rewards-Script?style=flat-square&color=yellow)](https://github.com/TheNetsky/Microsoft-Rewards-Script/stargazers) [![Forks](https://img.shields.io/github/forks/TheNetsky/Microsoft-Rewards-Script?style=flat-square&color=blue)](https://github.com/TheNetsky/Microsoft-Rewards-Script/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheNetsky/Microsoft-Rewards-Script?style=flat-square&color=yellow)](https://github.com/TheNetsky/Microsoft-Rewards-Script/stargazers) [![Forks](https://img.shields.io/github/forks/TheNetsky/Microsoft-Rewards-Script?style=flat-square&color=blue)](https://github.com/TheNetsky/Microsoft-Rewards-Script/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Automated Microsoft Rewards script, using TypeScript and Playwright.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 938 |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ TheNetsky/Microsoft-Rewards-Script 是一个开源自动化脚本，使用 TypeS
 | forks | 58/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

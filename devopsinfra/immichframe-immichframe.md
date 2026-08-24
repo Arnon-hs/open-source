@@ -1,6 +1,6 @@
 # immichFrame/ImmichFrame
 
-[![Stars](https://img.shields.io/github/stars/immichFrame/ImmichFrame?style=flat-square&color=yellow)](https://github.com/immichFrame/ImmichFrame/stargazers) [![Forks](https://img.shields.io/github/forks/immichFrame/ImmichFrame?style=flat-square&color=blue)](https://github.com/immichFrame/ImmichFrame/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/immichFrame/ImmichFrame?style=flat-square&color=yellow)](https://github.com/immichFrame/ImmichFrame/stargazers) [![Forks](https://img.shields.io/github/forks/immichFrame/ImmichFrame?style=flat-square&color=blue)](https://github.com/immichFrame/ImmichFrame/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ immichFrame/ImmichFrame 的生产可用性非常高，主要原因是：
 | forks | 50/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

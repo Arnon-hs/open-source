@@ -1,6 +1,6 @@
 # HarbourMasters/Shipwright
 
-[![Stars](https://img.shields.io/github/stars/HarbourMasters/Shipwright?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Shipwright/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Shipwright?style=flat-square&color=blue)](https://github.com/HarbourMasters/Shipwright/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarbourMasters/Shipwright?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Shipwright/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Shipwright?style=flat-square&color=blue)](https://github.com/HarbourMasters/Shipwright/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 779 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,14 +81,15 @@ HarbourMasters/Shipwright 的生产可用性为中等，适合用于 prototyping
 | forks | 72/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

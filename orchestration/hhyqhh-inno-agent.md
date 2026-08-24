@@ -1,6 +1,6 @@
 # hhyqhh/inno-agent
 
-[![Stars](https://img.shields.io/github/stars/hhyqhh/inno-agent?style=flat-square&color=yellow)](https://github.com/hhyqhh/inno-agent/stargazers) [![Forks](https://img.shields.io/github/forks/hhyqhh/inno-agent?style=flat-square&color=blue)](https://github.com/hhyqhh/inno-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hhyqhh/inno-agent?style=flat-square&color=yellow)](https://github.com/hhyqhh/inno-agent/stargazers) [![Forks](https://img.shields.io/github/forks/hhyqhh/inno-agent?style=flat-square&color=blue)](https://github.com/hhyqhh/inno-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversation recall), a proactive scheduler, personal IM channels, and a workspace-scoped Practice Lab — built on the Pi SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · Knowledge/RAG · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ hhyqhh/inno-agent 的价值在于帮助将孤立的提示和工具转化为可�
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

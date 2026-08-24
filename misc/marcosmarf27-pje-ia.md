@@ -1,6 +1,6 @@
 # marcosmarf27/pje-ia
 
-[![Stars](https://img.shields.io/github/stars/marcosmarf27/pje-ia?style=flat-square&color=yellow)](https://github.com/marcosmarf27/pje-ia/stargazers) [![Forks](https://img.shields.io/github/forks/marcosmarf27/pje-ia?style=flat-square&color=blue)](https://github.com/marcosmarf27/pje-ia/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcosmarf27/pje-ia?style=flat-square&color=yellow)](https://github.com/marcosmarf27/pje-ia/stargazers) [![Forks](https://img.shields.io/github/forks/marcosmarf27/pje-ia?style=flat-square&color=blue)](https://github.com/marcosmarf27/pje-ia/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ⚖️ Extensão Chrome que analisa autos do PJe com IA (Claude): chat sobre as peças do processo, OCR nativo, tabelas e linha do tempo — direto na tela do processo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ marcosmarf27/pje-ia 的生产可用性为中等。它适合用于原型或内部
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

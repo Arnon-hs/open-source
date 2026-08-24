@@ -1,6 +1,6 @@
 # sergezuber/FABULA-LLM-5
 
-[![Stars](https://img.shields.io/github/stars/sergezuber/FABULA-LLM-5?style=flat-square&color=yellow)](https://github.com/sergezuber/FABULA-LLM-5/stargazers) [![Forks](https://img.shields.io/github/forks/sergezuber/FABULA-LLM-5?style=flat-square&color=blue)](https://github.com/sergezuber/FABULA-LLM-5/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sergezuber/FABULA-LLM-5?style=flat-square&color=yellow)](https://github.com/sergezuber/FABULA-LLM-5/stargazers) [![Forks](https://img.shields.io/github/forks/sergezuber/FABULA-LLM-5?style=flat-square&color=blue)](https://github.com/sergezuber/FABULA-LLM-5/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every finished run mints a replayable, context-fingerprinted Proof-of-Done receipt. Sovereign, local, air-gapped-capable. macOS · Apple Silicon (today).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Design
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ FABULA-LLM-5 的接入方式包括：
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Greenheart/pagecrypt
 
-[![Stars](https://img.shields.io/github/stars/Greenheart/pagecrypt?style=flat-square&color=yellow)](https://github.com/Greenheart/pagecrypt/stargazers) [![Forks](https://img.shields.io/github/forks/Greenheart/pagecrypt?style=flat-square&color=blue)](https://github.com/Greenheart/pagecrypt/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Greenheart/pagecrypt?style=flat-square&color=yellow)](https://github.com/Greenheart/pagecrypt/stargazers) [![Forks](https://img.shields.io/github/forks/Greenheart/pagecrypt?style=flat-square&color=blue)](https://github.com/Greenheart/pagecrypt/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Password Protected Single Page Applications and HTML files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend · DevTools · Security
+Crypto · Backend · DevTools · Security
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Greenheart/pagecrypt 的生产可用性很高，主要原因是：
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # agent-next/polymarket-paper-trader
 
-[![Stars](https://img.shields.io/github/stars/agent-next/polymarket-paper-trader?style=flat-square&color=yellow)](https://github.com/agent-next/polymarket-paper-trader/stargazers) [![Forks](https://img.shields.io/github/forks/agent-next/polymarket-paper-trader?style=flat-square&color=blue)](https://github.com/agent-next/polymarket-paper-trader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-next/polymarket-paper-trader?style=flat-square&color=yellow)](https://github.com/agent-next/polymarket-paper-trader/stargazers) [![Forks](https://img.shields.io/github/forks/agent-next/polymarket-paper-trader?style=flat-square&color=blue)](https://github.com/agent-next/polymarket-paper-trader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Paper trading simulator for Polymarket — built for AI agents. MCP server, live order books, strategy backtesting. Install: npx clawhub install polymarket-paper-trader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · MCP · Automation · AI/ML · Frontend
+Trading · MCP · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ agent-next/polymarket-paper-trader 是一个开源项目，用于模拟 Polymark
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 80/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

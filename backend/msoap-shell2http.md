@@ -1,6 +1,6 @@
 # msoap/shell2http
 
-[![Stars](https://img.shields.io/github/stars/msoap/shell2http?style=flat-square&color=yellow)](https://github.com/msoap/shell2http/stargazers) [![Forks](https://img.shields.io/github/forks/msoap/shell2http?style=flat-square&color=blue)](https://github.com/msoap/shell2http/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msoap/shell2http?style=flat-square&color=yellow)](https://github.com/msoap/shell2http/stargazers) [![Forks](https://img.shields.io/github/forks/msoap/shell2http?style=flat-square&color=blue)](https://github.com/msoap/shell2http/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Executing shell commands via HTTP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ msoap/shell2http 的生产可用性很高，理由如下：
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

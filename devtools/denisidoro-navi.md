@@ -1,6 +1,6 @@
 # denisidoro/navi
 
-[![Stars](https://img.shields.io/github/stars/denisidoro/navi?style=flat-square&color=yellow)](https://github.com/denisidoro/navi/stargazers) [![Forks](https://img.shields.io/github/forks/denisidoro/navi?style=flat-square&color=blue)](https://github.com/denisidoro/navi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denisidoro/navi?style=flat-square&color=yellow)](https://github.com/denisidoro/navi/stargazers) [![Forks](https://img.shields.io/github/forks/denisidoro/navi?style=flat-square&color=blue)](https://github.com/denisidoro/navi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An interactive cheatsheet tool for the command-line
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.4k |
 | 🍴 **Forks** | 553 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ denisidoro/navi 的生产可用性较高，主要原因是：
 | forks | 69/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 83/100 |
+| recency | 60/100 |
 | adoption | 84/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

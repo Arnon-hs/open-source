@@ -1,6 +1,6 @@
 # VisActor/VTable
 
-[![Stars](https://img.shields.io/github/stars/VisActor/VTable?style=flat-square&color=yellow)](https://github.com/VisActor/VTable/stargazers) [![Forks](https://img.shields.io/github/forks/VisActor/VTable?style=flat-square&color=blue)](https://github.com/VisActor/VTable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VisActor/VTable?style=flat-square&color=yellow)](https://github.com/VisActor/VTable/stargazers) [![Forks](https://img.shields.io/github/forks/VisActor/VTable?style=flat-square&color=blue)](https://github.com/VisActor/VTable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 470 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · Database · Marketing
+Frontend · Data · Database
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ VisActor/VTable 是一款高性能的多维数据分析表格，同时也是在�
 | forks | 67/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

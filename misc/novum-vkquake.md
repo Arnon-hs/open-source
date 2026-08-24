@@ -1,6 +1,6 @@
 # Novum/vkQuake
 
-[![Stars](https://img.shields.io/github/stars/Novum/vkQuake?style=flat-square&color=yellow)](https://github.com/Novum/vkQuake/stargazers) [![Forks](https://img.shields.io/github/forks/Novum/vkQuake?style=flat-square&color=blue)](https://github.com/Novum/vkQuake/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Novum/vkQuake?style=flat-square&color=yellow)](https://github.com/Novum/vkQuake/stargazers) [![Forks](https://img.shields.io/github/forks/Novum/vkQuake?style=flat-square&color=blue)](https://github.com/Novum/vkQuake/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Vulkan Quake port based on QuakeSpasm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Novum/vkQuake 是基于 QuakeSpasm 的 Vulkan 移植版，让经典的 Quake 能
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

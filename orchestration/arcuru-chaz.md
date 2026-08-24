@@ -1,6 +1,6 @@
 # arcuru/chaz
 
-[![Stars](https://img.shields.io/github/stars/arcuru/chaz?style=flat-square&color=yellow)](https://github.com/arcuru/chaz/stargazers) [![Forks](https://img.shields.io/github/forks/arcuru/chaz?style=flat-square&color=blue)](https://github.com/arcuru/chaz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arcuru/chaz?style=flat-square&color=yellow)](https://github.com/arcuru/chaz/stargazers) [![Forks](https://img.shields.io/github/forks/arcuru/chaz?style=flat-square&color=blue)](https://github.com/arcuru/chaz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [EXPERIMENTAL] Eidetica-Native AI Agent framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ arcuru/chaz的生产可用性被评为中等（Medium）。它可以用于开发
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

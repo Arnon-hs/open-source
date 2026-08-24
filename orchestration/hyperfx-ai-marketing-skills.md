@@ -1,6 +1,6 @@
 # hyperfx-ai/marketing-skills
 
-[![Stars](https://img.shields.io/github/stars/hyperfx-ai/marketing-skills?style=flat-square&color=yellow)](https://github.com/hyperfx-ai/marketing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/hyperfx-ai/marketing-skills?style=flat-square&color=blue)](https://github.com/hyperfx-ai/marketing-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperfx-ai/marketing-skills?style=flat-square&color=yellow)](https://github.com/hyperfx-ai/marketing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/hyperfx-ai/marketing-skills?style=flat-square&color=blue)](https://github.com/hyperfx-ai/marketing-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Marketing skills for AI agents — paid ads, social media, SEO, competitor research, creative generation, email, analytics, and more. Powered by Hyper MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Data · Marketing
+Orchestration · MCP · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ hyperfx-ai/marketing-skills 帮助将孤立的提示和工具转化为可重复�
 | forks | 27/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

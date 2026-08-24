@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ The Legends of the Canary and the Sleeping Keeper 为特定工作流提供了可
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # UditAkhourii/adhd
 
-[![Stars](https://img.shields.io/github/stars/UditAkhourii/adhd?style=flat-square&color=yellow)](https://github.com/UditAkhourii/adhd/stargazers) [![Forks](https://img.shields.io/github/forks/UditAkhourii/adhd?style=flat-square&color=blue)](https://github.com/UditAkhourii/adhd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UditAkhourii/adhd?style=flat-square&color=yellow)](https://github.com/UditAkhourii/adhd/stargazers) [![Forks](https://img.shields.io/github/forks/UditAkhourii/adhd?style=flat-square&color=blue)](https://github.com/UditAkhourii/adhd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ UditAkhourii/adhd 帮助用户在不从零开始构建模型堆栈的情况下�
 | forks | 54/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

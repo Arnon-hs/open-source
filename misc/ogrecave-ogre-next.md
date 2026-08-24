@@ -1,6 +1,6 @@
 # OGRECave/ogre-next
 
-[![Stars](https://img.shields.io/github/stars/OGRECave/ogre-next?style=flat-square&color=yellow)](https://github.com/OGRECave/ogre-next/stargazers) [![Forks](https://img.shields.io/github/forks/OGRECave/ogre-next?style=flat-square&color=blue)](https://github.com/OGRECave/ogre-next/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OGRECave/ogre-next?style=flat-square&color=yellow)](https://github.com/OGRECave/ogre-next/stargazers) [![Forks](https://img.shields.io/github/forks/OGRECave/ogre-next?style=flat-square&color=blue)](https://github.com/OGRECave/ogre-next/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > scene-oriented, flexible 3D C++ engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 285 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ OGRECave/ogre-next 是一个面向场景、灵活的 C++ 3D 引擎，适合需�
 | forks | 61/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

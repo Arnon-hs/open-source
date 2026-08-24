@@ -1,6 +1,6 @@
 # endless-sky/endless-sky
 
-[![Stars](https://img.shields.io/github/stars/endless-sky/endless-sky?style=flat-square&color=yellow)](https://github.com/endless-sky/endless-sky/stargazers) [![Forks](https://img.shields.io/github/forks/endless-sky/endless-sky?style=flat-square&color=blue)](https://github.com/endless-sky/endless-sky/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endless-sky/endless-sky?style=flat-square&color=yellow)](https://github.com/endless-sky/endless-sky/stargazers) [![Forks](https://img.shields.io/github/forks/endless-sky/endless-sky?style=flat-square&color=blue)](https://github.com/endless-sky/endless-sky/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Space exploration, trading, and combat game.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Database
+Trading
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Endless Sky scores high on production readiness: recent commits (as of 2026‑05
 | forks | 77/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 81/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

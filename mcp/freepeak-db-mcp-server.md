@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ FreePeak/db-mcp-server：FreePeak/db-mcp-server helps connect AI assistants to r
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

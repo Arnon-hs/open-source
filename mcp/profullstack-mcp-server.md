@@ -1,6 +1,6 @@
 # profullstack/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/profullstack/mcp-server?style=flat-square&color=yellow)](https://github.com/profullstack/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/profullstack/mcp-server?style=flat-square&color=blue)](https://github.com/profullstack/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/profullstack/mcp-server?style=flat-square&color=yellow)](https://github.com/profullstack/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/profullstack/mcp-server?style=flat-square&color=blue)](https://github.com/profullstack/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A generic, modular server for implementing the Model Context Protocol (MCP).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ In short, `profullstack/mcp-server` offers a quick way to bring AI agents onto r
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 13/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

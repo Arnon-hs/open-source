@@ -1,6 +1,6 @@
 # uphiago/recon-skills
 
-[![Stars](https://img.shields.io/github/stars/uphiago/recon-skills?style=flat-square&color=yellow)](https://github.com/uphiago/recon-skills/stargazers) [![Forks](https://img.shields.io/github/forks/uphiago/recon-skills?style=flat-square&color=blue)](https://github.com/uphiago/recon-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uphiago/recon-skills?style=flat-square&color=yellow)](https://github.com/uphiago/recon-skills/stargazers) [![Forks](https://img.shields.io/github/forks/uphiago/recon-skills?style=flat-square&color=blue)](https://github.com/uphiago/recon-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 162 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with origin IP discovery, subdomain takeover, GitHub secret hunting, browser fingerprint evasion, SCADA enumeration, and automated CMS detection. Full write-up at hiago.sh
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 948 |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Security
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ uphiago/recon-skills 的主要价值在于：
 | forks | 56/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

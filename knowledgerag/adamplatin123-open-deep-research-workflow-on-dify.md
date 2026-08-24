@@ -1,6 +1,6 @@
 # AdamPlatin123/Open-Deep-Research-workflow-on-Dify
 
-[![Stars](https://img.shields.io/github/stars/AdamPlatin123/Open-Deep-Research-workflow-on-Dify?style=flat-square&color=yellow)](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify/stargazers) [![Forks](https://img.shields.io/github/forks/AdamPlatin123/Open-Deep-Research-workflow-on-Dify?style=flat-square&color=blue)](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdamPlatin123/Open-Deep-Research-workflow-on-Dify?style=flat-square&color=yellow)](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify/stargazers) [![Forks](https://img.shields.io/github/forks/AdamPlatin123/Open-Deep-Research-workflow-on-Dify?style=flat-square&color=blue)](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Deep Research workflow on Dify: cascaded multi-source search → outline → cited long-form report. Credited in Awesome-Dify-Workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Database
+Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ AdamPlatin123/Open-Deep-Research-workflow-on-Dify：AdamPlatin123/Open-Deep-Rese
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

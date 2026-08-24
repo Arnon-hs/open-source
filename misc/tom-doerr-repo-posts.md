@@ -1,6 +1,6 @@
 # tom-doerr/repo_posts
 
-[![Stars](https://img.shields.io/github/stars/tom-doerr/repo_posts?style=flat-square&color=yellow)](https://github.com/tom-doerr/repo_posts/stargazers) [![Forks](https://img.shields.io/github/forks/tom-doerr/repo_posts?style=flat-square&color=blue)](https://github.com/tom-doerr/repo_posts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tom-doerr/repo_posts?style=flat-square&color=yellow)](https://github.com/tom-doerr/repo_posts/stargazers) [![Forks](https://img.shields.io/github/forks/tom-doerr/repo_posts?style=flat-square&color=blue)](https://github.com/tom-doerr/repo_posts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ tom-doerr/repo_posts：tom-doerr/repo_posts may be useful when its README and ac
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

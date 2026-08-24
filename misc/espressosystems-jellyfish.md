@@ -1,6 +1,6 @@
 # EspressoSystems/jellyfish
 
-[![Stars](https://img.shields.io/github/stars/EspressoSystems/jellyfish?style=flat-square&color=yellow)](https://github.com/EspressoSystems/jellyfish/stargazers) [![Forks](https://img.shields.io/github/forks/EspressoSystems/jellyfish?style=flat-square&color=blue)](https://github.com/EspressoSystems/jellyfish/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EspressoSystems/jellyfish?style=flat-square&color=yellow)](https://github.com/EspressoSystems/jellyfish/stargazers) [![Forks](https://img.shields.io/github/forks/EspressoSystems/jellyfish?style=flat-square&color=blue)](https://github.com/EspressoSystems/jellyfish/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust Implementation of the PLONK ZKP System and Extensions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 516 |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ EspressoSystems 的 **jellyfish** 是用 Rust 编写的 PLONK 零知识证明（
 | forks | 56/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

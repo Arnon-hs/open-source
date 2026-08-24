@@ -1,6 +1,6 @@
 # apache/thrift
 
-[![Stars](https://img.shields.io/github/stars/apache/thrift?style=flat-square&color=yellow)](https://github.com/apache/thrift/stargazers) [![Forks](https://img.shields.io/github/forks/apache/thrift?style=flat-square&color=blue)](https://github.com/apache/thrift/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/thrift?style=flat-square&color=yellow)](https://github.com/apache/thrift/stargazers) [![Forks](https://img.shields.io/github/forks/apache/thrift?style=flat-square&color=blue)](https://github.com/apache/thrift/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Thrift
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.9k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Apache Thrift 是一套跨语言的 RPC 框架，提供统一的 IDL、代码生
 | forks | 90/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
 | adoption | 87/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

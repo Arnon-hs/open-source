@@ -1,6 +1,6 @@
 # u9401066/pubmed-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/u9401066/pubmed-search-mcp?style=flat-square&color=yellow)](https://github.com/u9401066/pubmed-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/u9401066/pubmed-search-mcp?style=flat-square&color=blue)](https://github.com/u9401066/pubmed-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/u9401066/pubmed-search-mcp?style=flat-square&color=yellow)](https://github.com/u9401066/pubmed-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/u9401066/pubmed-search-mcp?style=flat-square&color=blue)](https://github.com/u9401066/pubmed-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🔬 Professional MCP server for biomedical literature research — 40 tools, multi-source search (PubMed, Europe PMC, CORE, OpenAlex), full-text access, citation networks, PICO analysis, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ To adopt this project, follow these steps:
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

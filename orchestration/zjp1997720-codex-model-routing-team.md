@@ -1,6 +1,6 @@
 # zjp1997720/codex-model-routing-team
 
-[![Stars](https://img.shields.io/github/stars/zjp1997720/codex-model-routing-team?style=flat-square&color=yellow)](https://github.com/zjp1997720/codex-model-routing-team/stargazers) [![Forks](https://img.shields.io/github/forks/zjp1997720/codex-model-routing-team?style=flat-square&color=blue)](https://github.com/zjp1997720/codex-model-routing-team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zjp1997720/codex-model-routing-team?style=flat-square&color=yellow)](https://github.com/zjp1997720/codex-model-routing-team/stargazers) [![Forks](https://img.shields.io/github/forks/zjp1997720/codex-model-routing-team?style=flat-square&color=blue)](https://github.com/zjp1997720/codex-model-routing-team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Route complex Codex tasks to model-specific background workers with bounded concurrency and lead-agent verification.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ zjp1997720/codex-model-routing-team 是一个开源项目，用于路由复杂�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

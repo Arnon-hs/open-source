@@ -1,6 +1,6 @@
 # jagoff/memo
 
-[![Stars](https://img.shields.io/github/stars/jagoff/memo?style=flat-square&color=yellow)](https://github.com/jagoff/memo/stargazers) [![Forks](https://img.shields.io/github/forks/jagoff/memo?style=flat-square&color=blue)](https://github.com/jagoff/memo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jagoff/memo?style=flat-square&color=yellow)](https://github.com/jagoff/memo/stargazers) [![Forks](https://img.shields.io/github/forks/jagoff/memo?style=flat-square&color=blue)](https://github.com/jagoff/memo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Your coding agent starts every session with amnesia — memo fixes that, 100% on your machine. Persistent memory for Claude Code, Codex, Cursor & any MCP client: Markdown source of truth, hybrid search (MLX/CPU + sqlite-vec), time-machine, contradiction radar, nightly self-optimization. No cloud, no keys.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ jagoff/memo 的生产可用性非常高。最近的活动、广泛的采用和�
 | forks | 17/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

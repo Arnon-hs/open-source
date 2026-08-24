@@ -1,6 +1,6 @@
 # cdleon/awesome-terminals
 
-[![Stars](https://img.shields.io/github/stars/cdleon/awesome-terminals?style=flat-square&color=yellow)](https://github.com/cdleon/awesome-terminals/stargazers) [![Forks](https://img.shields.io/github/forks/cdleon/awesome-terminals?style=flat-square&color=blue)](https://github.com/cdleon/awesome-terminals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cdleon/awesome-terminals?style=flat-square&color=yellow)](https://github.com/cdleon/awesome-terminals/stargazers) [![Forks](https://img.shields.io/github/forks/cdleon/awesome-terminals?style=flat-square&color=blue)](https://github.com/cdleon/awesome-terminals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal Emulators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ cdleon/awesome-terminals：cdleon/awesome-terminals may be useful when its READM
 | forks | 53/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

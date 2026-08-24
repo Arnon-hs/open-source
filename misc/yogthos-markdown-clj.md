@@ -1,6 +1,6 @@
 # yogthos/markdown-clj
 
-[![Stars](https://img.shields.io/github/stars/yogthos/markdown-clj?style=flat-square&color=yellow)](https://github.com/yogthos/markdown-clj/stargazers) [![Forks](https://img.shields.io/github/forks/yogthos/markdown-clj?style=flat-square&color=blue)](https://github.com/yogthos/markdown-clj/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yogthos/markdown-clj?style=flat-square&color=yellow)](https://github.com/yogthos/markdown-clj/stargazers) [![Forks](https://img.shields.io/github/forks/yogthos/markdown-clj?style=flat-square&color=blue)](https://github.com/yogthos/markdown-clj/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown parser in Clojure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ yogthos/markdown-clj 的生产可用性为中等。它适合用于内部工作�
 | forks | 52/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

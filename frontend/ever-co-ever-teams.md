@@ -1,6 +1,6 @@
 # ever-co/ever-teams
 
-[![Stars](https://img.shields.io/github/stars/ever-co/ever-teams?style=flat-square&color=yellow)](https://github.com/ever-co/ever-teams/stargazers) [![Forks](https://img.shields.io/github/forks/ever-co/ever-teams?style=flat-square&color=blue)](https://github.com/ever-co/ever-teams/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ever-co/ever-teams?style=flat-square&color=yellow)](https://github.com/ever-co/ever-teams/stargazers) [![Forks](https://img.shields.io/github/forks/ever-co/ever-teams?style=flat-square&color=blue)](https://github.com/ever-co/ever-teams/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Ever® Teams™ - The Workplace for Humans. Open Work & Productivity Platform - https://ever.team
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 543 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile · Product
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Ever® Teams™ 是一个基于 TypeScript 的开源工作与生产力平台，�
 | forks | 49/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

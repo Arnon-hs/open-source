@@ -1,6 +1,6 @@
 # MingweiSamuel/Riven
 
-[![Stars](https://img.shields.io/github/stars/MingweiSamuel/Riven?style=flat-square&color=yellow)](https://github.com/MingweiSamuel/Riven/stargazers) [![Forks](https://img.shields.io/github/forks/MingweiSamuel/Riven?style=flat-square&color=blue)](https://github.com/MingweiSamuel/Riven/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MingweiSamuel/Riven?style=flat-square&color=yellow)](https://github.com/MingweiSamuel/Riven/stargazers) [![Forks](https://img.shields.io/github/forks/MingweiSamuel/Riven?style=flat-square&color=blue)](https://github.com/MingweiSamuel/Riven/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Riot API Library for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Riven 的生产可用性为中等。虽然它可以用于原型和内部流程�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

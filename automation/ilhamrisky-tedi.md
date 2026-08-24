@@ -1,6 +1,6 @@
 # IlhamriSKY/TEDI
 
-[![Stars](https://img.shields.io/github/stars/IlhamriSKY/TEDI?style=flat-square&color=yellow)](https://github.com/IlhamriSKY/TEDI/stargazers) [![Forks](https://img.shields.io/github/forks/IlhamriSKY/TEDI?style=flat-square&color=blue)](https://github.com/IlhamriSKY/TEDI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IlhamriSKY/TEDI?style=flat-square&color=yellow)](https://github.com/IlhamriSKY/TEDI/stargazers) [![Forks](https://img.shields.io/github/forks/IlhamriSKY/TEDI?style=flat-square&color=blue)](https://github.com/IlhamriSKY/TEDI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal Director. One lightweight app, eight features, your whole dev workflow in a single window.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ IlhamriSKY/TEDI 的生产
 | forks | 27/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

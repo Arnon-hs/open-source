@@ -1,6 +1,6 @@
 # roedyrustam/vibes-plug
 
-[![Stars](https://img.shields.io/github/stars/roedyrustam/vibes-plug?style=flat-square&color=yellow)](https://github.com/roedyrustam/vibes-plug/stargazers) [![Forks](https://img.shields.io/github/forks/roedyrustam/vibes-plug?style=flat-square&color=blue)](https://github.com/roedyrustam/vibes-plug/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roedyrustam/vibes-plug?style=flat-square&color=yellow)](https://github.com/roedyrustam/vibes-plug/stargazers) [![Forks](https://img.shields.io/github/forks/roedyrustam/vibes-plug?style=flat-square&color=blue)](https://github.com/roedyrustam/vibes-plug/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 The ultimate 103+ Skills Swarm Ecosystem for Antigravity AI Agent. Master frontend, backend, AI/LLM integration, UI/UX, SaaS architecture, and SEO. Supercharge your AI coding assistant for the modern 2026 tech stack!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Marketing
+AI/ML · Frontend · DevTools · Marketing
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ roedyrustam/vibes-plug 的生产可用性为中等（Medium）。它适用于 pr
 | forks | 24/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

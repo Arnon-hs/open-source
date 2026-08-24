@@ -1,6 +1,6 @@
 # semantic-release/github
 
-[![Stars](https://img.shields.io/github/stars/semantic-release/github?style=flat-square&color=yellow)](https://github.com/semantic-release/github/stargazers) [![Forks](https://img.shields.io/github/forks/semantic-release/github?style=flat-square&color=blue)](https://github.com/semantic-release/github/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/semantic-release/github?style=flat-square&color=yellow)](https://github.com/semantic-release/github/stargazers) [![Forks](https://img.shields.io/github/forks/semantic-release/github?style=flat-square&color=blue)](https://github.com/semantic-release/github/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > :octocat:  semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 531 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ semantic-release/github 的生产可用性是高的，因为：
 | forks | 54/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

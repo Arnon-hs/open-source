@@ -1,6 +1,6 @@
 # andrewcourtice/ripl
 
-[![Stars](https://img.shields.io/github/stars/andrewcourtice/ripl?style=flat-square&color=yellow)](https://github.com/andrewcourtice/ripl/stargazers) [![Forks](https://img.shields.io/github/forks/andrewcourtice/ripl?style=flat-square&color=blue)](https://github.com/andrewcourtice/ripl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andrewcourtice/ripl?style=flat-square&color=yellow)](https://github.com/andrewcourtice/ripl/stargazers) [![Forks](https://img.shields.io/github/forks/andrewcourtice/ripl?style=flat-square&color=blue)](https://github.com/andrewcourtice/ripl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Ripl provides a unified, cross-platform API for 2D and 3D graphics rendering with a focus on high performance and interactive data visualization. Write once, render to Canvas, SVG, WebGPU, or the terminal - in the browser, on the server, or in a headless environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Database
+Backend · Data
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Ripl 是一个开源项目，提供了一个统一的跨平台 API，用于 2D �
 | forks | 23/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 75/100 |
-| usefulness | 58/100 |
+| production | 62/100 |
+| usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

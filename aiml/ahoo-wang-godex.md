@@ -1,6 +1,6 @@
 # Ahoo-Wang/GodeX
 
-[![Stars](https://img.shields.io/github/stars/Ahoo-Wang/GodeX?style=flat-square&color=yellow)](https://github.com/Ahoo-Wang/GodeX/stargazers) [![Forks](https://img.shields.io/github/forks/Ahoo-Wang/GodeX?style=flat-square&color=blue)](https://github.com/Ahoo-Wang/GodeX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ahoo-Wang/GodeX?style=flat-square&color=yellow)](https://github.com/Ahoo-Wang/GodeX/stargazers) [![Forks](https://img.shields.io/github/forks/Ahoo-Wang/GodeX?style=flat-square&color=blue)](https://github.com/Ahoo-Wang/GodeX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Make every model a CodeX engine through an OpenAI-compatible Responses API gateway
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -86,14 +86,15 @@ Ahoo-Wang/GodeX 的生产可用性非常高。该项目最近有活跃的维护�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

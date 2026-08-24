@@ -1,6 +1,6 @@
 # OpenHV/OpenHV
 
-[![Stars](https://img.shields.io/github/stars/OpenHV/OpenHV?style=flat-square&color=yellow)](https://github.com/OpenHV/OpenHV/stargazers) [![Forks](https://img.shields.io/github/forks/OpenHV/OpenHV?style=flat-square&color=blue)](https://github.com/OpenHV/OpenHV/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenHV/OpenHV?style=flat-square&color=yellow)](https://github.com/OpenHV/OpenHV/stargazers) [![Forks](https://img.shields.io/github/forks/OpenHV/OpenHV?style=flat-square&color=blue)](https://github.com/OpenHV/OpenHV/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Source Pixelart Science-Fiction Real-Time-Strategy game
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ OpenHV 是一款开源的像素风科幻即时战略（RTS）游戏，使用 C# 
 | forks | 43/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

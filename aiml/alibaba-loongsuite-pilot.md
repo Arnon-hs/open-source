@@ -1,6 +1,6 @@
 # alibaba/loongsuite-pilot
 
-[![Stars](https://img.shields.io/github/stars/alibaba/loongsuite-pilot?style=flat-square&color=yellow)](https://github.com/alibaba/loongsuite-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/loongsuite-pilot?style=flat-square&color=blue)](https://github.com/alibaba/loongsuite-pilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/loongsuite-pilot?style=flat-square&color=yellow)](https://github.com/alibaba/loongsuite-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/loongsuite-pilot?style=flat-square&color=blue)](https://github.com/alibaba/loongsuite-pilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Observability · Security
+AI/ML · DevTools · Observability · Security
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ alibaba/loongsuite-pilot 的生产可用性较高，因为它有：
 | forks | 39/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

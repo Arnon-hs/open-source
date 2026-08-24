@@ -1,6 +1,6 @@
 # codespell-project/codespell
 
-[![Stars](https://img.shields.io/github/stars/codespell-project/codespell?style=flat-square&color=yellow)](https://github.com/codespell-project/codespell/stargazers) [![Forks](https://img.shields.io/github/forks/codespell-project/codespell?style=flat-square&color=blue)](https://github.com/codespell-project/codespell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codespell-project/codespell?style=flat-square&color=yellow)](https://github.com/codespell-project/codespell/stargazers) [![Forks](https://img.shields.io/github/forks/codespell-project/codespell?style=flat-square&color=blue)](https://github.com/codespell-project/codespell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > check code for common misspellings
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 512 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ codespell 是一个轻量级的 Python 工具，能够快速扫描代码库中�
 | forks | 68/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 71/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

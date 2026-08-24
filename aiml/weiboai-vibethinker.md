@@ -1,6 +1,6 @@
 # WeiboAI/VibeThinker
 
-[![Stars](https://img.shields.io/github/stars/WeiboAI/VibeThinker?style=flat-square&color=yellow)](https://github.com/WeiboAI/VibeThinker/stargazers) [![Forks](https://img.shields.io/github/forks/WeiboAI/VibeThinker?style=flat-square&color=blue)](https://github.com/WeiboAI/VibeThinker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WeiboAI/VibeThinker?style=flat-square&color=yellow)](https://github.com/WeiboAI/VibeThinker/stargazers) [![Forks](https://img.shields.io/github/forks/WeiboAI/VibeThinker?style=flat-square&color=blue)](https://github.com/WeiboAI/VibeThinker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ WeiboAI/VibeThinker 的接入方式包括：
 | forks | 52/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

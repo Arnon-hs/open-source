@@ -1,6 +1,6 @@
 # hashicorp/terraform-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-mcp-server?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-mcp-server?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-mcp-server?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-mcp-server?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ HashiCorp Terraform MCP Server 在生产环境中使用时，需要进行依赖�
 | forks | 56/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 79/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

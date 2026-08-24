@@ -1,6 +1,6 @@
 # Lissy93/web-check
 
-[![Stars](https://img.shields.io/github/stars/Lissy93/web-check?style=flat-square&color=yellow)](https://github.com/Lissy93/web-check/stargazers) [![Forks](https://img.shields.io/github/forks/Lissy93/web-check?style=flat-square&color=blue)](https://github.com/Lissy93/web-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lissy93/web-check?style=flat-square&color=yellow)](https://github.com/Lissy93/web-check/stargazers) [![Forks](https://img.shields.io/github/forks/Lissy93/web-check?style=flat-square&color=blue)](https://github.com/Lissy93/web-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33.1k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Lissy93/web-check 是一款基于 TypeScript 的全功能 OSINT（开源情报�
 | forks | 86/100 |
 | stars | 96/100 |
 | topics | 63/100 |
-| outlook | 86/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 93/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

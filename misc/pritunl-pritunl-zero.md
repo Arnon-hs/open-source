@@ -1,6 +1,6 @@
 # pritunl/pritunl-zero
 
-[![Stars](https://img.shields.io/github/stars/pritunl/pritunl-zero?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl-zero/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl-zero?style=flat-square&color=blue)](https://github.com/pritunl/pritunl-zero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pritunl/pritunl-zero?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl-zero/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl-zero?style=flat-square&color=blue)](https://github.com/pritunl/pritunl-zero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Zero trust system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Pritunl Zero（pritunl/pritunl-zero）是用 Go 编写的开源零信任网络
 | forks | 53/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

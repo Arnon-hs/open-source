@@ -1,6 +1,6 @@
 # lazy-luo/smarGate
 
-[![Stars](https://img.shields.io/github/stars/lazy-luo/smarGate?style=flat-square&color=yellow)](https://github.com/lazy-luo/smarGate/stargazers) [![Forks](https://img.shields.io/github/forks/lazy-luo/smarGate?style=flat-square&color=blue)](https://github.com/lazy-luo/smarGate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lazy-luo/smarGate?style=flat-square&color=yellow)](https://github.com/lazy-luo/smarGate/stargazers) [![Forks](https://img.shields.io/github/forks/lazy-luo/smarGate?style=flat-square&color=blue)](https://github.com/lazy-luo/smarGate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 469 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ lazy-luo/smarGate 的生产可用性较高，主要原因是：
 | forks | 67/100 |
 | stars | 77/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

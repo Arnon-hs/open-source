@@ -1,6 +1,6 @@
 # ValidatorsDAO/slv
 
-[![Stars](https://img.shields.io/github/stars/ValidatorsDAO/slv?style=flat-square&color=yellow)](https://github.com/ValidatorsDAO/slv/stargazers) [![Forks](https://img.shields.io/github/forks/ValidatorsDAO/slv?style=flat-square&color=blue)](https://github.com/ValidatorsDAO/slv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ValidatorsDAO/slv?style=flat-square&color=yellow)](https://github.com/ValidatorsDAO/slv/stargazers) [![Forks](https://img.shields.io/github/forks/ValidatorsDAO/slv?style=flat-square&color=blue)](https://github.com/ValidatorsDAO/slv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Agent Kit for Solana Devs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ValidatorsDAO/slv 是面向 Solana 开发者的 AI Agent 工具包，提供可�
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

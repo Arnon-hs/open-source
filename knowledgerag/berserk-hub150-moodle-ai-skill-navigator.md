@@ -1,6 +1,6 @@
 # Berserk-hub150/moodle-ai-skill-navigator
 
-[![Stars](https://img.shields.io/github/stars/Berserk-hub150/moodle-ai-skill-navigator?style=flat-square&color=yellow)](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/Berserk-hub150/moodle-ai-skill-navigator?style=flat-square&color=blue)](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Berserk-hub150/moodle-ai-skill-navigator?style=flat-square&color=yellow)](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/stargazers) [![Forks](https://img.shields.io/github/forks/Berserk-hub150/moodle-ai-skill-navigator?style=flat-square&color=blue)](https://github.com/Berserk-hub150/moodle-ai-skill-navigator/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Berserk-hub150/moodle-ai-skill-navigator 的价值在于，它可以帮助使内
 | forks | 17/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

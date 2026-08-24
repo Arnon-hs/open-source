@@ -1,6 +1,6 @@
 # AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet
 
-[![Stars](https://img.shields.io/github/stars/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet?style=flat-square&color=yellow)](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet?style=flat-square&color=blue)](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet?style=flat-square&color=yellow)](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet?style=flat-square&color=blue)](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > IdentityModel extensions for .NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 470 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet 是一个开�
 | forks | 67/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

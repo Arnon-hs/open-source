@@ -1,6 +1,6 @@
 # surrealdb/surrealdb
 
-[![Stars](https://img.shields.io/github/stars/surrealdb/surrealdb?style=flat-square&color=yellow)](https://github.com/surrealdb/surrealdb/stargazers) [![Forks](https://img.shields.io/github/forks/surrealdb/surrealdb?style=flat-square&color=blue)](https://github.com/surrealdb/surrealdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/surrealdb/surrealdb?style=flat-square&color=yellow)](https://github.com/surrealdb/surrealdb/stargazers) [![Forks](https://img.shields.io/github/forks/surrealdb/surrealdb?style=flat-square&color=blue)](https://github.com/surrealdb/surrealdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A scalable, distributed, collaborative, document-graph database, for the realtime web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data · Database
+Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -89,14 +89,15 @@ SurrealDB 通过统一的文档‑图模型、内置的实时订阅和水平可�
 | forks | 78/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

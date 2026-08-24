@@ -1,6 +1,6 @@
 # DS-Homebrew/GodMode9i
 
-[![Stars](https://img.shields.io/github/stars/DS-Homebrew/GodMode9i?style=flat-square&color=yellow)](https://github.com/DS-Homebrew/GodMode9i/stargazers) [![Forks](https://img.shields.io/github/forks/DS-Homebrew/GodMode9i?style=flat-square&color=blue)](https://github.com/DS-Homebrew/GodMode9i/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DS-Homebrew/GodMode9i?style=flat-square&color=yellow)](https://github.com/DS-Homebrew/GodMode9i/stargazers) [![Forks](https://img.shields.io/github/forks/DS-Homebrew/GodMode9i?style=flat-square&color=blue)](https://github.com/DS-Homebrew/GodMode9i/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GodMode9i Explorer - A full access file browser for the Nintendo DS and DSi consoles :godmode:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 645 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,14 +81,15 @@ DS-Homebrew/GodMode9i 是一个开源项目，提供了一个全面的文件浏�
 | forks | 40/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

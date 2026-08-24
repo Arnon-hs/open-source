@@ -1,6 +1,6 @@
 # Yeti-791/Awesome-Offensive-AI-Agentic-Landscape
 
-[![Stars](https://img.shields.io/github/stars/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape?style=flat-square&color=yellow)](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape/stargazers) [![Forks](https://img.shields.io/github/forks/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape?style=flat-square&color=blue)](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape?style=flat-square&color=yellow)](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape/stargazers) [![Forks](https://img.shields.io/github/forks/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape?style=flat-square&color=blue)](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive agents, and vulnerability discovery—aimed at helping researchers, security engineers, and enterprise decision-makers quickly form a holistic view.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Database
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Yeti-791/Awesome-Offensive-AI-Agentic-Landscape 的主要价值在于帮助移�
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

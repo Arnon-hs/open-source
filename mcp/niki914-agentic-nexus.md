@@ -1,6 +1,6 @@
 # niki914/agentic-nexus
 
-[![Stars](https://img.shields.io/github/stars/niki914/agentic-nexus?style=flat-square&color=yellow)](https://github.com/niki914/agentic-nexus/stargazers) [![Forks](https://img.shields.io/github/forks/niki914/agentic-nexus?style=flat-square&color=blue)](https://github.com/niki914/agentic-nexus/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niki914/agentic-nexus?style=flat-square&color=yellow)](https://github.com/niki914/agentic-nexus/stargazers) [![Forks](https://img.shields.io/github/forks/niki914/agentic-nexus?style=flat-square&color=blue)](https://github.com/niki914/agentic-nexus/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Take over your Android voice assistant with a custom AI agent — connect any LLM (Claude, GPT, Gemini), use MCP tools, Shell/SSH, and Root/Shizuku automation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ agentic-nexus is considered production-ready with some caveats. While it has a
 | forks | 0/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

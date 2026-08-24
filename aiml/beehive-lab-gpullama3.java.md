@@ -1,6 +1,6 @@
 # beehive-lab/GPULlama3.java
 
-[![Stars](https://img.shields.io/github/stars/beehive-lab/GPULlama3.java?style=flat-square&color=yellow)](https://github.com/beehive-lab/GPULlama3.java/stargazers) [![Forks](https://img.shields.io/github/forks/beehive-lab/GPULlama3.java?style=flat-square&color=blue)](https://github.com/beehive-lab/GPULlama3.java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beehive-lab/GPULlama3.java?style=flat-square&color=yellow)](https://github.com/beehive-lab/GPULlama3.java/stargazers) [![Forks](https://img.shields.io/github/forks/beehive-lab/GPULlama3.java?style=flat-square&color=blue)](https://github.com/beehive-lab/GPULlama3.java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > GPU-accelerated Llama3.java inference in pure Java using TornadoVM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ beehive-lab/GPULlama3.java 是一个基于 Java 的开源项目，使用 Tornado
 | forks | 39/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

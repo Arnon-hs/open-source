@@ -1,6 +1,6 @@
 # jaywcjlove/linux-command
 
-[![Stars](https://img.shields.io/github/stars/jaywcjlove/linux-command?style=flat-square&color=yellow)](https://github.com/jaywcjlove/linux-command/stargazers) [![Forks](https://img.shields.io/github/forks/jaywcjlove/linux-command?style=flat-square&color=blue)](https://github.com/jaywcjlove/linux-command/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaywcjlove/linux-command?style=flat-square&color=yellow)](https://github.com/jaywcjlove/linux-command/stargazers) [![Forks](https://img.shields.io/github/forks/jaywcjlove/linux-command?style=flat-square&color=blue)](https://github.com/jaywcjlove/linux-command/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36k |
 | 🍴 **Forks** | 6.6k |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Overall, `jaywcjlove/linux-command` is production‑ready for a pilot integratio
 | forks | 95/100 |
 | stars | 97/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 20/100 |
 | adoption | 97/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

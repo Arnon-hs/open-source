@@ -1,6 +1,6 @@
 # georust/geo
 
-[![Stars](https://img.shields.io/github/stars/georust/geo?style=flat-square&color=yellow)](https://github.com/georust/geo/stargazers) [![Forks](https://img.shields.io/github/forks/georust/geo?style=flat-square&color=blue)](https://github.com/georust/geo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georust/geo?style=flat-square&color=yellow)](https://github.com/georust/geo/stargazers) [![Forks](https://img.shields.io/github/forks/georust/geo?style=flat-square&color=blue)](https://github.com/georust/geo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Rust geospatial primitives & algorithms
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ georust/geo 是 Rust 生态中的地理空间基础库，提供点、线、面�
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

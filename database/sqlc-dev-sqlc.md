@@ -1,6 +1,6 @@
 # sqlc-dev/sqlc
 
-[![Stars](https://img.shields.io/github/stars/sqlc-dev/sqlc?style=flat-square&color=yellow)](https://github.com/sqlc-dev/sqlc/stargazers) [![Forks](https://img.shields.io/github/forks/sqlc-dev/sqlc?style=flat-square&color=blue)](https://github.com/sqlc-dev/sqlc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sqlc-dev/sqlc?style=flat-square&color=yellow)](https://github.com/sqlc-dev/sqlc/stargazers) [![Forks](https://img.shields.io/github/forks/sqlc-dev/sqlc?style=flat-square&color=blue)](https://github.com/sqlc-dev/sqlc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Generate type-safe code from SQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ sqlc-dev/sqlc 项目具有较高的生产可用性，主要原因是：
 | forks | 76/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 84/100 |
+| recency | 60/100 |
 | adoption | 86/100 |
-| production | 84/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

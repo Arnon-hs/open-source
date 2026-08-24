@@ -1,6 +1,6 @@
 # firewalla/firewalla
 
-[![Stars](https://img.shields.io/github/stars/firewalla/firewalla?style=flat-square&color=yellow)](https://github.com/firewalla/firewalla/stargazers) [![Forks](https://img.shields.io/github/forks/firewalla/firewalla?style=flat-square&color=blue)](https://github.com/firewalla/firewalla/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firewalla/firewalla?style=flat-square&color=yellow)](https://github.com/firewalla/firewalla/stargazers) [![Forks](https://img.shields.io/github/forks/firewalla/firewalla?style=flat-square&color=blue)](https://github.com/firewalla/firewalla/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > http://firewalla.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 612 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Firewalla 是一款开源的网络安全与可观测性平台，提供基于 Jav
 | forks | 54/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

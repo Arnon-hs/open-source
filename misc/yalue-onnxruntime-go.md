@@ -1,6 +1,6 @@
 # yalue/onnxruntime_go
 
-[![Stars](https://img.shields.io/github/stars/yalue/onnxruntime_go?style=flat-square&color=yellow)](https://github.com/yalue/onnxruntime_go/stargazers) [![Forks](https://img.shields.io/github/forks/yalue/onnxruntime_go?style=flat-square&color=blue)](https://github.com/yalue/onnxruntime_go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yalue/onnxruntime_go?style=flat-square&color=yellow)](https://github.com/yalue/onnxruntime_go/stargazers) [![Forks](https://img.shields.io/github/forks/yalue/onnxruntime_go?style=flat-square&color=blue)](https://github.com/yalue/onnxruntime_go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Go (golang) library wrapping microsoft/onnxruntime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 698 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ yalue/onnxruntime_go 的生产可用性较高，因为它有强大的生态系�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

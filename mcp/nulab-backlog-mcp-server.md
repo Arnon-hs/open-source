@@ -1,6 +1,6 @@
 # nulab/backlog-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/nulab/backlog-mcp-server?style=flat-square&color=yellow)](https://github.com/nulab/backlog-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nulab/backlog-mcp-server?style=flat-square&color=blue)](https://github.com/nulab/backlog-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nulab/backlog-mcp-server?style=flat-square&color=yellow)](https://github.com/nulab/backlog-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nulab/backlog-mcp-server?style=flat-square&color=blue)](https://github.com/nulab/backlog-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -82,14 +82,15 @@ nulab/backlog-mcp-server是一个开源项目，使用标准协议连接人工�
 | forks | 45/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

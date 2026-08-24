@@ -1,6 +1,6 @@
 # runify-dev/runify
 
-[![Stars](https://img.shields.io/github/stars/runify-dev/runify?style=flat-square&color=yellow)](https://github.com/runify-dev/runify/stargazers) [![Forks](https://img.shields.io/github/forks/runify-dev/runify?style=flat-square&color=blue)](https://github.com/runify-dev/runify/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runify-dev/runify?style=flat-square&color=yellow)](https://github.com/runify-dev/runify/stargazers) [![Forks](https://img.shields.io/github/forks/runify-dev/runify?style=flat-square&color=blue)](https://github.com/runify-dev/runify/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 轻量白盒多智能体平台 —— 可视化编排工作流，多 Agent 协作，高精度知识召回，企业级权限管理，统一对话管理。支持低成本嵌入第三方系统，200MB 低资源即可运行。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ runify-dev/runify 是一款轻量级白盒多智能体平台，提供可视化�
 | forks | 19/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

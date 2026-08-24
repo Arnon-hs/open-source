@@ -1,6 +1,6 @@
 # tbxark/rmtrash
 
-[![Stars](https://img.shields.io/github/stars/tbxark/rmtrash?style=flat-square&color=yellow)](https://github.com/tbxark/rmtrash/stargazers) [![Forks](https://img.shields.io/github/forks/tbxark/rmtrash?style=flat-square&color=blue)](https://github.com/tbxark/rmtrash/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tbxark/rmtrash?style=flat-square&color=yellow)](https://github.com/tbxark/rmtrash/stargazers) [![Forks](https://img.shields.io/github/forks/tbxark/rmtrash?style=flat-square&color=blue)](https://github.com/tbxark/rmtrash/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > rmtrash is a small utility that will move the file to macOS's Trash rather than obliterating the file (as rm does).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ tbxark/rmtrash 的生产可用性为中等。它适用于原型或内部工作�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

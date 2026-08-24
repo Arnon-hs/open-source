@@ -1,6 +1,6 @@
 # anneheartrecord/claude-code-docs
 
-[![Stars](https://img.shields.io/github/stars/anneheartrecord/claude-code-docs?style=flat-square&color=yellow)](https://github.com/anneheartrecord/claude-code-docs/stargazers) [![Forks](https://img.shields.io/github/forks/anneheartrecord/claude-code-docs?style=flat-square&color=blue)](https://github.com/anneheartrecord/claude-code-docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anneheartrecord/claude-code-docs?style=flat-square&color=yellow)](https://github.com/anneheartrecord/claude-code-docs/stargazers) [![Forks](https://img.shields.io/github/forks/anneheartrecord/claude-code-docs?style=flat-square&color=blue)](https://github.com/anneheartrecord/claude-code-docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Chapter-by-chapter teardown of a production coding agent — agent loop, context engineering, compaction, permissions, MCP. 13 chapters, Chinese and English.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Product
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ anneheartrecord/claude-code-docs 是一个开源项目，提供了对生产编�
 | forks | 33/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

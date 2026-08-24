@@ -1,6 +1,6 @@
 # mpobaschnig/vaults
 
-[![Stars](https://img.shields.io/github/stars/mpobaschnig/vaults?style=flat-square&color=yellow)](https://github.com/mpobaschnig/vaults/stargazers) [![Forks](https://img.shields.io/github/forks/mpobaschnig/vaults?style=flat-square&color=blue)](https://github.com/mpobaschnig/vaults/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpobaschnig/vaults?style=flat-square&color=yellow)](https://github.com/mpobaschnig/vaults/stargazers) [![Forks](https://img.shields.io/github/forks/mpobaschnig/vaults?style=flat-square&color=blue)](https://github.com/mpobaschnig/vaults/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Keep important files safe
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ mpobaschnig/vaults 的生产可用性为中等（Medium）。虽然它有助于�
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 66/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

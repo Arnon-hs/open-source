@@ -1,6 +1,6 @@
 # liketrek/TREK
 
-[![Stars](https://img.shields.io/github/stars/liketrek/TREK?style=flat-square&color=yellow)](https://github.com/liketrek/TREK/stargazers) [![Forks](https://img.shields.io/github/forks/liketrek/TREK?style=flat-square&color=blue)](https://github.com/liketrek/TREK/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liketrek/TREK?style=flat-square&color=yellow)](https://github.com/liketrek/TREK/stargazers) [![Forks](https://img.shields.io/github/forks/liketrek/TREK?style=flat-square&color=blue)](https://github.com/liketrek/TREK/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 885 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ liketrek/TREK 的生产可用性较高，因为它有以下几个优势：
 | forks | 74/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # a-tokyo/react-native-stripe-checkout-webview
 
-[![Stars](https://img.shields.io/github/stars/a-tokyo/react-native-stripe-checkout-webview?style=flat-square&color=yellow)](https://github.com/a-tokyo/react-native-stripe-checkout-webview/stargazers) [![Forks](https://img.shields.io/github/forks/a-tokyo/react-native-stripe-checkout-webview?style=flat-square&color=blue)](https://github.com/a-tokyo/react-native-stripe-checkout-webview/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a-tokyo/react-native-stripe-checkout-webview?style=flat-square&color=yellow)](https://github.com/a-tokyo/react-native-stripe-checkout-webview/stargazers) [![Forks](https://img.shields.io/github/forks/a-tokyo/react-native-stripe-checkout-webview?style=flat-square&color=blue)](https://github.com/a-tokyo/react-native-stripe-checkout-webview/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 💰 React Native implementation for Stripe.js Checkout.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ a‑tokyo/react-native-stripe-checkout-webview 是一个基于 Stripe.js Checkou
 | forks | 35/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

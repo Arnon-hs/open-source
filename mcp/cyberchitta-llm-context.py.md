@@ -1,6 +1,6 @@
 # cyberchitta/llm-context.py
 
-[![Stars](https://img.shields.io/github/stars/cyberchitta/llm-context.py?style=flat-square&color=yellow)](https://github.com/cyberchitta/llm-context.py/stargazers) [![Forks](https://img.shields.io/github/forks/cyberchitta/llm-context.py?style=flat-square&color=blue)](https://github.com/cyberchitta/llm-context.py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyberchitta/llm-context.py?style=flat-square&color=yellow)](https://github.com/cyberchitta/llm-context.py/stargazers) [![Forks](https://img.shields.io/github/forks/cyberchitta/llm-context.py?style=flat-square&color=blue)](https://github.com/cyberchitta/llm-context.py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlining.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ cyberchitta/llm-context.py 是一个开源项目，旨在通过 Model Context Pr
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

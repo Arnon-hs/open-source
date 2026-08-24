@@ -1,6 +1,6 @@
 # mrousavy/react-native-vision-camera
 
-[![Stars](https://img.shields.io/github/stars/mrousavy/react-native-vision-camera?style=flat-square&color=yellow)](https://github.com/mrousavy/react-native-vision-camera/stargazers) [![Forks](https://img.shields.io/github/forks/mrousavy/react-native-vision-camera?style=flat-square&color=blue)](https://github.com/mrousavy/react-native-vision-camera/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrousavy/react-native-vision-camera?style=flat-square&color=yellow)](https://github.com/mrousavy/react-native-vision-camera/stargazers) [![Forks](https://img.shields.io/github/forks/mrousavy/react-native-vision-camera?style=flat-square&color=blue)](https://github.com/mrousavy/react-native-vision-camera/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 📸 A powerful, high-performance React Native Camera library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database · Mobile
+AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ mrousavy/react-native-vision-camera 是一款面向 React Native 的高性能�
 | forks | 78/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 83/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ashmitb95/claude-notifier
 
-[![Stars](https://img.shields.io/github/stars/ashmitb95/claude-notifier?style=flat-square&color=yellow)](https://github.com/ashmitb95/claude-notifier/stargazers) [![Forks](https://img.shields.io/github/forks/ashmitb95/claude-notifier?style=flat-square&color=blue)](https://github.com/ashmitb95/claude-notifier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashmitb95/claude-notifier?style=flat-square&color=yellow)](https://github.com/ashmitb95/claude-notifier/stargazers) [![Forks](https://img.shields.io/github/forks/ashmitb95/claude-notifier?style=flat-square&color=blue)](https://github.com/ashmitb95/claude-notifier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > VSCode extension that plays distinct sounds when Claude Code finishes a task or needs your input
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Claude Notifier 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 25/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mardous/BoomingMusic
 
-[![Stars](https://img.shields.io/github/stars/mardous/BoomingMusic?style=flat-square&color=yellow)](https://github.com/mardous/BoomingMusic/stargazers) [![Forks](https://img.shields.io/github/forks/mardous/BoomingMusic?style=flat-square&color=blue)](https://github.com/mardous/BoomingMusic/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mardous/BoomingMusic?style=flat-square&color=yellow)](https://github.com/mardous/BoomingMusic/stargazers) [![Forks](https://img.shields.io/github/forks/mardous/BoomingMusic?style=flat-square&color=blue)](https://github.com/mardous/BoomingMusic/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Clean, fast, and Material-driven Android music player with powerful features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ mardous/BoomingMusic 的生产可用性为中等（Medium），适合用于原�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

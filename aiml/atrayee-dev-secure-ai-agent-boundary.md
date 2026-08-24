@@ -1,6 +1,6 @@
 # Atrayee-dev/secure-ai-agent-boundary
 
-[![Stars](https://img.shields.io/github/stars/Atrayee-dev/secure-ai-agent-boundary?style=flat-square&color=yellow)](https://github.com/Atrayee-dev/secure-ai-agent-boundary/stargazers) [![Forks](https://img.shields.io/github/forks/Atrayee-dev/secure-ai-agent-boundary?style=flat-square&color=blue)](https://github.com/Atrayee-dev/secure-ai-agent-boundary/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Atrayee-dev/secure-ai-agent-boundary?style=flat-square&color=yellow)](https://github.com/Atrayee-dev/secure-ai-agent-boundary/stargazers) [![Forks](https://img.shields.io/github/forks/Atrayee-dev/secure-ai-agent-boundary?style=flat-square&color=blue)](https://github.com/Atrayee-dev/secure-ai-agent-boundary/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ Atrayee-dev/secure-ai-agent-boundary 是一个开源项目，旨在为前沿模�
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

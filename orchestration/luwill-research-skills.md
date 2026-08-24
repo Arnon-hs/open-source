@@ -1,6 +1,6 @@
 # luwill/research-skills
 
-[![Stars](https://img.shields.io/github/stars/luwill/research-skills?style=flat-square&color=yellow)](https://github.com/luwill/research-skills/stargazers) [![Forks](https://img.shields.io/github/forks/luwill/research-skills?style=flat-square&color=blue)](https://github.com/luwill/research-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luwill/research-skills?style=flat-square&color=yellow)](https://github.com/luwill/research-skills/stargazers) [![Forks](https://img.shields.io/github/forks/luwill/research-skills?style=flat-square&color=blue)](https://github.com/luwill/research-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Some commonly used research experiences and processes are encapsulated into Agent skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 712 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ luwill/research-skills 的生产可用性为中等。它适合用于原型或内
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

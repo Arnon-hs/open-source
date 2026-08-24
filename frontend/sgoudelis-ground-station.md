@@ -1,6 +1,6 @@
 # sgoudelis/ground-station
 
-[![Stars](https://img.shields.io/github/stars/sgoudelis/ground-station?style=flat-square&color=yellow)](https://github.com/sgoudelis/ground-station/stargazers) [![Forks](https://img.shields.io/github/forks/sgoudelis/ground-station?style=flat-square&color=blue)](https://github.com/sgoudelis/ground-station/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgoudelis/ground-station?style=flat-square&color=yellow)](https://github.com/sgoudelis/ground-station/stargazers) [![Forks](https://img.shields.io/github/forks/sgoudelis/ground-station?style=flat-square&color=blue)](https://github.com/sgoudelis/ground-station/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 806 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ sgoudelis/ground‑station 是一套基于浏览器的地面站系统，提供�
 | forks | 73/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

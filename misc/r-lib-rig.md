@@ -1,6 +1,6 @@
 # r-lib/rig
 
-[![Stars](https://img.shields.io/github/stars/r-lib/rig?style=flat-square&color=yellow)](https://github.com/r-lib/rig/stargazers) [![Forks](https://img.shields.io/github/forks/r-lib/rig?style=flat-square&color=blue)](https://github.com/r-lib/rig/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r-lib/rig?style=flat-square&color=yellow)](https://github.com/r-lib/rig/stargazers) [![Forks](https://img.shields.io/github/forks/r-lib/rig?style=flat-square&color=blue)](https://github.com/r-lib/rig/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The R Installation Manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 953 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ r‑lib/rig（R Installation Manager）是一个用 Rust 编写的工具，旨�
 | forks | 39/100 |
 | stars | 63/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

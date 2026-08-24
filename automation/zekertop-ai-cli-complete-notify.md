@@ -1,6 +1,6 @@
 # ZekerTop/ai-cli-complete-notify
 
-[![Stars](https://img.shields.io/github/stars/ZekerTop/ai-cli-complete-notify?style=flat-square&color=yellow)](https://github.com/ZekerTop/ai-cli-complete-notify/stargazers) [![Forks](https://img.shields.io/github/forks/ZekerTop/ai-cli-complete-notify?style=flat-square&color=blue)](https://github.com/ZekerTop/ai-cli-complete-notify/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZekerTop/ai-cli-complete-notify?style=flat-square&color=yellow)](https://github.com/ZekerTop/ai-cli-complete-notify/stargazers) [![Forks](https://img.shields.io/github/forks/ZekerTop/ai-cli-complete-notify?style=flat-square&color=blue)](https://github.com/ZekerTop/ai-cli-complete-notify/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 Claude Code / Codex / OpenCode / Gemini  的多通道AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI摘要等功能
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ ZekerTop/ai-cli-complete-notify
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

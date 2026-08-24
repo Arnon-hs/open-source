@@ -1,6 +1,6 @@
 # ankimcp/anki-mcp-server-addon
 
-[![Stars](https://img.shields.io/github/stars/ankimcp/anki-mcp-server-addon?style=flat-square&color=yellow)](https://github.com/ankimcp/anki-mcp-server-addon/stargazers) [![Forks](https://img.shields.io/github/forks/ankimcp/anki-mcp-server-addon?style=flat-square&color=blue)](https://github.com/ankimcp/anki-mcp-server-addon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ankimcp/anki-mcp-server-addon?style=flat-square&color=yellow)](https://github.com/ankimcp/anki-mcp-server-addon/stargazers) [![Forks](https://img.shields.io/github/forks/ankimcp/anki-mcp-server-addon?style=flat-square&color=blue)](https://github.com/ankimcp/anki-mcp-server-addon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An Anki addon that implements an MCP server, enabling AI assistants to interact with Anki, the spaced repetition flashcard application.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Anki-MCP 服务器插件（ankimcp/anki-mcp-server-addon）是一个开源项目
 | forks | 23/100 |
 | stars | 39/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

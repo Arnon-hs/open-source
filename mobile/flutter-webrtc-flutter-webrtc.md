@@ -1,6 +1,6 @@
 # flutter-webrtc/flutter-webrtc
 
-[![Stars](https://img.shields.io/github/stars/flutter-webrtc/flutter-webrtc?style=flat-square&color=yellow)](https://github.com/flutter-webrtc/flutter-webrtc/stargazers) [![Forks](https://img.shields.io/github/forks/flutter-webrtc/flutter-webrtc?style=flat-square&color=blue)](https://github.com/flutter-webrtc/flutter-webrtc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter-webrtc/flutter-webrtc?style=flat-square&color=yellow)](https://github.com/flutter-webrtc/flutter-webrtc/stargazers) [![Forks](https://img.shields.io/github/forks/flutter-webrtc/flutter-webrtc?style=flat-square&color=blue)](https://github.com/flutter-webrtc/flutter-webrtc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > WebRTC plugin for Flutter Mobile/Desktop/Web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ flutter-webrtc/flutter-webrtc 的生产可用性非常高。该插件的最近�
 | forks | 79/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

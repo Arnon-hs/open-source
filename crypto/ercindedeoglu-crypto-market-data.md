@@ -1,6 +1,6 @@
 # ErcinDedeoglu/crypto-market-data
 
-[![Stars](https://img.shields.io/github/stars/ErcinDedeoglu/crypto-market-data?style=flat-square&color=yellow)](https://github.com/ErcinDedeoglu/crypto-market-data/stargazers) [![Forks](https://img.shields.io/github/forks/ErcinDedeoglu/crypto-market-data?style=flat-square&color=blue)](https://github.com/ErcinDedeoglu/crypto-market-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ErcinDedeoglu/crypto-market-data?style=flat-square&color=yellow)](https://github.com/ErcinDedeoglu/crypto-market-data/stargazers) [![Forks](https://img.shields.io/github/forks/ErcinDedeoglu/crypto-market-data?style=flat-square&color=blue)](https://github.com/ErcinDedeoglu/crypto-market-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📈 Free crypto market data (worth $500+/mo) for ML & research. Star ⭐ to keep it free!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML · Data · Education
+Crypto · Trading · AI/ML · Data
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ ErcinDedeoglu/crypto-market-data：ErcinDedeoglu/crypto-market-data helps protot
 | forks | 27/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

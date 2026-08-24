@@ -1,6 +1,6 @@
 # rafatosta/zapzap
 
-[![Stars](https://img.shields.io/github/stars/rafatosta/zapzap?style=flat-square&color=yellow)](https://github.com/rafatosta/zapzap/stargazers) [![Forks](https://img.shields.io/github/forks/rafatosta/zapzap?style=flat-square&color=blue)](https://github.com/rafatosta/zapzap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafatosta/zapzap?style=flat-square&color=yellow)](https://github.com/rafatosta/zapzap/stargazers) [![Forks](https://img.shields.io/github/forks/rafatosta/zapzap?style=flat-square&color=blue)](https://github.com/rafatosta/zapzap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ rafatosta/zapzap 是一款基于 PyQt6 与 PyQt6‑WebEngine 实现的 WhatsApp 
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

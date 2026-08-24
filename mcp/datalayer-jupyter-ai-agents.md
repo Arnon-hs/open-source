@@ -1,6 +1,6 @@
 # datalayer/jupyter-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/datalayer/jupyter-ai-agents?style=flat-square&color=yellow)](https://github.com/datalayer/jupyter-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/datalayer/jupyter-ai-agents?style=flat-square&color=blue)](https://github.com/datalayer/jupyter-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datalayer/jupyter-ai-agents?style=flat-square&color=yellow)](https://github.com/datalayer/jupyter-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/datalayer/jupyter-ai-agents?style=flat-square&color=blue)](https://github.com/datalayer/jupyter-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🪐 🤖 AI Agents for JupyterLab with 🔧 MCP tools - Chat interface for optimized notebook interaction and code execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Data
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ datalayer/jupyter-ai-agents 帮助连接 AI 助手与真实工具和数据，提
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

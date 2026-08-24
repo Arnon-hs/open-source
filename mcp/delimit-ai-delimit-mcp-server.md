@@ -1,6 +1,6 @@
 # delimit-ai/delimit-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/delimit-ai/delimit-mcp-server?style=flat-square&color=yellow)](https://github.com/delimit-ai/delimit-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/delimit-ai/delimit-mcp-server?style=flat-square&color=blue)](https://github.com/delimit-ai/delimit-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/delimit-ai/delimit-mcp-server?style=flat-square&color=yellow)](https://github.com/delimit-ai/delimit-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/delimit-ai/delimit-mcp-server?style=flat-square&color=blue)](https://github.com/delimit-ai/delimit-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The merge gate for AI-written code, with signed, replayable attestation. Works across Claude Code, Codex, Cursor, and Gemini CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ delimit-ai/delimit-mcp-server 的生产可用性较高，主要原因是：
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

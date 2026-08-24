@@ -1,6 +1,6 @@
 # AgiFlow/aicode-toolkit
 
-[![Stars](https://img.shields.io/github/stars/AgiFlow/aicode-toolkit?style=flat-square&color=yellow)](https://github.com/AgiFlow/aicode-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/AgiFlow/aicode-toolkit?style=flat-square&color=blue)](https://github.com/AgiFlow/aicode-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgiFlow/aicode-toolkit?style=flat-square&color=yellow)](https://github.com/AgiFlow/aicode-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/AgiFlow/aicode-toolkit?style=flat-square&color=blue)](https://github.com/AgiFlow/aicode-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Toolkit for Coding Agents to work reliably with repo of any size.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ AgiFlow/aicode‑toolkit 是一套面向编码型 AI 代理的工具箱，提供
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

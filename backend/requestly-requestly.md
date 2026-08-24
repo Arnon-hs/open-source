@@ -1,6 +1,6 @@
 # requestly/requestly
 
-[![Stars](https://img.shields.io/github/stars/requestly/requestly?style=flat-square&color=yellow)](https://github.com/requestly/requestly/stargazers) [![Forks](https://img.shields.io/github/forks/requestly/requestly?style=flat-square&color=blue)](https://github.com/requestly/requestly/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/requestly/requestly?style=flat-square&color=yellow)](https://github.com/requestly/requestly/stargazers) [![Forks](https://img.shields.io/github/forks/requestly/requestly?style=flat-square&color=blue)](https://github.com/requestly/requestly/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 704 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Product
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Requestly（`requestly/requestly`）是一个以隐私为先的 Postman 替代�
 | forks | 71/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

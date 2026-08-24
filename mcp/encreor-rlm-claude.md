@@ -1,6 +1,6 @@
 # EncrEor/rlm-claude
 
-[![Stars](https://img.shields.io/github/stars/EncrEor/rlm-claude?style=flat-square&color=yellow)](https://github.com/EncrEor/rlm-claude/stargazers) [![Forks](https://img.shields.io/github/forks/EncrEor/rlm-claude?style=flat-square&color=blue)](https://github.com/EncrEor/rlm-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EncrEor/rlm-claude?style=flat-square&color=yellow)](https://github.com/EncrEor/rlm-claude/stargazers) [![Forks](https://img.shields.io/github/forks/EncrEor/rlm-claude?style=flat-square&color=blue)](https://github.com/EncrEor/rlm-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Recursive Language Models for Claude Code - Infinite memory solution inspired by MIT CSAIL paper
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ EncrEor/rlm-claude 是基于 MIT CSAIL 论文的递归语言模型实现，提�
 | forks | 25/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

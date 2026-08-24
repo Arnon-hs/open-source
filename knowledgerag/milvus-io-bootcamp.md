@@ -1,6 +1,6 @@
 # milvus-io/bootcamp
 
-[![Stars](https://img.shields.io/github/stars/milvus-io/bootcamp?style=flat-square&color=yellow)](https://github.com/milvus-io/bootcamp/stargazers) [![Forks](https://img.shields.io/github/forks/milvus-io/bootcamp?style=flat-square&color=blue)](https://github.com/milvus-io/bootcamp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milvus-io/bootcamp?style=flat-square&color=yellow)](https://github.com/milvus-io/bootcamp/stargazers) [![Forks](https://img.shields.io/github/forks/milvus-io/bootcamp?style=flat-square&color=blue)](https://github.com/milvus-io/bootcamp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 685 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database · Education
+Knowledge/RAG · AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ milvus-io/bootcamp具有较高的生产可用性，主要原因是：
 | forks | 71/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

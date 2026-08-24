@@ -1,6 +1,6 @@
 # antfu-collective/taze
 
-[![Stars](https://img.shields.io/github/stars/antfu-collective/taze?style=flat-square&color=yellow)](https://github.com/antfu-collective/taze/stargazers) [![Forks](https://img.shields.io/github/forks/antfu-collective/taze?style=flat-square&color=blue)](https://github.com/antfu-collective/taze/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antfu-collective/taze?style=flat-square&color=yellow)](https://github.com/antfu-collective/taze/stargazers) [![Forks](https://img.shields.io/github/forks/antfu-collective/taze?style=flat-square&color=blue)](https://github.com/antfu-collective/taze/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🥦 A modern cli tool that keeps your deps fresh
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ antfu-collective/taze是一个现代化的命令行工具，帮助开发者保�
 | forks | 54/100 |
 | stars | 77/100 |
 | topics | 38/100 |
-| outlook | 81/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

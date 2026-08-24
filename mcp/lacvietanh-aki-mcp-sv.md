@@ -1,6 +1,6 @@
 # lacvietanh/aki-mcp-sv
 
-[![Stars](https://img.shields.io/github/stars/lacvietanh/aki-mcp-sv?style=flat-square&color=yellow)](https://github.com/lacvietanh/aki-mcp-sv/stargazers) [![Forks](https://img.shields.io/github/forks/lacvietanh/aki-mcp-sv?style=flat-square&color=blue)](https://github.com/lacvietanh/aki-mcp-sv/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lacvietanh/aki-mcp-sv?style=flat-square&color=yellow)](https://github.com/lacvietanh/aki-mcp-sv/stargazers) [![Forks](https://img.shields.io/github/forks/lacvietanh/aki-mcp-sv?style=flat-square&color=blue)](https://github.com/lacvietanh/aki-mcp-sv/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Custom MCP [Connector] for AI chat web [Claude|ChatGPT|Grok...] use Files/Shell on your computer directly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ lacvietanh/aki-mcp-sv 的价值在于，它可以连接 AI 代理到工具，标
 | forks | 36/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

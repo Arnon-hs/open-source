@@ -1,6 +1,6 @@
 # levibmackay/lydia-cli
 
-[![Stars](https://img.shields.io/github/stars/levibmackay/lydia-cli?style=flat-square&color=yellow)](https://github.com/levibmackay/lydia-cli/stargazers) [![Forks](https://img.shields.io/github/forks/levibmackay/lydia-cli?style=flat-square&color=blue)](https://github.com/levibmackay/lydia-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/levibmackay/lydia-cli?style=flat-square&color=yellow)](https://github.com/levibmackay/lydia-cli/stargazers) [![Forks](https://img.shields.io/github/forks/levibmackay/lydia-cli?style=flat-square&color=blue)](https://github.com/levibmackay/lydia-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Lydia is a local AI coding agent for the terminal — reads and edits your code, runs commands, and drives git through a local Ollama model. No API keys, no cloud, nothing leaves your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Marketing
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Lydia-cli 的生产可用性为中等。它在原型化或内部工作流中非�
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

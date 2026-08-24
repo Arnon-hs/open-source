@@ -1,6 +1,6 @@
 # emredurukn/awesome-job-boards
 
-[![Stars](https://img.shields.io/github/stars/emredurukn/awesome-job-boards?style=flat-square&color=yellow)](https://github.com/emredurukn/awesome-job-boards/stargazers) [![Forks](https://img.shields.io/github/forks/emredurukn/awesome-job-boards?style=flat-square&color=blue)](https://github.com/emredurukn/awesome-job-boards/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emredurukn/awesome-job-boards?style=flat-square&color=yellow)](https://github.com/emredurukn/awesome-job-boards/stargazers) [![Forks](https://img.shields.io/github/forks/emredurukn/awesome-job-boards?style=flat-square&color=blue)](https://github.com/emredurukn/awesome-job-boards/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome job boards
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ emredurukn/awesome-job-boards：emredurukn/awesome-job-boards may be useful when
 | forks | 59/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

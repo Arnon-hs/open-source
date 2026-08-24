@@ -1,6 +1,6 @@
 # tigerless-labs/design-harness
 
-[![Stars](https://img.shields.io/github/stars/tigerless-labs/design-harness?style=flat-square&color=yellow)](https://github.com/tigerless-labs/design-harness/stargazers) [![Forks](https://img.shields.io/github/forks/tigerless-labs/design-harness?style=flat-square&color=blue)](https://github.com/tigerless-labs/design-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tigerless-labs/design-harness?style=flat-square&color=yellow)](https://github.com/tigerless-labs/design-harness/stargazers) [![Forks](https://img.shields.io/github/forks/tigerless-labs/design-harness?style=flat-square&color=blue)](https://github.com/tigerless-labs/design-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Feed your agent papers and half-formed ideas — it links them into a system design you can defend. Markdown keeps the record; a visual canvas makes it readable. An Agent Skill for Claude Code & any SKILL.md-compatible agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database · Design
+Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Here's a brief summary of the open-source project 'tigerless-labs/design-harness
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

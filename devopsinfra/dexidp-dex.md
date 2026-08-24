@@ -1,6 +1,6 @@
 # dexidp/dex
 
-[![Stars](https://img.shields.io/github/stars/dexidp/dex?style=flat-square&color=yellow)](https://github.com/dexidp/dex/stargazers) [![Forks](https://img.shields.io/github/forks/dexidp/dex?style=flat-square&color=blue)](https://github.com/dexidp/dex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dexidp/dex?style=flat-square&color=yellow)](https://github.com/dexidp/dex/stargazers) [![Forks](https://img.shields.io/github/forks/dexidp/dex?style=flat-square&color=blue)](https://github.com/dexidp/dex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevOps/Infra · Security
+DevOps/Infra
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ dexidp/dex 具有高生产可用性，适合于生产环境使用。该项目具
 | forks | 82/100 |
 | stars | 86/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 85/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

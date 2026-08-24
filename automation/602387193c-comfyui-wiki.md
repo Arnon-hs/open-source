@@ -1,6 +1,6 @@
 # 602387193c/ComfyUI-wiki
 
-[![Stars](https://img.shields.io/github/stars/602387193c/ComfyUI-wiki?style=flat-square&color=yellow)](https://github.com/602387193c/ComfyUI-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/602387193c/ComfyUI-wiki?style=flat-square&color=blue)](https://github.com/602387193c/ComfyUI-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/602387193c/ComfyUI-wiki?style=flat-square&color=yellow)](https://github.com/602387193c/ComfyUI-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/602387193c/ComfyUI-wiki?style=flat-square&color=blue)](https://github.com/602387193c/ComfyUI-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · Frontend · Education
+Automation
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ ComfyUI‑wiki can dramatically reduce the manual effort of building and maintai
 | forks | 55/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

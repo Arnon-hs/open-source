@@ -1,6 +1,6 @@
 # danielpigott/cloudflare-cli
 
-[![Stars](https://img.shields.io/github/stars/danielpigott/cloudflare-cli?style=flat-square&color=yellow)](https://github.com/danielpigott/cloudflare-cli/stargazers) [![Forks](https://img.shields.io/github/forks/danielpigott/cloudflare-cli?style=flat-square&color=blue)](https://github.com/danielpigott/cloudflare-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielpigott/cloudflare-cli?style=flat-square&color=yellow)](https://github.com/danielpigott/cloudflare-cli/stargazers) [![Forks](https://img.shields.io/github/forks/danielpigott/cloudflare-cli?style=flat-square&color=blue)](https://github.com/danielpigott/cloudflare-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for interacting with Cloudflare
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ danielpigott/cloudflare-cli 的生产可用性为 中等（Medium），适合用
 | forks | 42/100 |
 | stars | 52/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

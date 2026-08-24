@@ -1,6 +1,6 @@
 # sabnzbd/sabnzbd
 
-[![Stars](https://img.shields.io/github/stars/sabnzbd/sabnzbd?style=flat-square&color=yellow)](https://github.com/sabnzbd/sabnzbd/stargazers) [![Forks](https://img.shields.io/github/forks/sabnzbd/sabnzbd?style=flat-square&color=blue)](https://github.com/sabnzbd/sabnzbd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sabnzbd/sabnzbd?style=flat-square&color=yellow)](https://github.com/sabnzbd/sabnzbd/stargazers) [![Forks](https://img.shields.io/github/forks/sabnzbd/sabnzbd?style=flat-square&color=blue)](https://github.com/sabnzbd/sabnzbd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > SABnzbd - The automated Usenet download tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 376 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ SABnzbd 的生产可用性很高，得分为 66/100。它的最新活动、采�
 | forks | 64/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

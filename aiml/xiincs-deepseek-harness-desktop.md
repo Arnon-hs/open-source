@@ -1,6 +1,6 @@
 # xiincs/deepseek-harness-desktop
 
-[![Stars](https://img.shields.io/github/stars/xiincs/deepseek-harness-desktop?style=flat-square&color=yellow)](https://github.com/xiincs/deepseek-harness-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/xiincs/deepseek-harness-desktop?style=flat-square&color=blue)](https://github.com/xiincs/deepseek-harness-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiincs/deepseek-harness-desktop?style=flat-square&color=yellow)](https://github.com/xiincs/deepseek-harness-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/xiincs/deepseek-harness-desktop?style=flat-square&color=blue)](https://github.com/xiincs/deepseek-harness-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness 原生桌面版，基于 Tauri 2，内置 Node.js 运行时，一键安装，极速启动，托盘常驻，自动更新。DeepSeek Harness native desktop version: built on Tauri 2 with a bundled Node.js runtime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ DeepSeek Harness 原生桌面版的生产可用性
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

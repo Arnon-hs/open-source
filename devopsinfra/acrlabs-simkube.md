@@ -1,6 +1,6 @@
 # acrlabs/simkube
 
-[![Stars](https://img.shields.io/github/stars/acrlabs/simkube?style=flat-square&color=yellow)](https://github.com/acrlabs/simkube/stargazers) [![Forks](https://img.shields.io/github/forks/acrlabs/simkube?style=flat-square&color=blue)](https://github.com/acrlabs/simkube/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acrlabs/simkube?style=flat-square&color=yellow)](https://github.com/acrlabs/simkube/stargazers) [![Forks](https://img.shields.io/github/forks/acrlabs/simkube?style=flat-square&color=blue)](https://github.com/acrlabs/simkube/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Record-and-replay Kubernetes simulator based on KWOK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ acrlabs/simkube：acrlabs/simkube helps make deployment and operations more repe
 | forks | 31/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # MentionNetwork/awesome-agentic-commerce
 
-[![Stars](https://img.shields.io/github/stars/MentionNetwork/awesome-agentic-commerce?style=flat-square&color=yellow)](https://github.com/MentionNetwork/awesome-agentic-commerce/stargazers) [![Forks](https://img.shields.io/github/forks/MentionNetwork/awesome-agentic-commerce?style=flat-square&color=blue)](https://github.com/MentionNetwork/awesome-agentic-commerce/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MentionNetwork/awesome-agentic-commerce?style=flat-square&color=yellow)](https://github.com/MentionNetwork/awesome-agentic-commerce/stargazers) [![Forks](https://img.shields.io/github/forks/MentionNetwork/awesome-agentic-commerce?style=flat-square&color=blue)](https://github.com/MentionNetwork/awesome-agentic-commerce/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ MentionNetwork/awesome-agentic-commerce 的价值在于，它通过提供标准�
 | forks | 34/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

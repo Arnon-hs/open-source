@@ -1,6 +1,6 @@
 # JSONbored/awesome-claude
 
-[![Stars](https://img.shields.io/github/stars/JSONbored/awesome-claude?style=flat-square&color=yellow)](https://github.com/JSONbored/awesome-claude/stargazers) [![Forks](https://img.shields.io/github/forks/JSONbored/awesome-claude?style=flat-square&color=blue)](https://github.com/JSONbored/awesome-claude/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JSONbored/awesome-claude?style=flat-square&color=yellow)](https://github.com/JSONbored/awesome-claude/stargazers) [![Forks](https://img.shields.io/github/forks/JSONbored/awesome-claude?style=flat-square&color=blue)](https://github.com/JSONbored/awesome-claude/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Claude directory: agents, MCP servers, skills, hooks, commands, tools, guides, and AI workflow resources.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ JSONbored/awesome-claude 是一个面向 Claude AI 的资源集合库，汇聚�
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

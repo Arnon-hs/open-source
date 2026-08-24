@@ -1,6 +1,6 @@
 # awdr74100/figwright
 
-[![Stars](https://img.shields.io/github/stars/awdr74100/figwright?style=flat-square&color=yellow)](https://github.com/awdr74100/figwright/stargazers) [![Forks](https://img.shields.io/github/forks/awdr74100/figwright?style=flat-square&color=blue)](https://github.com/awdr74100/figwright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awdr74100/figwright?style=flat-square&color=yellow)](https://github.com/awdr74100/figwright/stargazers) [![Forks](https://img.shields.io/github/forks/awdr74100/figwright?style=flat-square&color=blue)](https://github.com/awdr74100/figwright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor, Codex, and any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Design
+MCP · AI/ML · Design
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ awdr74100/figwright 有很高的生产可用性，主要原因是：
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

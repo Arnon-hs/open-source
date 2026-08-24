@@ -1,6 +1,6 @@
 # ansible/awx
 
-[![Stars](https://img.shields.io/github/stars/ansible/awx?style=flat-square&color=yellow)](https://github.com/ansible/awx/stargazers) [![Forks](https://img.shields.io/github/forks/ansible/awx?style=flat-square&color=blue)](https://github.com/ansible/awx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ansible/awx?style=flat-square&color=yellow)](https://github.com/ansible/awx/stargazers) [![Forks](https://img.shields.io/github/forks/ansible/awx?style=flat-square&color=blue)](https://github.com/ansible/awx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.4k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Backend · Database
+Automation
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ AWX 是基于 Ansible 构建的开源自动化平台，提供 Web UI、REST API 
 | forks | 89/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
 | adoption | 89/100 |
-| production | 86/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

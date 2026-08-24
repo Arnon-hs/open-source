@@ -1,6 +1,6 @@
 # rongxinzy/RongxinAI
 
-[![Stars](https://img.shields.io/github/stars/rongxinzy/RongxinAI?style=flat-square&color=yellow)](https://github.com/rongxinzy/RongxinAI/stargazers) [![Forks](https://img.shields.io/github/forks/rongxinzy/RongxinAI?style=flat-square&color=blue)](https://github.com/rongxinzy/RongxinAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rongxinzy/RongxinAI?style=flat-square&color=yellow)](https://github.com/rongxinzy/RongxinAI/stargazers) [![Forks](https://img.shields.io/github/forks/rongxinzy/RongxinAI?style=flat-square&color=blue)](https://github.com/rongxinzy/RongxinAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An all-in-one local AI Agent workspace with a fully self-developed stack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ rongxinzy/RongxinAI：rongxinzy/RongxinAI helps add AI capability without starti
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

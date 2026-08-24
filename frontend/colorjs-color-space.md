@@ -1,6 +1,6 @@
 # colorjs/color-space
 
-[![Stars](https://img.shields.io/github/stars/colorjs/color-space?style=flat-square&color=yellow)](https://github.com/colorjs/color-space/stargazers) [![Forks](https://img.shields.io/github/forks/colorjs/color-space?style=flat-square&color=blue)](https://github.com/colorjs/color-space/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/colorjs/color-space?style=flat-square&color=yellow)](https://github.com/colorjs/color-space/stargazers) [![Forks](https://img.shields.io/github/forks/colorjs/color-space?style=flat-square&color=blue)](https://github.com/colorjs/color-space/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open collection of color spaces
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ colorjs/color-space 的生产可用性为 中等。它适合用于原型或内�
 | forks | 37/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

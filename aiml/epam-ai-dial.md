@@ -1,6 +1,6 @@
 # epam/ai-dial
 
-[![Stars](https://img.shields.io/github/stars/epam/ai-dial?style=flat-square&color=yellow)](https://github.com/epam/ai-dial/stargazers) [![Forks](https://img.shields.io/github/forks/epam/ai-dial?style=flat-square&color=blue)](https://github.com/epam/ai-dial/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epam/ai-dial?style=flat-square&color=yellow)](https://github.com/epam/ai-dial/stargazers) [![Forks](https://img.shields.io/github/forks/epam/ai-dial?style=flat-square&color=blue)](https://github.com/epam/ai-dial/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for AI DIAL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ epam/ai-dial 的生产可用性为中等。它非常适合于快速原型化和�
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 25/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

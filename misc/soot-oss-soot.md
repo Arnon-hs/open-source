@@ -1,6 +1,6 @@
 # soot-oss/soot
 
-[![Stars](https://img.shields.io/github/stars/soot-oss/soot?style=flat-square&color=yellow)](https://github.com/soot-oss/soot/stargazers) [![Forks](https://img.shields.io/github/forks/soot-oss/soot?style=flat-square&color=blue)](https://github.com/soot-oss/soot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soot-oss/soot?style=flat-square&color=yellow)](https://github.com/soot-oss/soot/stargazers) [![Forks](https://img.shields.io/github/forks/soot-oss/soot?style=flat-square&color=blue)](https://github.com/soot-oss/soot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Soot - A Java optimization framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 725 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Soot 的生产可用性较高，因为其有活跃的社区、广泛的采用和
 | forks | 72/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

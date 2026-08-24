@@ -1,6 +1,6 @@
 # Chocapikk/wpprobe
 
-[![Stars](https://img.shields.io/github/stars/Chocapikk/wpprobe?style=flat-square&color=yellow)](https://github.com/Chocapikk/wpprobe/stargazers) [![Forks](https://img.shields.io/github/forks/Chocapikk/wpprobe?style=flat-square&color=blue)](https://github.com/Chocapikk/wpprobe/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chocapikk/wpprobe?style=flat-square&color=yellow)](https://github.com/Chocapikk/wpprobe/stargazers) [![Forks](https://img.shields.io/github/forks/Chocapikk/wpprobe?style=flat-square&color=blue)](https://github.com/Chocapikk/wpprobe/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A fast WordPress plugin enumeration tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 915 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Chocapikk/wpprobe 是一款基于 Go 的快速 WordPress 插件枚举工具，�
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

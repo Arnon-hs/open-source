@@ -1,6 +1,6 @@
 # e2b-dev/awesome-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/e2b-dev/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/e2b-dev/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/e2b-dev/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/e2b-dev/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A list of AI autonomous agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.7k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ e2b-dev/awesome-ai-agents 是一个开源项目，汇集了各种人工智能自
 | forks | 87/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 82/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

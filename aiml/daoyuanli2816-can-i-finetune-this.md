@@ -1,6 +1,6 @@
 # DaoyuanLi2816/can-i-finetune-this
 
-[![Stars](https://img.shields.io/github/stars/DaoyuanLi2816/can-i-finetune-this?style=flat-square&color=yellow)](https://github.com/DaoyuanLi2816/can-i-finetune-this/stargazers) [![Forks](https://img.shields.io/github/forks/DaoyuanLi2816/can-i-finetune-this?style=flat-square&color=blue)](https://github.com/DaoyuanLi2816/can-i-finetune-this/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaoyuanLi2816/can-i-finetune-this?style=flat-square&color=yellow)](https://github.com/DaoyuanLi2816/can-i-finetune-this/stargazers) [![Forks](https://img.shields.io/github/forks/DaoyuanLi2816/can-i-finetune-this?style=flat-square&color=blue)](https://github.com/DaoyuanLi2816/can-i-finetune-this/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 789 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ DaoyuanLi2816/can-i-finetune-this 是一个开源项目，用于评估 Hugging F
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

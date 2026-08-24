@@ -1,6 +1,6 @@
 # LiPu-jpg/Openwrite
 
-[![Stars](https://img.shields.io/github/stars/LiPu-jpg/Openwrite?style=flat-square&color=yellow)](https://github.com/LiPu-jpg/Openwrite/stargazers) [![Forks](https://img.shields.io/github/forks/LiPu-jpg/Openwrite?style=flat-square&color=blue)](https://github.com/LiPu-jpg/Openwrite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LiPu-jpg/Openwrite?style=flat-square&color=yellow)](https://github.com/LiPu-jpg/Openwrite/stargazers) [![Forks](https://img.shields.io/github/forks/LiPu-jpg/Openwrite?style=flat-square&color=blue)](https://github.com/LiPu-jpg/Openwrite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI小说创作引擎 - 对话式引导创建项目、动态+静态文件防遗忘、多维风格提取与合成、通用技法质量审核、热门题材查看分析、多层渐进式压缩长文本 支持：四级大纲(总纲→篇→节→章)、三层风格合成、伏笔DAG管理、情节弧线-节拍模板驱动写作、去AI味技法
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ LiPu-jpg/Openwrite 的生产可用性为中等（Medium）。它适合用于内�
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

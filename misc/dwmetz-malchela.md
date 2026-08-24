@@ -1,6 +1,6 @@
 # dwmetz/MalChela
 
-[![Stars](https://img.shields.io/github/stars/dwmetz/MalChela?style=flat-square&color=yellow)](https://github.com/dwmetz/MalChela/stargazers) [![Forks](https://img.shields.io/github/forks/dwmetz/MalChela?style=flat-square&color=blue)](https://github.com/dwmetz/MalChela/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dwmetz/MalChela?style=flat-square&color=yellow)](https://github.com/dwmetz/MalChela/stargazers) [![Forks](https://img.shields.io/github/forks/dwmetz/MalChela?style=flat-square&color=blue)](https://github.com/dwmetz/MalChela/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A YARA & Malware Analysis Toolkit written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ MalChela 的生产可用性为中等（Medium）。它适合用于原型或内�
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

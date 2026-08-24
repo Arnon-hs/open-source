@@ -1,6 +1,6 @@
 # toggl/track-extension
 
-[![Stars](https://img.shields.io/github/stars/toggl/track-extension?style=flat-square&color=yellow)](https://github.com/toggl/track-extension/stargazers) [![Forks](https://img.shields.io/github/forks/toggl/track-extension?style=flat-square&color=blue)](https://github.com/toggl/track-extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toggl/track-extension?style=flat-square&color=yellow)](https://github.com/toggl/track-extension/stargazers) [![Forks](https://img.shields.io/github/forks/toggl/track-extension?style=flat-square&color=blue)](https://github.com/toggl/track-extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Toggl Track browser extension for Chrome and Firefox
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 565 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ toggl/track-extension：toggl/track-extension may be useful when its README and 
 | forks | 69/100 |
 | stars | 65/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

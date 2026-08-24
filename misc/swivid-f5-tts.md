@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | f5-tts |
 | 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2025-03-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -105,6 +105,7 @@ SWivid/F5-TTS 的生产可用性尚不明确。由于其 README 和活动信息�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # miscusi-peek/cheatengine-mcp-bridge
 
-[![Stars](https://img.shields.io/github/stars/miscusi-peek/cheatengine-mcp-bridge?style=flat-square&color=yellow)](https://github.com/miscusi-peek/cheatengine-mcp-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/miscusi-peek/cheatengine-mcp-bridge?style=flat-square&color=blue)](https://github.com/miscusi-peek/cheatengine-mcp-bridge/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miscusi-peek/cheatengine-mcp-bridge?style=flat-square&color=yellow)](https://github.com/miscusi-peek/cheatengine-mcp-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/miscusi-peek/cheatengine-mcp-bridge?style=flat-square&color=blue)](https://github.com/miscusi-peek/cheatengine-mcp-bridge/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ miscusi-peek/cheatengine-mcp-bridge 的生产可用性很高。它有强大的�
 | forks | 55/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

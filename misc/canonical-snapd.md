@@ -1,6 +1,6 @@
 # canonical/snapd
 
-[![Stars](https://img.shields.io/github/stars/canonical/snapd?style=flat-square&color=yellow)](https://github.com/canonical/snapd/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/snapd?style=flat-square&color=blue)](https://github.com/canonical/snapd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canonical/snapd?style=flat-square&color=yellow)](https://github.com/canonical/snapd/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/snapd?style=flat-square&color=blue)](https://github.com/canonical/snapd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The snapd and snap tools enable systems to work with .snap files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 676 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ canonical/snapd 的生产可用性为中等（Medium）。它可以用于原型�
 | forks | 71/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # data-goblin/power-bi-agentic-development
 
-[![Stars](https://img.shields.io/github/stars/data-goblin/power-bi-agentic-development?style=flat-square&color=yellow)](https://github.com/data-goblin/power-bi-agentic-development/stargazers) [![Forks](https://img.shields.io/github/forks/data-goblin/power-bi-agentic-development?style=flat-square&color=blue)](https://github.com/data-goblin/power-bi-agentic-development/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/data-goblin/power-bi-agentic-development?style=flat-square&color=yellow)](https://github.com/data-goblin/power-bi-agentic-development/stargazers) [![Forks](https://img.shields.io/github/forks/data-goblin/power-bi-agentic-development?style=flat-square&color=blue)](https://github.com/data-goblin/power-bi-agentic-development/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Power BI AI skills and Power BI agents for Claude Code and GitHub Copilot: a plugin marketplace of Power BI skills, subagents, and hooks for semantic models, DAX, TMDL, reports, and AI dashboards. Includes Microsoft Fabric skills and Fabric agents. Weekly updates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 766 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ data-goblin/power-bi-agentic-development 是一个开源项目，提供了 Power
 | forks | 52/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

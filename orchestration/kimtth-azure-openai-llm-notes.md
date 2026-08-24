@@ -1,6 +1,6 @@
 # kimtth/azure-openai-llm-notes
 
-[![Stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-notes?style=flat-square&color=yellow)](https://github.com/kimtth/azure-openai-llm-notes/stargazers) [![Forks](https://img.shields.io/github/forks/kimtth/azure-openai-llm-notes?style=flat-square&color=blue)](https://github.com/kimtth/azure-openai-llm-notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-notes?style=flat-square&color=yellow)](https://github.com/kimtth/azure-openai-llm-notes/stargazers) [![Forks](https://img.shields.io/github/forks/kimtth/azure-openai-llm-notes?style=flat-square&color=blue)](https://github.com/kimtth/azure-openai-llm-notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 407 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ kimtth/azure-openai-llm-notes 是一个精心策划的 Azure OpenAI 与 LLM（�
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

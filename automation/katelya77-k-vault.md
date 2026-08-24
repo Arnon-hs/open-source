@@ -1,6 +1,6 @@
 # katelya77/K-Vault
 
-[![Stars](https://img.shields.io/github/stars/katelya77/K-Vault?style=flat-square&color=yellow)](https://github.com/katelya77/K-Vault/stargazers) [![Forks](https://img.shields.io/github/forks/katelya77/K-Vault?style=flat-square&color=blue)](https://github.com/katelya77/K-Vault/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/katelya77/K-Vault?style=flat-square&color=yellow)](https://github.com/katelya77/K-Vault/stargazers) [![Forks](https://img.shields.io/github/forks/katelya77/K-Vault?style=flat-square&color=blue)](https://github.com/katelya77/K-Vault/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 Cloudflare 的 Serverless 聚合云盘。以 Telegram 为核心（支持 Webhook 直传与 2GB 扩展），并全面兼容 R2、S3、Discord 及 HuggingFace 等多存储后端。零成本构建你的全能私有数据金库。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 534 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ K-Vault 的生产可用性为中等（Medium）。它适合用于原型或内部
 | forks | 68/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

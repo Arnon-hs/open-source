@@ -1,6 +1,6 @@
 # emscripten-core/emsdk
 
-[![Stars](https://img.shields.io/github/stars/emscripten-core/emsdk?style=flat-square&color=yellow)](https://github.com/emscripten-core/emsdk/stargazers) [![Forks](https://img.shields.io/github/forks/emscripten-core/emsdk?style=flat-square&color=blue)](https://github.com/emscripten-core/emsdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emscripten-core/emsdk?style=flat-square&color=yellow)](https://github.com/emscripten-core/emsdk/stargazers) [![Forks](https://img.shields.io/github/forks/emscripten-core/emsdk?style=flat-square&color=blue)](https://github.com/emscripten-core/emsdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Emscripten SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 811 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Emscripten SDK的生产可用性很高，原因是：
 | forks | 73/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

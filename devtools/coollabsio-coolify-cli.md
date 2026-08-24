@@ -1,6 +1,6 @@
 # coollabsio/coolify-cli
 
-[![Stars](https://img.shields.io/github/stars/coollabsio/coolify-cli?style=flat-square&color=yellow)](https://github.com/coollabsio/coolify-cli/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/coolify-cli?style=flat-square&color=blue)](https://github.com/coollabsio/coolify-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coollabsio/coolify-cli?style=flat-square&color=yellow)](https://github.com/coollabsio/coolify-cli/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/coolify-cli?style=flat-square&color=blue)](https://github.com/coollabsio/coolify-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for Coolify
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Coolify-cli具有高生产可用性，主要原因是：
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # explodingcamera/liwan
 
-[![Stars](https://img.shields.io/github/stars/explodingcamera/liwan?style=flat-square&color=yellow)](https://github.com/explodingcamera/liwan/stargazers) [![Forks](https://img.shields.io/github/forks/explodingcamera/liwan?style=flat-square&color=blue)](https://github.com/explodingcamera/liwan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/explodingcamera/liwan?style=flat-square&color=yellow)](https://github.com/explodingcamera/liwan/stargazers) [![Forks](https://img.shields.io/github/forks/explodingcamera/liwan?style=flat-square&color=blue)](https://github.com/explodingcamera/liwan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > liwan - Lightweight Analytics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ liwan 是一个轻量级分析工具，能够帮助将原始数据转换为可�
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # david942j/one_gadget
 
-[![Stars](https://img.shields.io/github/stars/david942j/one_gadget?style=flat-square&color=yellow)](https://github.com/david942j/one_gadget/stargazers) [![Forks](https://img.shields.io/github/forks/david942j/one_gadget?style=flat-square&color=blue)](https://github.com/david942j/one_gadget/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/david942j/one_gadget?style=flat-square&color=yellow)](https://github.com/david942j/one_gadget/stargazers) [![Forks](https://img.shields.io/github/forks/david942j/one_gadget?style=flat-square&color=blue)](https://github.com/david942j/one_gadget/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The best tool for finding one gadget RCE in libc.so.6
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ david942j/one_gadget 是一个开源项目，旨在帮助开发者找到 libc.so
 | forks | 54/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

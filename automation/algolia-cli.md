@@ -1,6 +1,6 @@
 # algolia/cli
 
-[![Stars](https://img.shields.io/github/stars/algolia/cli?style=flat-square&color=yellow)](https://github.com/algolia/cli/stargazers) [![Forks](https://img.shields.io/github/forks/algolia/cli?style=flat-square&color=blue)](https://github.com/algolia/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/algolia/cli?style=flat-square&color=yellow)](https://github.com/algolia/cli/stargazers) [![Forks](https://img.shields.io/github/forks/algolia/cli?style=flat-square&color=blue)](https://github.com/algolia/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍 Algolia’s official CLI devtool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Algolia 官方发布的 **algolia/cli** 是一款基于 Go 实现的命令行工
 | forks | 38/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

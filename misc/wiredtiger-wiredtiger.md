@@ -1,6 +1,6 @@
 # wiredtiger/wiredtiger
 
-[![Stars](https://img.shields.io/github/stars/wiredtiger/wiredtiger?style=flat-square&color=yellow)](https://github.com/wiredtiger/wiredtiger/stargazers) [![Forks](https://img.shields.io/github/forks/wiredtiger/wiredtiger?style=flat-square&color=blue)](https://github.com/wiredtiger/wiredtiger/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wiredtiger/wiredtiger?style=flat-square&color=yellow)](https://github.com/wiredtiger/wiredtiger/stargazers) [![Forks](https://img.shields.io/github/forks/wiredtiger/wiredtiger?style=flat-square&color=blue)](https://github.com/wiredtiger/wiredtiger/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > WiredTiger's source tree
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,14 +126,15 @@ WiredTiger 是 MongoDB 使用的高性能、可嵌入式的事务性键值存储
 | forks | 66/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

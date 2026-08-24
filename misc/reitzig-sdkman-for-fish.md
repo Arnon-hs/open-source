@@ -1,6 +1,6 @@
 # reitzig/sdkman-for-fish
 
-[![Stars](https://img.shields.io/github/stars/reitzig/sdkman-for-fish?style=flat-square&color=yellow)](https://github.com/reitzig/sdkman-for-fish/stargazers) [![Forks](https://img.shields.io/github/forks/reitzig/sdkman-for-fish?style=flat-square&color=blue)](https://github.com/reitzig/sdkman-for-fish/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reitzig/sdkman-for-fish?style=flat-square&color=yellow)](https://github.com/reitzig/sdkman-for-fish/stargazers) [![Forks](https://img.shields.io/github/forks/reitzig/sdkman-for-fish?style=flat-square&color=blue)](https://github.com/reitzig/sdkman-for-fish/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Adds support for SDKMAN! to fish
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 440 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Gherkin |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ reitzig/sdkman-for-fish 是一个开源项目，旨在将 SDKMAN! 集成到 Fish
 | forks | 34/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

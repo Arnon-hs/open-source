@@ -1,6 +1,6 @@
 # ccusage/ccusage
 
-[![Stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square&color=yellow)](https://github.com/ccusage/ccusage/stargazers) [![Forks](https://img.shields.io/github/forks/ccusage/ccusage?style=flat-square&color=blue)](https://github.com/ccusage/ccusage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square&color=yellow)](https://github.com/ccusage/ccusage/stargazers) [![Forks](https://img.shields.io/github/forks/ccusage/ccusage?style=flat-square&color=blue)](https://github.com/ccusage/ccusage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > npx ccusage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.6k |
 | 🍴 **Forks** | 687 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ The project is **medium‑ready**: it is mature enough for prototypes or interna
 | forks | 71/100 |
 | stars | 90/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

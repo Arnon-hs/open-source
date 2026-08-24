@@ -1,6 +1,6 @@
 # lifinance/widget
 
-[![Stars](https://img.shields.io/github/stars/lifinance/widget?style=flat-square&color=yellow)](https://github.com/lifinance/widget/stargazers) [![Forks](https://img.shields.io/github/forks/lifinance/widget?style=flat-square&color=blue)](https://github.com/lifinance/widget/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lifinance/widget?style=flat-square&color=yellow)](https://github.com/lifinance/widget/stargazers) [![Forks](https://img.shields.io/github/forks/lifinance/widget?style=flat-square&color=blue)](https://github.com/lifinance/widget/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > LI.FI Widget for cross-chain bridging and swapping. It will drive your multi-chain strategy and attract new users from everywhere.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Frontend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ lifinance/widget 的生产可用性非常高。根据 GitHub 的数据，项目�
 | forks | 52/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

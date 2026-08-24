@@ -1,6 +1,6 @@
 # amd/xdna-driver
 
-[![Stars](https://img.shields.io/github/stars/amd/xdna-driver?style=flat-square&color=yellow)](https://github.com/amd/xdna-driver/stargazers) [![Forks](https://img.shields.io/github/forks/amd/xdna-driver?style=flat-square&color=blue)](https://github.com/amd/xdna-driver/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amd/xdna-driver?style=flat-square&color=yellow)](https://github.com/amd/xdna-driver/stargazers) [![Forks](https://img.shields.io/github/forks/amd/xdna-driver?style=flat-square&color=blue)](https://github.com/amd/xdna-driver/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AMD XDNA Driver (amdxdna.ko) for Linux and XRT SHIM library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 600 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ AMD XDNA 驱动程序 (amdxdna.ko) 是一个开源项目，提供了 AMD XDNA �
 | forks | 53/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

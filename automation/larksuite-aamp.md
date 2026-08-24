@@ -1,6 +1,6 @@
 # larksuite/aamp
 
-[![Stars](https://img.shields.io/github/stars/larksuite/aamp?style=flat-square&color=yellow)](https://github.com/larksuite/aamp/stargazers) [![Forks](https://img.shields.io/github/forks/larksuite/aamp?style=flat-square&color=blue)](https://github.com/larksuite/aamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/larksuite/aamp?style=flat-square&color=yellow)](https://github.com/larksuite/aamp/stargazers) [![Forks](https://img.shields.io/github/forks/larksuite/aamp?style=flat-square&color=blue)](https://github.com/larksuite/aamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Mailbox-native protocol and SDKs for asynchronous agent collaboration over email
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ larksuite/aamp 的生产可用性较高，项目最近活跃，采用率高，�
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

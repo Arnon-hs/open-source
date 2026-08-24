@@ -1,6 +1,6 @@
 # Jeomon/Web-Use
 
-[![Stars](https://img.shields.io/github/stars/Jeomon/Web-Use?style=flat-square&color=yellow)](https://github.com/Jeomon/Web-Use/stargazers) [![Forks](https://img.shields.io/github/forks/Jeomon/Web-Use?style=flat-square&color=blue)](https://github.com/Jeomon/Web-Use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jeomon/Web-Use?style=flat-square&color=yellow)](https://github.com/Jeomon/Web-Use/stargazers) [![Forks](https://img.shields.io/github/forks/Jeomon/Web-Use?style=flat-square&color=blue)](https://github.com/Jeomon/Web-Use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Web-Use is a CDP powered Browser Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Jeomon/Web-Use 的生产可用性为中等，适合用于原型或内部工作�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

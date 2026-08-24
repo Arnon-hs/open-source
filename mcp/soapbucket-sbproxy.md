@@ -1,6 +1,6 @@
 # soapbucket/sbproxy
 
-[![Stars](https://img.shields.io/github/stars/soapbucket/sbproxy?style=flat-square&color=yellow)](https://github.com/soapbucket/sbproxy/stargazers) [![Forks](https://img.shields.io/github/forks/soapbucket/sbproxy?style=flat-square&color=blue)](https://github.com/soapbucket/sbproxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soapbucket/sbproxy?style=flat-square&color=yellow)](https://github.com/soapbucket/sbproxy/stargazers) [![Forks](https://img.shields.io/github/forks/soapbucket/sbproxy?style=flat-square&color=blue)](https://github.com/soapbucket/sbproxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native providers behind an OpenAI-compatible API, or serve vLLM and llama.cpp on your own GPUs. Keys, budgets, guardrails, semantic cache, WAF.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ soapbucket/sbproxy 在生产环境中有较高的可用性，它有活跃的社�
 | forks | 8/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

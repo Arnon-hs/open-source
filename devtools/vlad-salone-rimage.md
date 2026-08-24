@@ -1,6 +1,6 @@
 # vlad-salone/rimage
 
-[![Stars](https://img.shields.io/github/stars/vlad-salone/rimage?style=flat-square&color=yellow)](https://github.com/vlad-salone/rimage/stargazers) [![Forks](https://img.shields.io/github/forks/vlad-salone/rimage?style=flat-square&color=blue)](https://github.com/vlad-salone/rimage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vlad-salone/rimage?style=flat-square&color=yellow)](https://github.com/vlad-salone/rimage/stargazers) [![Forks](https://img.shields.io/github/forks/vlad-salone/rimage?style=flat-square&color=blue)](https://github.com/vlad-salone/rimage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > This is CLI tool inspired by squoosh!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ vlad-salone/rimage 具有高生产可用性，理由如下：
 | forks | 34/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

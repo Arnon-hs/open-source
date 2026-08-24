@@ -1,6 +1,6 @@
 # rungwiroon/BlazorGoogleMaps
 
-[![Stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square&color=yellow)](https://github.com/rungwiroon/BlazorGoogleMaps/stargazers) [![Forks](https://img.shields.io/github/forks/rungwiroon/BlazorGoogleMaps?style=flat-square&color=blue)](https://github.com/rungwiroon/BlazorGoogleMaps/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square&color=yellow)](https://github.com/rungwiroon/BlazorGoogleMaps/stargazers) [![Forks](https://img.shields.io/github/forks/rungwiroon/BlazorGoogleMaps?style=flat-square&color=blue)](https://github.com/rungwiroon/BlazorGoogleMaps/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Blazor interop for GoogleMap library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ rungwiroon/BlazorGoogleMaps 的生产可用性为中等。虽然它可以用于�
 | forks | 52/100 |
 | stars | 55/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

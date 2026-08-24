@@ -1,6 +1,6 @@
 # joelhooks/agent-secrets
 
-[![Stars](https://img.shields.io/github/stars/joelhooks/agent-secrets?style=flat-square&color=yellow)](https://github.com/joelhooks/agent-secrets/stargazers) [![Forks](https://img.shields.io/github/forks/joelhooks/agent-secrets?style=flat-square&color=blue)](https://github.com/joelhooks/agent-secrets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joelhooks/agent-secrets?style=flat-square&color=yellow)](https://github.com/joelhooks/agent-secrets/stargazers) [![Forks](https://img.shields.io/github/forks/joelhooks/agent-secrets?style=flat-square&color=blue)](https://github.com/joelhooks/agent-secrets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡️ Portable credential management for AI agents — Age encryption, session leases, killswitch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ joelhooks/agent-secrets：joelhooks/agent-secrets helps add AI capability withou
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

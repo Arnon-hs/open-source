@@ -1,6 +1,6 @@
 # CS-SI/eodag
 
-[![Stars](https://img.shields.io/github/stars/CS-SI/eodag?style=flat-square&color=yellow)](https://github.com/CS-SI/eodag/stargazers) [![Forks](https://img.shields.io/github/forks/CS-SI/eodag?style=flat-square&color=blue)](https://github.com/CS-SI/eodag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CS-SI/eodag?style=flat-square&color=yellow)](https://github.com/CS-SI/eodag/stargazers) [![Forks](https://img.shields.io/github/forks/CS-SI/eodag?style=flat-square&color=blue)](https://github.com/CS-SI/eodag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Earth Observation Data Access Gateway
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ CS-SI/eodag 的生产可用性非常高，主要原因包括：
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

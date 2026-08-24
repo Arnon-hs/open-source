@@ -1,6 +1,6 @@
 # rust-lang/annotate-snippets-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/annotate-snippets-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/annotate-snippets-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/annotate-snippets-rs?style=flat-square&color=blue)](https://github.com/rust-lang/annotate-snippets-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/annotate-snippets-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/annotate-snippets-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/annotate-snippets-rs?style=flat-square&color=blue)](https://github.com/rust-lang/annotate-snippets-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Library for snippet annotations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 504 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Rust-lang/annotate-snippets-rs 是一个用于snippet注释的库，提供了一
 | forks | 44/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

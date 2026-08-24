@@ -1,6 +1,6 @@
 # egametang/ET
 
-[![Stars](https://img.shields.io/github/stars/egametang/ET?style=flat-square&color=yellow)](https://github.com/egametang/ET/stargazers) [![Forks](https://img.shields.io/github/forks/egametang/ET?style=flat-square&color=blue)](https://github.com/egametang/ET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/egametang/ET?style=flat-square&color=yellow)](https://github.com/egametang/ET/stargazers) [![Forks](https://img.shields.io/github/forks/egametang/ET?style=flat-square&color=blue)](https://github.com/egametang/ET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Unity3D Client And C# Server Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend · DevTools
+Crypto · Backend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ egametang/ET 的生产可用性很高，主要原因包括：
 | forks | 88/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 84/100 |
+| quality | 89/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

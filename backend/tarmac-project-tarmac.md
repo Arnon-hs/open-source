@@ -1,6 +1,6 @@
 # tarmac-project/tarmac
 
-[![Stars](https://img.shields.io/github/stars/tarmac-project/tarmac?style=flat-square&color=yellow)](https://github.com/tarmac-project/tarmac/stargazers) [![Forks](https://img.shields.io/github/forks/tarmac-project/tarmac?style=flat-square&color=blue)](https://github.com/tarmac-project/tarmac/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tarmac-project/tarmac?style=flat-square&color=yellow)](https://github.com/tarmac-project/tarmac/stargazers) [![Forks](https://img.shields.io/github/forks/tarmac-project/tarmac?style=flat-square&color=blue)](https://github.com/tarmac-project/tarmac/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Write as Functions, Deploy as a Monolith or Microservice with WebAssembly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ tarmac-project/tarmac 的生产可用性为中等。它适用于以下场景：
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

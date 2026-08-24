@@ -1,6 +1,6 @@
 # DietrichGebert/ponytail
 
-[![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&color=yellow)](https://github.com/DietrichGebert/ponytail/stargazers) [![Forks](https://img.shields.io/github/forks/DietrichGebert/ponytail?style=flat-square&color=blue)](https://github.com/DietrichGebert/ponytail/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&color=yellow)](https://github.com/DietrichGebert/ponytail/stargazers) [![Forks](https://img.shields.io/github/forks/DietrichGebert/ponytail?style=flat-square&color=blue)](https://github.com/DietrichGebert/ponytail/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49.6k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ DietrichGebert/ponytail 让 AI 代理像最懒散的资深开发者一样工作�
 | forks | 85/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 96/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

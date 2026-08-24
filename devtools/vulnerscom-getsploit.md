@@ -1,6 +1,6 @@
 # vulnersCom/getsploit
 
-[![Stars](https://img.shields.io/github/stars/vulnersCom/getsploit?style=flat-square&color=yellow)](https://github.com/vulnersCom/getsploit/stargazers) [![Forks](https://img.shields.io/github/forks/vulnersCom/getsploit?style=flat-square&color=blue)](https://github.com/vulnersCom/getsploit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vulnersCom/getsploit?style=flat-square&color=yellow)](https://github.com/vulnersCom/getsploit/stargazers) [![Forks](https://img.shields.io/github/forks/vulnersCom/getsploit?style=flat-square&color=blue)](https://github.com/vulnersCom/getsploit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Search and download public exploits from the Vulners database — online, or fully offline from a local SQLite FTS5 index.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data · Database · Security
+DevTools · Database · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ vulnersCom/getsploit：vulnersCom/getsploit helps engineers save time in daily d
 | forks | 60/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 80/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

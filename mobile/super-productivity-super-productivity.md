@@ -1,6 +1,6 @@
 # super-productivity/super-productivity
 
-[![Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=flat-square&color=yellow)](https://github.com/super-productivity/super-productivity/stargazers) [![Forks](https://img.shields.io/github/forks/super-productivity/super-productivity?style=flat-square&color=blue)](https://github.com/super-productivity/super-productivity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=flat-square&color=yellow)](https://github.com/super-productivity/super-productivity/stargazers) [![Forks](https://img.shields.io/github/forks/super-productivity/super-productivity?style=flat-square&color=blue)](https://github.com/super-productivity/super-productivity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.4k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Product
+Mobile
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Super Productivity 是一款功能强大的待办事项应用，内置 Timebox
 | forks | 81/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 80/100 |
+| recency | 40/100 |
 | adoption | 89/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

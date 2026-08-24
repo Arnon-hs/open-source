@@ -1,6 +1,6 @@
 # mercuretechnologies/expo-open-ota
 
-[![Stars](https://img.shields.io/github/stars/mercuretechnologies/expo-open-ota?style=flat-square&color=yellow)](https://github.com/mercuretechnologies/expo-open-ota/stargazers) [![Forks](https://img.shields.io/github/forks/mercuretechnologies/expo-open-ota?style=flat-square&color=blue)](https://github.com/mercuretechnologies/expo-open-ota/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mercuretechnologies/expo-open-ota?style=flat-square&color=yellow)](https://github.com/mercuretechnologies/expo-open-ota/stargazers) [![Forks](https://img.shields.io/github/forks/mercuretechnologies/expo-open-ota?style=flat-square&color=blue)](https://github.com/mercuretechnologies/expo-open-ota/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source self-hosted server implementing the Expo Updates protocol, built for production. Multi-app dashboard, progressive rollouts, instant rollbacks, served from your own bucket and CDN.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Mobile · Product
+Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ MercureTechnologies/expo-open-ota 是一个开源项目，实现了 Expo 更新�
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

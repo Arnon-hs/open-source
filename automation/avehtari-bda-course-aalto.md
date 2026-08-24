@@ -1,6 +1,6 @@
 # avehtari/BDA_course_Aalto
 
-[![Stars](https://img.shields.io/github/stars/avehtari/BDA_course_Aalto?style=flat-square&color=yellow)](https://github.com/avehtari/BDA_course_Aalto/stargazers) [![Forks](https://img.shields.io/github/forks/avehtari/BDA_course_Aalto?style=flat-square&color=blue)](https://github.com/avehtari/BDA_course_Aalto/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avehtari/BDA_course_Aalto?style=flat-square&color=yellow)](https://github.com/avehtari/BDA_course_Aalto/stargazers) [![Forks](https://img.shields.io/github/forks/avehtari/BDA_course_Aalto?style=flat-square&color=blue)](https://github.com/avehtari/BDA_course_Aalto/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Bayesian Data Analysis course at Aalto
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 566 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Data · Education
+Automation · Data
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ avehtari/BDA_course_Aalto 是一个开源项目，用于支持 Aalto 的贝叶�
 | forks | 69/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

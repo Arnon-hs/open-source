@@ -1,6 +1,6 @@
 # nextcloud/maps
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/maps?style=flat-square&color=yellow)](https://github.com/nextcloud/maps/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/maps?style=flat-square&color=blue)](https://github.com/nextcloud/maps/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/maps?style=flat-square&color=yellow)](https://github.com/nextcloud/maps/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/maps?style=flat-square&color=blue)](https://github.com/nextcloud/maps/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🌍🌏🌎 The whole world fits inside your cloud!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ nextcloud/maps 让用户在自己的 NextCloud 实例中直接浏览和管理全
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # codika-io/clave
 
-[![Stars](https://img.shields.io/github/stars/codika-io/clave?style=flat-square&color=yellow)](https://github.com/codika-io/clave/stargazers) [![Forks](https://img.shields.io/github/forks/codika-io/clave?style=flat-square&color=blue)](https://github.com/codika-io/clave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codika-io/clave?style=flat-square&color=yellow)](https://github.com/codika-io/clave/stargazers) [![Forks](https://img.shields.io/github/forks/codika-io/clave?style=flat-square&color=blue)](https://github.com/codika-io/clave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A macOS desktop app for managing multiple Claude Code sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ codika-io/clave 的生产可用性评估为中等（Medium）。它适合用于�
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

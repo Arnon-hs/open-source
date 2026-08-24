@@ -1,6 +1,6 @@
 # withqwerty/football-docs
 
-[![Stars](https://img.shields.io/github/stars/withqwerty/football-docs?style=flat-square&color=yellow)](https://github.com/withqwerty/football-docs/stargazers) [![Forks](https://img.shields.io/github/forks/withqwerty/football-docs?style=flat-square&color=blue)](https://github.com/withqwerty/football-docs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withqwerty/football-docs?style=flat-square&color=yellow)](https://github.com/withqwerty/football-docs/stargazers) [![Forks](https://img.shields.io/github/forks/withqwerty/football-docs?style=flat-square&color=blue)](https://github.com/withqwerty/football-docs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Searchable football data provider documentation for AI coding agents. Like Context7 for football data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ withqwerty/football-docs 是一个可搜索的足球数据文档库，专为 AI 
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

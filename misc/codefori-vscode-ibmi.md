@@ -1,6 +1,6 @@
 # codefori/vscode-ibmi
 
-[![Stars](https://img.shields.io/github/stars/codefori/vscode-ibmi?style=flat-square&color=yellow)](https://github.com/codefori/vscode-ibmi/stargazers) [![Forks](https://img.shields.io/github/forks/codefori/vscode-ibmi?style=flat-square&color=blue)](https://github.com/codefori/vscode-ibmi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codefori/vscode-ibmi?style=flat-square&color=yellow)](https://github.com/codefori/vscode-ibmi/stargazers) [![Forks](https://img.shields.io/github/forks/codefori/vscode-ibmi?style=flat-square&color=blue)](https://github.com/codefori/vscode-ibmi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🌍 IBM i development extension for VS Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ codefori/vscode-ibmi 是一款开源项目，提供了 IBM i 开发扩展（exte
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

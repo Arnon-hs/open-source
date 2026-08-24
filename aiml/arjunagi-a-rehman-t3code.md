@@ -1,6 +1,6 @@
 # arjunagi-a-rehman/t3code
 
-[![Stars](https://img.shields.io/github/stars/arjunagi-a-rehman/t3code?style=flat-square&color=yellow)](https://github.com/arjunagi-a-rehman/t3code/stargazers) [![Forks](https://img.shields.io/github/forks/arjunagi-a-rehman/t3code?style=flat-square&color=blue)](https://github.com/arjunagi-a-rehman/t3code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arjunagi-a-rehman/t3code?style=flat-square&color=yellow)](https://github.com/arjunagi-a-rehman/t3code/stargazers) [![Forks](https://img.shields.io/github/forks/arjunagi-a-rehman/t3code?style=flat-square&color=blue)](https://github.com/arjunagi-a-rehman/t3code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): Don't Wait. Fork It.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Here's a 2-3 sentence summary for the open-source project "Don't Wait. Fork It."
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 35/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

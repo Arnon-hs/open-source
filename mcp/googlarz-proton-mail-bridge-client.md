@@ -1,6 +1,6 @@
 # googlarz/proton-mail-bridge-client
 
-[![Stars](https://img.shields.io/github/stars/googlarz/proton-mail-bridge-client?style=flat-square&color=yellow)](https://github.com/googlarz/proton-mail-bridge-client/stargazers) [![Forks](https://img.shields.io/github/forks/googlarz/proton-mail-bridge-client?style=flat-square&color=blue)](https://github.com/googlarz/proton-mail-bridge-client/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googlarz/proton-mail-bridge-client?style=flat-square&color=yellow)](https://github.com/googlarz/proton-mail-bridge-client/stargazers) [![Forks](https://img.shields.io/github/forks/googlarz/proton-mail-bridge-client?style=flat-square&color=blue)](https://github.com/googlarz/proton-mail-bridge-client/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🌉 Local-first Proton Mail MCP and CLI through Proton Bridge. Search, read, draft, send, sync, and act on mail from Claude Desktop or Terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ googlarz/proton-mail-bridge-client 的价值在于，它帮助连接 AI 代理�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

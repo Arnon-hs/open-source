@@ -1,6 +1,6 @@
 # IMNMV/ClaudeR
 
-[![Stars](https://img.shields.io/github/stars/IMNMV/ClaudeR?style=flat-square&color=yellow)](https://github.com/IMNMV/ClaudeR/stargazers) [![Forks](https://img.shields.io/github/forks/IMNMV/ClaudeR?style=flat-square&color=blue)](https://github.com/IMNMV/ClaudeR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IMNMV/ClaudeR?style=flat-square&color=yellow)](https://github.com/IMNMV/ClaudeR/stargazers) [![Forks](https://img.shields.io/github/forks/IMNMV/ClaudeR?style=flat-square&color=blue)](https://github.com/IMNMV/ClaudeR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Connect RStudio to Claude Code, Codex, Gemini, and other LLM agents via MCP. Multi-agent orchestration, automated manuscript   auditing, and zero-config setup with uvx
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ IMNMV/ClaudeR 是一个通过 MCP（Multi‑Agent Communication Protocol）把 R
 | forks | 36/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

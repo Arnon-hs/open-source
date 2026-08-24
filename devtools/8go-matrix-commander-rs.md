@@ -1,6 +1,6 @@
 # 8go/matrix-commander-rs
 
-[![Stars](https://img.shields.io/github/stars/8go/matrix-commander-rs?style=flat-square&color=yellow)](https://github.com/8go/matrix-commander-rs/stargazers) [![Forks](https://img.shields.io/github/forks/8go/matrix-commander-rs?style=flat-square&color=blue)](https://github.com/8go/matrix-commander-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/8go/matrix-commander-rs?style=flat-square&color=yellow)](https://github.com/8go/matrix-commander-rs/stargazers) [![Forks](https://img.shields.io/github/forks/8go/matrix-commander-rs?style=flat-square&color=blue)](https://github.com/8go/matrix-commander-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > simple but convenient CLI-based Matrix client app for sending and receiving (in Rust)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ The project shows strong OSS credentials: 220 stars, 22 forks, recent commits (a
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

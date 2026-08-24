@@ -1,6 +1,6 @@
 # eduardoborges/use-mask-input
 
-[![Stars](https://img.shields.io/github/stars/eduardoborges/use-mask-input?style=flat-square&color=yellow)](https://github.com/eduardoborges/use-mask-input/stargazers) [![Forks](https://img.shields.io/github/forks/eduardoborges/use-mask-input?style=flat-square&color=blue)](https://github.com/eduardoborges/use-mask-input/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eduardoborges/use-mask-input?style=flat-square&color=yellow)](https://github.com/eduardoborges/use-mask-input/stargazers) [![Forks](https://img.shields.io/github/forks/eduardoborges/use-mask-input?style=flat-square&color=blue)](https://github.com/eduardoborges/use-mask-input/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🥸  A React/Vue Hook for building elegant input masks. Compatible with React Hook Form and Vee Validate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ eduardoborges/use-mask-input：eduardoborges/use-mask-input helps ship user-faci
 | forks | 35/100 |
 | stars | 60/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

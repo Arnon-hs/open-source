@@ -1,6 +1,6 @@
 # llmsresearch/llm-flashcards
 
-[![Stars](https://img.shields.io/github/stars/llmsresearch/llm-flashcards?style=flat-square&color=yellow)](https://github.com/llmsresearch/llm-flashcards/stargazers) [![Forks](https://img.shields.io/github/forks/llmsresearch/llm-flashcards?style=flat-square&color=blue)](https://github.com/llmsresearch/llm-flashcards/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llmsresearch/llm-flashcards?style=flat-square&color=yellow)](https://github.com/llmsresearch/llm-flashcards/stargazers) [![Forks](https://img.shields.io/github/forks/llmsresearch/llm-flashcards?style=flat-square&color=blue)](https://github.com/llmsresearch/llm-flashcards/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to deployment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ llmsresearch/llm-flashcards是一个开源项目，旨在帮助理解大型语�
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

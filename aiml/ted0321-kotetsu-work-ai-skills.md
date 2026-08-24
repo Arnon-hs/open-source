@@ -1,6 +1,6 @@
 # Ted0321/kotetsu-work-ai-skills
 
-[![Stars](https://img.shields.io/github/stars/Ted0321/kotetsu-work-ai-skills?style=flat-square&color=yellow)](https://github.com/Ted0321/kotetsu-work-ai-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Ted0321/kotetsu-work-ai-skills?style=flat-square&color=blue)](https://github.com/Ted0321/kotetsu-work-ai-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ted0321/kotetsu-work-ai-skills?style=flat-square&color=yellow)](https://github.com/Ted0321/kotetsu-work-ai-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Ted0321/kotetsu-work-ai-skills?style=flat-square&color=blue)](https://github.com/Ted0321/kotetsu-work-ai-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 仕事が前に進むAIスキル配布（@kotetsu_0321）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Here's a brief summary of the open-source project:
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

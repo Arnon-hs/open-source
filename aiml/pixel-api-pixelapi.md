@@ -1,6 +1,6 @@
 # PIXEL-API/PixelAPI
 
-[![Stars](https://img.shields.io/github/stars/PIXEL-API/PixelAPI?style=flat-square&color=yellow)](https://github.com/PIXEL-API/PixelAPI/stargazers) [![Forks](https://img.shields.io/github/forks/PIXEL-API/PixelAPI?style=flat-square&color=blue)](https://github.com/PIXEL-API/PixelAPI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PIXEL-API/PixelAPI?style=flat-square&color=yellow)](https://github.com/PIXEL-API/PixelAPI/stargazers) [![Forks](https://img.shields.io/github/forks/PIXEL-API/PixelAPI?style=flat-square&color=blue)](https://github.com/PIXEL-API/PixelAPI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 Sub2API 二开的 AI API 网关：多平台账号接入、账号共享与广场调度、Token 级计费与分账
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ PIXEL-API/PixelAPI 的价值在于，它可以帮助开发者快速添加 AI 能
 | forks | 30/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

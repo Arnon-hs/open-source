@@ -1,6 +1,6 @@
 # zebbern/agent-collab
 
-[![Stars](https://img.shields.io/github/stars/zebbern/agent-collab?style=flat-square&color=yellow)](https://github.com/zebbern/agent-collab/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/agent-collab?style=flat-square&color=blue)](https://github.com/zebbern/agent-collab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zebbern/agent-collab?style=flat-square&color=yellow)](https://github.com/zebbern/agent-collab/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/agent-collab?style=flat-square&color=blue)](https://github.com/zebbern/agent-collab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Run Codex and Cursor as background workers inside Claude Code. Reviews, tasks, and rescues with tracked jobs, live progress, and session handoffs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ zebbern/agent-collab 的主要价值在于，它可以帮助开发者快速添�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

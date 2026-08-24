@@ -1,6 +1,6 @@
 # Revertron/Alfis
 
-[![Stars](https://img.shields.io/github/stars/Revertron/Alfis?style=flat-square&color=yellow)](https://github.com/Revertron/Alfis/stargazers) [![Forks](https://img.shields.io/github/forks/Revertron/Alfis?style=flat-square&color=blue)](https://github.com/Revertron/Alfis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Revertron/Alfis?style=flat-square&color=yellow)](https://github.com/Revertron/Alfis/stargazers) [![Forks](https://img.shields.io/github/forks/Revertron/Alfis?style=flat-square&color=blue)](https://github.com/Revertron/Alfis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Alternative Free Identity System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · Backend · Database
+Crypto · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Revertron/Alfis的生产可用性是中等的。它适合用于快速构建或�
 | forks | 40/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

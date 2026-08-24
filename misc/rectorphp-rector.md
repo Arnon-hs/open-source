@@ -1,6 +1,6 @@
 # rectorphp/rector
 
-[![Stars](https://img.shields.io/github/stars/rectorphp/rector?style=flat-square&color=yellow)](https://github.com/rectorphp/rector/stargazers) [![Forks](https://img.shields.io/github/forks/rectorphp/rector?style=flat-square&color=blue)](https://github.com/rectorphp/rector/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rectorphp/rector?style=flat-square&color=yellow)](https://github.com/rectorphp/rector/stargazers) [![Forks](https://img.shields.io/github/forks/rectorphp/rector?style=flat-square&color=blue)](https://github.com/rectorphp/rector/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 740 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ RectoPHP/Rector 的生产可用性较高，因为它有强大的社区支持、�
 | forks | 72/100 |
 | stars | 85/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

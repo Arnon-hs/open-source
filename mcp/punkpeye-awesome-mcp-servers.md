@@ -1,6 +1,6 @@
 # punkpeye/awesome-mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&color=yellow)](https://github.com/punkpeye/awesome-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/awesome-mcp-servers?style=flat-square&color=blue)](https://github.com/punkpeye/awesome-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&color=yellow)](https://github.com/punkpeye/awesome-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/awesome-mcp-servers?style=flat-square&color=blue)](https://github.com/punkpeye/awesome-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of MCP servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89.8k |
 | 🍴 **Forks** | 12.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ punkpeye/awesome-mcp-servers 是一个收集并维护 Model Context Protocol
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 25/100 |
-| outlook | 84/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

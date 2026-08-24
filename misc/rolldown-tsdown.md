@@ -1,6 +1,6 @@
 # rolldown/tsdown
 
-[![Stars](https://img.shields.io/github/stars/rolldown/tsdown?style=flat-square&color=yellow)](https://github.com/rolldown/tsdown/stargazers) [![Forks](https://img.shields.io/github/forks/rolldown/tsdown?style=flat-square&color=blue)](https://github.com/rolldown/tsdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rolldown/tsdown?style=flat-square&color=yellow)](https://github.com/rolldown/tsdown/stargazers) [![Forks](https://img.shields.io/github/forks/rolldown/tsdown?style=flat-square&color=blue)](https://github.com/rolldown/tsdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The elegant bundler for libraries powered by Rolldown
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ rolldown/tsdown 是一个优雅的库打包工具，使用 Rolldown 技术。它
 | forks | 57/100 |
 | stars | 77/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

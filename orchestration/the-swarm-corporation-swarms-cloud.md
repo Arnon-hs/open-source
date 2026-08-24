@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/swarms-cloud
 
-[![Stars](https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-cloud?style=flat-square&color=yellow)](https://github.com/The-Swarm-Corporation/swarms-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/The-Swarm-Corporation/swarms-cloud?style=flat-square&color=blue)](https://github.com/The-Swarm-Corporation/swarms-cloud/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-cloud?style=flat-square&color=yellow)](https://github.com/The-Swarm-Corporation/swarms-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/The-Swarm-Corporation/swarms-cloud?style=flat-square&color=blue)](https://github.com/The-Swarm-Corporation/swarms-cloud/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy your autonomous agents to production grade environments with 99% Uptime Guarantee, Infinite Scalability, and self-healing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Database · DevOps/Infra
+Orchestration · Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ The-Swarm-Corporation/swarms-cloud 是一个开源项目，允许您在生产环
 | forks | 32/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

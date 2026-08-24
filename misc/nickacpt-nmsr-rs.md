@@ -1,6 +1,6 @@
 # NickAcPT/nmsr-rs
 
-[![Stars](https://img.shields.io/github/stars/NickAcPT/nmsr-rs?style=flat-square&color=yellow)](https://github.com/NickAcPT/nmsr-rs/stargazers) [![Forks](https://img.shields.io/github/forks/NickAcPT/nmsr-rs?style=flat-square&color=blue)](https://github.com/NickAcPT/nmsr-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NickAcPT/nmsr-rs?style=flat-square&color=yellow)](https://github.com/NickAcPT/nmsr-rs/stargazers) [![Forks](https://img.shields.io/github/forks/NickAcPT/nmsr-rs?style=flat-square&color=blue)](https://github.com/NickAcPT/nmsr-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > NickAc's Minecraft Skin Renderer - Render Minecraft skins with true perspective
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Let's craft: "NickAcPT/nmsr-rs 是一个用 Rust 实现的 Minecraft 皮肤渲�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 72/100 |
-| usefulness | 42/100 |
+| production | 65/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

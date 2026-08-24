@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -118,6 +118,7 @@ f/awesome-chatgpt-prompts是一个开源项目，列在了awesome-llm中，旨�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

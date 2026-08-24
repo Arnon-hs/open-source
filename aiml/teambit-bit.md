@@ -1,6 +1,6 @@
 # teambit/bit
 
-[![Stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square&color=yellow)](https://github.com/teambit/bit/stargazers) [![Forks](https://img.shields.io/github/forks/teambit/bit?style=flat-square&color=blue)](https://github.com/teambit/bit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teambit/bit?style=flat-square&color=yellow)](https://github.com/teambit/bit/stargazers) [![Forks](https://img.shields.io/github/forks/teambit/bit?style=flat-square&color=blue)](https://github.com/teambit/bit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.4k |
 | 🍴 **Forks** | 952 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ teambit/bit 是一款 AI 驱动的开发工作空间平台，提供可复用的�
 | forks | 74/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
 | adoption | 86/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

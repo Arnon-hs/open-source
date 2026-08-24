@@ -1,6 +1,6 @@
 # microsoft/pyright
 
-[![Stars](https://img.shields.io/github/stars/microsoft/pyright?style=flat-square&color=yellow)](https://github.com/microsoft/pyright/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/pyright?style=flat-square&color=blue)](https://github.com/microsoft/pyright/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/pyright?style=flat-square&color=yellow)](https://github.com/microsoft/pyright/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/pyright?style=flat-square&color=blue)](https://github.com/microsoft/pyright/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Static Type Checker for Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Microsoft Pyright 的生产可用性非常高，主要原因是：
 | forks | 81/100 |
 | stars | 89/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # redhat-developer/vscode-java
 
-[![Stars](https://img.shields.io/github/stars/redhat-developer/vscode-java?style=flat-square&color=yellow)](https://github.com/redhat-developer/vscode-java/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-developer/vscode-java?style=flat-square&color=blue)](https://github.com/redhat-developer/vscode-java/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redhat-developer/vscode-java?style=flat-square&color=yellow)](https://github.com/redhat-developer/vscode-java/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-developer/vscode-java?style=flat-square&color=blue)](https://github.com/redhat-developer/vscode-java/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Java Language Support for Visual Studio Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 545 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ redhat-developer/vscode-java 是一个开源项目，提供 Java 语言支持，
 | forks | 68/100 |
 | stars | 72/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

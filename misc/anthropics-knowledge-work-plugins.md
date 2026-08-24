@@ -1,6 +1,6 @@
 # anthropics/knowledge-work-plugins
 
-[![Stars](https://img.shields.io/github/stars/anthropics/knowledge-work-plugins?style=flat-square&color=yellow)](https://github.com/anthropics/knowledge-work-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/knowledge-work-plugins?style=flat-square&color=blue)](https://github.com/anthropics/knowledge-work-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropics/knowledge-work-plugins?style=flat-square&color=yellow)](https://github.com/anthropics/knowledge-work-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/knowledge-work-plugins?style=flat-square&color=blue)](https://github.com/anthropics/knowledge-work-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.7k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ anthropics/knowledge-work-plugins 是一个开源项目，旨在为 Claude Cowor
 | forks | 86/100 |
 | stars | 93/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

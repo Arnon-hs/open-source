@@ -1,6 +1,6 @@
 # majiayu000/vibeguard
 
-[![Stars](https://img.shields.io/github/stars/majiayu000/vibeguard?style=flat-square&color=yellow)](https://github.com/majiayu000/vibeguard/stargazers) [![Forks](https://img.shields.io/github/forks/majiayu000/vibeguard?style=flat-square&color=blue)](https://github.com/majiayu000/vibeguard/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/majiayu000/vibeguard?style=flat-square&color=yellow)](https://github.com/majiayu000/vibeguard/stargazers) [![Forks](https://img.shields.io/github/forks/majiayu000/vibeguard?style=flat-square&color=blue)](https://github.com/majiayu000/vibeguard/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Native rules, hooks, and guards that prevent Claude Code and Codex from hallucinating code, duplicating files, or shipping unverified changes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ majiayu000/vibeguard 是一套原生规则、钩子和守卫，专门用于防�
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

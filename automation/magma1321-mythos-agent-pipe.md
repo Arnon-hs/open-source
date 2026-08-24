@@ -1,6 +1,6 @@
 # Magma1321/mythos-agent-pipe
 
-[![Stars](https://img.shields.io/github/stars/Magma1321/mythos-agent-pipe?style=flat-square&color=yellow)](https://github.com/Magma1321/mythos-agent-pipe/stargazers) [![Forks](https://img.shields.io/github/forks/Magma1321/mythos-agent-pipe?style=flat-square&color=blue)](https://github.com/Magma1321/mythos-agent-pipe/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Magma1321/mythos-agent-pipe?style=flat-square&color=yellow)](https://github.com/Magma1321/mythos-agent-pipe/stargazers) [![Forks](https://img.shields.io/github/forks/Magma1321/mythos-agent-pipe?style=flat-square&color=blue)](https://github.com/Magma1321/mythos-agent-pipe/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Magma1321/mythos-agent-pipe 是面向 Claude Opus 4.7（2026 版）的 “先�
 | forks | 0/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

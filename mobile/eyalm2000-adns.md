@@ -1,6 +1,6 @@
 # eyalm2000/adns
 
-[![Stars](https://img.shields.io/github/stars/eyalm2000/adns?style=flat-square&color=yellow)](https://github.com/eyalm2000/adns/stargazers) [![Forks](https://img.shields.io/github/forks/eyalm2000/adns?style=flat-square&color=blue)](https://github.com/eyalm2000/adns/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eyalm2000/adns?style=flat-square&color=yellow)](https://github.com/eyalm2000/adns/stargazers) [![Forks](https://img.shields.io/github/forks/eyalm2000/adns?style=flat-square&color=blue)](https://github.com/eyalm2000/adns/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Android's Private DNS Supercharged
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ eyalm2000/adns 在生产环境中的可用性为中等，适合用于原型或�
 | forks | 30/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

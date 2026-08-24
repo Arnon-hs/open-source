@@ -1,6 +1,6 @@
 # vleue/bevy_embedded_assets
 
-[![Stars](https://img.shields.io/github/stars/vleue/bevy_embedded_assets?style=flat-square&color=yellow)](https://github.com/vleue/bevy_embedded_assets/stargazers) [![Forks](https://img.shields.io/github/forks/vleue/bevy_embedded_assets?style=flat-square&color=blue)](https://github.com/vleue/bevy_embedded_assets/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vleue/bevy_embedded_assets?style=flat-square&color=yellow)](https://github.com/vleue/bevy_embedded_assets/stargazers) [![Forks](https://img.shields.io/github/forks/vleue/bevy_embedded_assets?style=flat-square&color=blue)](https://github.com/vleue/bevy_embedded_assets/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Embed assets in your Bevy game
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ Misc
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

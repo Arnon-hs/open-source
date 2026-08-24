@@ -1,6 +1,6 @@
 # imantaba/kubeagent
 
-[![Stars](https://img.shields.io/github/stars/imantaba/kubeagent?style=flat-square&color=yellow)](https://github.com/imantaba/kubeagent/stargazers) [![Forks](https://img.shields.io/github/forks/imantaba/kubeagent?style=flat-square&color=blue)](https://github.com/imantaba/kubeagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imantaba/kubeagent?style=flat-square&color=yellow)](https://github.com/imantaba/kubeagent/stargazers) [![Forks](https://img.shields.io/github/forks/imantaba/kubeagent?style=flat-square&color=blue)](https://github.com/imantaba/kubeagent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only Kubernetes troubleshooting agent in Go (client-go) — explains CrashLoopBackOff, ImagePullBackOff, OOMKilled, Pending/Unschedulable with P1-infra to P2-workload reports; guarded reversible --fix; optional AI --explain via Claude API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Observability · DevOps/Infra
+AI/ML · DevTools · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ imantaba/kubeagent：imantaba/kubeagent helps add AI capability without starting
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ajyadav013/claude-kit
 
-[![Stars](https://img.shields.io/github/stars/ajyadav013/claude-kit?style=flat-square&color=yellow)](https://github.com/ajyadav013/claude-kit/stargazers) [![Forks](https://img.shields.io/github/forks/ajyadav013/claude-kit?style=flat-square&color=blue)](https://github.com/ajyadav013/claude-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ajyadav013/claude-kit?style=flat-square&color=yellow)](https://github.com/ajyadav013/claude-kit/stargazers) [![Forks](https://img.shields.io/github/forks/ajyadav013/claude-kit?style=flat-square&color=blue)](https://github.com/ajyadav013/claude-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The autonomous SDLC for Claude Code that won't pass a gate on an unproven verdict.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ ajyadav013/claude-kit 帮助将孤立的提示和工具转化为可重复的代�
 | forks | 15/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

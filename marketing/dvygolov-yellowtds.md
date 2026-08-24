@@ -1,6 +1,6 @@
 # dvygolov/YellowTDS
 
-[![Stars](https://img.shields.io/github/stars/dvygolov/YellowTDS?style=flat-square&color=yellow)](https://github.com/dvygolov/YellowTDS/stargazers) [![Forks](https://img.shields.io/github/forks/dvygolov/YellowTDS?style=flat-square&color=blue)](https://github.com/dvygolov/YellowTDS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dvygolov/YellowTDS?style=flat-square&color=yellow)](https://github.com/dvygolov/YellowTDS/stargazers) [![Forks](https://img.shields.io/github/forks/dvygolov/YellowTDS?style=flat-square&color=blue)](https://github.com/dvygolov/YellowTDS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Free Traffic Distribution System for affiliate marketing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 358 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ YellowTDS（dvygolov/YellowTDS）是一套开源的免费流量分配系统，�
 | forks | 55/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

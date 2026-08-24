@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ Driftless 能把 Stripe 的支付事件实时、可验证地同步到 PostgreSQL
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

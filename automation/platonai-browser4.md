@@ -1,6 +1,6 @@
 # platonai/Browser4
 
-[![Stars](https://img.shields.io/github/stars/platonai/Browser4?style=flat-square&color=yellow)](https://github.com/platonai/Browser4/stargazers) [![Forks](https://img.shields.io/github/forks/platonai/Browser4?style=flat-square&color=blue)](https://github.com/platonai/Browser4/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/platonai/Browser4?style=flat-square&color=yellow)](https://github.com/platonai/Browser4/stargazers) [![Forks](https://img.shields.io/github/forks/platonai/Browser4?style=flat-square&color=blue)](https://github.com/platonai/Browser4/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ platonai/Browser4：platonai/Browser4 helps remove repetitive manual operations 
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # wannabespace/conar
 
-[![Stars](https://img.shields.io/github/stars/wannabespace/conar?style=flat-square&color=yellow)](https://github.com/wannabespace/conar/stargazers) [![Forks](https://img.shields.io/github/forks/wannabespace/conar?style=flat-square&color=blue)](https://github.com/wannabespace/conar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wannabespace/conar?style=flat-square&color=yellow)](https://github.com/wannabespace/conar/stargazers) [![Forks](https://img.shields.io/github/forks/wannabespace/conar?style=flat-square&color=blue)](https://github.com/wannabespace/conar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ wannabespace/conar 是一款基于 AI 的数据库助手，支持 PostgreSQL、M
 | forks | 51/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

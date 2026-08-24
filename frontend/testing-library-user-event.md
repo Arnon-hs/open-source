@@ -1,6 +1,6 @@
 # testing-library/user-event
 
-[![Stars](https://img.shields.io/github/stars/testing-library/user-event?style=flat-square&color=yellow)](https://github.com/testing-library/user-event/stargazers) [![Forks](https://img.shields.io/github/forks/testing-library/user-event?style=flat-square&color=blue)](https://github.com/testing-library/user-event/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/testing-library/user-event?style=flat-square&color=yellow)](https://github.com/testing-library/user-event/stargazers) [![Forks](https://img.shields.io/github/forks/testing-library/user-event?style=flat-square&color=blue)](https://github.com/testing-library/user-event/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🐕 Simulate user events
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ testing-library/user-event 的生产可用性很高，因为它有以下优势�
 | forks | 60/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

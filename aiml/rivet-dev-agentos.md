@@ -1,6 +1,6 @@
 # rivet-dev/agentos
 
-[![Stars](https://img.shields.io/github/stars/rivet-dev/agentos?style=flat-square&color=yellow)](https://github.com/rivet-dev/agentos/stargazers) [![Forks](https://img.shields.io/github/forks/rivet-dev/agentos?style=flat-square&color=blue)](https://github.com/rivet-dev/agentos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rivet-dev/agentos?style=flat-square&color=yellow)](https://github.com/rivet-dev/agentos/stargazers) [![Forks](https://img.shields.io/github/forks/rivet-dev/agentos?style=flat-square&color=blue)](https://github.com/rivet-dev/agentos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ rivet‑dev/agentos 是一款基于 WebAssembly 与 V8 isolates 的可移植开�
 | forks | 55/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

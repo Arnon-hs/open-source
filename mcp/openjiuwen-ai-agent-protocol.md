@@ -1,6 +1,6 @@
 # openJiuwen-ai/agent-protocol
 
-[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/agent-protocol?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/agent-protocol?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/agent-protocol/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/agent-protocol?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/agent-protocol?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/agent-protocol/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > openJiuwen agent-protocol provides implementations of agent communication protocols, including C++ SDKs for MCP and A2A protocols.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ openJiuwen-ai/agent-protocol是一个开源项目，提供了agent通信协议�
 | forks | 34/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

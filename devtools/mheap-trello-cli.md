@@ -1,6 +1,6 @@
 # mheap/trello-cli
 
-[![Stars](https://img.shields.io/github/stars/mheap/trello-cli?style=flat-square&color=yellow)](https://github.com/mheap/trello-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mheap/trello-cli?style=flat-square&color=blue)](https://github.com/mheap/trello-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mheap/trello-cli?style=flat-square&color=yellow)](https://github.com/mheap/trello-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mheap/trello-cli?style=flat-square&color=blue)](https://github.com/mheap/trello-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Command line client for Trello
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ mheap/trello-cli 是一个 Trello 的命令行客户端，旨在帮助工程师�
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

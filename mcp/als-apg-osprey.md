@@ -1,6 +1,6 @@
 # als-apg/osprey
 
-[![Stars](https://img.shields.io/github/stars/als-apg/osprey?style=flat-square&color=yellow)](https://github.com/als-apg/osprey/stargazers) [![Forks](https://img.shields.io/github/forks/als-apg/osprey?style=flat-square&color=blue)](https://github.com/als-apg/osprey/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/als-apg/osprey?style=flat-square&color=yellow)](https://github.com/als-apg/osprey/stargazers) [![Forks](https://img.shields.io/github/forks/als-apg/osprey?style=flat-square&color=blue)](https://github.com/als-apg/osprey/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An agentic interface and safety harness for safety-critical control systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ als-apg/osprey 的生产可用性较高，主要原因是：
 | forks | 36/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # deadc0de6/dotdrop
 
-[![Stars](https://img.shields.io/github/stars/deadc0de6/dotdrop?style=flat-square&color=yellow)](https://github.com/deadc0de6/dotdrop/stargazers) [![Forks](https://img.shields.io/github/forks/deadc0de6/dotdrop?style=flat-square&color=blue)](https://github.com/deadc0de6/dotdrop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deadc0de6/dotdrop?style=flat-square&color=yellow)](https://github.com/deadc0de6/dotdrop/stargazers) [![Forks](https://img.shields.io/github/forks/deadc0de6/dotdrop?style=flat-square&color=blue)](https://github.com/deadc0de6/dotdrop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Save your dotfiles once, deploy them everywhere
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ deadc0de6/dotdrop 是一个基于 Python 的点文件管理工具，能够让你
 | forks | 51/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

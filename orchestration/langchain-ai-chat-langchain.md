@@ -1,6 +1,6 @@
 # langchain-ai/chat-langchain
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/chat-langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/chat-langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/chat-langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/chat-langchain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/chat-langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/chat-langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/chat-langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/chat-langchain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ langchain-ai/chat‑langchain 旨在将零散的 Prompt 和工具封装成可复
 | forks | 79/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

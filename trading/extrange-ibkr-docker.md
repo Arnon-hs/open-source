@@ -1,6 +1,6 @@
 # extrange/ibkr-docker
 
-[![Stars](https://img.shields.io/github/stars/extrange/ibkr-docker?style=flat-square&color=yellow)](https://github.com/extrange/ibkr-docker/stargazers) [![Forks](https://img.shields.io/github/forks/extrange/ibkr-docker?style=flat-square&color=blue)](https://github.com/extrange/ibkr-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/extrange/ibkr-docker?style=flat-square&color=yellow)](https://github.com/extrange/ibkr-docker/stargazers) [![Forks](https://img.shields.io/github/forks/extrange/ibkr-docker?style=flat-square&color=blue)](https://github.com/extrange/ibkr-docker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Run IBKR Gateway/TWS in a Docker container
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · AI/ML · Backend · DevOps/Infra
+Trading · Automation · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ extrange/ibkr-docker 的生产可用性较高，主要原因包括：
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

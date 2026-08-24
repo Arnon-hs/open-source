@@ -1,6 +1,6 @@
 # zacharee/LockscreenWidgets
 
-[![Stars](https://img.shields.io/github/stars/zacharee/LockscreenWidgets?style=flat-square&color=yellow)](https://github.com/zacharee/LockscreenWidgets/stargazers) [![Forks](https://img.shields.io/github/forks/zacharee/LockscreenWidgets?style=flat-square&color=blue)](https://github.com/zacharee/LockscreenWidgets/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zacharee/LockscreenWidgets?style=flat-square&color=yellow)](https://github.com/zacharee/LockscreenWidgets/stargazers) [![Forks](https://img.shields.io/github/forks/zacharee/LockscreenWidgets?style=flat-square&color=blue)](https://github.com/zacharee/LockscreenWidgets/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 480 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -79,14 +79,15 @@ LockscreenWidgets是一个开源项目，提供了锁屏界面的自定义小工
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SecondHalfGames/yakui
 
-[![Stars](https://img.shields.io/github/stars/SecondHalfGames/yakui?style=flat-square&color=yellow)](https://github.com/SecondHalfGames/yakui/stargazers) [![Forks](https://img.shields.io/github/forks/SecondHalfGames/yakui?style=flat-square&color=blue)](https://github.com/SecondHalfGames/yakui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SecondHalfGames/yakui?style=flat-square&color=yellow)](https://github.com/SecondHalfGames/yakui/stargazers) [![Forks](https://img.shields.io/github/forks/SecondHalfGames/yakui?style=flat-square&color=blue)](https://github.com/SecondHalfGames/yakui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > yakui is a declarative Rust UI library for games
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ yakui 是一个面向游戏的声明式 Rust UI 库，旨在让开发者以简�
 | forks | 38/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

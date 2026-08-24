@@ -1,6 +1,6 @@
 # element-hq/lk-jwt-service
 
-[![Stars](https://img.shields.io/github/stars/element-hq/lk-jwt-service?style=flat-square&color=yellow)](https://github.com/element-hq/lk-jwt-service/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/lk-jwt-service?style=flat-square&color=blue)](https://github.com/element-hq/lk-jwt-service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/element-hq/lk-jwt-service?style=flat-square&color=yellow)](https://github.com/element-hq/lk-jwt-service/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/lk-jwt-service?style=flat-square&color=blue)](https://github.com/element-hq/lk-jwt-service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal service to issue LiveKit JWTs for MatrixRTC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ element-hq/lk-jwt-service：element-hq/lk-jwt-service may be useful when its REA
 | forks | 38/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

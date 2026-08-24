@@ -1,6 +1,6 @@
 # walkinglabs/modern-llm-notebook
 
-[![Stars](https://img.shields.io/github/stars/walkinglabs/modern-llm-notebook?style=flat-square&color=yellow)](https://github.com/walkinglabs/modern-llm-notebook/stargazers) [![Forks](https://img.shields.io/github/forks/walkinglabs/modern-llm-notebook?style=flat-square&color=blue)](https://github.com/walkinglabs/modern-llm-notebook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walkinglabs/modern-llm-notebook?style=flat-square&color=yellow)](https://github.com/walkinglabs/modern-llm-notebook/stargazers) [![Forks](https://img.shields.io/github/forks/walkinglabs/modern-llm-notebook?style=flat-square&color=blue)](https://github.com/walkinglabs/modern-llm-notebook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A hands-on course for building modern LLMs from scratch in PyTorch, with 26 runnable Jupyter Notebooks covering tokenizers, attention, MoE, RLHF, inference, evaluation, and distillation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database · Education
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ walkinglabs/modern-llm-notebook 是一个开源项目，提供了构建现代语
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

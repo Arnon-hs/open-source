@@ -1,6 +1,6 @@
 # dustland/agentok
 
-[![Stars](https://img.shields.io/github/stars/dustland/agentok?style=flat-square&color=yellow)](https://github.com/dustland/agentok/stargazers) [![Forks](https://img.shields.io/github/forks/dustland/agentok?style=flat-square&color=blue)](https://github.com/dustland/agentok/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dustland/agentok?style=flat-square&color=yellow)](https://github.com/dustland/agentok/stargazers) [![Forks](https://img.shields.io/github/forks/dustland/agentok?style=flat-square&color=blue)](https://github.com/dustland/agentok/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ dustland/agentok 的生产可用性较高，主要原因是其最近的活跃度
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

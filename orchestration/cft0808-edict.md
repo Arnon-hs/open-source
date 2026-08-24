@@ -1,6 +1,6 @@
 # cft0808/edict
 
-[![Stars](https://img.shields.io/github/stars/cft0808/edict?style=flat-square&color=yellow)](https://github.com/cft0808/edict/stargazers) [![Forks](https://img.shields.io/github/forks/cft0808/edict?style=flat-square&color=blue)](https://github.com/cft0808/edict/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cft0808/edict?style=flat-square&color=yellow)](https://github.com/cft0808/edict/stargazers) [![Forks](https://img.shields.io/github/forks/cft0808/edict?style=flat-square&color=blue)](https://github.com/cft0808/edict/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ cft0808/edict 是基于 OpenClaw 的多智能体编排系统，提供 9 个专�
 | forks | 81/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 97/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

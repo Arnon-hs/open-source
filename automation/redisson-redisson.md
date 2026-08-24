@@ -1,6 +1,6 @@
 # redisson/redisson
 
-[![Stars](https://img.shields.io/github/stars/redisson/redisson?style=flat-square&color=yellow)](https://github.com/redisson/redisson/stargazers) [![Forks](https://img.shields.io/github/forks/redisson/redisson?style=flat-square&color=blue)](https://github.com/redisson/redisson/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redisson/redisson?style=flat-square&color=yellow)](https://github.com/redisson/redisson/stargazers) [![Forks](https://img.shields.io/github/forks/redisson/redisson?style=flat-square&color=blue)](https://github.com/redisson/redisson/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24.3k |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Backend · DevTools · Data
+Automation · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Redisson 是面向 Valkey 与 Redis 的 Java 客户端，提供同步、异步�
 | forks | 93/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
 | adoption | 93/100 |
-| production | 85/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

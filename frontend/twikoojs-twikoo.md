@@ -1,6 +1,6 @@
 # twikoojs/twikoo
 
-[![Stars](https://img.shields.io/github/stars/twikoojs/twikoo?style=flat-square&color=yellow)](https://github.com/twikoojs/twikoo/stargazers) [![Forks](https://img.shields.io/github/forks/twikoojs/twikoo?style=flat-square&color=blue)](https://github.com/twikoojs/twikoo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twikoojs/twikoo?style=flat-square&color=yellow)](https://github.com/twikoojs/twikoo/stargazers) [![Forks](https://img.shields.io/github/forks/twikoojs/twikoo?style=flat-square&color=blue)](https://github.com/twikoojs/twikoo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 481 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ twikoo 是一款基于 JavaScript 的轻量级评论系统，专为静态站点�
 | forks | 67/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # qdrant/fastembed
 
-[![Stars](https://img.shields.io/github/stars/qdrant/fastembed?style=flat-square&color=yellow)](https://github.com/qdrant/fastembed/stargazers) [![Forks](https://img.shields.io/github/forks/qdrant/fastembed?style=flat-square&color=blue)](https://github.com/qdrant/fastembed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qdrant/fastembed?style=flat-square&color=yellow)](https://github.com/qdrant/fastembed/stargazers) [![Forks](https://img.shields.io/github/forks/qdrant/fastembed?style=flat-square&color=blue)](https://github.com/qdrant/fastembed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ qdrant/fastembed已经被广泛采用，具有强大的生态系统和活跃的�
 | forks | 58/100 |
 | stars | 74/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

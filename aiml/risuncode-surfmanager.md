@@ -1,6 +1,6 @@
 # risunCode/SurfManager
 
-[![Stars](https://img.shields.io/github/stars/risunCode/SurfManager?style=flat-square&color=yellow)](https://github.com/risunCode/SurfManager/stargazers) [![Forks](https://img.shields.io/github/forks/risunCode/SurfManager?style=flat-square&color=blue)](https://github.com/risunCode/SurfManager/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/risunCode/SurfManager?style=flat-square&color=yellow)](https://github.com/risunCode/SurfManager/stargazers) [![Forks](https://img.shields.io/github/forks/risunCode/SurfManager?style=flat-square&color=blue)](https://github.com/risunCode/SurfManager/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Reset IDE data, Create backup and restore, manage multi-account easily, Work for VS-Code/fork based app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ risunCode/SurfManager 是一款面向 VS Code（及其分支） 的轻量化�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 43/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

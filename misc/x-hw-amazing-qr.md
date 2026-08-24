@@ -1,6 +1,6 @@
 # x-hw/amazing-qr
 
-[![Stars](https://img.shields.io/github/stars/x-hw/amazing-qr?style=flat-square&color=yellow)](https://github.com/x-hw/amazing-qr/stargazers) [![Forks](https://img.shields.io/github/forks/x-hw/amazing-qr?style=flat-square&color=blue)](https://github.com/x-hw/amazing-qr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x-hw/amazing-qr?style=flat-square&color=yellow)](https://github.com/x-hw/amazing-qr/stargazers) [![Forks](https://img.shields.io/github/forks/x-hw/amazing-qr?style=flat-square&color=blue)](https://github.com/x-hw/amazing-qr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ x-hw
 | forks | 80/100 |
 | stars | 86/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

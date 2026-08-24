@@ -1,6 +1,6 @@
 # jbuckmccready/cavalier_contours
 
-[![Stars](https://img.shields.io/github/stars/jbuckmccready/cavalier_contours?style=flat-square&color=yellow)](https://github.com/jbuckmccready/cavalier_contours/stargazers) [![Forks](https://img.shields.io/github/forks/jbuckmccready/cavalier_contours?style=flat-square&color=blue)](https://github.com/jbuckmccready/cavalier_contours/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jbuckmccready/cavalier_contours?style=flat-square&color=yellow)](https://github.com/jbuckmccready/cavalier_contours/stargazers) [![Forks](https://img.shields.io/github/forks/jbuckmccready/cavalier_contours?style=flat-square&color=blue)](https://github.com/jbuckmccready/cavalier_contours/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 2D polyline/shape library for offsetting, combining, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ jbuckmccready/cavalier_contours可能对那些需要处理 2D 多边形和形状
 | forks | 36/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

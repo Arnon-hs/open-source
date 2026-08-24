@@ -1,6 +1,6 @@
 # idurar/idurar-erp-crm
 
-[![Stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=flat-square&color=yellow)](https://github.com/idurar/idurar-erp-crm/stargazers) [![Forks](https://img.shields.io/github/forks/idurar/idurar-erp-crm?style=flat-square&color=blue)](https://github.com/idurar/idurar-erp-crm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=flat-square&color=yellow)](https://github.com/idurar/idurar-erp-crm/stargazers) [![Forks](https://img.shields.io/github/forks/idurar/idurar-erp-crm?style=flat-square&color=blue)](https://github.com/idurar/idurar-erp-crm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Free Open Source ERP CRM Software Accounting Invoicing | Node Js React
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Database
+Payments
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ idurar/idurar-erp-crm 是一套基于 Node.js 与 React 的免费开源 ERP/CRM 
 | forks | 87/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 73/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

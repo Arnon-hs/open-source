@@ -1,6 +1,6 @@
 # yangxiaoge/tvbox_cust
 
-[![Stars](https://img.shields.io/github/stars/yangxiaoge/tvbox_cust?style=flat-square&color=yellow)](https://github.com/yangxiaoge/tvbox_cust/stargazers) [![Forks](https://img.shields.io/github/forks/yangxiaoge/tvbox_cust?style=flat-square&color=blue)](https://github.com/yangxiaoge/tvbox_cust/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yangxiaoge/tvbox_cust?style=flat-square&color=yellow)](https://github.com/yangxiaoge/tvbox_cust/stargazers) [![Forks](https://img.shields.io/github/forks/yangxiaoge/tvbox_cust?style=flat-square&color=blue)](https://github.com/yangxiaoge/tvbox_cust/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 仅自用，有问题概不负责⚠️📢
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ yangxiaoge/tvbox_cust 是一个开源项目，主要用于自用目的。虽然�
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

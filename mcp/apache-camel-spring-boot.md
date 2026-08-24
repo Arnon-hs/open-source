@@ -1,6 +1,6 @@
 # apache/camel-spring-boot
 
-[![Stars](https://img.shields.io/github/stars/apache/camel-spring-boot?style=flat-square&color=yellow)](https://github.com/apache/camel-spring-boot/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel-spring-boot?style=flat-square&color=blue)](https://github.com/apache/camel-spring-boot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/camel-spring-boot?style=flat-square&color=yellow)](https://github.com/apache/camel-spring-boot/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel-spring-boot?style=flat-square&color=blue)](https://github.com/apache/camel-spring-boot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Runs Camel on Spring Boot and provides starters for Camel components
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Apache Camel Spring Boot 的生产可用性很高。它有强大的社区支持�
 | forks | 58/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

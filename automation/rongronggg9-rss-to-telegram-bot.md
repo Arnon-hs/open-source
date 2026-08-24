@@ -1,6 +1,6 @@
 # Rongronggg9/RSS-to-Telegram-Bot
 
-[![Stars](https://img.shields.io/github/stars/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=yellow)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=blue)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=yellow)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/Rongronggg9/RSS-to-Telegram-Bot?style=flat-square&color=blue)](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database · DevOps/Infra
+Automation · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Rongronggg9/RSS-to-Telegram-Bot 是一个 Telegram RSS 机器人，旨在改善�
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

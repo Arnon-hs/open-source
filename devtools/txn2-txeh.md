@@ -1,6 +1,6 @@
 # txn2/txeh
 
-[![Stars](https://img.shields.io/github/stars/txn2/txeh?style=flat-square&color=yellow)](https://github.com/txn2/txeh/stargazers) [![Forks](https://img.shields.io/github/forks/txn2/txeh?style=flat-square&color=blue)](https://github.com/txn2/txeh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/txn2/txeh?style=flat-square&color=yellow)](https://github.com/txn2/txeh/stargazers) [![Forks](https://img.shields.io/github/forks/txn2/txeh?style=flat-square&color=blue)](https://github.com/txn2/txeh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Go library and CLI utility for /etc/hosts management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ DevTools
 | forks | 41/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

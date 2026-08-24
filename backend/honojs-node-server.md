@@ -1,6 +1,6 @@
 # honojs/node-server
 
-[![Stars](https://img.shields.io/github/stars/honojs/node-server?style=flat-square&color=yellow)](https://github.com/honojs/node-server/stargazers) [![Forks](https://img.shields.io/github/forks/honojs/node-server?style=flat-square&color=blue)](https://github.com/honojs/node-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/honojs/node-server?style=flat-square&color=yellow)](https://github.com/honojs/node-server/stargazers) [![Forks](https://img.shields.io/github/forks/honojs/node-server?style=flat-square&color=blue)](https://github.com/honojs/node-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js Server for Hono
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 659 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ honojs/node‑server 是一套基于 Node.js 的后端服务器实现，专为 H
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

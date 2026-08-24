@@ -1,6 +1,6 @@
 # akemmanuel/OpenGUI
 
-[![Stars](https://img.shields.io/github/stars/akemmanuel/OpenGUI?style=flat-square&color=yellow)](https://github.com/akemmanuel/OpenGUI/stargazers) [![Forks](https://img.shields.io/github/forks/akemmanuel/OpenGUI?style=flat-square&color=blue)](https://github.com/akemmanuel/OpenGUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akemmanuel/OpenGUI?style=flat-square&color=yellow)](https://github.com/akemmanuel/OpenGUI/stargazers) [![Forks](https://img.shields.io/github/forks/akemmanuel/OpenGUI?style=flat-square&color=blue)](https://github.com/akemmanuel/OpenGUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source desktop and web coding agent with a first-party host and harness, durable sessions, model connections, streaming chat, and workspace tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ akemmanuel/OpenGUI 的生产可用性为中等，有助于prototype 或内部工
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

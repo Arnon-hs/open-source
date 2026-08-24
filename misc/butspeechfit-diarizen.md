@@ -1,6 +1,6 @@
 # BUTSpeechFIT/DiariZen
 
-[![Stars](https://img.shields.io/github/stars/BUTSpeechFIT/DiariZen?style=flat-square&color=yellow)](https://github.com/BUTSpeechFIT/DiariZen/stargazers) [![Forks](https://img.shields.io/github/forks/BUTSpeechFIT/DiariZen?style=flat-square&color=blue)](https://github.com/BUTSpeechFIT/DiariZen/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BUTSpeechFIT/DiariZen?style=flat-square&color=yellow)](https://github.com/BUTSpeechFIT/DiariZen/stargazers) [![Forks](https://img.shields.io/github/forks/BUTSpeechFIT/DiariZen?style=flat-square&color=blue)](https://github.com/BUTSpeechFIT/DiariZen/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for speaker diarization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ BUTSpeechFIT/DiariZen 的生产可用性为中等。它可以用于内部工作�
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # onflow/flow-cli
 
-[![Stars](https://img.shields.io/github/stars/onflow/flow-cli?style=flat-square&color=yellow)](https://github.com/onflow/flow-cli/stargazers) [![Forks](https://img.shields.io/github/forks/onflow/flow-cli?style=flat-square&color=blue)](https://github.com/onflow/flow-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onflow/flow-cli?style=flat-square&color=yellow)](https://github.com/onflow/flow-cli/stargazers) [![Forks](https://img.shields.io/github/forks/onflow/flow-cli?style=flat-square&color=blue)](https://github.com/onflow/flow-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Flow CLI. Deploy contracts, run transactions, manage accounts, and run a local Flow emulator. The primary tool for building on Flow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · DevTools
+Crypto · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Flow CLI（onflow/flow-cli）是 Flow 区块链的官方命令行工具，支持
 | forks | 48/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

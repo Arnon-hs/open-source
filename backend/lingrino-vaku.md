@@ -1,6 +1,6 @@
 # lingrino/vaku
 
-[![Stars](https://img.shields.io/github/stars/lingrino/vaku?style=flat-square&color=yellow)](https://github.com/lingrino/vaku/stargazers) [![Forks](https://img.shields.io/github/forks/lingrino/vaku?style=flat-square&color=blue)](https://github.com/lingrino/vaku/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lingrino/vaku?style=flat-square&color=yellow)](https://github.com/lingrino/vaku/stargazers) [![Forks](https://img.shields.io/github/forks/lingrino/vaku?style=flat-square&color=blue)](https://github.com/lingrino/vaku/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > vaku extends the vault api & cli
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Overall, Vaku is a high‑readiness OSS candidate that can be piloted quickly an
 | forks | 32/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

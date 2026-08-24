@@ -1,6 +1,6 @@
 # CarGuo/gsy_github_app_flutter
 
-[![Stars](https://img.shields.io/github/stars/CarGuo/gsy_github_app_flutter?style=flat-square&color=yellow)](https://github.com/CarGuo/gsy_github_app_flutter/stargazers) [![Forks](https://img.shields.io/github/forks/CarGuo/gsy_github_app_flutter?style=flat-square&color=blue)](https://github.com/CarGuo/gsy_github_app_flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CarGuo/gsy_github_app_flutter?style=flat-square&color=yellow)](https://github.com/CarGuo/gsy_github_app_flutter/stargazers) [![Forks](https://img.shields.io/github/forks/CarGuo/gsy_github_app_flutter?style=flat-square&color=blue)](https://github.com/CarGuo/gsy_github_app_flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.5k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ CarGuo/gsy_github_app_flutter 是一套「GSYGithubApp」系列中基于 Flutter
 | forks | 85/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 80/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # juhaku/utoipa
 
-[![Stars](https://img.shields.io/github/stars/juhaku/utoipa?style=flat-square&color=yellow)](https://github.com/juhaku/utoipa/stargazers) [![Forks](https://img.shields.io/github/forks/juhaku/utoipa?style=flat-square&color=blue)](https://github.com/juhaku/utoipa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juhaku/utoipa?style=flat-square&color=yellow)](https://github.com/juhaku/utoipa/stargazers) [![Forks](https://img.shields.io/github/forks/juhaku/utoipa?style=flat-square&color=blue)](https://github.com/juhaku/utoipa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 439 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ juhaku/utoipa的生产可用性很高。它有近 4,000 个 GitHub 星星，且�
 | forks | 66/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

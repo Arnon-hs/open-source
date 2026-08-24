@@ -1,6 +1,6 @@
 # OtterMind/Chat2DB
 
-[![Stars](https://img.shields.io/github/stars/OtterMind/Chat2DB?style=flat-square&color=yellow)](https://github.com/OtterMind/Chat2DB/stargazers) [![Forks](https://img.shields.io/github/forks/OtterMind/Chat2DB?style=flat-square&color=blue)](https://github.com/OtterMind/Chat2DB/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OtterMind/Chat2DB?style=flat-square&color=yellow)](https://github.com/OtterMind/Chat2DB/stargazers) [![Forks](https://img.shields.io/github/forks/OtterMind/Chat2DB?style=flat-square&color=blue)](https://github.com/OtterMind/Chat2DB/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.9k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Data
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ OtterMind/Chat2DB 支持多种接入方式，包括：
 | forks | 86/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

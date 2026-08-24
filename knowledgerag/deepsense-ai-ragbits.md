@@ -1,6 +1,6 @@
 # deepsense-ai/ragbits
 
-[![Stars](https://img.shields.io/github/stars/deepsense-ai/ragbits?style=flat-square&color=yellow)](https://github.com/deepsense-ai/ragbits/stargazers) [![Forks](https://img.shields.io/github/forks/deepsense-ai/ragbits?style=flat-square&color=blue)](https://github.com/deepsense-ai/ragbits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepsense-ai/ragbits?style=flat-square&color=yellow)](https://github.com/deepsense-ai/ragbits/stargazers) [![Forks](https://img.shields.io/github/forks/deepsense-ai/ragbits?style=flat-square&color=blue)](https://github.com/deepsense-ai/ragbits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Building blocks for rapid development of GenAI applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Backend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ deepsense‑ai/ragbits 是一套用于快速构建生成式 AI（GenAI）应用�
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

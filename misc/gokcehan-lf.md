@@ -1,6 +1,6 @@
 # gokcehan/lf
 
-[![Stars](https://img.shields.io/github/stars/gokcehan/lf?style=flat-square&color=yellow)](https://github.com/gokcehan/lf/stargazers) [![Forks](https://img.shields.io/github/forks/gokcehan/lf?style=flat-square&color=blue)](https://github.com/gokcehan/lf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gokcehan/lf?style=flat-square&color=yellow)](https://github.com/gokcehan/lf/stargazers) [![Forks](https://img.shields.io/github/forks/gokcehan/lf?style=flat-square&color=blue)](https://github.com/gokcehan/lf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal file manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 372 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ gokcehan/lf 的生产可用性非常高。它有强大的社区支持、活跃�
 | forks | 64/100 |
 | stars | 85/100 |
 | topics | 25/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 79/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

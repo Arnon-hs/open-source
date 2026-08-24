@@ -1,6 +1,6 @@
 # logos-messaging/logos-delivery
 
-[![Stars](https://img.shields.io/github/stars/logos-messaging/logos-delivery?style=flat-square&color=yellow)](https://github.com/logos-messaging/logos-delivery/stargazers) [![Forks](https://img.shields.io/github/forks/logos-messaging/logos-delivery?style=flat-square&color=blue)](https://github.com/logos-messaging/logos-delivery/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logos-messaging/logos-delivery?style=flat-square&color=yellow)](https://github.com/logos-messaging/logos-delivery/stargazers) [![Forks](https://img.shields.io/github/forks/logos-messaging/logos-delivery?style=flat-square&color=blue)](https://github.com/logos-messaging/logos-delivery/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Logos Messaging protocols implemented in Nim
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Nim |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,14 +123,15 @@ Logos‑delivery 是 Logos Messaging 协议在 Nim 语言下的实现，提供�
 | forks | 48/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

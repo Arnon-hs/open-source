@@ -1,6 +1,6 @@
 # janaador0827-commits/simulacra-forge
 
-[![Stars](https://img.shields.io/github/stars/janaador0827-commits/simulacra-forge?style=flat-square&color=yellow)](https://github.com/janaador0827-commits/simulacra-forge/stargazers) [![Forks](https://img.shields.io/github/forks/janaador0827-commits/simulacra-forge?style=flat-square&color=blue)](https://github.com/janaador0827-commits/simulacra-forge/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janaador0827-commits/simulacra-forge?style=flat-square&color=yellow)](https://github.com/janaador0827-commits/simulacra-forge/stargazers) [![Forks](https://img.shields.io/github/forks/janaador0827-commits/simulacra-forge?style=flat-square&color=blue)](https://github.com/janaador0827-commits/simulacra-forge/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Top Autonomous Multi-Agent Dialogue Systems for AI Character Emergence (2026)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Backend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Simulacra‑Forge provides a practical, low‑friction way to turn scattered pro
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

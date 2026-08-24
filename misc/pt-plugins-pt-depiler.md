@@ -1,6 +1,6 @@
 # pt-plugins/PT-depiler
 
-[![Stars](https://img.shields.io/github/stars/pt-plugins/PT-depiler?style=flat-square&color=yellow)](https://github.com/pt-plugins/PT-depiler/stargazers) [![Forks](https://img.shields.io/github/forks/pt-plugins/PT-depiler?style=flat-square&color=blue)](https://github.com/pt-plugins/PT-depiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pt-plugins/PT-depiler?style=flat-square&color=yellow)](https://github.com/pt-plugins/PT-depiler/stargazers) [![Forks](https://img.shields.io/github/forks/pt-plugins/PT-depiler?style=flat-square&color=blue)](https://github.com/pt-plugins/PT-depiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ PT-depiler 的价值在于它可以提升 PT 站点的使用效率，帮助用�
 | forks | 56/100 |
 | stars | 72/100 |
 | topics | 13/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

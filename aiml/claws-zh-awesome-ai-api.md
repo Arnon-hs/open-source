@@ -1,6 +1,6 @@
 # Claws-ZH/awesome-ai-api
 
-[![Stars](https://img.shields.io/github/stars/Claws-ZH/awesome-ai-api?style=flat-square&color=yellow)](https://github.com/Claws-ZH/awesome-ai-api/stargazers) [![Forks](https://img.shields.io/github/forks/Claws-ZH/awesome-ai-api?style=flat-square&color=blue)](https://github.com/Claws-ZH/awesome-ai-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Claws-ZH/awesome-ai-api?style=flat-square&color=yellow)](https://github.com/Claws-ZH/awesome-ai-api/stargazers) [![Forks](https://img.shields.io/github/forks/Claws-ZH/awesome-ai-api?style=flat-square&color=blue)](https://github.com/Claws-ZH/awesome-ai-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of 200+ AI API providers with daily ranking, OpenAI-compatible API checks, and live /v1/models probing for Claude, DeepSeek, Gemini, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Claws-ZH/awesome-ai-api：Claws-ZH/awesome-ai-api helps add AI capability withou
 | forks | 29/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

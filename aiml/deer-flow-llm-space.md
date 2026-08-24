@@ -1,6 +1,6 @@
 # deer-flow/llm-space
 
-[![Stars](https://img.shields.io/github/stars/deer-flow/llm-space?style=flat-square&color=yellow)](https://github.com/deer-flow/llm-space/stargazers) [![Forks](https://img.shields.io/github/forks/deer-flow/llm-space?style=flat-square&color=blue)](https://github.com/deer-flow/llm-space/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deer-flow/llm-space?style=flat-square&color=yellow)](https://github.com/deer-flow/llm-space/stargazers) [![Forks](https://img.shields.io/github/forks/deer-flow/llm-space?style=flat-square&color=blue)](https://github.com/deer-flow/llm-space/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ deer-flow/llm-space 的生产可用性非常高，主要原因包括：
 | forks | 37/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

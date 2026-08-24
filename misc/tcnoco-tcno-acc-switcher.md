@@ -1,6 +1,6 @@
 # TCNOco/TcNo-Acc-Switcher
 
-[![Stars](https://img.shields.io/github/stars/TCNOco/TcNo-Acc-Switcher?style=flat-square&color=yellow)](https://github.com/TCNOco/TcNo-Acc-Switcher/stargazers) [![Forks](https://img.shields.io/github/forks/TCNOco/TcNo-Acc-Switcher?style=flat-square&color=blue)](https://github.com/TCNOco/TcNo-Acc-Switcher/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TCNOco/TcNo-Acc-Switcher?style=flat-square&color=yellow)](https://github.com/TCNOco/TcNo-Acc-Switcher/stargazers) [![Forks](https://img.shields.io/github/forks/TCNOco/TcNo-Acc-Switcher?style=flat-square&color=blue)](https://github.com/TCNOco/TcNo-Acc-Switcher/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ TCNOco/TcNo-Acc-Switcher 的生产可用性较高，主要原因是：
 | forks | 55/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

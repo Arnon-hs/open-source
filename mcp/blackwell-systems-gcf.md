@@ -1,6 +1,6 @@
 # blackwell-systems/gcf
 
-[![Stars](https://img.shields.io/github/stars/blackwell-systems/gcf?style=flat-square&color=yellow)](https://github.com/blackwell-systems/gcf/stargazers) [![Forks](https://img.shields.io/github/forks/blackwell-systems/gcf?style=flat-square&color=blue)](https://github.com/blackwell-systems/gcf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blackwell-systems/gcf?style=flat-square&color=yellow)](https://github.com/blackwell-systems/gcf/stargazers) [![Forks](https://img.shields.io/github/forks/blackwell-systems/gcf?style=flat-square&color=blue)](https://github.com/blackwell-systems/gcf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-native wire format for structured data. 100% comprehension on every frontier model. 50-92% fewer tokens than JSON. 43B+ lossless round-trips across 17 formats. Spec v3.2 Stable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Data · Database
+MCP · AI/ML · Data
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ The production readiness of blackwell-system
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

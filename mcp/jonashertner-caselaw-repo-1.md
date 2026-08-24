@@ -1,6 +1,6 @@
 # jonashertner/caselaw-repo-1
 
-[![Stars](https://img.shields.io/github/stars/jonashertner/caselaw-repo-1?style=flat-square&color=yellow)](https://github.com/jonashertner/caselaw-repo-1/stargazers) [![Forks](https://img.shields.io/github/forks/jonashertner/caselaw-repo-1?style=flat-square&color=blue)](https://github.com/jonashertner/caselaw-repo-1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonashertner/caselaw-repo-1?style=flat-square&color=yellow)](https://github.com/jonashertner/caselaw-repo-1/stargazers) [![Forks](https://img.shields.io/github/forks/jonashertner/caselaw-repo-1?style=flat-square&color=blue)](https://github.com/jonashertner/caselaw-repo-1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Open Swiss legal corpus + MCP server: 1M+ court decisions (1875–today), 21k laws, 10M-edge citation graph, 42 MCP tools. CC0 data, MIT code. Live at mcp.opencaselaw.ch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ jonashertner/caselaw-repo-1 的主要价值在于，它帮助连接人工智能�
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jparkerweb/ai-assist-skills
 
-[![Stars](https://img.shields.io/github/stars/jparkerweb/ai-assist-skills?style=flat-square&color=yellow)](https://github.com/jparkerweb/ai-assist-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jparkerweb/ai-assist-skills?style=flat-square&color=blue)](https://github.com/jparkerweb/ai-assist-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jparkerweb/ai-assist-skills?style=flat-square&color=yellow)](https://github.com/jparkerweb/ai-assist-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jparkerweb/ai-assist-skills?style=flat-square&color=blue)](https://github.com/jparkerweb/ai-assist-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A collection of AI agent skills that automate recurring engineering workflows that can be installed across multiple AI coding assistants.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ jparkerweb/ai-assist-skills 是一套可复用的 AI 代理技能库，能够把
 | forks | 27/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

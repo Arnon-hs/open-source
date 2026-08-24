@@ -1,6 +1,6 @@
 # Azure-Samples/azure-ai-travel-agents
 
-[![Stars](https://img.shields.io/github/stars/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=yellow)](https://github.com/Azure-Samples/azure-ai-travel-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=blue)](https://github.com/Azure-Samples/azure-ai-travel-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=yellow)](https://github.com/Azure-Samples/azure-ai-travel-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=blue)](https://github.com/Azure-Samples/azure-ai-travel-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > A robust enterprise application sample (deployed on ACA) that leverages MCP and multiple AI agents orchestrated by Langchain.js, Llamaindex.TS and Microsoft Agent Framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · DevOps/Infra
+Orchestration · MCP · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Azure-Samples/azure-ai-travel-agents：Azure-Samples/azure-ai-travel-agents help
 | forks | 57/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

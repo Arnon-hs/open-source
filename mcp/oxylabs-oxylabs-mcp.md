@@ -1,6 +1,6 @@
 # oxylabs/oxylabs-mcp
 
-[![Stars](https://img.shields.io/github/stars/oxylabs/oxylabs-mcp?style=flat-square&color=yellow)](https://github.com/oxylabs/oxylabs-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oxylabs/oxylabs-mcp?style=flat-square&color=blue)](https://github.com/oxylabs/oxylabs-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxylabs/oxylabs-mcp?style=flat-square&color=yellow)](https://github.com/oxylabs/oxylabs-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oxylabs/oxylabs-mcp?style=flat-square&color=blue)](https://github.com/oxylabs/oxylabs-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Official Oxylabs MCP integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Oxylabs MCP 集成的生产可用性很高，因为它有:
 | forks | 36/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

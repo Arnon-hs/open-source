@@ -1,6 +1,6 @@
 # DOMjudge/domjudge
 
-[![Stars](https://img.shields.io/github/stars/DOMjudge/domjudge?style=flat-square&color=yellow)](https://github.com/DOMjudge/domjudge/stargazers) [![Forks](https://img.shields.io/github/forks/DOMjudge/domjudge?style=flat-square&color=blue)](https://github.com/DOMjudge/domjudge/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DOMjudge/domjudge?style=flat-square&color=yellow)](https://github.com/DOMjudge/domjudge/stargazers) [![Forks](https://img.shields.io/github/forks/DOMjudge/domjudge?style=flat-square&color=blue)](https://github.com/DOMjudge/domjudge/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > DOMjudge programming contest jury system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 902 |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend · DevTools · Database
+Payments
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ DOMjudge 是一套开源的编程竞赛评测系统，主要面向赛事裁判�
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

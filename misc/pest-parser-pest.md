@@ -1,6 +1,6 @@
 # pest-parser/pest
 
-[![Stars](https://img.shields.io/github/stars/pest-parser/pest?style=flat-square&color=yellow)](https://github.com/pest-parser/pest/stargazers) [![Forks](https://img.shields.io/github/forks/pest-parser/pest?style=flat-square&color=blue)](https://github.com/pest-parser/pest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pest-parser/pest?style=flat-square&color=yellow)](https://github.com/pest-parser/pest/stargazers) [![Forks](https://img.shields.io/github/forks/pest-parser/pest?style=flat-square&color=blue)](https://github.com/pest-parser/pest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Elegant Parser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ pest-parser/pest 是一款用 Rust 编写的 **Elegant Parser**，提供声明�
 | forks | 62/100 |
 | stars | 79/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

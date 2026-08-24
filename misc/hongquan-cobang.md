@@ -1,6 +1,6 @@
 # hongquan/CoBang
 
-[![Stars](https://img.shields.io/github/stars/hongquan/CoBang?style=flat-square&color=yellow)](https://github.com/hongquan/CoBang/stargazers) [![Forks](https://img.shields.io/github/forks/hongquan/CoBang?style=flat-square&color=blue)](https://github.com/hongquan/CoBang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hongquan/CoBang?style=flat-square&color=yellow)](https://github.com/hongquan/CoBang/stargazers) [![Forks](https://img.shields.io/github/forks/hongquan/CoBang?style=flat-square&color=blue)](https://github.com/hongquan/CoBang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A QR code scanner desktop app for Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ hongquan/CoBang 的生产可用性较高，因为它具有以下特点：
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

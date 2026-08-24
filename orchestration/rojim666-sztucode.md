@@ -1,6 +1,6 @@
 # rojim666/SztuCode
 
-[![Stars](https://img.shields.io/github/stars/rojim666/SztuCode?style=flat-square&color=yellow)](https://github.com/rojim666/SztuCode/stargazers) [![Forks](https://img.shields.io/github/forks/rojim666/SztuCode?style=flat-square&color=blue)](https://github.com/rojim666/SztuCode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rojim666/SztuCode?style=flat-square&color=yellow)](https://github.com/rojim666/SztuCode/stargazers) [![Forks](https://img.shields.io/github/forks/rojim666/SztuCode?style=flat-square&color=blue)](https://github.com/rojim666/SztuCode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 本地优先的 AI 编程 Agent，支持 TUI/桌面端、工具权限、会话记忆、Skills、Subagents 与 MCPA local-first AI coding agent with TUI and desktop clients, tool permissions, memory, Skills, Subagents, and MCP support.。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ rojim666/SztuCode 在生产环境中具有较高的可用性，主要原因是�
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

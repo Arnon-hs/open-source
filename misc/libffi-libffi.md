@@ -1,6 +1,6 @@
 # libffi/libffi
 
-[![Stars](https://img.shields.io/github/stars/libffi/libffi?style=flat-square&color=yellow)](https://github.com/libffi/libffi/stargazers) [![Forks](https://img.shields.io/github/forks/libffi/libffi?style=flat-square&color=blue)](https://github.com/libffi/libffi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libffi/libffi?style=flat-square&color=yellow)](https://github.com/libffi/libffi/stargazers) [![Forks](https://img.shields.io/github/forks/libffi/libffi?style=flat-square&color=blue)](https://github.com/libffi/libffi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A portable foreign-function interface library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 820 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ libffi（全称 libffi/libffi）是一个跨平台的 **Foreign Function Interfa
 | forks | 73/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

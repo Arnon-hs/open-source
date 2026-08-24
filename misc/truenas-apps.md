@@ -1,6 +1,6 @@
 # truenas/apps
 
-[![Stars](https://img.shields.io/github/stars/truenas/apps?style=flat-square&color=yellow)](https://github.com/truenas/apps/stargazers) [![Forks](https://img.shields.io/github/forks/truenas/apps?style=flat-square&color=blue)](https://github.com/truenas/apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truenas/apps?style=flat-square&color=yellow)](https://github.com/truenas/apps/stargazers) [![Forks](https://img.shields.io/github/forks/truenas/apps?style=flat-square&color=blue)](https://github.com/truenas/apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,14 +80,15 @@ Truenas/apps 是一个开源项目，主要用于特定工作流程的工具集�
 | forks | 62/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

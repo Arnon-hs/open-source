@@ -1,6 +1,6 @@
 # threatcl/threatcl
 
-[![Stars](https://img.shields.io/github/stars/threatcl/threatcl?style=flat-square&color=yellow)](https://github.com/threatcl/threatcl/stargazers) [![Forks](https://img.shields.io/github/forks/threatcl/threatcl?style=flat-square&color=blue)](https://github.com/threatcl/threatcl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/threatcl/threatcl?style=flat-square&color=yellow)](https://github.com/threatcl/threatcl/stargazers) [![Forks](https://img.shields.io/github/forks/threatcl/threatcl?style=flat-square&color=blue)](https://github.com/threatcl/threatcl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Documenting your Threat Models with HCL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 460 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ We need to write<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk
 | forks | 36/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

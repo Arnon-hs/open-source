@@ -1,6 +1,6 @@
 # k1LoW/deck
 
-[![Stars](https://img.shields.io/github/stars/k1LoW/deck?style=flat-square&color=yellow)](https://github.com/k1LoW/deck/stargazers) [![Forks](https://img.shields.io/github/forks/k1LoW/deck?style=flat-square&color=blue)](https://github.com/k1LoW/deck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k1LoW/deck?style=flat-square&color=yellow)](https://github.com/k1LoW/deck/stargazers) [![Forks](https://img.shields.io/github/forks/k1LoW/deck?style=flat-square&color=blue)](https://github.com/k1LoW/deck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > deck is a tool for creating deck using Markdown and Google Slides.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Misc
 | forks | 39/100 |
 | stars | 66/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

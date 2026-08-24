@@ -1,6 +1,6 @@
 # gilch/hissp
 
-[![Stars](https://img.shields.io/github/stars/gilch/hissp?style=flat-square&color=yellow)](https://github.com/gilch/hissp/stargazers) [![Forks](https://img.shields.io/github/forks/gilch/hissp?style=flat-square&color=blue)](https://github.com/gilch/hissp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gilch/hissp?style=flat-square&color=yellow)](https://github.com/gilch/hissp/stargazers) [![Forks](https://img.shields.io/github/forks/gilch/hissp?style=flat-square&color=blue)](https://github.com/gilch/hissp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > It's Python with a Lissp.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ gilch/hissp 是一个把 Lissp（Lisp‑like 语法）引入 Python 的实验性
 | forks | 29/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

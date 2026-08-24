@@ -1,6 +1,6 @@
 # MindWorkAI/AI-Studio
 
-[![Stars](https://img.shields.io/github/stars/MindWorkAI/AI-Studio?style=flat-square&color=yellow)](https://github.com/MindWorkAI/AI-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/MindWorkAI/AI-Studio?style=flat-square&color=blue)](https://github.com/MindWorkAI/AI-Studio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MindWorkAI/AI-Studio?style=flat-square&color=yellow)](https://github.com/MindWorkAI/AI-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/MindWorkAI/AI-Studio?style=flat-square&color=blue)](https://github.com/MindWorkAI/AI-Studio/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > MindWork AI Studio is a free, independent cross-platform desktop app for local and cloud LLMs across providers, built to democratize AI access.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 480 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ MindWorkAI/AI‑Studio 是一款免费、独立的跨平台桌面应用，支持
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

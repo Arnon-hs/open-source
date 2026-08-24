@@ -1,6 +1,6 @@
 # dmae97/omk
 
-[![Stars](https://img.shields.io/github/stars/dmae97/omk?style=flat-square&color=yellow)](https://github.com/dmae97/omk/stargazers) [![Forks](https://img.shields.io/github/forks/dmae97/omk?style=flat-square&color=blue)](https://github.com/dmae97/omk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmae97/omk?style=flat-square&color=yellow)](https://github.com/dmae97/omk/stargazers) [![Forks](https://img.shields.io/github/forks/dmae97/omk?style=flat-square&color=blue)](https://github.com/dmae97/omk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-gated runner for Codex, Claude Code, OpenCode, and local coding agents. Routes tasks into scoped DAG lanes with replayable artifacts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ dmae97/omk 的生产可用性很高，尤其是考虑到其最近的活跃度、
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

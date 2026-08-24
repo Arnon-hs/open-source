@@ -1,6 +1,6 @@
 # IvanWng97/pixtuoid
 
-[![Stars](https://img.shields.io/github/stars/IvanWng97/pixtuoid?style=flat-square&color=yellow)](https://github.com/IvanWng97/pixtuoid/stargazers) [![Forks](https://img.shields.io/github/forks/IvanWng97/pixtuoid?style=flat-square&color=blue)](https://github.com/IvanWng97/pixtuoid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IvanWng97/pixtuoid?style=flat-square&color=yellow)](https://github.com/IvanWng97/pixtuoid/stargazers) [![Forks](https://img.shields.io/github/forks/IvanWng97/pixtuoid?style=flat-square&color=blue)](https://github.com/IvanWng97/pixtuoid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal pixel-art office for AI coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ IvanWng97/pixtuoid 是一个基于终端的像素艺术风格办公环境，专�
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

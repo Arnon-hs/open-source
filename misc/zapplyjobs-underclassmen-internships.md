@@ -1,6 +1,6 @@
 # zapplyjobs/underclassmen-internships
 
-[![Stars](https://img.shields.io/github/stars/zapplyjobs/underclassmen-internships?style=flat-square&color=yellow)](https://github.com/zapplyjobs/underclassmen-internships/stargazers) [![Forks](https://img.shields.io/github/forks/zapplyjobs/underclassmen-internships?style=flat-square&color=blue)](https://github.com/zapplyjobs/underclassmen-internships/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zapplyjobs/underclassmen-internships?style=flat-square&color=yellow)](https://github.com/zapplyjobs/underclassmen-internships/stargazers) [![Forks](https://img.shields.io/github/forks/zapplyjobs/underclassmen-internships?style=flat-square&color=blue)](https://github.com/zapplyjobs/underclassmen-internships/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of internships/externships/fellowships exclusive for CS freshman and sophomore (updated for 2026!)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ The practical adoption path for this project involves manual inspection and vali
 | forks | 46/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

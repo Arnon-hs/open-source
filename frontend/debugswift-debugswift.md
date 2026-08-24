@@ -1,6 +1,6 @@
 # DebugSwift/DebugSwift
 
-[![Stars](https://img.shields.io/github/stars/DebugSwift/DebugSwift?style=flat-square&color=yellow)](https://github.com/DebugSwift/DebugSwift/stargazers) [![Forks](https://img.shields.io/github/forks/DebugSwift/DebugSwift?style=flat-square&color=blue)](https://github.com/DebugSwift/DebugSwift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DebugSwift/DebugSwift?style=flat-square&color=yellow)](https://github.com/DebugSwift/DebugSwift/stargazers) [![Forks](https://img.shields.io/github/forks/DebugSwift/DebugSwift?style=flat-square&color=blue)](https://github.com/DebugSwift/DebugSwift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit to make debugging iOS applications easier 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · Database · Observability · Mobile
+Frontend · Data · Observability · Mobile
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ DebugSwift/DebugSwift 的生产可用性为高，主要原因是：
 | forks | 58/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # raysan5/raygui
 
-[![Stars](https://img.shields.io/github/stars/raysan5/raygui?style=flat-square&color=yellow)](https://github.com/raysan5/raygui/stargazers) [![Forks](https://img.shields.io/github/forks/raysan5/raygui?style=flat-square&color=blue)](https://github.com/raysan5/raygui/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raysan5/raygui?style=flat-square&color=yellow)](https://github.com/raysan5/raygui/stargazers) [![Forks](https://img.shields.io/github/forks/raysan5/raygui?style=flat-square&color=blue)](https://github.com/raysan5/raygui/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A simple and easy-to-use immediate-mode gui library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 376 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ raysan5/raygui 是一个基于即时模式（Immediate‑Mode）的 GUI 库，�
 | forks | 64/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

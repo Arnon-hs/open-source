@@ -1,6 +1,6 @@
 # unxed/f4
 
-[![Stars](https://img.shields.io/github/stars/unxed/f4?style=flat-square&color=yellow)](https://github.com/unxed/f4/stargazers) [![Forks](https://img.shields.io/github/forks/unxed/f4?style=flat-square&color=blue)](https://github.com/unxed/f4/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unxed/f4?style=flat-square&color=yellow)](https://github.com/unxed/f4/stargazers) [![Forks](https://img.shields.io/github/forks/unxed/f4?style=flat-square&color=blue)](https://github.com/unxed/f4/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > dual pane like a charm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ unxed/f4 的生产可用性为中等。它适合用于原型或内部工作流�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

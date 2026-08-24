@@ -1,6 +1,6 @@
 # emeryberger/CSrankings
 
-[![Stars](https://img.shields.io/github/stars/emeryberger/CSrankings?style=flat-square&color=yellow)](https://github.com/emeryberger/CSrankings/stargazers) [![Forks](https://img.shields.io/github/forks/emeryberger/CSrankings?style=flat-square&color=blue)](https://github.com/emeryberger/CSrankings/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emeryberger/CSrankings?style=flat-square&color=yellow)](https://github.com/emeryberger/CSrankings/stargazers) [![Forks](https://img.shields.io/github/forks/emeryberger/CSrankings?style=flat-square&color=blue)](https://github.com/emeryberger/CSrankings/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ emeryberger/CSrankings是一款开源web应用，用于评估计算机科学系�
 | forks | 90/100 |
 | stars | 74/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

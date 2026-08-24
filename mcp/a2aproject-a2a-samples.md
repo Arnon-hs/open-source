@@ -1,6 +1,6 @@
 # a2aproject/a2a-samples
 
-[![Stars](https://img.shields.io/github/stars/a2aproject/a2a-samples?style=flat-square&color=yellow)](https://github.com/a2aproject/a2a-samples/stargazers) [![Forks](https://img.shields.io/github/forks/a2aproject/a2a-samples?style=flat-square&color=blue)](https://github.com/a2aproject/a2a-samples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a2aproject/a2a-samples?style=flat-square&color=yellow)](https://github.com/a2aproject/a2a-samples/stargazers) [![Forks](https://img.shields.io/github/forks/a2aproject/a2a-samples?style=flat-square&color=blue)](https://github.com/a2aproject/a2a-samples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Samples using the Agent2Agent (A2A) Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 707 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ a2aproject/a2a-samples 是一个开源项目，使用 Agent2Agent (A2A) 协议�
 | forks | 71/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

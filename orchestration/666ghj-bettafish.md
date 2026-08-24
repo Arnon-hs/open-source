@@ -1,6 +1,6 @@
 # 666ghj/BettaFish
 
-[![Stars](https://img.shields.io/github/stars/666ghj/BettaFish?style=flat-square&color=yellow)](https://github.com/666ghj/BettaFish/stargazers) [![Forks](https://img.shields.io/github/forks/666ghj/BettaFish?style=flat-square&color=blue)](https://github.com/666ghj/BettaFish/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/666ghj/BettaFish?style=flat-square&color=yellow)](https://github.com/666ghj/BettaFish/stargazers) [![Forks](https://img.shields.io/github/forks/666ghj/BettaFish?style=flat-square&color=blue)](https://github.com/666ghj/BettaFish/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41.9k |
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ BettaFish has a high production readiness score due to its recent activity, stro
 | forks | 97/100 |
 | stars | 98/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 89/100 |
+| recency | 60/100 |
 | adoption | 98/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

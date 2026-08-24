@@ -1,6 +1,6 @@
 # DouglasGray/xsk-rs
 
-[![Stars](https://img.shields.io/github/stars/DouglasGray/xsk-rs?style=flat-square&color=yellow)](https://github.com/DouglasGray/xsk-rs/stargazers) [![Forks](https://img.shields.io/github/forks/DouglasGray/xsk-rs?style=flat-square&color=blue)](https://github.com/DouglasGray/xsk-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DouglasGray/xsk-rs?style=flat-square&color=yellow)](https://github.com/DouglasGray/xsk-rs/stargazers) [![Forks](https://img.shields.io/github/forks/DouglasGray/xsk-rs?style=flat-square&color=blue)](https://github.com/DouglasGray/xsk-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust interface for Linux AF_XDP sockets
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ DouglasGray/xsk-rs：DouglasGray/xsk-rs may be useful when its README and activi
 | forks | 39/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

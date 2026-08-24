@@ -1,6 +1,6 @@
 # codeplea/genann
 
-[![Stars](https://img.shields.io/github/stars/codeplea/genann?style=flat-square&color=yellow)](https://github.com/codeplea/genann/stargazers) [![Forks](https://img.shields.io/github/forks/codeplea/genann?style=flat-square&color=blue)](https://github.com/codeplea/genann/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codeplea/genann?style=flat-square&color=yellow)](https://github.com/codeplea/genann/stargazers) [![Forks](https://img.shields.io/github/forks/codeplea/genann?style=flat-square&color=blue)](https://github.com/codeplea/genann/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > simple neural network library in ANSI C
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 271 |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ codeplea/genann 是一个简单的神经网络库，使用 ANSI C 编写。该�
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

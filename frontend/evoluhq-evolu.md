@@ -1,6 +1,6 @@
 # evoluhq/evolu
 
-[![Stars](https://img.shields.io/github/stars/evoluhq/evolu?style=flat-square&color=yellow)](https://github.com/evoluhq/evolu/stargazers) [![Forks](https://img.shields.io/github/forks/evoluhq/evolu?style=flat-square&color=blue)](https://github.com/evoluhq/evolu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evoluhq/evolu?style=flat-square&color=yellow)](https://github.com/evoluhq/evolu/stargazers) [![Forks](https://img.shields.io/github/forks/evoluhq/evolu?style=flat-square&color=blue)](https://github.com/evoluhq/evolu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript library and local-first platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ evoluhq/evolu 是一个基于 TypeScript 的本地优先（local‑first）平�
 | forks | 46/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

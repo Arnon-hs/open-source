@@ -1,6 +1,6 @@
 # status-im/status-go
 
-[![Stars](https://img.shields.io/github/stars/status-im/status-go?style=flat-square&color=yellow)](https://github.com/status-im/status-go/stargazers) [![Forks](https://img.shields.io/github/forks/status-im/status-go?style=flat-square&color=blue)](https://github.com/status-im/status-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/status-im/status-go?style=flat-square&color=yellow)](https://github.com/status-im/status-go/stargazers) [![Forks](https://img.shields.io/github/forks/status-im/status-go?style=flat-square&color=blue)](https://github.com/status-im/status-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The "backend" library for Status Apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 762 |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ status-im/status-go 具有高生产可用性，因为它具有：
 | forks | 61/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

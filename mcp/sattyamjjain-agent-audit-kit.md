@@ -1,6 +1,6 @@
 # sattyamjjain/agent-audit-kit
 
-[![Stars](https://img.shields.io/github/stars/sattyamjjain/agent-audit-kit?style=flat-square&color=yellow)](https://github.com/sattyamjjain/agent-audit-kit/stargazers) [![Forks](https://img.shields.io/github/forks/sattyamjjain/agent-audit-kit?style=flat-square&color=blue)](https://github.com/sattyamjjain/agent-audit-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sattyamjjain/agent-audit-kit?style=flat-square&color=yellow)](https://github.com/sattyamjjain/agent-audit-kit/stargazers) [![Forks](https://img.shields.io/github/forks/sattyamjjain/agent-audit-kit?style=flat-square&color=blue)](https://github.com/sattyamjjain/agent-audit-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Static scanner for MCP-connected AI agent pipelines. 303 rules across 12 categories, 12 compliance frameworks, OWASP Agentic 10/10 + MCP 10/10, GitHub Action, SARIF, public CVE-to-rule ledger.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ sattyamjjain/agent-audit-kit 的主要价值在于帮助连接 AI 助手与现�
 | forks | 8/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

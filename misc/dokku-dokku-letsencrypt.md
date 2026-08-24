@@ -1,6 +1,6 @@
 # dokku/dokku-letsencrypt
 
-[![Stars](https://img.shields.io/github/stars/dokku/dokku-letsencrypt?style=flat-square&color=yellow)](https://github.com/dokku/dokku-letsencrypt/stargazers) [![Forks](https://img.shields.io/github/forks/dokku/dokku-letsencrypt?style=flat-square&color=blue)](https://github.com/dokku/dokku-letsencrypt/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dokku/dokku-letsencrypt?style=flat-square&color=yellow)](https://github.com/dokku/dokku-letsencrypt/stargazers) [![Forks](https://img.shields.io/github/forks/dokku/dokku-letsencrypt?style=flat-square&color=blue)](https://github.com/dokku/dokku-letsencrypt/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic Let's Encrypt TLS Certificate installation for dokku
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ The project is **medium‑ready**: it is actively maintained (last update May�
 | forks | 50/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cnjack/jcode
 
-[![Stars](https://img.shields.io/github/stars/cnjack/jcode?style=flat-square&color=yellow)](https://github.com/cnjack/jcode/stargazers) [![Forks](https://img.shields.io/github/forks/cnjack/jcode?style=flat-square&color=blue)](https://github.com/cnjack/jcode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cnjack/jcode?style=flat-square&color=yellow)](https://github.com/cnjack/jcode/stargazers) [![Forks](https://img.shields.io/github/forks/cnjack/jcode?style=flat-square&color=blue)](https://github.com/cnjack/jcode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An AI coding agent that works where your code lives, including remote servers over SSH.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ cnjack/jcode 的生产可用性为 中等水平，即可用于原型开发或内
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 38/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 46/100 |
+| recency | 60/100 |
 | adoption | 24/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

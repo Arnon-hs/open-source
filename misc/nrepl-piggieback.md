@@ -1,6 +1,6 @@
 # nrepl/piggieback
 
-[![Stars](https://img.shields.io/github/stars/nrepl/piggieback?style=flat-square&color=yellow)](https://github.com/nrepl/piggieback/stargazers) [![Forks](https://img.shields.io/github/forks/nrepl/piggieback?style=flat-square&color=blue)](https://github.com/nrepl/piggieback/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nrepl/piggieback?style=flat-square&color=yellow)](https://github.com/nrepl/piggieback/stargazers) [![Forks](https://img.shields.io/github/forks/nrepl/piggieback?style=flat-square&color=blue)](https://github.com/nrepl/piggieback/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > nREPL support for ClojureScript REPLs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 485 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ nrepl/piggieback：nrepl/piggieback may be useful when its README and activity m
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

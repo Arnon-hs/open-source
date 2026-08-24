@@ -1,6 +1,6 @@
 # kvark/blade
 
-[![Stars](https://img.shields.io/github/stars/kvark/blade?style=flat-square&color=yellow)](https://github.com/kvark/blade/stargazers) [![Forks](https://img.shields.io/github/forks/kvark/blade?style=flat-square&color=blue)](https://github.com/kvark/blade/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kvark/blade?style=flat-square&color=yellow)](https://github.com/kvark/blade/stargazers) [![Forks](https://img.shields.io/github/forks/kvark/blade?style=flat-square&color=blue)](https://github.com/kvark/blade/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Sharp and simple graphics library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 795 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ kvark/blade 的生产可用性为中等。它适合用于快速 prototyping 和�
 | forks | 47/100 |
 | stars | 62/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

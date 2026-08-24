@@ -1,6 +1,6 @@
 # guan-ops/Agent-Signal-Bar
 
-[![Stars](https://img.shields.io/github/stars/guan-ops/Agent-Signal-Bar?style=flat-square&color=yellow)](https://github.com/guan-ops/Agent-Signal-Bar/stargazers) [![Forks](https://img.shields.io/github/forks/guan-ops/Agent-Signal-Bar?style=flat-square&color=blue)](https://github.com/guan-ops/Agent-Signal-Bar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guan-ops/Agent-Signal-Bar?style=flat-square&color=yellow)](https://github.com/guan-ops/Agent-Signal-Bar/stargazers) [![Forks](https://img.shields.io/github/forks/guan-ops/Agent-Signal-Bar?style=flat-square&color=blue)](https://github.com/guan-ops/Agent-Signal-Bar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 本地优先的 macOS AI Agent 信号灯：状态栏 + 桌面悬浮信号灯，自动监控 Codex / Claude Code。Local menu bar and floating desktop status lights for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ In short, Agent‑Signal‑Bar offers a low‑effort way to surface AI‑agent s
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # anthonycr/Lightning-Browser
 
-[![Stars](https://img.shields.io/github/stars/anthonycr/Lightning-Browser?style=flat-square&color=yellow)](https://github.com/anthonycr/Lightning-Browser/stargazers) [![Forks](https://img.shields.io/github/forks/anthonycr/Lightning-Browser?style=flat-square&color=blue)](https://github.com/anthonycr/Lightning-Browser/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthonycr/Lightning-Browser?style=flat-square&color=yellow)](https://github.com/anthonycr/Lightning-Browser/stargazers) [![Forks](https://img.shields.io/github/forks/anthonycr/Lightning-Browser?style=flat-square&color=blue)](https://github.com/anthonycr/Lightning-Browser/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Android browser with modern navigation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 853 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Lightning-Browser 的生产可用性为中等，表示它在 prototype 或内部
 | forks | 73/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

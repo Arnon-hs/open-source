@@ -1,6 +1,6 @@
 # ionos-cloud/cluster-api-provider-proxmox
 
-[![Stars](https://img.shields.io/github/stars/ionos-cloud/cluster-api-provider-proxmox?style=flat-square&color=yellow)](https://github.com/ionos-cloud/cluster-api-provider-proxmox/stargazers) [![Forks](https://img.shields.io/github/forks/ionos-cloud/cluster-api-provider-proxmox?style=flat-square&color=blue)](https://github.com/ionos-cloud/cluster-api-provider-proxmox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ionos-cloud/cluster-api-provider-proxmox?style=flat-square&color=yellow)](https://github.com/ionos-cloud/cluster-api-provider-proxmox/stargazers) [![Forks](https://img.shields.io/github/forks/ionos-cloud/cluster-api-provider-proxmox?style=flat-square&color=blue)](https://github.com/ionos-cloud/cluster-api-provider-proxmox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Cluster API Provider for Proxmox VE (CAPMOX)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ ionos-cloud/cluster-api-provider-proxmox 是一个开源项目，提供了 Proxm
 | forks | 47/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

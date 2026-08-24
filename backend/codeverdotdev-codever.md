@@ -1,6 +1,6 @@
 # CodeverDotDev/codever
 
-[![Stars](https://img.shields.io/github/stars/CodeverDotDev/codever?style=flat-square&color=yellow)](https://github.com/CodeverDotDev/codever/stargazers) [![Forks](https://img.shields.io/github/forks/CodeverDotDev/codever?style=flat-square&color=blue)](https://github.com/CodeverDotDev/codever/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeverDotDev/codever?style=flat-square&color=yellow)](https://github.com/CodeverDotDev/codever/stargazers) [![Forks](https://img.shields.io/github/forks/CodeverDotDev/codever?style=flat-square&color=blue)](https://github.com/CodeverDotDev/codever/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database · DevOps/Infra · Product
+Backend · DevTools · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Codever（GitHub 仓库：CodeverDotDev/codever）是一款面向开发者和�
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 83/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

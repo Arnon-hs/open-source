@@ -1,6 +1,6 @@
 # tsmztech/mcp-server-salesforce
 
-[![Stars](https://img.shields.io/github/stars/tsmztech/mcp-server-salesforce?style=flat-square&color=yellow)](https://github.com/tsmztech/mcp-server-salesforce/stargazers) [![Forks](https://img.shields.io/github/forks/tsmztech/mcp-server-salesforce?style=flat-square&color=blue)](https://github.com/tsmztech/mcp-server-salesforce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tsmztech/mcp-server-salesforce?style=flat-square&color=yellow)](https://github.com/tsmztech/mcp-server-salesforce/stargazers) [![Forks](https://img.shields.io/github/forks/tsmztech/mcp-server-salesforce?style=flat-square&color=blue)](https://github.com/tsmztech/mcp-server-salesforce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Salesforce MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ tsmztech/mcp-server-salesforce 的
 | forks | 49/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rabbitmq/rabbitmq-website
 
-[![Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-website?style=flat-square&color=yellow)](https://github.com/rabbitmq/rabbitmq-website/stargazers) [![Forks](https://img.shields.io/github/forks/rabbitmq/rabbitmq-website?style=flat-square&color=blue)](https://github.com/rabbitmq/rabbitmq-website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-website?style=flat-square&color=yellow)](https://github.com/rabbitmq/rabbitmq-website/stargazers) [![Forks](https://img.shields.io/github/forks/rabbitmq/rabbitmq-website?style=flat-square&color=blue)](https://github.com/rabbitmq/rabbitmq-website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > RabbitMQ website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 818 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ RabbitMQ 网站的生产可用性为中等（Medium）。它可以用于原型�
 | forks | 73/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

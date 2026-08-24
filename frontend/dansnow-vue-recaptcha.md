@@ -1,6 +1,6 @@
 # DanSnow/vue-recaptcha
 
-[![Stars](https://img.shields.io/github/stars/DanSnow/vue-recaptcha?style=flat-square&color=yellow)](https://github.com/DanSnow/vue-recaptcha/stargazers) [![Forks](https://img.shields.io/github/forks/DanSnow/vue-recaptcha?style=flat-square&color=blue)](https://github.com/DanSnow/vue-recaptcha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanSnow/vue-recaptcha?style=flat-square&color=yellow)](https://github.com/DanSnow/vue-recaptcha/stargazers) [![Forks](https://img.shields.io/github/forks/DanSnow/vue-recaptcha?style=flat-square&color=blue)](https://github.com/DanSnow/vue-recaptcha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Google ReCAPTCHA component for Vue.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 897 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ DanSnow/vue-recaptcha 是一个为 Vue.js 开发的 Google ReCAPTCHA 组件，�
 | forks | 54/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

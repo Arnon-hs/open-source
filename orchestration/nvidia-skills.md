@@ -1,6 +1,6 @@
 # NVIDIA/skills
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/skills?style=flat-square&color=yellow)](https://github.com/NVIDIA/skills/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/skills?style=flat-square&color=blue)](https://github.com/NVIDIA/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/skills?style=flat-square&color=yellow)](https://github.com/NVIDIA/skills/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/skills?style=flat-square&color=blue)](https://github.com/NVIDIA/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills published by NVIDIA
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ NVIDIA/skills 将零散的 Prompt 与工具封装为可复用的 Agent 工作流
 | forks | 58/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

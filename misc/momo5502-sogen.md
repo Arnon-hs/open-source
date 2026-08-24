@@ -1,6 +1,6 @@
 # momo5502/sogen
 
-[![Stars](https://img.shields.io/github/stars/momo5502/sogen?style=flat-square&color=yellow)](https://github.com/momo5502/sogen/stargazers) [![Forks](https://img.shields.io/github/forks/momo5502/sogen?style=flat-square&color=blue)](https://github.com/momo5502/sogen/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/momo5502/sogen?style=flat-square&color=yellow)](https://github.com/momo5502/sogen/stargazers) [![Forks](https://img.shields.io/github/forks/momo5502/sogen?style=flat-square&color=blue)](https://github.com/momo5502/sogen/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🪅 Windows & Linux userspace emulator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,14 +81,15 @@ momo5502/sogen 是一个跨平台（Windows & Linux）的用户态模拟器�
 | forks | 58/100 |
 | stars | 74/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

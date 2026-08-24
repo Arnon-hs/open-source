@@ -1,6 +1,6 @@
 # idavidov13/agentic-playwright
 
-[![Stars](https://img.shields.io/github/stars/idavidov13/agentic-playwright?style=flat-square&color=yellow)](https://github.com/idavidov13/agentic-playwright/stargazers) [![Forks](https://img.shields.io/github/forks/idavidov13/agentic-playwright?style=flat-square&color=blue)](https://github.com/idavidov13/agentic-playwright/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idavidov13/agentic-playwright?style=flat-square&color=yellow)](https://github.com/idavidov13/agentic-playwright/stargazers) [![Forks](https://img.shields.io/github/forks/idavidov13/agentic-playwright?style=flat-square&color=blue)](https://github.com/idavidov13/agentic-playwright/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools · Product
+Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ idavidov13/agentic-playwright：idavidov13/agentic-playwright helps remove repet
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

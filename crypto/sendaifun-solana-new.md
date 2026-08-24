@@ -1,6 +1,6 @@
 # sendaifun/solana-new
 
-[![Stars](https://img.shields.io/github/stars/sendaifun/solana-new?style=flat-square&color=yellow)](https://github.com/sendaifun/solana-new/stargazers) [![Forks](https://img.shields.io/github/forks/sendaifun/solana-new?style=flat-square&color=blue)](https://github.com/sendaifun/solana-new/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sendaifun/solana-new?style=flat-square&color=yellow)](https://github.com/sendaifun/solana-new/stargazers) [![Forks](https://img.shields.io/github/forks/sendaifun/solana-new?style=flat-square&color=blue)](https://github.com/sendaifun/solana-new/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > think. build. ship. tasteful & useful crypto apps. using a curated skills + knowledge base for AI agents on solana contracts & integrations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Knowledge/RAG · AI/ML · Frontend
+Crypto · Knowledge/RAG
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ In summary, sendaifun/solana-new offers a solid, transparent foundation for buil
 | forks | 40/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

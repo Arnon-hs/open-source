@@ -1,6 +1,6 @@
 # sopaco/deepwiki-rs
 
-[![Stars](https://img.shields.io/github/stars/sopaco/deepwiki-rs?style=flat-square&color=yellow)](https://github.com/sopaco/deepwiki-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sopaco/deepwiki-rs?style=flat-square&color=blue)](https://github.com/sopaco/deepwiki-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sopaco/deepwiki-rs?style=flat-square&color=yellow)](https://github.com/sopaco/deepwiki-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sopaco/deepwiki-rs?style=flat-square&color=blue)](https://github.com/sopaco/deepwiki-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ sopaco/deepwiki-rs 具有很高的生产可用性，主要原因是：
 | forks | 57/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

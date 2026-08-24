@@ -1,6 +1,6 @@
 # oomol-lab/spinedigest
 
-[![Stars](https://img.shields.io/github/stars/oomol-lab/spinedigest?style=flat-square&color=yellow)](https://github.com/oomol-lab/spinedigest/stargazers) [![Forks](https://img.shields.io/github/forks/oomol-lab/spinedigest?style=flat-square&color=blue)](https://github.com/oomol-lab/spinedigest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oomol-lab/spinedigest?style=flat-square&color=yellow)](https://github.com/oomol-lab/spinedigest/stargazers) [![Forks](https://img.shields.io/github/forks/oomol-lab/spinedigest?style=flat-square&color=blue)](https://github.com/oomol-lab/spinedigest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > distill any book down to its spine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ oomol‑lab/spinedigest 是一个开源工具，可将任意图书内容浓缩�
 | forks | 36/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

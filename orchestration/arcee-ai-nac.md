@@ -1,6 +1,6 @@
 # arcee-ai/nac
 
-[![Stars](https://img.shields.io/github/stars/arcee-ai/nac?style=flat-square&color=yellow)](https://github.com/arcee-ai/nac/stargazers) [![Forks](https://img.shields.io/github/forks/arcee-ai/nac?style=flat-square&color=blue)](https://github.com/arcee-ai/nac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arcee-ai/nac?style=flat-square&color=yellow)](https://github.com/arcee-ai/nac/stargazers) [![Forks](https://img.shields.io/github/forks/arcee-ai/nac?style=flat-square&color=blue)](https://github.com/arcee-ai/nac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a central orchestrator, threads, and structured episodes to stay aligned with your intent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ arcee-ai/nac的生产可用性为中等。它适用于原型或者内部工作�
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

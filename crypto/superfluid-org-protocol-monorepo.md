@@ -1,6 +1,6 @@
 # superfluid-org/protocol-monorepo
 
-[![Stars](https://img.shields.io/github/stars/superfluid-org/protocol-monorepo?style=flat-square&color=yellow)](https://github.com/superfluid-org/protocol-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/superfluid-org/protocol-monorepo?style=flat-square&color=blue)](https://github.com/superfluid-org/protocol-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superfluid-org/protocol-monorepo?style=flat-square&color=yellow)](https://github.com/superfluid-org/protocol-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/superfluid-org/protocol-monorepo?style=flat-square&color=blue)](https://github.com/superfluid-org/protocol-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Superfluid Protocol Monorepo: the specification, implementations, peripherals and development kits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 905 |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ superfluid-org/protocol-monorepo：superfluid-org/protocol-monorepo helps protot
 | forks | 61/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

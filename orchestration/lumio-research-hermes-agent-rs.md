@@ -1,6 +1,6 @@
 # Lumio-Research/hermes-agent-rs
 
-[![Stars](https://img.shields.io/github/stars/Lumio-Research/hermes-agent-rs?style=flat-square&color=yellow)](https://github.com/Lumio-Research/hermes-agent-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Lumio-Research/hermes-agent-rs?style=flat-square&color=blue)](https://github.com/Lumio-Research/hermes-agent-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lumio-Research/hermes-agent-rs?style=flat-square&color=yellow)](https://github.com/Lumio-Research/hermes-agent-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Lumio-Research/hermes-agent-rs?style=flat-square&color=blue)](https://github.com/Lumio-Research/hermes-agent-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving AI agent in Rust. Single binary, 10 LLM providers, 30+ tools, 17 platform adapters. Zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Database
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Hermes-Agent-RS 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 31/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

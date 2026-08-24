@@ -1,6 +1,6 @@
 # ruby-grape/grape
 
-[![Stars](https://img.shields.io/github/stars/ruby-grape/grape?style=flat-square&color=yellow)](https://github.com/ruby-grape/grape/stargazers) [![Forks](https://img.shields.io/github/forks/ruby-grape/grape?style=flat-square&color=blue)](https://github.com/ruby-grape/grape/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruby-grape/grape?style=flat-square&color=yellow)](https://github.com/ruby-grape/grape/stargazers) [![Forks](https://img.shields.io/github/forks/ruby-grape/grape?style=flat-square&color=blue)](https://github.com/ruby-grape/grape/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An opinionated framework for creating REST-like APIs in Ruby.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ ruby-grape/grape 是一个为 Ruby 设计的“有主见”的微框架，专注
 | forks | 77/100 |
 | stars | 85/100 |
 | topics | 50/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pyvista/pyvista
 
-[![Stars](https://img.shields.io/github/stars/pyvista/pyvista?style=flat-square&color=yellow)](https://github.com/pyvista/pyvista/stargazers) [![Forks](https://img.shields.io/github/forks/pyvista/pyvista?style=flat-square&color=blue)](https://github.com/pyvista/pyvista/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyvista/pyvista?style=flat-square&color=yellow)](https://github.com/pyvista/pyvista/stargazers) [![Forks](https://img.shields.io/github/forks/pyvista/pyvista?style=flat-square&color=blue)](https://github.com/pyvista/pyvista/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 3D visualization and mesh analysis for science and engineering
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 645 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ pyvista/pyvista 的生产可用性较高，理由如下：
 | forks | 70/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

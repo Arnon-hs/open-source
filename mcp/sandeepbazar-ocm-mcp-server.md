@@ -1,6 +1,6 @@
 # sandeepbazar/ocm-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/sandeepbazar/ocm-mcp-server?style=flat-square&color=yellow)](https://github.com/sandeepbazar/ocm-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/sandeepbazar/ocm-mcp-server?style=flat-square&color=blue)](https://github.com/sandeepbazar/ocm-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandeepbazar/ocm-mcp-server?style=flat-square&color=yellow)](https://github.com/sandeepbazar/ocm-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/sandeepbazar/ocm-mcp-server?style=flat-square&color=blue)](https://github.com/sandeepbazar/ocm-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that lets AI agents operate a multi-cluster Kubernetes fleet through an Open Cluster Management hub, with policy, approval, and audit between the model and your clusters.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevOps/Infra
+MCP · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ sandeepbazar/ocm-mcp-server 是一个开源项目，允许 AI 代理通过 Open 
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 43/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

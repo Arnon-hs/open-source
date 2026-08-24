@@ -1,6 +1,6 @@
 # florianwittkamp/bring-mcp
 
-[![Stars](https://img.shields.io/github/stars/florianwittkamp/bring-mcp?style=flat-square&color=yellow)](https://github.com/florianwittkamp/bring-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/florianwittkamp/bring-mcp?style=flat-square&color=blue)](https://github.com/florianwittkamp/bring-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/florianwittkamp/bring-mcp?style=flat-square&color=yellow)](https://github.com/florianwittkamp/bring-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/florianwittkamp/bring-mcp?style=flat-square&color=blue)](https://github.com/florianwittkamp/bring-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for Bring! Shopping
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ florianwittkamp/bring-mcp：florianwittkamp/bring-mcp helps connect AI assistant
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

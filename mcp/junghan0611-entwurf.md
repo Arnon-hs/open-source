@@ -1,6 +1,6 @@
 # junghan0611/entwurf
 
-[![Stars](https://img.shields.io/github/stars/junghan0611/entwurf?style=flat-square&color=yellow)](https://github.com/junghan0611/entwurf/stargazers) [![Forks](https://img.shields.io/github/forks/junghan0611/entwurf?style=flat-square&color=blue)](https://github.com/junghan0611/entwurf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junghan0611/entwurf?style=flat-square&color=yellow)](https://github.com/junghan0611/entwurf/stargazers) [![Forks](https://img.shields.io/github/forks/junghan0611/entwurf?style=flat-square&color=blue)](https://github.com/junghan0611/entwurf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Garden-citizen dispatch substrate + meta-bridge: make Claude Code, Codex, Antigravity, and pi sessions garden-addressable peers — with a Claude-first ACP plugin (Cortex/vendor ACP backends are future lanes).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ junghan0611/entwurf 的生产可用性较高，原因是：
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tonylofgren/aurora-smart-home
 
-[![Stars](https://img.shields.io/github/stars/tonylofgren/aurora-smart-home?style=flat-square&color=yellow)](https://github.com/tonylofgren/aurora-smart-home/stargazers) [![Forks](https://img.shields.io/github/forks/tonylofgren/aurora-smart-home?style=flat-square&color=blue)](https://github.com/tonylofgren/aurora-smart-home/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonylofgren/aurora-smart-home?style=flat-square&color=yellow)](https://github.com/tonylofgren/aurora-smart-home/stargazers) [![Forks](https://img.shields.io/github/forks/tonylofgren/aurora-smart-home?style=flat-square&color=blue)](https://github.com/tonylofgren/aurora-smart-home/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Independent Claude Skills for the whole smart home: Home Assistant, ESPHome, Node-RED, custom integrations, dashboards, and fab-ready hardware design.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Aurora-smart-home 的主要价值在于帮助用户减少重复的手动操作�
 | forks | 15/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

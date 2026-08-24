@@ -1,6 +1,6 @@
 # jupyterlab/jupyterlab-desktop
 
-[![Stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab-desktop?style=flat-square&color=yellow)](https://github.com/jupyterlab/jupyterlab-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/jupyterlab/jupyterlab-desktop?style=flat-square&color=blue)](https://github.com/jupyterlab/jupyterlab-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab-desktop?style=flat-square&color=yellow)](https://github.com/jupyterlab/jupyterlab-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/jupyterlab/jupyterlab-desktop?style=flat-square&color=blue)](https://github.com/jupyterlab/jupyterlab-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > JupyterLab desktop application, based on Electron.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 475 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ JupyterLab Desktop 的价值在于，它可以为用户提供一个桌面应用�
 | forks | 67/100 |
 | stars | 77/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

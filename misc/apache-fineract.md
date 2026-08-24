@@ -1,6 +1,6 @@
 # apache/fineract
 
-[![Stars](https://img.shields.io/github/stars/apache/fineract?style=flat-square&color=yellow)](https://github.com/apache/fineract/stargazers) [![Forks](https://img.shields.io/github/forks/apache/fineract?style=flat-square&color=blue)](https://github.com/apache/fineract/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/fineract?style=flat-square&color=yellow)](https://github.com/apache/fineract/stargazers) [![Forks](https://img.shields.io/github/forks/apache/fineract?style=flat-square&color=blue)](https://github.com/apache/fineract/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Fineract
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Apache Fineract 是一套基于 Java 的开源金融服务平台，提供完整�
 | forks | 85/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

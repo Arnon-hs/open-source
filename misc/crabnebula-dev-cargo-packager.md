@@ -1,6 +1,6 @@
 # crabnebula-dev/cargo-packager
 
-[![Stars](https://img.shields.io/github/stars/crabnebula-dev/cargo-packager?style=flat-square&color=yellow)](https://github.com/crabnebula-dev/cargo-packager/stargazers) [![Forks](https://img.shields.io/github/forks/crabnebula-dev/cargo-packager?style=flat-square&color=blue)](https://github.com/crabnebula-dev/cargo-packager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crabnebula-dev/cargo-packager?style=flat-square&color=yellow)](https://github.com/crabnebula-dev/cargo-packager/stargazers) [![Forks](https://img.shields.io/github/forks/crabnebula-dev/cargo-packager?style=flat-square&color=blue)](https://github.com/crabnebula-dev/cargo-packager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Rust executable packager, bundler and updater.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 468 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Cargo Packager 的生产可用性较高，因为它：
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

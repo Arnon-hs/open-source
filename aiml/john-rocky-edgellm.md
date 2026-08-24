@@ -1,6 +1,6 @@
 # john-rocky/EdgeLLM
 
-[![Stars](https://img.shields.io/github/stars/john-rocky/EdgeLLM?style=flat-square&color=yellow)](https://github.com/john-rocky/EdgeLLM/stargazers) [![Forks](https://img.shields.io/github/forks/john-rocky/EdgeLLM?style=flat-square&color=blue)](https://github.com/john-rocky/EdgeLLM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/john-rocky/EdgeLLM?style=flat-square&color=yellow)](https://github.com/john-rocky/EdgeLLM/stargazers) [![Forks](https://img.shields.io/github/forks/john-rocky/EdgeLLM?style=flat-square&color=blue)](https://github.com/john-rocky/EdgeLLM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Simple LLM package for ios devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ EdgeLLM 为 iOS 开发者提供了一套开箱即用的本地大语言模型（L
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

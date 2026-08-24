@@ -1,6 +1,6 @@
 # yb2460/harness-anything
 
-[![Stars](https://img.shields.io/github/stars/yb2460/harness-anything?style=flat-square&color=yellow)](https://github.com/yb2460/harness-anything/stargazers) [![Forks](https://img.shields.io/github/forks/yb2460/harness-anything?style=flat-square&color=blue)](https://github.com/yb2460/harness-anything/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yb2460/harness-anything?style=flat-square&color=yellow)](https://github.com/yb2460/harness-anything/stargazers) [![Forks](https://img.shields.io/github/forks/yb2460/harness-anything?style=flat-square&color=blue)](https://github.com/yb2460/harness-anything/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 908 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Harness Anything 是一个开源项目，旨在通过 AI 代理控制中心来�
 | forks | 43/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # NLnetLabs/nsd
 
-[![Stars](https://img.shields.io/github/stars/NLnetLabs/nsd?style=flat-square&color=yellow)](https://github.com/NLnetLabs/nsd/stargazers) [![Forks](https://img.shields.io/github/forks/NLnetLabs/nsd?style=flat-square&color=blue)](https://github.com/NLnetLabs/nsd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NLnetLabs/nsd?style=flat-square&color=yellow)](https://github.com/NLnetLabs/nsd/stargazers) [![Forks](https://img.shields.io/github/forks/NLnetLabs/nsd?style=flat-square&color=blue)](https://github.com/NLnetLabs/nsd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > The NLnet Labs Name Server Daemon (NSD) is an authoritative, RFC compliant DNS nameserver.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 545 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Security
+Backend
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ NLnet Labs Name Server Daemon（NSD）是一款符合 RFC 标准的权威 DNS �
 | forks | 52/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

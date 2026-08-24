@@ -1,6 +1,6 @@
 # roadrunner-server/roadrunner
 
-[![Stars](https://img.shields.io/github/stars/roadrunner-server/roadrunner?style=flat-square&color=yellow)](https://github.com/roadrunner-server/roadrunner/stargazers) [![Forks](https://img.shields.io/github/forks/roadrunner-server/roadrunner?style=flat-square&color=blue)](https://github.com/roadrunner-server/roadrunner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roadrunner-server/roadrunner?style=flat-square&color=yellow)](https://github.com/roadrunner-server/roadrunner/stargazers) [![Forks](https://img.shields.io/github/forks/roadrunner-server/roadrunner?style=flat-square&color=blue)](https://github.com/roadrunner-server/roadrunner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 425 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ roadrunner-server/roadrunner：roadrunner-server/roadrunner helps teams reuse se
 | forks | 66/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 79/100 |
-| production | 82/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

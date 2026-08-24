@@ -1,6 +1,6 @@
 # shadcn-labs/agentcn
 
-[![Stars](https://img.shields.io/github/stars/shadcn-labs/agentcn?style=flat-square&color=yellow)](https://github.com/shadcn-labs/agentcn/stargazers) [![Forks](https://img.shields.io/github/forks/shadcn-labs/agentcn?style=flat-square&color=blue)](https://github.com/shadcn-labs/agentcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shadcn-labs/agentcn?style=flat-square&color=yellow)](https://github.com/shadcn-labs/agentcn/stargazers) [![Forks](https://img.shields.io/github/forks/shadcn-labs/agentcn?style=flat-square&color=blue)](https://github.com/shadcn-labs/agentcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > shadcn/ui, but for building agents. 🤖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ shadcn-labs/agentcn 的生产可用性为中等（Medium）。它适合用于快
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

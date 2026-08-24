@@ -1,6 +1,6 @@
 # openinterpreter/openinterpreter
 
-[![Stars](https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=flat-square&color=yellow)](https://github.com/openinterpreter/openinterpreter/stargazers) [![Forks](https://img.shields.io/github/forks/openinterpreter/openinterpreter?style=flat-square&color=blue)](https://github.com/openinterpreter/openinterpreter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=flat-square&color=yellow)](https://github.com/openinterpreter/openinterpreter/stargazers) [![Forks](https://img.shields.io/github/forks/openinterpreter/openinterpreter?style=flat-square&color=blue)](https://github.com/openinterpreter/openinterpreter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64.3k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ openinterpreter 是一个轻量级的编程代理，能够在 Deepseek、Kimi、
 | forks | 94/100 |
 | stars | 100/100 |
 | topics | 88/100 |
-| outlook | 90/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 82/100 |
+| recency | 40/100 |
 | adoption | 98/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

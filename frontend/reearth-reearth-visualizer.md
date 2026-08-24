@@ -1,6 +1,6 @@
 # reearth/reearth-visualizer
 
-[![Stars](https://img.shields.io/github/stars/reearth/reearth-visualizer?style=flat-square&color=yellow)](https://github.com/reearth/reearth-visualizer/stargazers) [![Forks](https://img.shields.io/github/forks/reearth/reearth-visualizer?style=flat-square&color=blue)](https://github.com/reearth/reearth-visualizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reearth/reearth-visualizer?style=flat-square&color=yellow)](https://github.com/reearth/reearth-visualizer/stargazers) [![Forks](https://img.shields.io/github/forks/reearth/reearth-visualizer?style=flat-square&color=blue)](https://github.com/reearth/reearth-visualizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A free, open and highly extensible WebGIS platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ reearth/reearth-visualizer 的生产可用性较高，主要原因是：
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

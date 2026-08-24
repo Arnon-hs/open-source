@@ -1,6 +1,6 @@
 # Expensify/react-native-live-markdown
 
-[![Stars](https://img.shields.io/github/stars/Expensify/react-native-live-markdown?style=flat-square&color=yellow)](https://github.com/Expensify/react-native-live-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/Expensify/react-native-live-markdown?style=flat-square&color=blue)](https://github.com/Expensify/react-native-live-markdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Expensify/react-native-live-markdown?style=flat-square&color=yellow)](https://github.com/Expensify/react-native-live-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/Expensify/react-native-live-markdown?style=flat-square&color=blue)](https://github.com/Expensify/react-native-live-markdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-in replacement for React Native's TextInput component with Markdown formatting.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Expensify/react-native-live-markdown 的价值在于：
 | forks | 51/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

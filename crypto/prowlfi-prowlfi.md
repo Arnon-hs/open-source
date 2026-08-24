@@ -1,6 +1,6 @@
 # ProwlFi/ProwlFi
 
-[![Stars](https://img.shields.io/github/stars/ProwlFi/ProwlFi?style=flat-square&color=yellow)](https://github.com/ProwlFi/ProwlFi/stargazers) [![Forks](https://img.shields.io/github/forks/ProwlFi/ProwlFi?style=flat-square&color=blue)](https://github.com/ProwlFi/ProwlFi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProwlFi/ProwlFi?style=flat-square&color=yellow)](https://github.com/ProwlFi/ProwlFi/stargazers) [![Forks](https://img.shields.io/github/forks/ProwlFi/ProwlFi?style=flat-square&color=blue)](https://github.com/ProwlFi/ProwlFi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The world's first privacy layer for AI agents on Solana — stealth addresses + x402 payments. Every payment lands at a fresh, unlinkable address.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 496 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ ProwlFi/ProwlFi 的生产可用性为中等，适合于 prototype 或内部工�
 | forks | 23/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

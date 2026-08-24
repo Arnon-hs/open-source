@@ -1,6 +1,6 @@
 # Sacred-G/Civil3D-mcp
 
-[![Stars](https://img.shields.io/github/stars/Sacred-G/Civil3D-mcp?style=flat-square&color=yellow)](https://github.com/Sacred-G/Civil3D-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Sacred-G/Civil3D-mcp?style=flat-square&color=blue)](https://github.com/Sacred-G/Civil3D-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sacred-G/Civil3D-mcp?style=flat-square&color=yellow)](https://github.com/Sacred-G/Civil3D-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Sacred-G/Civil3D-mcp?style=flat-square&color=blue)](https://github.com/Sacred-G/Civil3D-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Civil3d MCP server - 180 tools , Knowledge Base, Control UI, Automation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · Frontend · Backend
+MCP · Knowledge/RAG · Automation · Backend · Design
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Sacred-G/Civil3D-mcp 的生产可用性评分为高
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-sdk
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=flat-square&color=yellow)](https://github.com/langchain-ai/langsmith-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langsmith-sdk?style=flat-square&color=blue)](https://github.com/langchain-ai/langsmith-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=flat-square&color=yellow)](https://github.com/langchain-ai/langsmith-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langsmith-sdk?style=flat-square&color=blue)](https://github.com/langchain-ai/langsmith-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > LangSmith Client SDK Implementations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 968 |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Observability
+Orchestration · Observability
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ LangSmith Client SDK Implementations（langchain-ai/langsmith-sdk）是一个开
 | forks | 60/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

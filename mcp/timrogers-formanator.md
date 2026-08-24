@@ -1,6 +1,6 @@
 # timrogers/formanator
 
-[![Stars](https://img.shields.io/github/stars/timrogers/formanator?style=flat-square&color=yellow)](https://github.com/timrogers/formanator/stargazers) [![Forks](https://img.shields.io/github/forks/timrogers/formanator?style=flat-square&color=blue)](https://github.com/timrogers/formanator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timrogers/formanator?style=flat-square&color=yellow)](https://github.com/timrogers/formanator/stargazers) [![Forks](https://img.shields.io/github/forks/timrogers/formanator?style=flat-square&color=blue)](https://github.com/timrogers/formanator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Submit and manage Forma (https://joinforma.com) claims from the command line and Model Context Protocol (MCP) clients
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Database
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ timrogers/formanator 是一个开源项目，用于从命令行和 Model Context
 | forks | 29/100 |
 | stars | 42/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # LoRexxar/Kunlun-M
 
-[![Stars](https://img.shields.io/github/stars/LoRexxar/Kunlun-M?style=flat-square&color=yellow)](https://github.com/LoRexxar/Kunlun-M/stargazers) [![Forks](https://img.shields.io/github/forks/LoRexxar/Kunlun-M?style=flat-square&color=blue)](https://github.com/LoRexxar/Kunlun-M/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LoRexxar/Kunlun-M?style=flat-square&color=yellow)](https://github.com/LoRexxar/Kunlun-M/stargazers) [![Forks](https://img.shields.io/github/forks/LoRexxar/Kunlun-M?style=flat-square&color=blue)](https://github.com/LoRexxar/Kunlun-M/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > KunLun-M — Open-source static code analysis for PHP, Nodejs/JavaScript, Python, Golang, Java and C/C++, with AST-based semantic scanning and one-click AI Agent integration (OpenClaw, Codex, Claude Code, Hermes, and more).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ LoRexxar/Kunlun-M 的接入方式包括：
 | forks | 63/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 80/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

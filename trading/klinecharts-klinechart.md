@@ -1,6 +1,6 @@
 # klinecharts/KLineChart
 
-[![Stars](https://img.shields.io/github/stars/klinecharts/KLineChart?style=flat-square&color=yellow)](https://github.com/klinecharts/KLineChart/stargazers) [![Forks](https://img.shields.io/github/forks/klinecharts/KLineChart?style=flat-square&color=blue)](https://github.com/klinecharts/KLineChart/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/klinecharts/KLineChart?style=flat-square&color=yellow)](https://github.com/klinecharts/KLineChart/stargazers) [![Forks](https://img.shields.io/github/forks/klinecharts/KLineChart?style=flat-square&color=blue)](https://github.com/klinecharts/KLineChart/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 969 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ klinecharts/KLineChart 是一款轻量级、零依赖的 K 线（蜡烛图）组
 | forks | 75/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

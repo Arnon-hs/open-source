@@ -1,6 +1,6 @@
 # Tencent/AI-Infra-Guard
 
-[![Stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=flat-square&color=yellow)](https://github.com/Tencent/AI-Infra-Guard/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/AI-Infra-Guard?style=flat-square&color=blue)](https://github.com/Tencent/AI-Infra-Guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=flat-square&color=yellow)](https://github.com/Tencent/AI-Infra-Guard/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/AI-Infra-Guard?style=flat-square&color=blue)](https://github.com/Tencent/AI-Infra-Guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database · DevOps/Infra · Security
+MCP · AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Tencent/AI-Infra-Guard 是一套全栈 AI 红队平台，提供 OpenClaw 安全�
 | forks | 64/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

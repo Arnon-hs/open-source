@@ -1,6 +1,6 @@
 # KDE/labplot
 
-[![Stars](https://img.shields.io/github/stars/KDE/labplot?style=flat-square&color=yellow)](https://github.com/KDE/labplot/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/labplot?style=flat-square&color=blue)](https://github.com/KDE/labplot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDE/labplot?style=flat-square&color=yellow)](https://github.com/KDE/labplot/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/labplot?style=flat-square&color=blue)](https://github.com/KDE/labplot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database
+Data
 
 ## 📝 Summary
 
@@ -88,14 +88,15 @@ LabPlot 是一款免费的、开源的、跨平台的数据可视化和分析软
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

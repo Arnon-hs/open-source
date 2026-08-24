@@ -1,6 +1,6 @@
 # IBM/mcp
 
-[![Stars](https://img.shields.io/github/stars/IBM/mcp?style=flat-square&color=yellow)](https://github.com/IBM/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/mcp?style=flat-square&color=blue)](https://github.com/IBM/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IBM/mcp?style=flat-square&color=yellow)](https://github.com/IBM/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/mcp?style=flat-square&color=blue)](https://github.com/IBM/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of Model Context Protocol (MCP) servers, clients and developer tools by IBM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ IBM/mcp 的生产可用性较高，最新活动、采用度和生态系统信号
 | forks | 49/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

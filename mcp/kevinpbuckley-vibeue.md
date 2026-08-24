@@ -1,6 +1,6 @@
 # kevinpbuckley/VibeUE
 
-[![Stars](https://img.shields.io/github/stars/kevinpbuckley/VibeUE?style=flat-square&color=yellow)](https://github.com/kevinpbuckley/VibeUE/stargazers) [![Forks](https://img.shields.io/github/forks/kevinpbuckley/VibeUE?style=flat-square&color=blue)](https://github.com/kevinpbuckley/VibeUE/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kevinpbuckley/VibeUE?style=flat-square&color=yellow)](https://github.com/kevinpbuckley/VibeUE/stargazers) [![Forks](https://img.shields.io/github/forks/kevinpbuckley/VibeUE?style=flat-square&color=blue)](https://github.com/kevinpbuckley/VibeUE/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Unreal Engine Vibe Coding tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ kevinpbuckley/VibeUE 是一个基于 Unreal Engine 的「Vibe Coding」工具，
 | forks | 48/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

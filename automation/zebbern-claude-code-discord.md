@@ -1,6 +1,6 @@
 # zebbern/claude-code-discord
 
-[![Stars](https://img.shields.io/github/stars/zebbern/claude-code-discord?style=flat-square&color=yellow)](https://github.com/zebbern/claude-code-discord/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/claude-code-discord?style=flat-square&color=blue)](https://github.com/zebbern/claude-code-discord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zebbern/claude-code-discord?style=flat-square&color=yellow)](https://github.com/zebbern/claude-code-discord/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/claude-code-discord?style=flat-square&color=blue)](https://github.com/zebbern/claude-code-discord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A Discord bot that brings Claude Code to your channels so you can chat, run shell/git, and manage branches. Access from any local, VM, or Docker instance with full capebilty of claude code!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ zebbern/claude-code-discord 帮助移除工作流中的重复手动操作，提�
 | forks | 40/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

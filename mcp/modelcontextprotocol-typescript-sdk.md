@@ -1,6 +1,6 @@
 # modelcontextprotocol/typescript-sdk
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/typescript-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/typescript-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/typescript-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/typescript-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/typescript-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/typescript-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > The official TypeScript SDK for Model Context Protocol servers and clients
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.1k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Model Context Protocol TypeScript SDK 是一个开源项目，用于连接 AI �
 | forks | 83/100 |
 | stars | 88/100 |
 | topics | 50/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 86/100 |
-| production | 85/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

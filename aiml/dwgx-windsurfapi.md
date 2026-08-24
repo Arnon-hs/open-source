@@ -1,6 +1,6 @@
 # dwgx/WindsurfAPI
 
-[![Stars](https://img.shields.io/github/stars/dwgx/WindsurfAPI?style=flat-square&color=yellow)](https://github.com/dwgx/WindsurfAPI/stargazers) [![Forks](https://img.shields.io/github/forks/dwgx/WindsurfAPI?style=flat-square&color=blue)](https://github.com/dwgx/WindsurfAPI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dwgx/WindsurfAPI?style=flat-square&color=yellow)](https://github.com/dwgx/WindsurfAPI/stargazers) [![Forks](https://img.shields.io/github/forks/dwgx/WindsurfAPI?style=flat-square&color=blue)](https://github.com/dwgx/WindsurfAPI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 594 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · DevOps/Infra
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ dwgx/WindsurfAPI 是一个兼容 OpenAI 与 Anthropic 接口的 LLM 代理服务
 | forks | 69/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

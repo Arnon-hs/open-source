@@ -1,6 +1,6 @@
 # choudian/mexemplar
 
-[![Stars](https://img.shields.io/github/stars/choudian/mexemplar?style=flat-square&color=yellow)](https://github.com/choudian/mexemplar/stargazers) [![Forks](https://img.shields.io/github/forks/choudian/mexemplar?style=flat-square&color=blue)](https://github.com/choudian/mexemplar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/choudian/mexemplar?style=flat-square&color=yellow)](https://github.com/choudian/mexemplar/stargazers) [![Forks](https://img.shields.io/github/forks/choudian/mexemplar?style=flat-square&color=blue)](https://github.com/choudian/mexemplar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 桌面端智能办公助理 - 基于示例学习的 AI Agent，通过示例教学自我学习。本地存储、极低成本、完全离线
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ choudian/mexemplar 是一款桌面端智能办公助理，采用示例学习的 
 | forks | 12/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

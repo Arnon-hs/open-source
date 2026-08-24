@@ -1,6 +1,6 @@
 # ponder-sh/ponder
 
-[![Stars](https://img.shields.io/github/stars/ponder-sh/ponder?style=flat-square&color=yellow)](https://github.com/ponder-sh/ponder/stargazers) [![Forks](https://img.shields.io/github/forks/ponder-sh/ponder?style=flat-square&color=blue)](https://github.com/ponder-sh/ponder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ponder-sh/ponder?style=flat-square&color=yellow)](https://github.com/ponder-sh/ponder/stargazers) [![Forks](https://img.shields.io/github/forks/ponder-sh/ponder?style=flat-square&color=blue)](https://github.com/ponder-sh/ponder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The backend framework for crypto apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Backend
+Crypto
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ ponder-sh/ponder 在生产环境中的可用性为中等。它适合用于快速
 | forks | 60/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

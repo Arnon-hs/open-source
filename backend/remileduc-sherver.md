@@ -1,6 +1,6 @@
 # remileduc/sherver
 
-[![Stars](https://img.shields.io/github/stars/remileduc/sherver?style=flat-square&color=yellow)](https://github.com/remileduc/sherver/stargazers) [![Forks](https://img.shields.io/github/forks/remileduc/sherver?style=flat-square&color=blue)](https://github.com/remileduc/sherver/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remileduc/sherver?style=flat-square&color=yellow)](https://github.com/remileduc/sherver/stargazers) [![Forks](https://img.shields.io/github/forks/remileduc/sherver?style=flat-square&color=blue)](https://github.com/remileduc/sherver/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Bash lightweight web server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ remileduc/sherver 的生产可用性为中等（Medium）。它适合用于内�
 | forks | 28/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

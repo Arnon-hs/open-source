@@ -1,6 +1,6 @@
 # taishan666/MaxKB4j
 
-[![Stars](https://img.shields.io/github/stars/taishan666/MaxKB4j?style=flat-square&color=yellow)](https://github.com/taishan666/MaxKB4j/stargazers) [![Forks](https://img.shields.io/github/forks/taishan666/MaxKB4j?style=flat-square&color=blue)](https://github.com/taishan666/MaxKB4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taishan666/MaxKB4j?style=flat-square&color=yellow)](https://github.com/taishan666/MaxKB4j/stargazers) [![Forks](https://img.shields.io/github/forks/taishan666/MaxKB4j?style=flat-square&color=blue)](https://github.com/taishan666/MaxKB4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. The project mainly draws on MaxKB, Dify and FastGPT, and combines the advantages of the two into one project. It is redesigned and developed using the high-performance, high-stability and secure reliable JAVA language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Database · Design
+Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ taishan666/MaxKB4j 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 36/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

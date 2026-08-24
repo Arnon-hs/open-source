@@ -1,6 +1,6 @@
 # stoatchat/self-hosted
 
-[![Stars](https://img.shields.io/github/stars/stoatchat/self-hosted?style=flat-square&color=yellow)](https://github.com/stoatchat/self-hosted/stargazers) [![Forks](https://img.shields.io/github/forks/stoatchat/self-hosted?style=flat-square&color=blue)](https://github.com/stoatchat/self-hosted/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stoatchat/self-hosted?style=flat-square&color=yellow)](https://github.com/stoatchat/self-hosted/stargazers) [![Forks](https://img.shields.io/github/forks/stoatchat/self-hosted?style=flat-square&color=blue)](https://github.com/stoatchat/self-hosted/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy Stoat on your own infrastructure!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ stoatchat/self-hosted 已经达到较高的生产可用性水平，具有以下�
 | forks | 61/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

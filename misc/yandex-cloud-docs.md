@@ -1,6 +1,6 @@
 # yandex-cloud/docs
 
-[![Stars](https://img.shields.io/github/stars/yandex-cloud/docs?style=flat-square&color=yellow)](https://github.com/yandex-cloud/docs/stargazers) [![Forks](https://img.shields.io/github/forks/yandex-cloud/docs?style=flat-square&color=blue)](https://github.com/yandex-cloud/docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yandex-cloud/docs?style=flat-square&color=yellow)](https://github.com/yandex-cloud/docs/stargazers) [![Forks](https://img.shields.io/github/forks/yandex-cloud/docs?style=flat-square&color=blue)](https://github.com/yandex-cloud/docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Yandex Cloud documentation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 773 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -64,14 +64,15 @@ yandex-cloud/docs：yandex-cloud/docs may be useful when its README and activity
 | forks | 72/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

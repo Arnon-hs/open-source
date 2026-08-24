@@ -1,6 +1,6 @@
 # TerraFirmaCraft/TerraFirmaCraft
 
-[![Stars](https://img.shields.io/github/stars/TerraFirmaCraft/TerraFirmaCraft?style=flat-square&color=yellow)](https://github.com/TerraFirmaCraft/TerraFirmaCraft/stargazers) [![Forks](https://img.shields.io/github/forks/TerraFirmaCraft/TerraFirmaCraft?style=flat-square&color=blue)](https://github.com/TerraFirmaCraft/TerraFirmaCraft/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TerraFirmaCraft/TerraFirmaCraft?style=flat-square&color=yellow)](https://github.com/TerraFirmaCraft/TerraFirmaCraft/stargazers) [![Forks](https://img.shields.io/github/forks/TerraFirmaCraft/TerraFirmaCraft?style=flat-square&color=blue)](https://github.com/TerraFirmaCraft/TerraFirmaCraft/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Survival Mode as it Should've Been
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ TerraFirmaCraft 是一款基于原版 Minecraft 的大型模组，旨在把生�
 | forks | 62/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

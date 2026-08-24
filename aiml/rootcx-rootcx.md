@@ -1,6 +1,6 @@
 # RootCX/RootCX
 
-[![Stars](https://img.shields.io/github/stars/RootCX/RootCX?style=flat-square&color=yellow)](https://github.com/RootCX/RootCX/stargazers) [![Forks](https://img.shields.io/github/forks/RootCX/RootCX?style=flat-square&color=blue)](https://github.com/RootCX/RootCX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RootCX/RootCX?style=flat-square&color=yellow)](https://github.com/RootCX/RootCX/stargazers) [![Forks](https://img.shields.io/github/forks/RootCX/RootCX?style=flat-square&color=blue)](https://github.com/RootCX/RootCX/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Governed infrastructure for internal tools and AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevOps/Infra · Security
+AI/ML · Frontend · Security
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ RootCX/RootCX 是一套面向内部工具和 AI 代理的受治理基础设施�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

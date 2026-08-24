@@ -1,6 +1,6 @@
 # boostorg/python
 
-[![Stars](https://img.shields.io/github/stars/boostorg/python?style=flat-square&color=yellow)](https://github.com/boostorg/python/stargazers) [![Forks](https://img.shields.io/github/forks/boostorg/python?style=flat-square&color=blue)](https://github.com/boostorg/python/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boostorg/python?style=flat-square&color=yellow)](https://github.com/boostorg/python/stargazers) [![Forks](https://img.shields.io/github/forks/boostorg/python?style=flat-square&color=blue)](https://github.com/boostorg/python/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Boost.org python module
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Boost.Python（boostorg/python）是 Boost 库提供的官方 C++ – Python
 | forks | 59/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

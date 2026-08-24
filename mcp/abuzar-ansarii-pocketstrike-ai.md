@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/PocketStrike-AI
 
-[![Stars](https://img.shields.io/github/stars/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=yellow)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/stargazers) [![Forks](https://img.shields.io/github/forks/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=blue)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=yellow)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/stargazers) [![Forks](https://img.shields.io/github/forks/AbuZar-Ansarii/PocketStrike-AI?style=flat-square&color=blue)](https://github.com/AbuZar-Ansarii/PocketStrike-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Turn Android Termux into an autonomous AI agent and security orchestrator. Powered by a local ReAct framework with 50 system tools and MCP support, a background task   │ scheduler, on-device ADB controls, and a unified Web UI & Telegram Bot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ AbuZar-Ansarii/PocketStrike-AI 的价值在于，它帮助连接 AI 助手到现
 | forks | 35/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

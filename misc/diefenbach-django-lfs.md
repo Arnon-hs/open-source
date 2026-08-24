@@ -1,6 +1,6 @@
 # diefenbach/django-lfs
 
-[![Stars](https://img.shields.io/github/stars/diefenbach/django-lfs?style=flat-square&color=yellow)](https://github.com/diefenbach/django-lfs/stargazers) [![Forks](https://img.shields.io/github/forks/diefenbach/django-lfs?style=flat-square&color=blue)](https://github.com/diefenbach/django-lfs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diefenbach/django-lfs?style=flat-square&color=yellow)](https://github.com/diefenbach/django-lfs/stargazers) [![Forks](https://img.shields.io/github/forks/diefenbach/django-lfs?style=flat-square&color=blue)](https://github.com/diefenbach/django-lfs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An online-shop based on Django
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 640 |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ diefenbach/django-lfs 具有高的生产可用性，尤其是考虑到其最近�
 | forks | 59/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

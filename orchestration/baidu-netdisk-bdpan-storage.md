@@ -1,6 +1,6 @@
 # baidu-netdisk/bdpan-storage
 
-[![Stars](https://img.shields.io/github/stars/baidu-netdisk/bdpan-storage?style=flat-square&color=yellow)](https://github.com/baidu-netdisk/bdpan-storage/stargazers) [![Forks](https://img.shields.io/github/forks/baidu-netdisk/bdpan-storage?style=flat-square&color=blue)](https://github.com/baidu-netdisk/bdpan-storage/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baidu-netdisk/bdpan-storage?style=flat-square&color=yellow)](https://github.com/baidu-netdisk/bdpan-storage/stargazers) [![Forks](https://img.shields.io/github/forks/baidu-netdisk/bdpan-storage?style=flat-square&color=blue)](https://github.com/baidu-netdisk/bdpan-storage/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skill for Baidu Netdisk (百度网盘) — upload, download, transfer,    share, search files via natural language. Works with Claude Code,   Cursor, Codex, Gemini CLI, OpenClaw.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ baidu-netdisk/bdpan-storage 支持多种接入方式，包括：
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

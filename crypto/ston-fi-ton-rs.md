@@ -1,6 +1,6 @@
 # ston-fi/ton-rs
 
-[![Stars](https://img.shields.io/github/stars/ston-fi/ton-rs?style=flat-square&color=yellow)](https://github.com/ston-fi/ton-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ston-fi/ton-rs?style=flat-square&color=blue)](https://github.com/ston-fi/ton-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ston-fi/ton-rs?style=flat-square&color=yellow)](https://github.com/ston-fi/ton-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ston-fi/ton-rs?style=flat-square&color=blue)](https://github.com/ston-fi/ton-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rust libraries for working with the TON blockchain: cells, TLB, addresses, wallets, contracts, and tonlibjson integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Crypto · AI/ML
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

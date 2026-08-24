@@ -1,6 +1,6 @@
 # rust-x-bindings/rust-xcb
 
-[![Stars](https://img.shields.io/github/stars/rust-x-bindings/rust-xcb?style=flat-square&color=yellow)](https://github.com/rust-x-bindings/rust-xcb/stargazers) [![Forks](https://img.shields.io/github/forks/rust-x-bindings/rust-xcb?style=flat-square&color=blue)](https://github.com/rust-x-bindings/rust-xcb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-x-bindings/rust-xcb?style=flat-square&color=yellow)](https://github.com/rust-x-bindings/rust-xcb/stargazers) [![Forks](https://img.shields.io/github/forks/rust-x-bindings/rust-xcb?style=flat-square&color=blue)](https://github.com/rust-x-bindings/rust-xcb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings and wrapper for XCB.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ rust-x-bindings/rust-xcb 的生产可用性为中等。它适合用于原型测�
 | forks | 46/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

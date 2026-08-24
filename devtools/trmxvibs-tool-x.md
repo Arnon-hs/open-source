@@ -1,6 +1,6 @@
 # trmxvibs/Tool-X
 
-[![Stars](https://img.shields.io/github/stars/trmxvibs/Tool-X?style=flat-square&color=yellow)](https://github.com/trmxvibs/Tool-X/stargazers) [![Forks](https://img.shields.io/github/forks/trmxvibs/Tool-X?style=flat-square&color=blue)](https://github.com/trmxvibs/Tool-X/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trmxvibs/Tool-X?style=flat-square&color=yellow)](https://github.com/trmxvibs/Tool-X/stargazers) [![Forks](https://img.shields.io/github/forks/trmxvibs/Tool-X?style=flat-square&color=blue)](https://github.com/trmxvibs/Tool-X/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Tool-X is an advanced, centralized CLI framework designed to automate the installation and management of 1000+ hacking, OSINT, and security tools for Termux, Linux, and Android terminal environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Mobile · Security · Design
+DevTools · Mobile · Security
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Tool-X 的生产可用性较高，主要原因是：
 | forks | 33/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

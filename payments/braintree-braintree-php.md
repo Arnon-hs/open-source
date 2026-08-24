@@ -1,6 +1,6 @@
 # braintree/braintree_php
 
-[![Stars](https://img.shields.io/github/stars/braintree/braintree_php?style=flat-square&color=yellow)](https://github.com/braintree/braintree_php/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_php?style=flat-square&color=blue)](https://github.com/braintree/braintree_php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braintree/braintree_php?style=flat-square&color=yellow)](https://github.com/braintree/braintree_php/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_php?style=flat-square&color=blue)](https://github.com/braintree/braintree_php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Braintree PHP library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 557 |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Braintree PHP Library 的生产可用性为中等（Medium），因为它适用�
 | forks | 59/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

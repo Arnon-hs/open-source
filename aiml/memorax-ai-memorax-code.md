@@ -1,6 +1,6 @@
 # memorax-ai/memorax-code
 
-[![Stars](https://img.shields.io/github/stars/memorax-ai/memorax-code?style=flat-square&color=yellow)](https://github.com/memorax-ai/memorax-code/stargazers) [![Forks](https://img.shields.io/github/forks/memorax-ai/memorax-code?style=flat-square&color=blue)](https://github.com/memorax-ai/memorax-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memorax-ai/memorax-code?style=flat-square&color=yellow)](https://github.com/memorax-ai/memorax-code/stargazers) [![Forks](https://img.shields.io/github/forks/memorax-ai/memorax-code?style=flat-square&color=blue)](https://github.com/memorax-ai/memorax-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Memorax-code 的生产可用性较高，主要原因是：
 | forks | 24/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

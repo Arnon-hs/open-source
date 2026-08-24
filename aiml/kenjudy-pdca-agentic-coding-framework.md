@@ -1,6 +1,6 @@
 # kenjudy/pdca-agentic-coding-framework
 
-[![Stars](https://img.shields.io/github/stars/kenjudy/pdca-agentic-coding-framework?style=flat-square&color=yellow)](https://github.com/kenjudy/pdca-agentic-coding-framework/stargazers) [![Forks](https://img.shields.io/github/forks/kenjudy/pdca-agentic-coding-framework?style=flat-square&color=blue)](https://github.com/kenjudy/pdca-agentic-coding-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenjudy/pdca-agentic-coding-framework?style=flat-square&color=yellow)](https://github.com/kenjudy/pdca-agentic-coding-framework/stargazers) [![Forks](https://img.shields.io/github/forks/kenjudy/pdca-agentic-coding-framework?style=flat-square&color=blue)](https://github.com/kenjudy/pdca-agentic-coding-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Human-supervised AI code generation using Plan-Do-Check-Act methodology with TDD and refactoring. Works as Claude Code skill or standalone prompts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -125,14 +125,15 @@ kenjudy/pdca-agentic-coding-framework 帮助开发者在不从零开始搭建模
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

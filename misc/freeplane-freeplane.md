@@ -1,6 +1,6 @@
 # freeplane/freeplane
 
-[![Stars](https://img.shields.io/github/stars/freeplane/freeplane?style=flat-square&color=yellow)](https://github.com/freeplane/freeplane/stargazers) [![Forks](https://img.shields.io/github/forks/freeplane/freeplane?style=flat-square&color=blue)](https://github.com/freeplane/freeplane/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freeplane/freeplane?style=flat-square&color=yellow)](https://github.com/freeplane/freeplane/stargazers) [![Forks](https://img.shields.io/github/forks/freeplane/freeplane?style=flat-square&color=blue)](https://github.com/freeplane/freeplane/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 494 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ freeplane/freeplane：freeplane/freeplane may be useful when its README and acti
 | forks | 67/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

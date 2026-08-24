@@ -1,6 +1,6 @@
 # brettcannon/python-launcher
 
-[![Stars](https://img.shields.io/github/stars/brettcannon/python-launcher?style=flat-square&color=yellow)](https://github.com/brettcannon/python-launcher/stargazers) [![Forks](https://img.shields.io/github/forks/brettcannon/python-launcher?style=flat-square&color=blue)](https://github.com/brettcannon/python-launcher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brettcannon/python-launcher?style=flat-square&color=yellow)](https://github.com/brettcannon/python-launcher/stargazers) [![Forks](https://img.shields.io/github/forks/brettcannon/python-launcher?style=flat-square&color=blue)](https://github.com/brettcannon/python-launcher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Python launcher for Unix
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 630 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ brettcannon/python-launcher 是一个用于 Unix 的 Python_launcher，它可以
 | forks | 36/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

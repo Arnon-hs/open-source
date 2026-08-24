@@ -1,6 +1,6 @@
 # qntx/kobe
 
-[![Stars](https://img.shields.io/github/stars/qntx/kobe?style=flat-square&color=yellow)](https://github.com/qntx/kobe/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/kobe?style=flat-square&color=blue)](https://github.com/qntx/kobe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qntx/kobe?style=flat-square&color=yellow)](https://github.com/qntx/kobe/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/kobe?style=flat-square&color=blue)](https://github.com/qntx/kobe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, no_std multi-chain HD wallet derivation library in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ qntx/kobe 的生产可用性为中等（Medium），适合用于 prototyping 或
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

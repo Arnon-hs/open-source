@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ microsoft/vs-threading：microsoft/vs-threading helps ship user-facing interface
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bytecodealliance/wasmtime-rb
 
-[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime-rb?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasmtime-rb/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasmtime-rb?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasmtime-rb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime-rb?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasmtime-rb/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasmtime-rb?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasmtime-rb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby WebAssembly runtime powered by Wasmtime
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ bytecodealliance/wasmtime-rb 的生产可用性为中等，适合用于内部工
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

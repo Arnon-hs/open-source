@@ -1,6 +1,6 @@
 # Comcast/react-data-grid
 
-[![Stars](https://img.shields.io/github/stars/Comcast/react-data-grid?style=flat-square&color=yellow)](https://github.com/Comcast/react-data-grid/stargazers) [![Forks](https://img.shields.io/github/forks/Comcast/react-data-grid?style=flat-square&color=blue)](https://github.com/Comcast/react-data-grid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Comcast/react-data-grid?style=flat-square&color=yellow)](https://github.com/Comcast/react-data-grid/stargazers) [![Forks](https://img.shields.io/github/forks/Comcast/react-data-grid?style=flat-square&color=blue)](https://github.com/Comcast/react-data-grid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Feature-rich and customizable data grid React component
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.7k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Comcast/react-data-grid 是一款功能丰富且可高度定制的 React 数据�
 | forks | 84/100 |
 | stars | 83/100 |
 | topics | 25/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 83/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

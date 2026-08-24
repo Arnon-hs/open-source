@@ -1,6 +1,6 @@
 # y49/tlive
 
-[![Stars](https://img.shields.io/github/stars/y49/tlive?style=flat-square&color=yellow)](https://github.com/y49/tlive/stargazers) [![Forks](https://img.shields.io/github/forks/y49/tlive?style=flat-square&color=blue)](https://github.com/y49/tlive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/y49/tlive?style=flat-square&color=yellow)](https://github.com/y49/tlive/stargazers) [![Forks](https://img.shields.io/github/forks/y49/tlive?style=flat-square&color=blue)](https://github.com/y49/tlive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted remote approvals + live monitoring for Claude Code / Codex — via Telegram, Feishu, or a web terminal. Any subscription or API key.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Automation · AI/ML · Backend · DevTools
+Payments · Automation · AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ y49/tlive 的生产可用性较高，理由如下：
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

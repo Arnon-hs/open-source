@@ -1,6 +1,6 @@
 # tailcallhq/gh-workflow
 
-[![Stars](https://img.shields.io/github/stars/tailcallhq/gh-workflow?style=flat-square&color=yellow)](https://github.com/tailcallhq/gh-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/tailcallhq/gh-workflow?style=flat-square&color=blue)](https://github.com/tailcallhq/gh-workflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tailcallhq/gh-workflow?style=flat-square&color=yellow)](https://github.com/tailcallhq/gh-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/tailcallhq/gh-workflow?style=flat-square&color=blue)](https://github.com/tailcallhq/gh-workflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Write your github workflows in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ tailcallhq/gh-workflow 的生产可用性为中等（Medium）。它适合于原
 | forks | 36/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

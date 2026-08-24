@@ -1,6 +1,6 @@
 # OpenEvident/vindicate
 
-[![Stars](https://img.shields.io/github/stars/OpenEvident/vindicate?style=flat-square&color=yellow)](https://github.com/OpenEvident/vindicate/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEvident/vindicate?style=flat-square&color=blue)](https://github.com/OpenEvident/vindicate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenEvident/vindicate?style=flat-square&color=yellow)](https://github.com/OpenEvident/vindicate/stargazers) [![Forks](https://img.shields.io/github/forks/OpenEvident/vindicate?style=flat-square&color=blue)](https://github.com/OpenEvident/vindicate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first Playwright test automation toolkit for AI coding agents (Cursor, Claude Code, Copilot), with MCP tools for codegen, browser control, and recordings.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ OpenEvident/vindicate：OpenEvident/vindicate helps connect AI assistants to rea
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 4paradigm/OpenMLDB
 
-[![Stars](https://img.shields.io/github/stars/4paradigm/OpenMLDB?style=flat-square&color=yellow)](https://github.com/4paradigm/OpenMLDB/stargazers) [![Forks](https://img.shields.io/github/forks/4paradigm/OpenMLDB?style=flat-square&color=blue)](https://github.com/4paradigm/OpenMLDB/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/4paradigm/OpenMLDB?style=flat-square&color=yellow)](https://github.com/4paradigm/OpenMLDB/stargazers) [![Forks](https://img.shields.io/github/forks/4paradigm/OpenMLDB?style=flat-square&color=blue)](https://github.com/4paradigm/OpenMLDB/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · Education
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ OpenMLDB 是 4paradigm 开源的机器学习数据库，提供统一的特征计
 | forks | 63/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

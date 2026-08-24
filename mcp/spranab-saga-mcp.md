@@ -1,6 +1,6 @@
 # spranab/saga-mcp
 
-[![Stars](https://img.shields.io/github/stars/spranab/saga-mcp?style=flat-square&color=yellow)](https://github.com/spranab/saga-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/spranab/saga-mcp?style=flat-square&color=blue)](https://github.com/spranab/saga-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spranab/saga-mcp?style=flat-square&color=yellow)](https://github.com/spranab/saga-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/spranab/saga-mcp?style=flat-square&color=blue)](https://github.com/spranab/saga-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Your agent loses the plan between sessions. saga-mcp gives it a SQLite-backed tracker for projects, epics, tasks, subtasks, dependencies and notes — 31 MCP tools, activity log, one-call dashboard. No accounts, no external services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ spranab/saga-mcp：spranab/saga-mcp helps connect AI assistants to real tools an
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

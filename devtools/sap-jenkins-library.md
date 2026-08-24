@@ -1,6 +1,6 @@
 # SAP/jenkins-library
 
-[![Stars](https://img.shields.io/github/stars/SAP/jenkins-library?style=flat-square&color=yellow)](https://github.com/SAP/jenkins-library/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/jenkins-library?style=flat-square&color=blue)](https://github.com/SAP/jenkins-library/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAP/jenkins-library?style=flat-square&color=yellow)](https://github.com/SAP/jenkins-library/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/jenkins-library?style=flat-square&color=blue)](https://github.com/SAP/jenkins-library/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Jenkins shared library for Continuous Delivery pipelines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 819 |
 | 🍴 **Forks** | 621 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ SAP/jenkins-library 是一套面向持续交付的 Jenkins 共享库，提供可
 | forks | 70/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rustyharbor308774/Ethereum-bot
 
-[![Stars](https://img.shields.io/github/stars/rustyharbor308774/Ethereum-bot?style=flat-square&color=yellow)](https://github.com/rustyharbor308774/Ethereum-bot/stargazers) [![Forks](https://img.shields.io/github/forks/rustyharbor308774/Ethereum-bot?style=flat-square&color=blue)](https://github.com/rustyharbor308774/Ethereum-bot/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustyharbor308774/Ethereum-bot?style=flat-square&color=yellow)](https://github.com/rustyharbor308774/Ethereum-bot/stargazers) [![Forks](https://img.shields.io/github/forks/rustyharbor308774/Ethereum-bot?style=flat-square&color=blue)](https://github.com/rustyharbor308774/Ethereum-bot/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ rustyharbor308774/Ethereum-bot 在生产环境中的可用性为中等（Medium�
 | forks | 59/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

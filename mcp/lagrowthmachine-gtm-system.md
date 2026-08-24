@@ -1,6 +1,6 @@
 # LaGrowthMachine/gtm-system
 
-[![Stars](https://img.shields.io/github/stars/LaGrowthMachine/gtm-system?style=flat-square&color=yellow)](https://github.com/LaGrowthMachine/gtm-system/stargazers) [![Forks](https://img.shields.io/github/forks/LaGrowthMachine/gtm-system?style=flat-square&color=blue)](https://github.com/LaGrowthMachine/gtm-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LaGrowthMachine/gtm-system?style=flat-square&color=yellow)](https://github.com/LaGrowthMachine/gtm-system/stargazers) [![Forks](https://img.shields.io/github/forks/LaGrowthMachine/gtm-system?style=flat-square&color=blue)](https://github.com/LaGrowthMachine/gtm-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude skills and an MCP server for Sales and GTM teams: build Sales Navigator searches, write multichannel campaigns, and handle every reply from Claude.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Marketing
+MCP
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ LaGrowthMachine/gtm-system 在生产环境中的可用性为中等（Medium）�
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

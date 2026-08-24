@@ -1,6 +1,6 @@
 # AidenAI-IO/aiden-firmware
 
-[![Stars](https://img.shields.io/github/stars/AidenAI-IO/aiden-firmware?style=flat-square&color=yellow)](https://github.com/AidenAI-IO/aiden-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/AidenAI-IO/aiden-firmware?style=flat-square&color=blue)](https://github.com/AidenAI-IO/aiden-firmware/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AidenAI-IO/aiden-firmware?style=flat-square&color=yellow)](https://github.com/AidenAI-IO/aiden-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/AidenAI-IO/aiden-firmware?style=flat-square&color=blue)](https://github.com/AidenAI-IO/aiden-firmware/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent hardware for mobile phone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ AidenAI-IO/aiden-firmware 的生产可用性为中等（Medium）。它适合用
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 48/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

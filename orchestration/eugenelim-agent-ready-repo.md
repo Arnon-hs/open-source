@@ -1,6 +1,6 @@
 # eugenelim/agent-ready-repo
 
-[![Stars](https://img.shields.io/github/stars/eugenelim/agent-ready-repo?style=flat-square&color=yellow)](https://github.com/eugenelim/agent-ready-repo/stargazers) [![Forks](https://img.shields.io/github/forks/eugenelim/agent-ready-repo?style=flat-square&color=blue)](https://github.com/eugenelim/agent-ready-repo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eugenelim/agent-ready-repo?style=flat-square&color=yellow)](https://github.com/eugenelim/agent-ready-repo/stargazers) [![Forks](https://img.shields.io/github/forks/eugenelim/agent-ready-repo?style=flat-square&color=blue)](https://github.com/eugenelim/agent-ready-repo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The complete AI operating model for software teams — from first idea to production. Three peer-supervised loops (discovery → build → release) over a catalogue of curated packs: skills, subagents, and hooks, each installed in one line. It's npm for your coding agent. Any agent, any stack — Claude Code, Codex, Cursor, Copilot, Gemini, Kiro.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ eugenelim/agent-ready-repo 是一个开源项目，旨在为软件团队提供�
 | forks | 17/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # oomkapwn/enquire-mcp
 
-[![Stars](https://img.shields.io/github/stars/oomkapwn/enquire-mcp?style=flat-square&color=yellow)](https://github.com/oomkapwn/enquire-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oomkapwn/enquire-mcp?style=flat-square&color=blue)](https://github.com/oomkapwn/enquire-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oomkapwn/enquire-mcp?style=flat-square&color=yellow)](https://github.com/oomkapwn/enquire-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oomkapwn/enquire-mcp?style=flat-square&color=blue)](https://github.com/oomkapwn/enquire-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The most advanced Obsidian MCP — long-term memory for AI agents. Hybrid retrieval (BM25 + ML + BGE rerank, RRF-fused), HNSW live-update, agentic RAG (HyDE + sub-question), Obsidian Bases, PDFs+OCR. For Claude Code/Desktop, Cursor, ChatGPT, Codex, OpenClaw. MCP-native, MIT, SLSA L2.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ oomkapwn/enquire-mcp 在生产环境中具有较高可用性，具有以下特�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mdoty4/taskreaper-core
 
-[![Stars](https://img.shields.io/github/stars/mdoty4/taskreaper-core?style=flat-square&color=yellow)](https://github.com/mdoty4/taskreaper-core/stargazers) [![Forks](https://img.shields.io/github/forks/mdoty4/taskreaper-core?style=flat-square&color=blue)](https://github.com/mdoty4/taskreaper-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mdoty4/taskreaper-core?style=flat-square&color=yellow)](https://github.com/mdoty4/taskreaper-core/stargazers) [![Forks](https://img.shields.io/github/forks/mdoty4/taskreaper-core?style=flat-square&color=blue)](https://github.com/mdoty4/taskreaper-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI workflow orchestration for chaining models, agents, tools, and scripts into repeatable workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ mdoty4/taskreaper-core 的主要价值在于它能够将孤立的提示和工具
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

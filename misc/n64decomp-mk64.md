@@ -1,6 +1,6 @@
 # n64decomp/mk64
 
-[![Stars](https://img.shields.io/github/stars/n64decomp/mk64?style=flat-square&color=yellow)](https://github.com/n64decomp/mk64/stargazers) [![Forks](https://img.shields.io/github/forks/n64decomp/mk64?style=flat-square&color=blue)](https://github.com/n64decomp/mk64/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n64decomp/mk64?style=flat-square&color=yellow)](https://github.com/n64decomp/mk64/stargazers) [![Forks](https://img.shields.io/github/forks/n64decomp/mk64?style=flat-square&color=blue)](https://github.com/n64decomp/mk64/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ n64decomp/mk64 是一个快速的 Mario Kart 64 解压工具，适合开发者�
 | forks | 53/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

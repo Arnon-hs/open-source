@@ -1,6 +1,6 @@
 # austin-starks/Public-Portfolio-Challenge
 
-[![Stars](https://img.shields.io/github/stars/austin-starks/Public-Portfolio-Challenge?style=flat-square&color=yellow)](https://github.com/austin-starks/Public-Portfolio-Challenge/stargazers) [![Forks](https://img.shields.io/github/forks/austin-starks/Public-Portfolio-Challenge?style=flat-square&color=blue)](https://github.com/austin-starks/Public-Portfolio-Challenge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/austin-starks/Public-Portfolio-Challenge?style=flat-square&color=yellow)](https://github.com/austin-starks/Public-Portfolio-Challenge/stargazers) [![Forks](https://img.shields.io/github/forks/austin-starks/Public-Portfolio-Challenge?style=flat-square&color=blue)](https://github.com/austin-starks/Public-Portfolio-Challenge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Build and deploy a momentum-based options strategy on a live NexusTrade portfolio using AI agents and MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend
+MCP
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ austin-starks/Public-Portfolio-Challenge是一个开源项目，旨在使用AI�
 | forks | 33/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ZJU-REAL/Awesome-GUI-Agents
 
-[![Stars](https://img.shields.io/github/stars/ZJU-REAL/Awesome-GUI-Agents?style=flat-square&color=yellow)](https://github.com/ZJU-REAL/Awesome-GUI-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/ZJU-REAL/Awesome-GUI-Agents?style=flat-square&color=blue)](https://github.com/ZJU-REAL/Awesome-GUI-Agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZJU-REAL/Awesome-GUI-Agents?style=flat-square&color=yellow)](https://github.com/ZJU-REAL/Awesome-GUI-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/ZJU-REAL/Awesome-GUI-Agents?style=flat-square&color=blue)](https://github.com/ZJU-REAL/Awesome-GUI-Agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of resources, tools, and frameworks for developing GUI Agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 437 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ ZJU-REAL/Awesome-GUI-Agents 的生产可用性为中等（Medium）。它适合�
 | forks | 37/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

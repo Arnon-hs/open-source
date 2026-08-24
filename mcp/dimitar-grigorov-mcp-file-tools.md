@@ -1,6 +1,6 @@
 # dimitar-grigorov/mcp-file-tools
 
-[![Stars](https://img.shields.io/github/stars/dimitar-grigorov/mcp-file-tools?style=flat-square&color=yellow)](https://github.com/dimitar-grigorov/mcp-file-tools/stargazers) [![Forks](https://img.shields.io/github/forks/dimitar-grigorov/mcp-file-tools?style=flat-square&color=blue)](https://github.com/dimitar-grigorov/mcp-file-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimitar-grigorov/mcp-file-tools?style=flat-square&color=yellow)](https://github.com/dimitar-grigorov/mcp-file-tools/stargazers) [![Forks](https://img.shields.io/github/forks/dimitar-grigorov/mcp-file-tools?style=flat-square&color=blue)](https://github.com/dimitar-grigorov/mcp-file-tools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for file operations on non-UTF-8 text: detects the encoding from the bytes, hands the model UTF-8, and writes back in the original encoding with BOM and CRLF/LF intact. 24 encodings — Cyrillic/CP1251, CP1252, KOI8, ISO-8859, UTF-16, GBK/GB18030.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ dimitar-grigorov/mcp-file-tools 的生产可用性为中等。它适合用于原
 | forks | 25/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

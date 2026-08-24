@@ -1,6 +1,6 @@
 # scalameta/metals
 
-[![Stars](https://img.shields.io/github/stars/scalameta/metals?style=flat-square&color=yellow)](https://github.com/scalameta/metals/stargazers) [![Forks](https://img.shields.io/github/forks/scalameta/metals?style=flat-square&color=blue)](https://github.com/scalameta/metals/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalameta/metals?style=flat-square&color=yellow)](https://github.com/scalameta/metals/stargazers) [![Forks](https://img.shields.io/github/forks/scalameta/metals?style=flat-square&color=blue)](https://github.com/scalameta/metals/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Scala language server with rich IDE features 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 438 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ scalameta/metals具有高的生产可用性，主要原因是：
 | forks | 66/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 70/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

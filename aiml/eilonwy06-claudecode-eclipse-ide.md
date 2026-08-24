@@ -1,6 +1,6 @@
 # eilonwy06/claudecode-eclipse-ide
 
-[![Stars](https://img.shields.io/github/stars/eilonwy06/claudecode-eclipse-ide?style=flat-square&color=yellow)](https://github.com/eilonwy06/claudecode-eclipse-ide/stargazers) [![Forks](https://img.shields.io/github/forks/eilonwy06/claudecode-eclipse-ide?style=flat-square&color=blue)](https://github.com/eilonwy06/claudecode-eclipse-ide/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eilonwy06/claudecode-eclipse-ide?style=flat-square&color=yellow)](https://github.com/eilonwy06/claudecode-eclipse-ide/stargazers) [![Forks](https://img.shields.io/github/forks/eilonwy06/claudecode-eclipse-ide?style=flat-square&color=blue)](https://github.com/eilonwy06/claudecode-eclipse-ide/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Eclipse IDE port of Claude Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Eclipse IDE port of Claude Code 是一个开源项目，提供了一个基于Ecl
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

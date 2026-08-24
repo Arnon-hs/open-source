@@ -1,6 +1,6 @@
 # wanshuiyin/HERO-Anti-OverDefense
 
-[![Stars](https://img.shields.io/github/stars/wanshuiyin/HERO-Anti-OverDefense?style=flat-square&color=yellow)](https://github.com/wanshuiyin/HERO-Anti-OverDefense/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/HERO-Anti-OverDefense?style=flat-square&color=blue)](https://github.com/wanshuiyin/HERO-Anti-OverDefense/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanshuiyin/HERO-Anti-OverDefense?style=flat-square&color=yellow)](https://github.com/wanshuiyin/HERO-Anti-OverDefense/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/HERO-Anti-OverDefense?style=flat-square&color=blue)](https://github.com/wanshuiyin/HERO-Anti-OverDefense/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ HERO-Anti-OverDefense 的生产可用性为中等。它适合于 prototyping 或
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

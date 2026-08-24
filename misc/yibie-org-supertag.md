@@ -1,6 +1,6 @@
 # yibie/org-supertag
 
-[![Stars](https://img.shields.io/github/stars/yibie/org-supertag?style=flat-square&color=yellow)](https://github.com/yibie/org-supertag/stargazers) [![Forks](https://img.shields.io/github/forks/yibie/org-supertag?style=flat-square&color=blue)](https://github.com/yibie/org-supertag/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yibie/org-supertag?style=flat-square&color=yellow)](https://github.com/yibie/org-supertag/stargazers) [![Forks](https://img.shields.io/github/forks/yibie/org-supertag?style=flat-square&color=blue)](https://github.com/yibie/org-supertag/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Implement a modern note-taking app style in Org-mode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ yibie/org-supertag 的生产可用性为中等。虽然它是一个有用的工�
 | forks | 29/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

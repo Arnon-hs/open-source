@@ -1,6 +1,6 @@
 # zotero/zotero
 
-[![Stars](https://img.shields.io/github/stars/zotero/zotero?style=flat-square&color=yellow)](https://github.com/zotero/zotero/stargazers) [![Forks](https://img.shields.io/github/forks/zotero/zotero?style=flat-square&color=blue)](https://github.com/zotero/zotero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zotero/zotero?style=flat-square&color=yellow)](https://github.com/zotero/zotero/stargazers) [![Forks](https://img.shields.io/github/forks/zotero/zotero?style=flat-square&color=blue)](https://github.com/zotero/zotero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Zotero 的生产可用性为中等。它适合用于原型或内部工作流程�
 | forks | 76/100 |
 | stars | 89/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

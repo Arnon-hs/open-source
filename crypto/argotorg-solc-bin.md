@@ -1,6 +1,6 @@
 # argotorg/solc-bin
 
-[![Stars](https://img.shields.io/github/stars/argotorg/solc-bin?style=flat-square&color=yellow)](https://github.com/argotorg/solc-bin/stargazers) [![Forks](https://img.shields.io/github/forks/argotorg/solc-bin?style=flat-square&color=blue)](https://github.com/argotorg/solc-bin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argotorg/solc-bin?style=flat-square&color=yellow)](https://github.com/argotorg/solc-bin/stargazers) [![Forks](https://img.shields.io/github/forks/argotorg/solc-bin?style=flat-square&color=blue)](https://github.com/argotorg/solc-bin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains current and historical builds of the Solidity Compiler.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Overall, **argotorg/solc-bin** offers a reliable, low‑friction way to incorpor
 | forks | 61/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

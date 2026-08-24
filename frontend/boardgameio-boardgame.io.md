@@ -1,6 +1,6 @@
 # boardgameio/boardgame.io
 
-[![Stars](https://img.shields.io/github/stars/boardgameio/boardgame.io?style=flat-square&color=yellow)](https://github.com/boardgameio/boardgame.io/stargazers) [![Forks](https://img.shields.io/github/forks/boardgameio/boardgame.io?style=flat-square&color=blue)](https://github.com/boardgameio/boardgame.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boardgameio/boardgame.io?style=flat-square&color=yellow)](https://github.com/boardgameio/boardgame.io/stargazers) [![Forks](https://img.shields.io/github/forks/boardgameio/boardgame.io?style=flat-square&color=blue)](https://github.com/boardgameio/boardgame.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > State Management and Multiplayer Networking for Turn-Based Games
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.4k |
 | 🍴 **Forks** | 830 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Boardgame.io 具有很高的生产可用性，主要原因是其最近的活动�
 | forks | 73/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 83/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

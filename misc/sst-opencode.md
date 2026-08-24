@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200.3k |
-| 🍴 **Forks** | 25.9k |
+| ⭐ **Stars** | 200.7k |
+| 🍴 **Forks** | 26k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -51,9 +51,9 @@ sst/opencode：sst/opencode may be useful when its README and activity match a c
 
 **Quality signals**
 
-- 200349 GitHub stars
-- 25887 forks
-- updated 2026-08-23
+- 200664 GitHub stars
+- 25951 forks
+- updated 2026-08-24
 - primary language: TypeScript
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -62,17 +62,16 @@ sst/opencode：sst/opencode may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 81/100 |
-| integration | 46/100 |
-| production | 74/100 |
-| outlook | 79/100 |
-| adoption | 100/100 |
-| categoryMatchCount | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| stars | 100/100 |
 | topics | 0/100 |
+| outlook | 79/100 |
+| quality | 81/100 |
+| recency | 100/100 |
+| adoption | 100/100 |
+| production | 74/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
 
 ---

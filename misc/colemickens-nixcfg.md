@@ -1,6 +1,6 @@
 # colemickens/nixcfg
 
-[![Stars](https://img.shields.io/github/stars/colemickens/nixcfg?style=flat-square&color=yellow)](https://github.com/colemickens/nixcfg/stargazers) [![Forks](https://img.shields.io/github/forks/colemickens/nixcfg?style=flat-square&color=blue)](https://github.com/colemickens/nixcfg/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/colemickens/nixcfg?style=flat-square&color=yellow)](https://github.com/colemickens/nixcfg/stargazers) [![Forks](https://img.shields.io/github/forks/colemickens/nixcfg?style=flat-square&color=blue)](https://github.com/colemickens/nixcfg/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > NixOS and Home-Manager configs for my devices. dotfiles, but way better
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ colemickens/nixcfg 是一个开源项目，提供了 NixOS 和 Home-Manager 配�
 | forks | 26/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

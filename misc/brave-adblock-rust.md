@@ -1,6 +1,6 @@
 # brave/adblock-rust
 
-[![Stars](https://img.shields.io/github/stars/brave/adblock-rust?style=flat-square&color=yellow)](https://github.com/brave/adblock-rust/stargazers) [![Forks](https://img.shields.io/github/forks/brave/adblock-rust?style=flat-square&color=blue)](https://github.com/brave/adblock-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brave/adblock-rust?style=flat-square&color=yellow)](https://github.com/brave/adblock-rust/stargazers) [![Forks](https://img.shields.io/github/forks/brave/adblock-rust?style=flat-square&color=blue)](https://github.com/brave/adblock-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Brave's Rust-based adblock engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ brave/adblock-rust 的生产可用性为中等。它可以用于原型开发或�
 | forks | 59/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

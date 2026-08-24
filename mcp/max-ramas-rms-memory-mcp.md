@@ -1,6 +1,6 @@
 # max-ramas/rms-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/max-ramas/rms-memory-mcp?style=flat-square&color=yellow)](https://github.com/max-ramas/rms-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/max-ramas/rms-memory-mcp?style=flat-square&color=blue)](https://github.com/max-ramas/rms-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/max-ramas/rms-memory-mcp?style=flat-square&color=yellow)](https://github.com/max-ramas/rms-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/max-ramas/rms-memory-mcp?style=flat-square&color=blue)](https://github.com/max-ramas/rms-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent, local, cross-IDE memory for AI agents — markdown source of truth, LanceDB-powered semantic search, zero cloud dependency
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ max-ramas/rms-memory-mcp 是一个开源项目，提供了一个持久化、局�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AlexKontorovich/PrimeNumberTheoremAnd
 
-[![Stars](https://img.shields.io/github/stars/AlexKontorovich/PrimeNumberTheoremAnd?style=flat-square&color=yellow)](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/stargazers) [![Forks](https://img.shields.io/github/forks/AlexKontorovich/PrimeNumberTheoremAnd?style=flat-square&color=blue)](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexKontorovich/PrimeNumberTheoremAnd?style=flat-square&color=yellow)](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/stargazers) [![Forks](https://img.shields.io/github/forks/AlexKontorovich/PrimeNumberTheoremAnd?style=flat-square&color=blue)](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Blueprint for the PNT+ Project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Lean |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ The production readiness of this project is medium, indicating that it is suitab
 | forks | 51/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

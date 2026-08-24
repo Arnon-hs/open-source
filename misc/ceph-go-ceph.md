@@ -1,6 +1,6 @@
 # ceph/go-ceph
 
-[![Stars](https://img.shields.io/github/stars/ceph/go-ceph?style=flat-square&color=yellow)](https://github.com/ceph/go-ceph/stargazers) [![Forks](https://img.shields.io/github/forks/ceph/go-ceph?style=flat-square&color=blue)](https://github.com/ceph/go-ceph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ceph/go-ceph?style=flat-square&color=yellow)](https://github.com/ceph/go-ceph/stargazers) [![Forks](https://img.shields.io/github/forks/ceph/go-ceph?style=flat-square&color=blue)](https://github.com/ceph/go-ceph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Go bindings for Ceph :octopus: :octopus: :octopus:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ ceph/go-ceph 的价值在于它可以帮助开发者快速集成 Ceph 服务到 
 | forks | 62/100 |
 | stars | 60/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

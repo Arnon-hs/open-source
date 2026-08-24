@@ -1,6 +1,6 @@
 # MrGeDiao/paper-reading-zh
 
-[![Stars](https://img.shields.io/github/stars/MrGeDiao/paper-reading-zh?style=flat-square&color=yellow)](https://github.com/MrGeDiao/paper-reading-zh/stargazers) [![Forks](https://img.shields.io/github/forks/MrGeDiao/paper-reading-zh?style=flat-square&color=blue)](https://github.com/MrGeDiao/paper-reading-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MrGeDiao/paper-reading-zh?style=flat-square&color=yellow)](https://github.com/MrGeDiao/paper-reading-zh/stargazers) [![Forks](https://img.shields.io/github/forks/MrGeDiao/paper-reading-zh?style=flat-square&color=blue)](https://github.com/MrGeDiao/paper-reading-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-aware Chinese paper reading rules for Codex, Claude Code, Claude Project, and ChatGPT Project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ MrGeDiao/paper-reading-zh 是一个开源项目，提供了针对 Codex、Claude
 | forks | 8/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

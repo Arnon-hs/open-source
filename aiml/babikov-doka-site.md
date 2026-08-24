@@ -1,6 +1,6 @@
 # babikov/doka-site
 
-[![Stars](https://img.shields.io/github/stars/babikov/doka-site?style=flat-square&color=yellow)](https://github.com/babikov/doka-site/stargazers) [![Forks](https://img.shields.io/github/forks/babikov/doka-site?style=flat-square&color=blue)](https://github.com/babikov/doka-site/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/babikov/doka-site?style=flat-square&color=yellow)](https://github.com/babikov/doka-site/stargazers) [![Forks](https://img.shields.io/github/forks/babikov/doka-site?style=flat-square&color=blue)](https://github.com/babikov/doka-site/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Doka is a desktop AI agent for Windows and Mac. It searches the web, reads pages, works with your files, runs terminal commands, and shows every step it takes — all locally, for free, without sending your data anywhere.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Data · Marketing
+AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Doka 的生产可用性为中等：适合用于原型或内部工作流，需要
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 37/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 64/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

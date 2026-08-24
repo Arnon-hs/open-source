@@ -1,6 +1,6 @@
 # piotrnar/gocoin
 
-[![Stars](https://img.shields.io/github/stars/piotrnar/gocoin?style=flat-square&color=yellow)](https://github.com/piotrnar/gocoin/stargazers) [![Forks](https://img.shields.io/github/forks/piotrnar/gocoin?style=flat-square&color=blue)](https://github.com/piotrnar/gocoin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/piotrnar/gocoin?style=flat-square&color=yellow)](https://github.com/piotrnar/gocoin/stargazers) [![Forks](https://img.shields.io/github/forks/piotrnar/gocoin?style=flat-square&color=blue)](https://github.com/piotrnar/gocoin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Full bitcoin solution written in Go (golang)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ piotrnar/gocoin 的生产可用性较高，主要原因是：
 | forks | 59/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # DevYangJC/Argus
 
-[![Stars](https://img.shields.io/github/stars/DevYangJC/Argus?style=flat-square&color=yellow)](https://github.com/DevYangJC/Argus/stargazers) [![Forks](https://img.shields.io/github/forks/DevYangJC/Argus?style=flat-square&color=blue)](https://github.com/DevYangJC/Argus/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DevYangJC/Argus?style=flat-square&color=yellow)](https://github.com/DevYangJC/Argus/stargazers) [![Forks](https://img.shields.io/github/forks/DevYangJC/Argus?style=flat-square&color=blue)](https://github.com/DevYangJC/Argus/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🌱 Argus 是一个基于 RAG 架构的开源知识库平台，后端采用 Java 21 + Spring Boot + MyBatis-Plus + PostgreSQL/pgvector，前端采用 Vue 3 + TypeScript + Element Plus，AI 层基于 Spring AI Alibaba（通义千问）+ ReactAgent 图引擎，以 MinIO + Elasticsearch 为存储与检索引擎。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Argus 的生产可用性为中等（Medium），适合用于原型或内部工�
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

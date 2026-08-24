@@ -1,6 +1,6 @@
 # go-co-op/gocron
 
-[![Stars](https://img.shields.io/github/stars/go-co-op/gocron?style=flat-square&color=yellow)](https://github.com/go-co-op/gocron/stargazers) [![Forks](https://img.shields.io/github/forks/go-co-op/gocron?style=flat-square&color=blue)](https://github.com/go-co-op/gocron/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-co-op/gocron?style=flat-square&color=yellow)](https://github.com/go-co-op/gocron/stargazers) [![Forks](https://img.shields.io/github/forks/go-co-op/gocron?style=flat-square&color=blue)](https://github.com/go-co-op/gocron/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ go-co-op/gocron 已经有较高的生产可用性，主要原因是：
 | forks | 63/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SamurAIGPT/awesome-hermes-agent
 
-[![Stars](https://img.shields.io/github/stars/SamurAIGPT/awesome-hermes-agent?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/awesome-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/awesome-hermes-agent?style=flat-square&color=blue)](https://github.com/SamurAIGPT/awesome-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamurAIGPT/awesome-hermes-agent?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/awesome-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/awesome-hermes-agent?style=flat-square&color=blue)](https://github.com/SamurAIGPT/awesome-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 332 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ SamurAIGPT/awesome-hermes-agent 是一个精选集合，汇聚了 Hermes Agent�
 | forks | 63/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

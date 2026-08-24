@@ -1,6 +1,6 @@
 # daniel-frak/keycloak-user-migration
 
-[![Stars](https://img.shields.io/github/stars/daniel-frak/keycloak-user-migration?style=flat-square&color=yellow)](https://github.com/daniel-frak/keycloak-user-migration/stargazers) [![Forks](https://img.shields.io/github/forks/daniel-frak/keycloak-user-migration?style=flat-square&color=blue)](https://github.com/daniel-frak/keycloak-user-migration/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daniel-frak/keycloak-user-migration?style=flat-square&color=yellow)](https://github.com/daniel-frak/keycloak-user-migration/stargazers) [![Forks](https://img.shields.io/github/forks/daniel-frak/keycloak-user-migration?style=flat-square&color=blue)](https://github.com/daniel-frak/keycloak-user-migration/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A Keycloak plugin for migrating users from legacy systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ daniel-frak/keycloak-user-migration：daniel-frak/keycloak-user-migration may be
 | forks | 55/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

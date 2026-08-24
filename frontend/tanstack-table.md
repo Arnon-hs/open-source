@@ -1,6 +1,6 @@
 # TanStack/table
 
-[![Stars](https://img.shields.io/github/stars/TanStack/table?style=flat-square&color=yellow)](https://github.com/TanStack/table/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/table?style=flat-square&color=blue)](https://github.com/TanStack/table/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TanStack/table?style=flat-square&color=yellow)](https://github.com/TanStack/table/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/table?style=flat-square&color=blue)](https://github.com/TanStack/table/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.2k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ TanStack /table 是一个 **headless** 表格/数据网格库，提供框架�
 | forks | 89/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 82/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

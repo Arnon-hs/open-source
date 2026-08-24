@@ -1,6 +1,6 @@
 # ocrmypdf/OCRmyPDF
 
-[![Stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=flat-square&color=yellow)](https://github.com/ocrmypdf/OCRmyPDF/stargazers) [![Forks](https://img.shields.io/github/forks/ocrmypdf/OCRmyPDF?style=flat-square&color=blue)](https://github.com/ocrmypdf/OCRmyPDF/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=flat-square&color=yellow)](https://github.com/ocrmypdf/OCRmyPDF/stargazers) [![Forks](https://img.shields.io/github/forks/ocrmypdf/OCRmyPDF?style=flat-square&color=blue)](https://github.com/ocrmypdf/OCRmyPDF/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34.2k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ OCRmyPDF 的生产可用性较高，主要原因是：
 | forks | 84/100 |
 | stars | 96/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

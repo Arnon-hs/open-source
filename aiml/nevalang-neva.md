@@ -1,6 +1,6 @@
 # nevalang/neva
 
-[![Stars](https://img.shields.io/github/stars/nevalang/neva?style=flat-square&color=yellow)](https://github.com/nevalang/neva/stargazers) [![Forks](https://img.shields.io/github/forks/nevalang/neva?style=flat-square&color=blue)](https://github.com/nevalang/neva/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nevalang/neva?style=flat-square&color=yellow)](https://github.com/nevalang/neva/stargazers) [![Forks](https://img.shields.io/github/forks/nevalang/neva?style=flat-square&color=blue)](https://github.com/nevalang/neva/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Dataflow programming language where you write a program as a message-passing graph and everything runs in parallel by default. It has strong static types, compiles to machine code, interoperates with Go, and supports visual programming with a node editor. Extremely LLM-friendly too.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ nevalang/neva 在生产环境中的可用性非常高，尤其是考虑到其最
 | forks | 40/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

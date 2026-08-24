@@ -1,6 +1,6 @@
 # morluto/flameox
 
-[![Stars](https://img.shields.io/github/stars/morluto/flameox?style=flat-square&color=yellow)](https://github.com/morluto/flameox/stargazers) [![Forks](https://img.shields.io/github/forks/morluto/flameox?style=flat-square&color=blue)](https://github.com/morluto/flameox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morluto/flameox?style=flat-square&color=yellow)](https://github.com/morluto/flameox/stargazers) [![Forks](https://img.shields.io/github/forks/morluto/flameox?style=flat-square&color=blue)](https://github.com/morluto/flameox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ morluto/flameox 的生产可用性为中等，适合用于原型或内部工作�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

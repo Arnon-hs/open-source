@@ -1,6 +1,6 @@
 # JerryZLiu/Dayflow
 
-[![Stars](https://img.shields.io/github/stars/JerryZLiu/Dayflow?style=flat-square&color=yellow)](https://github.com/JerryZLiu/Dayflow/stargazers) [![Forks](https://img.shields.io/github/forks/JerryZLiu/Dayflow?style=flat-square&color=blue)](https://github.com/JerryZLiu/Dayflow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JerryZLiu/Dayflow?style=flat-square&color=yellow)](https://github.com/JerryZLiu/Dayflow/stargazers) [![Forks](https://img.shields.io/github/forks/JerryZLiu/Dayflow?style=flat-square&color=blue)](https://github.com/JerryZLiu/Dayflow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ JerryZLiu/Dayflow 是一款开源的本地化工作日志工具，它会自动�
 | forks | 63/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

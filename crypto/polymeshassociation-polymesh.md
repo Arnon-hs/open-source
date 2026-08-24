@@ -1,6 +1,6 @@
 # PolymeshAssociation/Polymesh
 
-[![Stars](https://img.shields.io/github/stars/PolymeshAssociation/Polymesh?style=flat-square&color=yellow)](https://github.com/PolymeshAssociation/Polymesh/stargazers) [![Forks](https://img.shields.io/github/forks/PolymeshAssociation/Polymesh?style=flat-square&color=blue)](https://github.com/PolymeshAssociation/Polymesh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PolymeshAssociation/Polymesh?style=flat-square&color=yellow)](https://github.com/PolymeshAssociation/Polymesh/stargazers) [![Forks](https://img.shields.io/github/forks/PolymeshAssociation/Polymesh?style=flat-square&color=blue)](https://github.com/PolymeshAssociation/Polymesh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Node for Polymesh Blockchain
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ PolymeshAssociation/Polymesh 是 Polymesh 公链的官方节点实现，使用 R
 | forks | 43/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

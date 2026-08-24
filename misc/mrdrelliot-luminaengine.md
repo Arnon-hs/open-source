@@ -1,6 +1,6 @@
 # MrDrElliot/LuminaEngine
 
-[![Stars](https://img.shields.io/github/stars/MrDrElliot/LuminaEngine?style=flat-square&color=yellow)](https://github.com/MrDrElliot/LuminaEngine/stargazers) [![Forks](https://img.shields.io/github/forks/MrDrElliot/LuminaEngine?style=flat-square&color=blue)](https://github.com/MrDrElliot/LuminaEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MrDrElliot/LuminaEngine?style=flat-square&color=yellow)](https://github.com/MrDrElliot/LuminaEngine/stargazers) [![Forks](https://img.shields.io/github/forks/MrDrElliot/LuminaEngine?style=flat-square&color=blue)](https://github.com/MrDrElliot/LuminaEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced Open Source C++ Game Engine with multi-threaded Vulkan rendering
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ LuminaEngine 的生产可用性为中等。它适合用于开发原型和内部�
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 68/100 |
-| usefulness | 42/100 |
+| production | 62/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

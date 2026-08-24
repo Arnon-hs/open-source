@@ -1,6 +1,6 @@
 # ClassicPress/ClassicPress
 
-[![Stars](https://img.shields.io/github/stars/ClassicPress/ClassicPress?style=flat-square&color=yellow)](https://github.com/ClassicPress/ClassicPress/stargazers) [![Forks](https://img.shields.io/github/forks/ClassicPress/ClassicPress?style=flat-square&color=blue)](https://github.com/ClassicPress/ClassicPress/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClassicPress/ClassicPress?style=flat-square&color=yellow)](https://github.com/ClassicPress/ClassicPress/stargazers) [![Forks](https://img.shields.io/github/forks/ClassicPress/ClassicPress?style=flat-square&color=blue)](https://github.com/ClassicPress/ClassicPress/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ ClassicPress的生产可用性为Medium。它适合用于原型开发或内部�
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

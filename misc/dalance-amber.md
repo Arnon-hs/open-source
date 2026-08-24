@@ -1,6 +1,6 @@
 # dalance/amber
 
-[![Stars](https://img.shields.io/github/stars/dalance/amber?style=flat-square&color=yellow)](https://github.com/dalance/amber/stargazers) [![Forks](https://img.shields.io/github/forks/dalance/amber?style=flat-square&color=blue)](https://github.com/dalance/amber/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dalance/amber?style=flat-square&color=yellow)](https://github.com/dalance/amber/stargazers) [![Forks](https://img.shields.io/github/forks/dalance/amber?style=flat-square&color=blue)](https://github.com/dalance/amber/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A code search / replace tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 949 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ dalance/amber 的价值在于它可以帮助用户快速找到和替换代码中
 | forks | 35/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

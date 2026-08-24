@@ -1,6 +1,6 @@
 # RedSpider1/concurrent
 
-[![Stars](https://img.shields.io/github/stars/RedSpider1/concurrent?style=flat-square&color=yellow)](https://github.com/RedSpider1/concurrent/stargazers) [![Forks](https://img.shields.io/github/forks/RedSpider1/concurrent?style=flat-square&color=blue)](https://github.com/RedSpider1/concurrent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RedSpider1/concurrent?style=flat-square&color=yellow)](https://github.com/RedSpider1/concurrent/stargazers) [![Forks](https://img.shields.io/github/forks/RedSpider1/concurrent?style=flat-square&color=blue)](https://github.com/RedSpider1/concurrent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 这是RedSpider社区成员原创与维护的Java多线程系列文章。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 669 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ RedSpider1/concurrent 是一款开源 Java 多线程系列文章，由 RedSpider
 | forks | 71/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

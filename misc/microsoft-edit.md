@@ -1,6 +1,6 @@
 # microsoft/edit
 
-[![Stars](https://img.shields.io/github/stars/microsoft/edit?style=flat-square&color=yellow)](https://github.com/microsoft/edit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/edit?style=flat-square&color=blue)](https://github.com/microsoft/edit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/edit?style=flat-square&color=yellow)](https://github.com/microsoft/edit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/edit?style=flat-square&color=blue)](https://github.com/microsoft/edit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > We all edit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.4k |
 | 🍴 **Forks** | 707 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ microsoft/edit 的生产可用性较高，主要原因是其最近的活动、�
 | forks | 71/100 |
 | stars | 89/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 84/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

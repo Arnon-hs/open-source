@@ -1,6 +1,6 @@
 # kermanx/jsshaker
 
-[![Stars](https://img.shields.io/github/stars/kermanx/jsshaker?style=flat-square&color=yellow)](https://github.com/kermanx/jsshaker/stargazers) [![Forks](https://img.shields.io/github/forks/kermanx/jsshaker?style=flat-square&color=blue)](https://github.com/kermanx/jsshaker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kermanx/jsshaker?style=flat-square&color=yellow)](https://github.com/kermanx/jsshaker/stargazers) [![Forks](https://img.shields.io/github/forks/kermanx/jsshaker?style=flat-square&color=blue)](https://github.com/kermanx/jsshaker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🪚 A JavaScript code size optimizer based on abstract interpretation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 425 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ kermanx/jsshaker 的生产可用性为中等。它适合于用于原型开发或
 | forks | 17/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

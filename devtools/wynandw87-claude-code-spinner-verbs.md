@@ -1,6 +1,6 @@
 # wynandw87/claude-code-spinner-verbs
 
-[![Stars](https://img.shields.io/github/stars/wynandw87/claude-code-spinner-verbs?style=flat-square&color=yellow)](https://github.com/wynandw87/claude-code-spinner-verbs/stargazers) [![Forks](https://img.shields.io/github/forks/wynandw87/claude-code-spinner-verbs?style=flat-square&color=blue)](https://github.com/wynandw87/claude-code-spinner-verbs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wynandw87/claude-code-spinner-verbs?style=flat-square&color=yellow)](https://github.com/wynandw87/claude-code-spinner-verbs/stargazers) [![Forks](https://img.shields.io/github/forks/wynandw87/claude-code-spinner-verbs?style=flat-square&color=blue)](https://github.com/wynandw87/claude-code-spinner-verbs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 2,500+ curated spinner verbs and spinner phrases for Claude Code across 98 themed categories
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ wynandw87/claude-code-spinner-verbs 提供 2,500 多条精挑细选的 spinner �
 | forks | 23/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

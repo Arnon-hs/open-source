@@ -1,6 +1,6 @@
 # hpi-swa/trufflesqueak
 
-[![Stars](https://img.shields.io/github/stars/hpi-swa/trufflesqueak?style=flat-square&color=yellow)](https://github.com/hpi-swa/trufflesqueak/stargazers) [![Forks](https://img.shields.io/github/forks/hpi-swa/trufflesqueak?style=flat-square&color=blue)](https://github.com/hpi-swa/trufflesqueak/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hpi-swa/trufflesqueak?style=flat-square&color=yellow)](https://github.com/hpi-swa/trufflesqueak/stargazers) [![Forks](https://img.shields.io/github/forks/hpi-swa/trufflesqueak?style=flat-square&color=blue)](https://github.com/hpi-swa/trufflesqueak/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Squeak/Smalltalk VM and Polyglot Programming Environment for the GraalVM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ hpi-swa/trufflesqueak 的价值在于，它可以作为一个多语言编程环�
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pl4nty/cloudflare-kubernetes-gateway
 
-[![Stars](https://img.shields.io/github/stars/pl4nty/cloudflare-kubernetes-gateway?style=flat-square&color=yellow)](https://github.com/pl4nty/cloudflare-kubernetes-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/pl4nty/cloudflare-kubernetes-gateway?style=flat-square&color=blue)](https://github.com/pl4nty/cloudflare-kubernetes-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pl4nty/cloudflare-kubernetes-gateway?style=flat-square&color=yellow)](https://github.com/pl4nty/cloudflare-kubernetes-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/pl4nty/cloudflare-kubernetes-gateway?style=flat-square&color=blue)](https://github.com/pl4nty/cloudflare-kubernetes-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Manage Kubernetes traffic with Cloudflare Tunnels
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ pl4nty/cloudflare-kubernetes-gateway 是一个开源项目，帮助管理 Kubern
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nginx/nginx-prometheus-exporter
 
-[![Stars](https://img.shields.io/github/stars/nginx/nginx-prometheus-exporter?style=flat-square&color=yellow)](https://github.com/nginx/nginx-prometheus-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/nginx-prometheus-exporter?style=flat-square&color=blue)](https://github.com/nginx/nginx-prometheus-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nginx/nginx-prometheus-exporter?style=flat-square&color=yellow)](https://github.com/nginx/nginx-prometheus-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/nginx-prometheus-exporter?style=flat-square&color=blue)](https://github.com/nginx/nginx-prometheus-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > NGINX Prometheus Exporter for NGINX and NGINX Plus
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 370 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ nginx/nginx-prometheus-exporter 的生产可用性较高，最近有活跃开发
 | forks | 64/100 |
 | stars | 70/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

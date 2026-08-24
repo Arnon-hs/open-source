@@ -1,6 +1,6 @@
 # wasvy-org/wasvy
 
-[![Stars](https://img.shields.io/github/stars/wasvy-org/wasvy?style=flat-square&color=yellow)](https://github.com/wasvy-org/wasvy/stargazers) [![Forks](https://img.shields.io/github/forks/wasvy-org/wasvy?style=flat-square&color=blue)](https://github.com/wasvy-org/wasvy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasvy-org/wasvy?style=flat-square&color=yellow)](https://github.com/wasvy-org/wasvy/stargazers) [![Forks](https://img.shields.io/github/forks/wasvy-org/wasvy?style=flat-square&color=blue)](https://github.com/wasvy-org/wasvy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > WASI-powered modding for the Bevy engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ wasvy-org/wasvy 在生产环境下可用性为中等（Medium）。它适合用�
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

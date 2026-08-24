@@ -1,6 +1,6 @@
 # zhoushoujianwork/easyeda-agent
 
-[![Stars](https://img.shields.io/github/stars/zhoushoujianwork/easyeda-agent?style=flat-square&color=yellow)](https://github.com/zhoushoujianwork/easyeda-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zhoushoujianwork/easyeda-agent?style=flat-square&color=blue)](https://github.com/zhoushoujianwork/easyeda-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhoushoujianwork/easyeda-agent?style=flat-square&color=yellow)](https://github.com/zhoushoujianwork/easyeda-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zhoushoujianwork/easyeda-agent?style=flat-square&color=blue)](https://github.com/zhoushoujianwork/easyeda-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Backend · Design
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ zhoushoujianwork/easyeda-agent：zhoushoujianwork/easyeda-agent helps connect AI
 | forks | 39/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

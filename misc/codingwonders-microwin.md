@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ CodingWonders/MicroWin：CodingWonders/MicroWin may be useful when its README an
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

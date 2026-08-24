@@ -1,6 +1,6 @@
 # forloopcodes/contextplus
 
-[![Stars](https://img.shields.io/github/stars/forloopcodes/contextplus?style=flat-square&color=yellow)](https://github.com/forloopcodes/contextplus/stargazers) [![Forks](https://img.shields.io/github/forks/forloopcodes/contextplus?style=flat-square&color=blue)](https://github.com/forloopcodes/contextplus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/forloopcodes/contextplus?style=flat-square&color=yellow)](https://github.com/forloopcodes/contextplus/stargazers) [![Forks](https://img.shields.io/github/forks/forloopcodes/contextplus?style=flat-square&color=blue)](https://github.com/forloopcodes/contextplus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Context+ 的生产可用性较高。该项目有近 2000 个 GitHub 星星，165
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 13/100 |
-| outlook | 78/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hoainho/img2threejs
 
-[![Stars](https://img.shields.io/github/stars/hoainho/img2threejs?style=flat-square&color=yellow)](https://github.com/hoainho/img2threejs/stargazers) [![Forks](https://img.shields.io/github/forks/hoainho/img2threejs?style=flat-square&color=blue)](https://github.com/hoainho/img2threejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoainho/img2threejs?style=flat-square&color=yellow)](https://github.com/hoainho/img2threejs/stargazers) [![Forks](https://img.shields.io/github/forks/hoainho/img2threejs?style=flat-square&color=blue)](https://github.com/hoainho/img2threejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 588 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ hoainho/img2threejs 帮助开发者在不从零开始建模的情况下添加 AI
 | forks | 42/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

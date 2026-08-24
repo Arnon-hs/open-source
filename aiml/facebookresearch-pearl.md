@@ -1,6 +1,6 @@
 # facebookresearch/Pearl
 
-[![Stars](https://img.shields.io/github/stars/facebookresearch/Pearl?style=flat-square&color=yellow)](https://github.com/facebookresearch/Pearl/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/Pearl?style=flat-square&color=blue)](https://github.com/facebookresearch/Pearl/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookresearch/Pearl?style=flat-square&color=yellow)](https://github.com/facebookresearch/Pearl/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/Pearl?style=flat-square&color=blue)](https://github.com/facebookresearch/Pearl/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Education · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ facebookresearch/Pearl 是由 Meta 应用强化学习团队提供的生产就绪
 | forks | 58/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

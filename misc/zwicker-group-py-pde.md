@@ -1,6 +1,6 @@
 # zwicker-group/py-pde
 
-[![Stars](https://img.shields.io/github/stars/zwicker-group/py-pde?style=flat-square&color=yellow)](https://github.com/zwicker-group/py-pde/stargazers) [![Forks](https://img.shields.io/github/forks/zwicker-group/py-pde?style=flat-square&color=blue)](https://github.com/zwicker-group/py-pde/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zwicker-group/py-pde?style=flat-square&color=yellow)](https://github.com/zwicker-group/py-pde/stargazers) [![Forks](https://img.shields.io/github/forks/zwicker-group/py-pde?style=flat-square&color=blue)](https://github.com/zwicker-group/py-pde/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Python package for solving partial differential equations using finite differences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ zwicker-group/py-pde 的生产可用性为中等。它适合用于原型开发�
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

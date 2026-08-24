@@ -1,6 +1,6 @@
 # visgl/deck.gl
 
-[![Stars](https://img.shields.io/github/stars/visgl/deck.gl?style=flat-square&color=yellow)](https://github.com/visgl/deck.gl/stargazers) [![Forks](https://img.shields.io/github/forks/visgl/deck.gl?style=flat-square&color=blue)](https://github.com/visgl/deck.gl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/visgl/deck.gl?style=flat-square&color=yellow)](https://github.com/visgl/deck.gl/stargazers) [![Forks](https://img.shields.io/github/forks/visgl/deck.gl?style=flat-square&color=blue)](https://github.com/visgl/deck.gl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > WebGL2 powered visualization framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.3k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ visgl/deck.gl 的生产可用性较高，主要原因是其最近的活动、采
 | forks | 84/100 |
 | stars | 88/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

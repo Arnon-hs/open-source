@@ -1,6 +1,6 @@
 # mockingbirdnest/Principia
 
-[![Stars](https://img.shields.io/github/stars/mockingbirdnest/Principia?style=flat-square&color=yellow)](https://github.com/mockingbirdnest/Principia/stargazers) [![Forks](https://img.shields.io/github/forks/mockingbirdnest/Principia?style=flat-square&color=blue)](https://github.com/mockingbirdnest/Principia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mockingbirdnest/Principia?style=flat-square&color=yellow)](https://github.com/mockingbirdnest/Principia/stargazers) [![Forks](https://img.shields.io/github/forks/mockingbirdnest/Principia?style=flat-square&color=blue)](https://github.com/mockingbirdnest/Principia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 𝑛-Body and Extended Body Gravitation for Kerbal Space Program
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 925 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ mockingbirdnest/Principia：mockingbirdnest/Principia may be useful when its REA
 | forks | 48/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

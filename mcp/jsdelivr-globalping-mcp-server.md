@@ -1,6 +1,6 @@
 # jsdelivr/globalping-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/jsdelivr/globalping-mcp-server?style=flat-square&color=yellow)](https://github.com/jsdelivr/globalping-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/jsdelivr/globalping-mcp-server?style=flat-square&color=blue)](https://github.com/jsdelivr/globalping-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jsdelivr/globalping-mcp-server?style=flat-square&color=yellow)](https://github.com/jsdelivr/globalping-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/jsdelivr/globalping-mcp-server?style=flat-square&color=blue)](https://github.com/jsdelivr/globalping-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Remote MCP server that gives LLMs access to run network commands
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ jsdelivr/globalping-mcp-server 帮助连接 AI 助手与真实工具和数据，
 | forks | 26/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

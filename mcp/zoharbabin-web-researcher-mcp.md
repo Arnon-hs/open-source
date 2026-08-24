@@ -1,6 +1,6 @@
 # zoharbabin/web-researcher-mcp
 
-[![Stars](https://img.shields.io/github/stars/zoharbabin/web-researcher-mcp?style=flat-square&color=yellow)](https://github.com/zoharbabin/web-researcher-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zoharbabin/web-researcher-mcp?style=flat-square&color=blue)](https://github.com/zoharbabin/web-researcher-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zoharbabin/web-researcher-mcp?style=flat-square&color=yellow)](https://github.com/zoharbabin/web-researcher-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zoharbabin/web-researcher-mcp?style=flat-square&color=blue)](https://github.com/zoharbabin/web-researcher-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The AI research assistant that cites real sources honestly — and searches the web. Your AI research assistant that cites real sources and stays honest. Works with Claude, Cursor, any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ zoharbabin/web‑researcher‑mcp 是一款基于 Model Context Protocol（M
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

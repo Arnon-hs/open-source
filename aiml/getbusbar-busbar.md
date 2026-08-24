@@ -1,6 +1,6 @@
 # GetBusbar/busbar
 
-[![Stars](https://img.shields.io/github/stars/GetBusbar/busbar?style=flat-square&color=yellow)](https://github.com/GetBusbar/busbar/stargazers) [![Forks](https://img.shields.io/github/forks/GetBusbar/busbar?style=flat-square&color=blue)](https://github.com/GetBusbar/busbar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetBusbar/busbar?style=flat-square&color=yellow)](https://github.com/GetBusbar/busbar/stargazers) [![Forks](https://img.shields.io/github/forks/GetBusbar/busbar?style=flat-square&color=blue)](https://github.com/GetBusbar/busbar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Point your existing SDK at one URL and reach every LLM vendor — with real failover, not a try/except. One static Rust binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ GetBusbar/busbar 在生产环境中有一定的可用性，评级为 Medium。�
 | forks | 17/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

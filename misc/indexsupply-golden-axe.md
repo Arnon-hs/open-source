@@ -1,6 +1,6 @@
 # indexsupply/golden-axe
 
-[![Stars](https://img.shields.io/github/stars/indexsupply/golden-axe?style=flat-square&color=yellow)](https://github.com/indexsupply/golden-axe/stargazers) [![Forks](https://img.shields.io/github/forks/indexsupply/golden-axe?style=flat-square&color=blue)](https://github.com/indexsupply/golden-axe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indexsupply/golden-axe?style=flat-square&color=yellow)](https://github.com/indexsupply/golden-axe/stargazers) [![Forks](https://img.shields.io/github/forks/indexsupply/golden-axe?style=flat-square&color=blue)](https://github.com/indexsupply/golden-axe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > evm indexer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ Here's a brief summary of the open-source project:
 | forks | 27/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

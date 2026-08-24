@@ -1,6 +1,6 @@
 # Offsend/Offsend
 
-[![Stars](https://img.shields.io/github/stars/Offsend/Offsend?style=flat-square&color=yellow)](https://github.com/Offsend/Offsend/stargazers) [![Forks](https://img.shields.io/github/forks/Offsend/Offsend?style=flat-square&color=blue)](https://github.com/Offsend/Offsend/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Offsend/Offsend?style=flat-square&color=yellow)](https://github.com/Offsend/Offsend/stargazers) [![Forks](https://img.shields.io/github/forks/Offsend/Offsend?style=flat-square&color=blue)](https://github.com/Offsend/Offsend/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > See and fix what AI tools can read. One .offsend.yml keeps secrets out of AI context — synced to .cursorignore, .claudeignore & every AI ignore file. Local-first checks for prompts, file reads, shell, MCP, and agent history.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Security · Marketing
+MCP · AI/ML · Security
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Offsend/Offsend 的生产
 | forks | 0/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 17/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

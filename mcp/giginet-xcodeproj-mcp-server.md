@@ -1,6 +1,6 @@
 # giginet/xcodeproj-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/giginet/xcodeproj-mcp-server?style=flat-square&color=yellow)](https://github.com/giginet/xcodeproj-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/giginet/xcodeproj-mcp-server?style=flat-square&color=blue)](https://github.com/giginet/xcodeproj-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giginet/xcodeproj-mcp-server?style=flat-square&color=yellow)](https://github.com/giginet/xcodeproj-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/giginet/xcodeproj-mcp-server?style=flat-square&color=blue)](https://github.com/giginet/xcodeproj-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol Server to manipulate *.xcodeproj
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ giginet/xcodeproj-mcp-server：giginet/xcodeproj-mcp-server helps connect AI ass
 | forks | 23/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

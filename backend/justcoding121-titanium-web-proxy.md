@@ -1,6 +1,6 @@
 # justcoding121/titanium-web-proxy
 
-[![Stars](https://img.shields.io/github/stars/justcoding121/titanium-web-proxy?style=flat-square&color=yellow)](https://github.com/justcoding121/titanium-web-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/justcoding121/titanium-web-proxy?style=flat-square&color=blue)](https://github.com/justcoding121/titanium-web-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justcoding121/titanium-web-proxy?style=flat-square&color=yellow)](https://github.com/justcoding121/titanium-web-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/justcoding121/titanium-web-proxy?style=flat-square&color=blue)](https://github.com/justcoding121/titanium-web-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform asynchronous HTTP(S) proxy server in C#.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 656 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Titanium-web-proxy 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 70/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

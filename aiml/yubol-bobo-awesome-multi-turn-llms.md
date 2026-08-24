@@ -1,6 +1,6 @@
 # yubol-bobo/Awesome-Multi-Turn-LLMs
 
-[![Stars](https://img.shields.io/github/stars/yubol-bobo/Awesome-Multi-Turn-LLMs?style=flat-square&color=yellow)](https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs/stargazers) [![Forks](https://img.shields.io/github/forks/yubol-bobo/Awesome-Multi-Turn-LLMs?style=flat-square&color=blue)](https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yubol-bobo/Awesome-Multi-Turn-LLMs?style=flat-square&color=yellow)](https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs/stargazers) [![Forks](https://img.shields.io/github/forks/yubol-bobo/Awesome-Multi-Turn-LLMs?style=flat-square&color=blue)](https://github.com/yubol-bobo/Awesome-Multi-Turn-LLMs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > This is the official GitHub repository for our survey paper "Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models".
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ yubol-bobo/Awesome-Multi-Turn-LLMs 是一个开源项目，旨在为开发者提
 | forks | 21/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

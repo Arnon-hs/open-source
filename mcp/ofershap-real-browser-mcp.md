@@ -1,6 +1,6 @@
 # ofershap/real-browser-mcp
 
-[![Stars](https://img.shields.io/github/stars/ofershap/real-browser-mcp?style=flat-square&color=yellow)](https://github.com/ofershap/real-browser-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ofershap/real-browser-mcp?style=flat-square&color=blue)](https://github.com/ofershap/real-browser-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ofershap/real-browser-mcp?style=flat-square&color=yellow)](https://github.com/ofershap/real-browser-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ofershap/real-browser-mcp?style=flat-square&color=blue)](https://github.com/ofershap/real-browser-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server + Chrome extension that gives AI agents control of your real browser with existing sessions and logins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ ofershap/real-browser-mcp 帮助 AI 助手连接真实工具和数据，提供�
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # iximiuz/labctl
 
-[![Stars](https://img.shields.io/github/stars/iximiuz/labctl?style=flat-square&color=yellow)](https://github.com/iximiuz/labctl/stargazers) [![Forks](https://img.shields.io/github/forks/iximiuz/labctl?style=flat-square&color=blue)](https://github.com/iximiuz/labctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iximiuz/labctl?style=flat-square&color=yellow)](https://github.com/iximiuz/labctl/stargazers) [![Forks](https://img.shields.io/github/forks/iximiuz/labctl?style=flat-square&color=blue)](https://github.com/iximiuz/labctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > iximiuz Labs control - start remote microVM playgrounds from the command line.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ iximiuz/labctl 的生产可用性较高，主要原因是：
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

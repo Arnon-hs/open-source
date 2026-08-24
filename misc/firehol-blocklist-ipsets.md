@@ -1,6 +1,6 @@
 # firehol/blocklist-ipsets
 
-[![Stars](https://img.shields.io/github/stars/firehol/blocklist-ipsets?style=flat-square&color=yellow)](https://github.com/firehol/blocklist-ipsets/stargazers) [![Forks](https://img.shields.io/github/forks/firehol/blocklist-ipsets?style=flat-square&color=blue)](https://github.com/firehol/blocklist-ipsets/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firehol/blocklist-ipsets?style=flat-square&color=yellow)](https://github.com/firehol/blocklist-ipsets/stargazers) [![Forks](https://img.shields.io/github/forks/firehol/blocklist-ipsets?style=flat-square&color=blue)](https://github.com/firehol/blocklist-ipsets/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ipsets dynamically updated with firehol's update-ipsets.sh script
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 421 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ firehol/blocklist-ipsets 的生产可用性很高，主要原因是它具有活�
 | forks | 66/100 |
 | stars | 76/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

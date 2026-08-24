@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2025-04-10 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -94,6 +94,7 @@ hexgrad/Kokoro-82M 的生产可用性处于早期或不明确的阶段。应将�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

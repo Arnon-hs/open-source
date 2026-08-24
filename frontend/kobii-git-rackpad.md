@@ -1,6 +1,6 @@
 # Kobii-git/rackpad
 
-[![Stars](https://img.shields.io/github/stars/Kobii-git/rackpad?style=flat-square&color=yellow)](https://github.com/Kobii-git/rackpad/stargazers) [![Forks](https://img.shields.io/github/forks/Kobii-git/rackpad?style=flat-square&color=blue)](https://github.com/Kobii-git/rackpad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kobii-git/rackpad?style=flat-square&color=yellow)](https://github.com/Kobii-git/rackpad/stargazers) [![Forks](https://img.shields.io/github/forks/Kobii-git/rackpad?style=flat-square&color=blue)](https://github.com/Kobii-git/rackpad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Kobii‑git/rackpad 是一套自托管的实验室/家庭实验环境资产管�
 | forks | 25/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

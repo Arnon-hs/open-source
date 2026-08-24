@@ -1,6 +1,6 @@
 # adavak/Win_ISO_Patching_Scripts
 
-[![Stars](https://img.shields.io/github/stars/adavak/Win_ISO_Patching_Scripts?style=flat-square&color=yellow)](https://github.com/adavak/Win_ISO_Patching_Scripts/stargazers) [![Forks](https://img.shields.io/github/forks/adavak/Win_ISO_Patching_Scripts?style=flat-square&color=blue)](https://github.com/adavak/Win_ISO_Patching_Scripts/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adavak/Win_ISO_Patching_Scripts?style=flat-square&color=yellow)](https://github.com/adavak/Win_ISO_Patching_Scripts/stargazers) [![Forks](https://img.shields.io/github/forks/adavak/Win_ISO_Patching_Scripts?style=flat-square&color=blue)](https://github.com/adavak/Win_ISO_Patching_Scripts/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Win_ISO_Patching_Scripts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -79,14 +79,15 @@ Win_ISO_Patching_Scripts 是一个开源项目，用于修复 Windows ISO 镜像
 | forks | 43/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # OpenNetCN/clash
 
-[![Stars](https://img.shields.io/github/stars/OpenNetCN/clash?style=flat-square&color=yellow)](https://github.com/OpenNetCN/clash/stargazers) [![Forks](https://img.shields.io/github/forks/OpenNetCN/clash?style=flat-square&color=blue)](https://github.com/OpenNetCN/clash/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenNetCN/clash?style=flat-square&color=yellow)](https://github.com/OpenNetCN/clash/stargazers) [![Forks](https://img.shields.io/github/forks/OpenNetCN/clash?style=flat-square&color=blue)](https://github.com/OpenNetCN/clash/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 机场推荐：Clash机场与节点订阅实测，稳定科学上网线路
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ OpenNetCN/clash 提供机场推荐和 Clash 节点订阅的实测报告，帮助
 | forks | 36/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

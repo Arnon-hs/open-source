@@ -1,6 +1,6 @@
 # Chintanpatel24/my-free-agents
 
-[![Stars](https://img.shields.io/github/stars/Chintanpatel24/my-free-agents?style=flat-square&color=yellow)](https://github.com/Chintanpatel24/my-free-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Chintanpatel24/my-free-agents?style=flat-square&color=blue)](https://github.com/Chintanpatel24/my-free-agents/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chintanpatel24/my-free-agents?style=flat-square&color=yellow)](https://github.com/Chintanpatel24/my-free-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Chintanpatel24/my-free-agents?style=flat-square&color=blue)](https://github.com/Chintanpatel24/my-free-agents/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Proxy server, which redirects requests to a custom API to Gaslight coding agens like  Claudecode !!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ Chintanpatel24/my-free-agents 是一个代理服务器，能够将请求转发�
 | forks | 12/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

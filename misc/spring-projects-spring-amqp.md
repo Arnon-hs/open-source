@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 657 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ Spring AMQP 为 Spring 应用提供了对 AMQP（尤其是 RabbitMQ）的完整�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

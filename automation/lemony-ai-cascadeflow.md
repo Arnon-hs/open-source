@@ -1,6 +1,6 @@
 # lemony-ai/cascadeflow
 
-[![Stars](https://img.shields.io/github/stars/lemony-ai/cascadeflow?style=flat-square&color=yellow)](https://github.com/lemony-ai/cascadeflow/stargazers) [![Forks](https://img.shields.io/github/forks/lemony-ai/cascadeflow?style=flat-square&color=blue)](https://github.com/lemony-ai/cascadeflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lemony-ai/cascadeflow?style=flat-square&color=yellow)](https://github.com/lemony-ai/cascadeflow/stargazers) [![Forks](https://img.shields.io/github/forks/lemony-ai/cascadeflow?style=flat-square&color=blue)](https://github.com/lemony-ai/cascadeflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 849 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ lemony-ai/cascadeflow 的价值在于：
 | forks | 73/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 76/100 |
-| production | 86/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

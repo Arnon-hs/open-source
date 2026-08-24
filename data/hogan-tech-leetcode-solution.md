@@ -1,6 +1,6 @@
 # hogan-tech/leetcode-solution
 
-[![Stars](https://img.shields.io/github/stars/hogan-tech/leetcode-solution?style=flat-square&color=yellow)](https://github.com/hogan-tech/leetcode-solution/stargazers) [![Forks](https://img.shields.io/github/forks/hogan-tech/leetcode-solution?style=flat-square&color=blue)](https://github.com/hogan-tech/leetcode-solution/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hogan-tech/leetcode-solution?style=flat-square&color=yellow)](https://github.com/hogan-tech/leetcode-solution/stargazers) [![Forks](https://img.shields.io/github/forks/hogan-tech/leetcode-solution?style=flat-square&color=blue)](https://github.com/hogan-tech/leetcode-solution/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Explore diverse LeetCode solutions in Python, C++, JavaScript, SQL, and TypeScript. Ideal for interview prep, learning, and code practice in multiple programming languages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ The *hogan-tech/leetcode-solution* repository offers a curated collection of Lee
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

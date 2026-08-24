@@ -1,6 +1,6 @@
 # Quantova/Qweb4.js
 
-[![Stars](https://img.shields.io/github/stars/Quantova/Qweb4.js?style=flat-square&color=yellow)](https://github.com/Quantova/Qweb4.js/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Qweb4.js?style=flat-square&color=blue)](https://github.com/Quantova/Qweb4.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quantova/Qweb4.js?style=flat-square&color=yellow)](https://github.com/Quantova/Qweb4.js/stargazers) [![Forks](https://img.shields.io/github/forks/Quantova/Qweb4.js?style=flat-square&color=blue)](https://github.com/Quantova/Qweb4.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Post-quantum Web3 client SDK for the Quantova Layer-1 blockchain. JavaScript/TypeScript, shipped as CommonJS + ESM with type definitions. Falcon/Dilithium/SPHINCS+ signing, the q_* JSON-RPC namespace, QVM contracts (Solidity ABI), QNS .q names, fee/gas oracle, batch requests, real-time event hooks, REST client, and a qweb3-cli.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Quantova/Qweb4.js 可以通过以下方式接入：
 | forks | 56/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

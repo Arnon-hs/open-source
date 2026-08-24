@@ -1,6 +1,6 @@
 # rickiepark/llm-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/rickiepark/llm-from-scratch?style=flat-square&color=yellow)](https://github.com/rickiepark/llm-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rickiepark/llm-from-scratch?style=flat-square&color=blue)](https://github.com/rickiepark/llm-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rickiepark/llm-from-scratch?style=flat-square&color=yellow)](https://github.com/rickiepark/llm-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rickiepark/llm-from-scratch?style=flat-square&color=blue)](https://github.com/rickiepark/llm-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > <밑바닥부터 만들면서 공부하는 LLM>(길벗, 2025)의 코드 저장소
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ To adopt this project, developers should follow these steps:
 | forks | 53/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

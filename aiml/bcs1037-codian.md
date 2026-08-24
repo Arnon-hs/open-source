@@ -1,6 +1,6 @@
 # BCS1037/codian
 
-[![Stars](https://img.shields.io/github/stars/BCS1037/codian?style=flat-square&color=yellow)](https://github.com/BCS1037/codian/stargazers) [![Forks](https://img.shields.io/github/forks/BCS1037/codian?style=flat-square&color=blue)](https://github.com/BCS1037/codian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BCS1037/codian?style=flat-square&color=yellow)](https://github.com/BCS1037/codian/stargazers) [![Forks](https://img.shields.io/github/forks/BCS1037/codian?style=flat-square&color=blue)](https://github.com/BCS1037/codian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Obsidian plugin for local coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ BCS1037/codian 的生产可用性为中等。它适用于以下场景：
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

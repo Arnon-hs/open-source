@@ -1,6 +1,6 @@
 # gemwalletcom/wallet
 
-[![Stars](https://img.shields.io/github/stars/gemwalletcom/wallet?style=flat-square&color=yellow)](https://github.com/gemwalletcom/wallet/stargazers) [![Forks](https://img.shields.io/github/forks/gemwalletcom/wallet?style=flat-square&color=blue)](https://github.com/gemwalletcom/wallet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gemwalletcom/wallet?style=flat-square&color=yellow)](https://github.com/gemwalletcom/wallet/stargazers) [![Forks](https://img.shields.io/github/forks/gemwalletcom/wallet?style=flat-square&color=blue)](https://github.com/gemwalletcom/wallet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Gem Wallet - Open Source iOS and Android Crypto Wallet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend · Mobile
+Crypto · Mobile
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Gem Wallet 的生产可用性为中等（Medium）。虽然它可以用于原型
 | forks | 32/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

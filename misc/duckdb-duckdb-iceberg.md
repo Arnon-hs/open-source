@@ -1,6 +1,6 @@
 # duckdb/duckdb-iceberg
 
-[![Stars](https://img.shields.io/github/stars/duckdb/duckdb-iceberg?style=flat-square&color=yellow)](https://github.com/duckdb/duckdb-iceberg/stargazers) [![Forks](https://img.shields.io/github/forks/duckdb/duckdb-iceberg?style=flat-square&color=blue)](https://github.com/duckdb/duckdb-iceberg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duckdb/duckdb-iceberg?style=flat-square&color=yellow)](https://github.com/duckdb/duckdb-iceberg/stargazers) [![Forks](https://img.shields.io/github/forks/duckdb/duckdb-iceberg?style=flat-square&color=blue)](https://github.com/duckdb/duckdb-iceberg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 420 |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ DuckDB-Iceberg 是一个基于 DuckDB 和 Iceberg 的开源项目，用于数据
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

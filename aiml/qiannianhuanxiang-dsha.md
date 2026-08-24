@@ -1,6 +1,6 @@
 # qiannianhuanxiang/DSHA
 
-[![Stars](https://img.shields.io/github/stars/qiannianhuanxiang/DSHA?style=flat-square&color=yellow)](https://github.com/qiannianhuanxiang/DSHA/stargazers) [![Forks](https://img.shields.io/github/forks/qiannianhuanxiang/DSHA?style=flat-square&color=blue)](https://github.com/qiannianhuanxiang/DSHA/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qiannianhuanxiang/DSHA?style=flat-square&color=yellow)](https://github.com/qiannianhuanxiang/DSHA/stargazers) [![Forks](https://img.shields.io/github/forks/qiannianhuanxiang/DSHA?style=flat-square&color=blue)](https://github.com/qiannianhuanxiang/DSHA/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness 安卓启动器：内置 proot+Ubuntu，免 ROOT 免 Termux 一键运行 deepseek-harness，多源测速/分步安装/WebUI 预览/设备 Shell 桥接
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ qiannianhuanxiang/DSHA：qiannianhuanxiang/DSHA helps add AI capability without 
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

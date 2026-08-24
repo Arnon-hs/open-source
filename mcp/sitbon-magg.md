@@ -1,6 +1,6 @@
 # sitbon/magg
 
-[![Stars](https://img.shields.io/github/stars/sitbon/magg?style=flat-square&color=yellow)](https://github.com/sitbon/magg/stargazers) [![Forks](https://img.shields.io/github/forks/sitbon/magg?style=flat-square&color=blue)](https://github.com/sitbon/magg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sitbon/magg?style=flat-square&color=yellow)](https://github.com/sitbon/magg/stargazers) [![Forks](https://img.shields.io/github/forks/sitbon/magg?style=flat-square&color=blue)](https://github.com/sitbon/magg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Magg: The MCP Aggregator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ sitbon/magg：sitbon/magg helps connect AI assistants to real tools and data thr
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

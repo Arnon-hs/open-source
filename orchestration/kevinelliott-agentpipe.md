@@ -1,6 +1,6 @@
 # kevinelliott/agentpipe
 
-[![Stars](https://img.shields.io/github/stars/kevinelliott/agentpipe?style=flat-square&color=yellow)](https://github.com/kevinelliott/agentpipe/stargazers) [![Forks](https://img.shields.io/github/forks/kevinelliott/agentpipe?style=flat-square&color=blue)](https://github.com/kevinelliott/agentpipe/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kevinelliott/agentpipe?style=flat-square&color=yellow)](https://github.com/kevinelliott/agentpipe/stargazers) [![Forks](https://img.shields.io/github/forks/kevinelliott/agentpipe?style=flat-square&color=blue)](https://github.com/kevinelliott/agentpipe/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI/TUI app that orchestrates multi-agent conversations by enabling different AI CLI tools (Claude Code, Gemini, Qwen, etc.) to communicate in shared rooms.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ kevinelliott/agentpipe 是一款基于 Go 的 CLI/TUI 工具，能够在同一�
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # robinostlund/homeassistant-volkswagencarnet
 
-[![Stars](https://img.shields.io/github/stars/robinostlund/homeassistant-volkswagencarnet?style=flat-square&color=yellow)](https://github.com/robinostlund/homeassistant-volkswagencarnet/stargazers) [![Forks](https://img.shields.io/github/forks/robinostlund/homeassistant-volkswagencarnet?style=flat-square&color=blue)](https://github.com/robinostlund/homeassistant-volkswagencarnet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robinostlund/homeassistant-volkswagencarnet?style=flat-square&color=yellow)](https://github.com/robinostlund/homeassistant-volkswagencarnet/stargazers) [![Forks](https://img.shields.io/github/forks/robinostlund/homeassistant-volkswagencarnet?style=flat-square&color=blue)](https://github.com/robinostlund/homeassistant-volkswagencarnet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Volkswagen Carnet Component for home assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 669 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ robinostlund/homeassistant-volkswagencarnet 是一个用于 Home Assistant 的 V
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

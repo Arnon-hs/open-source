@@ -1,6 +1,6 @@
 # liferay/liferay-portal
 
-[![Stars](https://img.shields.io/github/stars/liferay/liferay-portal?style=flat-square&color=yellow)](https://github.com/liferay/liferay-portal/stargazers) [![Forks](https://img.shields.io/github/forks/liferay/liferay-portal?style=flat-square&color=blue)](https://github.com/liferay/liferay-portal/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liferay/liferay-portal?style=flat-square&color=yellow)](https://github.com/liferay/liferay-portal/stargazers) [![Forks](https://img.shields.io/github/forks/liferay/liferay-portal?style=flat-square&color=blue)](https://github.com/liferay/liferay-portal/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Liferay Portal 的生产可用性为中等。它适用于构建和部署内部�
 | forks | 89/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

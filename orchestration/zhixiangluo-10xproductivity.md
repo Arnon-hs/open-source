@@ -1,6 +1,6 @@
 # ZhixiangLuo/10xProductivity
 
-[![Stars](https://img.shields.io/github/stars/ZhixiangLuo/10xProductivity?style=flat-square&color=yellow)](https://github.com/ZhixiangLuo/10xProductivity/stargazers) [![Forks](https://img.shields.io/github/forks/ZhixiangLuo/10xProductivity?style=flat-square&color=blue)](https://github.com/ZhixiangLuo/10xProductivity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhixiangLuo/10xProductivity?style=flat-square&color=yellow)](https://github.com/ZhixiangLuo/10xProductivity/stargazers) [![Forks](https://img.shields.io/github/forks/ZhixiangLuo/10xProductivity?style=flat-square&color=blue)](https://github.com/ZhixiangLuo/10xProductivity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Personal AI assistant for work inside corporate constraints, built on coding agents and the tools, sessions, and permissions you already have.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ ZhixiangLuo/10xProductivity 是一款面向企业环境的轻量级个人AI助�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

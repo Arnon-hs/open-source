@@ -1,6 +1,6 @@
 # Goldwaterfung/Strata-Studio
 
-[![Stars](https://img.shields.io/github/stars/Goldwaterfung/Strata-Studio?style=flat-square&color=yellow)](https://github.com/Goldwaterfung/Strata-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Goldwaterfung/Strata-Studio?style=flat-square&color=blue)](https://github.com/Goldwaterfung/Strata-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Goldwaterfung/Strata-Studio?style=flat-square&color=yellow)](https://github.com/Goldwaterfung/Strata-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Goldwaterfung/Strata-Studio?style=flat-square&color=blue)](https://github.com/Goldwaterfung/Strata-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Strata Studio is a collaborative human-agent Digital Audio Workstation (DAW) designed to elevate music production. It pairs creative artists with intelligent AI agents, allowing producers, sound designers, and engineers to co-create, mix, edit, and automate music through seamless human-AI partnership alongside classic DAW tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Design · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Strata Studio 的生产可用性为中等（Medium）。它适合用于内部工
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 43/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

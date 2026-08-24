@@ -1,6 +1,6 @@
 # VirtusLab/scala-skill
 
-[![Stars](https://img.shields.io/github/stars/VirtusLab/scala-skill?style=flat-square&color=yellow)](https://github.com/VirtusLab/scala-skill/stargazers) [![Forks](https://img.shields.io/github/forks/VirtusLab/scala-skill?style=flat-square&color=blue)](https://github.com/VirtusLab/scala-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VirtusLab/scala-skill?style=flat-square&color=yellow)](https://github.com/VirtusLab/scala-skill/stargazers) [![Forks](https://img.shields.io/github/forks/VirtusLab/scala-skill?style=flat-square&color=blue)](https://github.com/VirtusLab/scala-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code & Codex Scala Skills: generate direct-style applications with use-case driven guides
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ VirtusLab/scala-skill 的生产可用性为中等（Medium）。它适用于以�
 | forks | 15/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

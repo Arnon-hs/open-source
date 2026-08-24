@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 171.1k |
+| ⭐ **Stars** | 171.2k |
 | 🍴 **Forks** | 20.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 70/100 |
@@ -53,8 +53,8 @@ anthropics/skills：anthropics/skills helps turn isolated prompts and tools into
 
 **Quality signals**
 
-- 171135 GitHub stars
-- 20334 forks
+- 171190 GitHub stars
+- 20342 forks
 - updated 2026-08-23
 - primary language: Python
 - 1 topics
@@ -65,17 +65,16 @@ anthropics/skills：anthropics/skills helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 82/100 |
-| integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
-| adoption | 100/100 |
-| categoryMatchCount | 200/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| stars | 100/100 |
 | topics | 13/100 |
+| outlook | 80/100 |
+| quality | 82/100 |
+| recency | 100/100 |
+| adoption | 100/100 |
+| production | 74/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
 
 ---

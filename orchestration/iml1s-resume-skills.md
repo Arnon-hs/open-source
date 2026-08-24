@@ -1,6 +1,6 @@
 # ImL1s/resume-skills
 
-[![Stars](https://img.shields.io/github/stars/ImL1s/resume-skills?style=flat-square&color=yellow)](https://github.com/ImL1s/resume-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ImL1s/resume-skills?style=flat-square&color=blue)](https://github.com/ImL1s/resume-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ImL1s/resume-skills?style=flat-square&color=yellow)](https://github.com/ImL1s/resume-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ImL1s/resume-skills?style=flat-square&color=blue)](https://github.com/ImL1s/resume-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Offline, local-only context migration skills across 9 coding-agent sources × 9 destination hosts (registry-derived 81 cells). Stdlib-only; inert handoff for fresh sessions, not live restore.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ ImL1s/resume-skills 帮助将孤立的提示和工具转换为可重复的代理
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

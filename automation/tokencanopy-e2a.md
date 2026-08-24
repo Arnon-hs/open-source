@@ -1,6 +1,6 @@
 # tokencanopy/e2a
 
-[![Stars](https://img.shields.io/github/stars/tokencanopy/e2a?style=flat-square&color=yellow)](https://github.com/tokencanopy/e2a/stargazers) [![Forks](https://img.shields.io/github/forks/tokencanopy/e2a?style=flat-square&color=blue)](https://github.com/tokencanopy/e2a/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tokencanopy/e2a?style=flat-square&color=yellow)](https://github.com/tokencanopy/e2a/stargazers) [![Forks](https://img.shields.io/github/forks/tokencanopy/e2a?style=flat-square&color=blue)](https://github.com/tokencanopy/e2a/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Authenticated email gateway for AI agents — SPF/DKIM verified inbound, HMAC-signed delivery, webhook + WebSocket fan-out, CLI + SDKs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools · Security
+Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ tokencanopy/e2a 的生产可用性较高，主要语言是 Go，GitHub 上有 17
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

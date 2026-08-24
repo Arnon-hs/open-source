@@ -1,6 +1,6 @@
 # privatenumber/mac-ocr
 
-[![Stars](https://img.shields.io/github/stars/privatenumber/mac-ocr?style=flat-square&color=yellow)](https://github.com/privatenumber/mac-ocr/stargazers) [![Forks](https://img.shields.io/github/forks/privatenumber/mac-ocr?style=flat-square&color=blue)](https://github.com/privatenumber/mac-ocr/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/privatenumber/mac-ocr?style=flat-square&color=yellow)](https://github.com/privatenumber/mac-ocr/stargazers) [![Forks](https://img.shields.io/github/forks/privatenumber/mac-ocr?style=flat-square&color=blue)](https://github.com/privatenumber/mac-ocr/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > macOS CLI for OCR and searchable PDFs using Apple's Vision framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ privatenumber/mac-ocr 是一款基于 Apple Vision 框架的 macOS 命令行工�
 | forks | 33/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

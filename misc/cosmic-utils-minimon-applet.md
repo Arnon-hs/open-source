@@ -1,6 +1,6 @@
 # cosmic-utils/minimon-applet
 
-[![Stars](https://img.shields.io/github/stars/cosmic-utils/minimon-applet?style=flat-square&color=yellow)](https://github.com/cosmic-utils/minimon-applet/stargazers) [![Forks](https://img.shields.io/github/forks/cosmic-utils/minimon-applet?style=flat-square&color=blue)](https://github.com/cosmic-utils/minimon-applet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmic-utils/minimon-applet?style=flat-square&color=yellow)](https://github.com/cosmic-utils/minimon-applet/stargazers) [![Forks](https://img.shields.io/github/forks/cosmic-utils/minimon-applet?style=flat-square&color=blue)](https://github.com/cosmic-utils/minimon-applet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock..
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ cosmic‑utils/minimon‑applet 是一款基于 Rust 的 COSMIC 面板/停靠栏
 | forks | 34/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

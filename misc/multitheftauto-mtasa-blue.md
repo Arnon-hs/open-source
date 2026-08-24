@@ -1,6 +1,6 @@
 # multitheftauto/mtasa-blue
 
-[![Stars](https://img.shields.io/github/stars/multitheftauto/mtasa-blue?style=flat-square&color=yellow)](https://github.com/multitheftauto/mtasa-blue/stargazers) [![Forks](https://img.shields.io/github/forks/multitheftauto/mtasa-blue?style=flat-square&color=blue)](https://github.com/multitheftauto/mtasa-blue/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multitheftauto/mtasa-blue?style=flat-square&color=yellow)](https://github.com/multitheftauto/mtasa-blue/stargazers) [![Forks](https://img.shields.io/github/forks/multitheftauto/mtasa-blue?style=flat-square&color=blue)](https://github.com/multitheftauto/mtasa-blue/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Multi Theft Auto is a game engine that turns Grand Theft Auto: San Andreas into networked multiplayer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 567 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Multi Theft Auto的生产可用性是比较高的。项目有活跃的社区，�
 | forks | 69/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

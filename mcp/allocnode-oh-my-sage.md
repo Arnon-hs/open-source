@@ -1,6 +1,6 @@
 # allocnode/oh-my-sage
 
-[![Stars](https://img.shields.io/github/stars/allocnode/oh-my-sage?style=flat-square&color=yellow)](https://github.com/allocnode/oh-my-sage/stargazers) [![Forks](https://img.shields.io/github/forks/allocnode/oh-my-sage?style=flat-square&color=blue)](https://github.com/allocnode/oh-my-sage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allocnode/oh-my-sage?style=flat-square&color=yellow)](https://github.com/allocnode/oh-my-sage/stargazers) [![Forks](https://img.shields.io/github/forks/allocnode/oh-my-sage?style=flat-square&color=blue)](https://github.com/allocnode/oh-my-sage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🛠️ 米家自动化极客版 AI Agent (SKILL & MCP)- 用自然语言创建复杂自动化规则
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ allocnode/oh-my-sage 在生产环境中可用，但需要进行依赖和维护�
 | forks | 29/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

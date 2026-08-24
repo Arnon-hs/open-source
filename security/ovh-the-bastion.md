@@ -1,6 +1,6 @@
 # ovh/the-bastion
 
-[![Stars](https://img.shields.io/github/stars/ovh/the-bastion?style=flat-square&color=yellow)](https://github.com/ovh/the-bastion/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/the-bastion?style=flat-square&color=blue)](https://github.com/ovh/the-bastion/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovh/the-bastion?style=flat-square&color=yellow)](https://github.com/ovh/the-bastion/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/the-bastion?style=flat-square&color=blue)](https://github.com/ovh/the-bastion/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Authentication, authorization, traceability and auditability for SSH accesses.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ ovh/the‑bastion 是一款基于 Perl 的 SSH 网关，提供完整的身份�
 | forks | 53/100 |
 | stars | 71/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

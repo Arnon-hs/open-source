@@ -1,6 +1,6 @@
 # BradPerbs/cloudterm
 
-[![Stars](https://img.shields.io/github/stars/BradPerbs/cloudterm?style=flat-square&color=yellow)](https://github.com/BradPerbs/cloudterm/stargazers) [![Forks](https://img.shields.io/github/forks/BradPerbs/cloudterm?style=flat-square&color=blue)](https://github.com/BradPerbs/cloudterm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BradPerbs/cloudterm?style=flat-square&color=yellow)](https://github.com/BradPerbs/cloudterm/stargazers) [![Forks](https://img.shields.io/github/forks/BradPerbs/cloudterm?style=flat-square&color=blue)](https://github.com/BradPerbs/cloudterm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AI powered SSH, SFTP, telnet and Windows RDP in a single window, with integrations for Claude Code, Codex and OpenCode agent that reads and execute commands in the session in front of you. Free and open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Marketing
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ BradPerbs/cloudterm 是一个开源项目，提供了一个集成 AI 能力的 S
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

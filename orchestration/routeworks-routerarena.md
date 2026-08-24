@@ -1,6 +1,6 @@
 # RouteWorks/RouterArena
 
-[![Stars](https://img.shields.io/github/stars/RouteWorks/RouterArena?style=flat-square&color=yellow)](https://github.com/RouteWorks/RouterArena/stargazers) [![Forks](https://img.shields.io/github/forks/RouteWorks/RouterArena?style=flat-square&color=blue)](https://github.com/RouteWorks/RouterArena/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RouteWorks/RouterArena?style=flat-square&color=yellow)](https://github.com/RouteWorks/RouterArena/stargazers) [![Forks](https://img.shields.io/github/forks/RouteWorks/RouterArena?style=flat-square&color=blue)](https://github.com/RouteWorks/RouterArena/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > RouterArena: An open framework for evaluating LLM routers with standardized datasets, metrics, an automated framework, and a live leaderboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Observability
+Orchestration · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ RouterArena 是 RouteWorks 开源的评估框架，提供统一的数据集、�
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

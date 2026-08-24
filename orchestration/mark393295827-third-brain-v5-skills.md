@@ -1,6 +1,6 @@
 # Mark393295827/third-brain-v5-skills
 
-[![Stars](https://img.shields.io/github/stars/Mark393295827/third-brain-v5-skills?style=flat-square&color=yellow)](https://github.com/Mark393295827/third-brain-v5-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Mark393295827/third-brain-v5-skills?style=flat-square&color=blue)](https://github.com/Mark393295827/third-brain-v5-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mark393295827/third-brain-v5-skills?style=flat-square&color=yellow)](https://github.com/Mark393295827/third-brain-v5-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Mark393295827/third-brain-v5-skills?style=flat-square&color=blue)](https://github.com/Mark393295827/third-brain-v5-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > agent skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Mark393295827/third‑brain‑v5‑skills 是一套面向大语言模型的「ag
 | forks | 32/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

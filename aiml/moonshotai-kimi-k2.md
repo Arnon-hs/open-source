@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -86,6 +86,7 @@ MoonshotAI/Kimi-K2是一个开源AI项目，帮助开发者快速添加AI能力�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

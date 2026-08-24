@@ -1,6 +1,6 @@
 # gmpy2/gmpy2
 
-[![Stars](https://img.shields.io/github/stars/gmpy2/gmpy2?style=flat-square&color=yellow)](https://github.com/gmpy2/gmpy2/stargazers) [![Forks](https://img.shields.io/github/forks/gmpy2/gmpy2?style=flat-square&color=blue)](https://github.com/gmpy2/gmpy2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gmpy2/gmpy2?style=flat-square&color=yellow)](https://github.com/gmpy2/gmpy2/stargazers) [![Forks](https://img.shields.io/github/forks/gmpy2/gmpy2?style=flat-square&color=blue)](https://github.com/gmpy2/gmpy2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > General Multi-Precision arithmetic for Python (GMP, MPIR, MPFR, MPC)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 598 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ gmpy2/gmpy2 提供了基于 GMP、MPIR、MPFR、MPC 的高精度算术运算，�
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

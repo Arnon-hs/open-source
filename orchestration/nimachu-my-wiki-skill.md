@@ -1,6 +1,6 @@
 # NimaChu/my-wiki-skill
 
-[![Stars](https://img.shields.io/github/stars/NimaChu/my-wiki-skill?style=flat-square&color=yellow)](https://github.com/NimaChu/my-wiki-skill/stargazers) [![Forks](https://img.shields.io/github/forks/NimaChu/my-wiki-skill?style=flat-square&color=blue)](https://github.com/NimaChu/my-wiki-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NimaChu/my-wiki-skill?style=flat-square&color=yellow)](https://github.com/NimaChu/my-wiki-skill/stargazers) [![Forks](https://img.shields.io/github/forks/NimaChu/my-wiki-skill?style=flat-square&color=blue)](https://github.com/NimaChu/my-wiki-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skill for building evidence-backed Markdown knowledge bases with zero-cost setup, image-aware capture, automatic wiki maintenance, and an interactive knowledge graph—without requiring a RAG stack or Obsidian.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ NimaChu/my-wiki-skill 的生产可用性为 中等。它适合用于原型或内
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

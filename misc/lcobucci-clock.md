@@ -1,6 +1,6 @@
 # lcobucci/clock
 
-[![Stars](https://img.shields.io/github/stars/lcobucci/clock?style=flat-square&color=yellow)](https://github.com/lcobucci/clock/stargazers) [![Forks](https://img.shields.io/github/forks/lcobucci/clock?style=flat-square&color=blue)](https://github.com/lcobucci/clock/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lcobucci/clock?style=flat-square&color=yellow)](https://github.com/lcobucci/clock/stargazers) [![Forks](https://img.shields.io/github/forks/lcobucci/clock?style=flat-square&color=blue)](https://github.com/lcobucci/clock/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another clock abstraction
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 800 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ lcobucci/clock：lcobucci/clock may be useful when its README and activity match
 | forks | 38/100 |
 | stars | 62/100 |
 | topics | 13/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

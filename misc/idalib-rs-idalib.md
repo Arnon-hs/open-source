@@ -1,6 +1,6 @@
 # idalib-rs/idalib
 
-[![Stars](https://img.shields.io/github/stars/idalib-rs/idalib?style=flat-square&color=yellow)](https://github.com/idalib-rs/idalib/stargazers) [![Forks](https://img.shields.io/github/forks/idalib-rs/idalib?style=flat-square&color=blue)](https://github.com/idalib-rs/idalib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idalib-rs/idalib?style=flat-square&color=yellow)](https://github.com/idalib-rs/idalib/stargazers) [![Forks](https://img.shields.io/github/forks/idalib-rs/idalib?style=flat-square&color=blue)](https://github.com/idalib-rs/idalib/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.x’s idalib
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ idalib-rs/idalib 是一个开源项目，提供了 Rust 语言的 IDA SDK 绑定
 | forks | 39/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

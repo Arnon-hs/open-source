@@ -1,6 +1,6 @@
 # Ivy-Interactive/Ivy-Tendril
 
-[![Stars](https://img.shields.io/github/stars/Ivy-Interactive/Ivy-Tendril?style=flat-square&color=yellow)](https://github.com/Ivy-Interactive/Ivy-Tendril/stargazers) [![Forks](https://img.shields.io/github/forks/Ivy-Interactive/Ivy-Tendril?style=flat-square&color=blue)](https://github.com/Ivy-Interactive/Ivy-Tendril/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ivy-Interactive/Ivy-Tendril?style=flat-square&color=yellow)](https://github.com/Ivy-Interactive/Ivy-Tendril/stargazers) [![Forks](https://img.shields.io/github/forks/Ivy-Interactive/Ivy-Tendril?style=flat-square&color=blue)](https://github.com/Ivy-Interactive/Ivy-Tendril/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Agent agnostic coding orchestration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Ivy-Tendril 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 24/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

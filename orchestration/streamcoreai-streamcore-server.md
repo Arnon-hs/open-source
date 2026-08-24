@@ -1,6 +1,6 @@
 # streamcoreai/streamcore-server
 
-[![Stars](https://img.shields.io/github/stars/streamcoreai/streamcore-server?style=flat-square&color=yellow)](https://github.com/streamcoreai/streamcore-server/stargazers) [![Forks](https://img.shields.io/github/forks/streamcoreai/streamcore-server?style=flat-square&color=blue)](https://github.com/streamcoreai/streamcore-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streamcoreai/streamcore-server?style=flat-square&color=yellow)](https://github.com/streamcoreai/streamcore-server/stargazers) [![Forks](https://img.shields.io/github/forks/streamcoreai/streamcore-server?style=flat-square&color=blue)](https://github.com/streamcoreai/streamcore-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin system, multi-language SDKs, SIP telephony, ESP32 support & fully local mode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Streamcore-server 的生产可用性较高，主要是因为其最近的活动�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

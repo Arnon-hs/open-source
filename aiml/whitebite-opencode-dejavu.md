@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,55 +27,50 @@ AI/ML · DevTools
 
 ### English
 
-WhiteBite/opencode-dejavu: WhiteBite/opencode-dejavu helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+WhiteBite/opencode-dejavu: . Use it for AI/ML, DevTools. 
 
 ### Русский
 
-WhiteBite/opencode-dejavu: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+WhiteBite/opencode-dejavu: open-source проект в категориях AI/ML, DevTools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-WhiteBite/opencode-dejavu：WhiteBite/opencode-dejavu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+WhiteBite/opencode-dejavu：。适合用于AI/ML、DevTools。
 
 ## 🧭 Practical evaluation
 
-**Value:** WhiteBite/opencode-dejavu helps add AI capability without starting from a blank model stack.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1 GitHub stars
-- updated 2026-08-23
-- primary language: TypeScript
-- 10 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 68/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 53/100 |
+| recency | 100/100 |
+| adoption | 5/100 |
+| production | 66/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

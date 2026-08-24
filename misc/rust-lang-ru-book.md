@@ -1,6 +1,6 @@
 # rust-lang-ru/book
 
-[![Stars](https://img.shields.io/github/stars/rust-lang-ru/book?style=flat-square&color=yellow)](https://github.com/rust-lang-ru/book/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang-ru/book?style=flat-square&color=blue)](https://github.com/rust-lang-ru/book/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang-ru/book?style=flat-square&color=yellow)](https://github.com/rust-lang-ru/book/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang-ru/book?style=flat-square&color=blue)](https://github.com/rust-lang-ru/book/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Rust 语言教程（rust-lang-ru/book）是 Rust 语言的开源教程项目，�
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # headlesshq/headlessmc
 
-[![Stars](https://img.shields.io/github/stars/headlesshq/headlessmc?style=flat-square&color=yellow)](https://github.com/headlesshq/headlessmc/stargazers) [![Forks](https://img.shields.io/github/forks/headlesshq/headlessmc?style=flat-square&color=blue)](https://github.com/headlesshq/headlessmc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/headlesshq/headlessmc?style=flat-square&color=yellow)](https://github.com/headlesshq/headlessmc/stargazers) [![Forks](https://img.shields.io/github/forks/headlesshq/headlessmc?style=flat-square&color=blue)](https://github.com/headlesshq/headlessmc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Minecraft on the command line
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ headlesshq/headlessmc 是一个在命令行下运行 Minecraft 的开源工具�
 | forks | 41/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

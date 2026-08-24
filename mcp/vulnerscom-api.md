@@ -1,6 +1,6 @@
 # vulnersCom/api
 
-[![Stars](https://img.shields.io/github/stars/vulnersCom/api?style=flat-square&color=yellow)](https://github.com/vulnersCom/api/stargazers) [![Forks](https://img.shields.io/github/forks/vulnersCom/api?style=flat-square&color=blue)](https://github.com/vulnersCom/api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vulnersCom/api?style=flat-square&color=yellow)](https://github.com/vulnersCom/api/stargazers) [![Forks](https://img.shields.io/github/forks/vulnersCom/api?style=flat-square&color=blue)](https://github.com/vulnersCom/api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Official Python SDK for the Vulners vulnerability-intelligence API — search CVEs, exploits and advisories (CVSS/EPSS/KEV), audit software, Linux/Windows hosts and SBOMs, and stream the whole graph. Typed sync + async clients, 100% v3-compatible, with a built-in MCP server for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend · Database · Security
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ vulnersCom/api 是一个开源项目，提供了一个 Python SDK，用于连接
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

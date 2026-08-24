@@ -1,6 +1,6 @@
 # rust-lang/reference
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/reference?style=flat-square&color=yellow)](https://github.com/rust-lang/reference/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/reference?style=flat-square&color=blue)](https://github.com/rust-lang/reference/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/reference?style=flat-square&color=yellow)](https://github.com/rust-lang/reference/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/reference?style=flat-square&color=blue)](https://github.com/rust-lang/reference/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust Reference
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 600 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Rust Reference的生产可用性为中等，适合用于Prototypes或内部工�
 | forks | 69/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

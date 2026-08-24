@@ -1,6 +1,6 @@
 # qifan777/dive-into-spring-ai
 
-[![Stars](https://img.shields.io/github/stars/qifan777/dive-into-spring-ai?style=flat-square&color=yellow)](https://github.com/qifan777/dive-into-spring-ai/stargazers) [![Forks](https://img.shields.io/github/forks/qifan777/dive-into-spring-ai?style=flat-square&color=blue)](https://github.com/qifan777/dive-into-spring-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qifan777/dive-into-spring-ai?style=flat-square&color=yellow)](https://github.com/qifan777/dive-into-spring-ai/stargazers) [![Forks](https://img.shields.io/github/forks/qifan777/dive-into-spring-ai?style=flat-square&color=blue)](https://github.com/qifan777/dive-into-spring-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 《动手学SpringAI》包含SSE流/Agent智能体/知识图谱RAG/FunctionCall/历史消息/图片生成/图片理解/Embedding/VectorDatabase/RAG
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Knowledge/RAG · AI/ML · Data · Database
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # simonomi/hexapoda
 
-[![Stars](https://img.shields.io/github/stars/simonomi/hexapoda?style=flat-square&color=yellow)](https://github.com/simonomi/hexapoda/stargazers) [![Forks](https://img.shields.io/github/forks/simonomi/hexapoda?style=flat-square&color=blue)](https://github.com/simonomi/hexapoda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonomi/hexapoda?style=flat-square&color=yellow)](https://github.com/simonomi/hexapoda/stargazers) [![Forks](https://img.shields.io/github/forks/simonomi/hexapoda?style=flat-square&color=blue)](https://github.com/simonomi/hexapoda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > a colorful modal hex editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ simonomi/hexapoda 在生产环境中使用时需要注意以下几点：
 | forks | 0/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

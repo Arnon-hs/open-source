@@ -1,6 +1,6 @@
 # Xpra-org/xpra
 
-[![Stars](https://img.shields.io/github/stars/Xpra-org/xpra?style=flat-square&color=yellow)](https://github.com/Xpra-org/xpra/stargazers) [![Forks](https://img.shields.io/github/forks/Xpra-org/xpra?style=flat-square&color=blue)](https://github.com/Xpra-org/xpra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xpra-org/xpra?style=flat-square&color=yellow)](https://github.com/Xpra-org/xpra/stargazers) [![Forks](https://img.shields.io/github/forks/Xpra-org/xpra?style=flat-square&color=blue)](https://github.com/Xpra-org/xpra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Xpra-org/xpra 的生产可用性较高，因为它有：
 | forks | 59/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

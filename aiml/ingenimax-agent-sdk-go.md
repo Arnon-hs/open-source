@@ -1,6 +1,6 @@
 # Ingenimax/agent-sdk-go
 
-[![Stars](https://img.shields.io/github/stars/Ingenimax/agent-sdk-go?style=flat-square&color=yellow)](https://github.com/Ingenimax/agent-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/Ingenimax/agent-sdk-go?style=flat-square&color=blue)](https://github.com/Ingenimax/agent-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ingenimax/agent-sdk-go?style=flat-square&color=yellow)](https://github.com/Ingenimax/agent-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/Ingenimax/agent-sdk-go?style=flat-square&color=blue)](https://github.com/Ingenimax/agent-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Go framework for building production-ready AI agents!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Ingenimax/agent-sdk-go：Ingenimax/agent-sdk-go helps add AI capability without 
 | forks | 53/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 82/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

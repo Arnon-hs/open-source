@@ -1,6 +1,6 @@
 # CraftCanvasMC/Canvas
 
-[![Stars](https://img.shields.io/github/stars/CraftCanvasMC/Canvas?style=flat-square&color=yellow)](https://github.com/CraftCanvasMC/Canvas/stargazers) [![Forks](https://img.shields.io/github/forks/CraftCanvasMC/Canvas?style=flat-square&color=blue)](https://github.com/CraftCanvasMC/Canvas/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CraftCanvasMC/Canvas?style=flat-square&color=yellow)](https://github.com/CraftCanvasMC/Canvas/stargazers) [![Forks](https://img.shields.io/github/forks/CraftCanvasMC/Canvas?style=flat-square&color=blue)](https://github.com/CraftCanvasMC/Canvas/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > CanvasMC is a fork of the Folia Minecraft server software that fixes gameplay inconsistencies, bugs, and introduces further performance enhancements to the dedicated server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ CraftCanvasMC/Canvas 的生产可用性为中等，适合用于原型或内部�
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

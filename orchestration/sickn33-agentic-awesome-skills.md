@@ -1,6 +1,6 @@
 # sickn33/agentic-awesome-skills
 
-[![Stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square&color=yellow)](https://github.com/sickn33/agentic-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sickn33/agentic-awesome-skills?style=flat-square&color=blue)](https://github.com/sickn33/agentic-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square&color=yellow)](https://github.com/sickn33/agentic-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sickn33/agentic-awesome-skills?style=flat-square&color=blue)](https://github.com/sickn33/agentic-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42.6k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ sickn33/agentic-awesome-skills 帮助将孤立的提示和工具转变为可重�
 | forks | 96/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 99/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 40/100 |
 | adoption | 98/100 |
-| production | 90/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

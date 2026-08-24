@@ -1,6 +1,6 @@
 # nager/Nager.Date
 
-[![Stars](https://img.shields.io/github/stars/nager/Nager.Date?style=flat-square&color=yellow)](https://github.com/nager/Nager.Date/stargazers) [![Forks](https://img.shields.io/github/forks/nager/Nager.Date?style=flat-square&color=blue)](https://github.com/nager/Nager.Date/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nager/Nager.Date?style=flat-square&color=yellow)](https://github.com/nager/Nager.Date/stargazers) [![Forks](https://img.shields.io/github/forks/nager/Nager.Date?style=flat-square&color=blue)](https://github.com/nager/Nager.Date/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Easily access public holidays for 150+ countries via .NET, REST API, Docker, or NuGet for online and offline use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ Nager.Date 是一个开源库，提供 150+ 国家/地区的公共假期数据�
 | forks | 58/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

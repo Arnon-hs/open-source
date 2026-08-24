@@ -1,6 +1,6 @@
 # cosmos/ibc
 
-[![Stars](https://img.shields.io/github/stars/cosmos/ibc?style=flat-square&color=yellow)](https://github.com/cosmos/ibc/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/ibc?style=flat-square&color=blue)](https://github.com/cosmos/ibc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmos/ibc?style=flat-square&color=yellow)](https://github.com/cosmos/ibc/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/ibc?style=flat-square&color=blue)](https://github.com/cosmos/ibc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 456 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Cosmos/IBC 的生产可用性较高，理由如下：
 | forks | 66/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

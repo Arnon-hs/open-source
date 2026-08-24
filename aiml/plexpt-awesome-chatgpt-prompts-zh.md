@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -115,6 +115,7 @@ PlexPt/awesome-chatgpt-prompts-zh 是一个开源项目，列入 awesome-llm 列
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

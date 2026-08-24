@@ -1,6 +1,6 @@
 # Lvcky-gg/Gjallarhorn
 
-[![Stars](https://img.shields.io/github/stars/Lvcky-gg/Gjallarhorn?style=flat-square&color=yellow)](https://github.com/Lvcky-gg/Gjallarhorn/stargazers) [![Forks](https://img.shields.io/github/forks/Lvcky-gg/Gjallarhorn?style=flat-square&color=blue)](https://github.com/Lvcky-gg/Gjallarhorn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lvcky-gg/Gjallarhorn?style=flat-square&color=yellow)](https://github.com/Lvcky-gg/Gjallarhorn/stargazers) [![Forks](https://img.shields.io/github/forks/Lvcky-gg/Gjallarhorn?style=flat-square&color=blue)](https://github.com/Lvcky-gg/Gjallarhorn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: A simple web framework for odin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 34/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -148,14 +148,15 @@ A simple web framework for Odin 是一个用 Odin 语言编写的极简 Web 框�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 55/100 |
-| quality | 37/100 |
-| recency | 100/100 |
+| outlook | 34/100 |
+| quality | 22/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 36/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

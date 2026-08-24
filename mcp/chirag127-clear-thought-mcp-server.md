@@ -1,6 +1,6 @@
 # chirag127/Clear-Thought-MCP-server
 
-[![Stars](https://img.shields.io/github/stars/chirag127/Clear-Thought-MCP-server?style=flat-square&color=yellow)](https://github.com/chirag127/Clear-Thought-MCP-server/stargazers) [![Forks](https://img.shields.io/github/forks/chirag127/Clear-Thought-MCP-server?style=flat-square&color=blue)](https://github.com/chirag127/Clear-Thought-MCP-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chirag127/Clear-Thought-MCP-server?style=flat-square&color=yellow)](https://github.com/chirag127/Clear-Thought-MCP-server/stargazers) [![Forks](https://img.shields.io/github/forks/chirag127/Clear-Thought-MCP-server?style=flat-square&color=blue)](https://github.com/chirag127/Clear-Thought-MCP-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server providing systematic thinking, mental models, and debugging approaches for enhanced LLM problem-solving
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Clear-Thought-MCP-server 是一个开源项目，提供系统思维、心理模�
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

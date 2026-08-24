@@ -1,6 +1,6 @@
 # jinqians/snell.sh
 
-[![Stars](https://img.shields.io/github/stars/jinqians/snell.sh?style=flat-square&color=yellow)](https://github.com/jinqians/snell.sh/stargazers) [![Forks](https://img.shields.io/github/forks/jinqians/snell.sh?style=flat-square&color=blue)](https://github.com/jinqians/snell.sh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jinqians/snell.sh?style=flat-square&color=yellow)](https://github.com/jinqians/snell.sh/stargazers) [![Forks](https://img.shields.io/github/forks/jinqians/snell.sh?style=flat-square&color=blue)](https://github.com/jinqians/snell.sh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > SNELL V4/SNELL V5/SNELL V6 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 699 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ jinqians/snell.sh 是一个开源项目，提供一键安装脚本来快速部�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

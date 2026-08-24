@@ -1,6 +1,6 @@
 # aspectron/kaspa-ng
 
-[![Stars](https://img.shields.io/github/stars/aspectron/kaspa-ng?style=flat-square&color=yellow)](https://github.com/aspectron/kaspa-ng/stargazers) [![Forks](https://img.shields.io/github/forks/aspectron/kaspa-ng?style=flat-square&color=blue)](https://github.com/aspectron/kaspa-ng/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aspectron/kaspa-ng?style=flat-square&color=yellow)](https://github.com/aspectron/kaspa-ng/stargazers) [![Forks](https://img.shields.io/github/forks/aspectron/kaspa-ng?style=flat-square&color=blue)](https://github.com/aspectron/kaspa-ng/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Kaspa p2p desktop node, wallet and BlockDAG visualizer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ aspectron/kaspa‑ng 为 Kaspa 区块链提供了完整的 P2P 桌面节点、�
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

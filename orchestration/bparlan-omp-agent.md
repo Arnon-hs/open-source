@@ -1,6 +1,6 @@
 # bparlan/omp-agent
 
-[![Stars](https://img.shields.io/github/stars/bparlan/omp-agent?style=flat-square&color=yellow)](https://github.com/bparlan/omp-agent/stargazers) [![Forks](https://img.shields.io/github/forks/bparlan/omp-agent?style=flat-square&color=blue)](https://github.com/bparlan/omp-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bparlan/omp-agent?style=flat-square&color=yellow)](https://github.com/bparlan/omp-agent/stargazers) [![Forks](https://img.shields.io/github/forks/bparlan/omp-agent?style=flat-square&color=blue)](https://github.com/bparlan/omp-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > OhMyPi (OMP) Agent Framework Spec-Driven Development infrastructure for Oh My Pi. Skills transform artifacts through a deterministic engineering workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Database · DevOps/Infra
+Orchestration · Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ bparlan/omp‑agent 能够帮助团队把散落的 Prompt 与工具快速组织�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

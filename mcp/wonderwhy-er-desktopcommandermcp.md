@@ -1,6 +1,6 @@
 # wonderwhy-er/DesktopCommanderMCP
 
-[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Wonderwhy-er/DesktopCommanderMCP 的生产可用性非常高，具有以下特�
 | forks | 76/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 82/100 |
-| production | 85/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

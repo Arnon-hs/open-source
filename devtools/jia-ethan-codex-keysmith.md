@@ -1,6 +1,6 @@
 # Jia-Ethan/codex-keysmith
 
-[![Stars](https://img.shields.io/github/stars/Jia-Ethan/codex-keysmith?style=flat-square&color=yellow)](https://github.com/Jia-Ethan/codex-keysmith/stargazers) [![Forks](https://img.shields.io/github/forks/Jia-Ethan/codex-keysmith?style=flat-square&color=blue)](https://github.com/Jia-Ethan/codex-keysmith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jia-Ethan/codex-keysmith?style=flat-square&color=yellow)](https://github.com/Jia-Ethan/codex-keysmith/stargazers) [![Forks](https://img.shields.io/github/forks/Jia-Ethan/codex-keysmith?style=flat-square&color=blue)](https://github.com/Jia-Ethan/codex-keysmith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 571 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Jia-Ethan/codex-keysmith 的价值在于：
 | forks | 49/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # PlakarKorp/plakar
 
-[![Stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=flat-square&color=yellow)](https://github.com/PlakarKorp/plakar/stargazers) [![Forks](https://img.shields.io/github/forks/PlakarKorp/plakar?style=flat-square&color=blue)](https://github.com/PlakarKorp/plakar/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=flat-square&color=yellow)](https://github.com/PlakarKorp/plakar/stargazers) [![Forks](https://img.shields.io/github/forks/PlakarKorp/plakar?style=flat-square&color=blue)](https://github.com/PlakarKorp/plakar/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > plakar is a backup solution powered by Kloset and ptar
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Plakar 以轻量的 Go 实现和灵活的存储抽象，为需要快速、可编
 | forks | 47/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

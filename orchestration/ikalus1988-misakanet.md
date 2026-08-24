@@ -1,6 +1,6 @@
 # Ikalus1988/MisakaNet
 
-[![Stars](https://img.shields.io/github/stars/Ikalus1988/MisakaNet?style=flat-square&color=yellow)](https://github.com/Ikalus1988/MisakaNet/stargazers) [![Forks](https://img.shields.io/github/forks/Ikalus1988/MisakaNet?style=flat-square&color=blue)](https://github.com/Ikalus1988/MisakaNet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ikalus1988/MisakaNet?style=flat-square&color=yellow)](https://github.com/Ikalus1988/MisakaNet/stargazers) [![Forks](https://img.shields.io/github/forks/Ikalus1988/MisakaNet?style=flat-square&color=blue)](https://github.com/Ikalus1988/MisakaNet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Ikalus1988/MisakaNet 是一个零依赖、基于 Git 的微课库，专为 AI Ag
 | forks | 42/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

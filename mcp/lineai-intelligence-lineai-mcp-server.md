@@ -1,6 +1,6 @@
 # lineai-intelligence/lineai-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/lineai-intelligence/lineai-mcp-server?style=flat-square&color=yellow)](https://github.com/lineai-intelligence/lineai-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/lineai-intelligence/lineai-mcp-server?style=flat-square&color=blue)](https://github.com/lineai-intelligence/lineai-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lineai-intelligence/lineai-mcp-server?style=flat-square&color=yellow)](https://github.com/lineai-intelligence/lineai-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/lineai-intelligence/lineai-mcp-server?style=flat-square&color=blue)](https://github.com/lineai-intelligence/lineai-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP Server to utilize Lineai's rich software dependency data in your AI programming assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Lineai-MCP-Server 的生产可用性为中等。它适合用于原型或内部�
 | forks | 30/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

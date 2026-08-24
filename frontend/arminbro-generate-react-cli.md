@@ -1,6 +1,6 @@
 # arminbro/generate-react-cli
 
-[![Stars](https://img.shields.io/github/stars/arminbro/generate-react-cli?style=flat-square&color=yellow)](https://github.com/arminbro/generate-react-cli/stargazers) [![Forks](https://img.shields.io/github/forks/arminbro/generate-react-cli?style=flat-square&color=blue)](https://github.com/arminbro/generate-react-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arminbro/generate-react-cli?style=flat-square&color=yellow)](https://github.com/arminbro/generate-react-cli/stargazers) [![Forks](https://img.shields.io/github/forks/arminbro/generate-react-cli?style=flat-square&color=blue)](https://github.com/arminbro/generate-react-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simple React CLI to generate components instantly and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ arminbro/generate-react-cli 的生产可用性为中等。它适合用于原型�
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

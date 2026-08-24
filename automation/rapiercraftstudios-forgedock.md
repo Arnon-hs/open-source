@@ -1,6 +1,6 @@
 # RapierCraftStudios/ForgeDock
 
-[![Stars](https://img.shields.io/github/stars/RapierCraftStudios/ForgeDock?style=flat-square&color=yellow)](https://github.com/RapierCraftStudios/ForgeDock/stargazers) [![Forks](https://img.shields.io/github/forks/RapierCraftStudios/ForgeDock?style=flat-square&color=blue)](https://github.com/RapierCraftStudios/ForgeDock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RapierCraftStudios/ForgeDock?style=flat-square&color=yellow)](https://github.com/RapierCraftStudios/ForgeDock/stargazers) [![Forks](https://img.shields.io/github/forks/RapierCraftStudios/ForgeDock?style=flat-square&color=blue)](https://github.com/RapierCraftStudios/ForgeDock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub as a knowledge graph for AI agents. Autonomous dev pipeline for Claude Code - investigate, build, review, merge. Issue in, PR out.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ RapierCraftStudios/ForgeDock 将 GitHub 打造成 AI 代理可查询的知识图
 | forks | 24/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

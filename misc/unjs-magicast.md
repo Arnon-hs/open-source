@@ -1,6 +1,6 @@
 # unjs/magicast
 
-[![Stars](https://img.shields.io/github/stars/unjs/magicast?style=flat-square&color=yellow)](https://github.com/unjs/magicast/stargazers) [![Forks](https://img.shields.io/github/forks/unjs/magicast?style=flat-square&color=blue)](https://github.com/unjs/magicast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unjs/magicast?style=flat-square&color=yellow)](https://github.com/unjs/magicast/stargazers) [![Forks](https://img.shields.io/github/forks/unjs/magicast?style=flat-square&color=blue)](https://github.com/unjs/magicast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ unjs/magicast 的生产可用性为中等。它可以用于内部测试和开发
 | forks | 42/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

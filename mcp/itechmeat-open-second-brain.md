@@ -1,6 +1,6 @@
 # itechmeat/open-second-brain
 
-[![Stars](https://img.shields.io/github/stars/itechmeat/open-second-brain?style=flat-square&color=yellow)](https://github.com/itechmeat/open-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/itechmeat/open-second-brain?style=flat-square&color=blue)](https://github.com/itechmeat/open-second-brain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itechmeat/open-second-brain?style=flat-square&color=yellow)](https://github.com/itechmeat/open-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/itechmeat/open-second-brain?style=flat-square&color=blue)](https://github.com/itechmeat/open-second-brain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first 🧠 memory for Hermes Agent that lives in your Obsidian vault and remembers project context. Nightly 😴 dream passes turn repeat corrections into confirmed preferences with measurable confidence. Adapters ship for Claude Code, Codex, and OpenClaw, with an MCP server for anything else.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 271 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ itechmeat/open-second-brain 的生产可用性为中等（Medium），主要用�
 | forks | 38/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

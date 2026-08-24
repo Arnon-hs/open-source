@@ -1,6 +1,6 @@
 # kaorii-ako/Shiori-v1
 
-[![Stars](https://img.shields.io/github/stars/kaorii-ako/Shiori-v1?style=flat-square&color=yellow)](https://github.com/kaorii-ako/Shiori-v1/stargazers) [![Forks](https://img.shields.io/github/forks/kaorii-ako/Shiori-v1?style=flat-square&color=blue)](https://github.com/kaorii-ako/Shiori-v1/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaorii-ako/Shiori-v1?style=flat-square&color=yellow)](https://github.com/kaorii-ako/Shiori-v1/stargazers) [![Forks](https://img.shields.io/github/forks/kaorii-ako/Shiori-v1?style=flat-square&color=blue)](https://github.com/kaorii-ako/Shiori-v1/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI study companion — Google Classroom sync, Gemini AI plans, SRS flashcards, GPA predictor, AI quiz, MCP server for Claude Code. Try demo at shiori-v1.vercel.app
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Shiori-v1 的生产可用性较高，主要原因是：
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

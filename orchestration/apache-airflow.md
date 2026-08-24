@@ -1,6 +1,6 @@
 # apache/airflow
 
-[![Stars](https://img.shields.io/github/stars/apache/airflow?style=flat-square&color=yellow)](https://github.com/apache/airflow/stargazers) [![Forks](https://img.shields.io/github/forks/apache/airflow?style=flat-square&color=blue)](https://github.com/apache/airflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/airflow?style=flat-square&color=yellow)](https://github.com/apache/airflow/stargazers) [![Forks](https://img.shields.io/github/forks/apache/airflow?style=flat-square&color=blue)](https://github.com/apache/airflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45.9k |
 | 🍴 **Forks** | 17.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data · Database
+Orchestration · Automation · Data
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Apache Airflow 是一个基于 Python 的工作流调度平台，支持以代码
 | forks | 100/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 100/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 99/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

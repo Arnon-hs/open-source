@@ -1,6 +1,6 @@
 # datawhalechina/easy-langent
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-langent?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-langent/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-langent?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-langent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-langent?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-langent/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-langent?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-langent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 📚“langent”由“lang”与“agent”合并而来的学习教程
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Overall, *easy‑langent* offers a solid foundation for building coordinated AI 
 | forks | 43/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

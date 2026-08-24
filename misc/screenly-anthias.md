@@ -1,6 +1,6 @@
 # Screenly/Anthias
 
-[![Stars](https://img.shields.io/github/stars/Screenly/Anthias?style=flat-square&color=yellow)](https://github.com/Screenly/Anthias/stargazers) [![Forks](https://img.shields.io/github/forks/Screenly/Anthias?style=flat-square&color=blue)](https://github.com/Screenly/Anthias/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Screenly/Anthias?style=flat-square&color=yellow)](https://github.com/Screenly/Anthias/stargazers) [![Forks](https://img.shields.io/github/forks/Screenly/Anthias?style=flat-square&color=blue)](https://github.com/Screenly/Anthias/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The world's most popular open source digital signage project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 715 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Screenly/Anthias 是全球最受欢迎的开源数字标牌（Digital Signage）
 | forks | 71/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

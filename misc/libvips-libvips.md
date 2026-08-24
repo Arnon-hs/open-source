@@ -1,6 +1,6 @@
 # libvips/libvips
 
-[![Stars](https://img.shields.io/github/stars/libvips/libvips?style=flat-square&color=yellow)](https://github.com/libvips/libvips/stargazers) [![Forks](https://img.shields.io/github/forks/libvips/libvips?style=flat-square&color=blue)](https://github.com/libvips/libvips/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libvips/libvips?style=flat-square&color=yellow)](https://github.com/libvips/libvips/stargazers) [![Forks](https://img.shields.io/github/forks/libvips/libvips?style=flat-square&color=blue)](https://github.com/libvips/libvips/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A fast image processing library with low memory needs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.5k |
 | 🍴 **Forks** | 780 |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ libvips/libvips 在生产环境中具有较高的可用性，主要原因是其�
 | forks | 72/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Desko77/cursor-1c-skills
 
-[![Stars](https://img.shields.io/github/stars/Desko77/cursor-1c-skills?style=flat-square&color=yellow)](https://github.com/Desko77/cursor-1c-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Desko77/cursor-1c-skills?style=flat-square&color=blue)](https://github.com/Desko77/cursor-1c-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Desko77/cursor-1c-skills?style=flat-square&color=yellow)](https://github.com/Desko77/cursor-1c-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Desko77/cursor-1c-skills?style=flat-square&color=blue)](https://github.com/Desko77/cursor-1c-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 114 скилов и 35 правил для Cursor IDE: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON, разбирает обратно и проверяет результат по выгрузке. Без Конфигуратора и без EDT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Desko77/cursor-1c-skills：Desko77/cursor-1c-skills helps connect AI assistants 
 | forks | 25/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

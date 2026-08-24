@@ -1,6 +1,6 @@
 # Vorim-AI-Labs/vorim-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/Vorim-AI-Labs/vorim-mcp-server?style=flat-square&color=yellow)](https://github.com/Vorim-AI-Labs/vorim-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Vorim-AI-Labs/vorim-mcp-server?style=flat-square&color=blue)](https://github.com/Vorim-AI-Labs/vorim-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vorim-AI-Labs/vorim-mcp-server?style=flat-square&color=yellow)](https://github.com/Vorim-AI-Labs/vorim-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Vorim-AI-Labs/vorim-mcp-server?style=flat-square&color=blue)](https://github.com/Vorim-AI-Labs/vorim-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Vorim AI — AI agent identity, permissions, and audit trails. 17 tools for Claude, Cursor, VS Code, and any MCP-compatible client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Vorim‑AI‑Labs/vorim-mcp‑server 是一个基于 Model Context Protocol（MC
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

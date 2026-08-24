@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ quarylabs/quary：quarylabs/quary helps convert raw data into searchable, analyz
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # noluyorAbi/claude-code-recap
 
-[![Stars](https://img.shields.io/github/stars/noluyorAbi/claude-code-recap?style=flat-square&color=yellow)](https://github.com/noluyorAbi/claude-code-recap/stargazers) [![Forks](https://img.shields.io/github/forks/noluyorAbi/claude-code-recap?style=flat-square&color=blue)](https://github.com/noluyorAbi/claude-code-recap/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noluyorAbi/claude-code-recap?style=flat-square&color=yellow)](https://github.com/noluyorAbi/claude-code-recap/stargazers) [![Forks](https://img.shields.io/github/forks/noluyorAbi/claude-code-recap?style=flat-square&color=blue)](https://github.com/noluyorAbi/claude-code-recap/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Browse every recent Claude Code session across all your projects and jump back into any of them. Shows project path, summary, git branch, model, turn count, and a ready-to-paste resume command. --open re-opens a whole working set in terminal tabs. Local files only: no network, no telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Product
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ noluyorAbi/claude-code-recap 是一个开源项目，允许浏览所有最近的
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

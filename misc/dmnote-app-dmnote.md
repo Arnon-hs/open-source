@@ -1,6 +1,6 @@
 # DmNote-App/DmNote
 
-[![Stars](https://img.shields.io/github/stars/DmNote-App/DmNote?style=flat-square&color=yellow)](https://github.com/DmNote-App/DmNote/stargazers) [![Forks](https://img.shields.io/github/forks/DmNote-App/DmNote?style=flat-square&color=blue)](https://github.com/DmNote-App/DmNote/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DmNote-App/DmNote?style=flat-square&color=yellow)](https://github.com/DmNote-App/DmNote/stargazers) [![Forks](https://img.shields.io/github/forks/DmNote-App/DmNote?style=flat-square&color=blue)](https://github.com/DmNote-App/DmNote/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 601 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ DmNote-App/DmNote 是一款可自定义的按键查看器，专为 DJMAX RESPECT
 | forks | 32/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

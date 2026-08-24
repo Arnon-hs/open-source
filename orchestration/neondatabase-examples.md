@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · Data
+Orchestration · AI/ML · Frontend · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ neondatabase/examples：neondatabase/examples helps turn isolated prompts and to
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

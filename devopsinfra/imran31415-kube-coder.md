@@ -1,6 +1,6 @@
 # imran31415/kube-coder
 
-[![Stars](https://img.shields.io/github/stars/imran31415/kube-coder?style=flat-square&color=yellow)](https://github.com/imran31415/kube-coder/stargazers) [![Forks](https://img.shields.io/github/forks/imran31415/kube-coder?style=flat-square&color=blue)](https://github.com/imran31415/kube-coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imran31415/kube-coder?style=flat-square&color=yellow)](https://github.com/imran31415/kube-coder/stargazers) [![Forks](https://img.shields.io/github/forks/imran31415/kube-coder?style=flat-square&color=blue)](https://github.com/imran31415/kube-coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > helm chart for a isolated dev coding environment pod in kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ imran31415/kube-coder 是一个开源项目，提供了一个 Helm 图表，用�
 | forks | 36/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

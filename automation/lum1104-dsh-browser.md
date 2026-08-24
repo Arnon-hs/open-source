@@ -1,6 +1,6 @@
 # Lum1104/dsh-browser
 
-[![Stars](https://img.shields.io/github/stars/Lum1104/dsh-browser?style=flat-square&color=yellow)](https://github.com/Lum1104/dsh-browser/stargazers) [![Forks](https://img.shields.io/github/forks/Lum1104/dsh-browser?style=flat-square&color=blue)](https://github.com/Lum1104/dsh-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lum1104/dsh-browser?style=flat-square&color=yellow)](https://github.com/Lum1104/dsh-browser/stargazers) [![Forks](https://img.shields.io/github/forks/Lum1104/dsh-browser?style=flat-square&color=blue)](https://github.com/Lum1104/dsh-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > dsh plugin: Chrome sidebar extension that lets DSH operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DSH 直接操控您的浏览器，无需视觉能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Lum1104/dsh-browser 的生产可用性较高。它有以下信号：
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

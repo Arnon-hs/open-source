@@ -1,6 +1,6 @@
 # IHUI-INF-AI/IHUI-AI
 
-[![Stars](https://img.shields.io/github/stars/IHUI-INF-AI/IHUI-AI?style=flat-square&color=yellow)](https://github.com/IHUI-INF-AI/IHUI-AI/stargazers) [![Forks](https://img.shields.io/github/forks/IHUI-INF-AI/IHUI-AI?style=flat-square&color=blue)](https://github.com/IHUI-INF-AI/IHUI-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IHUI-INF-AI/IHUI-AI?style=flat-square&color=yellow)](https://github.com/IHUI-INF-AI/IHUI-AI/stargazers) [![Forks](https://img.shields.io/github/forks/IHUI-INF-AI/IHUI-AI?style=flat-square&color=blue)](https://github.com/IHUI-INF-AI/IHUI-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 tables, RAG knowledge base, agent marketplace. Web/API/CLI/Desktop/Extension/Mobile/Miniapp. Apache 2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ IHUI-INF-AI/IHUI-AI：IHUI-INF-AI/IHUI-AI helps turn isolated prompts and tools 
 | forks | 21/100 |
 | stars | 25/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

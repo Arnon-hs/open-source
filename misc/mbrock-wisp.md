@@ -1,6 +1,6 @@
 # mbrock/wisp
 
-[![Stars](https://img.shields.io/github/stars/mbrock/wisp?style=flat-square&color=yellow)](https://github.com/mbrock/wisp/stargazers) [![Forks](https://img.shields.io/github/forks/mbrock/wisp?style=flat-square&color=blue)](https://github.com/mbrock/wisp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mbrock/wisp?style=flat-square&color=yellow)](https://github.com/mbrock/wisp/stargazers) [![Forks](https://img.shields.io/github/forks/mbrock/wisp?style=flat-square&color=blue)](https://github.com/mbrock/wisp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Lisp in WebAssembly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ mbrock/wisp是一个基于WebAssembly的Lisp项目，提供了一个开源的Lis
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

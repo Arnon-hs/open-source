@@ -1,6 +1,6 @@
 # mkurman/zorai
 
-[![Stars](https://img.shields.io/github/stars/mkurman/zorai?style=flat-square&color=yellow)](https://github.com/mkurman/zorai/stargazers) [![Forks](https://img.shields.io/github/forks/mkurman/zorai?style=flat-square&color=blue)](https://github.com/mkurman/zorai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkurman/zorai?style=flat-square&color=yellow)](https://github.com/mkurman/zorai/stargazers) [![Forks](https://img.shields.io/github/forks/mkurman/zorai?style=flat-square&color=blue)](https://github.com/mkurman/zorai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Zorai is a persistent, multi-agent, auditable, learning execution platform where the daemon owns work, memory, approvals, tools, and long-running goals.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database · Education
+Orchestration
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Zorai（mkurman/zorai）是一个基于 Rust 实现的持久化多代理执行�
 | forks | 34/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 43/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

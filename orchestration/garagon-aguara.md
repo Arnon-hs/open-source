@@ -1,6 +1,6 @@
 # garagon/aguara
 
-[![Stars](https://img.shields.io/github/stars/garagon/aguara?style=flat-square&color=yellow)](https://github.com/garagon/aguara/stargazers) [![Forks](https://img.shields.io/github/forks/garagon/aguara?style=flat-square&color=blue)](https://github.com/garagon/aguara/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/garagon/aguara?style=flat-square&color=yellow)](https://github.com/garagon/aguara/stargazers) [![Forks](https://img.shields.io/github/forks/garagon/aguara?style=flat-square&color=blue)](https://github.com/garagon/aguara/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Security scanner for AI agent skills and MCP servers. Static analysis, incident response, no LLM. One binary.   Detection engine behind oktsec.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ garagon/aguara 是一款面向 AI 代理技能和 MCP 服务器的安全扫描�
 | forks | 30/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

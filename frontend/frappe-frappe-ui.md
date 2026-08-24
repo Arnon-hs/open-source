@@ -1,6 +1,6 @@
 # frappe/frappe-ui
 
-[![Stars](https://img.shields.io/github/stars/frappe/frappe-ui?style=flat-square&color=yellow)](https://github.com/frappe/frappe-ui/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/frappe-ui?style=flat-square&color=blue)](https://github.com/frappe/frappe-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/frappe-ui?style=flat-square&color=yellow)](https://github.com/frappe/frappe-ui/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/frappe-ui?style=flat-square&color=blue)](https://github.com/frappe/frappe-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A set of components and utilities for rapid UI development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 950 |
 | 🍴 **Forks** | 326 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ frappe‑ui 是一套基于 TypeScript 的 UI 组件库和实用工具，旨在�
 | forks | 63/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

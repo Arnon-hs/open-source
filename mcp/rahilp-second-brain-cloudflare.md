@@ -1,6 +1,6 @@
 # rahilp/second-brain-cloudflare
 
-[![Stars](https://img.shields.io/github/stars/rahilp/second-brain-cloudflare?style=flat-square&color=yellow)](https://github.com/rahilp/second-brain-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/rahilp/second-brain-cloudflare?style=flat-square&color=blue)](https://github.com/rahilp/second-brain-cloudflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rahilp/second-brain-cloudflare?style=flat-square&color=yellow)](https://github.com/rahilp/second-brain-cloudflare/stargazers) [![Forks](https://img.shields.io/github/forks/rahilp/second-brain-cloudflare?style=flat-square&color=blue)](https://github.com/rahilp/second-brain-cloudflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · DevTools
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ rahilp/second‑brain‑cloudflare 为所有 AI 工具提供统一的“记忆�
 | forks | 26/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

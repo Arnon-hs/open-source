@@ -1,6 +1,6 @@
 # onflow/cadence
 
-[![Stars](https://img.shields.io/github/stars/onflow/cadence?style=flat-square&color=yellow)](https://github.com/onflow/cadence/stargazers) [![Forks](https://img.shields.io/github/forks/onflow/cadence?style=flat-square&color=blue)](https://github.com/onflow/cadence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onflow/cadence?style=flat-square&color=yellow)](https://github.com/onflow/cadence/stargazers) [![Forks](https://img.shields.io/github/forks/onflow/cadence?style=flat-square&color=blue)](https://github.com/onflow/cadence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cadence: the resource-oriented smart contract programming language of the Flow network. Capability-based security, type safety, and move semantics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Cadence 的生产可用性非常高。它有 547 个 GitHub
 | forks | 55/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # beadbox/beadbox
 
-[![Stars](https://img.shields.io/github/stars/beadbox/beadbox?style=flat-square&color=yellow)](https://github.com/beadbox/beadbox/stargazers) [![Forks](https://img.shields.io/github/forks/beadbox/beadbox?style=flat-square&color=blue)](https://github.com/beadbox/beadbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beadbox/beadbox?style=flat-square&color=yellow)](https://github.com/beadbox/beadbox/stargazers) [![Forks](https://img.shields.io/github/forks/beadbox/beadbox?style=flat-square&color=blue)](https://github.com/beadbox/beadbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS, Windows and Linux GUI for the beads git-backed issue tracker. Built with Tauri, Next.js, and React.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ beadbox/beadbox：beadbox/beadbox helps add AI capability without starting from 
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

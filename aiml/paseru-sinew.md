@@ -1,6 +1,6 @@
 # Paseru/sinew
 
-[![Stars](https://img.shields.io/github/stars/Paseru/sinew?style=flat-square&color=yellow)](https://github.com/Paseru/sinew/stargazers) [![Forks](https://img.shields.io/github/forks/Paseru/sinew?style=flat-square&color=blue)](https://github.com/Paseru/sinew/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Paseru/sinew?style=flat-square&color=yellow)](https://github.com/Paseru/sinew/stargazers) [![Forks](https://img.shields.io/github/forks/Paseru/sinew?style=flat-square&color=blue)](https://github.com/Paseru/sinew/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic IDE with custom harness
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Paseru / sinew 是一个基于 Rust 的 Agentic IDE，提供可定制的 AI�
 | forks | 28/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

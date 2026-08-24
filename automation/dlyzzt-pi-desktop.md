@@ -1,6 +1,6 @@
 # DLYZZT/pi-desktop
 
-[![Stars](https://img.shields.io/github/stars/DLYZZT/pi-desktop?style=flat-square&color=yellow)](https://github.com/DLYZZT/pi-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/DLYZZT/pi-desktop?style=flat-square&color=blue)](https://github.com/DLYZZT/pi-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DLYZZT/pi-desktop?style=flat-square&color=yellow)](https://github.com/DLYZZT/pi-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/DLYZZT/pi-desktop?style=flat-square&color=blue)](https://github.com/DLYZZT/pi-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first, cross-platform Electron desktop workspace for Pi Coding Agent, with sessions, project files, browser tools, skills, plugins, and messaging integrations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Database
+Automation · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ DLYZZT/pi-desktop 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

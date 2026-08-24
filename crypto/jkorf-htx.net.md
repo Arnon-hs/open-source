@@ -1,6 +1,6 @@
 # JKorf/HTX.Net
 
-[![Stars](https://img.shields.io/github/stars/JKorf/HTX.Net?style=flat-square&color=yellow)](https://github.com/JKorf/HTX.Net/stargazers) [![Forks](https://img.shields.io/github/forks/JKorf/HTX.Net?style=flat-square&color=blue)](https://github.com/JKorf/HTX.Net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JKorf/HTX.Net?style=flat-square&color=yellow)](https://github.com/JKorf/HTX.Net/stargazers) [![Forks](https://img.shields.io/github/forks/JKorf/HTX.Net?style=flat-square&color=blue)](https://github.com/JKorf/HTX.Net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A C# .netstandard client library for the Huobi REST and Websocket Spot and Swap API focusing on clear usage and models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Backend · DevTools
+Crypto · Trading · Automation · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ JKorf/HTX.Net 的生产可用性较高，理由如下：
 | forks | 44/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

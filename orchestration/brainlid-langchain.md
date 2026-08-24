@@ -1,6 +1,6 @@
 # brainlid/langchain
 
-[![Stars](https://img.shields.io/github/stars/brainlid/langchain?style=flat-square&color=yellow)](https://github.com/brainlid/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/brainlid/langchain?style=flat-square&color=blue)](https://github.com/brainlid/langchain/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brainlid/langchain?style=flat-square&color=yellow)](https://github.com/brainlid/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/brainlid/langchain?style=flat-square&color=blue)](https://github.com/brainlid/langchain/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ brainlid/langchain 是一套用 Elixir 编写的 LangChain 风格框架，帮助
 | forks | 57/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

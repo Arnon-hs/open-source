@@ -1,6 +1,6 @@
 # nicotsx/zerobyte
 
-[![Stars](https://img.shields.io/github/stars/nicotsx/zerobyte?style=flat-square&color=yellow)](https://github.com/nicotsx/zerobyte/stargazers) [![Forks](https://img.shields.io/github/forks/nicotsx/zerobyte?style=flat-square&color=blue)](https://github.com/nicotsx/zerobyte/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicotsx/zerobyte?style=flat-square&color=yellow)](https://github.com/nicotsx/zerobyte/stargazers) [![Forks](https://img.shields.io/github/forks/nicotsx/zerobyte?style=flat-square&color=blue)](https://github.com/nicotsx/zerobyte/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Backup automation for self-hosters. Built on top of restic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend
+Automation
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ nicotsx/zerobyte：nicotsx/zerobyte helps remove repetitive manual operations fr
 | forks | 56/100 |
 | stars | 81/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

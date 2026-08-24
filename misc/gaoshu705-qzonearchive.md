@@ -1,6 +1,6 @@
 # Gaoshu705/QzoneArchive
 
-[![Stars](https://img.shields.io/github/stars/Gaoshu705/QzoneArchive?style=flat-square&color=yellow)](https://github.com/Gaoshu705/QzoneArchive/stargazers) [![Forks](https://img.shields.io/github/forks/Gaoshu705/QzoneArchive?style=flat-square&color=blue)](https://github.com/Gaoshu705/QzoneArchive/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gaoshu705/QzoneArchive?style=flat-square&color=yellow)](https://github.com/Gaoshu705/QzoneArchive/stargazers) [![Forks](https://img.shields.io/github/forks/Gaoshu705/QzoneArchive?style=flat-square&color=blue)](https://github.com/Gaoshu705/QzoneArchive/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Gaoshu705/QzoneArchive 是一个开源项目，旨在将 QQ 空间的历史动�
 | forks | 24/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 48/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 66/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

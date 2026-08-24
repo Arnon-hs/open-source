@@ -1,6 +1,6 @@
 # earlgreyhot1701D/second-squeeze
 
-[![Stars](https://img.shields.io/github/stars/earlgreyhot1701D/second-squeeze?style=flat-square&color=yellow)](https://github.com/earlgreyhot1701D/second-squeeze/stargazers) [![Forks](https://img.shields.io/github/forks/earlgreyhot1701D/second-squeeze?style=flat-square&color=blue)](https://github.com/earlgreyhot1701D/second-squeeze/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earlgreyhot1701D/second-squeeze?style=flat-square&color=yellow)](https://github.com/earlgreyhot1701D/second-squeeze/stargazers) [![Forks](https://img.shields.io/github/forks/earlgreyhot1701D/second-squeeze?style=flat-square&color=blue)](https://github.com/earlgreyhot1701D/second-squeeze/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): Lemonade Second Squeeze: Model Archeology on 2019's GPT-2XL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ Lemonade Second Squeeze: Model Archeology on 2019's GPT-2XL 是一个开源项�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 35/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

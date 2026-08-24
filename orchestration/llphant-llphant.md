@@ -1,6 +1,6 @@
 # LLPhant/LLPhant
 
-[![Stars](https://img.shields.io/github/stars/LLPhant/LLPhant?style=flat-square&color=yellow)](https://github.com/LLPhant/LLPhant/stargazers) [![Forks](https://img.shields.io/github/forks/LLPhant/LLPhant?style=flat-square&color=blue)](https://github.com/LLPhant/LLPhant/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LLPhant/LLPhant?style=flat-square&color=yellow)](https://github.com/LLPhant/LLPhant/stargazers) [![Forks](https://img.shields.io/github/forks/LLPhant/LLPhant?style=flat-square&color=blue)](https://github.com/LLPhant/LLPhant/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data · Database
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ LLPhant/LLPhant 的生产可用性很高，主要原因是最近的活动、采�
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

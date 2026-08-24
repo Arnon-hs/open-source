@@ -1,6 +1,6 @@
 # chr15m/runprompt
 
-[![Stars](https://img.shields.io/github/stars/chr15m/runprompt?style=flat-square&color=yellow)](https://github.com/chr15m/runprompt/stargazers) [![Forks](https://img.shields.io/github/forks/chr15m/runprompt?style=flat-square&color=blue)](https://github.com/chr15m/runprompt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chr15m/runprompt?style=flat-square&color=yellow)](https://github.com/chr15m/runprompt/stargazers) [![Forks](https://img.shields.io/github/forks/chr15m/runprompt?style=flat-square&color=blue)](https://github.com/chr15m/runprompt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Run LLM prompts from your shell
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ chr15m/runprompt 是一个开源工具，允许在终端直接运行 LLM（大�
 | forks | 32/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

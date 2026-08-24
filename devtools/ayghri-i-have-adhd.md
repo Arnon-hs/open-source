@@ -1,6 +1,6 @@
 # ayghri/i-have-adhd
 
-[![Stars](https://img.shields.io/github/stars/ayghri/i-have-adhd?style=flat-square&color=yellow)](https://github.com/ayghri/i-have-adhd/stargazers) [![Forks](https://img.shields.io/github/forks/ayghri/i-have-adhd?style=flat-square&color=blue)](https://github.com/ayghri/i-have-adhd/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ayghri/i-have-adhd?style=flat-square&color=yellow)](https://github.com/ayghri/i-have-adhd/stargazers) [![Forks](https://img.shields.io/github/forks/ayghri/i-have-adhd?style=flat-square&color=blue)](https://github.com/ayghri/i-have-adhd/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ayghri/i-have-adhd 的生产可用性较高，主要原因是：
 | forks | 46/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

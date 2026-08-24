@@ -1,6 +1,6 @@
 # stephrobert/feint
 
-[![Stars](https://img.shields.io/github/stars/stephrobert/feint?style=flat-square&color=yellow)](https://github.com/stephrobert/feint/stargazers) [![Forks](https://img.shields.io/github/forks/stephrobert/feint?style=flat-square&color=blue)](https://github.com/stephrobert/feint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stephrobert/feint?style=flat-square&color=yellow)](https://github.com/stephrobert/feint/stargazers) [![Forks](https://img.shields.io/github/forks/stephrobert/feint?style=flat-square&color=blue)](https://github.com/stephrobert/feint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Run Terraform, OpenTofu and the official Scaleway, Outscale and Exoscale CLIs locally — no cloud account, no credentials, nothing billed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database · DevOps/Infra
+DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ stephrobert/feint：stephrobert/feint helps engineers save time in daily develop
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

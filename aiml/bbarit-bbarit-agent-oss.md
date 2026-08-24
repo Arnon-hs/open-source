@@ -1,6 +1,6 @@
 # bbarit/bbarit-agent-oss
 
-[![Stars](https://img.shields.io/github/stars/bbarit/bbarit-agent-oss?style=flat-square&color=yellow)](https://github.com/bbarit/bbarit-agent-oss/stargazers) [![Forks](https://img.shields.io/github/forks/bbarit/bbarit-agent-oss?style=flat-square&color=blue)](https://github.com/bbarit/bbarit-agent-oss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bbarit/bbarit-agent-oss?style=flat-square&color=yellow)](https://github.com/bbarit/bbarit-agent-oss/stargazers) [![Forks](https://img.shields.io/github/forks/bbarit/bbarit-agent-oss?style=flat-square&color=blue)](https://github.com/bbarit/bbarit-agent-oss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI alternative (MIT).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ bbarit/bbarit-agent-oss 的生产可用性为中
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rafaeloliveiraz/gitglance
 
-[![Stars](https://img.shields.io/github/stars/rafaeloliveiraz/gitglance?style=flat-square&color=yellow)](https://github.com/rafaeloliveiraz/gitglance/stargazers) [![Forks](https://img.shields.io/github/forks/rafaeloliveiraz/gitglance?style=flat-square&color=blue)](https://github.com/rafaeloliveiraz/gitglance/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafaeloliveiraz/gitglance?style=flat-square&color=yellow)](https://github.com/rafaeloliveiraz/gitglance/stargazers) [![Forks](https://img.shields.io/github/forks/rafaeloliveiraz/gitglance?style=flat-square&color=blue)](https://github.com/rafaeloliveiraz/gitglance/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful, self-hostable GitHub stats cards for your README. Many themes and styles (vercel, terminal, glass...). SVG, no rate-limit headaches.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,54 +27,50 @@ DevTools
 
 ### English
 
-rafaeloliveiraz/gitglance: rafaeloliveiraz/gitglance helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rafaeloliveiraz/gitglance: . Use it for DevTools. 
 
 ### Русский
 
-rafaeloliveiraz/gitglance: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rafaeloliveiraz/gitglance: open-source проект в категориях DevTools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-rafaeloliveiraz/gitglance：rafaeloliveiraz/gitglance helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rafaeloliveiraz/gitglance：。适合用于DevTools。
 
 ## 🧭 Practical evaluation
 
-**Value:** rafaeloliveiraz/gitglance helps engineers save time in daily development and review loops.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- speed up developer workflows
-- automate local engineering tasks
-- improve CI feedback
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 2 GitHub stars
-- updated 2026-08-23
-- primary language: JavaScript
-- 10 topics
+- Not enough metadata yet.
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | forks | 0/100 |
-| stars | 10/100 |
+| stars | 6/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 54/100 |
+| outlook | 68/100 |
+| quality | 53/100 |
 | recency | 100/100 |
-| adoption | 7/100 |
-| production | 62/100 |
+| adoption | 5/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

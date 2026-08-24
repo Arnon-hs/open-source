@@ -1,6 +1,6 @@
 # fuzhengwei/WaLiAPI
 
-[![Stars](https://img.shields.io/github/stars/fuzhengwei/WaLiAPI?style=flat-square&color=yellow)](https://github.com/fuzhengwei/WaLiAPI/stargazers) [![Forks](https://img.shields.io/github/forks/fuzhengwei/WaLiAPI?style=flat-square&color=blue)](https://github.com/fuzhengwei/WaLiAPI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fuzhengwei/WaLiAPI?style=flat-square&color=yellow)](https://github.com/fuzhengwei/WaLiAPI/stargazers) [![Forks](https://img.shields.io/github/forks/fuzhengwei/WaLiAPI?style=flat-square&color=blue)](https://github.com/fuzhengwei/WaLiAPI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > WaLiAPI 是一款本地运行的 LLM API 网关桌面软件（Tauri 2 + React + Rust）。支持各类 LLM 厂商渠道接入、Ollama 自部署模型、CPA 方式 ChatGPT 渠道接入，统一支持 Chat Completions / Responses / Anthropic Messages 三协议转换使用。内置安全审计引擎、知识库 RAG（HNSW + FTS5 混合检索）、Wiki 知识引擎和 MCP Server（29 个工具），配合 Codex、Claude Code、Gemini CLI 等 AI 编程工具使用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ WaLiAPI 的生产可用性为中等（Medium）。它适用于原型或内部工
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

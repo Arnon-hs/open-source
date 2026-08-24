@@ -1,6 +1,6 @@
 # LordCasser/atlas
 
-[![Stars](https://img.shields.io/github/stars/LordCasser/atlas?style=flat-square&color=yellow)](https://github.com/LordCasser/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/LordCasser/atlas?style=flat-square&color=blue)](https://github.com/LordCasser/atlas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LordCasser/atlas?style=flat-square&color=yellow)](https://github.com/LordCasser/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/LordCasser/atlas?style=flat-square&color=blue)](https://github.com/LordCasser/atlas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Atlas — a local-first semantic code graph engine. Tree-sitter parses 15 languages into deterministic facts; CLI and MCP tools expose symbol search, call graphs, dataflow tracing, and barrel re-export resolution for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Data · Observability
+MCP · Observability
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Atlas 是一个本地优先的语义代码图引擎，基于 Tree‑sitter 将 1
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 13/100 |
-| outlook | 73/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

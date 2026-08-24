@@ -1,6 +1,6 @@
 # dualface/quicktui
 
-[![Stars](https://img.shields.io/github/stars/dualface/quicktui?style=flat-square&color=yellow)](https://github.com/dualface/quicktui/stargazers) [![Forks](https://img.shields.io/github/forks/dualface/quicktui?style=flat-square&color=blue)](https://github.com/dualface/quicktui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dualface/quicktui?style=flat-square&color=yellow)](https://github.com/dualface/quicktui/stargazers) [![Forks](https://img.shields.io/github/forks/dualface/quicktui?style=flat-square&color=blue)](https://github.com/dualface/quicktui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted remote terminal for iPhone, iPad & browser — attach tmux and run Claude Code, Codex, or any CLI agent from anywhere. Free for one server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Mobile
+AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ dualface/quicktui：dualface/quicktui helps add AI capability without starting f
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

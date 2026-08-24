@@ -1,6 +1,6 @@
 # 0xf0xx0/cli-pride-flags
 
-[![Stars](https://img.shields.io/github/stars/0xf0xx0/cli-pride-flags?style=flat-square&color=yellow)](https://github.com/0xf0xx0/cli-pride-flags/stargazers) [![Forks](https://img.shields.io/github/forks/0xf0xx0/cli-pride-flags?style=flat-square&color=blue)](https://github.com/0xf0xx0/cli-pride-flags/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xf0xx0/cli-pride-flags?style=flat-square&color=yellow)](https://github.com/0xf0xx0/cli-pride-flags/stargazers) [![Forks](https://img.shields.io/github/forks/0xf0xx0/cli-pride-flags?style=flat-square&color=blue)](https://github.com/0xf0xx0/cli-pride-flags/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Pride flags in your terminal!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ In terms of production readiness, the project has a score of 61/100, indicating 
 | forks | 23/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

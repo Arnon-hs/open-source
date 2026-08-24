@@ -1,6 +1,6 @@
 # chsh2/nijiGPen
 
-[![Stars](https://img.shields.io/github/stars/chsh2/nijiGPen?style=flat-square&color=yellow)](https://github.com/chsh2/nijiGPen/stargazers) [![Forks](https://img.shields.io/github/forks/chsh2/nijiGPen?style=flat-square&color=blue)](https://github.com/chsh2/nijiGPen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chsh2/nijiGPen?style=flat-square&color=yellow)](https://github.com/chsh2/nijiGPen/stargazers) [![Forks](https://img.shields.io/github/forks/chsh2/nijiGPen?style=flat-square&color=blue)](https://github.com/chsh2/nijiGPen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An add-on of Blender focusing on Grease Pencil
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ chsh2/nijiGPen 的生产可用性为中等。它可以用于内部工作流或�
 | forks | 31/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

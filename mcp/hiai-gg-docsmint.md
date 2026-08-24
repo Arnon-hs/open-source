@@ -1,6 +1,6 @@
 # HiAi-gg/docsmint
 
-[![Stars](https://img.shields.io/github/stars/HiAi-gg/docsmint?style=flat-square&color=yellow)](https://github.com/HiAi-gg/docsmint/stargazers) [![Forks](https://img.shields.io/github/forks/HiAi-gg/docsmint?style=flat-square&color=blue)](https://github.com/HiAi-gg/docsmint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HiAi-gg/docsmint?style=flat-square&color=yellow)](https://github.com/HiAi-gg/docsmint/stargazers) [![Forks](https://img.shields.io/github/forks/HiAi-gg/docsmint?style=flat-square&color=blue)](https://github.com/HiAi-gg/docsmint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI-native knowledge workspace and installable PWA with hybrid search, GraphRAG, REST, SDK, CLI, and MCP access for people and AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · DevTools
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ HiAi-gg/docsmint 的生产可用性较高，具有以下特点：
 | forks | 15/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # TreeAI-Lab/Awesome-KV-Cache-Management
 
-[![Stars](https://img.shields.io/github/stars/TreeAI-Lab/Awesome-KV-Cache-Management?style=flat-square&color=yellow)](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management/stargazers) [![Forks](https://img.shields.io/github/forks/TreeAI-Lab/Awesome-KV-Cache-Management?style=flat-square&color=blue)](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TreeAI-Lab/Awesome-KV-Cache-Management?style=flat-square&color=yellow)](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management/stargazers) [![Forks](https://img.shields.io/github/forks/TreeAI-Lab/Awesome-KV-Cache-Management?style=flat-square&color=blue)](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > This repository serves as a comprehensive survey of LLM development, featuring numerous research papers along with their corresponding code links.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ TreeAI-Lab/Awesome-KV-Cache-Management 是一个开源项目，提供了一个�
 | forks | 29/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

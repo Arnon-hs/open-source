@@ -1,6 +1,6 @@
 # stefanprodan/timoni
 
-[![Stars](https://img.shields.io/github/stars/stefanprodan/timoni?style=flat-square&color=yellow)](https://github.com/stefanprodan/timoni/stargazers) [![Forks](https://img.shields.io/github/forks/stefanprodan/timoni?style=flat-square&color=blue)](https://github.com/stefanprodan/timoni/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanprodan/timoni?style=flat-square&color=yellow)](https://github.com/stefanprodan/timoni/stargazers) [![Forks](https://img.shields.io/github/forks/stefanprodan/timoni?style=flat-square&color=blue)](https://github.com/stefanprodan/timoni/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Timoni 在生产环境中的可用性较高，主要因为其最近的活跃度�
 | forks | 48/100 |
 | stars | 70/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

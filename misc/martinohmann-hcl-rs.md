@@ -1,6 +1,6 @@
 # martinohmann/hcl-rs
 
-[![Stars](https://img.shields.io/github/stars/martinohmann/hcl-rs?style=flat-square&color=yellow)](https://github.com/martinohmann/hcl-rs/stargazers) [![Forks](https://img.shields.io/github/forks/martinohmann/hcl-rs?style=flat-square&color=blue)](https://github.com/martinohmann/hcl-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martinohmann/hcl-rs?style=flat-square&color=yellow)](https://github.com/martinohmann/hcl-rs/stargazers) [![Forks](https://img.shields.io/github/forks/martinohmann/hcl-rs?style=flat-square&color=blue)](https://github.com/martinohmann/hcl-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > HCL parsing and encoding libraries for rust with serde support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ martinohmann/hcl-rs 是一个用于 Rust 的 HCL 解析和编码库，支持 Ser
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

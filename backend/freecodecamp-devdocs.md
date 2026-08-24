@@ -1,6 +1,6 @@
 # freeCodeCamp/devdocs
 
-[![Stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/devdocs/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/devdocs?style=flat-square&color=blue)](https://github.com/freeCodeCamp/devdocs/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/devdocs/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/devdocs?style=flat-square&color=blue)](https://github.com/freeCodeCamp/devdocs/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > API Documentation Browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39.1k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ freeCodeCamp/devdocs 是一款开源的 API 文档浏览器，帮助团队直接
 | forks | 85/100 |
 | stars | 98/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 82/100 |
+| recency | 40/100 |
 | adoption | 94/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

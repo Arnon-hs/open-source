@@ -1,6 +1,6 @@
 # EpicStaff/EpicStaff
 
-[![Stars](https://img.shields.io/github/stars/EpicStaff/EpicStaff?style=flat-square&color=yellow)](https://github.com/EpicStaff/EpicStaff/stargazers) [![Forks](https://img.shields.io/github/forks/EpicStaff/EpicStaff?style=flat-square&color=blue)](https://github.com/EpicStaff/EpicStaff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EpicStaff/EpicStaff?style=flat-square&color=yellow)](https://github.com/EpicStaff/EpicStaff/stargazers) [![Forks](https://img.shields.io/github/forks/EpicStaff/EpicStaff?style=flat-square&color=blue)](https://github.com/EpicStaff/EpicStaff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source platform for building AI agents with a visual UI and modular backend.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ EpicStaff/EpicStaff 是一个开源平台，提供可视化 UI 与模块化后�
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

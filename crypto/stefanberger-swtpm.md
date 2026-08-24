@@ -1,6 +1,6 @@
 # stefanberger/swtpm
 
-[![Stars](https://img.shields.io/github/stars/stefanberger/swtpm?style=flat-square&color=yellow)](https://github.com/stefanberger/swtpm/stargazers) [![Forks](https://img.shields.io/github/forks/stefanberger/swtpm?style=flat-square&color=blue)](https://github.com/stefanberger/swtpm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanberger/swtpm?style=flat-square&color=yellow)](https://github.com/stefanberger/swtpm/stargazers) [![Forks](https://img.shields.io/github/forks/stefanberger/swtpm?style=flat-square&color=blue)](https://github.com/stefanberger/swtpm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 804 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ stefanberger/swtpm：stefanberger/swtpm helps prototype or inspect blockchain wo
 | forks | 56/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

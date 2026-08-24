@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | PaddleOCR |
 | 📈 **Score** | 33/100 |
-| 🗓️ **Last push** | 2025-07-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -105,6 +105,7 @@ PaddlePaddle/PP-LCNet_x1_0_doc_ori 是一个开源的视觉语言模型（图像
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

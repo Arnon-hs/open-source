@@ -1,6 +1,6 @@
 # YusufCeng1z/svelte-bash
 
-[![Stars](https://img.shields.io/github/stars/YusufCeng1z/svelte-bash?style=flat-square&color=yellow)](https://github.com/YusufCeng1z/svelte-bash/stargazers) [![Forks](https://img.shields.io/github/forks/YusufCeng1z/svelte-bash?style=flat-square&color=blue)](https://github.com/YusufCeng1z/svelte-bash/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YusufCeng1z/svelte-bash?style=flat-square&color=yellow)](https://github.com/YusufCeng1z/svelte-bash/stargazers) [![Forks](https://img.shields.io/github/forks/YusufCeng1z/svelte-bash?style=flat-square&color=blue)](https://github.com/YusufCeng1z/svelte-bash/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A fully typed, lightweight, and customizable terminal emulator component for Svelte 5. Features a virtual file system, custom commands, themes, and autoplay mode for demos. 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ YusufCeng1z/svelte‑bash 是一款基于 Svelte 5 的全类型、轻量且可
 | forks | 12/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

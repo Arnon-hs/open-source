@@ -1,6 +1,6 @@
 # nanocurrency/nano-node
 
-[![Stars](https://img.shields.io/github/stars/nanocurrency/nano-node?style=flat-square&color=yellow)](https://github.com/nanocurrency/nano-node/stargazers) [![Forks](https://img.shields.io/github/forks/nanocurrency/nano-node?style=flat-square&color=blue)](https://github.com/nanocurrency/nano-node/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nanocurrency/nano-node?style=flat-square&color=yellow)](https://github.com/nanocurrency/nano-node/stargazers) [![Forks](https://img.shields.io/github/forks/nanocurrency/nano-node?style=flat-square&color=blue)](https://github.com/nanocurrency/nano-node/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 806 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ nanocurrency/nano-node：nanocurrency/nano-node helps prototype or inspect block
 | forks | 73/100 |
 | stars | 75/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

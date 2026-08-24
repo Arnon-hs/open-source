@@ -1,6 +1,6 @@
 # WaHaiLong/KingdeeMCP
 
-[![Stars](https://img.shields.io/github/stars/WaHaiLong/KingdeeMCP?style=flat-square&color=yellow)](https://github.com/WaHaiLong/KingdeeMCP/stargazers) [![Forks](https://img.shields.io/github/forks/WaHaiLong/KingdeeMCP?style=flat-square&color=blue)](https://github.com/WaHaiLong/KingdeeMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WaHaiLong/KingdeeMCP?style=flat-square&color=yellow)](https://github.com/WaHaiLong/KingdeeMCP/stargazers) [![Forks](https://img.shields.io/github/forks/WaHaiLong/KingdeeMCP?style=flat-square&color=blue)](https://github.com/WaHaiLong/KingdeeMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 金蝶云星空 MCP Server：让 Claude/Cursor 等 AI 助手用自然语言直接查询、操作 ERP（采购/销售/库存/财务等 87 个工具）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ WaHaiLong/KingdeeMCP 的生产可用性很高，最近有活动，采用率和�
 | forks | 35/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

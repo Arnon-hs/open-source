@@ -1,6 +1,6 @@
 # feigeCode/navop
 
-[![Stars](https://img.shields.io/github/stars/feigeCode/navop?style=flat-square&color=yellow)](https://github.com/feigeCode/navop/stargazers) [![Forks](https://img.shields.io/github/forks/feigeCode/navop?style=flat-square&color=blue)](https://github.com/feigeCode/navop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feigeCode/navop?style=flat-square&color=yellow)](https://github.com/feigeCode/navop/stargazers) [![Forks](https://img.shields.io/github/forks/feigeCode/navop?style=flat-square&color=blue)](https://github.com/feigeCode/navop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Navop combines Navigate and Operation—a unified workspace that helps developers navigate and operate databases, servers, terminals, and AI tools from one place.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ feigeCode/navop 的生产可用性为中等。它适合用于 prototyping 或内
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

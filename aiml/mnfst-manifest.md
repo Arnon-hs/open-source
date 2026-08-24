@@ -1,6 +1,6 @@
 # mnfst/manifest
 
-[![Stars](https://img.shields.io/github/stars/mnfst/manifest?style=flat-square&color=yellow)](https://github.com/mnfst/manifest/stargazers) [![Forks](https://img.shields.io/github/forks/mnfst/manifest?style=flat-square&color=blue)](https://github.com/mnfst/manifest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mnfst/manifest?style=flat-square&color=yellow)](https://github.com/mnfst/manifest/stargazers) [![Forks](https://img.shields.io/github/forks/mnfst/manifest?style=flat-square&color=blue)](https://github.com/mnfst/manifest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Smart Model Routing for Agents. Cut Costs up to 70% 🦚
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ mnfst/manifest 是一款面向智能体的模型路由框架，能够在不从�
 | forks | 65/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 84/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

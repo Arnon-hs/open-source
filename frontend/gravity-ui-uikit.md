@@ -1,6 +1,6 @@
 # gravity-ui/uikit
 
-[![Stars](https://img.shields.io/github/stars/gravity-ui/uikit?style=flat-square&color=yellow)](https://github.com/gravity-ui/uikit/stargazers) [![Forks](https://img.shields.io/github/forks/gravity-ui/uikit?style=flat-square&color=blue)](https://github.com/gravity-ui/uikit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gravity-ui/uikit?style=flat-square&color=yellow)](https://github.com/gravity-ui/uikit/stargazers) [![Forks](https://img.shields.io/github/forks/gravity-ui/uikit?style=flat-square&color=blue)](https://github.com/gravity-ui/uikit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Gravity UI/UI Kit 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 55/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

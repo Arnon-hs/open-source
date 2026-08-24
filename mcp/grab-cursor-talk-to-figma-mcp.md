@@ -1,6 +1,6 @@
 # grab/cursor-talk-to-figma-mcp
 
-[![Stars](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat-square&color=yellow)](https://github.com/grab/cursor-talk-to-figma-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/grab/cursor-talk-to-figma-mcp?style=flat-square&color=blue)](https://github.com/grab/cursor-talk-to-figma-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat-square&color=yellow)](https://github.com/grab/cursor-talk-to-figma-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/grab/cursor-talk-to-figma-mcp?style=flat-square&color=blue)](https://github.com/grab/cursor-talk-to-figma-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 750 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ grab/cursor-talk-to-figma-mcp 帮助连接 AI 助手与真实工具和数据之�
 | forks | 72/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

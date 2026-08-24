@@ -1,6 +1,6 @@
 # sophgo/tpu-mlir
 
-[![Stars](https://img.shields.io/github/stars/sophgo/tpu-mlir?style=flat-square&color=yellow)](https://github.com/sophgo/tpu-mlir/stargazers) [![Forks](https://img.shields.io/github/forks/sophgo/tpu-mlir?style=flat-square&color=blue)](https://github.com/sophgo/tpu-mlir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sophgo/tpu-mlir?style=flat-square&color=yellow)](https://github.com/sophgo/tpu-mlir/stargazers) [![Forks](https://img.shields.io/github/forks/sophgo/tpu-mlir?style=flat-square&color=blue)](https://github.com/sophgo/tpu-mlir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Machine learning compiler based on MLIR for Sophgo TPU.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 947 |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ sophgo/tpu-mlir 的生产可用性为中等，适合用于:
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

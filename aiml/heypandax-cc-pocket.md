@@ -1,6 +1,6 @@
 # heypandax/cc-pocket
 
-[![Stars](https://img.shields.io/github/stars/heypandax/cc-pocket?style=flat-square&color=yellow)](https://github.com/heypandax/cc-pocket/stargazers) [![Forks](https://img.shields.io/github/forks/heypandax/cc-pocket?style=flat-square&color=blue)](https://github.com/heypandax/cc-pocket/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heypandax/cc-pocket?style=flat-square&color=yellow)](https://github.com/heypandax/cc-pocket/stargazers) [![Forks](https://img.shields.io/github/forks/heypandax/cc-pocket?style=flat-square&color=blue)](https://github.com/heypandax/cc-pocket/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Drive Claude Code or OpenAI Codex from your phone — resume sessions, stream output, approve tool permissions remotely. End-to-end encrypted, zero-knowledge relay, open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database · Mobile · Security
+AI/ML · DevTools · Mobile · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ heypandax/cc‑pocket 是一款开源移动端客户端，能够在手机上驱�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

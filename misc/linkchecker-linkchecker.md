@@ -1,6 +1,6 @@
 # linkchecker/linkchecker
 
-[![Stars](https://img.shields.io/github/stars/linkchecker/linkchecker?style=flat-square&color=yellow)](https://github.com/linkchecker/linkchecker/stargazers) [![Forks](https://img.shields.io/github/forks/linkchecker/linkchecker?style=flat-square&color=blue)](https://github.com/linkchecker/linkchecker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkchecker/linkchecker?style=flat-square&color=yellow)](https://github.com/linkchecker/linkchecker/stargazers) [![Forks](https://img.shields.io/github/forks/linkchecker/linkchecker?style=flat-square&color=blue)](https://github.com/linkchecker/linkchecker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > check links in web documents or full websites
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ linkchecker/linkchecker具有高的生产可用性，主要原因是：
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

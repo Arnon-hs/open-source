@@ -1,6 +1,6 @@
 # suiflex/suitest
 
-[![Stars](https://img.shields.io/github/stars/suiflex/suitest?style=flat-square&color=yellow)](https://github.com/suiflex/suitest/stargazers) [![Forks](https://img.shields.io/github/forks/suiflex/suitest?style=flat-square&color=blue)](https://github.com/suiflex/suitest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suiflex/suitest?style=flat-square&color=yellow)](https://github.com/suiflex/suitest/stargazers) [![Forks](https://img.shields.io/github/forks/suiflex/suitest?style=flat-square&color=blue)](https://github.com/suiflex/suitest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable, MCP-native testing platform. Manual test management, deterministic runs, optional AI. Your stack, your   LLM, your data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ suiflex/suitest 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

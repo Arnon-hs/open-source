@@ -1,6 +1,6 @@
 # Alhwyn/canlii-mcp
 
-[![Stars](https://img.shields.io/github/stars/Alhwyn/canlii-mcp?style=flat-square&color=yellow)](https://github.com/Alhwyn/canlii-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Alhwyn/canlii-mcp?style=flat-square&color=blue)](https://github.com/Alhwyn/canlii-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alhwyn/canlii-mcp?style=flat-square&color=yellow)](https://github.com/Alhwyn/canlii-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Alhwyn/canlii-mcp?style=flat-square&color=blue)](https://github.com/Alhwyn/canlii-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > canlii mcp for people in law in canada
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Alhwyn/canlii-mcp 的主要价值在于帮助连接 AI 辅助工具与真实的�
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

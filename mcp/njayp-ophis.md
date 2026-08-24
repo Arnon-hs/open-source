@@ -1,6 +1,6 @@
 # njayp/ophis
 
-[![Stars](https://img.shields.io/github/stars/njayp/ophis?style=flat-square&color=yellow)](https://github.com/njayp/ophis/stargazers) [![Forks](https://img.shields.io/github/forks/njayp/ophis?style=flat-square&color=blue)](https://github.com/njayp/ophis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/njayp/ophis?style=flat-square&color=yellow)](https://github.com/njayp/ophis/stargazers) [![Forks](https://img.shields.io/github/forks/njayp/ophis?style=flat-square&color=blue)](https://github.com/njayp/ophis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Transform any Cobra CLI into an MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Database
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ njayp/ophis 通过将任意 Cobra CLI 转换为 Model Context Protocol（MCP）�
 | forks | 29/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

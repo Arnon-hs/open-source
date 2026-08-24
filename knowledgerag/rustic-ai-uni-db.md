@@ -1,6 +1,6 @@
 # rustic-ai/uni-db
 
-[![Stars](https://img.shields.io/github/stars/rustic-ai/uni-db?style=flat-square&color=yellow)](https://github.com/rustic-ai/uni-db/stargazers) [![Forks](https://img.shields.io/github/forks/rustic-ai/uni-db?style=flat-square&color=blue)](https://github.com/rustic-ai/uni-db/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustic-ai/uni-db?style=flat-square&color=yellow)](https://github.com/rustic-ai/uni-db/stargazers) [![Forks](https://img.shields.io/github/forks/rustic-ai/uni-db?style=flat-square&color=blue)](https://github.com/rustic-ai/uni-db/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance) into a single, cohesive engine. It is designed for applications requiring local, fast, and multimodal data access, backed by object storage (S3/GCS) durability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Data · Database
+Knowledge/RAG · Database
 
 ## 📝 Summary
 
@@ -120,14 +120,15 @@ Uni 是一款现代化的嵌入式数据库，融合了属性图（OpenCypher）
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

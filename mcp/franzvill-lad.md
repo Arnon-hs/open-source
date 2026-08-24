@@ -1,6 +1,6 @@
 # franzvill/lad
 
-[![Stars](https://img.shields.io/github/stars/franzvill/lad?style=flat-square&color=yellow)](https://github.com/franzvill/lad/stargazers) [![Forks](https://img.shields.io/github/forks/franzvill/lad?style=flat-square&color=blue)](https://github.com/franzvill/lad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/franzvill/lad?style=flat-square&color=yellow)](https://github.com/franzvill/lad/stargazers) [![Forks](https://img.shields.io/github/forks/franzvill/lad?style=flat-square&color=blue)](https://github.com/franzvill/lad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An open protocol for discovering A2A-capable AI agents on local networks — the discovery & trust bootstrap layer beneath A2A (mDNS/DNS-SD, well-known endpoints, signed AgentCards).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ franzvill/lad 是一个开源的发现与信任引导层协议，基于 mDNS/DNS
 | forks | 12/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

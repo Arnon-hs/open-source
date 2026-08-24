@@ -1,6 +1,6 @@
 # huiliyi37/Tianshu-harness
 
-[![Stars](https://img.shields.io/github/stars/huiliyi37/Tianshu-harness?style=flat-square&color=yellow)](https://github.com/huiliyi37/Tianshu-harness/stargazers) [![Forks](https://img.shields.io/github/forks/huiliyi37/Tianshu-harness?style=flat-square&color=blue)](https://github.com/huiliyi37/Tianshu-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huiliyi37/Tianshu-harness?style=flat-square&color=yellow)](https://github.com/huiliyi37/Tianshu-harness/stargazers) [![Forks](https://img.shields.io/github/forks/huiliyi37/Tianshu-harness?style=flat-square&color=blue)](https://github.com/huiliyi37/Tianshu-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 天枢 (Tianshu) 是一个基于harness工程的终端编程智能体运行时（TUI），针对DeepSeek V4 做了前缀缓存工程优化（长会话实测稳态命中率 95–99%）和深度适配。它跳出了传统 AI 编程助手把大模型仅当成“工具”的局限，基于认知虚拟机 (CVM)、自感知层和信息素（Stigmergy）自衰减记忆构建，让 AI 成为有独立判断与认知防护的“开发伙伴”。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ huiliyi37/Tianshu-harness 帮助您添加 AI 能力而不需要从零开始搭�
 | forks | 34/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Francis1998/agentic-career-search
 
-[![Stars](https://img.shields.io/github/stars/Francis1998/agentic-career-search?style=flat-square&color=yellow)](https://github.com/Francis1998/agentic-career-search/stargazers) [![Forks](https://img.shields.io/github/forks/Francis1998/agentic-career-search?style=flat-square&color=blue)](https://github.com/Francis1998/agentic-career-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Francis1998/agentic-career-search?style=flat-square&color=yellow)](https://github.com/Francis1998/agentic-career-search/stargazers) [![Forks](https://img.shields.io/github/forks/Francis1998/agentic-career-search?style=flat-square&color=blue)](https://github.com/Francis1998/agentic-career-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI-agent orchestration engine for job discovery with decision traces, tool adapters, and production-grade run control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Backend · Product
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Francis1998/agentic-career-search 的价值在于，它可以帮助开发者:
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

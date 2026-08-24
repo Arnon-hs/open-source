@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
 | 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2025-11-03 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -103,6 +103,7 @@ lightx2v/Qwen-Image-Lightning 是一个流行的开源模型，用于在 Hugging
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

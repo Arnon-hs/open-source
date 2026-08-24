@@ -1,6 +1,6 @@
 # BioTender-max/awesome-bio-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square&color=yellow)](https://github.com/BioTender-max/awesome-bio-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/BioTender-max/awesome-bio-agent-skills?style=flat-square&color=blue)](https://github.com/BioTender-max/awesome-bio-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square&color=yellow)](https://github.com/BioTender-max/awesome-bio-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/BioTender-max/awesome-bio-agent-skills?style=flat-square&color=blue)](https://github.com/BioTender-max/awesome-bio-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · DevTools · Database
+Orchestration · MCP · AI/ML · Design
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ BioTender‑max/awesome‑bio‑agent‑skills 是一个面向生物医学研究
 | forks | 30/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

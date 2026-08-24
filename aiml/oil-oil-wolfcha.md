@@ -1,6 +1,6 @@
 # oil-oil/wolfcha
 
-[![Stars](https://img.shields.io/github/stars/oil-oil/wolfcha?style=flat-square&color=yellow)](https://github.com/oil-oil/wolfcha/stargazers) [![Forks](https://img.shields.io/github/forks/oil-oil/wolfcha?style=flat-square&color=blue)](https://github.com/oil-oil/wolfcha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oil-oil/wolfcha?style=flat-square&color=yellow)](https://github.com/oil-oil/wolfcha/stargazers) [![Forks](https://img.shields.io/github/forks/oil-oil/wolfcha?style=flat-square&color=blue)](https://github.com/oil-oil/wolfcha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs like DeepSeek, Qwen, Gemini, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 646 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ oil-oil/wolfcha 是一个开源项目，用于 AI-powered Werewolf (Mafia) 社�
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

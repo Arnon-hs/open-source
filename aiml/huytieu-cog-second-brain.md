@@ -1,6 +1,6 @@
 # huytieu/COG-second-brain
 
-[![Stars](https://img.shields.io/github/stars/huytieu/COG-second-brain?style=flat-square&color=yellow)](https://github.com/huytieu/COG-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/huytieu/COG-second-brain?style=flat-square&color=blue)](https://github.com/huytieu/COG-second-brain/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huytieu/COG-second-brain?style=flat-square&color=yellow)](https://github.com/huytieu/COG-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/huytieu/COG-second-brain?style=flat-square&color=blue)](https://github.com/huytieu/COG-second-brain/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving second brain with 17 AI skills, 6 worker agents, and people CRM — inspired by Garry Tan's gstack and gbrain. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ huytieu/COG-second-brain 是一个开源项目，旨在创建一个自我演进�
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

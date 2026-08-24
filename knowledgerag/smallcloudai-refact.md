@@ -1,6 +1,6 @@
 # smallcloudai/refact
 
-[![Stars](https://img.shields.io/github/stars/smallcloudai/refact?style=flat-square&color=yellow)](https://github.com/smallcloudai/refact/stargazers) [![Forks](https://img.shields.io/github/forks/smallcloudai/refact?style=flat-square&color=blue)](https://github.com/smallcloudai/refact/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smallcloudai/refact?style=flat-square&color=yellow)](https://github.com/smallcloudai/refact/stargazers) [![Forks](https://img.shields.io/github/forks/smallcloudai/refact?style=flat-square&color=blue)](https://github.com/smallcloudai/refact/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ smallcloudai/refact 是一款基于 Rust 的 AI Agent，能够全链路处理工
 | forks | 62/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

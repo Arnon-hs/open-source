@@ -1,6 +1,6 @@
 # mcp-telegram/mcp-telegram
 
-[![Stars](https://img.shields.io/github/stars/mcp-telegram/mcp-telegram?style=flat-square&color=yellow)](https://github.com/mcp-telegram/mcp-telegram/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-telegram/mcp-telegram?style=flat-square&color=blue)](https://github.com/mcp-telegram/mcp-telegram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcp-telegram/mcp-telegram?style=flat-square&color=yellow)](https://github.com/mcp-telegram/mcp-telegram/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-telegram/mcp-telegram?style=flat-square&color=blue)](https://github.com/mcp-telegram/mcp-telegram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Telegram MCP Server — connect Telegram to Claude AI & ChatGPT. 181 tools: messages, media, reactions, polls, stories & more. MTProto userbot. Self-host (npx) or hosted at mcp-telegram.com.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ mcp-telegram/mcp-telegram：mcp-telegram/mcp-telegram helps connect AI assistant
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

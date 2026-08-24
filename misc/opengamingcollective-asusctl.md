@@ -1,6 +1,6 @@
 # OpenGamingCollective/asusctl
 
-[![Stars](https://img.shields.io/github/stars/OpenGamingCollective/asusctl?style=flat-square&color=yellow)](https://github.com/OpenGamingCollective/asusctl/stargazers) [![Forks](https://img.shields.io/github/forks/OpenGamingCollective/asusctl?style=flat-square&color=blue)](https://github.com/OpenGamingCollective/asusctl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenGamingCollective/asusctl?style=flat-square&color=yellow)](https://github.com/OpenGamingCollective/asusctl/stargazers) [![Forks](https://img.shields.io/github/forks/OpenGamingCollective/asusctl?style=flat-square&color=blue)](https://github.com/OpenGamingCollective/asusctl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ OpenGamingCollective/asusctl 为 ASUS ROG 系列笔记本提供了统一的守
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

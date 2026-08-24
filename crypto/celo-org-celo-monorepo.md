@@ -1,6 +1,6 @@
 # celo-org/celo-monorepo
 
-[![Stars](https://img.shields.io/github/stars/celo-org/celo-monorepo?style=flat-square&color=yellow)](https://github.com/celo-org/celo-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/celo-org/celo-monorepo?style=flat-square&color=blue)](https://github.com/celo-org/celo-monorepo/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/celo-org/celo-monorepo?style=flat-square&color=yellow)](https://github.com/celo-org/celo-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/celo-org/celo-monorepo?style=flat-square&color=blue)](https://github.com/celo-org/celo-monorepo/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Official repository for core projects comprising the Celo platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 801 |
 | 🍴 **Forks** | 478 |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Database
+Crypto
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Celo-org/celo-monorepo是Celo平台的官方核心项目仓库，提供了一个
 | forks | 67/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

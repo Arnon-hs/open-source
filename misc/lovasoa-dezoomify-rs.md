@@ -1,6 +1,6 @@
 # lovasoa/dezoomify-rs
 
-[![Stars](https://img.shields.io/github/stars/lovasoa/dezoomify-rs?style=flat-square&color=yellow)](https://github.com/lovasoa/dezoomify-rs/stargazers) [![Forks](https://img.shields.io/github/forks/lovasoa/dezoomify-rs?style=flat-square&color=blue)](https://github.com/lovasoa/dezoomify-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lovasoa/dezoomify-rs?style=flat-square&color=yellow)](https://github.com/lovasoa/dezoomify-rs/stargazers) [![Forks](https://img.shields.io/github/forks/lovasoa/dezoomify-rs?style=flat-square&color=blue)](https://github.com/lovasoa/dezoomify-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ lovasoa/dezoomify-rs 的生产可用性较高，理由如下：
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

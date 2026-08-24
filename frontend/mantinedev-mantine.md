@@ -1,6 +1,6 @@
 # mantinedev/mantine
 
-[![Stars](https://img.shields.io/github/stars/mantinedev/mantine?style=flat-square&color=yellow)](https://github.com/mantinedev/mantine/stargazers) [![Forks](https://img.shields.io/github/forks/mantinedev/mantine?style=flat-square&color=blue)](https://github.com/mantinedev/mantine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mantinedev/mantine?style=flat-square&color=yellow)](https://github.com/mantinedev/mantine/stargazers) [![Forks](https://img.shields.io/github/forks/mantinedev/mantine?style=flat-square&color=blue)](https://github.com/mantinedev/mantine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A fully featured React components library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.3k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Mantine（mantinedev/mantine）是一套功能完整的 React 组件库，提供
 | forks | 84/100 |
 | stars | 96/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

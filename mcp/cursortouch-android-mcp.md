@@ -1,6 +1,6 @@
 # CursorTouch/Android-MCP
 
-[![Stars](https://img.shields.io/github/stars/CursorTouch/Android-MCP?style=flat-square&color=yellow)](https://github.com/CursorTouch/Android-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/CursorTouch/Android-MCP?style=flat-square&color=blue)](https://github.com/CursorTouch/Android-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CursorTouch/Android-MCP?style=flat-square&color=yellow)](https://github.com/CursorTouch/Android-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/CursorTouch/Android-MCP?style=flat-square&color=blue)](https://github.com/CursorTouch/Android-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for interacting with Android Devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 708 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ CursorTouch/Android-MCP 的生产可用性较高，原因是其最近有活跃�
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

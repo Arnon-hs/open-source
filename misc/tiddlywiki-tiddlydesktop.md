@@ -1,6 +1,6 @@
 # TiddlyWiki/TiddlyDesktop
 
-[![Stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyDesktop?style=flat-square&color=yellow)](https://github.com/TiddlyWiki/TiddlyDesktop/stargazers) [![Forks](https://img.shields.io/github/forks/TiddlyWiki/TiddlyDesktop?style=flat-square&color=blue)](https://github.com/TiddlyWiki/TiddlyDesktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TiddlyWiki/TiddlyDesktop?style=flat-square&color=yellow)](https://github.com/TiddlyWiki/TiddlyDesktop/stargazers) [![Forks](https://img.shields.io/github/forks/TiddlyWiki/TiddlyDesktop?style=flat-square&color=blue)](https://github.com/TiddlyWiki/TiddlyDesktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ TiddlyWiki/TiddlyDesktop 的生产可用性为中等。它适合于原型或内�
 | forks | 53/100 |
 | stars | 70/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

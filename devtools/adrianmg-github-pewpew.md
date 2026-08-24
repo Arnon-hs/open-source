@@ -1,6 +1,6 @@
 # adrianmg/github-pewpew
 
-[![Stars](https://img.shields.io/github/stars/adrianmg/github-pewpew?style=flat-square&color=yellow)](https://github.com/adrianmg/github-pewpew/stargazers) [![Forks](https://img.shields.io/github/forks/adrianmg/github-pewpew?style=flat-square&color=blue)](https://github.com/adrianmg/github-pewpew/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adrianmg/github-pewpew?style=flat-square&color=yellow)](https://github.com/adrianmg/github-pewpew/stargazers) [![Forks](https://img.shields.io/github/forks/adrianmg/github-pewpew?style=flat-square&color=blue)](https://github.com/adrianmg/github-pewpew/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🔫 Pew pew needless GitHub repos from your CLI!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ adrianmg/github-pewpew 是一款基于 CLI 的工具，能够快速删除无用�
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

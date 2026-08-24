@@ -1,6 +1,6 @@
 # LilMGenius/win-hooks
 
-[![Stars](https://img.shields.io/github/stars/LilMGenius/win-hooks?style=flat-square&color=yellow)](https://github.com/LilMGenius/win-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/LilMGenius/win-hooks?style=flat-square&color=blue)](https://github.com/LilMGenius/win-hooks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LilMGenius/win-hooks?style=flat-square&color=yellow)](https://github.com/LilMGenius/win-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/LilMGenius/win-hooks?style=flat-square&color=blue)](https://github.com/LilMGenius/win-hooks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Linux? Nah. WinUX! ✴ Auto-patches Claude Code plugin hooks for Windows compatibility
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ LilMGenius/win-hooks：LilMGenius/win-hooks may be useful when its README and ac
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

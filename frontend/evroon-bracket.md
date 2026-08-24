@@ -1,6 +1,6 @@
 # evroon/bracket
 
-[![Stars](https://img.shields.io/github/stars/evroon/bracket?style=flat-square&color=yellow)](https://github.com/evroon/bracket/stargazers) [![Forks](https://img.shields.io/github/forks/evroon/bracket?style=flat-square&color=blue)](https://github.com/evroon/bracket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evroon/bracket?style=flat-square&color=yellow)](https://github.com/evroon/bracket/stargazers) [![Forks](https://img.shields.io/github/forks/evroon/bracket?style=flat-square&color=blue)](https://github.com/evroon/bracket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Selfhosted tournament system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ evroon/bracket 在生产环境中的可用性较高。它有活跃的维护者�
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 85/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

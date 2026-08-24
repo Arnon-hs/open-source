@@ -1,6 +1,6 @@
 # nao1215/gup
 
-[![Stars](https://img.shields.io/github/stars/nao1215/gup?style=flat-square&color=yellow)](https://github.com/nao1215/gup/stargazers) [![Forks](https://img.shields.io/github/forks/nao1215/gup?style=flat-square&color=blue)](https://github.com/nao1215/gup/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nao1215/gup?style=flat-square&color=yellow)](https://github.com/nao1215/gup/stargazers) [![Forks](https://img.shields.io/github/forks/nao1215/gup?style=flat-square&color=blue)](https://github.com/nao1215/gup/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 581 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ nao1215/gup 是一款面向 Go 开发者的轻量级二进制管理工具，专�
 | forks | 37/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

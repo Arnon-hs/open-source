@@ -1,6 +1,6 @@
 # lkimuk/Wuwe
 
-[![Stars](https://img.shields.io/github/stars/lkimuk/Wuwe?style=flat-square&color=yellow)](https://github.com/lkimuk/Wuwe/stargazers) [![Forks](https://img.shields.io/github/forks/lkimuk/Wuwe?style=flat-square&color=blue)](https://github.com/lkimuk/Wuwe/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lkimuk/Wuwe?style=flat-square&color=yellow)](https://github.com/lkimuk/Wuwe/stargazers) [![Forks](https://img.shields.io/github/forks/lkimuk/Wuwe?style=flat-square&color=blue)](https://github.com/lkimuk/Wuwe/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for building intelligent agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ lkimuk/Wuwe 的生产可用性为中等（Medium），适合用于原型或内�
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

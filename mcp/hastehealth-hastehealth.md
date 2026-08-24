@@ -1,6 +1,6 @@
 # HasteHealth/HasteHealth
 
-[![Stars](https://img.shields.io/github/stars/HasteHealth/HasteHealth?style=flat-square&color=yellow)](https://github.com/HasteHealth/HasteHealth/stargazers) [![Forks](https://img.shields.io/github/forks/HasteHealth/HasteHealth?style=flat-square&color=blue)](https://github.com/HasteHealth/HasteHealth/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HasteHealth/HasteHealth?style=flat-square&color=yellow)](https://github.com/HasteHealth/HasteHealth/stargazers) [![Forks](https://img.shields.io/github/forks/HasteHealth/HasteHealth?style=flat-square&color=blue)](https://github.com/HasteHealth/HasteHealth/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Headless EHR for storing clinical data as FHIR R4 and serving it to apps and AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ HasteHealth/HasteHealth：HasteHealth/HasteHealth helps connect AI assistants to
 | forks | 21/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dominik1001/caldav-mcp
 
-[![Stars](https://img.shields.io/github/stars/dominik1001/caldav-mcp?style=flat-square&color=yellow)](https://github.com/dominik1001/caldav-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dominik1001/caldav-mcp?style=flat-square&color=blue)](https://github.com/dominik1001/caldav-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dominik1001/caldav-mcp?style=flat-square&color=yellow)](https://github.com/dominik1001/caldav-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dominik1001/caldav-mcp?style=flat-square&color=blue)](https://github.com/dominik1001/caldav-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🗓️ A CalDAV Model Context Protocol (MCP) server to expose calendar operations as tools for AI assistants.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Overall, caldav-mcp offers a practical, standards‑based way to equip AI assist
 | forks | 35/100 |
 | stars | 39/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

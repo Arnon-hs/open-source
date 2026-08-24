@@ -1,6 +1,6 @@
 # freeCodeCamp/freeCodeCamp
 
-[![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp?style=flat-square&color=blue)](https://github.com/freeCodeCamp/freeCodeCamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/freeCodeCamp?style=flat-square&color=blue)](https://github.com/freeCodeCamp/freeCodeCamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 450.5k |
 | 🍴 **Forks** | 45.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ freeCodeCamp 是一个完全开源的学习平台，提供从数学、编程到�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

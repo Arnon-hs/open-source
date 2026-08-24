@@ -1,6 +1,6 @@
 # AsyncFuncAI/deepwiki-open
 
-[![Stars](https://img.shields.io/github/stars/AsyncFuncAI/deepwiki-open?style=flat-square&color=yellow)](https://github.com/AsyncFuncAI/deepwiki-open/stargazers) [![Forks](https://img.shields.io/github/forks/AsyncFuncAI/deepwiki-open?style=flat-square&color=blue)](https://github.com/AsyncFuncAI/deepwiki-open/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AsyncFuncAI/deepwiki-open?style=flat-square&color=yellow)](https://github.com/AsyncFuncAI/deepwiki-open/stargazers) [![Forks](https://img.shields.io/github/forks/AsyncFuncAI/deepwiki-open?style=flat-square&color=blue)](https://github.com/AsyncFuncAI/deepwiki-open/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ AsyncFuncAI/deepwiki-open 在开源社区中表现出色，拥有 17338 个 GitH
 | forks | 82/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 80/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

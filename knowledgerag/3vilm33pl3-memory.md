@@ -1,6 +1,6 @@
 # 3vilM33pl3/memory
 
-[![Stars](https://img.shields.io/github/stars/3vilM33pl3/memory?style=flat-square&color=yellow)](https://github.com/3vilM33pl3/memory/stargazers) [![Forks](https://img.shields.io/github/forks/3vilM33pl3/memory?style=flat-square&color=blue)](https://github.com/3vilM33pl3/memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/3vilM33pl3/memory?style=flat-square&color=yellow)](https://github.com/3vilM33pl3/memory/stargazers) [![Forks](https://img.shields.io/github/forks/3vilM33pl3/memory?style=flat-square&color=blue)](https://github.com/3vilM33pl3/memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Local knowledge base for coding agents with a Rust CLI/TUI, PostgreSQL storage, and optional background capture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · DevTools · Database
+Knowledge/RAG · Frontend · DevTools · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Knowledge/RAG · AI/ML · Frontend · DevTools · Database
 | forks | 27/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aquivalabs/my-org-butler
 
-[![Stars](https://img.shields.io/github/stars/aquivalabs/my-org-butler?style=flat-square&color=yellow)](https://github.com/aquivalabs/my-org-butler/stargazers) [![Forks](https://img.shields.io/github/forks/aquivalabs/my-org-butler?style=flat-square&color=blue)](https://github.com/aquivalabs/my-org-butler/network) [![Language](https://img.shields.io/badge/lang-Apex-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquivalabs/my-org-butler?style=flat-square&color=yellow)](https://github.com/aquivalabs/my-org-butler/stargazers) [![Forks](https://img.shields.io/github/forks/aquivalabs/my-org-butler?style=flat-square&color=blue)](https://github.com/aquivalabs/my-org-butler/network) [![Language](https://img.shields.io/badge/lang-Apex-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent for the Salesforce Utility Bar. Performs tasks for the user & answers questions about the org. Uses the trusted Salesforce Agentforce under the hood.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Apex |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ aquivalabs / my‑org‑butler 是一款基于 Salesforce 官方 Agentforce 
 | forks | 31/100 |
 | stars | 41/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Accelerated-Innovation/governed-ai-delivery
 
-[![Stars](https://img.shields.io/github/stars/Accelerated-Innovation/governed-ai-delivery?style=flat-square&color=yellow)](https://github.com/Accelerated-Innovation/governed-ai-delivery/stargazers) [![Forks](https://img.shields.io/github/forks/Accelerated-Innovation/governed-ai-delivery?style=flat-square&color=blue)](https://github.com/Accelerated-Innovation/governed-ai-delivery/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Accelerated-Innovation/governed-ai-delivery?style=flat-square&color=yellow)](https://github.com/Accelerated-Innovation/governed-ai-delivery/stargazers) [![Forks](https://img.shields.io/github/forks/Accelerated-Innovation/governed-ai-delivery?style=flat-square&color=blue)](https://github.com/Accelerated-Innovation/governed-ai-delivery/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Governed AI Delivery (GovKit) is an open source toolkit for spec-driven, evaluation-aware AI-assisted software delivery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ GovKit 的生产可用性为中等。它适合用于快速原型开发或内部�
 | forks | 0/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 20/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

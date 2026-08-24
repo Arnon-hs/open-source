@@ -1,6 +1,6 @@
 # regenrek/peky
 
-[![Stars](https://img.shields.io/github/stars/regenrek/peky?style=flat-square&color=yellow)](https://github.com/regenrek/peky/stargazers) [![Forks](https://img.shields.io/github/forks/regenrek/peky?style=flat-square&color=blue)](https://github.com/regenrek/peky/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/regenrek/peky?style=flat-square&color=yellow)](https://github.com/regenrek/peky/stargazers) [![Forks](https://img.shields.io/github/forks/regenrek/peky?style=flat-square&color=blue)](https://github.com/regenrek/peky/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > All your AI Agents like Claude Code, Codex CLI in a single TUI to keep things organized.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Orchestration · AI/ML · Frontend · DevTools
 | forks | 21/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

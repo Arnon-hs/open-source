@@ -1,6 +1,6 @@
 # software-mansion/enriched-markdown
 
-[![Stars](https://img.shields.io/github/stars/software-mansion/enriched-markdown?style=flat-square&color=yellow)](https://github.com/software-mansion/enriched-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/enriched-markdown?style=flat-square&color=blue)](https://github.com/software-mansion/enriched-markdown/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion/enriched-markdown?style=flat-square&color=yellow)](https://github.com/software-mansion/enriched-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/enriched-markdown?style=flat-square&color=blue)](https://github.com/software-mansion/enriched-markdown/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown Input & Text for React Native
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 912 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Enriched Markdown is considered medium production-ready, meaning it is suitable 
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

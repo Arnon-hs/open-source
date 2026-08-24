@@ -1,6 +1,6 @@
 # owainlewis/neo
 
-[![Stars](https://img.shields.io/github/stars/owainlewis/neo?style=flat-square&color=yellow)](https://github.com/owainlewis/neo/stargazers) [![Forks](https://img.shields.io/github/forks/owainlewis/neo?style=flat-square&color=blue)](https://github.com/owainlewis/neo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owainlewis/neo?style=flat-square&color=yellow)](https://github.com/owainlewis/neo/stargazers) [![Forks](https://img.shields.io/github/forks/owainlewis/neo?style=flat-square&color=blue)](https://github.com/owainlewis/neo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The best minimalist coding agent harness and agent orchestrator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ owainlewis/neo 的生产可用性被评为中等，适合用于内部工作流�
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

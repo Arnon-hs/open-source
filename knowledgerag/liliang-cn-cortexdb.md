@@ -1,6 +1,6 @@
 # liliang-cn/cortexdb
 
-[![Stars](https://img.shields.io/github/stars/liliang-cn/cortexdb?style=flat-square&color=yellow)](https://github.com/liliang-cn/cortexdb/stargazers) [![Forks](https://img.shields.io/github/forks/liliang-cn/cortexdb?style=flat-square&color=blue)](https://github.com/liliang-cn/cortexdb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liliang-cn/cortexdb?style=flat-square&color=yellow)](https://github.com/liliang-cn/cortexdb/stargazers) [![Forks](https://img.shields.io/github/forks/liliang-cn/cortexdb?style=flat-square&color=blue)](https://github.com/liliang-cn/cortexdb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A pure-Go, single-file AI memory and knowledge graph library and plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ liliang-cn/cortexdb 的主要价值在于帮助内部知识变得可搜索和可
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

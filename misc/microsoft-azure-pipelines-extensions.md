@@ -1,6 +1,6 @@
 # microsoft/azure-pipelines-extensions
 
-[![Stars](https://img.shields.io/github/stars/microsoft/azure-pipelines-extensions?style=flat-square&color=yellow)](https://github.com/microsoft/azure-pipelines-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-pipelines-extensions?style=flat-square&color=blue)](https://github.com/microsoft/azure-pipelines-extensions/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/azure-pipelines-extensions?style=flat-square&color=yellow)](https://github.com/microsoft/azure-pipelines-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-pipelines-extensions?style=flat-square&color=blue)](https://github.com/microsoft/azure-pipelines-extensions/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of all RM and deployment extensions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 422 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Microsoft/Azure-Pipelines-Extensions 是一个开源项目，集合了用于资�
 | forks | 66/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

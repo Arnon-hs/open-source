@@ -1,6 +1,6 @@
 # cmajor-lang/cmajor
 
-[![Stars](https://img.shields.io/github/stars/cmajor-lang/cmajor?style=flat-square&color=yellow)](https://github.com/cmajor-lang/cmajor/stargazers) [![Forks](https://img.shields.io/github/forks/cmajor-lang/cmajor?style=flat-square&color=blue)](https://github.com/cmajor-lang/cmajor/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cmajor-lang/cmajor?style=flat-square&color=yellow)](https://github.com/cmajor-lang/cmajor/stargazers) [![Forks](https://img.shields.io/github/forks/cmajor-lang/cmajor?style=flat-square&color=blue)](https://github.com/cmajor-lang/cmajor/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The Cmajor public repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 730 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Cmajor 是一个开源的 C 语言超集项目，旨在通过现代语言特性�
 | forks | 43/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

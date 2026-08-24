@@ -1,6 +1,6 @@
 # christopherkarani/rykan
 
-[![Stars](https://img.shields.io/github/stars/christopherkarani/rykan?style=flat-square&color=yellow)](https://github.com/christopherkarani/rykan/stargazers) [![Forks](https://img.shields.io/github/forks/christopherkarani/rykan?style=flat-square&color=blue)](https://github.com/christopherkarani/rykan/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/christopherkarani/rykan?style=flat-square&color=yellow)](https://github.com/christopherkarani/rykan/stargazers) [![Forks](https://img.shields.io/github/forks/christopherkarani/rykan?style=flat-square&color=blue)](https://github.com/christopherkarani/rykan/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🚦 Stop AI agents from deleting data, leaking secrets, or taking irreversible actions without approval. One ⭐ takes us a long way :))
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data · Security
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ christopherkarani/rykan 的生产可用性为中等。它适合用于快速构�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

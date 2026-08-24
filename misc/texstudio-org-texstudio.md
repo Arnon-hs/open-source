@@ -1,6 +1,6 @@
 # texstudio-org/texstudio
 
-[![Stars](https://img.shields.io/github/stars/texstudio-org/texstudio?style=flat-square&color=yellow)](https://github.com/texstudio-org/texstudio/stargazers) [![Forks](https://img.shields.io/github/forks/texstudio-org/texstudio?style=flat-square&color=blue)](https://github.com/texstudio-org/texstudio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/texstudio-org/texstudio?style=flat-square&color=yellow)](https://github.com/texstudio-org/texstudio/stargazers) [![Forks](https://img.shields.io/github/forks/texstudio-org/texstudio?style=flat-square&color=blue)](https://github.com/texstudio-org/texstudio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ TeXstudio 的生产可用性评分为高（High）。理由包括：
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

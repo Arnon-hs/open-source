@@ -1,6 +1,6 @@
 # raceychan/lihil
 
-[![Stars](https://img.shields.io/github/stars/raceychan/lihil?style=flat-square&color=yellow)](https://github.com/raceychan/lihil/stargazers) [![Forks](https://img.shields.io/github/forks/raceychan/lihil?style=flat-square&color=blue)](https://github.com/raceychan/lihil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raceychan/lihil?style=flat-square&color=yellow)](https://github.com/raceychan/lihil/stargazers) [![Forks](https://img.shields.io/github/forks/raceychan/lihil?style=flat-square&color=blue)](https://github.com/raceychan/lihil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 2X faster ASGI web framework for python, offering high-level development, low-level performance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ raceychan/lihil 是一款针对 Python 的超高速 ASGI Web 框架，整体性�
 | forks | 23/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

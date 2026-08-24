@@ -1,6 +1,6 @@
 # GSManagerXZ/GameServerManager
 
-[![Stars](https://img.shields.io/github/stars/GSManagerXZ/GameServerManager?style=flat-square&color=yellow)](https://github.com/GSManagerXZ/GameServerManager/stargazers) [![Forks](https://img.shields.io/github/forks/GSManagerXZ/GameServerManager?style=flat-square&color=blue)](https://github.com/GSManagerXZ/GameServerManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GSManagerXZ/GameServerManager?style=flat-square&color=yellow)](https://github.com/GSManagerXZ/GameServerManager/stargazers) [![Forks](https://img.shields.io/github/forks/GSManagerXZ/GameServerManager?style=flat-square&color=blue)](https://github.com/GSManagerXZ/GameServerManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ GSManagerXZ/GameServerManager 具有很高的生产可用性。最近的活动�
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Anil-matcha/Open-AI-Design-Agent
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-AI-Design-Agent?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-AI-Design-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-AI-Design-Agent?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-AI-Design-Agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-AI-Design-Agent?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-AI-Design-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-AI-Design-Agent?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-AI-Design-Agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 657 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Anil-matcha/Open‑AI‑Design‑Agent 是一款开源的 AI 设计代理，能�
 | forks | 54/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

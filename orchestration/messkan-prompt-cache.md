@@ -1,6 +1,6 @@
 # messkan/prompt-cache
 
-[![Stars](https://img.shields.io/github/stars/messkan/prompt-cache?style=flat-square&color=yellow)](https://github.com/messkan/prompt-cache/stargazers) [![Forks](https://img.shields.io/github/forks/messkan/prompt-cache?style=flat-square&color=blue)](https://github.com/messkan/prompt-cache/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/messkan/prompt-cache?style=flat-square&color=yellow)](https://github.com/messkan/prompt-cache/stargazers) [![Forks](https://img.shields.io/github/forks/messkan/prompt-cache?style=flat-square&color=blue)](https://github.com/messkan/prompt-cache/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-agnostic LLM proxy written in Go with sub-millisecond response
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 243 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data · Database
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ messkan/prompt-cache 帮助将孤立的提示和工具转换为可重复的代�
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Infinidoge/nix-minecraft
 
-[![Stars](https://img.shields.io/github/stars/Infinidoge/nix-minecraft?style=flat-square&color=yellow)](https://github.com/Infinidoge/nix-minecraft/stargazers) [![Forks](https://img.shields.io/github/forks/Infinidoge/nix-minecraft?style=flat-square&color=blue)](https://github.com/Infinidoge/nix-minecraft/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Infinidoge/nix-minecraft?style=flat-square&color=yellow)](https://github.com/Infinidoge/nix-minecraft/stargazers) [![Forks](https://img.shields.io/github/forks/Infinidoge/nix-minecraft?style=flat-square&color=blue)](https://github.com/Infinidoge/nix-minecraft/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > An attempt to better support Minecraft-related content for the Nix ecosystem
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Infinidoge/nix-minecraft 是一个开源项目，旨在改善 Nix 生态系统�
 | forks | 49/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

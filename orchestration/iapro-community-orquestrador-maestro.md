@@ -1,6 +1,6 @@
 # IAPro-Community/Orquestrador-Maestro
 
-[![Stars](https://img.shields.io/github/stars/IAPro-Community/Orquestrador-Maestro?style=flat-square&color=yellow)](https://github.com/IAPro-Community/Orquestrador-Maestro/stargazers) [![Forks](https://img.shields.io/github/forks/IAPro-Community/Orquestrador-Maestro?style=flat-square&color=blue)](https://github.com/IAPro-Community/Orquestrador-Maestro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IAPro-Community/Orquestrador-Maestro?style=flat-square&color=yellow)](https://github.com/IAPro-Community/Orquestrador-Maestro/stargazers) [![Forks](https://img.shields.io/github/forks/IAPro-Community/Orquestrador-Maestro?style=flat-square&color=blue)](https://github.com/IAPro-Community/Orquestrador-Maestro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, OpenCode, Cursor, Gemini and Windsurf.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ IAPro-Community/Orquestrador-Maestro 的主要价值在于，它可以帮助将�
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

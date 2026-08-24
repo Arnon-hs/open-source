@@ -1,6 +1,6 @@
 # dongbeixiaohuo/writing-agent
 
-[![Stars](https://img.shields.io/github/stars/dongbeixiaohuo/writing-agent?style=flat-square&color=yellow)](https://github.com/dongbeixiaohuo/writing-agent/stargazers) [![Forks](https://img.shields.io/github/forks/dongbeixiaohuo/writing-agent?style=flat-square&color=blue)](https://github.com/dongbeixiaohuo/writing-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dongbeixiaohuo/writing-agent?style=flat-square&color=yellow)](https://github.com/dongbeixiaohuo/writing-agent/stargazers) [![Forks](https://img.shields.io/github/forks/dongbeixiaohuo/writing-agent?style=flat-square&color=blue)](https://github.com/dongbeixiaohuo/writing-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 一个基于 Claude Code (Skills + Subagents) 的“去AI味”全栈写作系统。不仅防套路，更通过专属规则强制注入人类观点与细节，搭配读者测试评估与自动图文排版。全面支持 DeepSeek / 智谱GLM / MiniMax 等国产低成本大模型，提供从选题、风格建模到审稿发布的高维全自动写作工作流。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ dongbeixiaohuo/writing-agent 的生产可用性为中
 | forks | 45/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ nibor1896/Crow：nibor1896/Crow helps add AI capability without starting from a 
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

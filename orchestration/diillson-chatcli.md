@@ -1,6 +1,6 @@
 # diillson/chatcli
 
-[![Stars](https://img.shields.io/github/stars/diillson/chatcli?style=flat-square&color=yellow)](https://github.com/diillson/chatcli/stargazers) [![Forks](https://img.shields.io/github/forks/diillson/chatcli?style=flat-square&color=blue)](https://github.com/diillson/chatcli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diillson/chatcli?style=flat-square&color=yellow)](https://github.com/diillson/chatcli/stargazers) [![Forks](https://img.shields.io/github/forks/diillson/chatcli?style=flat-square&color=blue)](https://github.com/diillson/chatcli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversations within the terminal. At its core, it features a specialized agent and tools that provide unique expertise.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · DevTools
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ diillson/chatcli 的生产可用性非常高，尤其是考虑到它是一个开
 | forks | 35/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

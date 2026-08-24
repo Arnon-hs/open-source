@@ -1,6 +1,6 @@
 # ilyaux/Eve-flipper
 
-[![Stars](https://img.shields.io/github/stars/ilyaux/Eve-flipper?style=flat-square&color=yellow)](https://github.com/ilyaux/Eve-flipper/stargazers) [![Forks](https://img.shields.io/github/forks/ilyaux/Eve-flipper?style=flat-square&color=blue)](https://github.com/ilyaux/Eve-flipper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilyaux/Eve-flipper?style=flat-square&color=yellow)](https://github.com/ilyaux/Eve-flipper/stargazers) [![Forks](https://img.shields.io/github/forks/ilyaux/Eve-flipper?style=flat-square&color=blue)](https://github.com/ilyaux/Eve-flipper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time market arbitrage scanner for EVE Online — radius flips, cross-region arbitrage, contract analysis, multi-hop trade routes. Single binary, no install needed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Knowledge/RAG · AI/ML · Frontend · Database
+Trading · Frontend · Database
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Eve-flipper 的生产可用性评估为中等（Medium）。它适合用于原�
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

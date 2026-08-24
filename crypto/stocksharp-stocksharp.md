@@ -1,6 +1,6 @@
 # StockSharp/StockSharp
 
-[![Stars](https://img.shields.io/github/stars/StockSharp/StockSharp?style=flat-square&color=yellow)](https://github.com/StockSharp/StockSharp/stargazers) [![Forks](https://img.shields.io/github/forks/StockSharp/StockSharp?style=flat-square&color=blue)](https://github.com/StockSharp/StockSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StockSharp/StockSharp?style=flat-square&color=yellow)](https://github.com/StockSharp/StockSharp/stargazers) [![Forks](https://img.shields.io/github/forks/StockSharp/StockSharp?style=flat-square&color=blue)](https://github.com/StockSharp/StockSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · DevTools · Database
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ StockSharp/StockSharp 的生产可用性为高。它有强大的社区支持，�
 | forks | 84/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

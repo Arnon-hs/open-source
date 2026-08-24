@@ -1,6 +1,6 @@
 # romankurnovskii/etemaro
 
-[![Stars](https://img.shields.io/github/stars/romankurnovskii/etemaro?style=flat-square&color=yellow)](https://github.com/romankurnovskii/etemaro/stargazers) [![Forks](https://img.shields.io/github/forks/romankurnovskii/etemaro?style=flat-square&color=blue)](https://github.com/romankurnovskii/etemaro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/romankurnovskii/etemaro?style=flat-square&color=yellow)](https://github.com/romankurnovskii/etemaro/stargazers) [![Forks](https://img.shields.io/github/forks/romankurnovskii/etemaro?style=flat-square&color=blue)](https://github.com/romankurnovskii/etemaro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Auto dlmm Meteora bot system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ romankurnovskii/etemaro：romankurnovskii/etemaro helps prototype or inspect blo
 | forks | 0/100 |
 | stars | 42/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

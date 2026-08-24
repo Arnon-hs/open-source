@@ -1,6 +1,6 @@
 # FlanChanXwO/pixiv-cli
 
-[![Stars](https://img.shields.io/github/stars/FlanChanXwO/pixiv-cli?style=flat-square&color=yellow)](https://github.com/FlanChanXwO/pixiv-cli/stargazers) [![Forks](https://img.shields.io/github/forks/FlanChanXwO/pixiv-cli?style=flat-square&color=blue)](https://github.com/FlanChanXwO/pixiv-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlanChanXwO/pixiv-cli?style=flat-square&color=yellow)](https://github.com/FlanChanXwO/pixiv-cli/stargazers) [![Forks](https://img.shields.io/github/forks/FlanChanXwO/pixiv-cli?style=flat-square&color=blue)](https://github.com/FlanChanXwO/pixiv-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Pixiv, in your terminal — a CLI, MCP server, and Go SDK for discovery, accounts, creators, collections, and downloads.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Security · Marketing
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ FlanChanXwO/pixiv-cli 的生产可用性高，理由如下：
 | forks | 0/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

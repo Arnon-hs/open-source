@@ -1,6 +1,6 @@
 # Azure-Samples/AI-Gateway
 
-[![Stars](https://img.shields.io/github/stars/Azure-Samples/AI-Gateway?style=flat-square&color=yellow)](https://github.com/Azure-Samples/AI-Gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/AI-Gateway?style=flat-square&color=blue)](https://github.com/Azure-Samples/AI-Gateway/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure-Samples/AI-Gateway?style=flat-square&color=yellow)](https://github.com/Azure-Samples/AI-Gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/AI-Gateway?style=flat-square&color=blue)](https://github.com/Azure-Samples/AI-Gateway/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 949 |
 | 🍴 **Forks** | 486 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend
+Orchestration · MCP · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Azure-Samples/AI-Gateway 的生产可用性很高，主要原因是：
 | forks | 67/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

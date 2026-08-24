@@ -1,6 +1,6 @@
 # toss/granite
 
-[![Stars](https://img.shields.io/github/stars/toss/granite?style=flat-square&color=yellow)](https://github.com/toss/granite/stargazers) [![Forks](https://img.shields.io/github/forks/toss/granite?style=flat-square&color=blue)](https://github.com/toss/granite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toss/granite?style=flat-square&color=yellow)](https://github.com/toss/granite/stargazers) [![Forks](https://img.shields.io/github/forks/toss/granite?style=flat-square&color=blue)](https://github.com/toss/granite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade React Native framework for microservice apps. Brownfield friendly, 200KB bundles, AWS-ready infrastructure.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Mobile · DevOps/Infra
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ toss/granite 是面向微服务架构的企业级 React Native 框架，专为
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jungjaehoon-lifegamez/MAMA
 
-[![Stars](https://img.shields.io/github/stars/jungjaehoon-lifegamez/MAMA?style=flat-square&color=yellow)](https://github.com/jungjaehoon-lifegamez/MAMA/stargazers) [![Forks](https://img.shields.io/github/forks/jungjaehoon-lifegamez/MAMA?style=flat-square&color=blue)](https://github.com/jungjaehoon-lifegamez/MAMA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jungjaehoon-lifegamez/MAMA?style=flat-square&color=yellow)](https://github.com/jungjaehoon-lifegamez/MAMA/stargazers) [![Forks](https://img.shields.io/github/forks/jungjaehoon-lifegamez/MAMA?style=flat-square&color=blue)](https://github.com/jungjaehoon-lifegamez/MAMA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first operating memory for AI coding agents - Claude Code, Codex, and any MCP client. Tracks decisions and their evolution. SQLite + on-device embeddings, no cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ MAMA 的生产可用性较高，主要原因是：
 | forks | 17/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

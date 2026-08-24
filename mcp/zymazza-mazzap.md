@@ -1,6 +1,6 @@
 # zymazza/mazzap
 
-[![Stars](https://img.shields.io/github/stars/zymazza/mazzap?style=flat-square&color=yellow)](https://github.com/zymazza/mazzap/stargazers) [![Forks](https://img.shields.io/github/forks/zymazza/mazzap?style=flat-square&color=blue)](https://github.com/zymazza/mazzap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zymazza/mazzap?style=flat-square&color=yellow)](https://github.com/zymazza/mazzap/stargazers) [![Forks](https://img.shields.io/github/forks/zymazza/mazzap?style=flat-square&color=blue)](https://github.com/zymazza/mazzap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Mazzap, part of the Mazzstack: essentials for the Singularity Slowlife
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Mazzap 是 Mazzstack 系列中的核心组件，提供一种标准化的协议�
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

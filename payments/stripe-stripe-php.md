@@ -1,6 +1,6 @@
 # stripe/stripe-php
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-php?style=flat-square&color=yellow)](https://github.com/stripe/stripe-php/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-php?style=flat-square&color=blue)](https://github.com/stripe/stripe-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-php?style=flat-square&color=yellow)](https://github.com/stripe/stripe-php/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-php?style=flat-square&color=blue)](https://github.com/stripe/stripe-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > PHP library for the Stripe API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 892 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ stripe/stripe-php is the official PHP client library for the Stripe API, offerin
 | forks | 74/100 |
 | stars | 77/100 |
 | topics | 25/100 |
-| outlook | 81/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

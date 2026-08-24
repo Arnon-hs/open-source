@@ -1,6 +1,6 @@
 # SchedMD/slurm
 
-[![Stars](https://img.shields.io/github/stars/SchedMD/slurm?style=flat-square&color=yellow)](https://github.com/SchedMD/slurm/stargazers) [![Forks](https://img.shields.io/github/forks/SchedMD/slurm?style=flat-square&color=blue)](https://github.com/SchedMD/slurm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SchedMD/slurm?style=flat-square&color=yellow)](https://github.com/SchedMD/slurm/stargazers) [![Forks](https://img.shields.io/github/forks/SchedMD/slurm?style=flat-square&color=blue)](https://github.com/SchedMD/slurm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Slurm: A Highly Scalable Workload Manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 868 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ SchedMD/slurm的生产可用性为中等（Medium），适合用于原型或内�
 | forks | 73/100 |
 | stars | 77/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

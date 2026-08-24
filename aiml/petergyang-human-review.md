@@ -1,6 +1,6 @@
 # petergyang/human-review
 
-[![Stars](https://img.shields.io/github/stars/petergyang/human-review?style=flat-square&color=yellow)](https://github.com/petergyang/human-review/stargazers) [![Forks](https://img.shields.io/github/forks/petergyang/human-review?style=flat-square&color=blue)](https://github.com/petergyang/human-review/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petergyang/human-review?style=flat-square&color=yellow)](https://github.com/petergyang/human-review/stargazers) [![Forks](https://img.shields.io/github/forks/petergyang/human-review?style=flat-square&color=blue)](https://github.com/petergyang/human-review/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ petergyang/human-review 的主要价值在于，它可以帮助开发者在不�
 | forks | 19/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

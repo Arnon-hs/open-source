@@ -1,6 +1,6 @@
 # imMatheus/spidey-sense
 
-[![Stars](https://img.shields.io/github/stars/imMatheus/spidey-sense?style=flat-square&color=yellow)](https://github.com/imMatheus/spidey-sense/stargazers) [![Forks](https://img.shields.io/github/forks/imMatheus/spidey-sense?style=flat-square&color=blue)](https://github.com/imMatheus/spidey-sense/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imMatheus/spidey-sense?style=flat-square&color=yellow)](https://github.com/imMatheus/spidey-sense/stargazers) [![Forks](https://img.shields.io/github/forks/imMatheus/spidey-sense?style=flat-square&color=blue)](https://github.com/imMatheus/spidey-sense/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ With those checks in place, `spidey-sense` is well‑suited for internal tools, 
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

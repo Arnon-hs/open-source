@@ -1,6 +1,6 @@
 # mautrix/slack
 
-[![Stars](https://img.shields.io/github/stars/mautrix/slack?style=flat-square&color=yellow)](https://github.com/mautrix/slack/stargazers) [![Forks](https://img.shields.io/github/forks/mautrix/slack?style=flat-square&color=blue)](https://github.com/mautrix/slack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mautrix/slack?style=flat-square&color=yellow)](https://github.com/mautrix/slack/stargazers) [![Forks](https://img.shields.io/github/forks/mautrix/slack?style=flat-square&color=blue)](https://github.com/mautrix/slack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A Matrix-Slack puppeting bridge
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ mautrix/slack 的生产可用性为中等（Medium）。它适合用于构建原
 | forks | 38/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # wemake-services/django-split-settings
 
-[![Stars](https://img.shields.io/github/stars/wemake-services/django-split-settings?style=flat-square&color=yellow)](https://github.com/wemake-services/django-split-settings/stargazers) [![Forks](https://img.shields.io/github/forks/wemake-services/django-split-settings?style=flat-square&color=blue)](https://github.com/wemake-services/django-split-settings/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wemake-services/django-split-settings?style=flat-square&color=yellow)](https://github.com/wemake-services/django-split-settings/stargazers) [![Forks](https://img.shields.io/github/forks/wemake-services/django-split-settings?style=flat-square&color=blue)](https://github.com/wemake-services/django-split-settings/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ wemake-services/django-split-settings 是一个开源项目，帮助 Django 项�
 | forks | 47/100 |
 | stars | 66/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

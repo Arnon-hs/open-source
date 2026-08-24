@@ -1,6 +1,6 @@
 # neuron-core/neuron-laravel
 
-[![Stars](https://img.shields.io/github/stars/neuron-core/neuron-laravel?style=flat-square&color=yellow)](https://github.com/neuron-core/neuron-laravel/stargazers) [![Forks](https://img.shields.io/github/forks/neuron-core/neuron-laravel?style=flat-square&color=blue)](https://github.com/neuron-core/neuron-laravel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neuron-core/neuron-laravel?style=flat-square&color=yellow)](https://github.com/neuron-core/neuron-laravel/stargazers) [![Forks](https://img.shields.io/github/forks/neuron-core/neuron-laravel?style=flat-square&color=blue)](https://github.com/neuron-core/neuron-laravel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Official Neuron AI Laravel SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ neuron-core/neuron-laravel 是官方的 Neuron AI Laravel SDK，帮助开发者�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

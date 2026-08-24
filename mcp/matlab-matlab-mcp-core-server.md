@@ -1,6 +1,6 @@
 # matlab/matlab-mcp-core-server
 
-[![Stars](https://img.shields.io/github/stars/matlab/matlab-mcp-core-server?style=flat-square&color=yellow)](https://github.com/matlab/matlab-mcp-core-server/stargazers) [![Forks](https://img.shields.io/github/forks/matlab/matlab-mcp-core-server?style=flat-square&color=blue)](https://github.com/matlab/matlab-mcp-core-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matlab/matlab-mcp-core-server?style=flat-square&color=yellow)](https://github.com/matlab/matlab-mcp-core-server/stargazers) [![Forks](https://img.shields.io/github/forks/matlab/matlab-mcp-core-server?style=flat-square&color=blue)](https://github.com/matlab/matlab-mcp-core-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 609 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ matlab/matlab-mcp-core-server 是 MathWorks 官方提供的 MATLAB Model Con
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

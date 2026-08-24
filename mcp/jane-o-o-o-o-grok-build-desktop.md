@@ -1,6 +1,6 @@
 # Jane-o-O-o-O/grok-build-desktop
 
-[![Stars](https://img.shields.io/github/stars/Jane-o-O-o-O/grok-build-desktop?style=flat-square&color=yellow)](https://github.com/Jane-o-O-o-O/grok-build-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Jane-o-O-o-O/grok-build-desktop?style=flat-square&color=blue)](https://github.com/Jane-o-O-o-O/grok-build-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jane-o-O-o-O/grok-build-desktop?style=flat-square&color=yellow)](https://github.com/Jane-o-O-o-O/grok-build-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Jane-o-O-o-O/grok-build-desktop?style=flat-square&color=blue)](https://github.com/Jane-o-O-o-O/grok-build-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Grok Build Desktop GUI — open-source Electron AI coding agent for xAI Grok Build / grok CLI. Native tools, MCP, third-party models, parallel sessions. Windows, macOS, Linux.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ Jane-o-O-o-O/grok-build-desktop的生产可用性是中等的。它适合用于�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

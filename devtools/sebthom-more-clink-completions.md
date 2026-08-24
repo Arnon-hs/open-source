@@ -1,6 +1,6 @@
 # sebthom/more-clink-completions
 
-[![Stars](https://img.shields.io/github/stars/sebthom/more-clink-completions?style=flat-square&color=yellow)](https://github.com/sebthom/more-clink-completions/stargazers) [![Forks](https://img.shields.io/github/forks/sebthom/more-clink-completions?style=flat-square&color=blue)](https://github.com/sebthom/more-clink-completions/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebthom/more-clink-completions?style=flat-square&color=yellow)](https://github.com/sebthom/more-clink-completions/stargazers) [![Forks](https://img.shields.io/github/forks/sebthom/more-clink-completions?style=flat-square&color=blue)](https://github.com/sebthom/more-clink-completions/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Windows command line Clink auto-completion for Nektos/Act, Curl, Docker, Dart, Haxe, Java, Lua, Maven, OpenSSL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Haxe |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ sebthom/more-clink-completions 的价值在于，它可以帮助工程师:
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

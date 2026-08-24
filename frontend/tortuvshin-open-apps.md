@@ -1,6 +1,6 @@
 # tortuvshin/open-apps
 
-[![Stars](https://img.shields.io/github/stars/tortuvshin/open-apps?style=flat-square&color=yellow)](https://github.com/tortuvshin/open-apps/stargazers) [![Forks](https://img.shields.io/github/forks/tortuvshin/open-apps?style=flat-square&color=blue)](https://github.com/tortuvshin/open-apps/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tortuvshin/open-apps?style=flat-square&color=yellow)](https://github.com/tortuvshin/open-apps/stargazers) [![Forks](https://img.shields.io/github/forks/tortuvshin/open-apps?style=flat-square&color=blue)](https://github.com/tortuvshin/open-apps/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 787 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile · Education · Product
+Frontend · Mobile · Education
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ tortuvshin/open‑apps 是一个精选的、会自动同步的开源应用代码
 | forks | 72/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

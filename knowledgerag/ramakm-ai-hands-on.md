@@ -1,6 +1,6 @@
 # Ramakm/ai-hands-on
 
-[![Stars](https://img.shields.io/github/stars/Ramakm/ai-hands-on?style=flat-square&color=yellow)](https://github.com/Ramakm/ai-hands-on/stargazers) [![Forks](https://img.shields.io/github/forks/Ramakm/ai-hands-on?style=flat-square&color=blue)](https://github.com/Ramakm/ai-hands-on/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ramakm/ai-hands-on?style=flat-square&color=yellow)](https://github.com/Ramakm/ai-hands-on/stargazers) [![Forks](https://img.shields.io/github/forks/Ramakm/ai-hands-on?style=flat-square&color=blue)](https://github.com/Ramakm/ai-hands-on/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A group of notebooks  and other files which can help you learn AI from scratch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Database · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Ramakm/ai-hands-on 的生产可用性很高，主要原因是：
 | forks | 61/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

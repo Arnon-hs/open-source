@@ -1,6 +1,6 @@
 # binarynonsense/comic-book-reader
 
-[![Stars](https://img.shields.io/github/stars/binarynonsense/comic-book-reader?style=flat-square&color=yellow)](https://github.com/binarynonsense/comic-book-reader/stargazers) [![Forks](https://img.shields.io/github/forks/binarynonsense/comic-book-reader?style=flat-square&color=blue)](https://github.com/binarynonsense/comic-book-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binarynonsense/comic-book-reader?style=flat-square&color=yellow)](https://github.com/binarynonsense/comic-book-reader/stargazers) [![Forks](https://img.shields.io/github/forks/binarynonsense/comic-book-reader?style=flat-square&color=blue)](https://github.com/binarynonsense/comic-book-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > ACBR - A comic book reader and converter for CBZ, CBR, CB7, EPUB, FB2, MOBI 7 and PDF files (Windows & Linux)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ binarynonsense/comic-book-reader（ACBR）是一款跨平台的漫画阅读器�
 | forks | 34/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

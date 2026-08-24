@@ -1,6 +1,6 @@
 # ok-oldking/ok-script
 
-[![Stars](https://img.shields.io/github/stars/ok-oldking/ok-script?style=flat-square&color=yellow)](https://github.com/ok-oldking/ok-script/stargazers) [![Forks](https://img.shields.io/github/forks/ok-oldking/ok-script?style=flat-square&color=blue)](https://github.com/ok-oldking/ok-script/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ok-oldking/ok-script?style=flat-square&color=yellow)](https://github.com/ok-oldking/ok-script/stargazers) [![Forks](https://img.shields.io/github/forks/ok-oldking/ok-script?style=flat-square&color=blue)](https://github.com/ok-oldking/ok-script/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 现代Python游戏自动化框架(支持Windows/模拟器/浏览器)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ ok-oldking/ok-script 是一个现代Python游戏自动化框架，支持Windows�
 | forks | 57/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

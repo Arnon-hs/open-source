@@ -1,6 +1,6 @@
 # minghinmatthewlam/openbench
 
-[![Stars](https://img.shields.io/github/stars/minghinmatthewlam/openbench?style=flat-square&color=yellow)](https://github.com/minghinmatthewlam/openbench/stargazers) [![Forks](https://img.shields.io/github/forks/minghinmatthewlam/openbench?style=flat-square&color=blue)](https://github.com/minghinmatthewlam/openbench/network) [![Language](https://img.shields.io/badge/lang-G-code-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minghinmatthewlam/openbench?style=flat-square&color=yellow)](https://github.com/minghinmatthewlam/openbench/stargazers) [![Forks](https://img.shields.io/github/forks/minghinmatthewlam/openbench?style=flat-square&color=blue)](https://github.com/minghinmatthewlam/openbench/network) [![Language](https://img.shields.io/badge/lang-G-code-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Same model, different wrapper: a from-scratch benchmark comparing coding-agent harnesses (codex, pi, opencode, cursor, devin) and open models on correctness, speed, and token cost
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | G-code |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ minghinmatthewlam/openbench 提供了一个从零开始的基准测试框架，�
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

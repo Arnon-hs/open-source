@@ -1,6 +1,6 @@
 # impierce/identity-wallet
 
-[![Stars](https://img.shields.io/github/stars/impierce/identity-wallet?style=flat-square&color=yellow)](https://github.com/impierce/identity-wallet/stargazers) [![Forks](https://img.shields.io/github/forks/impierce/identity-wallet?style=flat-square&color=blue)](https://github.com/impierce/identity-wallet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/impierce/identity-wallet?style=flat-square&color=yellow)](https://github.com/impierce/identity-wallet/stargazers) [![Forks](https://img.shields.io/github/forks/impierce/identity-wallet?style=flat-square&color=blue)](https://github.com/impierce/identity-wallet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A Tauri-based Identity Wallet for people to manage Decentralized Identities and Verifiable Credentials.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ impierce/identity-wallet 是一个基于 Tauri 的去中心化身份钱包，帮
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

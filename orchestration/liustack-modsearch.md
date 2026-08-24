@@ -1,6 +1,6 @@
 # liustack/modsearch
 
-[![Stars](https://img.shields.io/github/stars/liustack/modsearch?style=flat-square&color=yellow)](https://github.com/liustack/modsearch/stargazers) [![Forks](https://img.shields.io/github/forks/liustack/modsearch?style=flat-square&color=blue)](https://github.com/liustack/modsearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liustack/modsearch?style=flat-square&color=yellow)](https://github.com/liustack/modsearch/stargazers) [![Forks](https://img.shields.io/github/forks/liustack/modsearch?style=flat-square&color=blue)](https://github.com/liustack/modsearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CLI toolkit for AI agents — turns search queries into structured web evidence (JSON). Provider-extensible architecture, designed to be called from Agent Skills (Claude Code, Codex, Cursor, etc.).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Design
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ liustack/modsearch 帮助将孤立的提示和工具转换为可重复的代理�
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 42/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

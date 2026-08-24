@@ -1,6 +1,6 @@
 # juancastillo0/wasm_run
 
-[![Stars](https://img.shields.io/github/stars/juancastillo0/wasm_run?style=flat-square&color=yellow)](https://github.com/juancastillo0/wasm_run/stargazers) [![Forks](https://img.shields.io/github/forks/juancastillo0/wasm_run?style=flat-square&color=blue)](https://github.com/juancastillo0/wasm_run/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juancastillo0/wasm_run?style=flat-square&color=yellow)](https://github.com/juancastillo0/wasm_run/stargazers) [![Forks](https://img.shields.io/github/forks/juancastillo0/wasm_run?style=flat-square&color=blue)](https://github.com/juancastillo0/wasm_run/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A WebAssembly executor for Dart and Flutter applications. Uses Rust's wasmtime optimizing runtime or wasmi interpreter to parse and execute WASM and WAT files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ juancastillo0/wasm_run 的生产可用性为中等。它可以用于原型开发
 | forks | 30/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pdfcpu/pdfcpu
 
-[![Stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=flat-square&color=yellow)](https://github.com/pdfcpu/pdfcpu/stargazers) [![Forks](https://img.shields.io/github/forks/pdfcpu/pdfcpu?style=flat-square&color=blue)](https://github.com/pdfcpu/pdfcpu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=flat-square&color=yellow)](https://github.com/pdfcpu/pdfcpu/stargazers) [![Forks](https://img.shields.io/github/forks/pdfcpu/pdfcpu?style=flat-square&color=blue)](https://github.com/pdfcpu/pdfcpu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > PDF tooling for Go and the command line.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.7k |
 | 🍴 **Forks** | 621 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ pdfcpu/pdfcpu 有很高的生产可用性，它有最近的活跃度，采用率
 | forks | 70/100 |
 | stars | 84/100 |
 | topics | 88/100 |
-| outlook | 89/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 80/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

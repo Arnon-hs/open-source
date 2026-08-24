@@ -1,6 +1,6 @@
 # pgenie-io/pgenie
 
-[![Stars](https://img.shields.io/github/stars/pgenie-io/pgenie?style=flat-square&color=yellow)](https://github.com/pgenie-io/pgenie/stargazers) [![Forks](https://img.shields.io/github/forks/pgenie-io/pgenie?style=flat-square&color=blue)](https://github.com/pgenie-io/pgenie/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgenie-io/pgenie?style=flat-square&color=yellow)](https://github.com/pgenie-io/pgenie/stargazers) [![Forks](https://img.shields.io/github/forks/pgenie-io/pgenie?style=flat-square&color=blue)](https://github.com/pgenie-io/pgenie/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > SQL-first, type-safe PostgreSQL client code generator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ pgenie‑io/pgenie — это генератор клиентского код
 | forks | 12/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

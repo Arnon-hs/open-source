@@ -1,6 +1,6 @@
 # AssemblyScript/assemblyscript
 
-[![Stars](https://img.shields.io/github/stars/AssemblyScript/assemblyscript?style=flat-square&color=yellow)](https://github.com/AssemblyScript/assemblyscript/stargazers) [![Forks](https://img.shields.io/github/forks/AssemblyScript/assemblyscript?style=flat-square&color=blue)](https://github.com/AssemblyScript/assemblyscript/network) [![Language](https://img.shields.io/badge/lang-WebAssembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AssemblyScript/assemblyscript?style=flat-square&color=yellow)](https://github.com/AssemblyScript/assemblyscript/stargazers) [![Forks](https://img.shields.io/github/forks/AssemblyScript/assemblyscript?style=flat-square&color=blue)](https://github.com/AssemblyScript/assemblyscript/network) [![Language](https://img.shields.io/badge/lang-WebAssembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A TypeScript-like language for WebAssembly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.9k |
 | 🍴 **Forks** | 693 |
 | 💻 **Language** | WebAssembly |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ AssemblyScript（GitHub 仓库：AssemblyScript/assemblyscript）是一门受 Ty
 | forks | 71/100 |
 | stars | 91/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

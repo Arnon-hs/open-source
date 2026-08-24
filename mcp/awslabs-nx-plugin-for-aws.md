@@ -1,6 +1,6 @@
 # awslabs/nx-plugin-for-aws
 
-[![Stars](https://img.shields.io/github/stars/awslabs/nx-plugin-for-aws?style=flat-square&color=yellow)](https://github.com/awslabs/nx-plugin-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/nx-plugin-for-aws?style=flat-square&color=blue)](https://github.com/awslabs/nx-plugin-for-aws/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/nx-plugin-for-aws?style=flat-square&color=yellow)](https://github.com/awslabs/nx-plugin-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/nx-plugin-for-aws?style=flat-square&color=blue)](https://github.com/awslabs/nx-plugin-for-aws/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The @aws/nx-plugin is a collection of code generators that automate the creation and configuration of cloud-native applications using AWS, TypeScript, Python and React within the Nx development ecosystem.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · Product
+MCP · Frontend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ awslabs/nx-plugin-for-aws 帮助连接 AI 助手到真正的工具和数据通�
 | forks | 36/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

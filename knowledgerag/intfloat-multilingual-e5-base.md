@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
 | 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2026-04-02 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -115,6 +115,7 @@ intfloat/multilingual-e5-base 是一个开源模型，用于 Embeddings 和相�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

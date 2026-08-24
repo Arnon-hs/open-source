@@ -1,6 +1,6 @@
 # MixinNetwork/ios-app
 
-[![Stars](https://img.shields.io/github/stars/MixinNetwork/ios-app?style=flat-square&color=yellow)](https://github.com/MixinNetwork/ios-app/stargazers) [![Forks](https://img.shields.io/github/forks/MixinNetwork/ios-app?style=flat-square&color=blue)](https://github.com/MixinNetwork/ios-app/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MixinNetwork/ios-app?style=flat-square&color=yellow)](https://github.com/MixinNetwork/ios-app/stargazers) [![Forks](https://img.shields.io/github/forks/MixinNetwork/ios-app?style=flat-square&color=blue)](https://github.com/MixinNetwork/ios-app/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 📱iOS private messenger, crypto wallet and light node to Mixin Network
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Mobile · Security
+Crypto · Mobile · Security
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ MixinNetwork/ios-app 的生产可用性为中等。虽然它可以用于内部�
 | forks | 51/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

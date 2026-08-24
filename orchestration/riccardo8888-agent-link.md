@@ -1,6 +1,6 @@
 # Riccardo8888/agent-link
 
-[![Stars](https://img.shields.io/github/stars/Riccardo8888/agent-link?style=flat-square&color=yellow)](https://github.com/Riccardo8888/agent-link/stargazers) [![Forks](https://img.shields.io/github/forks/Riccardo8888/agent-link?style=flat-square&color=blue)](https://github.com/Riccardo8888/agent-link/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Riccardo8888/agent-link?style=flat-square&color=yellow)](https://github.com/Riccardo8888/agent-link/stargazers) [![Forks](https://img.shields.io/github/forks/Riccardo8888/agent-link?style=flat-square&color=blue)](https://github.com/Riccardo8888/agent-link/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An end-to-end encrypted channel between coding agents, anywhere
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Riccardo8888/agent-link：Riccardo8888/agent-link helps turn isolated prompts an
 | forks | 23/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

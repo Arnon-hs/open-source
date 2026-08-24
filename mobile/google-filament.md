@@ -1,6 +1,6 @@
 # google/filament
 
-[![Stars](https://img.shields.io/github/stars/google/filament?style=flat-square&color=yellow)](https://github.com/google/filament/stargazers) [![Forks](https://img.shields.io/github/forks/google/filament?style=flat-square&color=blue)](https://github.com/google/filament/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/filament?style=flat-square&color=yellow)](https://github.com/google/filament/stargazers) [![Forks](https://img.shields.io/github/forks/google/filament?style=flat-square&color=blue)](https://github.com/google/filament/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.1k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Filament 是 Google 开源的实时物理渲染引擎，支持 Android、iOS、W
 | forks | 83/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 75/100 |
+| recency | 20/100 |
 | adoption | 89/100 |
-| production | 82/100 |
-| usefulness | 42/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

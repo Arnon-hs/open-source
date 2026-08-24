@@ -1,6 +1,6 @@
 # category-labs/monad-bft
 
-[![Stars](https://img.shields.io/github/stars/category-labs/monad-bft?style=flat-square&color=yellow)](https://github.com/category-labs/monad-bft/stargazers) [![Forks](https://img.shields.io/github/forks/category-labs/monad-bft?style=flat-square&color=blue)](https://github.com/category-labs/monad-bft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/category-labs/monad-bft?style=flat-square&color=yellow)](https://github.com/category-labs/monad-bft/stargazers) [![Forks](https://img.shields.io/github/forks/category-labs/monad-bft?style=flat-square&color=blue)](https://github.com/category-labs/monad-bft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ The project sits at a medium readiness level: it is actively maintained (last co
 | forks | 63/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

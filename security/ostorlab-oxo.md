@@ -1,6 +1,6 @@
 # Ostorlab/oxo
 
-[![Stars](https://img.shields.io/github/stars/Ostorlab/oxo?style=flat-square&color=yellow)](https://github.com/Ostorlab/oxo/stargazers) [![Forks](https://img.shields.io/github/forks/Ostorlab/oxo?style=flat-square&color=blue)](https://github.com/Ostorlab/oxo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ostorlab/oxo?style=flat-square&color=yellow)](https://github.com/Ostorlab/oxo/stargazers) [![Forks](https://img.shields.io/github/forks/Ostorlab/oxo?style=flat-square&color=blue)](https://github.com/Ostorlab/oxo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OXO is a security scanning orchestrator for the modern age.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 579 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Ostorlab/oxo 的生产可用性为中等（Medium），适合用于原型或内�
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

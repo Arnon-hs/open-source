@@ -1,6 +1,6 @@
 # NVIDIA/SkillEvaluator
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/SkillEvaluator?style=flat-square&color=yellow)](https://github.com/NVIDIA/SkillEvaluator/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/SkillEvaluator?style=flat-square&color=blue)](https://github.com/NVIDIA/SkillEvaluator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/SkillEvaluator?style=flat-square&color=yellow)](https://github.com/NVIDIA/SkillEvaluator/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/SkillEvaluator?style=flat-square&color=blue)](https://github.com/NVIDIA/SkillEvaluator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Security
+Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ NVIDIA/SkillEvaluator：NVIDIA/SkillEvaluator helps turn isolated prompts and to
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

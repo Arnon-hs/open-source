@@ -1,6 +1,6 @@
 # chung-leong/zigar
 
-[![Stars](https://img.shields.io/github/stars/chung-leong/zigar?style=flat-square&color=yellow)](https://github.com/chung-leong/zigar/stargazers) [![Forks](https://img.shields.io/github/forks/chung-leong/zigar?style=flat-square&color=blue)](https://github.com/chung-leong/zigar/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chung-leong/zigar?style=flat-square&color=yellow)](https://github.com/chung-leong/zigar/stargazers) [![Forks](https://img.shields.io/github/forks/chung-leong/zigar?style=flat-square&color=blue)](https://github.com/chung-leong/zigar/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Toolkit enabling the use of Zig code in JavaScript projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ chung-leong/zigar 的生产可用性为中等。它适用于 prototyping 或内�
 | forks | 23/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

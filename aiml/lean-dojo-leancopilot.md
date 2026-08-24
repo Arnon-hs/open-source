@@ -1,6 +1,6 @@
 # lean-dojo/LeanCopilot
 
-[![Stars](https://img.shields.io/github/stars/lean-dojo/LeanCopilot?style=flat-square&color=yellow)](https://github.com/lean-dojo/LeanCopilot/stargazers) [![Forks](https://img.shields.io/github/forks/lean-dojo/LeanCopilot?style=flat-square&color=blue)](https://github.com/lean-dojo/LeanCopilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lean-dojo/LeanCopilot?style=flat-square&color=yellow)](https://github.com/lean-dojo/LeanCopilot/stargazers) [![Forks](https://img.shields.io/github/forks/lean-dojo/LeanCopilot?style=flat-square&color=blue)](https://github.com/lean-dojo/LeanCopilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > LLMs as Copilots for Theorem Proving in Lean
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ lean-dojo/LeanCopilot：lean-dojo/LeanCopilot helps add AI capability without st
 | forks | 53/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

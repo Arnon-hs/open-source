@@ -1,6 +1,6 @@
 # zhnt/loushang
 
-[![Stars](https://img.shields.io/github/stars/zhnt/loushang?style=flat-square&color=yellow)](https://github.com/zhnt/loushang/stargazers) [![Forks](https://img.shields.io/github/forks/zhnt/loushang?style=flat-square&color=blue)](https://github.com/zhnt/loushang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhnt/loushang?style=flat-square&color=yellow)](https://github.com/zhnt/loushang/stargazers) [![Forks](https://img.shields.io/github/forks/zhnt/loushang?style=flat-square&color=blue)](https://github.com/zhnt/loushang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ zhnt/loushang：zhnt/loushang helps turn isolated prompts and tools into repeata
 | forks | 46/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

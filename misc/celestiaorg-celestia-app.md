@@ -1,6 +1,6 @@
 # celestiaorg/celestia-app
 
-[![Stars](https://img.shields.io/github/stars/celestiaorg/celestia-app?style=flat-square&color=yellow)](https://github.com/celestiaorg/celestia-app/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/celestia-app?style=flat-square&color=blue)](https://github.com/celestiaorg/celestia-app/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/celestiaorg/celestia-app?style=flat-square&color=yellow)](https://github.com/celestiaorg/celestia-app/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/celestia-app?style=flat-square&color=blue)](https://github.com/celestiaorg/celestia-app/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Celestia consensus node
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 504 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Celestia‑App 是 Celestia 网络的共识节点实现，使用 Go 语言编写
 | forks | 68/100 |
 | stars | 56/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

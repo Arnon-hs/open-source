@@ -1,6 +1,6 @@
 # rsclaw-ai/rsclaw
 
-[![Stars](https://img.shields.io/github/stars/rsclaw-ai/rsclaw?style=flat-square&color=yellow)](https://github.com/rsclaw-ai/rsclaw/stargazers) [![Forks](https://img.shields.io/github/forks/rsclaw-ai/rsclaw?style=flat-square&color=blue)](https://github.com/rsclaw-ai/rsclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsclaw-ai/rsclaw?style=flat-square&color=yellow)](https://github.com/rsclaw-ai/rsclaw/stargazers) [![Forks](https://img.shields.io/github/forks/rsclaw-ai/rsclaw?style=flat-square&color=blue)](https://github.com/rsclaw-ai/rsclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀 AI Agent Engine with Long-Term Memory and Self-Learning & One-Click OpenClaw Migration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ rsclaw-ai/rsclaw 的生产可用性为中等（Medium），适合用于原型开
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

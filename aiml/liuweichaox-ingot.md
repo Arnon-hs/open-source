@@ -1,6 +1,6 @@
 # liuweichaox/Ingot
 
-[![Stars](https://img.shields.io/github/stars/liuweichaox/Ingot?style=flat-square&color=yellow)](https://github.com/liuweichaox/Ingot/stargazers) [![Forks](https://img.shields.io/github/forks/liuweichaox/Ingot?style=flat-square&color=blue)](https://github.com/liuweichaox/Ingot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liuweichaox/Ingot?style=flat-square&color=yellow)](https://github.com/liuweichaox/Ingot/stargazers) [![Forks](https://img.shields.io/github/forks/liuweichaox/Ingot?style=flat-square&color=blue)](https://github.com/liuweichaox/Ingot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 原生的工业数据与工艺分析平台
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Ingot 的生产可用性为中等（Medium），适合用于 prototyping 或内�
 | forks | 36/100 |
 | stars | 35/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

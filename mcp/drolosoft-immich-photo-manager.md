@@ -1,6 +1,6 @@
 # drolosoft/immich-photo-manager
 
-[![Stars](https://img.shields.io/github/stars/drolosoft/immich-photo-manager?style=flat-square&color=yellow)](https://github.com/drolosoft/immich-photo-manager/stargazers) [![Forks](https://img.shields.io/github/forks/drolosoft/immich-photo-manager?style=flat-square&color=blue)](https://github.com/drolosoft/immich-photo-manager/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drolosoft/immich-photo-manager?style=flat-square&color=yellow)](https://github.com/drolosoft/immich-photo-manager/stargazers) [![Forks](https://img.shields.io/github/forks/drolosoft/immich-photo-manager?style=flat-square&color=blue)](https://github.com/drolosoft/immich-photo-manager/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ drolosoft/immich-photo-manager 的主要价值在于帮助连接 AI 助手和真
 | forks | 21/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

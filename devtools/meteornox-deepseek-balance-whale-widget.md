@@ -1,6 +1,6 @@
 # MeteorNOX/DeepSeek-Balance-Whale-Widget
 
-[![Stars](https://img.shields.io/github/stars/MeteorNOX/DeepSeek-Balance-Whale-Widget?style=flat-square&color=yellow)](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/stargazers) [![Forks](https://img.shields.io/github/forks/MeteorNOX/DeepSeek-Balance-Whale-Widget?style=flat-square&color=blue)](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MeteorNOX/DeepSeek-Balance-Whale-Widget?style=flat-square&color=yellow)](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/stargazers) [![Forks](https://img.shields.io/github/forks/MeteorNOX/DeepSeek-Balance-Whale-Widget?style=flat-square&color=blue)](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ MeteorNOX/DeepSeek-Balance-Whale-Widget：MeteorNOX/DeepSeek-Balance-Whale-Widge
 | forks | 23/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

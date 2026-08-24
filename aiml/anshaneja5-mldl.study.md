@@ -1,6 +1,6 @@
 # anshaneja5/mldl.study
 
-[![Stars](https://img.shields.io/github/stars/anshaneja5/mldl.study?style=flat-square&color=yellow)](https://github.com/anshaneja5/mldl.study/stargazers) [![Forks](https://img.shields.io/github/forks/anshaneja5/mldl.study?style=flat-square&color=blue)](https://github.com/anshaneja5/mldl.study/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anshaneja5/mldl.study?style=flat-square&color=yellow)](https://github.com/anshaneja5/mldl.study/stargazers) [![Forks](https://img.shields.io/github/forks/anshaneja5/mldl.study?style=flat-square&color=blue)](https://github.com/anshaneja5/mldl.study/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ML & DL roadmap with curated resources like videos, articles, research-papers, competitions, projects etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education · Product
+AI/ML · Product
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ The open-source project "mldl.study" provides a curated roadmap for Machine Lear
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

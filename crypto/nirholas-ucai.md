@@ -1,6 +1,6 @@
 # nirholas/UCAI
 
-[![Stars](https://img.shields.io/github/stars/nirholas/UCAI?style=flat-square&color=yellow)](https://github.com/nirholas/UCAI/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/UCAI?style=flat-square&color=blue)](https://github.com/nirholas/UCAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/UCAI?style=flat-square&color=yellow)](https://github.com/nirholas/UCAI/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/UCAI?style=flat-square&color=blue)](https://github.com/nirholas/UCAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Python CLI, Web3 integration, transaction simulation. Polygon, Arbitrum, Base, Ethereum EVM chains. Claude, GPT, LLM tooling, Solidity, OpenAI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · MCP · AI/ML · Backend · DevTools
+Crypto · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ nirholas/UCAI 的生产可用性非常高，主要原因是：
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

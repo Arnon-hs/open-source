@@ -1,6 +1,6 @@
 # berylliumsec/nebula
 
-[![Stars](https://img.shields.io/github/stars/berylliumsec/nebula?style=flat-square&color=yellow)](https://github.com/berylliumsec/nebula/stargazers) [![Forks](https://img.shields.io/github/forks/berylliumsec/nebula?style=flat-square&color=blue)](https://github.com/berylliumsec/nebula/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/berylliumsec/nebula?style=flat-square&color=yellow)](https://github.com/berylliumsec/nebula/stargazers) [![Forks](https://img.shields.io/github/forks/berylliumsec/nebula?style=flat-square&color=blue)](https://github.com/berylliumsec/nebula/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Security
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Berylliumsec/nebula 的生产可用性较高，理由如下：
 | forks | 55/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

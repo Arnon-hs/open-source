@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/quarkiverse/quarkus-mcp-server?style=flat-square&color=yellow)](https://github.com/quarkiverse/quarkus-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/quarkiverse/quarkus-mcp-server?style=flat-square&color=blue)](https://github.com/quarkiverse/quarkus-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quarkiverse/quarkus-mcp-server?style=flat-square&color=yellow)](https://github.com/quarkiverse/quarkus-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/quarkiverse/quarkus-mcp-server?style=flat-square&color=blue)](https://github.com/quarkiverse/quarkus-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > This extension enables developers to implement the MCP server features easily.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools
+MCP
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Quarkus-MCP-Server 的生产可用性为中等（Medium），适合用于原型�
 | forks | 45/100 |
 | stars | 49/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

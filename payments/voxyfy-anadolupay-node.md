@@ -1,6 +1,6 @@
 # Voxyfy/anadolupay-node
 
-[![Stars](https://img.shields.io/github/stars/Voxyfy/anadolupay-node?style=flat-square&color=yellow)](https://github.com/Voxyfy/anadolupay-node/stargazers) [![Forks](https://img.shields.io/github/forks/Voxyfy/anadolupay-node?style=flat-square&color=blue)](https://github.com/Voxyfy/anadolupay-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Voxyfy/anadolupay-node?style=flat-square&color=yellow)](https://github.com/Voxyfy/anadolupay-node/stargazers) [![Forks](https://img.shields.io/github/forks/Voxyfy/anadolupay-node?style=flat-square&color=blue)](https://github.com/Voxyfy/anadolupay-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Türk banka ve ödeme sağlayıcıları için tek arayüzlü, framework'e bağımlı olmayan ödeme kütüphanesi (Node.js/TypeScript) — Garanti, NestPay/Asseco, PayFor, PayFlex, PosNet, BOA, iyzico, Tosla, Moka, PayTR, Craftgate, Paratika, Paycell
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Voxyfy/anadolupay-node 是一个开源项目，提供了一个框架无依赖的
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

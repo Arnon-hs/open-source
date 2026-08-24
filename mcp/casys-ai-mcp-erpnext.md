@@ -1,6 +1,6 @@
 # Casys-AI/mcp-erpnext
 
-[![Stars](https://img.shields.io/github/stars/Casys-AI/mcp-erpnext?style=flat-square&color=yellow)](https://github.com/Casys-AI/mcp-erpnext/stargazers) [![Forks](https://img.shields.io/github/forks/Casys-AI/mcp-erpnext?style=flat-square&color=blue)](https://github.com/Casys-AI/mcp-erpnext/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Casys-AI/mcp-erpnext?style=flat-square&color=yellow)](https://github.com/Casys-AI/mcp-erpnext/stargazers) [![Forks](https://img.shields.io/github/forks/Casys-AI/mcp-erpnext?style=flat-square&color=blue)](https://github.com/Casys-AI/mcp-erpnext/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for ERPNext / Frappe ERP — 120 tools across 14 categories with 7 interactive UI viewers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Casys-AI/mcp-erpnext 的生产可用性非常高，主要原因是：
 | forks | 34/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Haohao-end/openagent
 
-[![Stars](https://img.shields.io/github/stars/Haohao-end/openagent?style=flat-square&color=yellow)](https://github.com/Haohao-end/openagent/stargazers) [![Forks](https://img.shields.io/github/forks/Haohao-end/openagent?style=flat-square&color=blue)](https://github.com/Haohao-end/openagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Haohao-end/openagent?style=flat-square&color=yellow)](https://github.com/Haohao-end/openagent/stargazers) [![Forks](https://img.shields.io/github/forks/Haohao-end/openagent?style=flat-square&color=blue)](https://github.com/Haohao-end/openagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 837 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Haohao-end/openagent 的生产可用性较高，主要原因包括：
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

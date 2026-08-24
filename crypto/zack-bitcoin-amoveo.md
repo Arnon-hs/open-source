@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Erlang |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ zack-bitcoin/amoveo：zack-bitcoin/amoveo helps prototype or inspect blockchain 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

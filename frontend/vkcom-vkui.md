@@ -1,6 +1,6 @@
 # VKCOM/VKUI
 
-[![Stars](https://img.shields.io/github/stars/VKCOM/VKUI?style=flat-square&color=yellow)](https://github.com/VKCOM/VKUI/stargazers) [![Forks](https://img.shields.io/github/forks/VKCOM/VKUI?style=flat-square&color=blue)](https://github.com/VKCOM/VKUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VKCOM/VKUI?style=flat-square&color=yellow)](https://github.com/VKCOM/VKUI/stargazers) [![Forks](https://img.shields.io/github/forks/VKCOM/VKUI?style=flat-square&color=blue)](https://github.com/VKCOM/VKUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > VKUI – это набор React-компонентов, с помощью которых можно создавать интерфейсы, внешне неотличимые от наших iOS и Android приложений.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ VKUI 是 VKCOM 官方维护的 React 组件库，提供一套与 VK iOS、Androi
 | forks | 58/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

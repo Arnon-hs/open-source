@@ -1,6 +1,6 @@
 # agentuniverse-ai/agentUniverse
 
-[![Stars](https://img.shields.io/github/stars/agentuniverse-ai/agentUniverse?style=flat-square&color=yellow)](https://github.com/agentuniverse-ai/agentUniverse/stargazers) [![Forks](https://img.shields.io/github/forks/agentuniverse-ai/agentUniverse?style=flat-square&color=blue)](https://github.com/agentuniverse-ai/agentUniverse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentuniverse-ai/agentUniverse?style=flat-square&color=yellow)](https://github.com/agentuniverse-ai/agentUniverse/stargazers) [![Forks](https://img.shields.io/github/forks/agentuniverse-ai/agentUniverse?style=flat-square&color=blue)](https://github.com/agentuniverse-ai/agentUniverse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ agentUniverse 是一个基于大模型（LLM）的多智能体框架，帮助开
 | forks | 65/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

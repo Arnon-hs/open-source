@@ -1,6 +1,6 @@
 # dotnet/android
 
-[![Stars](https://img.shields.io/github/stars/dotnet/android?style=flat-square&color=yellow)](https://github.com/dotnet/android/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/android?style=flat-square&color=blue)](https://github.com/dotnet/android/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/android?style=flat-square&color=yellow)](https://github.com/dotnet/android/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/android?style=flat-square&color=blue)](https://github.com/dotnet/android/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > .NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 572 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ dotnet/android - это открытое исходное решение для 
 | forks | 69/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

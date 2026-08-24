@@ -1,6 +1,6 @@
 # VapiAI/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/VapiAI/mcp-server?style=flat-square&color=yellow)](https://github.com/VapiAI/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/VapiAI/mcp-server?style=flat-square&color=blue)](https://github.com/VapiAI/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VapiAI/mcp-server?style=flat-square&color=yellow)](https://github.com/VapiAI/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/VapiAI/mcp-server?style=flat-square&color=blue)](https://github.com/VapiAI/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Vapi MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ VapiAI/mcp-server 的生产可用性较高，主要原因是：
 | forks | 36/100 |
 | stars | 38/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

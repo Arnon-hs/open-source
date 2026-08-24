@@ -1,6 +1,6 @@
 # prest/prest
 
-[![Stars](https://img.shields.io/github/stars/prest/prest?style=flat-square&color=yellow)](https://github.com/prest/prest/stargazers) [![Forks](https://img.shields.io/github/forks/prest/prest?style=flat-square&color=blue)](https://github.com/prest/prest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prest/prest?style=flat-square&color=yellow)](https://github.com/prest/prest/stargazers) [![Forks](https://img.shields.io/github/forks/prest/prest?style=flat-square&color=blue)](https://github.com/prest/prest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ prest/prest 通过将 PostgreSQL 直接暴露为高性能的 REST 接口，实�
 | forks | 62/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

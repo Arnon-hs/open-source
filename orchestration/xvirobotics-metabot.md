@@ -1,6 +1,6 @@
 # xvirobotics/metabot
 
-[![Stars](https://img.shields.io/github/stars/xvirobotics/metabot?style=flat-square&color=yellow)](https://github.com/xvirobotics/metabot/stargazers) [![Forks](https://img.shields.io/github/forks/xvirobotics/metabot?style=flat-square&color=blue)](https://github.com/xvirobotics/metabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xvirobotics/metabot?style=flat-square&color=yellow)](https://github.com/xvirobotics/metabot/stargazers) [![Forks](https://img.shields.io/github/forks/xvirobotics/metabot?style=flat-square&color=blue)](https://github.com/xvirobotics/metabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevOps/Infra
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ xvirobotics/metabot 是一套面向 **受监督的自我进化 Agent 组织** �
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

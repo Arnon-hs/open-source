@@ -1,6 +1,6 @@
 # mkbula/qbitwebui
 
-[![Stars](https://img.shields.io/github/stars/mkbula/qbitwebui?style=flat-square&color=yellow)](https://github.com/mkbula/qbitwebui/stargazers) [![Forks](https://img.shields.io/github/forks/mkbula/qbitwebui?style=flat-square&color=blue)](https://github.com/mkbula/qbitwebui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkbula/qbitwebui?style=flat-square&color=yellow)](https://github.com/mkbula/qbitwebui/stargazers) [![Forks](https://img.shields.io/github/forks/mkbula/qbitwebui?style=flat-square&color=blue)](https://github.com/mkbula/qbitwebui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A modern web interface for managing qBittorrent instances. Supports mobile view with PWA. Features cross seed and many more tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 546 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ mkbula/qbitwebui 是一款基于 TypeScript 的现代化 Web UI，专为管理 q
 | forks | 35/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

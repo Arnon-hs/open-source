@@ -1,6 +1,6 @@
 # sesori-ai/sesori_apps_monorepo
 
-[![Stars](https://img.shields.io/github/stars/sesori-ai/sesori_apps_monorepo?style=flat-square&color=yellow)](https://github.com/sesori-ai/sesori_apps_monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/sesori-ai/sesori_apps_monorepo?style=flat-square&color=blue)](https://github.com/sesori-ai/sesori_apps_monorepo/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sesori-ai/sesori_apps_monorepo?style=flat-square&color=yellow)](https://github.com/sesori-ai/sesori_apps_monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/sesori-ai/sesori_apps_monorepo?style=flat-square&color=blue)](https://github.com/sesori-ai/sesori_apps_monorepo/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Sesori iOS/Android app and the Sesori Bridge CLI — drive OpenCode, Codex, or Cursor coding sessions from your phone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Sesori-ai/sesori_apps_monorepo 是一个开源项目，提供了 iOS 和 Android
 | forks | 15/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

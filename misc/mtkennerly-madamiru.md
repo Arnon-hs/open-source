@@ -1,6 +1,6 @@
 # mtkennerly/madamiru
 
-[![Stars](https://img.shields.io/github/stars/mtkennerly/madamiru?style=flat-square&color=yellow)](https://github.com/mtkennerly/madamiru/stargazers) [![Forks](https://img.shields.io/github/forks/mtkennerly/madamiru?style=flat-square&color=blue)](https://github.com/mtkennerly/madamiru/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mtkennerly/madamiru?style=flat-square&color=yellow)](https://github.com/mtkennerly/madamiru/stargazers) [![Forks](https://img.shields.io/github/forks/mtkennerly/madamiru?style=flat-square&color=blue)](https://github.com/mtkennerly/madamiru/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Dynamic multi-multimedia player
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ mtkennerly/madamiru 是一个开源的动态多媒体播放器项目，基于 Ru
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

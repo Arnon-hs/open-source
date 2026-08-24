@@ -1,6 +1,6 @@
 # TheXTech/TheXTech
 
-[![Stars](https://img.shields.io/github/stars/TheXTech/TheXTech?style=flat-square&color=yellow)](https://github.com/TheXTech/TheXTech/stargazers) [![Forks](https://img.shields.io/github/forks/TheXTech/TheXTech?style=flat-square&color=blue)](https://github.com/TheXTech/TheXTech/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheXTech/TheXTech?style=flat-square&color=yellow)](https://github.com/TheXTech/TheXTech/stargazers) [![Forks](https://img.shields.io/github/forks/TheXTech/TheXTech?style=flat-square&color=blue)](https://github.com/TheXTech/TheXTech/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The full port of the SMBX engine from VB6 into C++ and SDL2, FreeImage and MixerX
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 404 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ TheXTech/TheXTech 的生产可用性为中等（Medium），适合用于原型�
 | forks | 41/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

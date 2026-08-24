@@ -1,6 +1,6 @@
 # fishjar/kiss-translator
 
-[![Stars](https://img.shields.io/github/stars/fishjar/kiss-translator?style=flat-square&color=yellow)](https://github.com/fishjar/kiss-translator/stargazers) [![Forks](https://img.shields.io/github/forks/fishjar/kiss-translator?style=flat-square&color=blue)](https://github.com/fishjar/kiss-translator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fishjar/kiss-translator?style=flat-square&color=yellow)](https://github.com/fishjar/kiss-translator/stargazers) [![Forks](https://img.shields.io/github/forks/fishjar/kiss-translator?style=flat-square&color=blue)](https://github.com/fishjar/kiss-translator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 496 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ fishjar/kiss‑translator 是一款轻量级、开源的双语对照翻译扩展
 | forks | 67/100 |
 | stars | 86/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

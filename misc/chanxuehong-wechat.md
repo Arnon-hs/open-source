@@ -1,6 +1,6 @@
 # chanxuehong/wechat
 
-[![Stars](https://img.shields.io/github/stars/chanxuehong/wechat?style=flat-square&color=yellow)](https://github.com/chanxuehong/wechat/stargazers) [![Forks](https://img.shields.io/github/forks/chanxuehong/wechat?style=flat-square&color=blue)](https://github.com/chanxuehong/wechat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chanxuehong/wechat?style=flat-square&color=yellow)](https://github.com/chanxuehong/wechat/stargazers) [![Forks](https://img.shields.io/github/forks/chanxuehong/wechat?style=flat-square&color=blue)](https://github.com/chanxuehong/wechat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 689 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ chanxuehong/wechat 是一个开源项目，为 Go 语言开发者提供微信公
 | forks | 71/100 |
 | stars | 73/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

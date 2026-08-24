@@ -1,6 +1,6 @@
 # ad-si/cai
 
-[![Stars](https://img.shields.io/github/stars/ad-si/cai?style=flat-square&color=yellow)](https://github.com/ad-si/cai/stargazers) [![Forks](https://img.shields.io/github/forks/ad-si/cai?style=flat-square&color=blue)](https://github.com/ad-si/cai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ad-si/cai?style=flat-square&color=yellow)](https://github.com/ad-si/cai/stargazers) [![Forks](https://img.shields.io/github/forks/ad-si/cai?style=flat-square&color=blue)](https://github.com/ad-si/cai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > User friendly CLI tool for AI tasks. Stop thinking about LLMs and prompts, start getting results!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ ad-si/cai的生产可用性为中等（Medium）。它适合用于快速原型�
 | forks | 28/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

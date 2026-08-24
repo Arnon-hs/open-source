@@ -1,6 +1,6 @@
 # solokeys/solo2
 
-[![Stars](https://img.shields.io/github/stars/solokeys/solo2?style=flat-square&color=yellow)](https://github.com/solokeys/solo2/stargazers) [![Forks](https://img.shields.io/github/forks/solokeys/solo2?style=flat-square&color=blue)](https://github.com/solokeys/solo2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solokeys/solo2?style=flat-square&color=yellow)](https://github.com/solokeys/solo2/stargazers) [![Forks](https://img.shields.io/github/forks/solokeys/solo2?style=flat-square&color=blue)](https://github.com/solokeys/solo2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Solo 2 firmware in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ Solo2 是由 SoloKeys 推出的用 Rust 重写的第二代安全密钥固件，�
 | forks | 40/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

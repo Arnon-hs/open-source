@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,56 +27,50 @@ Orchestration · AI/ML · Database
 
 ### English
 
-strelov1/freehire: strelov1/freehire helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+strelov1/freehire: . Use it for Orchestration, AI/ML, Database. 
 
 ### Русский
 
-strelov1/freehire: open-source проект в категориях Orchestration, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+strelov1/freehire: open-source проект в категориях Orchestration, AI/ML, Database. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-strelov1/freehire：strelov1/freehire helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+strelov1/freehire：。适合用于Orchestration、AI/ML、Database。
 
 ## 🧭 Practical evaluation
 
-**Value:** strelov1/freehire helps turn isolated prompts and tools into repeatable agent workflows.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- coordinate multi-agent workflows
-- add tool-use pipelines
-- standardize agent memory
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 461 GitHub stars
-- 85 forks
-- updated 2026-08-23
-- primary language: Go
-- 20 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 72/100 |
-| outlook | 77/100 |
-| adoption | 54/100 |
-| categoryMatchCount | 300/100 |
-| stars | 57/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 100/100 |
+| adoption | 54/100 |
+| production | 72/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

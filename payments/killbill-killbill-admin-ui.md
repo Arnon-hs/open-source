@@ -1,6 +1,6 @@
 # killbill/killbill-admin-ui
 
-[![Stars](https://img.shields.io/github/stars/killbill/killbill-admin-ui?style=flat-square&color=yellow)](https://github.com/killbill/killbill-admin-ui/stargazers) [![Forks](https://img.shields.io/github/forks/killbill/killbill-admin-ui?style=flat-square&color=blue)](https://github.com/killbill/killbill-admin-ui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/killbill/killbill-admin-ui?style=flat-square&color=yellow)](https://github.com/killbill/killbill-admin-ui/stargazers) [![Forks](https://img.shields.io/github/forks/killbill/killbill-admin-ui?style=flat-square&color=blue)](https://github.com/killbill/killbill-admin-ui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Kill Bill Administrative UI engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend
+Payments
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ killbill/killbill-admin-ui 是 Kill Bill 的后台管理界面引擎，提供可
 | forks | 47/100 |
 | stars | 39/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

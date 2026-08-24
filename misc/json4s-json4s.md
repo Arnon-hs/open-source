@@ -1,6 +1,6 @@
 # json4s/json4s
 
-[![Stars](https://img.shields.io/github/stars/json4s/json4s?style=flat-square&color=yellow)](https://github.com/json4s/json4s/stargazers) [![Forks](https://img.shields.io/github/forks/json4s/json4s?style=flat-square&color=blue)](https://github.com/json4s/json4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/json4s/json4s?style=flat-square&color=yellow)](https://github.com/json4s/json4s/stargazers) [![Forks](https://img.shields.io/github/forks/json4s/json4s?style=flat-square&color=blue)](https://github.com/json4s/json4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > JSON library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ json4s/json4s在生产环境中的可用性为中等（Medium），适合用于�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

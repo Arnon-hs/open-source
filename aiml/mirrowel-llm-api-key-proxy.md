@@ -1,6 +1,6 @@
 # Mirrowel/LLM-API-Key-Proxy
 
-[![Stars](https://img.shields.io/github/stars/Mirrowel/LLM-API-Key-Proxy?style=flat-square&color=yellow)](https://github.com/Mirrowel/LLM-API-Key-Proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Mirrowel/LLM-API-Key-Proxy?style=flat-square&color=blue)](https://github.com/Mirrowel/LLM-API-Key-Proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mirrowel/LLM-API-Key-Proxy?style=flat-square&color=yellow)](https://github.com/Mirrowel/LLM-API-Key-Proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Mirrowel/LLM-API-Key-Proxy?style=flat-square&color=blue)](https://github.com/Mirrowel/LLM-API-Key-Proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ Mirrowel/LLM-API-Key-Proxy 的生产可用性非常高。该项目有:
 | forks | 51/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

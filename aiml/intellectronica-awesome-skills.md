@@ -1,6 +1,6 @@
 # intellectronica/awesome-skills
 
-[![Stars](https://img.shields.io/github/stars/intellectronica/awesome-skills?style=flat-square&color=yellow)](https://github.com/intellectronica/awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/intellectronica/awesome-skills?style=flat-square&color=blue)](https://github.com/intellectronica/awesome-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intellectronica/awesome-skills?style=flat-square&color=yellow)](https://github.com/intellectronica/awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/intellectronica/awesome-skills?style=flat-square&color=blue)](https://github.com/intellectronica/awesome-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A directory of skills for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ intellectronica/awesome-skills 的生产可用性为中等（Medium），适合�
 | forks | 37/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Square-Zero-Labs/video-prompting-skill
 
-[![Stars](https://img.shields.io/github/stars/Square-Zero-Labs/video-prompting-skill?style=flat-square&color=yellow)](https://github.com/Square-Zero-Labs/video-prompting-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Square-Zero-Labs/video-prompting-skill?style=flat-square&color=blue)](https://github.com/Square-Zero-Labs/video-prompting-skill/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Square-Zero-Labs/video-prompting-skill?style=flat-square&color=yellow)](https://github.com/Square-Zero-Labs/video-prompting-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Square-Zero-Labs/video-prompting-skill?style=flat-square&color=blue)](https://github.com/Square-Zero-Labs/video-prompting-skill/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Skill for Prompting Video Models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML
 
 ## 📝 Summary
 
@@ -85,14 +85,15 @@ Square-Zero-Labs/video-prompting-skill 的生产可用性为中等（Medium）�
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ustoppble/overclick
 
-[![Stars](https://img.shields.io/github/stars/ustoppble/overclick?style=flat-square&color=yellow)](https://github.com/ustoppble/overclick/stargazers) [![Forks](https://img.shields.io/github/forks/ustoppble/overclick?style=flat-square&color=blue)](https://github.com/ustoppble/overclick/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ustoppble/overclick?style=flat-square&color=yellow)](https://github.com/ustoppble/overclick/stargazers) [![Forks](https://img.shields.io/github/forks/ustoppble/overclick?style=flat-square&color=blue)](https://github.com/ustoppble/overclick/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The open source task board where AI agents do the work. Self-hosted, MCP-native, zero data collection.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Data
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ustoppble/overclick：ustoppble/overclick helps connect AI assistants to real to
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

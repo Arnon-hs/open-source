@@ -1,6 +1,6 @@
 # injaneity/pi-computer-use
 
-[![Stars](https://img.shields.io/github/stars/injaneity/pi-computer-use?style=flat-square&color=yellow)](https://github.com/injaneity/pi-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/injaneity/pi-computer-use?style=flat-square&color=blue)](https://github.com/injaneity/pi-computer-use/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/injaneity/pi-computer-use?style=flat-square&color=yellow)](https://github.com/injaneity/pi-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/injaneity/pi-computer-use?style=flat-square&color=blue)](https://github.com/injaneity/pi-computer-use/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Let Pi control your apps on MacOS & Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ injaneity/pi-computer-use 是一个开源项目，允许 Raspberry Pi 控制 mac
 | forks | 51/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

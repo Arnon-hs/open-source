@@ -1,6 +1,6 @@
 # par-team/par-lang
 
-[![Stars](https://img.shields.io/github/stars/par-team/par-lang?style=flat-square&color=yellow)](https://github.com/par-team/par-lang/stargazers) [![Forks](https://img.shields.io/github/forks/par-team/par-lang?style=flat-square&color=blue)](https://github.com/par-team/par-lang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/par-team/par-lang?style=flat-square&color=yellow)](https://github.com/par-team/par-lang/stargazers) [![Forks](https://img.shields.io/github/forks/par-team/par-lang?style=flat-square&color=blue)](https://github.com/par-team/par-lang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Par (⅋) is an experimental concurrent programming language. It's an attempt to bring the expressive power of linear logic into practice.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 774 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Par (⅋) 的生产可用性为中等，适合用于原型或内部工作流程�
 | forks | 40/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

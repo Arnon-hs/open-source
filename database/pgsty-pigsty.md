@@ -1,6 +1,6 @@
 # pgsty/pigsty
 
-[![Stars](https://img.shields.io/github/stars/pgsty/pigsty?style=flat-square&color=yellow)](https://github.com/pgsty/pigsty/stargazers) [![Forks](https://img.shields.io/github/forks/pgsty/pigsty?style=flat-square&color=blue)](https://github.com/pgsty/pigsty/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgsty/pigsty?style=flat-square&color=yellow)](https://github.com/pgsty/pigsty/stargazers) [![Forks](https://img.shields.io/github/forks/pgsty/pigsty?style=flat-square&color=blue)](https://github.com/pgsty/pigsty/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 500+ PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Database · DevOps/Infra · Product
+Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ pgsty/pigsty 在生产环境中非常可靠，主要语言是 Shell，支持 6 �
 | forks | 64/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

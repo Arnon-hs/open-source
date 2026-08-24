@@ -1,6 +1,6 @@
 # vibheksoni/stealth-browser-mcp
 
-[![Stars](https://img.shields.io/github/stars/vibheksoni/stealth-browser-mcp?style=flat-square&color=yellow)](https://github.com/vibheksoni/stealth-browser-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/stealth-browser-mcp?style=flat-square&color=blue)](https://github.com/vibheksoni/stealth-browser-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vibheksoni/stealth-browser-mcp?style=flat-square&color=yellow)](https://github.com/vibheksoni/stealth-browser-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/stealth-browser-mcp?style=flat-square&color=blue)](https://github.com/vibheksoni/stealth-browser-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ vibheksoni/stealth-browser-mcp 在生产环境中具有很高的可用性。它�
 | forks | 59/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # muxi-ai/muxi
 
-[![Stars](https://img.shields.io/github/stars/muxi-ai/muxi?style=flat-square&color=yellow)](https://github.com/muxi-ai/muxi/stargazers) [![Forks](https://img.shields.io/github/forks/muxi-ai/muxi?style=flat-square&color=blue)](https://github.com/muxi-ai/muxi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muxi-ai/muxi?style=flat-square&color=yellow)](https://github.com/muxi-ai/muxi/stargazers) [![Forks](https://img.shields.io/github/forks/muxi-ai/muxi?style=flat-square&color=blue)](https://github.com/muxi-ai/muxi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy intelligence. Open-source infrastructure for AI agents in production.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ muxi-ai/muxi 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 32/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

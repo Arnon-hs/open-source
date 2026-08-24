@@ -1,6 +1,6 @@
 # fossasia/badgemagic-app
 
-[![Stars](https://img.shields.io/github/stars/fossasia/badgemagic-app?style=flat-square&color=yellow)](https://github.com/fossasia/badgemagic-app/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/badgemagic-app?style=flat-square&color=blue)](https://github.com/fossasia/badgemagic-app/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fossasia/badgemagic-app?style=flat-square&color=yellow)](https://github.com/fossasia/badgemagic-app/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/badgemagic-app?style=flat-square&color=blue)](https://github.com/fossasia/badgemagic-app/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Badge Magic with LEDs - mobile and desktop app, iOS, Mac, Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 285 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ Badge Magic with LEDs - mobile and desktop app, iOS, Mac, Android
 | forks | 61/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

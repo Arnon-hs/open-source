@@ -1,6 +1,6 @@
 # sunrainyg/RandOpt
 
-[![Stars](https://img.shields.io/github/stars/sunrainyg/RandOpt?style=flat-square&color=yellow)](https://github.com/sunrainyg/RandOpt/stargazers) [![Forks](https://img.shields.io/github/forks/sunrainyg/RandOpt?style=flat-square&color=blue)](https://github.com/sunrainyg/RandOpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunrainyg/RandOpt?style=flat-square&color=yellow)](https://github.com/sunrainyg/RandOpt/stargazers) [![Forks](https://img.shields.io/github/forks/sunrainyg/RandOpt?style=flat-square&color=blue)](https://github.com/sunrainyg/RandOpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 Spotlight)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ sunrainyg/RandOpt 是 “Neural Thickets: Diverse Task Experts Are Dense Around 
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

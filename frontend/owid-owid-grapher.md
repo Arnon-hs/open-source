@@ -1,6 +1,6 @@
 # owid/owid-grapher
 
-[![Stars](https://img.shields.io/github/stars/owid/owid-grapher?style=flat-square&color=yellow)](https://github.com/owid/owid-grapher/stargazers) [![Forks](https://img.shields.io/github/forks/owid/owid-grapher?style=flat-square&color=blue)](https://github.com/owid/owid-grapher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owid/owid-grapher?style=flat-square&color=yellow)](https://github.com/owid/owid-grapher/stargazers) [![Forks](https://img.shields.io/github/forks/owid/owid-grapher?style=flat-square&color=blue)](https://github.com/owid/owid-grapher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A platform for creating interactive data visualizations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · Database
+Frontend · Data
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ owid‑grapher 是一个基于 TypeScript 的前端平台，专注于快速构�
 | forks | 60/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

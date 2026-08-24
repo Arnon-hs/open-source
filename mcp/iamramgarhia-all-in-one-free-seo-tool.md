@@ -1,6 +1,6 @@
 # IamRamgarhia/All-In-One-Free-SEO-Tool
 
-[![Stars](https://img.shields.io/github/stars/IamRamgarhia/All-In-One-Free-SEO-Tool?style=flat-square&color=yellow)](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool/stargazers) [![Forks](https://img.shields.io/github/forks/IamRamgarhia/All-In-One-Free-SEO-Tool?style=flat-square&color=blue)](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IamRamgarhia/All-In-One-Free-SEO-Tool?style=flat-square&color=yellow)](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool/stargazers) [![Forks](https://img.shields.io/github/forks/IamRamgarhia/All-In-One-Free-SEO-Tool?style=flat-square&color=blue)](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Free SEO tool — open-source, self-hosted alternative to Ahrefs, Semrush & Moz. 99 tools: site audits, rank tracking, keyword research, AI search visibility (ChatGPT, Perplexity, Gemini, AI Overviews), content briefs, backlinks, local SEO, white-label reports, and an agent that applies fixes. No paid APIs required. MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ IamRamgarhia/All-In-One-Free-SEO-Tool 的价值在于，它帮助连接 AI 助�
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

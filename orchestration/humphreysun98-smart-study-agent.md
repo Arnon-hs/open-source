@@ -1,6 +1,6 @@
 # HumphreySun98/Smart-Study-Agent
 
-[![Stars](https://img.shields.io/github/stars/HumphreySun98/Smart-Study-Agent?style=flat-square&color=yellow)](https://github.com/HumphreySun98/Smart-Study-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/HumphreySun98/Smart-Study-Agent?style=flat-square&color=blue)](https://github.com/HumphreySun98/Smart-Study-Agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HumphreySun98/Smart-Study-Agent?style=flat-square&color=yellow)](https://github.com/HumphreySun98/Smart-Study-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/HumphreySun98/Smart-Study-Agent?style=flat-square&color=blue)](https://github.com/HumphreySun98/Smart-Study-Agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The AI study agent that learns how you learn — RL picks the action, FSRS picks the timing, the LLM only writes the quizzes. Chrome extension · Anki export · MCP server · runs on Ollama
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ HumphreySun98/Smart-Study-Agent 帮助将孤立的提示和工具转变为可重
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

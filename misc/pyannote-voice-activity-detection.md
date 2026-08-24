@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | pyannote-audio |
 | 📈 **Score** | 37/100 |
-| 🗓️ **Last push** | 2024-05-10 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -103,6 +103,7 @@ pyannote/voice-activity-detection 是一个开源项目，用于语音识别（�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

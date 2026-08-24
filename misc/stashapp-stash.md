@@ -1,6 +1,6 @@
 # stashapp/stash
 
-[![Stars](https://img.shields.io/github/stars/stashapp/stash?style=flat-square&color=yellow)](https://github.com/stashapp/stash/stargazers) [![Forks](https://img.shields.io/github/forks/stashapp/stash?style=flat-square&color=blue)](https://github.com/stashapp/stash/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stashapp/stash?style=flat-square&color=yellow)](https://github.com/stashapp/stash/stargazers) [![Forks](https://img.shields.io/github/forks/stashapp/stash?style=flat-square&color=blue)](https://github.com/stashapp/stash/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ stashapp/stash 在生产环境中的可用性较高，主要原因是其最近�
 | forks | 77/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 83/100 |
+| recency | 60/100 |
 | adoption | 84/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

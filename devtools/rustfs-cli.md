@@ -1,6 +1,6 @@
 # rustfs/cli
 
-[![Stars](https://img.shields.io/github/stars/rustfs/cli?style=flat-square&color=yellow)](https://github.com/rustfs/cli/stargazers) [![Forks](https://img.shields.io/github/forks/rustfs/cli?style=flat-square&color=blue)](https://github.com/rustfs/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustfs/cli?style=flat-square&color=yellow)](https://github.com/rustfs/cli/stargazers) [![Forks](https://img.shields.io/github/forks/rustfs/cli?style=flat-square&color=blue)](https://github.com/rustfs/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A S3-compatible command-line client written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ rustfs/cli 是一个用 Rust 编写的 S3 兼容命令行客户端，能够显�
 | forks | 28/100 |
 | stars | 44/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

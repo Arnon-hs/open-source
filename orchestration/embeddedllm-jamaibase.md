@@ -1,6 +1,6 @@
 # EmbeddedLLM/JamAIBase
 
-[![Stars](https://img.shields.io/github/stars/EmbeddedLLM/JamAIBase?style=flat-square&color=yellow)](https://github.com/EmbeddedLLM/JamAIBase/stargazers) [![Forks](https://img.shields.io/github/forks/EmbeddedLLM/JamAIBase?style=flat-square&color=blue)](https://github.com/EmbeddedLLM/JamAIBase/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmbeddedLLM/JamAIBase?style=flat-square&color=yellow)](https://github.com/EmbeddedLLM/JamAIBase/stargazers) [![Forks](https://img.shields.io/github/forks/EmbeddedLLM/JamAIBase?style=flat-square&color=blue)](https://github.com/EmbeddedLLM/JamAIBase/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · Knowledge/RAG · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ EmbeddedLLM/JamAIBase 是一款面向 AI 的协作式电子表格，用户可以
 | forks | 41/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

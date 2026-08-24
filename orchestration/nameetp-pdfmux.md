@@ -1,6 +1,6 @@
 # NameetP/pdfmux
 
-[![Stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=flat-square&color=yellow)](https://github.com/NameetP/pdfmux/stargazers) [![Forks](https://img.shields.io/github/forks/NameetP/pdfmux?style=flat-square&color=blue)](https://github.com/NameetP/pdfmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=flat-square&color=yellow)](https://github.com/NameetP/pdfmux/stargazers) [![Forks](https://img.shields.io/github/forks/NameetP/pdfmux?style=flat-square&color=blue)](https://github.com/NameetP/pdfmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > PDF extraction that audits its own output — and certifies any other extractor's, catching pages they silently dropped. Verify signed manifests offline: free, MIT, no account. 0.903 on opendataloader-bench, #2 of 8 engines. 7-tool MCP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ NameetP/pdfmux 帮助将孤立的命令和工具整合成可重复的代理工�
 | forks | 28/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

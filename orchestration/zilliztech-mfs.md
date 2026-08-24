@@ -1,6 +1,6 @@
 # zilliztech/mfs
 
-[![Stars](https://img.shields.io/github/stars/zilliztech/mfs?style=flat-square&color=yellow)](https://github.com/zilliztech/mfs/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/mfs?style=flat-square&color=blue)](https://github.com/zilliztech/mfs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zilliztech/mfs?style=flat-square&color=yellow)](https://github.com/zilliztech/mfs/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/mfs?style=flat-square&color=blue)](https://github.com/zilliztech/mfs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — in one searchable, browsable, file-like interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data · Database
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ zilliztech/mfs 是一个面向 AI 代理的上下文管理框架，能够把代�
 | forks | 25/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

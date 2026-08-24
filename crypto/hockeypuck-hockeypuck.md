@@ -1,6 +1,6 @@
 # hockeypuck/hockeypuck
 
-[![Stars](https://img.shields.io/github/stars/hockeypuck/hockeypuck?style=flat-square&color=yellow)](https://github.com/hockeypuck/hockeypuck/stargazers) [![Forks](https://img.shields.io/github/forks/hockeypuck/hockeypuck?style=flat-square&color=blue)](https://github.com/hockeypuck/hockeypuck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hockeypuck/hockeypuck?style=flat-square&color=yellow)](https://github.com/hockeypuck/hockeypuck/stargazers) [![Forks](https://img.shields.io/github/forks/hockeypuck/hockeypuck?style=flat-square&color=blue)](https://github.com/hockeypuck/hockeypuck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > OpenPGP Key Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend
+Crypto
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ hockeypuck/hockeypuck 的主要价值在于其可以帮助开发者快速原型�
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

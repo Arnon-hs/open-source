@@ -1,6 +1,6 @@
 # fbsobreira/gotron-sdk
 
-[![Stars](https://img.shields.io/github/stars/fbsobreira/gotron-sdk?style=flat-square&color=yellow)](https://github.com/fbsobreira/gotron-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/fbsobreira/gotron-sdk?style=flat-square&color=blue)](https://github.com/fbsobreira/gotron-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fbsobreira/gotron-sdk?style=flat-square&color=yellow)](https://github.com/fbsobreira/gotron-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/fbsobreira/gotron-sdk?style=flat-square&color=blue)](https://github.com/fbsobreira/gotron-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Go SDK & CLI for TRON blockchain — build wallets, exchanges, bots & backend services. gRPC client, HD wallets, Ledger support, TRC20/TRC10, multi-sig, staking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 445 |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Frontend
+Crypto · Trading · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ fbsobreira/gotron-sdk有很高的生产可用性，因为它：
 | forks | 59/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

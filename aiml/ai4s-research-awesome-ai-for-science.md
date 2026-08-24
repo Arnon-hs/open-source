@@ -1,6 +1,6 @@
 # ai4s-research/awesome-ai-for-science
 
-[![Stars](https://img.shields.io/github/stars/ai4s-research/awesome-ai-for-science?style=flat-square&color=yellow)](https://github.com/ai4s-research/awesome-ai-for-science/stargazers) [![Forks](https://img.shields.io/github/forks/ai4s-research/awesome-ai-for-science?style=flat-square&color=blue)](https://github.com/ai4s-research/awesome-ai-for-science/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai4s-research/awesome-ai-for-science?style=flat-square&color=yellow)](https://github.com/ai4s-research/awesome-ai-for-science/stargazers) [![Forks](https://img.shields.io/github/forks/ai4s-research/awesome-ai-for-science?style=flat-square&color=blue)](https://github.com/ai4s-research/awesome-ai-for-science/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ ai4s-research/awesome‑ai‑for‑science 是一个精选的资源库，收录�
 | forks | 58/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

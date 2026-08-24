@@ -1,6 +1,6 @@
 # sverrirsig/claude-control
 
-[![Stars](https://img.shields.io/github/stars/sverrirsig/claude-control?style=flat-square&color=yellow)](https://github.com/sverrirsig/claude-control/stargazers) [![Forks](https://img.shields.io/github/forks/sverrirsig/claude-control?style=flat-square&color=blue)](https://github.com/sverrirsig/claude-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sverrirsig/claude-control?style=flat-square&color=yellow)](https://github.com/sverrirsig/claude-control/stargazers) [![Forks](https://img.shields.io/github/forks/sverrirsig/claude-control?style=flat-square&color=blue)](https://github.com/sverrirsig/claude-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > macOS desktop dashboard for monitoring and managing multiple Claude Code sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ sverrirsig/claude-control：sverrirsig/claude-control helps engineers save time 
 | forks | 31/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

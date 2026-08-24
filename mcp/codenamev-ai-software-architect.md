@@ -1,6 +1,6 @@
 # codenamev/ai-software-architect
 
-[![Stars](https://img.shields.io/github/stars/codenamev/ai-software-architect?style=flat-square&color=yellow)](https://github.com/codenamev/ai-software-architect/stargazers) [![Forks](https://img.shields.io/github/forks/codenamev/ai-software-architect?style=flat-square&color=blue)](https://github.com/codenamev/ai-software-architect/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codenamev/ai-software-architect?style=flat-square&color=yellow)](https://github.com/codenamev/ai-software-architect/stargazers) [![Forks](https://img.shields.io/github/forks/codenamev/ai-software-architect?style=flat-square&color=blue)](https://github.com/codenamev/ai-software-architect/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plugin for easiest installation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ codenamev/ai-software-architect 帮助连接 AI 助手到真正的工具和数�
 | forks | 26/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

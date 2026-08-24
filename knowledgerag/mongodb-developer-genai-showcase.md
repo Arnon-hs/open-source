@@ -1,6 +1,6 @@
 # mongodb-developer/GenAI-Showcase
 
-[![Stars](https://img.shields.io/github/stars/mongodb-developer/GenAI-Showcase?style=flat-square&color=yellow)](https://github.com/mongodb-developer/GenAI-Showcase/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb-developer/GenAI-Showcase?style=flat-square&color=blue)](https://github.com/mongodb-developer/GenAI-Showcase/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mongodb-developer/GenAI-Showcase?style=flat-square&color=yellow)](https://github.com/mongodb-developer/GenAI-Showcase/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb-developer/GenAI-Showcase?style=flat-square&color=blue)](https://github.com/mongodb-developer/GenAI-Showcase/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > GenAI Cookbook
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 742 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · DevTools · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ The project scores high on readiness: recent activity (last commit 2026‑07�
 | forks | 72/100 |
 | stars | 77/100 |
 | topics | 63/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

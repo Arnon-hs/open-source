@@ -1,6 +1,6 @@
 # MichelSR25/Claude-Code-Agent-Design-Kit
 
-[![Stars](https://img.shields.io/github/stars/MichelSR25/Claude-Code-Agent-Design-Kit?style=flat-square&color=yellow)](https://github.com/MichelSR25/Claude-Code-Agent-Design-Kit/stargazers) [![Forks](https://img.shields.io/github/forks/MichelSR25/Claude-Code-Agent-Design-Kit?style=flat-square&color=blue)](https://github.com/MichelSR25/Claude-Code-Agent-Design-Kit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MichelSR25/Claude-Code-Agent-Design-Kit?style=flat-square&color=yellow)](https://github.com/MichelSR25/Claude-Code-Agent-Design-Kit/stargazers) [![Forks](https://img.shields.io/github/forks/MichelSR25/Claude-Code-Agent-Design-Kit?style=flat-square&color=blue)](https://github.com/MichelSR25/Claude-Code-Agent-Design-Kit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Top AI-Powered UI/UX Design Generator & Code Assistant 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Design
+AI/ML · DevTools · Design
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ MichelSR25/Claude-Code-Agent-Design-Kit 的价值在于：
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

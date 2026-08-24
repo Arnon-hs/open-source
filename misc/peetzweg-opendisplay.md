@@ -1,6 +1,6 @@
 # peetzweg/opendisplay
 
-[![Stars](https://img.shields.io/github/stars/peetzweg/opendisplay?style=flat-square&color=yellow)](https://github.com/peetzweg/opendisplay/stargazers) [![Forks](https://img.shields.io/github/forks/peetzweg/opendisplay?style=flat-square&color=blue)](https://github.com/peetzweg/opendisplay/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peetzweg/opendisplay?style=flat-square&color=yellow)](https://github.com/peetzweg/opendisplay/stargazers) [![Forks](https://img.shields.io/github/forks/peetzweg/opendisplay?style=flat-square&color=blue)](https://github.com/peetzweg/opendisplay/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 568 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Here's a brief summary of the open-source project:
 | forks | 42/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # stasel/WebRTC
 
-[![Stars](https://img.shields.io/github/stars/stasel/WebRTC?style=flat-square&color=yellow)](https://github.com/stasel/WebRTC/stargazers) [![Forks](https://img.shields.io/github/forks/stasel/WebRTC?style=flat-square&color=blue)](https://github.com/stasel/WebRTC/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stasel/WebRTC?style=flat-square&color=yellow)](https://github.com/stasel/WebRTC/stargazers) [![Forks](https://img.shields.io/github/forks/stasel/WebRTC?style=flat-square&color=blue)](https://github.com/stasel/WebRTC/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A community-driven distribution of up to date WebRTC framework binaries for iOS and macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 616 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ stasel/WebRTC 的生产可用性为中等（Medium）。它适合用于原型开
 | forks | 54/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

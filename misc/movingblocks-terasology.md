@@ -1,6 +1,6 @@
 # MovingBlocks/Terasology
 
-[![Stars](https://img.shields.io/github/stars/MovingBlocks/Terasology?style=flat-square&color=yellow)](https://github.com/MovingBlocks/Terasology/stargazers) [![Forks](https://img.shields.io/github/forks/MovingBlocks/Terasology?style=flat-square&color=blue)](https://github.com/MovingBlocks/Terasology/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MovingBlocks/Terasology?style=flat-square&color=yellow)](https://github.com/MovingBlocks/Terasology/stargazers) [![Forks](https://img.shields.io/github/forks/MovingBlocks/Terasology?style=flat-square&color=blue)](https://github.com/MovingBlocks/Terasology/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Terasology - open source voxel world
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Terasology 在生产环境中具有较高的可用性，因为它的最近活动
 | forks | 78/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

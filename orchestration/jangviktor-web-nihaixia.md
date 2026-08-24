@@ -1,6 +1,6 @@
 # jangviktor-web/nihaixia
 
-[![Stars](https://img.shields.io/github/stars/jangviktor-web/nihaixia?style=flat-square&color=yellow)](https://github.com/jangviktor-web/nihaixia/stargazers) [![Forks](https://img.shields.io/github/forks/jangviktor-web/nihaixia?style=flat-square&color=blue)](https://github.com/jangviktor-web/nihaixia/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jangviktor-web/nihaixia?style=flat-square&color=yellow)](https://github.com/jangviktor-web/nihaixia/stargazers) [![Forks](https://img.shields.io/github/forks/jangviktor-web/nihaixia?style=flat-square&color=blue)](https://github.com/jangviktor-web/nihaixia/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ jangviktor-web/nihaixia 帮助将孤立的提示和工具转化为可重复的�
 | forks | 65/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

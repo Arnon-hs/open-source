@@ -1,6 +1,6 @@
 # tessi/wasmex
 
-[![Stars](https://img.shields.io/github/stars/tessi/wasmex?style=flat-square&color=yellow)](https://github.com/tessi/wasmex/stargazers) [![Forks](https://img.shields.io/github/forks/tessi/wasmex?style=flat-square&color=blue)](https://github.com/tessi/wasmex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tessi/wasmex?style=flat-square&color=yellow)](https://github.com/tessi/wasmex/stargazers) [![Forks](https://img.shields.io/github/forks/tessi/wasmex?style=flat-square&color=blue)](https://github.com/tessi/wasmex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Execute WebAssembly from Elixir
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ tessi/wasmex的生产可用性为中等（Medium），适合用于原型或内�
 | forks | 42/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

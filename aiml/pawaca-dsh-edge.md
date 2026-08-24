@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ Show HN: Running a full AI coding agent inside Cloudflare Durable Object：Show 
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

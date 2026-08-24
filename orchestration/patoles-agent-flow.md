@@ -1,6 +1,6 @@
 # patoles/agent-flow
 
-[![Stars](https://img.shields.io/github/stars/patoles/agent-flow?style=flat-square&color=yellow)](https://github.com/patoles/agent-flow/stargazers) [![Forks](https://img.shields.io/github/forks/patoles/agent-flow?style=flat-square&color=blue)](https://github.com/patoles/agent-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patoles/agent-flow?style=flat-square&color=yellow)](https://github.com/patoles/agent-flow/stargazers) [![Forks](https://img.shields.io/github/forks/patoles/agent-flow?style=flat-square&color=blue)](https://github.com/patoles/agent-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ patoles/agent‑flow 是一个实时可视化工具，专注于展示 Claude Cod
 | forks | 52/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

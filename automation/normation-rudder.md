@@ -1,6 +1,6 @@
 # Normation/rudder
 
-[![Stars](https://img.shields.io/github/stars/Normation/rudder?style=flat-square&color=yellow)](https://github.com/Normation/rudder/stargazers) [![Forks](https://img.shields.io/github/forks/Normation/rudder?style=flat-square&color=blue)](https://github.com/Normation/rudder/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Normation/rudder?style=flat-square&color=yellow)](https://github.com/Normation/rudder/stargazers) [![Forks](https://img.shields.io/github/forks/Normation/rudder?style=flat-square&color=blue)](https://github.com/Normation/rudder/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 705 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database · DevOps/Infra · Security
+Automation · Security
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Rudder 的生产可用性为中等（Medium）。它适合用于原型或内部�
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

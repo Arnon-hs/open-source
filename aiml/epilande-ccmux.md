@@ -1,6 +1,6 @@
 # epilande/ccmux
 
-[![Stars](https://img.shields.io/github/stars/epilande/ccmux?style=flat-square&color=yellow)](https://github.com/epilande/ccmux/stargazers) [![Forks](https://img.shields.io/github/forks/epilande/ccmux?style=flat-square&color=blue)](https://github.com/epilande/ccmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epilande/ccmux?style=flat-square&color=yellow)](https://github.com/epilande/ccmux/stargazers) [![Forks](https://img.shields.io/github/forks/epilande/ccmux?style=flat-square&color=blue)](https://github.com/epilande/ccmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🔮 Track all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux and jump to the one that needs you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ epilande/ccmux 的生产可用性为中等（Medium）。它适合于原型开�
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

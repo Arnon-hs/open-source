@@ -1,6 +1,6 @@
 # GeiserX/LynxPrompt
 
-[![Stars](https://img.shields.io/github/stars/GeiserX/LynxPrompt?style=flat-square&color=yellow)](https://github.com/GeiserX/LynxPrompt/stargazers) [![Forks](https://img.shields.io/github/forks/GeiserX/LynxPrompt?style=flat-square&color=blue)](https://github.com/GeiserX/LynxPrompt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GeiserX/LynxPrompt?style=flat-square&color=yellow)](https://github.com/GeiserX/LynxPrompt/stargazers) [![Forks](https://img.shields.io/github/forks/GeiserX/LynxPrompt?style=flat-square&color=blue)](https://github.com/GeiserX/LynxPrompt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AGENTS.md, CLAUDE.md, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database · DevOps/Infra
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ GeiserX/LynxPrompt 是一个自托管、可联邦化的 AI 开发平台，提供
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tempestai-dev/tempest
 
-[![Stars](https://img.shields.io/github/stars/tempestai-dev/tempest?style=flat-square&color=yellow)](https://github.com/tempestai-dev/tempest/stargazers) [![Forks](https://img.shields.io/github/forks/tempestai-dev/tempest?style=flat-square&color=blue)](https://github.com/tempestai-dev/tempest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tempestai-dev/tempest?style=flat-square&color=yellow)](https://github.com/tempestai-dev/tempest/stargazers) [![Forks](https://img.shields.io/github/forks/tempestai-dev/tempest?style=flat-square&color=blue)](https://github.com/tempestai-dev/tempest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Code, Codex, Gemini and any other CLI Agent with 64% fewer tokens and 54% fewer tool calls
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ tempest 的生产可用性较高，主要原因是：
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

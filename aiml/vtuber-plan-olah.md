@@ -1,6 +1,6 @@
 # vtuber-plan/olah
 
-[![Stars](https://img.shields.io/github/stars/vtuber-plan/olah?style=flat-square&color=yellow)](https://github.com/vtuber-plan/olah/stargazers) [![Forks](https://img.shields.io/github/forks/vtuber-plan/olah?style=flat-square&color=blue)](https://github.com/vtuber-plan/olah/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vtuber-plan/olah?style=flat-square&color=yellow)](https://github.com/vtuber-plan/olah/stargazers) [![Forks](https://img.shields.io/github/forks/vtuber-plan/olah?style=flat-square&color=blue)](https://github.com/vtuber-plan/olah/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted huggingface mirror service. 自建huggingface镜像服务。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ vtuber-plan/olah 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

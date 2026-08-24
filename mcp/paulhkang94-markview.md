@@ -1,6 +1,6 @@
 # paulhkang94/markview
 
-[![Stars](https://img.shields.io/github/stars/paulhkang94/markview?style=flat-square&color=yellow)](https://github.com/paulhkang94/markview/stargazers) [![Forks](https://img.shields.io/github/forks/paulhkang94/markview?style=flat-square&color=blue)](https://github.com/paulhkang94/markview/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paulhkang94/markview?style=flat-square&color=yellow)](https://github.com/paulhkang94/markview/stargazers) [![Forks](https://img.shields.io/github/forks/paulhkang94/markview?style=flat-square&color=blue)](https://github.com/paulhkang94/markview/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS markdown preview + MCP server for Claude Code. Swift/SwiftUI, GFM, Mermaid, syntax highlighting. No Electron.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ paulhkang94/markview 的生产可用性为中等
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

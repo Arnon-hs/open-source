@@ -1,6 +1,6 @@
 # cococonscious/koji
 
-[![Stars](https://img.shields.io/github/stars/cococonscious/koji?style=flat-square&color=yellow)](https://github.com/cococonscious/koji/stargazers) [![Forks](https://img.shields.io/github/forks/cococonscious/koji?style=flat-square&color=blue)](https://github.com/cococonscious/koji/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cococonscious/koji?style=flat-square&color=yellow)](https://github.com/cococonscious/koji/stargazers) [![Forks](https://img.shields.io/github/forks/cococonscious/koji?style=flat-square&color=blue)](https://github.com/cococonscious/koji/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🦊 An interactive CLI for creating conventional commits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ cococonscious/koji 的生产可用性为中等（Medium）。它适合用于内�
 | forks | 30/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

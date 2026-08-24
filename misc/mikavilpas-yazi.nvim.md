@@ -1,6 +1,6 @@
 # mikavilpas/yazi.nvim
 
-[![Stars](https://img.shields.io/github/stars/mikavilpas/yazi.nvim?style=flat-square&color=yellow)](https://github.com/mikavilpas/yazi.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/mikavilpas/yazi.nvim?style=flat-square&color=blue)](https://github.com/mikavilpas/yazi.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikavilpas/yazi.nvim?style=flat-square&color=yellow)](https://github.com/mikavilpas/yazi.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/mikavilpas/yazi.nvim?style=flat-square&color=blue)](https://github.com/mikavilpas/yazi.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Neovim Plugin for the yazi terminal file manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ Misc
 | forks | 43/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

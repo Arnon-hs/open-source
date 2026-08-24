@@ -1,6 +1,6 @@
 # ardentsia-cgs/kparser
 
-[![Stars](https://img.shields.io/github/stars/ardentsia-cgs/kparser?style=flat-square&color=yellow)](https://github.com/ardentsia-cgs/kparser/stargazers) [![Forks](https://img.shields.io/github/forks/ardentsia-cgs/kparser?style=flat-square&color=blue)](https://github.com/ardentsia-cgs/kparser/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ardentsia-cgs/kparser?style=flat-square&color=yellow)](https://github.com/ardentsia-cgs/kparser/stargazers) [![Forks](https://img.shields.io/github/forks/ardentsia-cgs/kparser?style=flat-square&color=blue)](https://github.com/ardentsia-cgs/kparser/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: kparser - small, readable parser for K
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 30/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ kparser 在生产环境中有中等可用性，它可以用于原型或内部工
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 52/100 |
-| quality | 37/100 |
-| recency | 100/100 |
+| outlook | 31/100 |
+| quality | 22/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 36/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

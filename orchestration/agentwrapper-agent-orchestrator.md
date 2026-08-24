@@ -1,6 +1,6 @@
 # AgentWrapper/agent-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/AgentWrapper/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/AgentWrapper/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/AgentWrapper/agent-orchestrator?style=flat-square&color=blue)](https://github.com/AgentWrapper/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentWrapper/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/AgentWrapper/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/AgentWrapper/agent-orchestrator?style=flat-square&color=blue)](https://github.com/AgentWrapper/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ AgentWrapper/agent-orchestrator 是一个面向并行编码代理的 AI 编排�
 | forks | 76/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

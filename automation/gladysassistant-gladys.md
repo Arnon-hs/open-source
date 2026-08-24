@@ -1,6 +1,6 @@
 # GladysAssistant/Gladys
 
-[![Stars](https://img.shields.io/github/stars/GladysAssistant/Gladys?style=flat-square&color=yellow)](https://github.com/GladysAssistant/Gladys/stargazers) [![Forks](https://img.shields.io/github/forks/GladysAssistant/Gladys?style=flat-square&color=blue)](https://github.com/GladysAssistant/Gladys/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GladysAssistant/Gladys?style=flat-square&color=yellow)](https://github.com/GladysAssistant/Gladys/stargazers) [![Forks](https://img.shields.io/github/forks/GladysAssistant/Gladys?style=flat-square&color=blue)](https://github.com/GladysAssistant/Gladys/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A privacy-first, open-source home assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ GladysAssistant/Gladys 的生产可用性非常高，主要原因是：
 | forks | 62/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

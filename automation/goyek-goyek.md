@@ -1,6 +1,6 @@
 # goyek/goyek
 
-[![Stars](https://img.shields.io/github/stars/goyek/goyek?style=flat-square&color=yellow)](https://github.com/goyek/goyek/stargazers) [![Forks](https://img.shields.io/github/forks/goyek/goyek?style=flat-square&color=blue)](https://github.com/goyek/goyek/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goyek/goyek?style=flat-square&color=yellow)](https://github.com/goyek/goyek/stargazers) [![Forks](https://img.shields.io/github/forks/goyek/goyek?style=flat-square&color=blue)](https://github.com/goyek/goyek/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Task automation Go library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ goyek/goyek：goyek/goyek helps remove repetitive manual operations from a workf
 | forks | 39/100 |
 | stars | 61/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

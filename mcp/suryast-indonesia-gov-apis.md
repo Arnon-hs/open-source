@@ -1,6 +1,6 @@
 # suryast/indonesia-gov-apis
 
-[![Stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square&color=yellow)](https://github.com/suryast/indonesia-gov-apis/stargazers) [![Forks](https://img.shields.io/github/forks/suryast/indonesia-gov-apis?style=flat-square&color=blue)](https://github.com/suryast/indonesia-gov-apis/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suryast/indonesia-gov-apis?style=flat-square&color=yellow)](https://github.com/suryast/indonesia-gov-apis/stargazers) [![Forks](https://img.shields.io/github/forks/suryast/indonesia-gov-apis?style=flat-square&color=blue)](https://github.com/suryast/indonesia-gov-apis/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🇮🇩 50+ Indonesian Government APIs & Data Sources — BPS, OJK, BPJPH, BPOM, Bank Indonesia, IDX, BMKG + MCP servers. Python examples, scraping patterns, and practical gotchas. It's very challenging to keep up with all the breaking and blocking changes of Indonesian government APIs and digital resources. Always verify and test rigorously.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ suryast/indonesia-gov-apis 帮助连接人工智能助手和真实工具和数�
 | forks | 30/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

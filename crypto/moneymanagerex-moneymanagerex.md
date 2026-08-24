@@ -1,6 +1,6 @@
 # moneymanagerex/moneymanagerex
 
-[![Stars](https://img.shields.io/github/stars/moneymanagerex/moneymanagerex?style=flat-square&color=yellow)](https://github.com/moneymanagerex/moneymanagerex/stargazers) [![Forks](https://img.shields.io/github/forks/moneymanagerex/moneymanagerex?style=flat-square&color=blue)](https://github.com/moneymanagerex/moneymanagerex/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moneymanagerex/moneymanagerex?style=flat-square&color=yellow)](https://github.com/moneymanagerex/moneymanagerex/stargazers) [![Forks](https://img.shields.io/github/forks/moneymanagerex/moneymanagerex?style=flat-square&color=blue)](https://github.com/moneymanagerex/moneymanagerex/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Money Manager Ex is an easy to use, money management application built with wxWidgets
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend · Data · Database
+Crypto · Data
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Money Manager Ex 的生产可用性较高，主要原因是其：
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

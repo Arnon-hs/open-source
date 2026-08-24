@@ -1,6 +1,6 @@
 # siyuan-note/siyuan-android
 
-[![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan-android?style=flat-square&color=yellow)](https://github.com/siyuan-note/siyuan-android/stargazers) [![Forks](https://img.shields.io/github/forks/siyuan-note/siyuan-android?style=flat-square&color=blue)](https://github.com/siyuan-note/siyuan-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan-android?style=flat-square&color=yellow)](https://github.com/siyuan-note/siyuan-android/stargazers) [![Forks](https://img.shields.io/github/forks/siyuan-note/siyuan-android?style=flat-square&color=blue)](https://github.com/siyuan-note/siyuan-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > SiYuan Android APP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Siyuan Android APP 是一个开源项目，提供了一个易于使用的 Androi
 | forks | 53/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # microsoft/fabric-toolbox
 
-[![Stars](https://img.shields.io/github/stars/microsoft/fabric-toolbox?style=flat-square&color=yellow)](https://github.com/microsoft/fabric-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fabric-toolbox?style=flat-square&color=blue)](https://github.com/microsoft/fabric-toolbox/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/fabric-toolbox?style=flat-square&color=yellow)](https://github.com/microsoft/fabric-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fabric-toolbox?style=flat-square&color=blue)](https://github.com/microsoft/fabric-toolbox/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 870 |
 | 🍴 **Forks** | 366 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ microsoft/fabric-toolbox 的价值在于，它提供了一个完整的工具箱�
 | forks | 64/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

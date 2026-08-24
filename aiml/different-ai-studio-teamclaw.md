@@ -1,6 +1,6 @@
 # different-ai-studio/teamclaw
 
-[![Stars](https://img.shields.io/github/stars/different-ai-studio/teamclaw?style=flat-square&color=yellow)](https://github.com/different-ai-studio/teamclaw/stargazers) [![Forks](https://img.shields.io/github/forks/different-ai-studio/teamclaw?style=flat-square&color=blue)](https://github.com/different-ai-studio/teamclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/different-ai-studio/teamclaw?style=flat-square&color=yellow)](https://github.com/different-ai-studio/teamclaw/stargazers) [![Forks](https://img.shields.io/github/forks/different-ai-studio/teamclaw?style=flat-square&color=blue)](https://github.com/different-ai-studio/teamclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > TeamClaw, AI Agent Desktop Workspace
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ TeamClaw 的生产可用性为 Medium，适合用于 prototyping 或内部工作
 | forks | 30/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

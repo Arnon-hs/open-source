@@ -1,6 +1,6 @@
 # vueuse/vueuse
 
-[![Stars](https://img.shields.io/github/stars/vueuse/vueuse?style=flat-square&color=yellow)](https://github.com/vueuse/vueuse/stargazers) [![Forks](https://img.shields.io/github/forks/vueuse/vueuse?style=flat-square&color=blue)](https://github.com/vueuse/vueuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vueuse/vueuse?style=flat-square&color=yellow)](https://github.com/vueuse/vueuse/stargazers) [![Forks](https://img.shields.io/github/forks/vueuse/vueuse?style=flat-square&color=blue)](https://github.com/vueuse/vueuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of essential Vue Composition Utilities for Vue 3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.3k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ vueuse/vueuse 在生产环境中的可用性较高，主要原因是：
 | forks | 87/100 |
 | stars | 93/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

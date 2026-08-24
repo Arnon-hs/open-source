@@ -1,6 +1,6 @@
 # dxx-rebirth/dxx-rebirth
 
-[![Stars](https://img.shields.io/github/stars/dxx-rebirth/dxx-rebirth?style=flat-square&color=yellow)](https://github.com/dxx-rebirth/dxx-rebirth/stargazers) [![Forks](https://img.shields.io/github/forks/dxx-rebirth/dxx-rebirth?style=flat-square&color=blue)](https://github.com/dxx-rebirth/dxx-rebirth/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dxx-rebirth/dxx-rebirth?style=flat-square&color=yellow)](https://github.com/dxx-rebirth/dxx-rebirth/stargazers) [![Forks](https://img.shields.io/github/forks/dxx-rebirth/dxx-rebirth?style=flat-square&color=blue)](https://github.com/dxx-rebirth/dxx-rebirth/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Descent-Rebirth and Descent II-Rebirth
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 630 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,14 +70,15 @@ Make 2-3 sentences. Let's produce
 | forks | 54/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

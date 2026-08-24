@@ -1,6 +1,6 @@
 # pazo01/awesome-cyber-ai-arsenal
 
-[![Stars](https://img.shields.io/github/stars/pazo01/awesome-cyber-ai-arsenal?style=flat-square&color=yellow)](https://github.com/pazo01/awesome-cyber-ai-arsenal/stargazers) [![Forks](https://img.shields.io/github/forks/pazo01/awesome-cyber-ai-arsenal?style=flat-square&color=blue)](https://github.com/pazo01/awesome-cyber-ai-arsenal/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pazo01/awesome-cyber-ai-arsenal?style=flat-square&color=yellow)](https://github.com/pazo01/awesome-cyber-ai-arsenal/stargazers) [![Forks](https://img.shields.io/github/forks/pazo01/awesome-cyber-ai-arsenal?style=flat-square&color=blue)](https://github.com/pazo01/awesome-cyber-ai-arsenal/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of offensive, defensive and AI/LLM security tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ pazo01/awesome-cyber-ai-arsenal 的生产可用性为中等，适合用于内部
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

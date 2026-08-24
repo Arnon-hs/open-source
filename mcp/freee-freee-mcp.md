@@ -1,6 +1,6 @@
 # freee/freee-mcp
 
-[![Stars](https://img.shields.io/github/stars/freee/freee-mcp?style=flat-square&color=yellow)](https://github.com/freee/freee-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/freee/freee-mcp?style=flat-square&color=blue)](https://github.com/freee/freee-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freee/freee-mcp?style=flat-square&color=yellow)](https://github.com/freee/freee-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/freee/freee-mcp?style=flat-square&color=blue)](https://github.com/freee/freee-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for freee API integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 491 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ freee/freee-mcp 是一个基于 Model Context Protocol（MCP）的免费会计 A
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

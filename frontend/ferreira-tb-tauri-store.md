@@ -1,6 +1,6 @@
 # ferreira-tb/tauri-store
 
-[![Stars](https://img.shields.io/github/stars/ferreira-tb/tauri-store?style=flat-square&color=yellow)](https://github.com/ferreira-tb/tauri-store/stargazers) [![Forks](https://img.shields.io/github/forks/ferreira-tb/tauri-store?style=flat-square&color=blue)](https://github.com/ferreira-tb/tauri-store/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferreira-tb/tauri-store?style=flat-square&color=yellow)](https://github.com/ferreira-tb/tauri-store/stargazers) [![Forks](https://img.shields.io/github/forks/ferreira-tb/tauri-store?style=flat-square&color=blue)](https://github.com/ferreira-tb/tauri-store/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent stores for Tauri
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ferreira-tb/tauri-store 是一个开源项目，提供 Persistent stores for Tau
 | forks | 25/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

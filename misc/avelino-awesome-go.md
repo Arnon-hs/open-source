@@ -1,6 +1,6 @@
 # avelino/awesome-go
 
-[![Stars](https://img.shields.io/github/stars/avelino/awesome-go?style=flat-square&color=yellow)](https://github.com/avelino/awesome-go/stargazers) [![Forks](https://img.shields.io/github/forks/avelino/awesome-go?style=flat-square&color=blue)](https://github.com/avelino/awesome-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avelino/awesome-go?style=flat-square&color=yellow)](https://github.com/avelino/awesome-go/stargazers) [![Forks](https://img.shields.io/github/forks/avelino/awesome-go?style=flat-square&color=blue)](https://github.com/avelino/awesome-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome Go frameworks, libraries and software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179.4k |
 | 🍴 **Forks** | 13.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ avelino/awesome-go 是一份精心收集的 Go 框架、库和软件清单。它
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 75/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 86/100 |
+| recency | 60/100 |
 | adoption | 100/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # NomicFoundation/slang
 
-[![Stars](https://img.shields.io/github/stars/NomicFoundation/slang?style=flat-square&color=yellow)](https://github.com/NomicFoundation/slang/stargazers) [![Forks](https://img.shields.io/github/forks/NomicFoundation/slang?style=flat-square&color=blue)](https://github.com/NomicFoundation/slang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NomicFoundation/slang?style=flat-square&color=yellow)](https://github.com/NomicFoundation/slang/stargazers) [![Forks](https://img.shields.io/github/forks/NomicFoundation/slang?style=flat-square&color=blue)](https://github.com/NomicFoundation/slang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Solidity compiler tooling by @NomicFoundation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ NomicFoundation/slang 是 Nomic 基金会开源的 Solidity 编译器工具链�
 | forks | 42/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 68/100 |
+| production | 41/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

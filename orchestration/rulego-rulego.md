@@ -1,6 +1,6 @@
 # rulego/rulego
 
-[![Stars](https://img.shields.io/github/stars/rulego/rulego?style=flat-square&color=yellow)](https://github.com/rulego/rulego/stargazers) [![Forks](https://img.shields.io/github/forks/rulego/rulego?style=flat-square&color=blue)](https://github.com/rulego/rulego/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rulego/rulego?style=flat-square&color=yellow)](https://github.com/rulego/rulego/stargazers) [![Forks](https://img.shields.io/github/forks/rulego/rulego?style=flat-square&color=blue)](https://github.com/rulego/rulego/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Overall, RuleGo offers a mature, well‑documented foundation for turning isolat
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

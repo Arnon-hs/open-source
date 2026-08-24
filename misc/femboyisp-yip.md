@@ -1,6 +1,6 @@
 # femboyisp/yip
 
-[![Stars](https://img.shields.io/github/stars/femboyisp/yip?style=flat-square&color=yellow)](https://github.com/femboyisp/yip/stargazers) [![Forks](https://img.shields.io/github/forks/femboyisp/yip?style=flat-square&color=blue)](https://github.com/femboyisp/yip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/femboyisp/yip?style=flat-square&color=yellow)](https://github.com/femboyisp/yip/stargazers) [![Forks](https://img.shields.io/github/forks/femboyisp/yip?style=flat-square&color=blue)](https://github.com/femboyisp/yip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🦊 Invisible low-latency P2P mesh VPN - silent to DPI, Reed–Solomon FEC loss-recovery, self-certifying mesh discovery, NAT hole-punching. What does the fox say? Nothing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ femboyisp/yip 的生产可用性为中等（Medium），适合用于原型设计
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

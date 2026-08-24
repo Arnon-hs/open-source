@@ -1,6 +1,6 @@
 # scop/bash-completion
 
-[![Stars](https://img.shields.io/github/stars/scop/bash-completion?style=flat-square&color=yellow)](https://github.com/scop/bash-completion/stargazers) [![Forks](https://img.shields.io/github/forks/scop/bash-completion?style=flat-square&color=blue)](https://github.com/scop/bash-completion/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scop/bash-completion?style=flat-square&color=yellow)](https://github.com/scop/bash-completion/stargazers) [![Forks](https://img.shields.io/github/forks/scop/bash-completion?style=flat-square&color=blue)](https://github.com/scop/bash-completion/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Programmable completion functions for bash
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 412 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ scop/bash-completion 的生产可用性为中等（Medium）。它适合于用�
 | forks | 65/100 |
 | stars | 75/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

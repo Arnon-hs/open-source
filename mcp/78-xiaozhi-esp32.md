@@ -1,6 +1,6 @@
 # 78/xiaozhi-esp32
 
-[![Stars](https://img.shields.io/github/stars/78/xiaozhi-esp32?style=flat-square&color=yellow)](https://github.com/78/xiaozhi-esp32/stargazers) [![Forks](https://img.shields.io/github/forks/78/xiaozhi-esp32?style=flat-square&color=blue)](https://github.com/78/xiaozhi-esp32/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/78/xiaozhi-esp32?style=flat-square&color=yellow)](https://github.com/78/xiaozhi-esp32/stargazers) [![Forks](https://img.shields.io/github/forks/78/xiaozhi-esp32?style=flat-square&color=blue)](https://github.com/78/xiaozhi-esp32/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP-based chatbot | 一个基于MCP的聊天机器人
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28.1k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation
+MCP
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ To adopt 78/xiaozhi-esp32, developers can start by evaluating the project throug
 | forks | 95/100 |
 | stars | 95/100 |
 | topics | 38/100 |
-| outlook | 84/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

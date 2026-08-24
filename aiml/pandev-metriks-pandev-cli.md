@@ -1,6 +1,6 @@
 # pandev-metriks/pandev-cli
 
-[![Stars](https://img.shields.io/github/stars/pandev-metriks/pandev-cli?style=flat-square&color=yellow)](https://github.com/pandev-metriks/pandev-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pandev-metriks/pandev-cli?style=flat-square&color=blue)](https://github.com/pandev-metriks/pandev-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pandev-metriks/pandev-cli?style=flat-square&color=yellow)](https://github.com/pandev-metriks/pandev-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pandev-metriks/pandev-cli?style=flat-square&color=blue)](https://github.com/pandev-metriks/pandev-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > What your AI coding agents actually cost — by task, branch, model and file. Runs locally, dashboard on 127.0.0.1:4976, no telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ pandev-metriks/pandev-cli 的生产可用性为中等（Medium）。它适用于
 | forks | 0/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 18/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

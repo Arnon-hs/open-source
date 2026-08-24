@@ -1,6 +1,6 @@
 # vkorost/claude-certified-architect-guide
 
-[![Stars](https://img.shields.io/github/stars/vkorost/claude-certified-architect-guide?style=flat-square&color=yellow)](https://github.com/vkorost/claude-certified-architect-guide/stargazers) [![Forks](https://img.shields.io/github/forks/vkorost/claude-certified-architect-guide?style=flat-square&color=blue)](https://github.com/vkorost/claude-certified-architect-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vkorost/claude-certified-architect-guide?style=flat-square&color=yellow)](https://github.com/vkorost/claude-certified-architect-guide/stargazers) [![Forks](https://img.shields.io/github/forks/vkorost/claude-certified-architect-guide?style=flat-square&color=blue)](https://github.com/vkorost/claude-certified-architect-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial study guide for Anthropic's Claude Certified Architect (CCA-F) certification. Covers agentic loops, multi-agent systems, subagents, MCP servers, hooks, tool routing, CLAUDE.md hierarchy, slash commands, plan mode, and Claude Code CI/CD pipelines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -81,14 +81,15 @@ Orchestration · MCP · AI/ML · Frontend · Backend
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

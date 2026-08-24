@@ -1,6 +1,6 @@
 # evolsb/legal-redline-tools
 
-[![Stars](https://img.shields.io/github/stars/evolsb/legal-redline-tools?style=flat-square&color=yellow)](https://github.com/evolsb/legal-redline-tools/stargazers) [![Forks](https://img.shields.io/github/forks/evolsb/legal-redline-tools?style=flat-square&color=blue)](https://github.com/evolsb/legal-redline-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evolsb/legal-redline-tools?style=flat-square&color=yellow)](https://github.com/evolsb/legal-redline-tools/stargazers) [![Forks](https://img.shields.io/github/forks/evolsb/legal-redline-tools?style=flat-square&color=blue)](https://github.com/evolsb/legal-redline-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Generate tracked-changes Word docs and redline PDFs from a contract review — the same deliverables lawyers actually send.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ evolsb/legal-redline-tools 的价值在于它可以协调多代理工作流程�
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

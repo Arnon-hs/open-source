@@ -1,6 +1,6 @@
 # LuD1161/agentjail
 
-[![Stars](https://img.shields.io/github/stars/LuD1161/agentjail?style=flat-square&color=yellow)](https://github.com/LuD1161/agentjail/stargazers) [![Forks](https://img.shields.io/github/forks/LuD1161/agentjail?style=flat-square&color=blue)](https://github.com/LuD1161/agentjail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LuD1161/agentjail?style=flat-square&color=yellow)](https://github.com/LuD1161/agentjail/stargazers) [![Forks](https://img.shields.io/github/forks/LuD1161/agentjail?style=flat-square&color=blue)](https://github.com/LuD1161/agentjail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Policy guardrails for coding agents (Claude Code, Codex, Cursor) — every tool call is checked locally, before it runs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ LuD1161/agentjail 在生产环境中的可用性为中等（Medium）。它适�
 | forks | 12/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

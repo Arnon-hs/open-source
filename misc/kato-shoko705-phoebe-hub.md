@@ -1,6 +1,6 @@
 # Kato-Shoko705/Phoebe-Hub
 
-[![Stars](https://img.shields.io/github/stars/Kato-Shoko705/Phoebe-Hub?style=flat-square&color=yellow)](https://github.com/Kato-Shoko705/Phoebe-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/Kato-Shoko705/Phoebe-Hub?style=flat-square&color=blue)](https://github.com/Kato-Shoko705/Phoebe-Hub/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kato-Shoko705/Phoebe-Hub?style=flat-square&color=yellow)](https://github.com/Kato-Shoko705/Phoebe-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/Kato-Shoko705/Phoebe-Hub?style=flat-square&color=blue)](https://github.com/Kato-Shoko705/Phoebe-Hub/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 全球最可爱的鸣潮角色菲比表情包收集站-存放数据的
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Kato-Shoko705/Phoebe-Hub 的价值在于它可以方便地存放和管理数据�
 | forks | 28/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

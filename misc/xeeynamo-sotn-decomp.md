@@ -1,6 +1,6 @@
 # Xeeynamo/sotn-decomp
 
-[![Stars](https://img.shields.io/github/stars/Xeeynamo/sotn-decomp?style=flat-square&color=yellow)](https://github.com/Xeeynamo/sotn-decomp/stargazers) [![Forks](https://img.shields.io/github/forks/Xeeynamo/sotn-decomp?style=flat-square&color=blue)](https://github.com/Xeeynamo/sotn-decomp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xeeynamo/sotn-decomp?style=flat-square&color=yellow)](https://github.com/Xeeynamo/sotn-decomp/stargazers) [![Forks](https://img.shields.io/github/forks/Xeeynamo/sotn-decomp?style=flat-square&color=blue)](https://github.com/Xeeynamo/sotn-decomp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 965 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Xeeynamo/sotn-decomp 是一个开源项目，用于解压和反编译 Castlevani
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zio/zio
 
-[![Stars](https://img.shields.io/github/stars/zio/zio?style=flat-square&color=yellow)](https://github.com/zio/zio/stargazers) [![Forks](https://img.shields.io/github/forks/zio/zio?style=flat-square&color=blue)](https://github.com/zio/zio/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zio/zio?style=flat-square&color=yellow)](https://github.com/zio/zio/stargazers) [![Forks](https://img.shields.io/github/forks/zio/zio?style=flat-square&color=blue)](https://github.com/zio/zio/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ZIO — A type-safe, composable library for async and concurrent programming in Scala
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ZIO 是一个类型安全、可组合的 Scala 库，专注于异步和并发编
 | forks | 80/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 78/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

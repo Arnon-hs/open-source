@@ -1,6 +1,6 @@
 # proxysoul/Empryo-aka-soulforge
 
-[![Stars](https://img.shields.io/github/stars/proxysoul/Empryo-aka-soulforge?style=flat-square&color=yellow)](https://github.com/proxysoul/Empryo-aka-soulforge/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/Empryo-aka-soulforge?style=flat-square&color=blue)](https://github.com/proxysoul/Empryo-aka-soulforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proxysoul/Empryo-aka-soulforge?style=flat-square&color=yellow)](https://github.com/proxysoul/Empryo-aka-soulforge/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/Empryo-aka-soulforge?style=flat-square&color=blue)](https://github.com/proxysoul/Empryo-aka-soulforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding agent that edits symbols, not strings. AST surgery, full LSP, and a live code graph wired to memory that resurfaces by file, co-change, and semantics. https://soulforge.proxysoul.com/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 833 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ proxysoul/Empryo-aka-soulforge 帮助开发者在不从头开始构建模型堆�
 | forks | 45/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

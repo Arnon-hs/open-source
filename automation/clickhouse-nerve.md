@@ -1,6 +1,6 @@
 # ClickHouse/nerve
 
-[![Stars](https://img.shields.io/github/stars/ClickHouse/nerve?style=flat-square&color=yellow)](https://github.com/ClickHouse/nerve/stargazers) [![Forks](https://img.shields.io/github/forks/ClickHouse/nerve?style=flat-square&color=blue)](https://github.com/ClickHouse/nerve/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClickHouse/nerve?style=flat-square&color=yellow)](https://github.com/ClickHouse/nerve/stargazers) [![Forks](https://img.shields.io/github/forks/ClickHouse/nerve?style=flat-square&color=blue)](https://github.com/ClickHouse/nerve/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI agent runtime — personal assistants, autonomous workers, and everything in between. Built on the Claude Agent SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ ClickHouse/nerve 是一款自托管的 AI Agent 运行时，基于 Claude Agent 
 | forks | 35/100 |
 | stars | 38/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # janesmae/awesome-drones
 
-[![Stars](https://img.shields.io/github/stars/janesmae/awesome-drones?style=flat-square&color=yellow)](https://github.com/janesmae/awesome-drones/stargazers) [![Forks](https://img.shields.io/github/forks/janesmae/awesome-drones?style=flat-square&color=blue)](https://github.com/janesmae/awesome-drones/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janesmae/awesome-drones?style=flat-square&color=yellow)](https://github.com/janesmae/awesome-drones/stargazers) [![Forks](https://img.shields.io/github/forks/janesmae/awesome-drones?style=flat-square&color=blue)](https://github.com/janesmae/awesome-drones/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of Awesome Drones resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ janesmae/awesome-drones 是一个收集了大量关于无人机资源的开源�
 | forks | 48/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

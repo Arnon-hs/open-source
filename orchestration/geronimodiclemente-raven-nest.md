@@ -1,6 +1,6 @@
 # GeronimoDiClemente/raven-nest
 
-[![Stars](https://img.shields.io/github/stars/GeronimoDiClemente/raven-nest?style=flat-square&color=yellow)](https://github.com/GeronimoDiClemente/raven-nest/stargazers) [![Forks](https://img.shields.io/github/forks/GeronimoDiClemente/raven-nest?style=flat-square&color=blue)](https://github.com/GeronimoDiClemente/raven-nest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GeronimoDiClemente/raven-nest?style=flat-square&color=yellow)](https://github.com/GeronimoDiClemente/raven-nest/stargazers) [![Forks](https://img.shields.io/github/forks/GeronimoDiClemente/raven-nest?style=flat-square&color=blue)](https://github.com/GeronimoDiClemente/raven-nest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent terminal for Claude Code, Codex & Gemini. Open-source desktop app — Electron + React. Built for developers running multiple AI agents in parallel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Raven-Nest 的生产可用性为中等（Medium）。它适合用于快速原型
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

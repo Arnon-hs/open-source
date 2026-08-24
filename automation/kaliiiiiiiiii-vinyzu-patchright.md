@@ -1,6 +1,6 @@
 # Kaliiiiiiiiii-Vinyzu/patchright
 
-[![Stars](https://img.shields.io/github/stars/Kaliiiiiiiiii-Vinyzu/patchright?style=flat-square&color=yellow)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright/stargazers) [![Forks](https://img.shields.io/github/forks/Kaliiiiiiiiii-Vinyzu/patchright?style=flat-square&color=blue)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kaliiiiiiiiii-Vinyzu/patchright?style=flat-square&color=yellow)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright/stargazers) [![Forks](https://img.shields.io/github/forks/Kaliiiiiiiiii-Vinyzu/patchright?style=flat-square&color=blue)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Undetected version of the Playwright testing and automation library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Kaliiiiiiiiii-Vinyzu/patchright：Kaliiiiiiiiii-Vinyzu/patchright helps remove r
 | forks | 57/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

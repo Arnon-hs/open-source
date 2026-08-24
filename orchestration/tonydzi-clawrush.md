@@ -1,6 +1,6 @@
 # tonydzi/clawrush
 
-[![Stars](https://img.shields.io/github/stars/tonydzi/clawrush?style=flat-square&color=yellow)](https://github.com/tonydzi/clawrush/stargazers) [![Forks](https://img.shields.io/github/forks/tonydzi/clawrush?style=flat-square&color=blue)](https://github.com/tonydzi/clawrush/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonydzi/clawrush?style=flat-square&color=yellow)](https://github.com/tonydzi/clawrush/stargazers) [![Forks](https://img.shields.io/github/forks/tonydzi/clawrush?style=flat-square&color=blue)](https://github.com/tonydzi/clawrush/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Building an AI digital twin in public with Claude Code - English diary, longreads & reusable artifacts. RU version: Telegram @ClawRush.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Marketing
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Tonydzi/clawrush 是一个开源项目，通过 Claude Code 构建了一个公�
 | forks | 0/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

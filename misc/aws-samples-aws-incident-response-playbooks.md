@@ -1,6 +1,6 @@
 # aws-samples/aws-incident-response-playbooks
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/aws-incident-response-playbooks?style=flat-square&color=yellow)](https://github.com/aws-samples/aws-incident-response-playbooks/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/aws-incident-response-playbooks?style=flat-square&color=blue)](https://github.com/aws-samples/aws-incident-response-playbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/aws-incident-response-playbooks?style=flat-square&color=yellow)](https://github.com/aws-samples/aws-incident-response-playbooks/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/aws-incident-response-playbooks?style=flat-square&color=blue)](https://github.com/aws-samples/aws-incident-response-playbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,14 +80,15 @@ AWS 事件响应剧本是一套开源项目，旨在帮助用户在AWS环境中�
 | forks | 59/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

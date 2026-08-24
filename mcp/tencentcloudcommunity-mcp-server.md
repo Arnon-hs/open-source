@@ -1,6 +1,6 @@
 # TencentCloudCommunity/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/TencentCloudCommunity/mcp-server?style=flat-square&color=yellow)](https://github.com/TencentCloudCommunity/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloudCommunity/mcp-server?style=flat-square&color=blue)](https://github.com/TencentCloudCommunity/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloudCommunity/mcp-server?style=flat-square&color=yellow)](https://github.com/TencentCloudCommunity/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloudCommunity/mcp-server?style=flat-square&color=blue)](https://github.com/TencentCloudCommunity/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Tencent Cloud MCP Server, Support Remote Hosted and Local Installation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ TencentCloudCommunity/mcp-server 的价值在于，它帮助连接人工智能�
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

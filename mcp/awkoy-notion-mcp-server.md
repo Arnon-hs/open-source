@@ -1,6 +1,6 @@
 # awkoy/notion-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/awkoy/notion-mcp-server?style=flat-square&color=yellow)](https://github.com/awkoy/notion-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/awkoy/notion-mcp-server?style=flat-square&color=blue)](https://github.com/awkoy/notion-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awkoy/notion-mcp-server?style=flat-square&color=yellow)](https://github.com/awkoy/notion-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/awkoy/notion-mcp-server?style=flat-square&color=blue)](https://github.com/awkoy/notion-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ awkoy/notion-mcp-server 是一个基于 Model Context Protocol（MCP）的后端
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 0x61nas/aarty
 
-[![Stars](https://img.shields.io/github/stars/0x61nas/aarty?style=flat-square&color=yellow)](https://github.com/0x61nas/aarty/stargazers) [![Forks](https://img.shields.io/github/forks/0x61nas/aarty?style=flat-square&color=blue)](https://github.com/0x61nas/aarty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0x61nas/aarty?style=flat-square&color=yellow)](https://github.com/0x61nas/aarty/stargazers) [![Forks](https://img.shields.io/github/forks/0x61nas/aarty?style=flat-square&color=blue)](https://github.com/0x61nas/aarty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Print any image in your terminal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-19 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Aarty (0x61nas/aarty) is a Rust‑based CLI tool that renders any image directly
 | forks | 21/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 80/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 67/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

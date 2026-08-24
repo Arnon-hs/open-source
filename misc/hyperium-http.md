@@ -1,6 +1,6 @@
 # hyperium/http
 
-[![Stars](https://img.shields.io/github/stars/hyperium/http?style=flat-square&color=yellow)](https://github.com/hyperium/http/stargazers) [![Forks](https://img.shields.io/github/forks/hyperium/http?style=flat-square&color=blue)](https://github.com/hyperium/http/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperium/http?style=flat-square&color=yellow)](https://github.com/hyperium/http/stargazers) [![Forks](https://img.shields.io/github/forks/hyperium/http?style=flat-square&color=blue)](https://github.com/hyperium/http/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Rust HTTP types
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 370 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ hyperium/http 的生产可用性为 中等。它适合用于原型或内部工�
 | forks | 64/100 |
 | stars | 67/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

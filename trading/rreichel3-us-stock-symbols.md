@@ -1,6 +1,6 @@
 # rreichel3/US-Stock-Symbols
 
-[![Stars](https://img.shields.io/github/stars/rreichel3/US-Stock-Symbols?style=flat-square&color=yellow)](https://github.com/rreichel3/US-Stock-Symbols/stargazers) [![Forks](https://img.shields.io/github/forks/rreichel3/US-Stock-Symbols?style=flat-square&color=blue)](https://github.com/rreichel3/US-Stock-Symbols/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rreichel3/US-Stock-Symbols?style=flat-square&color=yellow)](https://github.com/rreichel3/US-Stock-Symbols/stargazers) [![Forks](https://img.shields.io/github/forks/rreichel3/US-Stock-Symbols?style=flat-square&color=blue)](https://github.com/rreichel3/US-Stock-Symbols/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Full lists of US Securities on the NASDAQ, NYSE, and AMEX powered by GitHub Actions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,14 +69,15 @@ Let's craft: "rreichel3/US-Stock-Symbols 提供了 NASDAQ、NYSE 和 AMEX 的完
 | forks | 51/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

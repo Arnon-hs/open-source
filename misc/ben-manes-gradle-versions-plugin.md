@@ -1,6 +1,6 @@
 # ben-manes/gradle-versions-plugin
 
-[![Stars](https://img.shields.io/github/stars/ben-manes/gradle-versions-plugin?style=flat-square&color=yellow)](https://github.com/ben-manes/gradle-versions-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/ben-manes/gradle-versions-plugin?style=flat-square&color=blue)](https://github.com/ben-manes/gradle-versions-plugin/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ben-manes/gradle-versions-plugin?style=flat-square&color=yellow)](https://github.com/ben-manes/gradle-versions-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/ben-manes/gradle-versions-plugin?style=flat-square&color=blue)](https://github.com/ben-manes/gradle-versions-plugin/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Gradle plugin to discover dependency updates
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Groovy |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ plugins {
 | forks | 58/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

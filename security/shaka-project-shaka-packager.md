@@ -1,6 +1,6 @@
 # shaka-project/shaka-packager
 
-[![Stars](https://img.shields.io/github/stars/shaka-project/shaka-packager?style=flat-square&color=yellow)](https://github.com/shaka-project/shaka-packager/stargazers) [![Forks](https://img.shields.io/github/forks/shaka-project/shaka-packager?style=flat-square&color=blue)](https://github.com/shaka-project/shaka-packager/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shaka-project/shaka-packager?style=flat-square&color=yellow)](https://github.com/shaka-project/shaka-packager/stargazers) [![Forks](https://img.shields.io/github/forks/shaka-project/shaka-packager?style=flat-square&color=blue)](https://github.com/shaka-project/shaka-packager/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 564 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ shaka‑project/shaka‑packager 是一款基于 C++ 的媒体打包框架，能
 | forks | 69/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

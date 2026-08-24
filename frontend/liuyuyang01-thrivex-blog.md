@@ -1,6 +1,6 @@
 # LiuYuYang01/ThriveX-Blog
 
-[![Stars](https://img.shields.io/github/stars/LiuYuYang01/ThriveX-Blog?style=flat-square&color=yellow)](https://github.com/LiuYuYang01/ThriveX-Blog/stargazers) [![Forks](https://img.shields.io/github/forks/LiuYuYang01/ThriveX-Blog?style=flat-square&color=blue)](https://github.com/LiuYuYang01/ThriveX-Blog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LiuYuYang01/ThriveX-Blog?style=flat-square&color=yellow)](https://github.com/LiuYuYang01/ThriveX-Blog/stargazers) [![Forks](https://img.shields.io/github/forks/LiuYuYang01/ThriveX-Blog?style=flat-square&color=blue)](https://github.com/LiuYuYang01/ThriveX-Blog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 829 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ThriveX-Blog 的生产可用性较高，_recent 活动、采用率和生态信�
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

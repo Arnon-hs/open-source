@@ -1,6 +1,6 @@
 # dorukardahan/domain-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/dorukardahan/domain-search-mcp?style=flat-square&color=yellow)](https://github.com/dorukardahan/domain-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dorukardahan/domain-search-mcp?style=flat-square&color=blue)](https://github.com/dorukardahan/domain-search-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dorukardahan/domain-search-mcp?style=flat-square&color=yellow)](https://github.com/dorukardahan/domain-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dorukardahan/domain-search-mcp?style=flat-square&color=blue)](https://github.com/dorukardahan/domain-search-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-config domain availability MCP server for Claude & ChatGPT. Live pricing via Porkbun, premium/auction detection via GoDaddy, AI suggestions, RDAP/WHOIS fallback. Stdio + HTTP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ dorukardahan/domain-search-mcp 是一个零配置的域名可用性 MCP 服务�
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

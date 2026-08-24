@@ -1,6 +1,6 @@
 # JanYork/llm-wiki-cli
 
-[![Stars](https://img.shields.io/github/stars/JanYork/llm-wiki-cli?style=flat-square&color=yellow)](https://github.com/JanYork/llm-wiki-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JanYork/llm-wiki-cli?style=flat-square&color=blue)](https://github.com/JanYork/llm-wiki-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JanYork/llm-wiki-cli?style=flat-square&color=yellow)](https://github.com/JanYork/llm-wiki-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JanYork/llm-wiki-cli?style=flat-square&color=blue)](https://github.com/JanYork/llm-wiki-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ JanYork/llm-wiki-cli 的生产可用性为中等（Medium）。它适合用于�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # JoakimCarlsson/ai
 
-[![Stars](https://img.shields.io/github/stars/JoakimCarlsson/ai?style=flat-square&color=yellow)](https://github.com/JoakimCarlsson/ai/stargazers) [![Forks](https://img.shields.io/github/forks/JoakimCarlsson/ai?style=flat-square&color=blue)](https://github.com/JoakimCarlsson/ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JoakimCarlsson/ai?style=flat-square&color=yellow)](https://github.com/JoakimCarlsson/ai/stargazers) [![Forks](https://img.shields.io/github/forks/JoakimCarlsson/ai?style=flat-square&color=blue)](https://github.com/JoakimCarlsson/ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with handoffs, tool calling, streaming, structured output, MCP integration, and cost tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · DevTools
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ JoakimCarlsson/ai 帮助将孤立的提示和工具转换为可重复的代理�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

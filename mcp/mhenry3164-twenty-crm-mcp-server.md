@@ -1,6 +1,6 @@
 # mhenry3164/twenty-crm-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/mhenry3164/twenty-crm-mcp-server?style=flat-square&color=yellow)](https://github.com/mhenry3164/twenty-crm-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/mhenry3164/twenty-crm-mcp-server?style=flat-square&color=blue)](https://github.com/mhenry3164/twenty-crm-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mhenry3164/twenty-crm-mcp-server?style=flat-square&color=yellow)](https://github.com/mhenry3164/twenty-crm-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/mhenry3164/twenty-crm-mcp-server?style=flat-square&color=blue)](https://github.com/mhenry3164/twenty-crm-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server for Twenty CRM integration. Enables natural language interactions with your CRM data through Claude and other AI assistants. Supports CRUD operations, dynamic schema discovery, and advanced search across people, companies, tasks, and notes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ mhenry3164/twenty-crm-mcp-server 是一个 Twenty CRM 的 Model Context Protocol
 | forks | 37/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

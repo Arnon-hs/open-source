@@ -1,6 +1,6 @@
 # orhun/halp
 
-[![Stars](https://img.shields.io/github/stars/orhun/halp?style=flat-square&color=yellow)](https://github.com/orhun/halp/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/halp?style=flat-square&color=blue)](https://github.com/orhun/halp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orhun/halp?style=flat-square&color=yellow)](https://github.com/orhun/halp/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/halp?style=flat-square&color=blue)](https://github.com/orhun/halp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool to get help with CLI tools 🐙
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ orhun/halp 是一款用 Rust 编写的 CLI 工具，专门用于在终端中快�
 | forks | 28/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

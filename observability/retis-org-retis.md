@@ -1,6 +1,6 @@
 # retis-org/retis
 
-[![Stars](https://img.shields.io/github/stars/retis-org/retis?style=flat-square&color=yellow)](https://github.com/retis-org/retis/stargazers) [![Forks](https://img.shields.io/github/forks/retis-org/retis?style=flat-square&color=blue)](https://github.com/retis-org/retis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/retis-org/retis?style=flat-square&color=yellow)](https://github.com/retis-org/retis/stargazers) [![Forks](https://img.shields.io/github/forks/retis-org/retis?style=flat-square&color=blue)](https://github.com/retis-org/retis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Tracing packets in the Linux networking stack & friends
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ retis-org/retis 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 39/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

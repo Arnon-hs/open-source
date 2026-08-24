@@ -1,6 +1,6 @@
 # typeddjango/django-stubs
 
-[![Stars](https://img.shields.io/github/stars/typeddjango/django-stubs?style=flat-square&color=yellow)](https://github.com/typeddjango/django-stubs/stargazers) [![Forks](https://img.shields.io/github/forks/typeddjango/django-stubs?style=flat-square&color=blue)](https://github.com/typeddjango/django-stubs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typeddjango/django-stubs?style=flat-square&color=yellow)](https://github.com/typeddjango/django-stubs/stargazers) [![Forks](https://img.shields.io/github/forks/typeddjango/django-stubs?style=flat-square&color=blue)](https://github.com/typeddjango/django-stubs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > PEP-484 stubs for Django
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 565 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ typedjango/django-stubs 的生产可用性较高。它的 README 文档更新时
 | forks | 69/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

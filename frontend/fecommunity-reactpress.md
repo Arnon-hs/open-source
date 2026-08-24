@@ -1,6 +1,6 @@
 # fecommunity/reactpress
 
-[![Stars](https://img.shields.io/github/stars/fecommunity/reactpress?style=flat-square&color=yellow)](https://github.com/fecommunity/reactpress/stargazers) [![Forks](https://img.shields.io/github/forks/fecommunity/reactpress?style=flat-square&color=blue)](https://github.com/fecommunity/reactpress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fecommunity/reactpress?style=flat-square&color=yellow)](https://github.com/fecommunity/reactpress/stargazers) [![Forks](https://img.shields.io/github/forks/fecommunity/reactpress?style=flat-square&color=blue)](https://github.com/fecommunity/reactpress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 ReactPress - The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://www.gaoredu.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ReactPress 是面向 React 开发者的发布系统，能够显著减少自定�
 | forks | 43/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

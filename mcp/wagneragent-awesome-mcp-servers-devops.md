@@ -1,6 +1,6 @@
 # WagnerAgent/awesome-mcp-servers-devops
 
-[![Stars](https://img.shields.io/github/stars/WagnerAgent/awesome-mcp-servers-devops?style=flat-square&color=yellow)](https://github.com/WagnerAgent/awesome-mcp-servers-devops/stargazers) [![Forks](https://img.shields.io/github/forks/WagnerAgent/awesome-mcp-servers-devops?style=flat-square&color=blue)](https://github.com/WagnerAgent/awesome-mcp-servers-devops/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WagnerAgent/awesome-mcp-servers-devops?style=flat-square&color=yellow)](https://github.com/WagnerAgent/awesome-mcp-servers-devops/stargazers) [![Forks](https://img.shields.io/github/forks/WagnerAgent/awesome-mcp-servers-devops?style=flat-square&color=blue)](https://github.com/WagnerAgent/awesome-mcp-servers-devops/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintained, production-ready integrations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Observability
+MCP · AI/ML · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ WagnerAgent/awesome-mcp-servers-devops 汇聚了基于 Model Context Protocol（
 | forks | 41/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # brightdata/brightdata-mcp
 
-[![Stars](https://img.shields.io/github/stars/brightdata/brightdata-mcp?style=flat-square&color=yellow)](https://github.com/brightdata/brightdata-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/brightdata/brightdata-mcp?style=flat-square&color=blue)](https://github.com/brightdata/brightdata-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brightdata/brightdata-mcp?style=flat-square&color=yellow)](https://github.com/brightdata/brightdata-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/brightdata/brightdata-mcp?style=flat-square&color=blue)](https://github.com/brightdata/brightdata-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ brightdata/brightdata-mcp 的生产可用性非常高。它有近 3,000 个 GitH
 | forks | 63/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 70/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

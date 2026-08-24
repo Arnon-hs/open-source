@@ -1,6 +1,6 @@
 # Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List
 
-[![Stars](https://img.shields.io/github/stars/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List?style=flat-square&color=yellow)](https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/stargazers) [![Forks](https://img.shields.io/github/forks/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List?style=flat-square&color=blue)](https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List?style=flat-square&color=yellow)](https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/stargazers) [![Forks](https://img.shields.io/github/forks/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List?style=flat-square&color=blue)](https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 广州电信广东IPTV列表（IGMP/RTP组播地址）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List 是一个开源项目，提供广州
 | forks | 59/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

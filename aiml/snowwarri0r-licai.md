@@ -1,6 +1,6 @@
 # SnowWarri0r/licai
 
-[![Stars](https://img.shields.io/github/stars/SnowWarri0r/licai?style=flat-square&color=yellow)](https://github.com/SnowWarri0r/licai/stargazers) [![Forks](https://img.shields.io/github/forks/SnowWarri0r/licai?style=flat-square&color=blue)](https://github.com/SnowWarri0r/licai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SnowWarri0r/licai?style=flat-square&color=yellow)](https://github.com/SnowWarri0r/licai/stargazers) [![Forks](https://img.shields.io/github/forks/SnowWarri0r/licai?style=flat-square&color=blue)](https://github.com/SnowWarri0r/licai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 本地化个人理财助手 — A股/基金/理财/现金/数字资产/机器人全资产看板 + 市场AI问答 + 个股K线盘口详情 + 板块对比 + 早盘信息简报 + 资讯AI解读。只给客观信息，不荐买卖。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ SnowWarri0r/licai 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 23/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

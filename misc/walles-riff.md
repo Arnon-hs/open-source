@@ -1,6 +1,6 @@
 # walles/riff
 
-[![Stars](https://img.shields.io/github/stars/walles/riff?style=flat-square&color=yellow)](https://github.com/walles/riff/stargazers) [![Forks](https://img.shields.io/github/forks/walles/riff?style=flat-square&color=blue)](https://github.com/walles/riff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walles/riff?style=flat-square&color=yellow)](https://github.com/walles/riff/stargazers) [![Forks](https://img.shields.io/github/forks/walles/riff?style=flat-square&color=blue)](https://github.com/walles/riff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A syntax highter for diffs, clarifying which parts of lines have changed
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ walles/riff 目前处于中等生产可用状态（Medium），适合用于 prot
 | forks | 26/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

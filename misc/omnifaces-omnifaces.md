@@ -1,6 +1,6 @@
 # omnifaces/omnifaces
 
-[![Stars](https://img.shields.io/github/stars/omnifaces/omnifaces?style=flat-square&color=yellow)](https://github.com/omnifaces/omnifaces/stargazers) [![Forks](https://img.shields.io/github/forks/omnifaces/omnifaces?style=flat-square&color=blue)](https://github.com/omnifaces/omnifaces/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnifaces/omnifaces?style=flat-square&color=yellow)](https://github.com/omnifaces/omnifaces/stargazers) [![Forks](https://img.shields.io/github/forks/omnifaces/omnifaces?style=flat-square&color=blue)](https://github.com/omnifaces/omnifaces/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > To make Faces life easier
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ omnifaces/omnifaces 的生产可用性为中等。它适合用于内部开发和
 | forks | 50/100 |
 | stars | 53/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

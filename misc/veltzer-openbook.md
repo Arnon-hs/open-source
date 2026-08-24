@@ -1,6 +1,6 @@
 # veltzer/openbook
 
-[![Stars](https://img.shields.io/github/stars/veltzer/openbook?style=flat-square&color=yellow)](https://github.com/veltzer/openbook/stargazers) [![Forks](https://img.shields.io/github/forks/veltzer/openbook?style=flat-square&color=blue)](https://github.com/veltzer/openbook/network) [![Language](https://img.shields.io/badge/lang-Mako-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/veltzer/openbook?style=flat-square&color=yellow)](https://github.com/veltzer/openbook/stargazers) [![Forks](https://img.shields.io/github/forks/veltzer/openbook?style=flat-square&color=blue)](https://github.com/veltzer/openbook/network) [![Language](https://img.shields.io/badge/lang-Mako-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > OpenBook is an open source Jazz real book
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Mako |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ OpenBook 的生产可用性为中等（Medium）。它适合用于原型开发�
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

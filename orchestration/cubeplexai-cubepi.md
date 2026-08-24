@@ -1,6 +1,6 @@
 # cubeplexai/cubepi
 
-[![Stars](https://img.shields.io/github/stars/cubeplexai/cubepi?style=flat-square&color=yellow)](https://github.com/cubeplexai/cubepi/stargazers) [![Forks](https://img.shields.io/github/forks/cubeplexai/cubepi?style=flat-square&color=blue)](https://github.com/cubeplexai/cubepi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cubeplexai/cubepi?style=flat-square&color=yellow)](https://github.com/cubeplexai/cubepi/stargazers) [![Forks](https://img.shields.io/github/forks/cubeplexai/cubepi?style=flat-square&color=blue)](https://github.com/cubeplexai/cubepi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > CubePi — An async-first Python agent kernel inspired by Pi, built for coding agents, tools, and continuous sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ cubeplexai/cubepi：cubeplexai/cubepi helps turn isolated prompts and tools into
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

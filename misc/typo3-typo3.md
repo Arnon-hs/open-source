@@ -1,6 +1,6 @@
 # TYPO3/typo3
 
-[![Stars](https://img.shields.io/github/stars/TYPO3/typo3?style=flat-square&color=yellow)](https://github.com/TYPO3/typo3/stargazers) [![Forks](https://img.shields.io/github/forks/TYPO3/typo3?style=flat-square&color=blue)](https://github.com/TYPO3/typo3/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TYPO3/typo3?style=flat-square&color=yellow)](https://github.com/TYPO3/typo3/stargazers) [![Forks](https://img.shields.io/github/forks/TYPO3/typo3?style=flat-square&color=blue)](https://github.com/TYPO3/typo3/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https://review.typo3.org/q/project:Packages/TYPO3.CMS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 707 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ TYPO3/typo3 的生产可用性为中等（Medium），适合用于原型或内�
 | forks | 71/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

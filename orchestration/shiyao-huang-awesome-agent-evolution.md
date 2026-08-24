@@ -1,6 +1,6 @@
 # Shiyao-Huang/awesome-agent-evolution
 
-[![Stars](https://img.shields.io/github/stars/Shiyao-Huang/awesome-agent-evolution?style=flat-square&color=yellow)](https://github.com/Shiyao-Huang/awesome-agent-evolution/stargazers) [![Forks](https://img.shields.io/github/forks/Shiyao-Huang/awesome-agent-evolution?style=flat-square&color=blue)](https://github.com/Shiyao-Huang/awesome-agent-evolution/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shiyao-Huang/awesome-agent-evolution?style=flat-square&color=yellow)](https://github.com/Shiyao-Huang/awesome-agent-evolution/stargazers) [![Forks](https://img.shields.io/github/forks/Shiyao-Huang/awesome-agent-evolution?style=flat-square&color=blue)](https://github.com/Shiyao-Huang/awesome-agent-evolution/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and agent-swarm systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ Shiyao‑Huang/awesome‑agent‑evolution 汇集了 AI 代理进化的最新调
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

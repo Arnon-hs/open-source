@@ -1,6 +1,6 @@
 # vinkius-labs/mcpfusion
 
-[![Stars](https://img.shields.io/github/stars/vinkius-labs/mcpfusion?style=flat-square&color=yellow)](https://github.com/vinkius-labs/mcpfusion/stargazers) [![Forks](https://img.shields.io/github/forks/vinkius-labs/mcpfusion?style=flat-square&color=blue)](https://github.com/vinkius-labs/mcpfusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinkius-labs/mcpfusion?style=flat-square&color=yellow)](https://github.com/vinkius-labs/mcpfusion/stargazers) [![Forks](https://img.shields.io/github/forks/vinkius-labs/mcpfusion?style=flat-square&color=blue)](https://github.com/vinkius-labs/mcpfusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Fusion - The TypeScript framework for secure MCP servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 255 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ MCP Fusion 是由 Vinkius Labs 开源的 TypeScript 框架，专为构建安全�
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ahundt/autorun
 
-[![Stars](https://img.shields.io/github/stars/ahundt/autorun?style=flat-square&color=yellow)](https://github.com/ahundt/autorun/stargazers) [![Forks](https://img.shields.io/github/forks/ahundt/autorun?style=flat-square&color=blue)](https://github.com/ahundt/autorun/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahundt/autorun?style=flat-square&color=yellow)](https://github.com/ahundt/autorun/stargazers) [![Forks](https://img.shields.io/github/forks/ahundt/autorun?style=flat-square&color=blue)](https://github.com/ahundt/autorun/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code & codex plugin + Gemini cli extension to keep ai running, keep data safe, plan better, and keep running until tasks are done.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Data
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ahundt/autorun：ahundt/autorun helps turn isolated prompts and tools into repea
 | forks | 12/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

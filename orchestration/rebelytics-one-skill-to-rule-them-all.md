@@ -1,6 +1,6 @@
 # rebelytics/one-skill-to-rule-them-all
 
-[![Stars](https://img.shields.io/github/stars/rebelytics/one-skill-to-rule-them-all?style=flat-square&color=yellow)](https://github.com/rebelytics/one-skill-to-rule-them-all/stargazers) [![Forks](https://img.shields.io/github/forks/rebelytics/one-skill-to-rule-them-all?style=flat-square&color=blue)](https://github.com/rebelytics/one-skill-to-rule-them-all/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rebelytics/one-skill-to-rule-them-all?style=flat-square&color=yellow)](https://github.com/rebelytics/one-skill-to-rule-them-all/stargazers) [![Forks](https://img.shields.io/github/forks/rebelytics/one-skill-to-rule-them-all?style=flat-square&color=blue)](https://github.com/rebelytics/one-skill-to-rule-them-all/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captures corrections and judgement calls, and turns them into skill improvements automatically. Practical application of the Augmented Expertise methodology. Open-source, domain-agnostic, CC BY 4.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ rebelytics/one-skill-to-rule-them-all 帮助将孤立的提示和工具转化为
 | forks | 52/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

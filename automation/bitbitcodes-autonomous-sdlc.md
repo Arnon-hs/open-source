@@ -1,6 +1,6 @@
 # bitbitcodes/autonomous-sdlc
 
-[![Stars](https://img.shields.io/github/stars/bitbitcodes/autonomous-sdlc?style=flat-square&color=yellow)](https://github.com/bitbitcodes/autonomous-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/bitbitcodes/autonomous-sdlc?style=flat-square&color=blue)](https://github.com/bitbitcodes/autonomous-sdlc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitbitcodes/autonomous-sdlc?style=flat-square&color=yellow)](https://github.com/bitbitcodes/autonomous-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/bitbitcodes/autonomous-sdlc?style=flat-square&color=blue)](https://github.com/bitbitcodes/autonomous-sdlc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > autonomous-sdlc scaffolds 40 AI agents into your project repo to execute the full software development lifecycle — from a spec to production-ready code with tests, security audit, CI/CD, and monitoring.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Observability · Security
+Automation · Observability · Security
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ bitbitcodes/autonomous-sdlc是一个开源项目，用于自动化软件开发�
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

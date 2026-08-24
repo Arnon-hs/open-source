@@ -1,6 +1,6 @@
 # brandtnewlabs/react-native-livechart
 
-[![Stars](https://img.shields.io/github/stars/brandtnewlabs/react-native-livechart?style=flat-square&color=yellow)](https://github.com/brandtnewlabs/react-native-livechart/stargazers) [![Forks](https://img.shields.io/github/forks/brandtnewlabs/react-native-livechart?style=flat-square&color=blue)](https://github.com/brandtnewlabs/react-native-livechart/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brandtnewlabs/react-native-livechart?style=flat-square&color=yellow)](https://github.com/brandtnewlabs/react-native-livechart/stargazers) [![Forks](https://img.shields.io/github/forks/brandtnewlabs/react-native-livechart?style=flat-square&color=blue)](https://github.com/brandtnewlabs/react-native-livechart/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance live line & candlestick charts for React Native, built on Skia and Reanimated.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Frontend · Database · Mobile
+Trading · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ brandtnewlabs/react-native-livechart：brandtnewlabs/react-native-livechart help
 | forks | 24/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

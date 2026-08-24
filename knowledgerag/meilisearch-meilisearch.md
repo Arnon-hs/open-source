@@ -1,6 +1,6 @@
 # meilisearch/meilisearch
 
-[![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square&color=yellow)](https://github.com/meilisearch/meilisearch/stargazers) [![Forks](https://img.shields.io/github/forks/meilisearch/meilisearch?style=flat-square&color=blue)](https://github.com/meilisearch/meilisearch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square&color=yellow)](https://github.com/meilisearch/meilisearch/stargazers) [![Forks](https://img.shields.io/github/forks/meilisearch/meilisearch?style=flat-square&color=blue)](https://github.com/meilisearch/meilisearch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57.5k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend · Data · Database
+Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Meilisearch（meilisearch/meilisearch）是一款基于 Rust 实现的超高速�
 | forks | 85/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 20/100 |
 | adoption | 96/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

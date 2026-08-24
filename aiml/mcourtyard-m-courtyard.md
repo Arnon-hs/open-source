@@ -1,6 +1,6 @@
 # Mcourtyard/m-courtyard
 
-[![Stars](https://img.shields.io/github/stars/Mcourtyard/m-courtyard?style=flat-square&color=yellow)](https://github.com/Mcourtyard/m-courtyard/stargazers) [![Forks](https://img.shields.io/github/forks/Mcourtyard/m-courtyard?style=flat-square&color=blue)](https://github.com/Mcourtyard/m-courtyard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mcourtyard/m-courtyard?style=flat-square&color=yellow)](https://github.com/Mcourtyard/m-courtyard/stargazers) [![Forks](https://img.shields.io/github/forks/Mcourtyard/m-courtyard?style=flat-square&color=blue)](https://github.com/Mcourtyard/m-courtyard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > M-Courtyard: Local AI Model Fine-tuning Assistant for Apple Silicon. Zero-code, zero-cloud, privacy-first desktop app powered by Tauri + React + mlx-lm.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ M-Courtyard 的生产可用性评估为中等（Medium）。它适合用于内�
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

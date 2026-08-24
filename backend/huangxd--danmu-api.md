@@ -1,6 +1,6 @@
 # huangxd-/danmu_api
 
-[![Stars](https://img.shields.io/github/stars/huangxd-/danmu_api?style=flat-square&color=yellow)](https://github.com/huangxd-/danmu_api/stargazers) [![Forks](https://img.shields.io/github/forks/huangxd-/danmu_api?style=flat-square&color=blue)](https://github.com/huangxd-/danmu_api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangxd-/danmu_api?style=flat-square&color=yellow)](https://github.com/huangxd-/danmu_api/stargazers) [![Forks](https://img.shields.io/github/forks/huangxd-/danmu_api?style=flat-square&color=blue)](https://github.com/huangxd-/danmu_api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · DevOps/Infra
+Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ huangxd-/danmu_api 的生产可用性非常高，最近活跃，广泛采用，�
 | forks | 86/100 |
 | stars | 74/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # JetXu-LLM/codex-deepseek-bridge
 
-[![Stars](https://img.shields.io/github/stars/JetXu-LLM/codex-deepseek-bridge?style=flat-square&color=yellow)](https://github.com/JetXu-LLM/codex-deepseek-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/JetXu-LLM/codex-deepseek-bridge?style=flat-square&color=blue)](https://github.com/JetXu-LLM/codex-deepseek-bridge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetXu-LLM/codex-deepseek-bridge?style=flat-square&color=yellow)](https://github.com/JetXu-LLM/codex-deepseek-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/JetXu-LLM/codex-deepseek-bridge?style=flat-square&color=blue)](https://github.com/JetXu-LLM/codex-deepseek-bridge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Use DeepSeek models inside OpenAI Codex through a tiny local Responses-compatible bridge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ JetXu-LLM/codex‑deepseek‑bridge 是一个体积极小的 “Responses‑comp
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

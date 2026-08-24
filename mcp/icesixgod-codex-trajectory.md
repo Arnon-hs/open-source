@@ -1,6 +1,6 @@
 # icesixgod/codex-trajectory
 
-[![Stars](https://img.shields.io/github/stars/icesixgod/codex-trajectory?style=flat-square&color=yellow)](https://github.com/icesixgod/codex-trajectory/stargazers) [![Forks](https://img.shields.io/github/forks/icesixgod/codex-trajectory?style=flat-square&color=blue)](https://github.com/icesixgod/codex-trajectory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icesixgod/codex-trajectory?style=flat-square&color=yellow)](https://github.com/icesixgod/codex-trajectory/stargazers) [![Forks](https://img.shields.io/github/forks/icesixgod/codex-trajectory?style=flat-square&color=blue)](https://github.com/icesixgod/codex-trajectory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-aware trajectory viewer for local Codex task logs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ icesixgod/codex-trajectory：icesixgod/codex-trajectory helps connect AI assista
 | forks | 31/100 |
 | stars | 51/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

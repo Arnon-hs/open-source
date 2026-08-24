@@ -1,6 +1,6 @@
 # nexus-research-lab/nexus
 
-[![Stars](https://img.shields.io/github/stars/nexus-research-lab/nexus?style=flat-square&color=yellow)](https://github.com/nexus-research-lab/nexus/stargazers) [![Forks](https://img.shields.io/github/forks/nexus-research-lab/nexus?style=flat-square&color=blue)](https://github.com/nexus-research-lab/nexus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexus-research-lab/nexus?style=flat-square&color=yellow)](https://github.com/nexus-research-lab/nexus/stargazers) [![Forks](https://img.shields.io/github/forks/nexus-research-lab/nexus?style=flat-square&color=blue)](https://github.com/nexus-research-lab/nexus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent collaboration platform for persistent, proactive AI agents across rooms, workspaces, skills, and external services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ nexus 为多代理 AI 编排提供了一个轻量、可扩展的框架，能够�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 38/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

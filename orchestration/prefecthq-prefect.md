@@ -1,6 +1,6 @@
 # PrefectHQ/prefect
 
-[![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=flat-square&color=yellow)](https://github.com/PrefectHQ/prefect/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/prefect?style=flat-square&color=blue)](https://github.com/PrefectHQ/prefect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=flat-square&color=yellow)](https://github.com/PrefectHQ/prefect/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/prefect?style=flat-square&color=blue)](https://github.com/PrefectHQ/prefect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.4k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Data
+Orchestration · Automation · AI/ML · Data · Observability
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Prefect 的生产可用性很高，主要原因是：
 | forks | 85/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 96/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # FufuLauncher/FufuLauncher
 
-[![Stars](https://img.shields.io/github/stars/FufuLauncher/FufuLauncher?style=flat-square&color=yellow)](https://github.com/FufuLauncher/FufuLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/FufuLauncher/FufuLauncher?style=flat-square&color=blue)](https://github.com/FufuLauncher/FufuLauncher/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FufuLauncher/FufuLauncher?style=flat-square&color=yellow)](https://github.com/FufuLauncher/FufuLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/FufuLauncher/FufuLauncher?style=flat-square&color=blue)](https://github.com/FufuLauncher/FufuLauncher/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A third-party launcher for Genshin Impact that supports game injection, automatic check-in, and some useful small features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ FufuLauncher 的生产可用性为中等。它适合用于原型或内部工作�
 | forks | 42/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

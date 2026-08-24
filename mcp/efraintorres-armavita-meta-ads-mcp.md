@@ -1,6 +1,6 @@
 # EfrainTorres/armavita-meta-ads-mcp
 
-[![Stars](https://img.shields.io/github/stars/EfrainTorres/armavita-meta-ads-mcp?style=flat-square&color=yellow)](https://github.com/EfrainTorres/armavita-meta-ads-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/EfrainTorres/armavita-meta-ads-mcp?style=flat-square&color=blue)](https://github.com/EfrainTorres/armavita-meta-ads-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EfrainTorres/armavita-meta-ads-mcp?style=flat-square&color=yellow)](https://github.com/EfrainTorres/armavita-meta-ads-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/EfrainTorres/armavita-meta-ads-mcp?style=flat-square&color=blue)](https://github.com/EfrainTorres/armavita-meta-ads-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Instagram & Facebook MCP server for Meta Marketing API v25 with secure token redaction, cursor pagination, and OSS tooling for campaigns, ad sets, ads, creatives, insights, and reports.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Marketing
+MCP · AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ EfrainTorres/armavita-meta-ads-mcp 是一个基于 Model Context Protocol（MCP�
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

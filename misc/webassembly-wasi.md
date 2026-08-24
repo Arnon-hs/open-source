@@ -1,6 +1,6 @@
 # WebAssembly/WASI
 
-[![Stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat-square&color=yellow)](https://github.com/WebAssembly/WASI/stargazers) [![Forks](https://img.shields.io/github/forks/WebAssembly/WASI?style=flat-square&color=blue)](https://github.com/WebAssembly/WASI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WebAssembly/WASI?style=flat-square&color=yellow)](https://github.com/WebAssembly/WASI/stargazers) [![Forks](https://img.shields.io/github/forks/WebAssembly/WASI?style=flat-square&color=blue)](https://github.com/WebAssembly/WASI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > WebAssembly System Interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 326 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ WebAssembly/WASI 的生产可用性被评为中等（Medium）。它适用于构
 | forks | 63/100 |
 | stars | 80/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vmartinv/nek
 
-[![Stars](https://img.shields.io/github/stars/vmartinv/nek?style=flat-square&color=yellow)](https://github.com/vmartinv/nek/stargazers) [![Forks](https://img.shields.io/github/forks/vmartinv/nek?style=flat-square&color=blue)](https://github.com/vmartinv/nek/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vmartinv/nek?style=flat-square&color=yellow)](https://github.com/vmartinv/nek/stargazers) [![Forks](https://img.shields.io/github/forks/vmartinv/nek?style=flat-square&color=blue)](https://github.com/vmartinv/nek/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: Kernel that only runs an NES emulator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Kernel that only runs an NES emulator - это открытое исходное
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 52/100 |
-| quality | 37/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 32/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

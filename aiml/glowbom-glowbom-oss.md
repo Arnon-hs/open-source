@@ -1,6 +1,6 @@
 # glowbom/glowbom-oss
 
-[![Stars](https://img.shields.io/github/stars/glowbom/glowbom-oss?style=flat-square&color=yellow)](https://github.com/glowbom/glowbom-oss/stargazers) [![Forks](https://img.shields.io/github/forks/glowbom/glowbom-oss?style=flat-square&color=blue)](https://github.com/glowbom/glowbom-oss/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glowbom/glowbom-oss?style=flat-square&color=yellow)](https://github.com/glowbom/glowbom-oss/stargazers) [![Forks](https://img.shields.io/github/forks/glowbom/glowbom-oss?style=flat-square&color=blue)](https://github.com/glowbom/glowbom-oss/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Glowby lets you build production-ready software with coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Product
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Glowby 的生产可用性评分为 71/100，表示它在生产环境中有较高
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

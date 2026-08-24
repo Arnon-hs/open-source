@@ -1,6 +1,6 @@
 # HsienW/chat-gun-react-agent
 
-[![Stars](https://img.shields.io/github/stars/HsienW/chat-gun-react-agent?style=flat-square&color=yellow)](https://github.com/HsienW/chat-gun-react-agent/stargazers) [![Forks](https://img.shields.io/github/forks/HsienW/chat-gun-react-agent?style=flat-square&color=blue)](https://github.com/HsienW/chat-gun-react-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HsienW/chat-gun-react-agent?style=flat-square&color=yellow)](https://github.com/HsienW/chat-gun-react-agent/stargazers) [![Forks](https://img.shields.io/github/forks/HsienW/chat-gun-react-agent?style=flat-square&color=blue)](https://github.com/HsienW/chat-gun-react-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖A production-oriented full-stack Agent Chat system built with React, TypeScript, LangGraph JS, Qwen/OpenAI-compatible models, native tools, optional MCP, HITL, streaming events, multimodal input, and deep research workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ HsienW/chat-gun-react-agent 的生产可用性为中等，适合用于原型开�
 | forks | 29/100 |
 | stars | 36/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

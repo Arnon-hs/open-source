@@ -1,6 +1,6 @@
 # apache/zeppelin
 
-[![Stars](https://img.shields.io/github/stars/apache/zeppelin?style=flat-square&color=yellow)](https://github.com/apache/zeppelin/stargazers) [![Forks](https://img.shields.io/github/forks/apache/zeppelin?style=flat-square&color=blue)](https://github.com/apache/zeppelin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/zeppelin?style=flat-square&color=yellow)](https://github.com/apache/zeppelin/stargazers) [![Forks](https://img.shields.io/github/forks/apache/zeppelin?style=flat-square&color=blue)](https://github.com/apache/zeppelin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Apache Zeppelin 的生产可用性高，主要原因是：
 | forks | 86/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 83/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ KatherLab/STAMP：KatherLab/STAMP helps connect AI assistants to real tools and 
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

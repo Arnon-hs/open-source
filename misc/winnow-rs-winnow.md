@@ -1,6 +1,6 @@
 # winnow-rs/winnow
 
-[![Stars](https://img.shields.io/github/stars/winnow-rs/winnow?style=flat-square&color=yellow)](https://github.com/winnow-rs/winnow/stargazers) [![Forks](https://img.shields.io/github/forks/winnow-rs/winnow?style=flat-square&color=blue)](https://github.com/winnow-rs/winnow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/winnow-rs/winnow?style=flat-square&color=yellow)](https://github.com/winnow-rs/winnow/stargazers) [![Forks](https://img.shields.io/github/forks/winnow-rs/winnow?style=flat-square&color=blue)](https://github.com/winnow-rs/winnow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Making parsing a breeze
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 929 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ winnow-rs/winnow 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 49/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

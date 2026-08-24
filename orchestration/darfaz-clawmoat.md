@@ -1,6 +1,6 @@
 # darfaz/clawmoat
 
-[![Stars](https://img.shields.io/github/stars/darfaz/clawmoat?style=flat-square&color=yellow)](https://github.com/darfaz/clawmoat/stargazers) [![Forks](https://img.shields.io/github/forks/darfaz/clawmoat?style=flat-square&color=blue)](https://github.com/darfaz/clawmoat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darfaz/clawmoat?style=flat-square&color=yellow)](https://github.com/darfaz/clawmoat/stargazers) [![Forks](https://img.shields.io/github/forks/darfaz/clawmoat?style=flat-square&color=blue)](https://github.com/darfaz/clawmoat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source agent firewall. Prevent AI agents from leaking data, using dangerous tools, and importing poisoned dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Security
+Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ darfaz/clawmoat 是一款开源的「代理防火墙」，专门拦截 AI 代理
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

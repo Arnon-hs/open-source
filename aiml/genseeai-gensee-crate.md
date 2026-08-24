@@ -1,6 +1,6 @@
 # GenseeAI/gensee-crate
 
-[![Stars](https://img.shields.io/github/stars/GenseeAI/gensee-crate?style=flat-square&color=yellow)](https://github.com/GenseeAI/gensee-crate/stargazers) [![Forks](https://img.shields.io/github/forks/GenseeAI/gensee-crate?style=flat-square&color=blue)](https://github.com/GenseeAI/gensee-crate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GenseeAI/gensee-crate?style=flat-square&color=yellow)](https://github.com/GenseeAI/gensee-crate/stargazers) [![Forks](https://img.shields.io/github/forks/GenseeAI/gensee-crate?style=flat-square&color=blue)](https://github.com/GenseeAI/gensee-crate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Runtime safety for AI coding agents with real-time enforcement, system-event monitoring, and long-horizon provenance. Supports Claude Code, Codex, Antigravity, Copilot, Omnigent on native macOS and Linux.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ GenseeAI/gensee-crate 在生产环境中有中等的可用性。它适合于内�
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

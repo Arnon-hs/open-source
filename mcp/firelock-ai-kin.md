@@ -1,6 +1,6 @@
 # firelock-ai/kin
 
-[![Stars](https://img.shields.io/github/stars/firelock-ai/kin?style=flat-square&color=yellow)](https://github.com/firelock-ai/kin/stargazers) [![Forks](https://img.shields.io/github/forks/firelock-ai/kin?style=flat-square&color=blue)](https://github.com/firelock-ai/kin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firelock-ai/kin?style=flat-square&color=yellow)](https://github.com/firelock-ai/kin/stargazers) [![Forks](https://img.shields.io/github/forks/firelock-ai/kin?style=flat-square&color=blue)](https://github.com/firelock-ai/kin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first semantic version control for AI-native teams. Git stores text history. Kin understands code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Data · Database
+MCP · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ firelock-ai/kin - это open-source проект, который обеспеч
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

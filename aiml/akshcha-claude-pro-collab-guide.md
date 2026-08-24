@@ -1,6 +1,6 @@
 # akshcha/claude-pro-collab-guide
 
-[![Stars](https://img.shields.io/github/stars/akshcha/claude-pro-collab-guide?style=flat-square&color=yellow)](https://github.com/akshcha/claude-pro-collab-guide/stargazers) [![Forks](https://img.shields.io/github/forks/akshcha/claude-pro-collab-guide?style=flat-square&color=blue)](https://github.com/akshcha/claude-pro-collab-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akshcha/claude-pro-collab-guide?style=flat-square&color=yellow)](https://github.com/akshcha/claude-pro-collab-guide/stargazers) [![Forks](https://img.shields.io/github/forks/akshcha/claude-pro-collab-guide?style=flat-square&color=blue)](https://github.com/akshcha/claude-pro-collab-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 2026 Claude Pro AI Group Plans Guide: Best Claude Hezu & Code Sharing Deals from $14/Month
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ akshcha/claude-pro-collab-guide 是一个开源项目，提供了2026 Claude Pro
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

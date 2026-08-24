@@ -1,6 +1,6 @@
 # Turbo87/utm
 
-[![Stars](https://img.shields.io/github/stars/Turbo87/utm?style=flat-square&color=yellow)](https://github.com/Turbo87/utm/stargazers) [![Forks](https://img.shields.io/github/forks/Turbo87/utm?style=flat-square&color=blue)](https://github.com/Turbo87/utm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Turbo87/utm?style=flat-square&color=yellow)](https://github.com/Turbo87/utm/stargazers) [![Forks](https://img.shields.io/github/forks/Turbo87/utm?style=flat-square&color=blue)](https://github.com/Turbo87/utm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Bidirectional UTM-WGS84 converter for python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 530 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Turbo87/utm 在生产环境中有中等的可用性。它适合用于原型或�
 | forks | 51/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

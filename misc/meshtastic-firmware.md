@@ -1,6 +1,6 @@
 # meshtastic/firmware
 
-[![Stars](https://img.shields.io/github/stars/meshtastic/firmware?style=flat-square&color=yellow)](https://github.com/meshtastic/firmware/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/firmware?style=flat-square&color=blue)](https://github.com/meshtastic/firmware/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshtastic/firmware?style=flat-square&color=yellow)](https://github.com/meshtastic/firmware/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/firmware?style=flat-square&color=blue)](https://github.com/meshtastic/firmware/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Meshtastic/firmware 是 Meshtastic 项目的官方固件，实现了一个开源
 | forks | 85/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cloakllm/CloakLLM
 
-[![Stars](https://img.shields.io/github/stars/cloakllm/CloakLLM?style=flat-square&color=yellow)](https://github.com/cloakllm/CloakLLM/stargazers) [![Forks](https://img.shields.io/github/forks/cloakllm/CloakLLM?style=flat-square&color=blue)](https://github.com/cloakllm/CloakLLM/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloakllm/CloakLLM?style=flat-square&color=yellow)](https://github.com/cloakllm/CloakLLM/stargazers) [![Forks](https://img.shields.io/github/forks/cloakllm/CloakLLM?style=flat-square&color=blue)](https://github.com/cloakllm/CloakLLM/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source PII cloaking + tamper-evident audit logs for LLM API calls
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Observability · Security
+MCP · AI/ML · Observability · Security
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ CloakLLM（cloakllm/CloakLLM）是一款开源库，专注于在调用大语言�
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

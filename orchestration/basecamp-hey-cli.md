@@ -1,6 +1,6 @@
 # basecamp/hey-cli
 
-[![Stars](https://img.shields.io/github/stars/basecamp/hey-cli?style=flat-square&color=yellow)](https://github.com/basecamp/hey-cli/stargazers) [![Forks](https://img.shields.io/github/forks/basecamp/hey-cli?style=flat-square&color=blue)](https://github.com/basecamp/hey-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basecamp/hey-cli?style=flat-square&color=yellow)](https://github.com/basecamp/hey-cli/stargazers) [![Forks](https://img.shields.io/github/forks/basecamp/hey-cli?style=flat-square&color=blue)](https://github.com/basecamp/hey-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > HEY CLI and Agent Skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ basecamp/hey‑cli 能将零散的 Prompt 和工具封装成可重复使用的 A
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

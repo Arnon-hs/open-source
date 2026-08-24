@@ -1,6 +1,6 @@
 # junegunn/fzf
 
-[![Stars](https://img.shields.io/github/stars/junegunn/fzf?style=flat-square&color=yellow)](https://github.com/junegunn/fzf/stargazers) [![Forks](https://img.shields.io/github/forks/junegunn/fzf?style=flat-square&color=blue)](https://github.com/junegunn/fzf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junegunn/fzf?style=flat-square&color=yellow)](https://github.com/junegunn/fzf/stargazers) [![Forks](https://img.shields.io/github/forks/junegunn/fzf?style=flat-square&color=blue)](https://github.com/junegunn/fzf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag ai): My fully offline AI-assisted Linux development machine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 30/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ In short, the project offers a convenient, offline‑first AI development enviro
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 29/100 |
+| quality | 25/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 32/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

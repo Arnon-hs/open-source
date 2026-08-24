@@ -1,6 +1,6 @@
 # TaewoooPark/Agent-Blackbox
 
-[![Stars](https://img.shields.io/github/stars/TaewoooPark/Agent-Blackbox?style=flat-square&color=yellow)](https://github.com/TaewoooPark/Agent-Blackbox/stargazers) [![Forks](https://img.shields.io/github/forks/TaewoooPark/Agent-Blackbox?style=flat-square&color=blue)](https://github.com/TaewoooPark/Agent-Blackbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TaewoooPark/Agent-Blackbox?style=flat-square&color=yellow)](https://github.com/TaewoooPark/Agent-Blackbox/stargazers) [![Forks](https://img.shields.io/github/forks/TaewoooPark/Agent-Blackbox?style=flat-square&color=blue)](https://github.com/TaewoooPark/Agent-Blackbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first flight recorder for coding agents (OpenCode): replay every run as a live session map, score the context bill, and write the fix back into AGENTS.md — no API key, one npx command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Observability
+AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Agent‑Blackbox 是一款面向 AI 代码生成 Agent 的本地可观测性工�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

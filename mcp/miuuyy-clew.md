@@ -1,6 +1,6 @@
 # miuuyy/Clew
 
-[![Stars](https://img.shields.io/github/stars/miuuyy/Clew?style=flat-square&color=yellow)](https://github.com/miuuyy/Clew/stargazers) [![Forks](https://img.shields.io/github/forks/miuuyy/Clew?style=flat-square&color=blue)](https://github.com/miuuyy/Clew/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miuuyy/Clew?style=flat-square&color=yellow)](https://github.com/miuuyy/Clew/stargazers) [![Forks](https://img.shields.io/github/forks/miuuyy/Clew?style=flat-square&color=blue)](https://github.com/miuuyy/Clew/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Clear path from where you are to what you want to learn. AI agent turns goals and topic dumps into graph with visible dependencies (generative roadmap.sh)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Education · Product
+MCP · AI/ML · Frontend · Product
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ miuuyy/Clew 的生产可用性很高，
 | forks | 23/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

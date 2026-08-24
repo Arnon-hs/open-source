@@ -1,6 +1,6 @@
 # chatml/chatml
 
-[![Stars](https://img.shields.io/github/stars/chatml/chatml?style=flat-square&color=yellow)](https://github.com/chatml/chatml/stargazers) [![Forks](https://img.shields.io/github/forks/chatml/chatml?style=flat-square&color=blue)](https://github.com/chatml/chatml/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chatml/chatml?style=flat-square&color=yellow)](https://github.com/chatml/chatml/stargazers) [![Forks](https://img.shields.io/github/forks/chatml/chatml?style=flat-square&color=blue)](https://github.com/chatml/chatml/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Orchestrator for Claude Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ chatml/chatml 是一个基于 Claude 的 AI Agent Orchestrator，提供统一的
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

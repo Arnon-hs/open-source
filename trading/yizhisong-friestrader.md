@@ -1,6 +1,6 @@
 # YizhiSong/FriesTrader
 
-[![Stars](https://img.shields.io/github/stars/YizhiSong/FriesTrader?style=flat-square&color=yellow)](https://github.com/YizhiSong/FriesTrader/stargazers) [![Forks](https://img.shields.io/github/forks/YizhiSong/FriesTrader?style=flat-square&color=blue)](https://github.com/YizhiSong/FriesTrader/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YizhiSong/FriesTrader?style=flat-square&color=yellow)](https://github.com/YizhiSong/FriesTrader/stargazers) [![Forks](https://img.shields.io/github/forks/YizhiSong/FriesTrader?style=flat-square&color=blue)](https://github.com/YizhiSong/FriesTrader/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A fully automated AI trading agent, unattended once set up: trades real Robinhood orders via its Agentic Trading MCP. Two scheduled Claude Code sessions a day screen stocks and place trades under a narrow gate, with mechanical risk rules as the safety layer. Cheap to run -- Claude Pro only, no metered API spend. Not financial advice.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · MCP · Automation · AI/ML · Backend
+Trading · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ YizhiSong/FriesTrader 的价值在于帮助研究和自动化市场工作流程�
 | forks | 28/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

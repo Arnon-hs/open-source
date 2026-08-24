@@ -1,6 +1,6 @@
 # anthony-chaudhary/dos-kernel
 
-[![Stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=flat-square&color=yellow)](https://github.com/anthony-chaudhary/dos-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/anthony-chaudhary/dos-kernel?style=flat-square&color=blue)](https://github.com/anthony-chaudhary/dos-kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=flat-square&color=yellow)](https://github.com/anthony-chaudhary/dos-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/anthony-chaudhary/dos-kernel?style=flat-square&color=blue)](https://github.com/anthony-chaudhary/dos-kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Catch your AI agents when they lie about what they shipped — verifies claims against git instead of believing the agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ anthony-chaudhary/dos-kernel：anthony-chaudhary/dos-kernel helps turn isolated 
 | forks | 19/100 |
 | stars | 27/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

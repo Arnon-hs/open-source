@@ -1,6 +1,6 @@
 # aloth/olcli
 
-[![Stars](https://img.shields.io/github/stars/aloth/olcli?style=flat-square&color=yellow)](https://github.com/aloth/olcli/stargazers) [![Forks](https://img.shields.io/github/forks/aloth/olcli?style=flat-square&color=blue)](https://github.com/aloth/olcli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aloth/olcli?style=flat-square&color=yellow)](https://github.com/aloth/olcli/stargazers) [![Forks](https://img.shields.io/github/forks/aloth/olcli?style=flat-square&color=blue)](https://github.com/aloth/olcli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Overleaf CLI, library & MCP server — pull, push, sync, compile LaTeX projects. Use from terminal, import as TypeScript library, or connect AI agents via Model Context Protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ olcli 的生产可用性较高，具有以下特点：
 | forks | 33/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

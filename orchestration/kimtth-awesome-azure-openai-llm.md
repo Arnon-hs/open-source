@@ -1,6 +1,6 @@
 # kimtth/awesome-azure-openai-llm
 
-[![Stars](https://img.shields.io/github/stars/kimtth/awesome-azure-openai-llm?style=flat-square&color=yellow)](https://github.com/kimtth/awesome-azure-openai-llm/stargazers) [![Forks](https://img.shields.io/github/forks/kimtth/awesome-azure-openai-llm?style=flat-square&color=blue)](https://github.com/kimtth/awesome-azure-openai-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimtth/awesome-azure-openai-llm?style=flat-square&color=yellow)](https://github.com/kimtth/awesome-azure-openai-llm/stargazers) [![Forks](https://img.shields.io/github/forks/kimtth/awesome-azure-openai-llm?style=flat-square&color=blue)](https://github.com/kimtth/awesome-azure-openai-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Overall, the project is sufficiently mature for a serious pilot; starting with a
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

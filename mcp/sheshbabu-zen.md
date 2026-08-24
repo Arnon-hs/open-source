@@ -1,6 +1,6 @@
 # sheshbabu/zen
 
-[![Stars](https://img.shields.io/github/stars/sheshbabu/zen?style=flat-square&color=yellow)](https://github.com/sheshbabu/zen/stargazers) [![Forks](https://img.shields.io/github/forks/sheshbabu/zen?style=flat-square&color=blue)](https://github.com/sheshbabu/zen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sheshbabu/zen?style=flat-square&color=yellow)](https://github.com/sheshbabu/zen/stargazers) [![Forks](https://img.shields.io/github/forks/sheshbabu/zen?style=flat-square&color=blue)](https://github.com/sheshbabu/zen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · Database
+MCP · Backend · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ sheshbabu/zen 在生产可用性方面
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

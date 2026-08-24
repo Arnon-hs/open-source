@@ -1,6 +1,6 @@
 # ShunmeiCho/cc-clip
 
-[![Stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square&color=yellow)](https://github.com/ShunmeiCho/cc-clip/stargazers) [![Forks](https://img.shields.io/github/forks/ShunmeiCho/cc-clip?style=flat-square&color=blue)](https://github.com/ShunmeiCho/cc-clip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShunmeiCho/cc-clip?style=flat-square&color=yellow)](https://github.com/ShunmeiCho/cc-clip/stargazers) [![Forks](https://img.shields.io/github/forks/ShunmeiCho/cc-clip?style=flat-square&color=blue)](https://github.com/ShunmeiCho/cc-clip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Paste images into remote Claude Code & Codex CLI over SSH — clipboard bridging for macOS and Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ShunmeiCho/cc-clip 是一个跨平台（macOS、Windows）剪贴板桥接工具�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

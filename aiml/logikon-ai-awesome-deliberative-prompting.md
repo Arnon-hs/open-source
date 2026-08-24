@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -108,6 +108,7 @@ logikon‑ai/awesome‑deliberative‑prompting 是一个收录在 *awesome‑ll
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

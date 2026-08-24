@@ -1,6 +1,6 @@
 # google/skills
 
-[![Stars](https://img.shields.io/github/stars/google/skills?style=flat-square&color=yellow)](https://github.com/google/skills/stargazers) [![Forks](https://img.shields.io/github/forks/google/skills?style=flat-square&color=blue)](https://github.com/google/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/skills?style=flat-square&color=yellow)](https://github.com/google/skills/stargazers) [![Forks](https://img.shields.io/github/forks/google/skills?style=flat-square&color=blue)](https://github.com/google/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skills for Google products and technologies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration
 
 ## 📝 Summary
 
@@ -72,14 +72,15 @@ That's 2 sentences. Could add third about production readiness. Already included
 | forks | 76/100 |
 | stars | 89/100 |
 | topics | 38/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

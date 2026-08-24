@@ -1,6 +1,6 @@
 # X4BNet/lists_vpn
 
-[![Stars](https://img.shields.io/github/stars/X4BNet/lists_vpn?style=flat-square&color=yellow)](https://github.com/X4BNet/lists_vpn/stargazers) [![Forks](https://img.shields.io/github/forks/X4BNet/lists_vpn?style=flat-square&color=blue)](https://github.com/X4BNet/lists_vpn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/X4BNet/lists_vpn?style=flat-square&color=yellow)](https://github.com/X4BNet/lists_vpn/stargazers) [![Forks](https://img.shields.io/github/forks/X4BNet/lists_vpn?style=flat-square&color=blue)](https://github.com/X4BNet/lists_vpn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Lists of VPN providers (automatically updated)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 858 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ X4BNet/lists_vpn 的生产可用性为中等（Medium）。虽然它可以作为
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

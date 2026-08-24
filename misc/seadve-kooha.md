@@ -1,6 +1,6 @@
 # SeaDve/Kooha
 
-[![Stars](https://img.shields.io/github/stars/SeaDve/Kooha?style=flat-square&color=yellow)](https://github.com/SeaDve/Kooha/stargazers) [![Forks](https://img.shields.io/github/forks/SeaDve/Kooha?style=flat-square&color=blue)](https://github.com/SeaDve/Kooha/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SeaDve/Kooha?style=flat-square&color=yellow)](https://github.com/SeaDve/Kooha/stargazers) [![Forks](https://img.shields.io/github/forks/SeaDve/Kooha?style=flat-square&color=blue)](https://github.com/SeaDve/Kooha/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Elegantly record your screen
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ SeaDve/Kooha 的生产可用性较高，因为它最近有活动，采用者众�
 | forks | 50/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

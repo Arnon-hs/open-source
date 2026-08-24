@@ -1,6 +1,6 @@
 # sergenes/mini_agent
 
-[![Stars](https://img.shields.io/github/stars/sergenes/mini_agent?style=flat-square&color=yellow)](https://github.com/sergenes/mini_agent/stargazers) [![Forks](https://img.shields.io/github/forks/sergenes/mini_agent?style=flat-square&color=blue)](https://github.com/sergenes/mini_agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sergenes/mini_agent?style=flat-square&color=yellow)](https://github.com/sergenes/mini_agent/stargazers) [![Forks](https://img.shields.io/github/forks/sergenes/mini_agent?style=flat-square&color=blue)](https://github.com/sergenes/mini_agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal AI agent built from scratch — no agent framework, just Python, the OpenAI SDK, and a `while` loop. Accompanies the Medium article "Build Your Own AI Agent from Scratch." Three execution modes: `local` (Ollama only), `remote` (cloud provider), `mixed` (local orchestrates, delegates to remote).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ sergenes/mini_agent 是一个开源项目，用于构建从零开始的最小 AI
 | forks | 33/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

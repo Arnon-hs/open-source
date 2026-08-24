@@ -1,6 +1,6 @@
 # iamaamir/pi-bifrost
 
-[![Stars](https://img.shields.io/github/stars/iamaamir/pi-bifrost?style=flat-square&color=yellow)](https://github.com/iamaamir/pi-bifrost/stargazers) [![Forks](https://img.shields.io/github/forks/iamaamir/pi-bifrost?style=flat-square&color=blue)](https://github.com/iamaamir/pi-bifrost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamaamir/pi-bifrost?style=flat-square&color=yellow)](https://github.com/iamaamir/pi-bifrost/stargazers) [![Forks](https://img.shields.io/github/forks/iamaamir/pi-bifrost?style=flat-square&color=blue)](https://github.com/iamaamir/pi-bifrost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically route each Pi prompt to a model based on task complexity, price, speed, or context length. Smart model router for pi.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ iamaamir/pi-bifrost 是一个智能模型路由器，能够根据任务复杂度
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

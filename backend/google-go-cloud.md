@@ -1,6 +1,6 @@
 # google/go-cloud
 
-[![Stars](https://img.shields.io/github/stars/google/go-cloud?style=flat-square&color=yellow)](https://github.com/google/go-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/google/go-cloud?style=flat-square&color=blue)](https://github.com/google/go-cloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/go-cloud?style=flat-square&color=yellow)](https://github.com/google/go-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/google/go-cloud?style=flat-square&color=blue)](https://github.com/google/go-cloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 855 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ google/go-cloud 的生产可用性较高。根据 GitHub 的数据，项目有�
 | forks | 73/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

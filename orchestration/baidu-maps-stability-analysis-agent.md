@@ -1,6 +1,6 @@
 # baidu-maps/stability-analysis-agent
 
-[![Stars](https://img.shields.io/github/stars/baidu-maps/stability-analysis-agent?style=flat-square&color=yellow)](https://github.com/baidu-maps/stability-analysis-agent/stargazers) [![Forks](https://img.shields.io/github/forks/baidu-maps/stability-analysis-agent?style=flat-square&color=blue)](https://github.com/baidu-maps/stability-analysis-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baidu-maps/stability-analysis-agent?style=flat-square&color=yellow)](https://github.com/baidu-maps/stability-analysis-agent/stargazers) [![Forks](https://img.shields.io/github/forks/baidu-maps/stability-analysis-agent?style=flat-square&color=blue)](https://github.com/baidu-maps/stability-analysis-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent for app stability analysis — crash logs, ANR, OOM, freezes & more. Parses,   symbolizes (addr2line/atos), extracts code context, and generates root-cause fix   suggestions via LangGraph + RAG. iOS/Android/macOS/Linux/Windows. App 稳定性智能分析   Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ baidu-maps/stability-analysis-agent 是一个开源项目，用于智能分析�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

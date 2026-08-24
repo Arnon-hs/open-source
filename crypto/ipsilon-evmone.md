@@ -1,6 +1,6 @@
 # ipsilon/evmone
 
-[![Stars](https://img.shields.io/github/stars/ipsilon/evmone?style=flat-square&color=yellow)](https://github.com/ipsilon/evmone/stargazers) [![Forks](https://img.shields.io/github/forks/ipsilon/evmone?style=flat-square&color=blue)](https://github.com/ipsilon/evmone/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipsilon/evmone?style=flat-square&color=yellow)](https://github.com/ipsilon/evmone/stargazers) [![Forks](https://img.shields.io/github/forks/ipsilon/evmone?style=flat-square&color=blue)](https://github.com/ipsilon/evmone/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Ethereum Virtual Machine implementation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 978 |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ ipsilon/evmone 的生产可用性为中等（Medium），因为它虽然可以�
 | forks | 63/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

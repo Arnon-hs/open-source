@@ -1,6 +1,6 @@
 # redhat-community-ai-tools/UnifAI
 
-[![Stars](https://img.shields.io/github/stars/redhat-community-ai-tools/UnifAI?style=flat-square&color=yellow)](https://github.com/redhat-community-ai-tools/UnifAI/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-community-ai-tools/UnifAI?style=flat-square&color=blue)](https://github.com/redhat-community-ai-tools/UnifAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redhat-community-ai-tools/UnifAI?style=flat-square&color=yellow)](https://github.com/redhat-community-ai-tools/UnifAI/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-community-ai-tools/UnifAI?style=flat-square&color=blue)](https://github.com/redhat-community-ai-tools/UnifAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade multi-agent orchestration engine. Compose agentic workflows from a pluggable catalog of Agents, LLMs, tools, and retrievers. Execute locally with LangGraph or distributed with Temporal. Built-in RAG pipeline for enterprise knowledge retrieval. A2A and MCP protocol support. Visual drag-and-drop blueprint builder.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ UnifAI 的生产可用性高，主要原因是：
 | forks | 35/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

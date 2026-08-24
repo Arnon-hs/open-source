@@ -1,6 +1,6 @@
 # ahundt/ai-session-search
 
-[![Stars](https://img.shields.io/github/stars/ahundt/ai-session-search?style=flat-square&color=yellow)](https://github.com/ahundt/ai-session-search/stargazers) [![Forks](https://img.shields.io/github/forks/ahundt/ai-session-search?style=flat-square&color=blue)](https://github.com/ahundt/ai-session-search/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahundt/ai-session-search?style=flat-square&color=yellow)](https://github.com/ahundt/ai-session-search/stargazers) [![Forks](https://img.shields.io/github/forks/ahundt/ai-session-search?style=flat-square&color=blue)](https://github.com/ahundt/ai-session-search/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Ultra-fast rust-powered AI agent session search and analysis. Search millions of messages in under a second. Claude Code, Claude Desktop, Codex, Cursor, Antigravity, Pi, Google AI Studio, and Gemini CLI. One Rust core behind the aise CLI, an MCP server, a Rust library, and a Python API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ ahundt/ai-session-search 有很高的生产可用性，项目最近有活跃的�
 | forks | 0/100 |
 | stars | 27/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

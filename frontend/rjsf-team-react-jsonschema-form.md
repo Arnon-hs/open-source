@@ -1,6 +1,6 @@
 # rjsf-team/react-jsonschema-form
 
-[![Stars](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form?style=flat-square&color=yellow)](https://github.com/rjsf-team/react-jsonschema-form/stargazers) [![Forks](https://img.shields.io/github/forks/rjsf-team/react-jsonschema-form?style=flat-square&color=blue)](https://github.com/rjsf-team/react-jsonschema-form/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form?style=flat-square&color=yellow)](https://github.com/rjsf-team/react-jsonschema-form/stargazers) [![Forks](https://img.shields.io/github/forks/rjsf-team/react-jsonschema-form?style=flat-square&color=blue)](https://github.com/rjsf-team/react-jsonschema-form/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A React component for building Web forms from JSON Schema.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.8k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · Database
+Frontend · Data
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ rjsf-team/react-jsonschema-form 是一个基于 React 的组件，用于从 JSON
 | forks | 84/100 |
 | stars | 89/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

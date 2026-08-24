@@ -1,6 +1,6 @@
 # DanKE123abc/NoUnityCN
 
-[![Stars](https://img.shields.io/github/stars/DanKE123abc/NoUnityCN?style=flat-square&color=yellow)](https://github.com/DanKE123abc/NoUnityCN/stargazers) [![Forks](https://img.shields.io/github/forks/DanKE123abc/NoUnityCN?style=flat-square&color=blue)](https://github.com/DanKE123abc/NoUnityCN/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanKE123abc/NoUnityCN?style=flat-square&color=yellow)](https://github.com/DanKE123abc/NoUnityCN/stargazers) [![Forks](https://img.shields.io/github/forks/DanKE123abc/NoUnityCN?style=flat-square&color=blue)](https://github.com/DanKE123abc/NoUnityCN/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥✅ Unity国际版下载站，可通过直链或者Unity Hub下载例如Unity 6等Unity Editor的国际版，支持添加组件、下载国际版Unity Hub、包含长期支持版、技术支持版、测试版、预览版的Unity。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ NoUnityCN 的生产可用性为中等（Medium），适合用于原型开发或�
 | forks | 48/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

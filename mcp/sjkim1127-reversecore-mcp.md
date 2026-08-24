@@ -1,6 +1,6 @@
 # sjkim1127/Reversecore_MCP
 
-[![Stars](https://img.shields.io/github/stars/sjkim1127/Reversecore_MCP?style=flat-square&color=yellow)](https://github.com/sjkim1127/Reversecore_MCP/stargazers) [![Forks](https://img.shields.io/github/forks/sjkim1127/Reversecore_MCP?style=flat-square&color=blue)](https://github.com/sjkim1127/Reversecore_MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sjkim1127/Reversecore_MCP?style=flat-square&color=yellow)](https://github.com/sjkim1127/Reversecore_MCP/stargazers) [![Forks](https://img.shields.io/github/forks/sjkim1127/Reversecore_MCP?style=flat-square&color=blue)](https://github.com/sjkim1127/Reversecore_MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A security-first MCP server empowering AI agents to orchestrate Ghidra, Radare2, and YARA for automated reverse engineering.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · Backend · Security
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Reversecore MCP 为 AI 助手提供了统一的 **Model Context Protocol (MCP)
 | forks | 27/100 |
 | stars | 41/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # synthetic-lab/octofriend
 
-[![Stars](https://img.shields.io/github/stars/synthetic-lab/octofriend?style=flat-square&color=yellow)](https://github.com/synthetic-lab/octofriend/stargazers) [![Forks](https://img.shields.io/github/forks/synthetic-lab/octofriend?style=flat-square&color=blue)](https://github.com/synthetic-lab/octofriend/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/synthetic-lab/octofriend?style=flat-square&color=yellow)](https://github.com/synthetic-lab/octofriend/stargazers) [![Forks](https://img.shields.io/github/forks/synthetic-lab/octofriend?style=flat-square&color=blue)](https://github.com/synthetic-lab/octofriend/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source coding helper. Very friendly!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 993 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ octofriend 的生产可用性为中等。它适合于快速原型开发或内部
 | forks | 47/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

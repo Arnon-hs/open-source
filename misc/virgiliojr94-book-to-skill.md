@@ -1,6 +1,6 @@
 # virgiliojr94/book-to-skill
 
-[![Stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=flat-square&color=yellow)](https://github.com/virgiliojr94/book-to-skill/stargazers) [![Forks](https://img.shields.io/github/forks/virgiliojr94/book-to-skill?style=flat-square&color=blue)](https://github.com/virgiliojr94/book-to-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=flat-square&color=yellow)](https://github.com/virgiliojr94/book-to-skill/stargazers) [![Forks](https://img.shields.io/github/forks/virgiliojr94/book-to-skill?style=flat-square&color=blue)](https://github.com/virgiliojr94/book-to-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.5k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ virgiliojr94/book-to-skill 是一个开源项目，能够将技术书籍的 PDF 
 | forks | 79/100 |
 | stars | 88/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 85/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

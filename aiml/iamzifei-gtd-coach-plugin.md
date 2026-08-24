@@ -1,6 +1,6 @@
 # iamzifei/gtd-coach-plugin
 
-[![Stars](https://img.shields.io/github/stars/iamzifei/gtd-coach-plugin?style=flat-square&color=yellow)](https://github.com/iamzifei/gtd-coach-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/iamzifei/gtd-coach-plugin?style=flat-square&color=blue)](https://github.com/iamzifei/gtd-coach-plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamzifei/gtd-coach-plugin?style=flat-square&color=yellow)](https://github.com/iamzifei/gtd-coach-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/iamzifei/gtd-coach-plugin?style=flat-square&color=blue)](https://github.com/iamzifei/gtd-coach-plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Skill that break down everyday's todo with details action plan based on your goal/plan
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ iamzifei/gtd-coach-plugin 的生产可用性为中等（Medium）。它适用于
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 50/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

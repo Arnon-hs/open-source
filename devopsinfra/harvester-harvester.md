@@ -1,6 +1,6 @@
 # harvester/harvester
 
-[![Stars](https://img.shields.io/github/stars/harvester/harvester?style=flat-square&color=yellow)](https://github.com/harvester/harvester/stargazers) [![Forks](https://img.shields.io/github/forks/harvester/harvester?style=flat-square&color=blue)](https://github.com/harvester/harvester/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harvester/harvester?style=flat-square&color=yellow)](https://github.com/harvester/harvester/stargazers) [![Forks](https://img.shields.io/github/forks/harvester/harvester?style=flat-square&color=blue)](https://github.com/harvester/harvester/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open source hyperconverged infrastructure (HCI) software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 439 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Harvester 具有很高
 | forks | 66/100 |
 | stars | 79/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

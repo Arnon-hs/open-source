@@ -1,6 +1,6 @@
 # S2thend/cursor-history
 
-[![Stars](https://img.shields.io/github/stars/S2thend/cursor-history?style=flat-square&color=yellow)](https://github.com/S2thend/cursor-history/stargazers) [![Forks](https://img.shields.io/github/forks/S2thend/cursor-history?style=flat-square&color=blue)](https://github.com/S2thend/cursor-history/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/S2thend/cursor-history?style=flat-square&color=yellow)](https://github.com/S2thend/cursor-history/stargazers) [![Forks](https://img.shields.io/github/forks/S2thend/cursor-history?style=flat-square&color=blue)](https://github.com/S2thend/cursor-history/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate open-source tool for browsing, searching, exporting, and backing up your Cursor AI chat history.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database · Product
+AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ S2thend/cursor-history 是一个开源工具，用于浏览、搜索、导出和
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

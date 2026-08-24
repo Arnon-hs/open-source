@@ -1,6 +1,6 @@
 # figma/mcp-server-guide
 
-[![Stars](https://img.shields.io/github/stars/figma/mcp-server-guide?style=flat-square&color=yellow)](https://github.com/figma/mcp-server-guide/stargazers) [![Forks](https://img.shields.io/github/forks/figma/mcp-server-guide?style=flat-square&color=blue)](https://github.com/figma/mcp-server-guide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/figma/mcp-server-guide?style=flat-square&color=yellow)](https://github.com/figma/mcp-server-guide/stargazers) [![Forks](https://img.shields.io/github/forks/figma/mcp-server-guide?style=flat-square&color=blue)](https://github.com/figma/mcp-server-guide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A guide on how to use the Figma MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · Design
+MCP · Design
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ figma/mcp-server-guide 是一个使用 Figma MCP 服务器的指南。它帮助�
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

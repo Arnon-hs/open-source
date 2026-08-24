@@ -1,6 +1,6 @@
 # Azure/karpenter-provider-azure
 
-[![Stars](https://img.shields.io/github/stars/Azure/karpenter-provider-azure?style=flat-square&color=yellow)](https://github.com/Azure/karpenter-provider-azure/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/karpenter-provider-azure?style=flat-square&color=blue)](https://github.com/Azure/karpenter-provider-azure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/karpenter-provider-azure?style=flat-square&color=yellow)](https://github.com/Azure/karpenter-provider-azure/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/karpenter-provider-azure?style=flat-square&color=blue)](https://github.com/Azure/karpenter-provider-azure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AKS Karpenter Provider
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 548 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Azure/karpenter-provider-azure 的生产可用性为中等。它适合用于内�
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

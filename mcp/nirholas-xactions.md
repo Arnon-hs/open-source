@@ -1,6 +1,6 @@
 # nirholas/XActions
 
-[![Stars](https://img.shields.io/github/stars/nirholas/XActions?style=flat-square&color=yellow)](https://github.com/nirholas/XActions/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/XActions?style=flat-square&color=blue)](https://github.com/nirholas/XActions/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/XActions?style=flat-square&color=yellow)](https://github.com/nirholas/XActions/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/XActions?style=flat-square&color=blue)](https://github.com/nirholas/XActions/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ nirholas/XActions 是一套完整的 X/Twitter 自动化工具箱，提供爬虫
 | forks | 47/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

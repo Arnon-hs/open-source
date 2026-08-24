@@ -1,6 +1,6 @@
 # archcore-ai/cli
 
-[![Stars](https://img.shields.io/github/stars/archcore-ai/cli?style=flat-square&color=yellow)](https://github.com/archcore-ai/cli/stargazers) [![Forks](https://img.shields.io/github/forks/archcore-ai/cli?style=flat-square&color=blue)](https://github.com/archcore-ai/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/archcore-ai/cli?style=flat-square&color=yellow)](https://github.com/archcore-ai/cli/stargazers) [![Forks](https://img.shields.io/github/forks/archcore-ai/cli?style=flat-square&color=blue)](https://github.com/archcore-ai/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Git-native repo memory for AI coding agents — CLI, local MCP server, session hooks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ archcore-ai/cli的主要价值在于，它可以帮助协调多代理工作流�
 | forks | 15/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

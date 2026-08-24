@@ -1,6 +1,6 @@
 # accessd/tmux-agent-indicator
 
-[![Stars](https://img.shields.io/github/stars/accessd/tmux-agent-indicator?style=flat-square&color=yellow)](https://github.com/accessd/tmux-agent-indicator/stargazers) [![Forks](https://img.shields.io/github/forks/accessd/tmux-agent-indicator?style=flat-square&color=blue)](https://github.com/accessd/tmux-agent-indicator/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/accessd/tmux-agent-indicator?style=flat-square&color=yellow)](https://github.com/accessd/tmux-agent-indicator/stargazers) [![Forks](https://img.shields.io/github/forks/accessd/tmux-agent-indicator?style=flat-square&color=blue)](https://github.com/accessd/tmux-agent-indicator/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Tmux plugin that gives visual feedback for AI agent states (running/needs-input/done). Supports   Claude Code, Codex, and custom agents. Pane borders, window title colors, status bar icons.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ accessd/tmux-agent-indicator 帮助您在不从零开始的基础上添加AI功�
 | forks | 28/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

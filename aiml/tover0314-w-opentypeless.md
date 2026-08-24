@@ -1,6 +1,6 @@
 # tover0314-w/opentypeless
 
-[![Stars](https://img.shields.io/github/stars/tover0314-w/opentypeless?style=flat-square&color=yellow)](https://github.com/tover0314-w/opentypeless/stargazers) [![Forks](https://img.shields.io/github/forks/tover0314-w/opentypeless?style=flat-square&color=blue)](https://github.com/tover0314-w/opentypeless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tover0314-w/opentypeless?style=flat-square&color=yellow)](https://github.com/tover0314-w/opentypeless/stargazers) [![Forks](https://img.shields.io/github/forks/tover0314-w/opentypeless?style=flat-square&color=blue)](https://github.com/tover0314-w/opentypeless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ tover0314-w/opentypeless 是一款跨平台（macOS、Windows、Linux）的开�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-01-29 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -86,6 +86,7 @@ Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice 的价值在于，它可以为特定工作�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

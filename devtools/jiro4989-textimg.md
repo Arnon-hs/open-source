@@ -1,6 +1,6 @@
 # jiro4989/textimg
 
-[![Stars](https://img.shields.io/github/stars/jiro4989/textimg?style=flat-square&color=yellow)](https://github.com/jiro4989/textimg/stargazers) [![Forks](https://img.shields.io/github/forks/jiro4989/textimg?style=flat-square&color=blue)](https://github.com/jiro4989/textimg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiro4989/textimg?style=flat-square&color=yellow)](https://github.com/jiro4989/textimg/stargazers) [![Forks](https://img.shields.io/github/forks/jiro4989/textimg?style=flat-square&color=blue)](https://github.com/jiro4989/textimg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Command to convert from color text (ANSI or 256) to image.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 260 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ jiro4989/textimg 的生产可用性较高，主要原因是：
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

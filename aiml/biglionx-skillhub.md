@@ -1,6 +1,6 @@
 # BiglionX/SkillHub
 
-[![Stars](https://img.shields.io/github/stars/BiglionX/SkillHub?style=flat-square&color=yellow)](https://github.com/BiglionX/SkillHub/stargazers) [![Forks](https://img.shields.io/github/forks/BiglionX/SkillHub?style=flat-square&color=blue)](https://github.com/BiglionX/SkillHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BiglionX/SkillHub?style=flat-square&color=yellow)](https://github.com/BiglionX/SkillHub/stargazers) [![Forks](https://img.shields.io/github/forks/BiglionX/SkillHub?style=flat-square&color=blue)](https://github.com/BiglionX/SkillHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 开源 AI Agent 技能市场 | 发布、分享和管理 Skills | 支持多租户、命名空间、审核流程 | Docker 一键部署
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ BiglionX/SkillHub 的生产可用性为中等（Medium）。它适合用于 prot
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

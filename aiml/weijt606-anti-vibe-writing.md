@@ -1,6 +1,6 @@
 # weijt606/anti-vibe-writing
 
-[![Stars](https://img.shields.io/github/stars/weijt606/anti-vibe-writing?style=flat-square&color=yellow)](https://github.com/weijt606/anti-vibe-writing/stargazers) [![Forks](https://img.shields.io/github/forks/weijt606/anti-vibe-writing?style=flat-square&color=blue)](https://github.com/weijt606/anti-vibe-writing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weijt606/anti-vibe-writing?style=flat-square&color=yellow)](https://github.com/weijt606/anti-vibe-writing/stargazers) [![Forks](https://img.shields.io/github/forks/weijt606/anti-vibe-writing?style=flat-square&color=blue)](https://github.com/weijt606/anti-vibe-writing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An AI writing skill that turns agent-generated drafts into clearer, warmer, more human documents by removing templated phrasing, markdown clutter, and generic AI tone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ weijt606/anti-vibe-writing 在生产环境中可用性为中等（Medium），�
 | forks | 25/100 |
 | stars | 42/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 71/100 |
-| usefulness | 58/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # keith/reminders-cli
 
-[![Stars](https://img.shields.io/github/stars/keith/reminders-cli?style=flat-square&color=yellow)](https://github.com/keith/reminders-cli/stargazers) [![Forks](https://img.shields.io/github/forks/keith/reminders-cli?style=flat-square&color=blue)](https://github.com/keith/reminders-cli/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keith/reminders-cli?style=flat-square&color=yellow)](https://github.com/keith/reminders-cli/stargazers) [![Forks](https://img.shields.io/github/forks/keith/reminders-cli?style=flat-square&color=blue)](https://github.com/keith/reminders-cli/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A simple CLI for interacting with macOS reminders
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ keith/reminders-cli的生产可用性为中等（Medium）。它适合用于原�
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

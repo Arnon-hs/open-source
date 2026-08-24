@@ -1,6 +1,6 @@
 # SinishaDjukic/worca-cc
 
-[![Stars](https://img.shields.io/github/stars/SinishaDjukic/worca-cc?style=flat-square&color=yellow)](https://github.com/SinishaDjukic/worca-cc/stargazers) [![Forks](https://img.shields.io/github/forks/SinishaDjukic/worca-cc?style=flat-square&color=blue)](https://github.com/SinishaDjukic/worca-cc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SinishaDjukic/worca-cc?style=flat-square&color=yellow)](https://github.com/SinishaDjukic/worca-cc/stargazers) [![Forks](https://img.shields.io/github/forks/SinishaDjukic/worca-cc?style=flat-square&color=blue)](https://github.com/SinishaDjukic/worca-cc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Workflow orchestration for AI agents with Claude Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ SinishaDjukic/worca-cc：SinishaDjukic/worca-cc helps turn isolated prompts and 
 | forks | 26/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

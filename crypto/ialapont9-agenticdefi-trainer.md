@@ -1,6 +1,6 @@
 # ialapont9/AgenticDeFi-Trainer
 
-[![Stars](https://img.shields.io/github/stars/ialapont9/AgenticDeFi-Trainer?style=flat-square&color=yellow)](https://github.com/ialapont9/AgenticDeFi-Trainer/stargazers) [![Forks](https://img.shields.io/github/forks/ialapont9/AgenticDeFi-Trainer?style=flat-square&color=blue)](https://github.com/ialapont9/AgenticDeFi-Trainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ialapont9/AgenticDeFi-Trainer?style=flat-square&color=yellow)](https://github.com/ialapont9/AgenticDeFi-Trainer/stargazers) [![Forks](https://img.shields.io/github/forks/ialapont9/AgenticDeFi-Trainer?style=flat-square&color=blue)](https://github.com/ialapont9/AgenticDeFi-Trainer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi toolkit for 2026.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Trading · Knowledge/RAG · Automation
+Crypto · Payments · Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -129,14 +129,15 @@ In short, AgenticDeFi‑Trainer is a valuable sandbox for building and evaluatin
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

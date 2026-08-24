@@ -1,6 +1,6 @@
 # rgeometry/rgeometry
 
-[![Stars](https://img.shields.io/github/stars/rgeometry/rgeometry?style=flat-square&color=yellow)](https://github.com/rgeometry/rgeometry/stargazers) [![Forks](https://img.shields.io/github/forks/rgeometry/rgeometry?style=flat-square&color=blue)](https://github.com/rgeometry/rgeometry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rgeometry/rgeometry?style=flat-square&color=yellow)](https://github.com/rgeometry/rgeometry/stargazers) [![Forks](https://img.shields.io/github/forks/rgeometry/rgeometry?style=flat-square&color=blue)](https://github.com/rgeometry/rgeometry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Computational Geometry library written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ rgeometry/rgeometry 的生产可用性为中等。它适合用于原型或内部
 | forks | 32/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

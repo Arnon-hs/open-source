@@ -1,6 +1,6 @@
 # selfimproving-agent/Awesome-Self-Improving-Agents
 
-[![Stars](https://img.shields.io/github/stars/selfimproving-agent/Awesome-Self-Improving-Agents?style=flat-square&color=yellow)](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/selfimproving-agent/Awesome-Self-Improving-Agents?style=flat-square&color=blue)](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/selfimproving-agent/Awesome-Self-Improving-Agents?style=flat-square&color=yellow)](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/selfimproving-agent/Awesome-Self-Improving-Agents?style=flat-square&color=blue)](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list for Self-Improvement in Foundation Model Based Agentic Systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ selfimproving-agent/Awesome-Self-Improving-Agents 是一个开源项目，旨在
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Fozikio/cortex-engine
 
-[![Stars](https://img.shields.io/github/stars/Fozikio/cortex-engine?style=flat-square&color=yellow)](https://github.com/Fozikio/cortex-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Fozikio/cortex-engine?style=flat-square&color=blue)](https://github.com/Fozikio/cortex-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fozikio/cortex-engine?style=flat-square&color=yellow)](https://github.com/Fozikio/cortex-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Fozikio/cortex-engine?style=flat-square&color=blue)](https://github.com/Fozikio/cortex-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Cognitive engine for AI agents — semantic memory, observations, embeddings, dream consolidation. Cloud Run service + MCP tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,14 +69,15 @@ Fozikio/cortex-engine 是一个基于 TypeScript 的认知引擎，提供语义�
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

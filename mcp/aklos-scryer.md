@@ -1,6 +1,6 @@
 # aklos/scryer
 
-[![Stars](https://img.shields.io/github/stars/aklos/scryer?style=flat-square&color=yellow)](https://github.com/aklos/scryer/stargazers) [![Forks](https://img.shields.io/github/forks/aklos/scryer?style=flat-square&color=blue)](https://github.com/aklos/scryer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aklos/scryer?style=flat-square&color=yellow)](https://github.com/aklos/scryer/stargazers) [![Forks](https://img.shields.io/github/forks/aklos/scryer?style=flat-square&color=blue)](https://github.com/aklos/scryer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Model-driven development for coding agents. Plan changes in a shared responsibility model mapped to your code; your agent reads, modifies, and implements it through a built-in MCP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ aklos/scryer 的生产可用性非常高，主要原因是：
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

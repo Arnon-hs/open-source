@@ -1,6 +1,6 @@
 # frankbria/codeframe
 
-[![Stars](https://img.shields.io/github/stars/frankbria/codeframe?style=flat-square&color=yellow)](https://github.com/frankbria/codeframe/stargazers) [![Forks](https://img.shields.io/github/forks/frankbria/codeframe?style=flat-square&color=blue)](https://github.com/frankbria/codeframe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frankbria/codeframe?style=flat-square&color=yellow)](https://github.com/frankbria/codeframe/stargazers) [![Forks](https://img.shields.io/github/forks/frankbria/codeframe?style=flat-square&color=blue)](https://github.com/frankbria/codeframe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Think → Build → Prove → Ship. The project delivery system that turns ideas into verified, deployed code. AI agents write the code — CodeFrame owns everything before and after.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ frankbria/codeframe 的生产可用性为中等。它适合用于原型或内部
 | forks | 19/100 |
 | stars | 27/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

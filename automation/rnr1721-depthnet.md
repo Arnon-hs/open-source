@@ -1,6 +1,6 @@
 # rnr1721/depthnet
 
-[![Stars](https://img.shields.io/github/stars/rnr1721/depthnet?style=flat-square&color=yellow)](https://github.com/rnr1721/depthnet/stargazers) [![Forks](https://img.shields.io/github/forks/rnr1721/depthnet?style=flat-square&color=blue)](https://github.com/rnr1721/depthnet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rnr1721/depthnet?style=flat-square&color=yellow)](https://github.com/rnr1721/depthnet/stargazers) [![Forks](https://img.shields.io/github/forks/rnr1721/depthnet?style=flat-square&color=blue)](https://github.com/rnr1721/depthnet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Laravel-based autonomous AI agent platform with cyclic thinking, persistent memory and real-time code execution
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Database
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ rnr1721/depthnet 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 28/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 45/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

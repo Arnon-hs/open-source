@@ -1,6 +1,6 @@
 # l429609201/misaka_danmu_server
 
-[![Stars](https://img.shields.io/github/stars/l429609201/misaka_danmu_server?style=flat-square&color=yellow)](https://github.com/l429609201/misaka_danmu_server/stargazers) [![Forks](https://img.shields.io/github/forks/l429609201/misaka_danmu_server?style=flat-square&color=blue)](https://github.com/l429609201/misaka_danmu_server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/l429609201/misaka_danmu_server?style=flat-square&color=yellow)](https://github.com/l429609201/misaka_danmu_server/stargazers) [![Forks](https://img.shields.io/github/forks/l429609201/misaka_danmu_server?style=flat-square&color=blue)](https://github.com/l429609201/misaka_danmu_server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ l429609201/misaka_danmu_server：l429609201/misaka_danmu_server helps teams reus
 | forks | 54/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

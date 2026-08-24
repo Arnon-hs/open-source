@@ -1,6 +1,6 @@
 # Heroic-Games-Launcher/HeroicGamesLauncher
 
-[![Stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher?style=flat-square&color=yellow)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Heroic-Games-Launcher/HeroicGamesLauncher?style=flat-square&color=blue)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher?style=flat-square&color=yellow)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Heroic-Games-Launcher/HeroicGamesLauncher?style=flat-square&color=blue)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.4k |
 | 🍴 **Forks** | 609 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Heroic‑Games‑Launcher（HeroicGamesLauncher）是一款跨平台的游戏启
 | forks | 70/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 82/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

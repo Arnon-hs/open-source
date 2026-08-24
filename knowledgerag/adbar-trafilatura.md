@@ -1,6 +1,6 @@
 # adbar/trafilatura
 
-[![Stars](https://img.shields.io/github/stars/adbar/trafilatura?style=flat-square&color=yellow)](https://github.com/adbar/trafilatura/stargazers) [![Forks](https://img.shields.io/github/forks/adbar/trafilatura?style=flat-square&color=blue)](https://github.com/adbar/trafilatura/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adbar/trafilatura?style=flat-square&color=yellow)](https://github.com/adbar/trafilatura/stargazers) [![Forks](https://img.shields.io/github/forks/adbar/trafilatura?style=flat-square&color=blue)](https://github.com/adbar/trafilatura/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 388 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Backend · Data
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ adbar/trafilatura 是一款基于 Python 的命令行工具，能够对网页进
 | forks | 65/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

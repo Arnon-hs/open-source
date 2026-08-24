@@ -1,6 +1,6 @@
 # arthurpanhku/DocSentinel
 
-[![Stars](https://img.shields.io/github/stars/arthurpanhku/DocSentinel?style=flat-square&color=yellow)](https://github.com/arthurpanhku/DocSentinel/stargazers) [![Forks](https://img.shields.io/github/forks/arthurpanhku/DocSentinel?style=flat-square&color=blue)](https://github.com/arthurpanhku/DocSentinel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arthurpanhku/DocSentinel?style=flat-square&color=yellow)](https://github.com/arthurpanhku/DocSentinel/stargazers) [![Forks](https://img.shields.io/github/forks/arthurpanhku/DocSentinel?style=flat-square&color=blue)](https://github.com/arthurpanhku/DocSentinel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format parsing, RAG knowledge base,Risks, compliance gaps, remediations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML · Security
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ DocSentinel（arthurpanhku/DocSentinel）是面向网络安全领域的 MCP（Mo
 | forks | 27/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

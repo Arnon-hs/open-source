@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hyra-results
 
-[![Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hyra-results?style=flat-square&color=yellow)](https://github.com/Tencent-Hunyuan/Hyra-results/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent-Hunyuan/Hyra-results?style=flat-square&color=blue)](https://github.com/Tencent-Hunyuan/Hyra-results/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hyra-results?style=flat-square&color=yellow)](https://github.com/Tencent-Hunyuan/Hyra-results/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent-Hunyuan/Hyra-results?style=flat-square&color=blue)](https://github.com/Tencent-Hunyuan/Hyra-results/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Research artifacts from Hyra (/ˈhaɪ.rɑː/)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Tencent-Hunyuan/Hyra-results：Tencent-Hunyuan/Hyra-results helps add AI capabil
 | forks | 23/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kenny0312/videosense-agent
 
-[![Stars](https://img.shields.io/github/stars/kenny0312/videosense-agent?style=flat-square&color=yellow)](https://github.com/kenny0312/videosense-agent/stargazers) [![Forks](https://img.shields.io/github/forks/kenny0312/videosense-agent?style=flat-square&color=blue)](https://github.com/kenny0312/videosense-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenny0312/videosense-agent?style=flat-square&color=yellow)](https://github.com/kenny0312/videosense-agent/stargazers) [![Forks](https://img.shields.io/github/forks/kenny0312/videosense-agent?style=flat-square&color=blue)](https://github.com/kenny0312/videosense-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Ask your video library anything — an AI agent that watches, reasons in a tool-use loop, and answers with playable clips and charts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ kenny0312/videosense-agent是一个开源项目，旨在为视频库提供一个
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

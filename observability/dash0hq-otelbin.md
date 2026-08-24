@@ -1,6 +1,6 @@
 # dash0hq/otelbin
 
-[![Stars](https://img.shields.io/github/stars/dash0hq/otelbin?style=flat-square&color=yellow)](https://github.com/dash0hq/otelbin/stargazers) [![Forks](https://img.shields.io/github/forks/dash0hq/otelbin?style=flat-square&color=blue)](https://github.com/dash0hq/otelbin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dash0hq/otelbin?style=flat-square&color=yellow)](https://github.com/dash0hq/otelbin/stargazers) [![Forks](https://img.shields.io/github/forks/dash0hq/otelbin?style=flat-square&color=blue)](https://github.com/dash0hq/otelbin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 570 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ dash0hq/otelbin：dash0hq/otelbin helps make production behavior easier to inspe
 | forks | 36/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

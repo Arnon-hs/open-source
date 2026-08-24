@@ -1,6 +1,6 @@
 # RainyMarks/DeepX
 
-[![Stars](https://img.shields.io/github/stars/RainyMarks/DeepX?style=flat-square&color=yellow)](https://github.com/RainyMarks/DeepX/stargazers) [![Forks](https://img.shields.io/github/forks/RainyMarks/DeepX?style=flat-square&color=blue)](https://github.com/RainyMarks/DeepX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RainyMarks/DeepX?style=flat-square&color=yellow)](https://github.com/RainyMarks/DeepX/stargazers) [![Forks](https://img.shields.io/github/forks/RainyMarks/DeepX?style=flat-square&color=blue)](https://github.com/RainyMarks/DeepX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent workspace
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ RainyMarks/DeepX 的生产可用性为中等。虽然它可以用于快速 proto
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

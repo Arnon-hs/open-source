@@ -1,6 +1,6 @@
 # tickstem/python
 
-[![Stars](https://img.shields.io/github/stars/tickstem/python?style=flat-square&color=yellow)](https://github.com/tickstem/python/stargazers) [![Forks](https://img.shields.io/github/forks/tickstem/python?style=flat-square&color=blue)](https://github.com/tickstem/python/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tickstem/python?style=flat-square&color=yellow)](https://github.com/tickstem/python/stargazers) [![Forks](https://img.shields.io/github/forks/tickstem/python?style=flat-square&color=blue)](https://github.com/tickstem/python/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -125,14 +125,15 @@ Show HN: Tickstem 是一款面向 Python 开发者的 SDK，提供 cron 任务�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 32/100 |
+| quality | 21/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 36/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

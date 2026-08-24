@@ -1,6 +1,6 @@
 # maddhruv/absolute
 
-[![Stars](https://img.shields.io/github/stars/maddhruv/absolute?style=flat-square&color=yellow)](https://github.com/maddhruv/absolute/stargazers) [![Forks](https://img.shields.io/github/forks/maddhruv/absolute?style=flat-square&color=blue)](https://github.com/maddhruv/absolute/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maddhruv/absolute?style=flat-square&color=yellow)](https://github.com/maddhruv/absolute/stargazers) [![Forks](https://img.shields.io/github/forks/maddhruv/absolute?style=flat-square&color=blue)](https://github.com/maddhruv/absolute/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Absolute Skills to 10x your Development Lifecycle
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ The project sits at a “medium” readiness level: it is recent enough (last up
 | forks | 38/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nim-lang/Nim
 
-[![Stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&color=yellow)](https://github.com/nim-lang/Nim/stargazers) [![Forks](https://img.shields.io/github/forks/nim-lang/Nim?style=flat-square&color=blue)](https://github.com/nim-lang/Nim/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&color=yellow)](https://github.com/nim-lang/Nim/stargazers) [![Forks](https://img.shields.io/github/forks/nim-lang/Nim?style=flat-square&color=blue)](https://github.com/nim-lang/Nim/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Nim |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Nim 语言的生产可用性较高，主要原因是：
 | forks | 80/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

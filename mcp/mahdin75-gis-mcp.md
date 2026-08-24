@@ -1,6 +1,6 @@
 # mahdin75/gis-mcp
 
-[![Stars](https://img.shields.io/github/stars/mahdin75/gis-mcp?style=flat-square&color=yellow)](https://github.com/mahdin75/gis-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mahdin75/gis-mcp?style=flat-square&color=blue)](https://github.com/mahdin75/gis-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahdin75/gis-mcp?style=flat-square&color=yellow)](https://github.com/mahdin75/gis-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mahdin75/gis-mcp?style=flat-square&color=blue)](https://github.com/mahdin75/gis-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server implementation that connects Large Language Models (LLMs) to GIS operations using GIS libraries, enabling AI assistants to perform geospatial operations and transformations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ mahdin75/gis-mcp 帮助连接人工智能助手到现实工具和数据通过标
 | forks | 42/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # i3T4AN/KADATH
 
-[![Stars](https://img.shields.io/github/stars/i3T4AN/KADATH?style=flat-square&color=yellow)](https://github.com/i3T4AN/KADATH/stargazers) [![Forks](https://img.shields.io/github/forks/i3T4AN/KADATH?style=flat-square&color=blue)](https://github.com/i3T4AN/KADATH/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/i3T4AN/KADATH?style=flat-square&color=yellow)](https://github.com/i3T4AN/KADATH/stargazers) [![Forks](https://img.shields.io/github/forks/i3T4AN/KADATH?style=flat-square&color=blue)](https://github.com/i3T4AN/KADATH/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ i3T4AN/KADATH 的生产可用性为中等。虽然它可以用于原型或内部
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

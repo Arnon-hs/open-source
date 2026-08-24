@@ -1,6 +1,6 @@
 # parkers0405/neoism
 
-[![Stars](https://img.shields.io/github/stars/parkers0405/neoism?style=flat-square&color=yellow)](https://github.com/parkers0405/neoism/stargazers) [![Forks](https://img.shields.io/github/forks/parkers0405/neoism?style=flat-square&color=blue)](https://github.com/parkers0405/neoism/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/parkers0405/neoism?style=flat-square&color=yellow)](https://github.com/parkers0405/neoism/stargazers) [![Forks](https://img.shields.io/github/forks/parkers0405/neoism?style=flat-square&color=blue)](https://github.com/parkers0405/neoism/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ parkers0405/neoism 的生产可用性为中等，适合用于 prototyping 或
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 71/100 |
-| usefulness | 58/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

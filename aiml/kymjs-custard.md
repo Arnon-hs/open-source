@@ -1,6 +1,6 @@
 # kymjs/Custard
 
-[![Stars](https://img.shields.io/github/stars/kymjs/Custard?style=flat-square&color=yellow)](https://github.com/kymjs/Custard/stargazers) [![Forks](https://img.shields.io/github/forks/kymjs/Custard?style=flat-square&color=blue)](https://github.com/kymjs/Custard/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kymjs/Custard?style=flat-square&color=yellow)](https://github.com/kymjs/Custard/stargazers) [![Forks](https://img.shields.io/github/forks/kymjs/Custard?style=flat-square&color=blue)](https://github.com/kymjs/Custard/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥🔥一个专用于手机操作的AI Agent。可独立运行，也可以作为扩展提供给其他Agent调用，拥有强大的工具调用能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ kymjs/Custard 的生产可用性为中等（Medium）。它适用于以下场景
 | forks | 28/100 |
 | stars | 39/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

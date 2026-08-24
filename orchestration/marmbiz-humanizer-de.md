@@ -1,6 +1,6 @@
 # marmbiz/humanizer-de
 
-[![Stars](https://img.shields.io/github/stars/marmbiz/humanizer-de?style=flat-square&color=yellow)](https://github.com/marmbiz/humanizer-de/stargazers) [![Forks](https://img.shields.io/github/forks/marmbiz/humanizer-de?style=flat-square&color=blue)](https://github.com/marmbiz/humanizer-de/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marmbiz/humanizer-de?style=flat-square&color=yellow)](https://github.com/marmbiz/humanizer-de/stargazers) [![Forks](https://img.shields.io/github/forks/marmbiz/humanizer-de?style=flat-square&color=blue)](https://github.com/marmbiz/humanizer-de/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and evidence-safe rewrites. No fact-bending, no bypassing tricks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ marmbiz/humanizer-de 的价值在于，它能够帮助将孤立的提示和工�
 | forks | 25/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # operator-framework/operator-lifecycle-manager
 
-[![Stars](https://img.shields.io/github/stars/operator-framework/operator-lifecycle-manager?style=flat-square&color=yellow)](https://github.com/operator-framework/operator-lifecycle-manager/stargazers) [![Forks](https://img.shields.io/github/forks/operator-framework/operator-lifecycle-manager?style=flat-square&color=blue)](https://github.com/operator-framework/operator-lifecycle-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/operator-framework/operator-lifecycle-manager?style=flat-square&color=yellow)](https://github.com/operator-framework/operator-lifecycle-manager/stargazers) [![Forks](https://img.shields.io/github/forks/operator-framework/operator-lifecycle-manager?style=flat-square&color=blue)](https://github.com/operator-framework/operator-lifecycle-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A management framework for extending Kubernetes with Operators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 581 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Operator Framework Operator Lifecycle Manager 的生产可用性较高，因为�
 | forks | 69/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kiwix/kiwix-tools
 
-[![Stars](https://img.shields.io/github/stars/kiwix/kiwix-tools?style=flat-square&color=yellow)](https://github.com/kiwix/kiwix-tools/stargazers) [![Forks](https://img.shields.io/github/forks/kiwix/kiwix-tools?style=flat-square&color=blue)](https://github.com/kiwix/kiwix-tools/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kiwix/kiwix-tools?style=flat-square&color=yellow)](https://github.com/kiwix/kiwix-tools/stargazers) [![Forks](https://img.shields.io/github/forks/kiwix/kiwix-tools?style=flat-square&color=blue)](https://github.com/kiwix/kiwix-tools/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 920 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Kiwix/kiwix-tools的生产可用性为中等。这意味着它可以用于内部
 | forks | 54/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

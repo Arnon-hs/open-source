@@ -54,7 +54,7 @@ go-admin-team/go-admin：go-admin-team/go-admin helps ship user-facing interface
 **Quality signals**
 
 - 12750 GitHub stars
-- 2588 forks
+- 2589 forks
 - updated 2026-08-23
 - primary language: Go
 - 14 topics
@@ -65,17 +65,16 @@ go-admin-team/go-admin：go-admin-team/go-admin helps ship user-facing interface
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 90/100 |
-| integration | 46/100 |
-| production | 77/100 |
-| outlook | 82/100 |
-| adoption | 87/100 |
-| categoryMatchCount | 200/100 |
-| stars | 87/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| stars | 87/100 |
 | topics | 100/100 |
+| outlook | 82/100 |
+| quality | 90/100 |
+| recency | 100/100 |
+| adoption | 87/100 |
+| production | 77/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # garyttierney/me3
 
-[![Stars](https://img.shields.io/github/stars/garyttierney/me3?style=flat-square&color=yellow)](https://github.com/garyttierney/me3/stargazers) [![Forks](https://img.shields.io/github/forks/garyttierney/me3?style=flat-square&color=blue)](https://github.com/garyttierney/me3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/garyttierney/me3?style=flat-square&color=yellow)](https://github.com/garyttierney/me3/stargazers) [![Forks](https://img.shields.io/github/forks/garyttierney/me3?style=flat-square&color=blue)](https://github.com/garyttierney/me3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for modding and instrumenting games.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 542 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ garyttierney/me3 是一个基于 Rust 的游戏模组与插桩框架，能够帮
 | forks | 43/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

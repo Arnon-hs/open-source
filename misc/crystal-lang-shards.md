@@ -1,6 +1,6 @@
 # crystal-lang/shards
 
-[![Stars](https://img.shields.io/github/stars/crystal-lang/shards?style=flat-square&color=yellow)](https://github.com/crystal-lang/shards/stargazers) [![Forks](https://img.shields.io/github/forks/crystal-lang/shards?style=flat-square&color=blue)](https://github.com/crystal-lang/shards/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crystal-lang/shards?style=flat-square&color=yellow)](https://github.com/crystal-lang/shards/stargazers) [![Forks](https://img.shields.io/github/forks/crystal-lang/shards?style=flat-square&color=blue)](https://github.com/crystal-lang/shards/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Dependency manager for the Crystal language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 790 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Crystal |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Crystal-lang/shards 的生产可用性为中等。它适合用于测试和内部
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # akutishevsky/lunchmoney-mcp
 
-[![Stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat-square&color=yellow)](https://github.com/akutishevsky/lunchmoney-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/akutishevsky/lunchmoney-mcp?style=flat-square&color=blue)](https://github.com/akutishevsky/lunchmoney-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat-square&color=yellow)](https://github.com/akutishevsky/lunchmoney-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/akutishevsky/lunchmoney-mcp?style=flat-square&color=blue)](https://github.com/akutishevsky/lunchmoney-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server implementation for LunchMoney, providing programmatic access to personal finance management through LunchMoney's API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ akutishevsky/lunchmoney-mcp 是一个 LunchMoney API 的 Model Context Protocol 
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

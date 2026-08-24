@@ -1,6 +1,6 @@
 # acartine/foolery
 
-[![Stars](https://img.shields.io/github/stars/acartine/foolery?style=flat-square&color=yellow)](https://github.com/acartine/foolery/stargazers) [![Forks](https://img.shields.io/github/forks/acartine/foolery?style=flat-square&color=blue)](https://github.com/acartine/foolery/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acartine/foolery?style=flat-square&color=yellow)](https://github.com/acartine/foolery/stargazers) [![Forks](https://img.shields.io/github/forks/acartine/foolery?style=flat-square&color=blue)](https://github.com/acartine/foolery/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Agent orchestration Web-UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Marketing
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ acartine/foolery 是一个基于 Web 的 Agent 编排 UI，旨在把零散的 Pr
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

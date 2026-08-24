@@ -1,6 +1,6 @@
 # Automattic/wordpress-activitypub
 
-[![Stars](https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=flat-square&color=yellow)](https://github.com/Automattic/wordpress-activitypub/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/wordpress-activitypub?style=flat-square&color=blue)](https://github.com/Automattic/wordpress-activitypub/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=flat-square&color=yellow)](https://github.com/Automattic/wordpress-activitypub/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/wordpress-activitypub?style=flat-square&color=blue)](https://github.com/Automattic/wordpress-activitypub/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ActivityPub for WordPress
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 572 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Automattic/wordpress-activitypub 的生产可用性较高，因为它有强烈�
 | forks | 49/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

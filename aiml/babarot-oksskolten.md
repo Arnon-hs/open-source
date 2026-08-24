@@ -1,6 +1,6 @@
 # babarot/oksskolten
 
-[![Stars](https://img.shields.io/github/stars/babarot/oksskolten?style=flat-square&color=yellow)](https://github.com/babarot/oksskolten/stargazers) [![Forks](https://img.shields.io/github/forks/babarot/oksskolten?style=flat-square&color=blue)](https://github.com/babarot/oksskolten/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/babarot/oksskolten?style=flat-square&color=yellow)](https://github.com/babarot/oksskolten/stargazers) [![Forks](https://img.shields.io/github/forks/babarot/oksskolten?style=flat-square&color=blue)](https://github.com/babarot/oksskolten/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🏔️ The AI-native RSS reader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ oksskolten 的生产可用性较高，主要原因包括：
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # perixtar/2026-Tech-OA-by-FastPrep
 
-[![Stars](https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep?style=flat-square&color=yellow)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers) [![Forks](https://img.shields.io/github/forks/perixtar/2026-Tech-OA-by-FastPrep?style=flat-square&color=blue)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep?style=flat-square&color=yellow)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers) [![Forks](https://img.shields.io/github/forks/perixtar/2026-Tech-OA-by-FastPrep?style=flat-square&color=blue)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > List of Tech Company OAs. Save your time from finding them all over the internet.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ perixtar/2026-Tech-OA-by-FastPrep 是一个开源项目，提供了技术公司�
 | forks | 60/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

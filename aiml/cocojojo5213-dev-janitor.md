@@ -1,6 +1,6 @@
 # cocojojo5213/Dev-Janitor
 
-[![Stars](https://img.shields.io/github/stars/cocojojo5213/Dev-Janitor?style=flat-square&color=yellow)](https://github.com/cocojojo5213/Dev-Janitor/stargazers) [![Forks](https://img.shields.io/github/forks/cocojojo5213/Dev-Janitor?style=flat-square&color=blue)](https://github.com/cocojojo5213/Dev-Janitor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cocojojo5213/Dev-Janitor?style=flat-square&color=yellow)](https://github.com/cocojojo5213/Dev-Janitor/stargazers) [![Forks](https://img.shields.io/github/forks/cocojojo5213/Dev-Janitor?style=flat-square&color=blue)](https://github.com/cocojojo5213/Dev-Janitor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 865 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Dev-Janitor 的生产可用性为中等（Medium）。它适合用于快速原�
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

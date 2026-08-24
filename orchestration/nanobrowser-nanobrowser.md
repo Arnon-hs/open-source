@@ -1,6 +1,6 @@
 # nanobrowser/nanobrowser
 
-[![Stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=flat-square&color=yellow)](https://github.com/nanobrowser/nanobrowser/stargazers) [![Forks](https://img.shields.io/github/forks/nanobrowser/nanobrowser?style=flat-square&color=blue)](https://github.com/nanobrowser/nanobrowser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=flat-square&color=yellow)](https://github.com/nanobrowser/nanobrowser/stargazers) [![Forks](https://img.shields.io/github/forks/nanobrowser/nanobrowser?style=flat-square&color=blue)](https://github.com/nanobrowser/nanobrowser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Backend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ nanobrowser/nanobrowser：nanobrowser/nanobrowser helps turn isolated prompts an
 | forks | 79/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 96/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 89/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 84/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

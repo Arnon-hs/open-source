@@ -1,6 +1,6 @@
 # looptech-ai/understand-quickly
 
-[![Stars](https://img.shields.io/github/stars/looptech-ai/understand-quickly?style=flat-square&color=yellow)](https://github.com/looptech-ai/understand-quickly/stargazers) [![Forks](https://img.shields.io/github/forks/looptech-ai/understand-quickly?style=flat-square&color=blue)](https://github.com/looptech-ai/understand-quickly/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/looptech-ai/understand-quickly?style=flat-square&color=yellow)](https://github.com/looptech-ai/understand-quickly/stargazers) [![Forks](https://img.shields.io/github/forks/looptech-ai/understand-quickly?style=flat-square&color=blue)](https://github.com/looptech-ai/understand-quickly/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Public registry of code-knowledge graphs for AI agents. Awesome-list 2.0: pointers to schema-validated content, not just links.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ looptech-ai
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ukkit/memcord
 
-[![Stars](https://img.shields.io/github/stars/ukkit/memcord?style=flat-square&color=yellow)](https://github.com/ukkit/memcord/stargazers) [![Forks](https://img.shields.io/github/forks/ukkit/memcord?style=flat-square&color=blue)](https://github.com/ukkit/memcord/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ukkit/memcord?style=flat-square&color=yellow)](https://github.com/ukkit/memcord/stargazers) [![Forks](https://img.shields.io/github/forks/ukkit/memcord?style=flat-square&color=blue)](https://github.com/ukkit/memcord/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 Self-hosted, privacy-first MCP server for long-term AI memory — save, search & summarize Claude/ChatGPT chat history locally. No cloud, no database.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ ukkit/memcord的生产可用性较高，主要原因是：
 | forks | 27/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # EliasOenal/term-cli
 
-[![Stars](https://img.shields.io/github/stars/EliasOenal/term-cli?style=flat-square&color=yellow)](https://github.com/EliasOenal/term-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EliasOenal/term-cli?style=flat-square&color=blue)](https://github.com/EliasOenal/term-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EliasOenal/term-cli?style=flat-square&color=yellow)](https://github.com/EliasOenal/term-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EliasOenal/term-cli?style=flat-square&color=blue)](https://github.com/EliasOenal/term-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in tmux-backed sessions. Agent-driven, human-assisted for secrets/MFA. Single-file Python. Agent Skill. CI with 700+ tests. BSD License.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ EliasOenal/term-cli 的价值在于，它可以帮助将孤立的提示和工具
 | forks | 25/100 |
 | stars | 42/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

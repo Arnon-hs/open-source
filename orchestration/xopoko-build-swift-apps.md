@@ -1,6 +1,6 @@
 # Xopoko/build-swift-apps
 
-[![Stars](https://img.shields.io/github/stars/Xopoko/build-swift-apps?style=flat-square&color=yellow)](https://github.com/Xopoko/build-swift-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Xopoko/build-swift-apps?style=flat-square&color=blue)](https://github.com/Xopoko/build-swift-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xopoko/build-swift-apps?style=flat-square&color=yellow)](https://github.com/Xopoko/build-swift-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Xopoko/build-swift-apps?style=flat-square&color=blue)](https://github.com/Xopoko/build-swift-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Swift-focused AI agent skills for iOS and macOS: build, debug, simulator, SwiftUI, Xcode, App Store workflows. Part of Plug'n Skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Mobile
+Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Xopoko/build-swift-apps 的整合需要从小型的原型开始，并且需要�
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

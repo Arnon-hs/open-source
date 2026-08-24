@@ -1,6 +1,6 @@
 # joygqz/sageport
 
-[![Stars](https://img.shields.io/github/stars/joygqz/sageport?style=flat-square&color=yellow)](https://github.com/joygqz/sageport/stargazers) [![Forks](https://img.shields.io/github/forks/joygqz/sageport?style=flat-square&color=blue)](https://github.com/joygqz/sageport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joygqz/sageport?style=flat-square&color=yellow)](https://github.com/joygqz/sageport/stargazers) [![Forks](https://img.shields.io/github/forks/joygqz/sageport?style=flat-square&color=blue)](https://github.com/joygqz/sageport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > SSH workbench with integrated SFTP, credential management, and an AI assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Sageport 的生产可用性较高，主要原因是：
 | forks | 17/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ublue-os/bazzite
 
-[![Stars](https://img.shields.io/github/stars/ublue-os/bazzite?style=flat-square&color=yellow)](https://github.com/ublue-os/bazzite/stargazers) [![Forks](https://img.shields.io/github/forks/ublue-os/bazzite?style=flat-square&color=blue)](https://github.com/ublue-os/bazzite/network) [![Language](https://img.shields.io/badge/lang-Just-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ublue-os/bazzite?style=flat-square&color=yellow)](https://github.com/ublue-os/bazzite/stargazers) [![Forks](https://img.shields.io/github/forks/ublue-os/bazzite?style=flat-square&color=blue)](https://github.com/ublue-os/bazzite/network) [![Language](https://img.shields.io/badge/lang-Just-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.7k |
 | 🍴 **Forks** | 968 |
 | 💻 **Language** | Just |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Bazzite 的生产可用性非常高，理由如下：
 | forks | 75/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

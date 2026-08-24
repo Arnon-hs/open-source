@@ -1,6 +1,6 @@
 # mautic/mautic
 
-[![Stars](https://img.shields.io/github/stars/mautic/mautic?style=flat-square&color=yellow)](https://github.com/mautic/mautic/stargazers) [![Forks](https://img.shields.io/github/forks/mautic/mautic?style=flat-square&color=blue)](https://github.com/mautic/mautic/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mautic/mautic?style=flat-square&color=yellow)](https://github.com/mautic/mautic/stargazers) [![Forks](https://img.shields.io/github/forks/mautic/mautic?style=flat-square&color=blue)](https://github.com/mautic/mautic/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Mautic: Open Source Marketing Automation Software.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database · Marketing
+Automation · Marketing
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Mautic 是一款开源的营销自动化平台，帮助企业把繁琐的手工�
 | forks | 88/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

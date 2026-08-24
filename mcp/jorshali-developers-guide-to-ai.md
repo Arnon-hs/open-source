@@ -1,6 +1,6 @@
 # jorshali/developers-guide-to-ai
 
-[![Stars](https://img.shields.io/github/stars/jorshali/developers-guide-to-ai?style=flat-square&color=yellow)](https://github.com/jorshali/developers-guide-to-ai/stargazers) [![Forks](https://img.shields.io/github/forks/jorshali/developers-guide-to-ai?style=flat-square&color=blue)](https://github.com/jorshali/developers-guide-to-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jorshali/developers-guide-to-ai?style=flat-square&color=yellow)](https://github.com/jorshali/developers-guide-to-ai/stargazers) [![Forks](https://img.shields.io/github/forks/jorshali/developers-guide-to-ai?style=flat-square&color=blue)](https://github.com/jorshali/developers-guide-to-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The Developer's Guide to AI - A Field Guide for the Working Developer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ jorshali/developers-guide-to-ai 是一个开源项目，旨在为开发者提供
 | forks | 42/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nwiizo/ccswarm
 
-[![Stars](https://img.shields.io/github/stars/nwiizo/ccswarm?style=flat-square&color=yellow)](https://github.com/nwiizo/ccswarm/stargazers) [![Forks](https://img.shields.io/github/forks/nwiizo/ccswarm?style=flat-square&color=blue)](https://github.com/nwiizo/ccswarm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nwiizo/ccswarm?style=flat-square&color=yellow)](https://github.com/nwiizo/ccswarm/stargazers) [![Forks](https://img.shields.io/github/forks/nwiizo/ccswarm?style=flat-square&color=blue)](https://github.com/nwiizo/ccswarm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent orchestration system using Claude Code with Git worktree isolation and specialized AI agents for collaborative development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ nwiizo/ccswarm 的生产可用性为中等。它适合用于原型开发或内�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 67/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

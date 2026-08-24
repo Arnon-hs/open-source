@@ -1,6 +1,6 @@
 # twisted/twisted
 
-[![Stars](https://img.shields.io/github/stars/twisted/twisted?style=flat-square&color=yellow)](https://github.com/twisted/twisted/stargazers) [![Forks](https://img.shields.io/github/forks/twisted/twisted?style=flat-square&color=blue)](https://github.com/twisted/twisted/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twisted/twisted?style=flat-square&color=yellow)](https://github.com/twisted/twisted/stargazers) [![Forks](https://img.shields.io/github/forks/twisted/twisted?style=flat-square&color=blue)](https://github.com/twisted/twisted/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Event-driven networking engine written in Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Twisted/twisted 的生产可用性较高，因为它有活跃的社区支持，�
 | forks | 77/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

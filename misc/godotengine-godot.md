@@ -1,6 +1,6 @@
 # godotengine/godot
 
-[![Stars](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&color=yellow)](https://github.com/godotengine/godot/stargazers) [![Forks](https://img.shields.io/github/forks/godotengine/godot?style=flat-square&color=blue)](https://github.com/godotengine/godot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&color=yellow)](https://github.com/godotengine/godot/stargazers) [![Forks](https://img.shields.io/github/forks/godotengine/godot?style=flat-square&color=blue)](https://github.com/godotengine/godot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: [Перевод] Вышел открытый игровой движок Godot 4.7 — подробный обзор нововведений
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 34/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ The project is a community‑driven translation of a Habr article that provides 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 32/100 |
+| quality | 24/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 39/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

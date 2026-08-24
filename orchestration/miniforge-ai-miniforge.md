@@ -1,6 +1,6 @@
 # miniforge-ai/miniforge
 
-[![Stars](https://img.shields.io/github/stars/miniforge-ai/miniforge?style=flat-square&color=yellow)](https://github.com/miniforge-ai/miniforge/stargazers) [![Forks](https://img.shields.io/github/forks/miniforge-ai/miniforge?style=flat-square&color=blue)](https://github.com/miniforge-ai/miniforge/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miniforge-ai/miniforge?style=flat-square&color=yellow)](https://github.com/miniforge-ai/miniforge/stargazers) [![Forks](https://img.shields.io/github/forks/miniforge-ai/miniforge?style=flat-square&color=blue)](https://github.com/miniforge-ai/miniforge/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > miniforge is an autonomous software development system designed to behave like a factory, not a chatbot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · DevOps/Infra
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ miniforge 是一个面向自动化软件开发的开源系统，旨在把离散�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

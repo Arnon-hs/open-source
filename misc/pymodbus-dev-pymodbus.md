@@ -1,6 +1,6 @@
 # pymodbus-dev/pymodbus
 
-[![Stars](https://img.shields.io/github/stars/pymodbus-dev/pymodbus?style=flat-square&color=yellow)](https://github.com/pymodbus-dev/pymodbus/stargazers) [![Forks](https://img.shields.io/github/forks/pymodbus-dev/pymodbus?style=flat-square&color=blue)](https://github.com/pymodbus-dev/pymodbus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pymodbus-dev/pymodbus?style=flat-square&color=yellow)](https://github.com/pymodbus-dev/pymodbus/stargazers) [![Forks](https://img.shields.io/github/forks/pymodbus-dev/pymodbus?style=flat-square&color=blue)](https://github.com/pymodbus-dev/pymodbus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A full modbus protocol written in python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,14 +123,15 @@ pymodbus-dev/pymodbus 是用 Python 完全实现的 Modbus 协议栈，支持 Mo
 | forks | 75/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

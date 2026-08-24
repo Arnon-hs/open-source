@@ -1,6 +1,6 @@
 # javifalces/HFTFramework
 
-[![Stars](https://img.shields.io/github/stars/javifalces/HFTFramework?style=flat-square&color=yellow)](https://github.com/javifalces/HFTFramework/stargazers) [![Forks](https://img.shields.io/github/forks/javifalces/HFTFramework?style=flat-square&color=blue)](https://github.com/javifalces/HFTFramework/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/javifalces/HFTFramework?style=flat-square&color=yellow)](https://github.com/javifalces/HFTFramework/stargazers) [![Forks](https://img.shields.io/github/forks/javifalces/HFTFramework?style=flat-square&color=blue)](https://github.com/javifalces/HFTFramework/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > HFTFramework utilized  for research on " A reinforcement learning approach to improve the performance of the Avellaneda-Stoikov market-making algorithm "
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · Database · Education
+Trading · Automation
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ javifalces/HFTFramework的生产可用性非常高，适合用于生产环境。
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

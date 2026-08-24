@@ -1,6 +1,6 @@
 # Kelsidavis/System7
 
-[![Stars](https://img.shields.io/github/stars/Kelsidavis/System7?style=flat-square&color=yellow)](https://github.com/Kelsidavis/System7/stargazers) [![Forks](https://img.shields.io/github/forks/Kelsidavis/System7?style=flat-square&color=blue)](https://github.com/Kelsidavis/System7/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kelsidavis/System7?style=flat-square&color=yellow)](https://github.com/Kelsidavis/System7/stargazers) [![Forks](https://img.shields.io/github/forks/Kelsidavis/System7?style=flat-square&color=blue)](https://github.com/Kelsidavis/System7/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source reimplementation of Apple Macintosh System 7 for modern x86 hardware, bootable via GRUB2/Multiboot2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Kelsidavis/System7 在以下方面有价值：
 | forks | 35/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

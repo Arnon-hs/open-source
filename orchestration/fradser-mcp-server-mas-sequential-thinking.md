@@ -1,6 +1,6 @@
 # FradSer/mcp-server-mas-sequential-thinking
 
-[![Stars](https://img.shields.io/github/stars/FradSer/mcp-server-mas-sequential-thinking?style=flat-square&color=yellow)](https://github.com/FradSer/mcp-server-mas-sequential-thinking/stargazers) [![Forks](https://img.shields.io/github/forks/FradSer/mcp-server-mas-sequential-thinking?style=flat-square&color=blue)](https://github.com/FradSer/mcp-server-mas-sequential-thinking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FradSer/mcp-server-mas-sequential-thinking?style=flat-square&color=yellow)](https://github.com/FradSer/mcp-server-mas-sequential-thinking/stargazers) [![Forks](https://img.shields.io/github/forks/FradSer/mcp-server-mas-sequential-thinking?style=flat-square&color=blue)](https://github.com/FradSer/mcp-server-mas-sequential-thinking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An advanced sequential thinking process using a Multi-Agent System (MAS) built with the Agno framework and served via MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ FradSer/mcp‑server‑mas‑sequential‑thinking 是基于 Agno 框架构建�
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

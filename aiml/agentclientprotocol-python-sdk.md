@@ -1,6 +1,6 @@
 # agentclientprotocol/python-sdk
 
-[![Stars](https://img.shields.io/github/stars/agentclientprotocol/python-sdk?style=flat-square&color=yellow)](https://github.com/agentclientprotocol/python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentclientprotocol/python-sdk?style=flat-square&color=blue)](https://github.com/agentclientprotocol/python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentclientprotocol/python-sdk?style=flat-square&color=yellow)](https://github.com/agentclientprotocol/python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentclientprotocol/python-sdk?style=flat-square&color=blue)](https://github.com/agentclientprotocol/python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for ACP clients and agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Here's a brief summary and explanation of the open-source project:
 | forks | 38/100 |
 | stars | 52/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

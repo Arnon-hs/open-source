@@ -1,6 +1,6 @@
 # titanwings/colleague-skill
 
-[![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square&color=yellow)](https://github.com/titanwings/colleague-skill/stargazers) [![Forks](https://img.shields.io/github/forks/titanwings/colleague-skill?style=flat-square&color=blue)](https://github.com/titanwings/colleague-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=flat-square&color=yellow)](https://github.com/titanwings/colleague-skill/stargazers) [![Forks](https://img.shields.io/github/forks/titanwings/colleague-skill?style=flat-square&color=blue)](https://github.com/titanwings/colleague-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.5k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ titanwings/colleague-skill：titanwings/colleague-skill helps turn isolated prom
 | forks | 83/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 84/100 |
+| production | 78/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

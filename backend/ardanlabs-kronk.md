@@ -1,6 +1,6 @@
 # ardanlabs/kronk
 
-[![Stars](https://img.shields.io/github/stars/ardanlabs/kronk?style=flat-square&color=yellow)](https://github.com/ardanlabs/kronk/stargazers) [![Forks](https://img.shields.io/github/forks/ardanlabs/kronk?style=flat-square&color=blue)](https://github.com/ardanlabs/kronk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ardanlabs/kronk?style=flat-square&color=yellow)](https://github.com/ardanlabs/kronk/stargazers) [![Forks](https://img.shields.io/github/forks/ardanlabs/kronk?style=flat-square&color=blue)](https://github.com/ardanlabs/kronk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provides a high-level API and a model server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 703 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ ardanlabs/kronk 是一个基于 Go 的本地推理引擎，直接集成了 llama
 | forks | 43/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

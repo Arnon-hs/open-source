@@ -1,6 +1,6 @@
 # timschmidt/synaps-cad
 
-[![Stars](https://img.shields.io/github/stars/timschmidt/synaps-cad?style=flat-square&color=yellow)](https://github.com/timschmidt/synaps-cad/stargazers) [![Forks](https://img.shields.io/github/forks/timschmidt/synaps-cad?style=flat-square&color=blue)](https://github.com/timschmidt/synaps-cad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timschmidt/synaps-cad?style=flat-square&color=yellow)](https://github.com/timschmidt/synaps-cad/stargazers) [![Forks](https://img.shields.io/github/forks/timschmidt/synaps-cad?style=flat-square&color=blue)](https://github.com/timschmidt/synaps-cad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ timschmidt/synaps-cad 在生产环境中的可用性为中等。它适用于快�
 | forks | 32/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

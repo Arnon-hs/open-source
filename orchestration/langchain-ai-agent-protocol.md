@@ -1,6 +1,6 @@
 # langchain-ai/agent-protocol
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&color=yellow)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&color=blue)](https://github.com/langchain-ai/agent-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&color=yellow)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&color=blue)](https://github.com/langchain-ai/agent-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 649 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Langchain-ai/agent-protocol 是一个开源项目，帮助开发者将孤立的�
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

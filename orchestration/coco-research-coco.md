@@ -1,6 +1,6 @@
 # coco-research/coco
 
-[![Stars](https://img.shields.io/github/stars/coco-research/coco?style=flat-square&color=yellow)](https://github.com/coco-research/coco/stargazers) [![Forks](https://img.shields.io/github/forks/coco-research/coco?style=flat-square&color=blue)](https://github.com/coco-research/coco/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coco-research/coco?style=flat-square&color=yellow)](https://github.com/coco-research/coco/stargazers) [![Forks](https://img.shields.io/github/forks/coco-research/coco?style=flat-square&color=blue)](https://github.com/coco-research/coco/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assistant into a complete engineering department with 142 skills, 277 commands, and persistent state. Universal compatibility. Local privacy. Free and open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Coco 的生产可用性为高，主要原因是：
 | forks | 26/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

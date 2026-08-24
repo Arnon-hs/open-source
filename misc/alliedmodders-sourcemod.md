@@ -1,6 +1,6 @@
 # alliedmodders/sourcemod
 
-[![Stars](https://img.shields.io/github/stars/alliedmodders/sourcemod?style=flat-square&color=yellow)](https://github.com/alliedmodders/sourcemod/stargazers) [![Forks](https://img.shields.io/github/forks/alliedmodders/sourcemod?style=flat-square&color=blue)](https://github.com/alliedmodders/sourcemod/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alliedmodders/sourcemod?style=flat-square&color=yellow)](https://github.com/alliedmodders/sourcemod/stargazers) [![Forks](https://img.shields.io/github/forks/alliedmodders/sourcemod?style=flat-square&color=blue)](https://github.com/alliedmodders/sourcemod/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > SourceMod - Source Engine Scripting and Administration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 470 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ SourceMod 的生产可用性为中等（Medium），适合用于原型或内部�
 | forks | 67/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

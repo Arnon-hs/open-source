@@ -1,6 +1,6 @@
 # 520coding/confuse
 
-[![Stars](https://img.shields.io/github/stars/520coding/confuse?style=flat-square&color=yellow)](https://github.com/520coding/confuse/stargazers) [![Forks](https://img.shields.io/github/forks/520coding/confuse?style=flat-square&color=blue)](https://github.com/520coding/confuse/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/520coding/confuse?style=flat-square&color=yellow)](https://github.com/520coding/confuse/stargazers) [![Forks](https://img.shields.io/github/forks/520coding/confuse?style=flat-square&color=blue)](https://github.com/520coding/confuse/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > iOS混淆加固差异化翻新加密工具，模拟人工手动混淆，识别上下文 ，支持继承链、类型识别、方法多参等复杂高级混淆。source-to-source obfuscation of iOS projects，Xcode's refactor->rename. 告别插入毫无关联的垃圾代码、弃用无脑单词随机拼接替换，模拟正常开发，一款最好的混淆最彻底的Mac App Tools。支持OC(Objc、Objective-C)、C、C++(Cocos2d-x、Cocos2dx和Lua游戏开发)、Swift、C#(Unity)混淆，可用于ios马甲包游戏SDK混淆，减少账号调查过机审上架过包过审4.3、2.3.1、2.1
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Overall, `520coding/confuse` is production‑ready for teams that need robust, r
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

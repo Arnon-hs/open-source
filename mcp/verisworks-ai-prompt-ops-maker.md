@@ -1,6 +1,6 @@
 # verisworks-ai/prompt-ops-maker
 
-[![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=flat-square&color=yellow)](https://github.com/verisworks-ai/prompt-ops-maker/stargazers) [![Forks](https://img.shields.io/github/forks/verisworks-ai/prompt-ops-maker?style=flat-square&color=blue)](https://github.com/verisworks-ai/prompt-ops-maker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verisworks-ai/prompt-ops-maker?style=flat-square&color=yellow)](https://github.com/verisworks-ai/prompt-ops-maker/stargazers) [![Forks](https://img.shields.io/github/forks/verisworks-ai/prompt-ops-maker?style=flat-square&color=blue)](https://github.com/verisworks-ai/prompt-ops-maker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Generate verification-focused operating prompts for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ verisworks‑ai/prompt‑ops‑maker 是一个开源工具库，专注于为 AI 
 | forks | 26/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

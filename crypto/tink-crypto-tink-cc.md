@@ -1,6 +1,6 @@
 # tink-crypto/tink-cc
 
-[![Stars](https://img.shields.io/github/stars/tink-crypto/tink-cc?style=flat-square&color=yellow)](https://github.com/tink-crypto/tink-cc/stargazers) [![Forks](https://img.shields.io/github/forks/tink-crypto/tink-cc?style=flat-square&color=blue)](https://github.com/tink-crypto/tink-cc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tink-crypto/tink-cc?style=flat-square&color=yellow)](https://github.com/tink-crypto/tink-cc/stargazers) [![Forks](https://img.shields.io/github/forks/tink-crypto/tink-cc?style=flat-square&color=blue)](https://github.com/tink-crypto/tink-cc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > C++ implementation of Tink
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ tink-crypto/tink-cc 的生产可用性为中等（Medium）。它适合用于 pr
 | forks | 39/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

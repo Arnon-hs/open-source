@@ -1,6 +1,6 @@
 # bellingcat/geoclustering
 
-[![Stars](https://img.shields.io/github/stars/bellingcat/geoclustering?style=flat-square&color=yellow)](https://github.com/bellingcat/geoclustering/stargazers) [![Forks](https://img.shields.io/github/forks/bellingcat/geoclustering?style=flat-square&color=blue)](https://github.com/bellingcat/geoclustering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bellingcat/geoclustering?style=flat-square&color=yellow)](https://github.com/bellingcat/geoclustering/stargazers) [![Forks](https://img.shields.io/github/forks/bellingcat/geoclustering?style=flat-square&color=blue)](https://github.com/bellingcat/geoclustering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line tool for clustering geolocations 📍
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ bellingcat/geoclustering：bellingcat/geoclustering may be useful when its READM
 | forks | 24/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # graphite-project/graphite-web
 
-[![Stars](https://img.shields.io/github/stars/graphite-project/graphite-web?style=flat-square&color=yellow)](https://github.com/graphite-project/graphite-web/stargazers) [![Forks](https://img.shields.io/github/forks/graphite-project/graphite-web?style=flat-square&color=blue)](https://github.com/graphite-project/graphite-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graphite-project/graphite-web?style=flat-square&color=yellow)](https://github.com/graphite-project/graphite-web/stargazers) [![Forks](https://img.shields.io/github/forks/graphite-project/graphite-web?style=flat-square&color=blue)](https://github.com/graphite-project/graphite-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A highly scalable real-time graphing system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Graphite-Web 具备较高的生产可用性，主要原因包括：
 | forks | 77/100 |
 | stars | 81/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

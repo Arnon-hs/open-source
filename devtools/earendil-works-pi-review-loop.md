@@ -1,6 +1,6 @@
 # earendil-works/pi-review-loop
 
-[![Stars](https://img.shields.io/github/stars/earendil-works/pi-review-loop?style=flat-square&color=yellow)](https://github.com/earendil-works/pi-review-loop/stargazers) [![Forks](https://img.shields.io/github/forks/earendil-works/pi-review-loop?style=flat-square&color=blue)](https://github.com/earendil-works/pi-review-loop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earendil-works/pi-review-loop?style=flat-square&color=yellow)](https://github.com/earendil-works/pi-review-loop/stargazers) [![Forks](https://img.shields.io/github/forks/earendil-works/pi-review-loop?style=flat-square&color=blue)](https://github.com/earendil-works/pi-review-loop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A persistent incremental diff review loop for pi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ earendil-works/pi-review-loop 是一个开源项目，旨在帮助工程师在�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

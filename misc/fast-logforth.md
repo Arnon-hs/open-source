@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ fast/logforth：fast/logforth may be useful when its README and activity match a
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

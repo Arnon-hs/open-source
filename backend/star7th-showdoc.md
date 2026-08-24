@@ -1,6 +1,6 @@
 # star7th/showdoc
 
-[![Stars](https://img.shields.io/github/stars/star7th/showdoc?style=flat-square&color=yellow)](https://github.com/star7th/showdoc/stargazers) [![Forks](https://img.shields.io/github/forks/star7th/showdoc?style=flat-square&color=blue)](https://github.com/star7th/showdoc/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/star7th/showdoc?style=flat-square&color=yellow)](https://github.com/star7th/showdoc/stargazers) [![Forks](https://img.shields.io/github/forks/star7th/showdoc?style=flat-square&color=blue)](https://github.com/star7th/showdoc/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ ShowDoc在生产环境中的可用性较高，理由包括：
 | forks | 84/100 |
 | stars | 87/100 |
 | topics | 50/100 |
-| outlook | 86/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

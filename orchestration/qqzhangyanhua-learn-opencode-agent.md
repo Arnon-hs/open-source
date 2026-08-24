@@ -1,6 +1,6 @@
 # qqzhangyanhua/learn-opencode-agent
 
-[![Stars](https://img.shields.io/github/stars/qqzhangyanhua/learn-opencode-agent?style=flat-square&color=yellow)](https://github.com/qqzhangyanhua/learn-opencode-agent/stargazers) [![Forks](https://img.shields.io/github/forks/qqzhangyanhua/learn-opencode-agent?style=flat-square&color=blue)](https://github.com/qqzhangyanhua/learn-opencode-agent/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qqzhangyanhua/learn-opencode-agent?style=flat-square&color=yellow)](https://github.com/qqzhangyanhua/learn-opencode-agent/stargazers) [![Forks](https://img.shields.io/github/forks/qqzhangyanhua/learn-opencode-agent?style=flat-square&color=blue)](https://github.com/qqzhangyanhua/learn-opencode-agent/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Context Engineering 到 AI Coding Workflow。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ The project has a medium production readiness score, indicating that it is suita
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

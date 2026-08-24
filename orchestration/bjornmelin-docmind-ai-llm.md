@@ -1,6 +1,6 @@
 # BjornMelin/docmind-ai-llm
 
-[![Stars](https://img.shields.io/github/stars/BjornMelin/docmind-ai-llm?style=flat-square&color=yellow)](https://github.com/BjornMelin/docmind-ai-llm/stargazers) [![Forks](https://img.shields.io/github/forks/BjornMelin/docmind-ai-llm?style=flat-square&color=blue)](https://github.com/BjornMelin/docmind-ai-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BjornMelin/docmind-ai-llm?style=flat-square&color=yellow)](https://github.com/BjornMelin/docmind-ai-llm/stargazers) [![Forks](https://img.shields.io/github/forks/BjornMelin/docmind-ai-llm?style=flat-square&color=blue)](https://github.com/BjornMelin/docmind-ai-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > DocMind AI is a powerful, open-source Streamlit application leveraging LlamaIndex, LangGraph, and local Large Language Models (LLMs) via Ollama, LMStudio, llama.cpp, or vLLM for advanced document analysis. Analyze, summarize, and extract insights from a wide array of file formats, securely and privately, all offline.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Database
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ BjornMelin/docmind-ai-llm 帮助将孤立的提示和工具转变为可重复的
 | forks | 36/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

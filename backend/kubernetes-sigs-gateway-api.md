@@ -1,6 +1,6 @@
 # kubernetes-sigs/gateway-api
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/gateway-api?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/gateway-api/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/gateway-api?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/gateway-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/gateway-api?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/gateway-api/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/gateway-api?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/gateway-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 754 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ kubernetes-sigs/gateway‑api 是 Kubernetes 社区维护的下一代复合服�
 | forks | 72/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

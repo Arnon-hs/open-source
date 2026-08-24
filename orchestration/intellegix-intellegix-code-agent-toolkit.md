@@ -1,6 +1,6 @@
 # intellegix/intellegix-code-agent-toolkit
 
-[![Stars](https://img.shields.io/github/stars/intellegix/intellegix-code-agent-toolkit?style=flat-square&color=yellow)](https://github.com/intellegix/intellegix-code-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/intellegix/intellegix-code-agent-toolkit?style=flat-square&color=blue)](https://github.com/intellegix/intellegix-code-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intellegix/intellegix-code-agent-toolkit?style=flat-square&color=yellow)](https://github.com/intellegix/intellegix-code-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/intellegix/intellegix-code-agent-toolkit?style=flat-square&color=blue)](https://github.com/intellegix/intellegix-code-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ intellegix/intellegix-code-agent-toolkit 的价值在于，它可以帮助开发
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

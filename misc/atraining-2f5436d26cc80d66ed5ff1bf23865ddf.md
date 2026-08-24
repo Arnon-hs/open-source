@@ -1,6 +1,6 @@
 # atraining/2f5436d26cc80d66ed5ff1bf23865ddf
 
-[![Stars](https://img.shields.io/github/stars/atraining/2f5436d26cc80d66ed5ff1bf23865ddf?style=flat-square&color=yellow)](https://gist.github.com/atraining/2f5436d26cc80d66ed5ff1bf23865ddf/stargazers) [![Forks](https://img.shields.io/github/forks/atraining/2f5436d26cc80d66ed5ff1bf23865ddf?style=flat-square&color=blue)](https://gist.github.com/atraining/2f5436d26cc80d66ed5ff1bf23865ddf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atraining/2f5436d26cc80d66ed5ff1bf23865ddf?style=flat-square&color=yellow)](https://gist.github.com/atraining/2f5436d26cc80d66ed5ff1bf23865ddf/stargazers) [![Forks](https://img.shields.io/github/forks/atraining/2f5436d26cc80d66ed5ff1bf23865ddf?style=flat-square&color=blue)](https://gist.github.com/atraining/2f5436d26cc80d66ed5ff1bf23865ddf/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -63,14 +63,15 @@ Timestamp and WACZ/WARC Script via ArchiveWeb.page 提供了便捷的时间戳�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

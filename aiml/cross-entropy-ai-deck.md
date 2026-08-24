@@ -1,6 +1,6 @@
 # cross-entropy-ai/deck
 
-[![Stars](https://img.shields.io/github/stars/cross-entropy-ai/deck?style=flat-square&color=yellow)](https://github.com/cross-entropy-ai/deck/stargazers) [![Forks](https://img.shields.io/github/forks/cross-entropy-ai/deck?style=flat-square&color=blue)](https://github.com/cross-entropy-ai/deck/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cross-entropy-ai/deck?style=flat-square&color=yellow)](https://github.com/cross-entropy-ai/deck/stargazers) [![Forks](https://img.shields.io/github/forks/cross-entropy-ai/deck?style=flat-square&color=blue)](https://github.com/cross-entropy-ai/deck/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Tmux sidebar for vibe coding. Manage sessions and monitor agents at a glance
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ cross-entropy-ai/deck 的生产可用性为中等。虽然它可以用于 protot
 | forks | 0/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 18/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

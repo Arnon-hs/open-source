@@ -1,6 +1,6 @@
 # react/react-native
 
-[![Stars](https://img.shields.io/github/stars/react/react-native?style=flat-square&color=yellow)](https://github.com/react/react-native/stargazers) [![Forks](https://img.shields.io/github/forks/react/react-native?style=flat-square&color=blue)](https://github.com/react/react-native/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react/react-native?style=flat-square&color=yellow)](https://github.com/react/react-native/stargazers) [![Forks](https://img.shields.io/github/forks/react/react-native?style=flat-square&color=blue)](https://github.com/react/react-native/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for building native applications using React
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126.1k |
 | 🍴 **Forks** | 25.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ React / React‑Native 是一个基于 React 的跨平台框架，能够使�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

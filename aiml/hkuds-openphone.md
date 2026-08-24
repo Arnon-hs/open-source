@@ -1,6 +1,6 @@
 # HKUDS/OpenPhone
 
-[![Stars](https://img.shields.io/github/stars/HKUDS/OpenPhone?style=flat-square&color=yellow)](https://github.com/HKUDS/OpenPhone/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/OpenPhone?style=flat-square&color=blue)](https://github.com/HKUDS/OpenPhone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HKUDS/OpenPhone?style=flat-square&color=yellow)](https://github.com/HKUDS/OpenPhone/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/OpenPhone?style=flat-square&color=blue)](https://github.com/HKUDS/OpenPhone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > [ACL 2026] "OpenPhone: Mobile Agentic Foundation Models for AI Phone"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 884 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ HKUDS/OpenPhone 的生产可用性为中等（Medium）。它适合用于内部�
 | forks | 56/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

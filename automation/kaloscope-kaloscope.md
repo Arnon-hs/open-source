@@ -1,6 +1,6 @@
 # kaloscope/kaloscope
 
-[![Stars](https://img.shields.io/github/stars/kaloscope/kaloscope?style=flat-square&color=yellow)](https://github.com/kaloscope/kaloscope/stargazers) [![Forks](https://img.shields.io/github/forks/kaloscope/kaloscope?style=flat-square&color=blue)](https://github.com/kaloscope/kaloscope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaloscope/kaloscope?style=flat-square&color=yellow)](https://github.com/kaloscope/kaloscope/stargazers) [![Forks](https://img.shields.io/github/forks/kaloscope/kaloscope?style=flat-square&color=blue)](https://github.com/kaloscope/kaloscope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A workflow-powered local media manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ kaloscope/kaloscope 的生产可用性较高，主要原因是：
 | forks | 34/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

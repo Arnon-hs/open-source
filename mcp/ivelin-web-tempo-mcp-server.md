@@ -1,6 +1,6 @@
 # ivelin-web/tempo-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/ivelin-web/tempo-mcp-server?style=flat-square&color=yellow)](https://github.com/ivelin-web/tempo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/ivelin-web/tempo-mcp-server?style=flat-square&color=blue)](https://github.com/ivelin-web/tempo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivelin-web/tempo-mcp-server?style=flat-square&color=yellow)](https://github.com/ivelin-web/tempo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/ivelin-web/tempo-mcp-server?style=flat-square&color=blue)](https://github.com/ivelin-web/tempo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for managing Tempo worklogs in Jira
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Backend · Observability
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ ivelin-web/tempo-mcp-server 的生产可用性较高，原因是：
 | forks | 38/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

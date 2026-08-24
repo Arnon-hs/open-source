@@ -1,6 +1,6 @@
 # freestylefly/wesight
 
-[![Stars](https://img.shields.io/github/stars/freestylefly/wesight?style=flat-square&color=yellow)](https://github.com/freestylefly/wesight/stargazers) [![Forks](https://img.shields.io/github/forks/freestylefly/wesight?style=flat-square&color=blue)](https://github.com/freestylefly/wesight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freestylefly/wesight?style=flat-square&color=yellow)](https://github.com/freestylefly/wesight/stargazers) [![Forks](https://img.shields.io/github/forks/freestylefly/wesight?style=flat-square&color=blue)](https://github.com/freestylefly/wesight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 730 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ freestylefly/wesight 是一款开源的桌面 AI 代理工作空间，提供“�
 | forks | 56/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jentic/jentic-one
 
-[![Stars](https://img.shields.io/github/stars/jentic/jentic-one?style=flat-square&color=yellow)](https://github.com/jentic/jentic-one/stargazers) [![Forks](https://img.shields.io/github/forks/jentic/jentic-one?style=flat-square&color=blue)](https://github.com/jentic/jentic-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jentic/jentic-one?style=flat-square&color=yellow)](https://github.com/jentic/jentic-one/stargazers) [![Forks](https://img.shields.io/github/forks/jentic/jentic-one?style=flat-square&color=blue)](https://github.com/jentic/jentic-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted API execution layer that sits between your agent and the outside world. Your agent says what it wants to do. Jentic Mini handles the how — finding the right API, injecting credentials at runtime, and brokering the request
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Jentic One 是一个自托管的 API 执行层，位于智能体（agent）与
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

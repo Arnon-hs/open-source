@@ -1,6 +1,6 @@
 # sebbo2002/ical-generator
 
-[![Stars](https://img.shields.io/github/stars/sebbo2002/ical-generator?style=flat-square&color=yellow)](https://github.com/sebbo2002/ical-generator/stargazers) [![Forks](https://img.shields.io/github/forks/sebbo2002/ical-generator?style=flat-square&color=blue)](https://github.com/sebbo2002/ical-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebbo2002/ical-generator?style=flat-square&color=yellow)](https://github.com/sebbo2002/ical-generator/stargazers) [![Forks](https://img.shields.io/github/forks/sebbo2002/ical-generator?style=flat-square&color=blue)](https://github.com/sebbo2002/ical-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ical-generator is a small piece of code which generates ical calendar files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 848 |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ ical-generator 的生产可用性为中等。它可以用于内部工作流或�
 | forks | 55/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

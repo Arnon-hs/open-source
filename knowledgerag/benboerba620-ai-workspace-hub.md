@@ -1,6 +1,6 @@
 # Benboerba620/ai-workspace-hub
 
-[![Stars](https://img.shields.io/github/stars/Benboerba620/ai-workspace-hub?style=flat-square&color=yellow)](https://github.com/Benboerba620/ai-workspace-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/ai-workspace-hub?style=flat-square&color=blue)](https://github.com/Benboerba620/ai-workspace-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benboerba620/ai-workspace-hub?style=flat-square&color=yellow)](https://github.com/Benboerba620/ai-workspace-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/ai-workspace-hub?style=flat-square&color=blue)](https://github.com/Benboerba620/ai-workspace-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one AI 研究工作台：把 Codex / Claude Code / Cursor 变成有长期记忆的研究系统。wiki 摄入、研究闭环、快速筛选、假设追踪、播客、日报六大能力，零 API key 可跑基座。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Backend
+Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Benboerba620/ai-workspace-hub 是一个开源项目，提供了一个全面的 A
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

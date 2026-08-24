@@ -1,6 +1,6 @@
 # Sagargupta16/claude-cost-optimizer
 
-[![Stars](https://img.shields.io/github/stars/Sagargupta16/claude-cost-optimizer?style=flat-square&color=yellow)](https://github.com/Sagargupta16/claude-cost-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/Sagargupta16/claude-cost-optimizer?style=flat-square&color=blue)](https://github.com/Sagargupta16/claude-cost-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sagargupta16/claude-cost-optimizer?style=flat-square&color=yellow)](https://github.com/Sagargupta16/claude-cost-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/Sagargupta16/claude-cost-optimizer?style=flat-square&color=blue)](https://github.com/Sagargupta16/claude-cost-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Save 30-60% on Claude Code costs -- proven strategies, real benchmarks, copy-paste configs, and interactive tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ Sagargupta16/claude-cost-optimizer 提供了一套经过实测的成本优化方
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

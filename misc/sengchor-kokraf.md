@@ -1,6 +1,6 @@
 # sengchor/kokraf
 
-[![Stars](https://img.shields.io/github/stars/sengchor/kokraf?style=flat-square&color=yellow)](https://github.com/sengchor/kokraf/stargazers) [![Forks](https://img.shields.io/github/forks/sengchor/kokraf?style=flat-square&color=blue)](https://github.com/sengchor/kokraf/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sengchor/kokraf?style=flat-square&color=yellow)](https://github.com/sengchor/kokraf/stargazers) [![Forks](https://img.shields.io/github/forks/sengchor/kokraf?style=flat-square&color=blue)](https://github.com/sengchor/kokraf/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Collaborative 3D Modeling Application on the Web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ kokraf 适合作为原型或内部协同建模平台快速落地，尤其在需�
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SandmeyerX/rustlings-zh-cn
 
-[![Stars](https://img.shields.io/github/stars/SandmeyerX/rustlings-zh-cn?style=flat-square&color=yellow)](https://github.com/SandmeyerX/rustlings-zh-cn/stargazers) [![Forks](https://img.shields.io/github/forks/SandmeyerX/rustlings-zh-cn?style=flat-square&color=blue)](https://github.com/SandmeyerX/rustlings-zh-cn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SandmeyerX/rustlings-zh-cn?style=flat-square&color=yellow)](https://github.com/SandmeyerX/rustlings-zh-cn/stargazers) [![Forks](https://img.shields.io/github/forks/SandmeyerX/rustlings-zh-cn?style=flat-square&color=blue)](https://github.com/SandmeyerX/rustlings-zh-cn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 这是 Rust 练习题（Ruslings）简体中文翻译版本。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ SandmeyerX/rustlings-zh-cn 是一个 Rust 练习题的简体中文翻译版本�
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

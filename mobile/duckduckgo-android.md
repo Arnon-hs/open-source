@@ -1,6 +1,6 @@
 # duckduckgo/Android
 
-[![Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=flat-square&color=yellow)](https://github.com/duckduckgo/Android/stargazers) [![Forks](https://img.shields.io/github/forks/duckduckgo/Android?style=flat-square&color=blue)](https://github.com/duckduckgo/Android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=flat-square&color=yellow)](https://github.com/duckduckgo/Android/stargazers) [![Forks](https://img.shields.io/github/forks/duckduckgo/Android?style=flat-square&color=blue)](https://github.com/duckduckgo/Android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > DuckDuckGo Android App
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ DuckDuckGo Android App 是一款开源项目，提供了一个专注于隐私保
 | forks | 78/100 |
 | stars | 78/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

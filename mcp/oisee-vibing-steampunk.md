@@ -1,6 +1,6 @@
 # oisee/vibing-steampunk
 
-[![Stars](https://img.shields.io/github/stars/oisee/vibing-steampunk?style=flat-square&color=yellow)](https://github.com/oisee/vibing-steampunk/stargazers) [![Forks](https://img.shields.io/github/forks/oisee/vibing-steampunk?style=flat-square&color=blue)](https://github.com/oisee/vibing-steampunk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oisee/vibing-steampunk?style=flat-square&color=yellow)](https://github.com/oisee/vibing-steampunk/stargazers) [![Forks](https://img.shields.io/github/forks/oisee/vibing-steampunk?style=flat-square&color=blue)](https://github.com/oisee/vibing-steampunk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ oisee/vibing-steampunk 是一款用 Go 实现的 ADT‑to‑MCP 桥梁（vs‑pu
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

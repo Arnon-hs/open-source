@@ -1,6 +1,6 @@
 # derek-larson14/obsidian-claude-sidebar
 
-[![Stars](https://img.shields.io/github/stars/derek-larson14/obsidian-claude-sidebar?style=flat-square&color=yellow)](https://github.com/derek-larson14/obsidian-claude-sidebar/stargazers) [![Forks](https://img.shields.io/github/forks/derek-larson14/obsidian-claude-sidebar?style=flat-square&color=blue)](https://github.com/derek-larson14/obsidian-claude-sidebar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/derek-larson14/obsidian-claude-sidebar?style=flat-square&color=yellow)](https://github.com/derek-larson14/obsidian-claude-sidebar/stargazers) [![Forks](https://img.shields.io/github/forks/derek-larson14/obsidian-claude-sidebar?style=flat-square&color=blue)](https://github.com/derek-larson14/obsidian-claude-sidebar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Code, Codex, and other agent CLIs in Obsidian
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 435 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Obsidian Claude Sidebar 的生产可用性很高，主要原因是：
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

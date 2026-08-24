@@ -1,6 +1,6 @@
 # moneat-io/moneat
 
-[![Stars](https://img.shields.io/github/stars/moneat-io/moneat?style=flat-square&color=yellow)](https://github.com/moneat-io/moneat/stargazers) [![Forks](https://img.shields.io/github/forks/moneat-io/moneat?style=flat-square&color=blue)](https://github.com/moneat-io/moneat/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moneat-io/moneat?style=flat-square&color=yellow)](https://github.com/moneat-io/moneat/stargazers) [![Forks](https://img.shields.io/github/forks/moneat-io/moneat?style=flat-square&color=blue)](https://github.com/moneat-io/moneat/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Observability
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ moneat-io/moneat 的生产可用性为中等（Medium）。它适合用于内部
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

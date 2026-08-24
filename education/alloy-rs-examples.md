@@ -1,6 +1,6 @@
 # alloy-rs/examples
 
-[![Stars](https://img.shields.io/github/stars/alloy-rs/examples?style=flat-square&color=yellow)](https://github.com/alloy-rs/examples/stargazers) [![Forks](https://img.shields.io/github/forks/alloy-rs/examples?style=flat-square&color=blue)](https://github.com/alloy-rs/examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alloy-rs/examples?style=flat-square&color=yellow)](https://github.com/alloy-rs/examples/stargazers) [![Forks](https://img.shields.io/github/forks/alloy-rs/examples?style=flat-square&color=blue)](https://github.com/alloy-rs/examples/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Example code for using alloy and alloy-core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Here's a brief summary and explanation of the alloy-rs/examples project:
 | forks | 45/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

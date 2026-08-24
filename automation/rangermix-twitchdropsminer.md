@@ -1,6 +1,6 @@
 # rangermix/TwitchDropsMiner
 
-[![Stars](https://img.shields.io/github/stars/rangermix/TwitchDropsMiner?style=flat-square&color=yellow)](https://github.com/rangermix/TwitchDropsMiner/stargazers) [![Forks](https://img.shields.io/github/forks/rangermix/TwitchDropsMiner?style=flat-square&color=blue)](https://github.com/rangermix/TwitchDropsMiner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rangermix/TwitchDropsMiner?style=flat-square&color=yellow)](https://github.com/rangermix/TwitchDropsMiner/stargazers) [![Forks](https://img.shields.io/github/forks/rangermix/TwitchDropsMiner?style=flat-square&color=blue)](https://github.com/rangermix/TwitchDropsMiner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching. Web GUI, dockerised.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevOps/Infra
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ rangermix/TwitchDropsMiner 是一个开源项目，允许用户自动化通过Tw
 | forks | 41/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

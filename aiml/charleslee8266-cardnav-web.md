@@ -1,6 +1,6 @@
 # charleslee8266/cardnav-web
 
-[![Stars](https://img.shields.io/github/stars/charleslee8266/cardnav-web?style=flat-square&color=yellow)](https://github.com/charleslee8266/cardnav-web/stargazers) [![Forks](https://img.shields.io/github/forks/charleslee8266/cardnav-web?style=flat-square&color=blue)](https://github.com/charleslee8266/cardnav-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charleslee8266/cardnav-web?style=flat-square&color=yellow)](https://github.com/charleslee8266/cardnav-web/stargazers) [![Forks](https://img.shields.io/github/forks/charleslee8266/cardnav-web?style=flat-square&color=blue)](https://github.com/charleslee8266/cardnav-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ CardNav-Web is considered
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

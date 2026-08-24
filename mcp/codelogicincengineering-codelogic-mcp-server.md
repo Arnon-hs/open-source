@@ -1,6 +1,6 @@
 # CodeLogicIncEngineering/codelogic-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=yellow)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=blue)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=yellow)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/CodeLogicIncEngineering/codelogic-mcp-server?style=flat-square&color=blue)](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP Server to utilize Codelogic's rich software dependency data in your AI programming assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ CodeLogicIncEngineering/codelogic-mcp-server 是一个基于 Model Context P
 | forks | 31/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

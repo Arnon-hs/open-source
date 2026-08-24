@@ -1,6 +1,6 @@
 # IntelligentElectron/universal-netlist
 
-[![Stars](https://img.shields.io/github/stars/IntelligentElectron/universal-netlist?style=flat-square&color=yellow)](https://github.com/IntelligentElectron/universal-netlist/stargazers) [![Forks](https://img.shields.io/github/forks/IntelligentElectron/universal-netlist?style=flat-square&color=blue)](https://github.com/IntelligentElectron/universal-netlist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IntelligentElectron/universal-netlist?style=flat-square&color=yellow)](https://github.com/IntelligentElectron/universal-netlist/stargazers) [![Forks](https://img.shields.io/github/forks/IntelligentElectron/universal-netlist?style=flat-square&color=blue)](https://github.com/IntelligentElectron/universal-netlist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Give AI agents the power to read Cadence, Altium, and KiCad designs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Data · Design
+MCP
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ IntelligentElectron/universal-netlist：IntelligentElectron/universal-netlist he
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

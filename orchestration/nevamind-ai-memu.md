@@ -1,6 +1,6 @@
 # NevaMind-AI/memU
 
-[![Stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square&color=yellow)](https://github.com/NevaMind-AI/memU/stargazers) [![Forks](https://img.shields.io/github/forks/NevaMind-AI/memU?style=flat-square&color=blue)](https://github.com/NevaMind-AI/memU/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square&color=yellow)](https://github.com/NevaMind-AI/memU/stargazers) [![Forks](https://img.shields.io/github/forks/NevaMind-AI/memU?style=flat-square&color=blue)](https://github.com/NevaMind-AI/memU/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > From workspace to agent memory
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.9k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ NevaMind‑AI/memU 将零散的 Prompt 与工具包装成可复用的智能体�
 | forks | 75/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 83/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

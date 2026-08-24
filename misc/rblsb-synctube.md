@@ -1,6 +1,6 @@
 # RblSb/SyncTube
 
-[![Stars](https://img.shields.io/github/stars/RblSb/SyncTube?style=flat-square&color=yellow)](https://github.com/RblSb/SyncTube/stargazers) [![Forks](https://img.shields.io/github/forks/RblSb/SyncTube?style=flat-square&color=blue)](https://github.com/RblSb/SyncTube/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RblSb/SyncTube?style=flat-square&color=yellow)](https://github.com/RblSb/SyncTube/stargazers) [![Forks](https://img.shields.io/github/forks/RblSb/SyncTube?style=flat-square&color=blue)](https://github.com/RblSb/SyncTube/network) [![Language](https://img.shields.io/badge/lang-Haxe-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Synchronized video viewing with chat and other features (one-channel web service)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Haxe |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ RblSb/SyncTube 的生产可用性为中等，适合用于原型或内部工作�
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # codedogQBY/ReadAny
 
-[![Stars](https://img.shields.io/github/stars/codedogQBY/ReadAny?style=flat-square&color=yellow)](https://github.com/codedogQBY/ReadAny/stargazers) [![Forks](https://img.shields.io/github/forks/codedogQBY/ReadAny?style=flat-square&color=blue)](https://github.com/codedogQBY/ReadAny/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codedogQBY/ReadAny?style=flat-square&color=yellow)](https://github.com/codedogQBY/ReadAny/stargazers) [![Forks](https://img.shields.io/github/forks/codedogQBY/ReadAny?style=flat-square&color=blue)](https://github.com/codedogQBY/ReadAny/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ codedogQBY/ReadAny 是一个开源的跨平台电子书阅读器，集成了 AI 
 | forks | 54/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

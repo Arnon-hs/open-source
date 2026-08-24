@@ -1,6 +1,6 @@
 # langfuse/langfuse
 
-[![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&color=yellow)](https://github.com/langfuse/langfuse/stargazers) [![Forks](https://img.shields.io/github/forks/langfuse/langfuse?style=flat-square&color=blue)](https://github.com/langfuse/langfuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square&color=yellow)](https://github.com/langfuse/langfuse/stargazers) [![Forks](https://img.shields.io/github/forks/langfuse/langfuse?style=flat-square&color=blue)](https://github.com/langfuse/langfuse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.5k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Database · Observability
+Orchestration · AI/ML · Data · Observability
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ langfuse 是一款开源的 AI 工程平台，提供 LLM 评估、可观测性�
 | forks | 87/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 96/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 82/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

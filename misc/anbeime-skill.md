@@ -1,6 +1,6 @@
 # anbeime/skill
 
-[![Stars](https://img.shields.io/github/stars/anbeime/skill?style=flat-square&color=yellow)](https://github.com/anbeime/skill/stargazers) [![Forks](https://img.shields.io/github/forks/anbeime/skill?style=flat-square&color=blue)](https://github.com/anbeime/skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anbeime/skill?style=flat-square&color=yellow)](https://github.com/anbeime/skill/stargazers) [![Forks](https://img.shields.io/github/forks/anbeime/skill?style=flat-square&color=blue)](https://github.com/anbeime/skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 收录最全、更新最快的技能Skills 商店，涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流等多个领域的 72 个精选技能包。所有技能已打包完成，可直接安装使用！ 该商店中自动抓取了 Github 上的所有的 Skills 项目，并按照分类、更新时间、Star 数量等标签进行整理。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 505 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -139,14 +139,15 @@ anbeime/skill 为企业内部快速构建自动化工作流提供了丰富、即
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # meszmate/zigzag
 
-[![Stars](https://img.shields.io/github/stars/meszmate/zigzag?style=flat-square&color=yellow)](https://github.com/meszmate/zigzag/stargazers) [![Forks](https://img.shields.io/github/forks/meszmate/zigzag?style=flat-square&color=blue)](https://github.com/meszmate/zigzag/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meszmate/zigzag?style=flat-square&color=yellow)](https://github.com/meszmate/zigzag/stargazers) [![Forks](https://img.shields.io/github/forks/meszmate/zigzag?style=flat-square&color=blue)](https://github.com/meszmate/zigzag/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Terminal UI framework for Zig
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ meszmate/zigzag 的生产可用性为 中等（Medium）。虽然它有助于快
 | forks | 34/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

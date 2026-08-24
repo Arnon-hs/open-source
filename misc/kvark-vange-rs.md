@@ -1,6 +1,6 @@
 # kvark/vange-rs
 
-[![Stars](https://img.shields.io/github/stars/kvark/vange-rs?style=flat-square&color=yellow)](https://github.com/kvark/vange-rs/stargazers) [![Forks](https://img.shields.io/github/forks/kvark/vange-rs?style=flat-square&color=blue)](https://github.com/kvark/vange-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kvark/vange-rs?style=flat-square&color=yellow)](https://github.com/kvark/vange-rs/stargazers) [![Forks](https://img.shields.io/github/forks/kvark/vange-rs?style=flat-square&color=blue)](https://github.com/kvark/vange-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Rusty Vangers clone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 483 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ kvark/vange-rs 的生产可用性为中等。它适合用于原型开发或内�
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

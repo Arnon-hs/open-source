@@ -1,6 +1,6 @@
 # sockudo/sockudo
 
-[![Stars](https://img.shields.io/github/stars/sockudo/sockudo?style=flat-square&color=yellow)](https://github.com/sockudo/sockudo/stargazers) [![Forks](https://img.shields.io/github/forks/sockudo/sockudo?style=flat-square&color=blue)](https://github.com/sockudo/sockudo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sockudo/sockudo?style=flat-square&color=yellow)](https://github.com/sockudo/sockudo/stargazers) [![Forks](https://img.shields.io/github/forks/sockudo/sockudo?style=flat-square&color=blue)](https://github.com/sockudo/sockudo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Blazingly fast pusher drop-in replacement written in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 609 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -133,14 +133,15 @@ Sockudo（`sockudo/sockudo`）是一款用 Rust 编写的 “pusher” 替代实
 | forks | 41/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

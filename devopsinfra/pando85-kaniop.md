@@ -1,6 +1,6 @@
 # pando85/kaniop
 
-[![Stars](https://img.shields.io/github/stars/pando85/kaniop?style=flat-square&color=yellow)](https://github.com/pando85/kaniop/stargazers) [![Forks](https://img.shields.io/github/forks/pando85/kaniop?style=flat-square&color=blue)](https://github.com/pando85/kaniop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pando85/kaniop?style=flat-square&color=yellow)](https://github.com/pando85/kaniop/stargazers) [![Forks](https://img.shields.io/github/forks/pando85/kaniop?style=flat-square&color=blue)](https://github.com/pando85/kaniop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes operator for managing Kanidm
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ pando85/kaniop 是基于 Rust 实现的 Kubernetes Operator，用于自动化部
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

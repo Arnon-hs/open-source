@@ -1,6 +1,6 @@
 # afc163/fanyi
 
-[![Stars](https://img.shields.io/github/stars/afc163/fanyi?style=flat-square&color=yellow)](https://github.com/afc163/fanyi/stargazers) [![Forks](https://img.shields.io/github/forks/afc163/fanyi?style=flat-square&color=blue)](https://github.com/afc163/fanyi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/afc163/fanyi?style=flat-square&color=yellow)](https://github.com/afc163/fanyi/stargazers) [![Forks](https://img.shields.io/github/forks/afc163/fanyi?style=flat-square&color=blue)](https://github.com/afc163/fanyi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A 🇨🇳 and 🇺🇸 translator in your command line
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Overall, `afc163/fanyi` is production‑ready for a pilot or limited‑scope dep
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

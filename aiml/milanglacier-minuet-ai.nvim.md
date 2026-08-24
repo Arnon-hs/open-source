@@ -1,6 +1,6 @@
 # milanglacier/minuet-ai.nvim
 
-[![Stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim?style=flat-square&color=yellow)](https://github.com/milanglacier/minuet-ai.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/milanglacier/minuet-ai.nvim?style=flat-square&color=blue)](https://github.com/milanglacier/minuet-ai.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim?style=flat-square&color=yellow)](https://github.com/milanglacier/minuet-ai.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/milanglacier/minuet-ai.nvim?style=flat-square&color=blue)](https://github.com/milanglacier/minuet-ai.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Minuet-AI.nvim 的生产可用性较高，理由如下：
 | forks | 44/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

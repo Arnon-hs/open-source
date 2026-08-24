@@ -1,6 +1,6 @@
 # ax128/AegisGate
 
-[![Stars](https://img.shields.io/github/stars/ax128/AegisGate?style=flat-square&color=yellow)](https://github.com/ax128/AegisGate/stargazers) [![Forks](https://img.shields.io/github/forks/ax128/AegisGate?style=flat-square&color=blue)](https://github.com/ax128/AegisGate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ax128/AegisGate?style=flat-square&color=yellow)](https://github.com/ax128/AegisGate/stargazers) [![Forks](https://img.shields.io/github/forks/ax128/AegisGate?style=flat-square&color=blue)](https://github.com/ax128/AegisGate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source security gateway for LLM APIs — prompt injection detection, PII redaction, dangerous response   sanitization, and audit logging. OpenAI/Claude compatible, MCP & Agent SKILL support. Drop-in proxy for AI coding   agents (Cursor, Claude Code, Codex).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ax128/AegisGate：ax128/AegisGate helps connect AI assistants to real tools and 
 | forks | 25/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

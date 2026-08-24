@@ -1,6 +1,6 @@
 # linnix-os/linnix
 
-[![Stars](https://img.shields.io/github/stars/linnix-os/linnix?style=flat-square&color=yellow)](https://github.com/linnix-os/linnix/stargazers) [![Forks](https://img.shields.io/github/forks/linnix-os/linnix?style=flat-square&color=blue)](https://github.com/linnix-os/linnix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linnix-os/linnix?style=flat-square&color=yellow)](https://github.com/linnix-os/linnix/stargazers) [![Forks](https://img.shields.io/github/forks/linnix-os/linnix?style=flat-square&color=blue)](https://github.com/linnix-os/linnix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF-powered Linux observability with AI incident detection. AGPL-3.0 licensed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 249 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ linnix-os/linnix 的生产可用性为中等，适合用于内部工作流程或
 | forks | 30/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

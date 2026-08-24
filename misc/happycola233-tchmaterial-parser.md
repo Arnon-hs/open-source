@@ -1,6 +1,6 @@
 # happycola233/tchMaterial-parser
 
-[![Stars](https://img.shields.io/github/stars/happycola233/tchMaterial-parser?style=flat-square&color=yellow)](https://github.com/happycola233/tchMaterial-parser/stargazers) [![Forks](https://img.shields.io/github/forks/happycola233/tchMaterial-parser?style=flat-square&color=blue)](https://github.com/happycola233/tchMaterial-parser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/happycola233/tchMaterial-parser?style=flat-square&color=yellow)](https://github.com/happycola233/tchMaterial-parser/stargazers) [![Forks](https://img.shields.io/github/forks/happycola233/tchMaterial-parser?style=flat-square&color=blue)](https://github.com/happycola233/tchMaterial-parser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 736 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ happycola233/tchMaterial-parser 的生产可用性评分为高（High），主�
 | forks | 72/100 |
 | stars | 80/100 |
 | topics | 13/100 |
-| outlook | 74/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 78/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

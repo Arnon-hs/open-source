@@ -1,6 +1,6 @@
 # susomejias/rembric
 
-[![Stars](https://img.shields.io/github/stars/susomejias/rembric?style=flat-square&color=yellow)](https://github.com/susomejias/rembric/stargazers) [![Forks](https://img.shields.io/github/forks/susomejias/rembric?style=flat-square&color=blue)](https://github.com/susomejias/rembric/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/susomejias/rembric?style=flat-square&color=yellow)](https://github.com/susomejias/rembric/stargazers) [![Forks](https://img.shields.io/github/forks/susomejias/rembric?style=flat-square&color=blue)](https://github.com/susomejias/rembric/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for AI coding agents — self-hosted, MCP-native, append-only. One Docker image, one SQLite file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ susomejias/rembric的生产可用性较高，尤其是考虑到最近的活动�
 | forks | 8/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

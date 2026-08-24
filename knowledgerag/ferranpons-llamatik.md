@@ -1,6 +1,6 @@
 # ferranpons/Llamatik
 
-[![Stars](https://img.shields.io/github/stars/ferranpons/Llamatik?style=flat-square&color=yellow)](https://github.com/ferranpons/Llamatik/stargazers) [![Forks](https://img.shields.io/github/forks/ferranpons/Llamatik?style=flat-square&color=blue)](https://github.com/ferranpons/Llamatik/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferranpons/Llamatik?style=flat-square&color=yellow)](https://github.com/ferranpons/Llamatik/stargazers) [![Forks](https://img.shields.io/github/forks/ferranpons/Llamatik?style=flat-square&color=blue)](https://github.com/ferranpons/Llamatik/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > True on-device AI for Kotlin Multiplatform (Android, iOS, Desktop, JVM, WASM). LLM, Speech-to-Text and Image Generation — powered by llama.cpp, whisper.cpp and stable-diffusion.cpp.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database · Mobile
+Knowledge/RAG · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ ferranpons/Llamatik 是一套在 **Kotlin Multiplatform**（Android、iOS、Desk
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

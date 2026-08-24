@@ -1,6 +1,6 @@
 # epicweb-dev/react-hooks
 
-[![Stars](https://img.shields.io/github/stars/epicweb-dev/react-hooks?style=flat-square&color=yellow)](https://github.com/epicweb-dev/react-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/epicweb-dev/react-hooks?style=flat-square&color=blue)](https://github.com/epicweb-dev/react-hooks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epicweb-dev/react-hooks?style=flat-square&color=yellow)](https://github.com/epicweb-dev/react-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/epicweb-dev/react-hooks?style=flat-square&color=blue)](https://github.com/epicweb-dev/react-hooks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Learn React Hooks! 🎣 ⚛
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Education
+Frontend
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ epicweb-dev/react-hooks 是一个开源项目，帮助开发者学习 React Hook
 | forks | 82/100 |
 | stars | 73/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

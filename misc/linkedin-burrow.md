@@ -1,6 +1,6 @@
 # linkedin/Burrow
 
-[![Stars](https://img.shields.io/github/stars/linkedin/Burrow?style=flat-square&color=yellow)](https://github.com/linkedin/Burrow/stargazers) [![Forks](https://img.shields.io/github/forks/linkedin/Burrow?style=flat-square&color=blue)](https://github.com/linkedin/Burrow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkedin/Burrow?style=flat-square&color=yellow)](https://github.com/linkedin/Burrow/stargazers) [![Forks](https://img.shields.io/github/forks/linkedin/Burrow?style=flat-square&color=blue)](https://github.com/linkedin/Burrow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Kafka Consumer Lag Checking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 818 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ linkedin/Burrow：linkedin/Burrow may be useful when its README and activity mat
 | forks | 73/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

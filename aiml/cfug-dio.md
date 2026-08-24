@@ -1,6 +1,6 @@
 # cfug/dio
 
-[![Stars](https://img.shields.io/github/stars/cfug/dio?style=flat-square&color=yellow)](https://github.com/cfug/dio/stargazers) [![Forks](https://img.shields.io/github/forks/cfug/dio?style=flat-square&color=blue)](https://github.com/cfug/dio/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cfug/dio?style=flat-square&color=yellow)](https://github.com/cfug/dio/stargazers) [![Forks](https://img.shields.io/github/forks/cfug/dio?style=flat-square&color=blue)](https://github.com/cfug/dio/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data · Database · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ cfug/dio 的生产可用性较高，原因如下：
 | forks | 80/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lobehub/lobe-icons
 
-[![Stars](https://img.shields.io/github/stars/lobehub/lobe-icons?style=flat-square&color=yellow)](https://github.com/lobehub/lobe-icons/stargazers) [![Forks](https://img.shields.io/github/forks/lobehub/lobe-icons?style=flat-square&color=blue)](https://github.com/lobehub/lobe-icons/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lobehub/lobe-icons?style=flat-square&color=yellow)](https://github.com/lobehub/lobe-icons/stargazers) [![Forks](https://img.shields.io/github/forks/lobehub/lobe-icons?style=flat-square&color=blue)](https://github.com/lobehub/lobe-icons/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Frontend · Mobile · Design
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ lobehub/lobe-icons 的生产可用性较高，理由如下：
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

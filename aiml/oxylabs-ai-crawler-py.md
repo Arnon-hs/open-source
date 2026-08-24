@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ oxylabs/ai-crawler-py：oxylabs/ai-crawler-py helps add AI capability without st
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

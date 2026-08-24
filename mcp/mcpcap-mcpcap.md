@@ -1,6 +1,6 @@
 # mcpcap/mcpcap
 
-[![Stars](https://img.shields.io/github/stars/mcpcap/mcpcap?style=flat-square&color=yellow)](https://github.com/mcpcap/mcpcap/stargazers) [![Forks](https://img.shields.io/github/forks/mcpcap/mcpcap?style=flat-square&color=blue)](https://github.com/mcpcap/mcpcap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcpcap/mcpcap?style=flat-square&color=yellow)](https://github.com/mcpcap/mcpcap/stargazers) [![Forks](https://img.shields.io/github/forks/mcpcap/mcpcap?style=flat-square&color=blue)](https://github.com/mcpcap/mcpcap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Network analysis for the AI age
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ mcpcap（全称 *Model Context Protocol Capture*）是一个面向 AI 时代的�
 | forks | 27/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

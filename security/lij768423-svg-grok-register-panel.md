@@ -1,6 +1,6 @@
 # lij768423-svg/grok-register-panel
 
-[![Stars](https://img.shields.io/github/stars/lij768423-svg/grok-register-panel?style=flat-square&color=yellow)](https://github.com/lij768423-svg/grok-register-panel/stargazers) [![Forks](https://img.shields.io/github/forks/lij768423-svg/grok-register-panel?style=flat-square&color=blue)](https://github.com/lij768423-svg/grok-register-panel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lij768423-svg/grok-register-panel?style=flat-square&color=yellow)](https://github.com/lij768423-svg/grok-register-panel/stargazers) [![Forks](https://img.shields.io/github/forks/lij768423-svg/grok-register-panel?style=flat-square&color=blue)](https://github.com/lij768423-svg/grok-register-panel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 727 |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ lij768423-svg/grok-register-panel 是一个开源项目，提供批量注册功�
 | forks | 59/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

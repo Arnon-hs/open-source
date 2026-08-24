@@ -1,6 +1,6 @@
 # wise-old-man/wise-old-man
 
-[![Stars](https://img.shields.io/github/stars/wise-old-man/wise-old-man?style=flat-square&color=yellow)](https://github.com/wise-old-man/wise-old-man/stargazers) [![Forks](https://img.shields.io/github/forks/wise-old-man/wise-old-man?style=flat-square&color=blue)](https://github.com/wise-old-man/wise-old-man/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wise-old-man/wise-old-man?style=flat-square&color=yellow)](https://github.com/wise-old-man/wise-old-man/stargazers) [![Forks](https://img.shields.io/github/forks/wise-old-man/wise-old-man?style=flat-square&color=blue)](https://github.com/wise-old-man/wise-old-man/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source Old School Runescape progress tracker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ wise-old-man/wise-old-man 是一个开源项目，旨在帮助开发者快速构
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # fossasia/eventyay-hubspot
 
-[![Stars](https://img.shields.io/github/stars/fossasia/eventyay-hubspot?style=flat-square&color=yellow)](https://github.com/fossasia/eventyay-hubspot/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/eventyay-hubspot?style=flat-square&color=blue)](https://github.com/fossasia/eventyay-hubspot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fossasia/eventyay-hubspot?style=flat-square&color=yellow)](https://github.com/fossasia/eventyay-hubspot/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/eventyay-hubspot?style=flat-square&color=blue)](https://github.com/fossasia/eventyay-hubspot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > hubspot integration for eventyay
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -144,14 +144,15 @@ fossasia/eventyay‑hubspot is an open‑source Python package that adds HubSpot
 | forks | 15/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

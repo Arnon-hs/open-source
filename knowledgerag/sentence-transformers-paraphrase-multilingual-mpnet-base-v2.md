@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
 | 📈 **Score** | 38/100 |
-| 🗓️ **Last push** | 2025-08-19 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -109,6 +109,7 @@ sentence-transformers/paraphrase-multilingual-mpnet-base-v2 是一个流行的�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

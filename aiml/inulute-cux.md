@@ -1,6 +1,6 @@
 # inulute/cux
 
-[![Stars](https://img.shields.io/github/stars/inulute/cux?style=flat-square&color=yellow)](https://github.com/inulute/cux/stargazers) [![Forks](https://img.shields.io/github/forks/inulute/cux?style=flat-square&color=blue)](https://github.com/inulute/cux/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inulute/cux?style=flat-square&color=yellow)](https://github.com/inulute/cux/stargazers) [![Forks](https://img.shields.io/github/forks/inulute/cux?style=flat-square&color=blue)](https://github.com/inulute/cux/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ inulute/cux 是一款 Go 编写的开源工具，能够将多个 Claude Code 账
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

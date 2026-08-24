@@ -1,6 +1,6 @@
 # charmbracelet/crush
 
-[![Stars](https://img.shields.io/github/stars/charmbracelet/crush?style=flat-square&color=yellow)](https://github.com/charmbracelet/crush/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/crush?style=flat-square&color=blue)](https://github.com/charmbracelet/crush/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charmbracelet/crush?style=flat-square&color=yellow)](https://github.com/charmbracelet/crush/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/crush?style=flat-square&color=blue)](https://github.com/charmbracelet/crush/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Glamourous agentic coding for all 💘
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.3k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ charmbracelet/crush 在生产环境中具有较高的可用性，主要原因是
 | forks | 83/100 |
 | stars | 94/100 |
 | topics | 50/100 |
-| outlook | 84/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

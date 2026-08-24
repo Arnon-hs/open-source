@@ -1,6 +1,6 @@
 # kyren/gc-arena
 
-[![Stars](https://img.shields.io/github/stars/kyren/gc-arena?style=flat-square&color=yellow)](https://github.com/kyren/gc-arena/stargazers) [![Forks](https://img.shields.io/github/forks/kyren/gc-arena?style=flat-square&color=blue)](https://github.com/kyren/gc-arena/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kyren/gc-arena?style=flat-square&color=yellow)](https://github.com/kyren/gc-arena/stargazers) [![Forks](https://img.shields.io/github/forks/kyren/gc-arena?style=flat-square&color=blue)](https://github.com/kyren/gc-arena/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Incremental garbage collection from safe Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 870 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ kyren/gc-arena 的生产可用性为中等。它可以用于内部开发、原�
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

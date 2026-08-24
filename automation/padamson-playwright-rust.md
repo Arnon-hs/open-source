@@ -1,6 +1,6 @@
 # padamson/playwright-rust
 
-[![Stars](https://img.shields.io/github/stars/padamson/playwright-rust?style=flat-square&color=yellow)](https://github.com/padamson/playwright-rust/stargazers) [![Forks](https://img.shields.io/github/forks/padamson/playwright-rust?style=flat-square&color=blue)](https://github.com/padamson/playwright-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/padamson/playwright-rust?style=flat-square&color=yellow)](https://github.com/padamson/playwright-rust/stargazers) [![Forks](https://img.shields.io/github/forks/padamson/playwright-rust?style=flat-square&color=blue)](https://github.com/padamson/playwright-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Rust language bindings for Microsoft Playwright
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ padamson/playwright‑rust 为 Microsoft Playwright 提供了 Rust 语言绑定�
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

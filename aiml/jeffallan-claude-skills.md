@@ -1,6 +1,6 @@
 # Jeffallan/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/Jeffallan/claude-skills?style=flat-square&color=yellow)](https://github.com/Jeffallan/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Jeffallan/claude-skills?style=flat-square&color=blue)](https://github.com/Jeffallan/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jeffallan/claude-skills?style=flat-square&color=yellow)](https://github.com/Jeffallan/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Jeffallan/claude-skills?style=flat-square&color=blue)](https://github.com/Jeffallan/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.9k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Jeffallan/claude-skills 的价值在于可以帮助开发者快速添加 AI 能�
 | forks | 75/100 |
 | stars | 86/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 83/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

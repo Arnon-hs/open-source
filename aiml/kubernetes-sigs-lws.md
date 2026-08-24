@@ -1,6 +1,6 @@
 # kubernetes-sigs/lws
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/lws?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/lws/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/lws?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/lws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/lws?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/lws/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/lws?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/lws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Kubernetes‑sigs / lws（LeaderWorkerSet）提供了一套 API，能够把�
 | forks | 55/100 |
 | stars | 61/100 |
 | topics | 25/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

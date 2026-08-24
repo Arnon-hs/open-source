@@ -1,6 +1,6 @@
 # briqt/agent-usage
 
-[![Stars](https://img.shields.io/github/stars/briqt/agent-usage?style=flat-square&color=yellow)](https://github.com/briqt/agent-usage/stargazers) [![Forks](https://img.shields.io/github/forks/briqt/agent-usage?style=flat-square&color=blue)](https://github.com/briqt/agent-usage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/briqt/agent-usage?style=flat-square&color=yellow)](https://github.com/briqt/agent-usage/stargazers) [![Forks](https://img.shields.io/github/forks/briqt/agent-usage?style=flat-square&color=blue)](https://github.com/briqt/agent-usage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight cross-platform AI coding agent usage & cost tracker. Single binary, SQLite, web dashboard. | 轻量跨平台 AI 编程工具用量与费用追踪器，单二进制、SQLite 存储、Web 仪表板。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ briqt/agent-usage 是一款轻量级、跨平台的 AI 编程工具使用量与�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

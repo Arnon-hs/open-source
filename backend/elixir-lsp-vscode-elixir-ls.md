@@ -1,6 +1,6 @@
 # elixir-lsp/vscode-elixir-ls
 
-[![Stars](https://img.shields.io/github/stars/elixir-lsp/vscode-elixir-ls?style=flat-square&color=yellow)](https://github.com/elixir-lsp/vscode-elixir-ls/stargazers) [![Forks](https://img.shields.io/github/forks/elixir-lsp/vscode-elixir-ls?style=flat-square&color=blue)](https://github.com/elixir-lsp/vscode-elixir-ls/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elixir-lsp/vscode-elixir-ls?style=flat-square&color=yellow)](https://github.com/elixir-lsp/vscode-elixir-ls/stargazers) [![Forks](https://img.shields.io/github/forks/elixir-lsp/vscode-elixir-ls?style=flat-square&color=blue)](https://github.com/elixir-lsp/vscode-elixir-ls/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Elixir language support and debugger for VS Code, powered by ElixirLS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ While elixir-lsp/vscode-elixir-ls has a medium level of production readiness, it
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # doctrine/mongodb-odm
 
-[![Stars](https://img.shields.io/github/stars/doctrine/mongodb-odm?style=flat-square&color=yellow)](https://github.com/doctrine/mongodb-odm/stargazers) [![Forks](https://img.shields.io/github/forks/doctrine/mongodb-odm?style=flat-square&color=blue)](https://github.com/doctrine/mongodb-odm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doctrine/mongodb-odm?style=flat-square&color=yellow)](https://github.com/doctrine/mongodb-odm/stargazers) [![Forks](https://img.shields.io/github/forks/doctrine/mongodb-odm?style=flat-square&color=blue)](https://github.com/doctrine/mongodb-odm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Official PHP MongoDB ORM/ODM
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 512 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -138,14 +138,15 @@ doctrine/mongodb-odm 是 Doctrine 官方推出的 PHP MongoDB 对象关系映射
 | forks | 68/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

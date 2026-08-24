@@ -1,6 +1,6 @@
 # pycontribs/mk
 
-[![Stars](https://img.shields.io/github/stars/pycontribs/mk?style=flat-square&color=yellow)](https://github.com/pycontribs/mk/stargazers) [![Forks](https://img.shields.io/github/forks/pycontribs/mk?style=flat-square&color=blue)](https://github.com/pycontribs/mk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pycontribs/mk?style=flat-square&color=yellow)](https://github.com/pycontribs/mk/stargazers) [![Forks](https://img.shields.io/github/forks/pycontribs/mk?style=flat-square&color=blue)](https://github.com/pycontribs/mk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ pycontribs/mk 帮助工程师节省时间，在日常开发和审查循环中提
 | forks | 27/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

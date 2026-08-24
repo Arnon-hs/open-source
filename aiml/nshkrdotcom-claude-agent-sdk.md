@@ -1,6 +1,6 @@
 # nshkrdotcom/claude_agent_sdk
 
-[![Stars](https://img.shields.io/github/stars/nshkrdotcom/claude_agent_sdk?style=flat-square&color=yellow)](https://github.com/nshkrdotcom/claude_agent_sdk/stargazers) [![Forks](https://img.shields.io/github/forks/nshkrdotcom/claude_agent_sdk?style=flat-square&color=blue)](https://github.com/nshkrdotcom/claude_agent_sdk/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nshkrdotcom/claude_agent_sdk?style=flat-square&color=yellow)](https://github.com/nshkrdotcom/claude_agent_sdk/stargazers) [![Forks](https://img.shields.io/github/forks/nshkrdotcom/claude_agent_sdk?style=flat-square&color=blue)](https://github.com/nshkrdotcom/claude_agent_sdk/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An Elixir SDK for Claude Code - provides programmatic access to Claude Code CLI with streaming message processing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Claude Agent SDK 在生产环境中有很高的可用性，因为它有活跃的
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # TimefoldAI/timefold-solver
 
-[![Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=flat-square&color=yellow)](https://github.com/TimefoldAI/timefold-solver/stargazers) [![Forks](https://img.shields.io/github/forks/TimefoldAI/timefold-solver?style=flat-square&color=blue)](https://github.com/TimefoldAI/timefold-solver/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=flat-square&color=yellow)](https://github.com/TimefoldAI/timefold-solver/stargazers) [![Forks](https://img.shields.io/github/forks/TimefoldAI/timefold-solver?style=flat-square&color=blue)](https://github.com/TimefoldAI/timefold-solver/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ TimefoldAI/timefold-solver 的生产可用性很高，因为它有最近的活�
 | forks | 59/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

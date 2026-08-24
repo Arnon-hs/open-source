@@ -1,6 +1,6 @@
 # microsoft/vscode-anycode
 
-[![Stars](https://img.shields.io/github/stars/microsoft/vscode-anycode?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-anycode/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-anycode?style=flat-square&color=blue)](https://github.com/microsoft/vscode-anycode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/vscode-anycode?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-anycode/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-anycode?style=flat-square&color=blue)](https://github.com/microsoft/vscode-anycode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ The project sits at a **medium** readiness level: it is actively maintained and 
 | forks | 41/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 66/100 |
+| production | 40/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

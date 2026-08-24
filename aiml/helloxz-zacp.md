@@ -1,6 +1,6 @@
 # helloxz/zacp
 
-[![Stars](https://img.shields.io/github/stars/helloxz/zacp?style=flat-square&color=yellow)](https://github.com/helloxz/zacp/stargazers) [![Forks](https://img.shields.io/github/forks/helloxz/zacp?style=flat-square&color=blue)](https://github.com/helloxz/zacp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helloxz/zacp?style=flat-square&color=yellow)](https://github.com/helloxz/zacp/stargazers) [![Forks](https://img.shields.io/github/forks/helloxz/zacp?style=flat-square&color=blue)](https://github.com/helloxz/zacp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 ACP 协议的多 Agent Web 网关，让 CLI Agent 也能在浏览器中使用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ helloxz/zacp 的生产可用性为中等（Medium），适合用于快速 protot
 | forks | 15/100 |
 | stars | 37/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

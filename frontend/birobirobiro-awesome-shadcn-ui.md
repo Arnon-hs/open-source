@@ -1,6 +1,6 @@
 # birobirobiro/awesome-shadcn-ui
 
-[![Stars](https://img.shields.io/github/stars/birobirobiro/awesome-shadcn-ui?style=flat-square&color=yellow)](https://github.com/birobirobiro/awesome-shadcn-ui/stargazers) [![Forks](https://img.shields.io/github/forks/birobirobiro/awesome-shadcn-ui?style=flat-square&color=blue)](https://github.com/birobirobiro/awesome-shadcn-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/birobirobiro/awesome-shadcn-ui?style=flat-square&color=yellow)](https://github.com/birobirobiro/awesome-shadcn-ui/stargazers) [![Forks](https://img.shields.io/github/forks/birobirobiro/awesome-shadcn-ui?style=flat-square&color=blue)](https://github.com/birobirobiro/awesome-shadcn-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome things related to shadcn/ui.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ birobirobiro/awesome-shadcn-ui 是一个精心收集的列表，关联到 shadcn
 | forks | 77/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 84/100 |
+| recency | 60/100 |
 | adoption | 88/100 |
-| production | 82/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

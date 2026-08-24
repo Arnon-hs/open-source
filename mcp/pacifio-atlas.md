@@ -1,6 +1,6 @@
 # pacifio/atlas
 
-[![Stars](https://img.shields.io/github/stars/pacifio/atlas?style=flat-square&color=yellow)](https://github.com/pacifio/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/pacifio/atlas?style=flat-square&color=blue)](https://github.com/pacifio/atlas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pacifio/atlas?style=flat-square&color=yellow)](https://github.com/pacifio/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/pacifio/atlas?style=flat-square&color=blue)](https://github.com/pacifio/atlas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Source control for agents, use multiple coding agents, track what agents changed not humans changed and query them in one place
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ pacifio/atlas 的生产可用性很高，主要原因是：
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

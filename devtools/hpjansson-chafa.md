@@ -1,6 +1,6 @@
 # hpjansson/chafa
 
-[![Stars](https://img.shields.io/github/stars/hpjansson/chafa?style=flat-square&color=yellow)](https://github.com/hpjansson/chafa/stargazers) [![Forks](https://img.shields.io/github/forks/hpjansson/chafa?style=flat-square&color=blue)](https://github.com/hpjansson/chafa/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hpjansson/chafa?style=flat-square&color=yellow)](https://github.com/hpjansson/chafa/stargazers) [![Forks](https://img.shields.io/github/forks/hpjansson/chafa?style=flat-square&color=blue)](https://github.com/hpjansson/chafa/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 📺🗿 Terminal graphics for the 21st century.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | C |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ hpjansson/chafa 是一个开源项目，旨在为开发人员提供终端图形�
 | forks | 52/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

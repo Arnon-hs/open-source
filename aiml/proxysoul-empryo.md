@@ -1,6 +1,6 @@
 # proxysoul/Empryo
 
-[![Stars](https://img.shields.io/github/stars/proxysoul/Empryo?style=flat-square&color=yellow)](https://github.com/proxysoul/Empryo/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/Empryo?style=flat-square&color=blue)](https://github.com/proxysoul/Empryo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proxysoul/Empryo?style=flat-square&color=yellow)](https://github.com/proxysoul/Empryo/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/Empryo?style=flat-square&color=blue)](https://github.com/proxysoul/Empryo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Empryo issue tracker + SoulForge (v2) archive — Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 922 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Empryo 是一款基于 AST 的 AI 编码代理，能够直接对代码符号进�
 | forks | 46/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

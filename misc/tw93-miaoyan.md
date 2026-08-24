@@ -1,6 +1,6 @@
 # tw93/MiaoYan
 
-[![Stars](https://img.shields.io/github/stars/tw93/MiaoYan?style=flat-square&color=yellow)](https://github.com/tw93/MiaoYan/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/MiaoYan?style=flat-square&color=blue)](https://github.com/tw93/MiaoYan/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tw93/MiaoYan?style=flat-square&color=yellow)](https://github.com/tw93/MiaoYan/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/MiaoYan?style=flat-square&color=blue)](https://github.com/tw93/MiaoYan/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ⛷ Lightweight Markdown app to help you write great sentences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 499 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ tw93/MiaoYan 是一款轻量级的 Markdown 编辑器，专注于帮助用户快
 | forks | 67/100 |
 | stars | 84/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

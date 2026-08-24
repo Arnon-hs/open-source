@@ -1,6 +1,6 @@
 # ROCm/FastFlowLM
 
-[![Stars](https://img.shields.io/github/stars/ROCm/FastFlowLM?style=flat-square&color=yellow)](https://github.com/ROCm/FastFlowLM/stargazers) [![Forks](https://img.shields.io/github/forks/ROCm/FastFlowLM?style=flat-square&color=blue)](https://github.com/ROCm/FastFlowLM/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ROCm/FastFlowLM?style=flat-square&color=yellow)](https://github.com/ROCm/FastFlowLM/stargazers) [![Forks](https://img.shields.io/github/forks/ROCm/FastFlowLM?style=flat-square&color=blue)](https://github.com/ROCm/FastFlowLM/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ ROCm/FastFlowLM 的价值在于，它可以帮助开发者快速添加 AI 能力
 | forks | 53/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

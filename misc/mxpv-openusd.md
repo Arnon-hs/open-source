@@ -1,6 +1,6 @@
 # mxpv/openusd
 
-[![Stars](https://img.shields.io/github/stars/mxpv/openusd?style=flat-square&color=yellow)](https://github.com/mxpv/openusd/stargazers) [![Forks](https://img.shields.io/github/forks/mxpv/openusd?style=flat-square&color=blue)](https://github.com/mxpv/openusd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mxpv/openusd?style=flat-square&color=yellow)](https://github.com/mxpv/openusd/stargazers) [![Forks](https://img.shields.io/github/forks/mxpv/openusd?style=flat-square&color=blue)](https://github.com/mxpv/openusd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Native Rust USD library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ mxpv/openusd 是一个用 Rust 编写的原生 USD（Universal Scene Description
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

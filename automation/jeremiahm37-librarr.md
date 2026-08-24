@@ -1,6 +1,6 @@
 # JeremiahM37/librarr
 
-[![Stars](https://img.shields.io/github/stars/JeremiahM37/librarr?style=flat-square&color=yellow)](https://github.com/JeremiahM37/librarr/stargazers) [![Forks](https://img.shields.io/github/forks/JeremiahM37/librarr?style=flat-square&color=blue)](https://github.com/JeremiahM37/librarr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JeremiahM37/librarr?style=flat-square&color=yellow)](https://github.com/JeremiahM37/librarr/stargazers) [![Forks](https://img.shields.io/github/forks/JeremiahM37/librarr?style=flat-square&color=blue)](https://github.com/JeremiahM37/librarr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted book, audiobook, and manga search + download manager. 13 search sources, Torznab API, OPDS feed, request workflow, 4 download clients. The missing *arr for books.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools · DevOps/Infra
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ JeremiahM37/librarr 是一款自托管的书籍、音频书和漫画搜索与下
 | forks | 36/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

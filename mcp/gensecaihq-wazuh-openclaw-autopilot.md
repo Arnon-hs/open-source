@@ -1,6 +1,6 @@
 # gensecaihq/Wazuh-Openclaw-Autopilot
 
-[![Stars](https://img.shields.io/github/stars/gensecaihq/Wazuh-Openclaw-Autopilot?style=flat-square&color=yellow)](https://github.com/gensecaihq/Wazuh-Openclaw-Autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/Wazuh-Openclaw-Autopilot?style=flat-square&color=blue)](https://github.com/gensecaihq/Wazuh-Openclaw-Autopilot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gensecaihq/Wazuh-Openclaw-Autopilot?style=flat-square&color=yellow)](https://github.com/gensecaihq/Wazuh-Openclaw-Autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/Wazuh-Openclaw-Autopilot?style=flat-square&color=blue)](https://github.com/gensecaihq/Wazuh-Openclaw-Autopilot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous SOC layer for Wazuh using OpenClaw agents with MCP . Auto-triage alerts, correlate incidents,           generate response plans with human-in-the-loop approval. Evidence packs, Prometheus metrics, Slack       integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ gensecaihq/Wazuh-Openclaw-Autopilot 为 Wazuh 提供了一个基于 OpenClaw 代
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ClawLink-HQ/clawlink
 
-[![Stars](https://img.shields.io/github/stars/ClawLink-HQ/clawlink?style=flat-square&color=yellow)](https://github.com/ClawLink-HQ/clawlink/stargazers) [![Forks](https://img.shields.io/github/forks/ClawLink-HQ/clawlink?style=flat-square&color=blue)](https://github.com/ClawLink-HQ/clawlink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClawLink-HQ/clawlink?style=flat-square&color=yellow)](https://github.com/ClawLink-HQ/clawlink/stargazers) [![Forks](https://img.shields.io/github/forks/ClawLink-HQ/clawlink?style=flat-square&color=blue)](https://github.com/ClawLink-HQ/clawlink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > OpenClaw and Hermes integrations with one-click OAuth for Gmail, GitHub, Slack, Notion, Shopify, Stripe, and 100+ apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · DevTools · Security
+Payments · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ClawLink-HQ/clawlink：ClawLink-HQ/clawlink helps integrate monetization, billin
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

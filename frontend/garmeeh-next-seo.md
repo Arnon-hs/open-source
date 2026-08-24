@@ -1,6 +1,6 @@
 # garmeeh/next-seo
 
-[![Stars](https://img.shields.io/github/stars/garmeeh/next-seo?style=flat-square&color=yellow)](https://github.com/garmeeh/next-seo/stargazers) [![Forks](https://img.shields.io/github/forks/garmeeh/next-seo?style=flat-square&color=blue)](https://github.com/garmeeh/next-seo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/garmeeh/next-seo?style=flat-square&color=yellow)](https://github.com/garmeeh/next-seo/stargazers) [![Forks](https://img.shields.io/github/forks/garmeeh/next-seo?style=flat-square&color=blue)](https://github.com/garmeeh/next-seo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 453 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Next SEO 的生产可用性较高，主要原因是：
 | forks | 66/100 |
 | stars | 84/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

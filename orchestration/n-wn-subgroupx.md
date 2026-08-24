@@ -1,6 +1,6 @@
 # n-WN/SubgroupX
 
-[![Stars](https://img.shields.io/github/stars/n-WN/SubgroupX?style=flat-square&color=yellow)](https://github.com/n-WN/SubgroupX/stargazers) [![Forks](https://img.shields.io/github/forks/n-WN/SubgroupX?style=flat-square&color=blue)](https://github.com/n-WN/SubgroupX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n-WN/SubgroupX?style=flat-square&color=yellow)](https://github.com/n-WN/SubgroupX/stargazers) [![Forks](https://img.shields.io/github/forks/n-WN/SubgroupX?style=flat-square&color=blue)](https://github.com/n-WN/SubgroupX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > oiia — hosted agent sessions that execute wherever you point them: a cloud sandbox, an SSH host, or a machine with no public IP. Multi-agent, durable across reloads, installable as a PWA. Built by SubgroupX.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools · Marketing
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ n-WN/SubgroupX 的生产可用性被评估为中等（Medium）。它适合用�
 | forks | 27/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

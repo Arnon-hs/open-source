@@ -1,6 +1,6 @@
 # binbinao/document-superpowers
 
-[![Stars](https://img.shields.io/github/stars/binbinao/document-superpowers?style=flat-square&color=yellow)](https://github.com/binbinao/document-superpowers/stargazers) [![Forks](https://img.shields.io/github/forks/binbinao/document-superpowers?style=flat-square&color=blue)](https://github.com/binbinao/document-superpowers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binbinao/document-superpowers?style=flat-square&color=yellow)](https://github.com/binbinao/document-superpowers/stargazers) [![Forks](https://img.shields.io/github/forks/binbinao/document-superpowers?style=flat-square&color=blue)](https://github.com/binbinao/document-superpowers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📝 Document writing skills for AI agents (Claude Code / Cursor / CodeBuddy) — 4-stage workflow: Brainstorm → Plan → Execute → Review. Inspired by obra/superpowers. GitHub 44★.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database
+Automation
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ binbinao/document-superpowers 的主要价值在于帮助减少工作流程中�
 | forks | 28/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 45/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 65/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

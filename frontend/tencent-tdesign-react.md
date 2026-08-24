@@ -1,6 +1,6 @@
 # Tencent/tdesign-react
 
-[![Stars](https://img.shields.io/github/stars/Tencent/tdesign-react?style=flat-square&color=yellow)](https://github.com/Tencent/tdesign-react/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/tdesign-react?style=flat-square&color=blue)](https://github.com/Tencent/tdesign-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/tdesign-react?style=flat-square&color=yellow)](https://github.com/Tencent/tdesign-react/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/tdesign-react?style=flat-square&color=blue)](https://github.com/Tencent/tdesign-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A React UI components lib for TDesign.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 961 |
 | 🍴 **Forks** | 372 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Design
+Frontend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Tencent/tdesign-react 是一个开源的 React UI 组件库，专为 TDesign 设
 | forks | 64/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

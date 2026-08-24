@@ -1,6 +1,6 @@
 # st-tech/ppf-contact-solver
 
-[![Stars](https://img.shields.io/github/stars/st-tech/ppf-contact-solver?style=flat-square&color=yellow)](https://github.com/st-tech/ppf-contact-solver/stargazers) [![Forks](https://img.shields.io/github/forks/st-tech/ppf-contact-solver?style=flat-square&color=blue)](https://github.com/st-tech/ppf-contact-solver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/st-tech/ppf-contact-solver?style=flat-square&color=yellow)](https://github.com/st-tech/ppf-contact-solver/stargazers) [![Forks](https://img.shields.io/github/forks/st-tech/ppf-contact-solver?style=flat-square&color=blue)](https://github.com/st-tech/ppf-contact-solver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A contact solver for physics-based simulations involving 👚 shells, 🪵 solids, 🪢 rods, 🧱 rigid bodies and ⏳ sand.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ st-tech/ppf-contact-solver 的生产可用性评为高。它具有活跃的社�
 | forks | 63/100 |
 | stars | 78/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

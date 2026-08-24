@@ -1,6 +1,6 @@
 # kartikk221/hyper-express
 
-[![Stars](https://img.shields.io/github/stars/kartikk221/hyper-express?style=flat-square&color=yellow)](https://github.com/kartikk221/hyper-express/stargazers) [![Forks](https://img.shields.io/github/forks/kartikk221/hyper-express?style=flat-square&color=blue)](https://github.com/kartikk221/hyper-express/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kartikk221/hyper-express?style=flat-square&color=yellow)](https://github.com/kartikk221/hyper-express/stargazers) [![Forks](https://img.shields.io/github/forks/kartikk221/hyper-express?style=flat-square&color=blue)](https://github.com/kartikk221/hyper-express/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ kartikk221/hyper-express 是一个基于 uWebsockets.js 的高性能 Node.js Web
 | forks | 51/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

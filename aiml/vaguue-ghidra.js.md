@@ -1,6 +1,6 @@
 # vaguue/Ghidra.js
 
-[![Stars](https://img.shields.io/github/stars/vaguue/Ghidra.js?style=flat-square&color=yellow)](https://github.com/vaguue/Ghidra.js/stargazers) [![Forks](https://img.shields.io/github/forks/vaguue/Ghidra.js?style=flat-square&color=blue)](https://github.com/vaguue/Ghidra.js/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vaguue/Ghidra.js?style=flat-square&color=yellow)](https://github.com/vaguue/Ghidra.js/stargazers) [![Forks](https://img.shields.io/github/forks/vaguue/Ghidra.js?style=flat-square&color=blue)](https://github.com/vaguue/Ghidra.js/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript bindings for Ghidra with AI agent support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ vaguue/Ghidra.js 的生产可用性为中等（Medium），适合用于原型开
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

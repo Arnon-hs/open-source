@@ -1,6 +1,6 @@
 # Commit-Boost/commit-boost-client
 
-[![Stars](https://img.shields.io/github/stars/Commit-Boost/commit-boost-client?style=flat-square&color=yellow)](https://github.com/Commit-Boost/commit-boost-client/stargazers) [![Forks](https://img.shields.io/github/forks/Commit-Boost/commit-boost-client?style=flat-square&color=blue)](https://github.com/Commit-Boost/commit-boost-client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Commit-Boost/commit-boost-client?style=flat-square&color=yellow)](https://github.com/Commit-Boost/commit-boost-client/stargazers) [![Forks](https://img.shields.io/github/forks/Commit-Boost/commit-boost-client?style=flat-square&color=blue)](https://github.com/Commit-Boost/commit-boost-client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Commit-Boost allows Ethereum validators to safely run MEV-Boost and community-built commitment protocols
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Frontend · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Commit-Boost 的生产可用性为中等（Medium）。它适合用于 prototype
 | forks | 47/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

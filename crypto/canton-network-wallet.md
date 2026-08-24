@@ -1,6 +1,6 @@
 # canton-network/wallet
 
-[![Stars](https://img.shields.io/github/stars/canton-network/wallet?style=flat-square&color=yellow)](https://github.com/canton-network/wallet/stargazers) [![Forks](https://img.shields.io/github/forks/canton-network/wallet?style=flat-square&color=blue)](https://github.com/canton-network/wallet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canton-network/wallet?style=flat-square&color=yellow)](https://github.com/canton-network/wallet/stargazers) [![Forks](https://img.shields.io/github/forks/canton-network/wallet?style=flat-square&color=blue)](https://github.com/canton-network/wallet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > dApp SDK / Wallet SDK / Wallet Gateway
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ canton-network/wallet：canton-network/wallet helps prototype or inspect blockch
 | forks | 44/100 |
 | stars | 35/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

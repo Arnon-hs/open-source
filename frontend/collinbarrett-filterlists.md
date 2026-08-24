@@ -1,6 +1,6 @@
 # collinbarrett/FilterLists
 
-[![Stars](https://img.shields.io/github/stars/collinbarrett/FilterLists?style=flat-square&color=yellow)](https://github.com/collinbarrett/FilterLists/stargazers) [![Forks](https://img.shields.io/github/forks/collinbarrett/FilterLists?style=flat-square&color=blue)](https://github.com/collinbarrett/FilterLists/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/collinbarrett/FilterLists?style=flat-square&color=yellow)](https://github.com/collinbarrett/FilterLists/stargazers) [![Forks](https://img.shields.io/github/forks/collinbarrett/FilterLists?style=flat-square&color=blue)](https://github.com/collinbarrett/FilterLists/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Data · Database · DevOps/Infra
+Frontend · Backend · Database · DevOps/Infra · Design
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Collinbarrett/FilterLists 是一个开源项目，提供广泛的过滤列表和
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

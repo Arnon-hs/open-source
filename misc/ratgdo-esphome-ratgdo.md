@@ -1,6 +1,6 @@
 # ratgdo/esphome-ratgdo
 
-[![Stars](https://img.shields.io/github/stars/ratgdo/esphome-ratgdo?style=flat-square&color=yellow)](https://github.com/ratgdo/esphome-ratgdo/stargazers) [![Forks](https://img.shields.io/github/forks/ratgdo/esphome-ratgdo?style=flat-square&color=blue)](https://github.com/ratgdo/esphome-ratgdo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ratgdo/esphome-ratgdo?style=flat-square&color=yellow)](https://github.com/ratgdo/esphome-ratgdo/stargazers) [![Forks](https://img.shields.io/github/forks/ratgdo/esphome-ratgdo?style=flat-square&color=blue)](https://github.com/ratgdo/esphome-ratgdo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ratgdo for ESPHome
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ ratgdo/esphome-ratgdo 是一个开源项目，旨在为 ESPHome 提供 ratgdo �
 | forks | 58/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

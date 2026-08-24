@@ -1,6 +1,6 @@
 # Adancurusul/embedded-debugger-mcp
 
-[![Stars](https://img.shields.io/github/stars/Adancurusul/embedded-debugger-mcp?style=flat-square&color=yellow)](https://github.com/Adancurusul/embedded-debugger-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Adancurusul/embedded-debugger-mcp?style=flat-square&color=blue)](https://github.com/Adancurusul/embedded-debugger-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adancurusul/embedded-debugger-mcp?style=flat-square&color=yellow)](https://github.com/Adancurusul/embedded-debugger-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Adancurusul/embedded-debugger-mcp?style=flat-square&color=blue)](https://github.com/Adancurusul/embedded-debugger-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server, CLI, and Codex/Claude skill for embedded debugging with probe-rs, supporting ARM Cortex-M and RISC-V debug workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Adancurusul/embedded-debugger-mcp 的价值在于，它帮助连接AI助手到�
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

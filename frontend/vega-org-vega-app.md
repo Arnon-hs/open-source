@@ -1,6 +1,6 @@
 # vega-org/vega-app
 
-[![Stars](https://img.shields.io/github/stars/vega-org/vega-app?style=flat-square&color=yellow)](https://github.com/vega-org/vega-app/stargazers) [![Forks](https://img.shields.io/github/forks/vega-org/vega-app?style=flat-square&color=blue)](https://github.com/vega-org/vega-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vega-org/vega-app?style=flat-square&color=yellow)](https://github.com/vega-org/vega-app/stargazers) [![Forks](https://img.shields.io/github/forks/vega-org/vega-app?style=flat-square&color=blue)](https://github.com/vega-org/vega-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A media streaming app for android.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Vega-App 的生产可用性为中等。它适合用于原型或内部工作流�
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

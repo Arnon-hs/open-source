@@ -1,6 +1,6 @@
 # J-nowcow/awesome-korean-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/J-nowcow/awesome-korean-agent-skills?style=flat-square&color=yellow)](https://github.com/J-nowcow/awesome-korean-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/J-nowcow/awesome-korean-agent-skills?style=flat-square&color=blue)](https://github.com/J-nowcow/awesome-korean-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/J-nowcow/awesome-korean-agent-skills?style=flat-square&color=yellow)](https://github.com/J-nowcow/awesome-korean-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/J-nowcow/awesome-korean-agent-skills?style=flat-square&color=blue)](https://github.com/J-nowcow/awesome-korean-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🇰🇷 400+ Korean AI Coding Agent Skills — Claude Code, Gemini CLI, Codex, Cursor 스킬을 기능별로 모은 큐레이션
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Product
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ J-nowcow/awesome-korean-agent-skills 是一个收录了 400 多个韩语 AI 编�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

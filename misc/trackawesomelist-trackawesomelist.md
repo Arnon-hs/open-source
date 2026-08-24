@@ -1,6 +1,6 @@
 # trackawesomelist/trackawesomelist
 
-[![Stars](https://img.shields.io/github/stars/trackawesomelist/trackawesomelist?style=flat-square&color=yellow)](https://github.com/trackawesomelist/trackawesomelist/stargazers) [![Forks](https://img.shields.io/github/forks/trackawesomelist/trackawesomelist?style=flat-square&color=blue)](https://github.com/trackawesomelist/trackawesomelist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trackawesomelist/trackawesomelist?style=flat-square&color=yellow)](https://github.com/trackawesomelist/trackawesomelist/stargazers) [![Forks](https://img.shields.io/github/forks/trackawesomelist/trackawesomelist?style=flat-square&color=blue)](https://github.com/trackawesomelist/trackawesomelist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Track 500+ Awesome List Updates, Track it - not just star it!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 653 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Trackawesomelist/trackawesomelist 是一个开源项目，允许您跟踪超过 
 | forks | 45/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kubeara/core
 
-[![Stars](https://img.shields.io/github/stars/kubeara/core?style=flat-square&color=yellow)](https://github.com/kubeara/core/stargazers) [![Forks](https://img.shields.io/github/forks/kubeara/core?style=flat-square&color=blue)](https://github.com/kubeara/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeara/core?style=flat-square&color=yellow)](https://github.com/kubeara/core/stargazers) [![Forks](https://img.shields.io/github/forks/kubeara/core?style=flat-square&color=blue)](https://github.com/kubeara/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted PaaS for private infrastructure.  Deploy 200+ services on any server in one click.  GPU monitoring, AI model management,  VRAM checker, and MCP built in.  Coolify alternative. MIT licensed. Free forever.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ kubeara/core 的生产可用性很高，主要原因是：
 | forks | 23/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

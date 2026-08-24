@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-on-amazon-sagemaker
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/generative-ai-on-amazon-sagemaker?style=flat-square&color=yellow)](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/generative-ai-on-amazon-sagemaker?style=flat-square&color=blue)](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/generative-ai-on-amazon-sagemaker?style=flat-square&color=yellow)](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/generative-ai-on-amazon-sagemaker?style=flat-square&color=blue)](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Amazon SageMaker AI collection of examples, code samples and recipes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ aws-samples/generative-ai-on-amazon-sagemaker 是一个开源项目，提供了 
 | forks | 49/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

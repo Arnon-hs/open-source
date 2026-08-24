@@ -1,6 +1,6 @@
 # ultralytics/notebooks
 
-[![Stars](https://img.shields.io/github/stars/ultralytics/notebooks?style=flat-square&color=yellow)](https://github.com/ultralytics/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/ultralytics/notebooks?style=flat-square&color=blue)](https://github.com/ultralytics/notebooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ultralytics/notebooks?style=flat-square&color=yellow)](https://github.com/ultralytics/notebooks/stargazers) [![Forks](https://img.shields.io/github/forks/ultralytics/notebooks?style=flat-square&color=blue)](https://github.com/ultralytics/notebooks/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Ultralytics Notebooks 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Ultralytics Notebooks 是一套基于 Jupyter Notebook 的开源示例与工具�
 | forks | 43/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

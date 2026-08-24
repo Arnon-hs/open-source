@@ -1,6 +1,6 @@
 # SHITIANYU-hue/SheetasToken
 
-[![Stars](https://img.shields.io/github/stars/SHITIANYU-hue/SheetasToken?style=flat-square&color=yellow)](https://github.com/SHITIANYU-hue/SheetasToken/stargazers) [![Forks](https://img.shields.io/github/forks/SHITIANYU-hue/SheetasToken?style=flat-square&color=blue)](https://github.com/SHITIANYU-hue/SheetasToken/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SHITIANYU-hue/SheetasToken?style=flat-square&color=yellow)](https://github.com/SHITIANYU-hue/SheetasToken/stargazers) [![Forks](https://img.shields.io/github/forks/SHITIANYU-hue/SheetasToken?style=flat-square&color=blue)](https://github.com/SHITIANYU-hue/SheetasToken/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation and resources for Sheet as Token, a graph-enhanced framework for multi-sheet spreadsheet understanding and retrieval.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Knowledge/RAG · Marketing
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ SHITIANYU-hue/SheetasToken 的生产可用性为中等。它适合用于原型�
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # KyleMayes/clang-rs
 
-[![Stars](https://img.shields.io/github/stars/KyleMayes/clang-rs?style=flat-square&color=yellow)](https://github.com/KyleMayes/clang-rs/stargazers) [![Forks](https://img.shields.io/github/forks/KyleMayes/clang-rs?style=flat-square&color=blue)](https://github.com/KyleMayes/clang-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KyleMayes/clang-rs?style=flat-square&color=yellow)](https://github.com/KyleMayes/clang-rs/stargazers) [![Forks](https://img.shields.io/github/forks/KyleMayes/clang-rs?style=flat-square&color=blue)](https://github.com/KyleMayes/clang-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A somewhat idiomatic Rust wrapper for libclang.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ KyleMayes/clang-rs 的生产可用性为中等。它适合用于原型开发或�
 | forks | 45/100 |
 | stars | 49/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 0xAX/linux-insides
 
-[![Stars](https://img.shields.io/github/stars/0xAX/linux-insides?style=flat-square&color=yellow)](https://github.com/0xAX/linux-insides/stargazers) [![Forks](https://img.shields.io/github/forks/0xAX/linux-insides?style=flat-square&color=blue)](https://github.com/0xAX/linux-insides/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xAX/linux-insides?style=flat-square&color=yellow)](https://github.com/0xAX/linux-insides/stargazers) [![Forks](https://img.shields.io/github/forks/0xAX/linux-insides?style=flat-square&color=blue)](https://github.com/0xAX/linux-insides/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A book-in-progress about the Linux kernel and its insides.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32.8k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Here's a brief summary and analysis of the open-source project:
 | forks | 89/100 |
 | stars | 96/100 |
 | topics | 38/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 94/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

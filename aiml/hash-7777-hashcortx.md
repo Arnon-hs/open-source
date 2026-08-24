@@ -1,6 +1,6 @@
 # Hash-7777/HashCortX
 
-[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&color=yellow)](https://github.com/Hash-7777/HashCortX/stargazers) [![Forks](https://img.shields.io/github/forks/Hash-7777/HashCortX?style=flat-square&color=blue)](https://github.com/Hash-7777/HashCortX/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hash-7777/HashCortX?style=flat-square&color=yellow)](https://github.com/Hash-7777/HashCortX/stargazers) [![Forks](https://img.shields.io/github/forks/Hash-7777/HashCortX?style=flat-square&color=blue)](https://github.com/Hash-7777/HashCortX/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > HashCortX is an AI desktop agent UI app. Made by a pharmacist & beginner vibe coder. Modes: Code, finance, swarm & forge modes. Supports 10+ providers — your keys stay in your keychain, your files never leave your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ HashCortX 是一款面向桌面的 AI 助手 UI 应用，由药师兼入门级�
 | forks | 28/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

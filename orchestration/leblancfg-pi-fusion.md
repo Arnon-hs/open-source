@@ -1,6 +1,6 @@
 # leblancfg/pi-fusion
 
-[![Stars](https://img.shields.io/github/stars/leblancfg/pi-fusion?style=flat-square&color=yellow)](https://github.com/leblancfg/pi-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/leblancfg/pi-fusion?style=flat-square&color=blue)](https://github.com/leblancfg/pi-fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leblancfg/pi-fusion?style=flat-square&color=yellow)](https://github.com/leblancfg/pi-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/leblancfg/pi-fusion?style=flat-square&color=blue)](https://github.com/leblancfg/pi-fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Compound model panel for pi: parallel model calls, then one synthesis response.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Overall, pi‑fusion offers a practical shortcut to building coordinated AI pipe
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

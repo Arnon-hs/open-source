@@ -1,6 +1,6 @@
 # bfgroup/Lyra
 
-[![Stars](https://img.shields.io/github/stars/bfgroup/Lyra?style=flat-square&color=yellow)](https://github.com/bfgroup/Lyra/stargazers) [![Forks](https://img.shields.io/github/forks/bfgroup/Lyra?style=flat-square&color=blue)](https://github.com/bfgroup/Lyra/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bfgroup/Lyra?style=flat-square&color=yellow)](https://github.com/bfgroup/Lyra/stargazers) [![Forks](https://img.shields.io/github/forks/bfgroup/Lyra?style=flat-square&color=blue)](https://github.com/bfgroup/Lyra/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A simple to use, composable, command line parser for C++ 11 and beyond
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ bfgroup/Lyra 是一个面向 C++11 及更高标准的轻量级命令行解析库
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

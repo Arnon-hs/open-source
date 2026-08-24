@@ -1,6 +1,6 @@
 # pproenca/agent-tui
 
-[![Stars](https://img.shields.io/github/stars/pproenca/agent-tui?style=flat-square&color=yellow)](https://github.com/pproenca/agent-tui/stargazers) [![Forks](https://img.shields.io/github/forks/pproenca/agent-tui?style=flat-square&color=blue)](https://github.com/pproenca/agent-tui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pproenca/agent-tui?style=flat-square&color=yellow)](https://github.com/pproenca/agent-tui/stargazers) [![Forks](https://img.shields.io/github/forks/pproenca/agent-tui?style=flat-square&color=blue)](https://github.com/pproenca/agent-tui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > TUI automation for AI agents. Control any terminal app from code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ agent-tui 的生产可用性为 中等（Medium）。它适合用于原型或内
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

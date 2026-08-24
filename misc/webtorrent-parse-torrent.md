@@ -1,6 +1,6 @@
 # webtorrent/parse-torrent
 
-[![Stars](https://img.shields.io/github/stars/webtorrent/parse-torrent?style=flat-square&color=yellow)](https://github.com/webtorrent/parse-torrent/stargazers) [![Forks](https://img.shields.io/github/forks/webtorrent/parse-torrent?style=flat-square&color=blue)](https://github.com/webtorrent/parse-torrent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webtorrent/parse-torrent?style=flat-square&color=yellow)](https://github.com/webtorrent/parse-torrent/stargazers) [![Forks](https://img.shields.io/github/forks/webtorrent/parse-torrent?style=flat-square&color=blue)](https://github.com/webtorrent/parse-torrent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Parse a torrent identifier (magnet uri, .torrent file, info hash)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ webtorrent/parse-torrent 的生产可用性为中等。它可以在原型开发�
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

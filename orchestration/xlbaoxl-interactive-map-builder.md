@@ -1,6 +1,6 @@
 # xlbaoxl/interactive-map-builder
 
-[![Stars](https://img.shields.io/github/stars/xlbaoxl/interactive-map-builder?style=flat-square&color=yellow)](https://github.com/xlbaoxl/interactive-map-builder/stargazers) [![Forks](https://img.shields.io/github/forks/xlbaoxl/interactive-map-builder?style=flat-square&color=blue)](https://github.com/xlbaoxl/interactive-map-builder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xlbaoxl/interactive-map-builder?style=flat-square&color=yellow)](https://github.com/xlbaoxl/interactive-map-builder/stargazers) [![Forks](https://img.shields.io/github/forks/xlbaoxl/interactive-map-builder?style=flat-square&color=blue)](https://github.com/xlbaoxl/interactive-map-builder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Build polished interactive maps and report-ready figures from spatial data with AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Data
+Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ xlbaoxl/interactive-map-builder 是一个开源项目，帮助用户构建高效
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

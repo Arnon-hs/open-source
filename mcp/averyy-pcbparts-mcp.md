@@ -1,6 +1,6 @@
 # Averyy/pcbparts-mcp
 
-[![Stars](https://img.shields.io/github/stars/Averyy/pcbparts-mcp?style=flat-square&color=yellow)](https://github.com/Averyy/pcbparts-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Averyy/pcbparts-mcp?style=flat-square&color=blue)](https://github.com/Averyy/pcbparts-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Averyy/pcbparts-mcp?style=flat-square&color=yellow)](https://github.com/Averyy/pcbparts-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Averyy/pcbparts-mcp?style=flat-square&color=blue)](https://github.com/Averyy/pcbparts-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for searching electronic components for PCB assembly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Averyy/pcbparts-mcp 的生产可用性为中等（Medium）。它适合用于原
 | forks | 25/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

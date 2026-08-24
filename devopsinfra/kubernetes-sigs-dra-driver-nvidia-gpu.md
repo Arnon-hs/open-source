@@ -1,6 +1,6 @@
 # kubernetes-sigs/dra-driver-nvidia-gpu
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/dra-driver-nvidia-gpu?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/dra-driver-nvidia-gpu?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/dra-driver-nvidia-gpu?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/dra-driver-nvidia-gpu?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > DRA Driver for NVIDIA GPUs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 690 |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ kubernetes-sigs/dra-driver-nvidia-gpu 的价值在于：
 | forks | 57/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # EricLBuehler/mistral.rs
 
-[![Stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=flat-square&color=yellow)](https://github.com/EricLBuehler/mistral.rs/stargazers) [![Forks](https://img.shields.io/github/forks/EricLBuehler/mistral.rs?style=flat-square&color=blue)](https://github.com/EricLBuehler/mistral.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=flat-square&color=yellow)](https://github.com/EricLBuehler/mistral.rs/stargazers) [![Forks](https://img.shields.io/github/forks/EricLBuehler/mistral.rs?style=flat-square&color=blue)](https://github.com/EricLBuehler/mistral.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, flexible LLM inference
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 633 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ EricLBuehler/mistral.rs 是用 Rust 实现的高速、可扩展的大语言模�
 | forks | 70/100 |
 | stars | 82/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

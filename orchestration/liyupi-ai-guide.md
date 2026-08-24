@@ -1,6 +1,6 @@
 # liyupi/ai-guide
 
-[![Stars](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square&color=yellow)](https://github.com/liyupi/ai-guide/stargazers) [![Forks](https://img.shields.io/github/forks/liyupi/ai-guide?style=flat-square&color=blue)](https://github.com/liyupi/ai-guide/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square&color=yellow)](https://github.com/liyupi/ai-guide/stargazers) [![Forks](https://img.shields.io/github/forks/liyupi/ai-guide?style=flat-square&color=blue)](https://github.com/liyupi/ai-guide/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.6k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ liyupi/ai-guide 的价值在于，它帮助开发者将孤立的提示和工具�
 | forks | 82/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

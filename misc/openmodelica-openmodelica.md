@@ -1,6 +1,6 @@
 # OpenModelica/OpenModelica
 
-[![Stars](https://img.shields.io/github/stars/OpenModelica/OpenModelica?style=flat-square&color=yellow)](https://github.com/OpenModelica/OpenModelica/stargazers) [![Forks](https://img.shields.io/github/forks/OpenModelica/OpenModelica?style=flat-square&color=blue)](https://github.com/OpenModelica/OpenModelica/network) [![Language](https://img.shields.io/badge/lang-Modelica-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenModelica/OpenModelica?style=flat-square&color=yellow)](https://github.com/OpenModelica/OpenModelica/stargazers) [![Forks](https://img.shields.io/github/forks/OpenModelica/OpenModelica?style=flat-square&color=blue)](https://github.com/OpenModelica/OpenModelica/network) [![Language](https://img.shields.io/badge/lang-Modelica-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | Modelica |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ OpenModelica 是一个基于 Modelica 语言的开源建模与仿真平台，面
 | forks | 65/100 |
 | stars | 66/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

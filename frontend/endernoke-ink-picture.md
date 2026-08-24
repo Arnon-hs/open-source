@@ -1,6 +1,6 @@
 # endernoke/ink-picture
 
-[![Stars](https://img.shields.io/github/stars/endernoke/ink-picture?style=flat-square&color=yellow)](https://github.com/endernoke/ink-picture/stargazers) [![Forks](https://img.shields.io/github/forks/endernoke/ink-picture?style=flat-square&color=blue)](https://github.com/endernoke/ink-picture/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endernoke/ink-picture?style=flat-square&color=yellow)](https://github.com/endernoke/ink-picture/stargazers) [![Forks](https://img.shields.io/github/forks/endernoke/ink-picture?style=flat-square&color=blue)](https://github.com/endernoke/ink-picture/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Like ink-image, but it works - Better image component for Ink CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Frontend · DevTools
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

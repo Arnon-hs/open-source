@@ -1,6 +1,6 @@
 # scrapy/w3lib
 
-[![Stars](https://img.shields.io/github/stars/scrapy/w3lib?style=flat-square&color=yellow)](https://github.com/scrapy/w3lib/stargazers) [![Forks](https://img.shields.io/github/forks/scrapy/w3lib?style=flat-square&color=blue)](https://github.com/scrapy/w3lib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scrapy/w3lib?style=flat-square&color=yellow)](https://github.com/scrapy/w3lib/stargazers) [![Forks](https://img.shields.io/github/forks/scrapy/w3lib?style=flat-square&color=blue)](https://github.com/scrapy/w3lib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Python library of web-related functions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ clean_html = replace_entities('<p>Tom &amp; Jerry</p>', keep=['amp'])
 | forks | 52/100 |
 | stars | 56/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

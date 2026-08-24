@@ -1,6 +1,6 @@
 # sub-store-org/Sub-Store
 
-[![Stars](https://img.shields.io/github/stars/sub-store-org/Sub-Store?style=flat-square&color=yellow)](https://github.com/sub-store-org/Sub-Store/stargazers) [![Forks](https://img.shields.io/github/forks/sub-store-org/Sub-Store?style=flat-square&color=blue)](https://github.com/sub-store-org/Sub-Store/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sub-store-org/Sub-Store?style=flat-square&color=yellow)](https://github.com/sub-store-org/Sub-Store/stargazers) [![Forks](https://img.shields.io/github/forks/sub-store-org/Sub-Store?style=flat-square&color=blue)](https://github.com/sub-store-org/Sub-Store/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Trading
+Payments
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Sub‑Store（sub-store-org/Sub-Store）是一款面向 QX、Loon、Surge、Stas
 | forks | 77/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

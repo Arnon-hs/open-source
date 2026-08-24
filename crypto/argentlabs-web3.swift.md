@@ -1,6 +1,6 @@
 # argentlabs/web3.swift
 
-[![Stars](https://img.shields.io/github/stars/argentlabs/web3.swift?style=flat-square&color=yellow)](https://github.com/argentlabs/web3.swift/stargazers) [![Forks](https://img.shields.io/github/forks/argentlabs/web3.swift?style=flat-square&color=blue)](https://github.com/argentlabs/web3.swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argentlabs/web3.swift?style=flat-square&color=yellow)](https://github.com/argentlabs/web3.swift/stargazers) [![Forks](https://img.shields.io/github/forks/argentlabs/web3.swift?style=flat-square&color=blue)](https://github.com/argentlabs/web3.swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Ethereum Swift API with support for smart contracts, ENS & ERC20
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 716 |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ argentlabs/web3.swift：argentlabs/web3.swift helps prototype or inspect blockch
 | forks | 57/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

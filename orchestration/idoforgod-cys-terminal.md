@@ -1,6 +1,6 @@
 # idoforgod/cys-terminal
 
-[![Stars](https://img.shields.io/github/stars/idoforgod/cys-terminal?style=flat-square&color=yellow)](https://github.com/idoforgod/cys-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/idoforgod/cys-terminal?style=flat-square&color=blue)](https://github.com/idoforgod/cys-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idoforgod/cys-terminal?style=flat-square&color=yellow)](https://github.com/idoforgod/cys-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/idoforgod/cys-terminal?style=flat-square&color=blue)](https://github.com/idoforgod/cys-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent fleet orchestration terminal — bidirectional socket IPC, resource governance, mission-control dashboard. macOS · Windows. Built largely by AI agents under human direction.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ idoforgod/cys-terminal 是一个 AI 代理舰队编排终端，通过双向 Sock
 | forks | 43/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

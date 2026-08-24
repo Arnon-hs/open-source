@@ -1,6 +1,6 @@
 # thradams/cake
 
-[![Stars](https://img.shields.io/github/stars/thradams/cake?style=flat-square&color=yellow)](https://github.com/thradams/cake/stargazers) [![Forks](https://img.shields.io/github/forks/thradams/cake?style=flat-square&color=blue)](https://github.com/thradams/cake/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thradams/cake?style=flat-square&color=yellow)](https://github.com/thradams/cake/stargazers) [![Forks](https://img.shields.io/github/forks/thradams/cake?style=flat-square&color=blue)](https://github.com/thradams/cake/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Cake a C23 front end and transpiler written in C
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 686 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ thradads/cake 可用于生产环境，但需要谨慎评估其生产准备度。
 | forks | 41/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

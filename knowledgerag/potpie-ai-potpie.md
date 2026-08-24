@@ -1,6 +1,6 @@
 # potpie-ai/potpie
 
-[![Stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=flat-square&color=yellow)](https://github.com/potpie-ai/potpie/stargazers) [![Forks](https://img.shields.io/github/forks/potpie-ai/potpie?style=flat-square&color=blue)](https://github.com/potpie-ai/potpie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/potpie-ai/potpie?style=flat-square&color=yellow)](https://github.com/potpie-ai/potpie/stargazers) [![Forks](https://img.shields.io/github/forks/potpie-ai/potpie?style=flat-square&color=blue)](https://github.com/potpie-ai/potpie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Spec-driven development for large codebases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 613 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ potpie‑ai/potpie 是一个面向大型代码库的 **Spec‑driven 开发框�
 | forks | 70/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 20/100 |
 | adoption | 77/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

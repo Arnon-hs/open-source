@@ -1,6 +1,6 @@
 # psu-efd/pyHMT2D
 
-[![Stars](https://img.shields.io/github/stars/psu-efd/pyHMT2D?style=flat-square&color=yellow)](https://github.com/psu-efd/pyHMT2D/stargazers) [![Forks](https://img.shields.io/github/forks/psu-efd/pyHMT2D?style=flat-square&color=blue)](https://github.com/psu-efd/pyHMT2D/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psu-efd/pyHMT2D?style=flat-square&color=yellow)](https://github.com/psu-efd/pyHMT2D/stargazers) [![Forks](https://img.shields.io/github/forks/psu-efd/pyHMT2D?style=flat-square&color=blue)](https://github.com/psu-efd/pyHMT2D/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Python Hydraulic Modeling Tools - 2D
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ psu-efd/pyHMT2D 的主要价值在于，它通过标准协议将 AI 助手连接
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

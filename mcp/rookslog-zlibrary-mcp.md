@@ -1,6 +1,6 @@
 # rookslog/zlibrary-mcp
 
-[![Stars](https://img.shields.io/github/stars/rookslog/zlibrary-mcp?style=flat-square&color=yellow)](https://github.com/rookslog/zlibrary-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rookslog/zlibrary-mcp?style=flat-square&color=blue)](https://github.com/rookslog/zlibrary-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rookslog/zlibrary-mcp?style=flat-square&color=yellow)](https://github.com/rookslog/zlibrary-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rookslog/zlibrary-mcp?style=flat-square&color=blue)](https://github.com/rookslog/zlibrary-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Z-Library: search, download, and process books into RAG-ready text for AI assistants (Claude Code, Claude Desktop, Cline, RooCode)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ rookslog/zlibrary-mcp 的价值在于它帮助连接 AI 辅助器到现实世界
 | forks | 26/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

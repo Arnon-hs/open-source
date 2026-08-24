@@ -1,6 +1,6 @@
 # wgtunnel/android
 
-[![Stars](https://img.shields.io/github/stars/wgtunnel/android?style=flat-square&color=yellow)](https://github.com/wgtunnel/android/stargazers) [![Forks](https://img.shields.io/github/forks/wgtunnel/android?style=flat-square&color=blue)](https://github.com/wgtunnel/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wgtunnel/android?style=flat-square&color=yellow)](https://github.com/wgtunnel/android/stargazers) [![Forks](https://img.shields.io/github/forks/wgtunnel/android?style=flat-square&color=blue)](https://github.com/wgtunnel/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ wgtunnel/android 的生产可用性较高，原因包括：
 | forks | 56/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

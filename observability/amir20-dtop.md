@@ -1,6 +1,6 @@
 # amir20/dtop
 
-[![Stars](https://img.shields.io/github/stars/amir20/dtop?style=flat-square&color=yellow)](https://github.com/amir20/dtop/stargazers) [![Forks](https://img.shields.io/github/forks/amir20/dtop?style=flat-square&color=blue)](https://github.com/amir20/dtop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amir20/dtop?style=flat-square&color=yellow)](https://github.com/amir20/dtop/stargazers) [![Forks](https://img.shields.io/github/forks/amir20/dtop?style=flat-square&color=blue)](https://github.com/amir20/dtop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ With those checks, *amir20/dtop* is suitable for internal tooling, prototypes, o
 | forks | 37/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

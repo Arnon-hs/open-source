@@ -1,6 +1,6 @@
 # just-every/mcp-screenshot-website-fast
 
-[![Stars](https://img.shields.io/github/stars/just-every/mcp-screenshot-website-fast?style=flat-square&color=yellow)](https://github.com/just-every/mcp-screenshot-website-fast/stargazers) [![Forks](https://img.shields.io/github/forks/just-every/mcp-screenshot-website-fast?style=flat-square&color=blue)](https://github.com/just-every/mcp-screenshot-website-fast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/just-every/mcp-screenshot-website-fast?style=flat-square&color=yellow)](https://github.com/just-every/mcp-screenshot-website-fast/stargazers) [![Forks](https://img.shields.io/github/forks/just-every/mcp-screenshot-website-fast?style=flat-square&color=blue)](https://github.com/just-every/mcp-screenshot-website-fast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Quickly screenshots webpages and converts to an LLM friendly size
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ just-every/mcp-screenshot-website-fast 是一个开源项目，用于快速捕�
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

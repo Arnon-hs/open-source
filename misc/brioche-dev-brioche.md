@@ -1,6 +1,6 @@
 # brioche-dev/brioche
 
-[![Stars](https://img.shields.io/github/stars/brioche-dev/brioche?style=flat-square&color=yellow)](https://github.com/brioche-dev/brioche/stargazers) [![Forks](https://img.shields.io/github/forks/brioche-dev/brioche?style=flat-square&color=blue)](https://github.com/brioche-dev/brioche/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brioche-dev/brioche?style=flat-square&color=yellow)](https://github.com/brioche-dev/brioche/stargazers) [![Forks](https://img.shields.io/github/forks/brioche-dev/brioche?style=flat-square&color=blue)](https://github.com/brioche-dev/brioche/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A delicious package manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ brioche-dev/brioche 是一个用 Rust 编写的轻量级包管理器，旨在提
 | forks | 24/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

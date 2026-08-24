@@ -1,6 +1,6 @@
 # ARM-DOE/pyart
 
-[![Stars](https://img.shields.io/github/stars/ARM-DOE/pyart?style=flat-square&color=yellow)](https://github.com/ARM-DOE/pyart/stargazers) [![Forks](https://img.shields.io/github/forks/ARM-DOE/pyart?style=flat-square&color=blue)](https://github.com/ARM-DOE/pyart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ARM-DOE/pyart?style=flat-square&color=yellow)](https://github.com/ARM-DOE/pyart/stargazers) [![Forks](https://img.shields.io/github/forks/ARM-DOE/pyart?style=flat-square&color=blue)](https://github.com/ARM-DOE/pyart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 596 |
 | 🍴 **Forks** | 287 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ ARM-DOE/pyart 的生产可用性非常高。该项目有最近的活动、广泛
 | forks | 61/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

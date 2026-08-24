@@ -1,6 +1,6 @@
 # AgentOps-AI/agentops
 
-[![Stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=flat-square&color=yellow)](https://github.com/AgentOps-AI/agentops/stargazers) [![Forks](https://img.shields.io/github/forks/AgentOps-AI/agentops?style=flat-square&color=blue)](https://github.com/AgentOps-AI/agentops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=flat-square&color=yellow)](https://github.com/AgentOps-AI/agentops/stargazers) [![Forks](https://img.shields.io/github/forks/AgentOps-AI/agentops?style=flat-square&color=blue)](https://github.com/AgentOps-AI/agentops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 609 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ AgentOps-AI/agentops 具有高生产可用性，主要原因是：
 | forks | 70/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

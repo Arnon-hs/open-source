@@ -1,6 +1,6 @@
 # DenisSergeevitch/agents-best-practices
 
-[![Stars](https://img.shields.io/github/stars/DenisSergeevitch/agents-best-practices?style=flat-square&color=yellow)](https://github.com/DenisSergeevitch/agents-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/DenisSergeevitch/agents-best-practices?style=flat-square&color=blue)](https://github.com/DenisSergeevitch/agents-best-practices/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DenisSergeevitch/agents-best-practices?style=flat-square&color=yellow)](https://github.com/DenisSergeevitch/agents-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/DenisSergeevitch/agents-best-practices?style=flat-square&color=blue)](https://github.com/DenisSergeevitch/agents-best-practices/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Design
+Orchestration · MCP · AI/ML · Design
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ DenisSergeevitch/agents-best-practices 是一个开源项目，提供了一个�
 | forks | 57/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

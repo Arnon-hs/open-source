@@ -1,6 +1,6 @@
 # kiyeonjeon21/querypad
 
-[![Stars](https://img.shields.io/github/stars/kiyeonjeon21/querypad?style=flat-square&color=yellow)](https://github.com/kiyeonjeon21/querypad/stargazers) [![Forks](https://img.shields.io/github/forks/kiyeonjeon21/querypad?style=flat-square&color=blue)](https://github.com/kiyeonjeon21/querypad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kiyeonjeon21/querypad?style=flat-square&color=yellow)](https://github.com/kiyeonjeon21/querypad/stargazers) [![Forks](https://img.shields.io/github/forks/kiyeonjeon21/querypad?style=flat-square&color=blue)](https://github.com/kiyeonjeon21/querypad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cursor for Data — a local-first AI workspace that understands your datasets: discovers relationships, builds semantic models, and answers questions with DuckDB. CLI + browser app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Data
+AI/ML · DevTools · Data
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Kiyeonjeon21/querypad 的生产可用性为中等。它适用于原型开发或�
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

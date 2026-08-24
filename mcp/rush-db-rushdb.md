@@ -1,6 +1,6 @@
 # rush-db/rushdb
 
-[![Stars](https://img.shields.io/github/stars/rush-db/rushdb?style=flat-square&color=yellow)](https://github.com/rush-db/rushdb/stargazers) [![Forks](https://img.shields.io/github/forks/rush-db/rushdb?style=flat-square&color=blue)](https://github.com/rush-db/rushdb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rush-db/rushdb?style=flat-square&color=yellow)](https://github.com/rush-db/rushdb/stargazers) [![Forks](https://img.shields.io/github/forks/rush-db/rushdb?style=flat-square&color=blue)](https://github.com/rush-db/rushdb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > RushDB is a graph + vector database and memory layer for AI agents. Push any JSON, get typed, searchable, relationship-aware records back — no schema, no migrations. Built on Neo4j.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ RushDB（`rush-db/rushdb`）是基于 Neo4j 构建的图+向量数据库与内�
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

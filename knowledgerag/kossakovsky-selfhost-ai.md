@@ -1,6 +1,6 @@
 # kossakovsky/selfhost-ai
 
-[![Stars](https://img.shields.io/github/stars/kossakovsky/selfhost-ai?style=flat-square&color=yellow)](https://github.com/kossakovsky/selfhost-ai/stargazers) [![Forks](https://img.shields.io/github/forks/kossakovsky/selfhost-ai?style=flat-square&color=blue)](https://github.com/kossakovsky/selfhost-ai/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kossakovsky/selfhost-ai?style=flat-square&color=yellow)](https://github.com/kossakovsky/selfhost-ai/stargazers) [![Forks](https://img.shields.io/github/forks/kossakovsky/selfhost-ai?style=flat-square&color=blue)](https://github.com/kossakovsky/selfhost-ai/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTPS. Free Zapier/Make alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Frontend · Backend
+Knowledge/RAG · Automation · AI/ML · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ kossakovsky/selfhost-ai 是一个开源的 AI 自动化平台，能够通过一�
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

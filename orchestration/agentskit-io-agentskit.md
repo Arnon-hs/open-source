@@ -1,6 +1,6 @@
 # AgentsKit-io/agentskit
 
-[![Stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit?style=flat-square&color=yellow)](https://github.com/AgentsKit-io/agentskit/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsKit-io/agentskit?style=flat-square&color=blue)](https://github.com/AgentsKit-io/agentskit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit?style=flat-square&color=yellow)](https://github.com/AgentsKit-io/agentskit/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsKit-io/agentskit?style=flat-square&color=blue)](https://github.com/AgentsKit-io/agentskit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, tools, skills, memory, RAG and observability. Plug-and-play from chat UI to full agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ AgentsKit-io/agentskit 的价值在于，它可以帮助将孤立的提示和工
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

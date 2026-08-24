@@ -1,6 +1,6 @@
 # OFFTKP/felix86
 
-[![Stars](https://img.shields.io/github/stars/OFFTKP/felix86?style=flat-square&color=yellow)](https://github.com/OFFTKP/felix86/stargazers) [![Forks](https://img.shields.io/github/forks/OFFTKP/felix86?style=flat-square&color=blue)](https://github.com/OFFTKP/felix86/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OFFTKP/felix86?style=flat-square&color=yellow)](https://github.com/OFFTKP/felix86/stargazers) [![Forks](https://img.shields.io/github/forks/OFFTKP/felix86?style=flat-square&color=blue)](https://github.com/OFFTKP/felix86/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Run x86 and x86-64 games on RISC‑V Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 661 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ OFFTKP/felix86：OFFTKP/felix86 may be useful when its README and activity match
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

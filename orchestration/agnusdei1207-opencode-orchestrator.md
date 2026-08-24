@@ -1,6 +1,6 @@
 # agnusdei1207/opencode-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/agnusdei1207/opencode-orchestrator?style=flat-square&color=yellow)](https://github.com/agnusdei1207/opencode-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/agnusdei1207/opencode-orchestrator?style=flat-square&color=blue)](https://github.com/agnusdei1207/opencode-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agnusdei1207/opencode-orchestrator?style=flat-square&color=yellow)](https://github.com/agnusdei1207/opencode-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/agnusdei1207/opencode-orchestrator?style=flat-square&color=blue)](https://github.com/agnusdei1207/opencode-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Opencode Plugin for AI-Agent Orchestration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ The **opencode‑orchestrator** plugin lets developers stitch together isolated 
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

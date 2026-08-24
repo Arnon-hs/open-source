@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-doc-tools
 
-[![Stars](https://img.shields.io/github/stars/jasoncheng7115/jt-doc-tools?style=flat-square&color=yellow)](https://github.com/jasoncheng7115/jt-doc-tools/stargazers) [![Forks](https://img.shields.io/github/forks/jasoncheng7115/jt-doc-tools?style=flat-square&color=blue)](https://github.com/jasoncheng7115/jt-doc-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasoncheng7115/jt-doc-tools?style=flat-square&color=yellow)](https://github.com/jasoncheng7115/jt-doc-tools/stargazers) [![Forks](https://img.shields.io/github/forks/jasoncheng7115/jt-doc-tools?style=flat-square&color=blue)](https://github.com/jasoncheng7115/jt-doc-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 整合式 PDF / Office 文件處理平台，自架、開源、可控。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 198 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ jasoncheng7115/jt-doc-tools 是一個整合式 PDF/Office 文件處理平台，�
 | forks | 42/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

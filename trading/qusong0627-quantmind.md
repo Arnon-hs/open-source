@@ -1,6 +1,6 @@
 # qusong0627/QuantMind
 
-[![Stars](https://img.shields.io/github/stars/qusong0627/QuantMind?style=flat-square&color=yellow)](https://github.com/qusong0627/QuantMind/stargazers) [![Forks](https://img.shields.io/github/forks/qusong0627/QuantMind?style=flat-square&color=blue)](https://github.com/qusong0627/QuantMind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qusong0627/QuantMind?style=flat-square&color=yellow)](https://github.com/qusong0627/QuantMind/stargazers) [![Forks](https://img.shields.io/github/forks/qusong0627/QuantMind?style=flat-square&color=blue)](https://github.com/qusong0627/QuantMind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > QuantMind 开源版 是一款面向个人量化研究者的本地化金融量化交易平台，基于微软 Qlib 量化框架构建，提供从模型训练，回测，推理，实盘交易的完整研究闭环。 平台深度集成 LightGBM 等主流机器学习模型，支持 146 维量化因子训练与推理，用户可快速构建 Alpha 策略并在历史数据上验证效果。核心功能涵盖智能策略生成、模型训练、回测中心、QuantBot 助手及多模型管理，全部功能无使用限制。 开源版采用本地单机部署，通过 docker compose 一键启动，无需依赖云服务，数据与模型完全本地化，保障研究隐私。适合个人开发者、学术研究者及小团队进行量化策略原型验证与二次开发，是进入金融量化领域的理想起点。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · DevOps/Infra
+Trading · DevOps/Infra
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ QuantMind 的生产可用性非常高，主要原因是：
 | forks | 55/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

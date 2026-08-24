@@ -1,6 +1,6 @@
 # dongshuyan/compass-skills
 
-[![Stars](https://img.shields.io/github/stars/dongshuyan/compass-skills?style=flat-square&color=yellow)](https://github.com/dongshuyan/compass-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dongshuyan/compass-skills?style=flat-square&color=blue)](https://github.com/dongshuyan/compass-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dongshuyan/compass-skills?style=flat-square&color=yellow)](https://github.com/dongshuyan/compass-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dongshuyan/compass-skills?style=flat-square&color=blue)](https://github.com/dongshuyan/compass-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 533 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ dongshuyan/compass-skills 的生产可用性很高，项目最近有活动，采
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

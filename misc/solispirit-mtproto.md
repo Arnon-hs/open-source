@@ -1,6 +1,6 @@
 # SoliSpirit/mtproto
 
-[![Stars](https://img.shields.io/github/stars/SoliSpirit/mtproto?style=flat-square&color=yellow)](https://github.com/SoliSpirit/mtproto/stargazers) [![Forks](https://img.shields.io/github/forks/SoliSpirit/mtproto?style=flat-square&color=blue)](https://github.com/SoliSpirit/mtproto/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SoliSpirit/mtproto?style=flat-square&color=yellow)](https://github.com/SoliSpirit/mtproto/stargazers) [![Forks](https://img.shields.io/github/forks/SoliSpirit/mtproto?style=flat-square&color=blue)](https://github.com/SoliSpirit/mtproto/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Fresh and reliable Telegram MTProto proxies updated automatically every 12 hours. Free, fast, and verified proxy list to bypass censorship and ensure secure Telegram access worldwide.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ SoliSpirit/mtproto 的生产可用性为中等。它适合用于原型开发或�
 | forks | 47/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

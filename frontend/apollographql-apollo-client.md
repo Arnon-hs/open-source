@@ -1,6 +1,6 @@
 # apollographql/apollo-client
 
-[![Stars](https://img.shields.io/github/stars/apollographql/apollo-client?style=flat-square&color=yellow)](https://github.com/apollographql/apollo-client/stargazers) [![Forks](https://img.shields.io/github/forks/apollographql/apollo-client?style=flat-square&color=blue)](https://github.com/apollographql/apollo-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apollographql/apollo-client?style=flat-square&color=yellow)](https://github.com/apollographql/apollo-client/stargazers) [![Forks](https://img.shields.io/github/forks/apollographql/apollo-client?style=flat-square&color=blue)](https://github.com/apollographql/apollo-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.8k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Apollo Client 的生产可用性很高，原因如下：
 | forks | 86/100 |
 | stars | 91/100 |
 | topics | 63/100 |
-| outlook | 92/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 90/100 |
-| production | 84/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

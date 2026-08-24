@@ -1,6 +1,6 @@
 # kitao/pyxel-mcp
 
-[![Stars](https://img.shields.io/github/stars/kitao/pyxel-mcp?style=flat-square&color=yellow)](https://github.com/kitao/pyxel-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kitao/pyxel-mcp?style=flat-square&color=blue)](https://github.com/kitao/pyxel-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kitao/pyxel-mcp?style=flat-square&color=yellow)](https://github.com/kitao/pyxel-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kitao/pyxel-mcp?style=flat-square&color=blue)](https://github.com/kitao/pyxel-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI-assisted retro game development with Pyxel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ kitao/pyxel-mcp 的生产可用性为中等。它适合用于原型开发或内�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

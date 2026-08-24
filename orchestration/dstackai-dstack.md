@@ -1,6 +1,6 @@
 # dstackai/dstack
 
-[![Stars](https://img.shields.io/github/stars/dstackai/dstack?style=flat-square&color=yellow)](https://github.com/dstackai/dstack/stargazers) [![Forks](https://img.shields.io/github/forks/dstackai/dstack?style=flat-square&color=blue)](https://github.com/dstackai/dstack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dstackai/dstack?style=flat-square&color=yellow)](https://github.com/dstackai/dstack/stargazers) [![Forks](https://img.shields.io/github/forks/dstackai/dstack?style=flat-square&color=blue)](https://github.com/dstackai/dstack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra · Education · Marketing
+Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ dstackai/dstack 的生产可用性非常高。它有强大的活跃度、采用�
 | forks | 60/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

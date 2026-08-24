@@ -1,6 +1,6 @@
 # muni-town/roomy
 
-[![Stars](https://img.shields.io/github/stars/muni-town/roomy?style=flat-square&color=yellow)](https://github.com/muni-town/roomy/stargazers) [![Forks](https://img.shields.io/github/forks/muni-town/roomy?style=flat-square&color=blue)](https://github.com/muni-town/roomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muni-town/roomy?style=flat-square&color=yellow)](https://github.com/muni-town/roomy/stargazers) [![Forks](https://img.shields.io/github/forks/muni-town/roomy?style=flat-square&color=blue)](https://github.com/muni-town/roomy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Gardenable group chats in the Atmosphere.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ muni-town/roomy 的生产可用性评级为中等（Medium）。它适合用于�
 | forks | 37/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

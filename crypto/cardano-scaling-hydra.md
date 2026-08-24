@@ -1,6 +1,6 @@
 # cardano-scaling/hydra
 
-[![Stars](https://img.shields.io/github/stars/cardano-scaling/hydra?style=flat-square&color=yellow)](https://github.com/cardano-scaling/hydra/stargazers) [![Forks](https://img.shields.io/github/forks/cardano-scaling/hydra?style=flat-square&color=blue)](https://github.com/cardano-scaling/hydra/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cardano-scaling/hydra?style=flat-square&color=yellow)](https://github.com/cardano-scaling/hydra/stargazers) [![Forks](https://img.shields.io/github/forks/cardano-scaling/hydra?style=flat-square&color=blue)](https://github.com/cardano-scaling/hydra/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation of the Hydra Head protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ The project is at a **medium** readiness level: it is actively maintained and su
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

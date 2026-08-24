@@ -1,6 +1,6 @@
 # gardener/etcd-backup-restore
 
-[![Stars](https://img.shields.io/github/stars/gardener/etcd-backup-restore?style=flat-square&color=yellow)](https://github.com/gardener/etcd-backup-restore/stargazers) [![Forks](https://img.shields.io/github/forks/gardener/etcd-backup-restore?style=flat-square&color=blue)](https://github.com/gardener/etcd-backup-restore/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gardener/etcd-backup-restore?style=flat-square&color=yellow)](https://github.com/gardener/etcd-backup-restore/stargazers) [![Forks](https://img.shields.io/github/forks/gardener/etcd-backup-restore?style=flat-square&color=blue)](https://github.com/gardener/etcd-backup-restore/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of components to backup and restore the etcd of a Kubernetes cluster.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ gardener/etcd-backup-restore 在生产环境中的可用性很高，因为它具
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

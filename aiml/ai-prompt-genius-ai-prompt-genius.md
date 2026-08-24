@@ -1,6 +1,6 @@
 # AI-Prompt-Genius/AI-Prompt-Genius
 
-[![Stars](https://img.shields.io/github/stars/AI-Prompt-Genius/AI-Prompt-Genius?style=flat-square&color=yellow)](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius/stargazers) [![Forks](https://img.shields.io/github/forks/AI-Prompt-Genius/AI-Prompt-Genius?style=flat-square&color=blue)](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI-Prompt-Genius/AI-Prompt-Genius?style=flat-square&color=yellow)](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius/stargazers) [![Forks](https://img.shields.io/github/forks/AI-Prompt-Genius/AI-Prompt-Genius?style=flat-square&color=blue)](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Curate a custom library of AI Prompts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ AI‑Prompt‑Genius 是一个 TypeScript 实现的 AI Prompt 库，能够快速
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

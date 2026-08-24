@@ -1,6 +1,6 @@
 # fixed-width/glass
 
-[![Stars](https://img.shields.io/github/stars/fixed-width/glass?style=flat-square&color=yellow)](https://github.com/fixed-width/glass/stargazers) [![Forks](https://img.shields.io/github/forks/fixed-width/glass?style=flat-square&color=blue)](https://github.com/fixed-width/glass/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fixed-width/glass?style=flat-square&color=yellow)](https://github.com/fixed-width/glass/stargazers) [![Forks](https://img.shields.io/github/forks/fixed-width/glass?style=flat-square&color=blue)](https://github.com/fixed-width/glass/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend
+MCP
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ Show HN: Glass 的生产可用性为中级。它适用于原型或内部工作�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 26/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 41/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

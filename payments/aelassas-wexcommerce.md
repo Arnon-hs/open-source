@@ -1,6 +1,6 @@
 # aelassas/wexcommerce
 
-[![Stars](https://img.shields.io/github/stars/aelassas/wexcommerce?style=flat-square&color=yellow)](https://github.com/aelassas/wexcommerce/stargazers) [![Forks](https://img.shields.io/github/forks/aelassas/wexcommerce?style=flat-square&color=blue)](https://github.com/aelassas/wexcommerce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aelassas/wexcommerce?style=flat-square&color=yellow)](https://github.com/aelassas/wexcommerce/stargazers) [![Forks](https://img.shields.io/github/forks/aelassas/wexcommerce?style=flat-square&color=blue)](https://github.com/aelassas/wexcommerce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Single-Vendor Marketplace
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ aelassas/wexcommerce 是一款基于 TypeScript 的单商家电商平台，提�
 | forks | 42/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

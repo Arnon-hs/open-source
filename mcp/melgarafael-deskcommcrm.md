@@ -1,6 +1,6 @@
 # melgarafael/DeskcommCRM
 
-[![Stars](https://img.shields.io/github/stars/melgarafael/DeskcommCRM?style=flat-square&color=yellow)](https://github.com/melgarafael/DeskcommCRM/stargazers) [![Forks](https://img.shields.io/github/forks/melgarafael/DeskcommCRM?style=flat-square&color=blue)](https://github.com/melgarafael/DeskcommCRM/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/melgarafael/DeskcommCRM?style=flat-square&color=yellow)](https://github.com/melgarafael/DeskcommCRM/stargazers) [![Forks](https://img.shields.io/github/forks/melgarafael/DeskcommCRM?style=flat-square&color=blue)](https://github.com/melgarafael/DeskcommCRM/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ DeskcommCRM的生产可用性较高，主要原因是：
 | forks | 42/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

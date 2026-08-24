@@ -1,6 +1,6 @@
 # argoproj/argo-events
 
-[![Stars](https://img.shields.io/github/stars/argoproj/argo-events?style=flat-square&color=yellow)](https://github.com/argoproj/argo-events/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj/argo-events?style=flat-square&color=blue)](https://github.com/argoproj/argo-events/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argoproj/argo-events?style=flat-square&color=yellow)](https://github.com/argoproj/argo-events/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj/argo-events?style=flat-square&color=blue)](https://github.com/argoproj/argo-events/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Event-driven Automation Framework for Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 829 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ Argo Events 的生产可用性非常高，适合用于生产环境。它具有�
 | forks | 73/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

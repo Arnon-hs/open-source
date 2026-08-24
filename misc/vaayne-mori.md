@@ -1,6 +1,6 @@
 # vaayne/mori
 
-[![Stars](https://img.shields.io/github/stars/vaayne/mori?style=flat-square&color=yellow)](https://github.com/vaayne/mori/stargazers) [![Forks](https://img.shields.io/github/forks/vaayne/mori?style=flat-square&color=blue)](https://github.com/vaayne/mori/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vaayne/mori?style=flat-square&color=yellow)](https://github.com/vaayne/mori/stargazers) [![Forks](https://img.shields.io/github/forks/vaayne/mori?style=flat-square&color=blue)](https://github.com/vaayne/mori/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A native macOS workspace terminal organized around Projects and Worktrees, powered by tmux and libghostty
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ vaayne/mori 的生产可用性为中等。它可以用于原型开发和内部�
 | forks | 33/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

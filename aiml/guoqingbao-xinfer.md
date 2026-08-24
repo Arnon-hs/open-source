@@ -1,6 +1,6 @@
 # guoqingbao/xinfer
 
-[![Stars](https://img.shields.io/github/stars/guoqingbao/xinfer?style=flat-square&color=yellow)](https://github.com/guoqingbao/xinfer/stargazers) [![Forks](https://img.shields.io/github/forks/guoqingbao/xinfer?style=flat-square&color=blue)](https://github.com/guoqingbao/xinfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guoqingbao/xinfer?style=flat-square&color=yellow)](https://github.com/guoqingbao/xinfer/stargazers) [![Forks](https://img.shields.io/github/forks/guoqingbao/xinfer?style=flat-square&color=blue)](https://github.com/guoqingbao/xinfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ guoqingbao/xinfer 是一款纯 Rust 实现的超高速大语言模型（LLM）�
 | forks | 39/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

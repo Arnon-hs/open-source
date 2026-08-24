@@ -1,6 +1,6 @@
 # columnar-tech/dbc
 
-[![Stars](https://img.shields.io/github/stars/columnar-tech/dbc?style=flat-square&color=yellow)](https://github.com/columnar-tech/dbc/stargazers) [![Forks](https://img.shields.io/github/forks/columnar-tech/dbc?style=flat-square&color=blue)](https://github.com/columnar-tech/dbc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/columnar-tech/dbc?style=flat-square&color=yellow)](https://github.com/columnar-tech/dbc/stargazers) [![Forks](https://img.shields.io/github/forks/columnar-tech/dbc?style=flat-square&color=blue)](https://github.com/columnar-tech/dbc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > dbc is the command-line tool for installing and managing ADBC drivers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data · Database
+DevTools · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ dbc 的生产可用性为中等。它适合用于内测或内部流程，但在�
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

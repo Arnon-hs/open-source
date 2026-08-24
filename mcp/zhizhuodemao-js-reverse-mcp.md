@@ -1,6 +1,6 @@
 # zhizhuodemao/js-reverse-mcp
 
-[![Stars](https://img.shields.io/github/stars/zhizhuodemao/js-reverse-mcp?style=flat-square&color=yellow)](https://github.com/zhizhuodemao/js-reverse-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zhizhuodemao/js-reverse-mcp?style=flat-square&color=blue)](https://github.com/zhizhuodemao/js-reverse-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhizhuodemao/js-reverse-mcp?style=flat-square&color=yellow)](https://github.com/zhizhuodemao/js-reverse-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zhizhuodemao/js-reverse-mcp?style=flat-square&color=blue)](https://github.com/zhizhuodemao/js-reverse-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 271 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ zhizhuodemao/js-reverse-mcp 是一款面向 AI Agent 的 JavaScript 逆向 MCP�
 | forks | 61/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

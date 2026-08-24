@@ -1,6 +1,6 @@
 # jcubic/chat-gpt
 
-[![Stars](https://img.shields.io/github/stars/jcubic/chat-gpt?style=flat-square&color=yellow)](https://github.com/jcubic/chat-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/jcubic/chat-gpt?style=flat-square&color=blue)](https://github.com/jcubic/chat-gpt/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jcubic/chat-gpt?style=flat-square&color=yellow)](https://github.com/jcubic/chat-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/jcubic/chat-gpt?style=flat-square&color=blue)](https://github.com/jcubic/chat-gpt/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT conversation saving bookmark
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ jcubic/chat-gpt 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

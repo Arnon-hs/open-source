@@ -1,6 +1,6 @@
 # Cinnamon/kotaemon
 
-[![Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square&color=yellow)](https://github.com/Cinnamon/kotaemon/stargazers) [![Forks](https://img.shields.io/github/forks/Cinnamon/kotaemon?style=flat-square&color=blue)](https://github.com/Cinnamon/kotaemon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square&color=yellow)](https://github.com/Cinnamon/kotaemon/stargazers) [![Forks](https://img.shields.io/github/forks/Cinnamon/kotaemon?style=flat-square&color=blue)](https://github.com/Cinnamon/kotaemon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source RAG-based tool for chatting with your documents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.5k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Cinnamon/kotaemon的生产可用性较高，主要原因是其最近的活动、
 | forks | 83/100 |
 | stars | 94/100 |
 | topics | 50/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

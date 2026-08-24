@@ -1,6 +1,6 @@
 # ClassIsland/ClassIsland
 
-[![Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat-square&color=yellow)](https://github.com/ClassIsland/ClassIsland/stargazers) [![Forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat-square&color=blue)](https://github.com/ClassIsland/ClassIsland/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat-square&color=yellow)](https://github.com/ClassIsland/ClassIsland/stargazers) [![Forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat-square&color=blue)](https://github.com/ClassIsland/ClassIsland/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ClassIsland/ClassIsland：ClassIsland/ClassIsland helps remove repetitive manual
 | forks | 62/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

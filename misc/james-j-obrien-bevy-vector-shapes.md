@@ -1,6 +1,6 @@
 # james-j-obrien/bevy_vector_shapes
 
-[![Stars](https://img.shields.io/github/stars/james-j-obrien/bevy_vector_shapes?style=flat-square&color=yellow)](https://github.com/james-j-obrien/bevy_vector_shapes/stargazers) [![Forks](https://img.shields.io/github/forks/james-j-obrien/bevy_vector_shapes?style=flat-square&color=blue)](https://github.com/james-j-obrien/bevy_vector_shapes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/james-j-obrien/bevy_vector_shapes?style=flat-square&color=yellow)](https://github.com/james-j-obrien/bevy_vector_shapes/stargazers) [![Forks](https://img.shields.io/github/forks/james-j-obrien/bevy_vector_shapes?style=flat-square&color=blue)](https://github.com/james-j-obrien/bevy_vector_shapes/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A library for rendering vector shapes using the Bevy game engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ bevy_vector_shapes 提供了在 Bevy 游戏引擎中直接绘制矢量图形的�
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 68/100 |
-| usefulness | 42/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

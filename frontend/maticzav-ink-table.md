@@ -1,6 +1,6 @@
 # maticzav/ink-table
 
-[![Stars](https://img.shields.io/github/stars/maticzav/ink-table?style=flat-square&color=yellow)](https://github.com/maticzav/ink-table/stargazers) [![Forks](https://img.shields.io/github/forks/maticzav/ink-table?style=flat-square&color=blue)](https://github.com/maticzav/ink-table/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maticzav/ink-table?style=flat-square&color=yellow)](https://github.com/maticzav/ink-table/stargazers) [![Forks](https://img.shields.io/github/forks/maticzav/ink-table?style=flat-square&color=blue)](https://github.com/maticzav/ink-table/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 📐A table component for Ink.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 226 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ maticzav/ink-table 的价值在于，它可以帮助开发人员:
 | forks | 39/100 |
 | stars | 50/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

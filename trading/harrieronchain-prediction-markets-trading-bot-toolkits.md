@@ -1,6 +1,6 @@
 # HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits
 
-[![Stars](https://img.shields.io/github/stars/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits?style=flat-square&color=yellow)](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits/stargazers) [![Forks](https://img.shields.io/github/forks/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits?style=flat-square&color=blue)](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits?style=flat-square&color=yellow)](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits/stargazers) [![Forks](https://img.shields.io/github/forks/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits?style=flat-square&color=blue)](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade Rust trading bots for prediction markets — Polymarket, Kalshi, Limitless. 10 strategies on one execution core. Predict.fun & 20+ venues on the roadmap.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Knowledge/RAG · Automation · AI/ML · Product
+Trading · Automation
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits 帮助研究人员和开�
 | forks | 60/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

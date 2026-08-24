@@ -1,6 +1,6 @@
 # premnirmal/StockTicker
 
-[![Stars](https://img.shields.io/github/stars/premnirmal/StockTicker?style=flat-square&color=yellow)](https://github.com/premnirmal/StockTicker/stargazers) [![Forks](https://img.shields.io/github/forks/premnirmal/StockTicker?style=flat-square&color=blue)](https://github.com/premnirmal/StockTicker/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/premnirmal/StockTicker?style=flat-square&color=yellow)](https://github.com/premnirmal/StockTicker/stargazers) [![Forks](https://img.shields.io/github/forks/premnirmal/StockTicker?style=flat-square&color=blue)](https://github.com/premnirmal/StockTicker/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A resizable widget that shows your financial portfolio on your android home screen
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 556 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ premnirmal/StockTicker 是一个可伸缩的 Android 小组件，能够在手机
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

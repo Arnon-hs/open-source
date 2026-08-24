@@ -1,6 +1,6 @@
 # mothparkzo6249/TG-Polymarket-bot
 
-[![Stars](https://img.shields.io/github/stars/mothparkzo6249/TG-Polymarket-bot?style=flat-square&color=yellow)](https://github.com/mothparkzo6249/TG-Polymarket-bot/stargazers) [![Forks](https://img.shields.io/github/forks/mothparkzo6249/TG-Polymarket-bot?style=flat-square&color=blue)](https://github.com/mothparkzo6249/TG-Polymarket-bot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mothparkzo6249/TG-Polymarket-bot?style=flat-square&color=yellow)](https://github.com/mothparkzo6249/TG-Polymarket-bot/stargazers) [![Forks](https://img.shields.io/github/forks/mothparkzo6249/TG-Polymarket-bot?style=flat-square&color=blue)](https://github.com/mothparkzo6249/TG-Polymarket-bot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ mothparkzo6249/TG-Polymarket-bot 的价值在于它可以帮助研究和自动�
 | forks | 56/100 |
 | stars | 53/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

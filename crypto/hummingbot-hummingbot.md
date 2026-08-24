@@ -1,6 +1,6 @@
 # hummingbot/hummingbot
 
-[![Stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=flat-square&color=yellow)](https://github.com/hummingbot/hummingbot/stargazers) [![Forks](https://img.shields.io/github/forks/hummingbot/hummingbot?style=flat-square&color=blue)](https://github.com/hummingbot/hummingbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=flat-square&color=yellow)](https://github.com/hummingbot/hummingbot/stargazers) [![Forks](https://img.shields.io/github/forks/hummingbot/hummingbot?style=flat-square&color=blue)](https://github.com/hummingbot/hummingbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open source software that helps you create and deploy high-frequency crypto trading bots
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading · Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Hummingbot 是一款开源的高频加密交易机器人平台，提供完整的
 | forks | 92/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 87/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

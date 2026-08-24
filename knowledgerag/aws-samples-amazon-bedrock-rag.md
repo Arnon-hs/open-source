@@ -1,6 +1,6 @@
 # aws-samples/amazon-bedrock-rag
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-rag?style=flat-square&color=yellow)](https://github.com/aws-samples/amazon-bedrock-rag/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-rag?style=flat-square&color=blue)](https://github.com/aws-samples/amazon-bedrock-rag/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-rag?style=flat-square&color=yellow)](https://github.com/aws-samples/amazon-bedrock-rag/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-rag?style=flat-square&color=blue)](https://github.com/aws-samples/amazon-bedrock-rag/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fully managed RAG solution implemented using Knowledge Bases for Amazon Bedrock
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Amazon Bedrock RAG 是一个完全托管的 RAG 解决方案，使用 Knowledge 
 | forks | 44/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # papersgpt/papersgpt-for-zotero
 
-[![Stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero?style=flat-square&color=yellow)](https://github.com/papersgpt/papersgpt-for-zotero/stargazers) [![Forks](https://img.shields.io/github/forks/papersgpt/papersgpt-for-zotero?style=flat-square&color=blue)](https://github.com/papersgpt/papersgpt-for-zotero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero?style=flat-square&color=yellow)](https://github.com/papersgpt/papersgpt-for-zotero/stargazers) [![Forks](https://img.shields.io/github/forks/papersgpt/papersgpt-for-zotero?style=flat-square&color=blue)](https://github.com/papersgpt/papersgpt-for-zotero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.5, Claude Fable 5, Claude Sonnet 5, DeepSeek V4, Grok, OpenRouter, Kimi k3, GLM 5.2, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.7
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Design
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ papers
 | forks | 49/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

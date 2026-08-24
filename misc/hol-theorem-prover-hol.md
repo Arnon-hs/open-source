@@ -1,0 +1,83 @@
+# HOL-Theorem-Prover/HOL
+
+[![Stars](https://img.shields.io/github/stars/HOL-Theorem-Prover/HOL?style=flat-square&color=yellow)](https://github.com/HOL-Theorem-Prover/HOL/stargazers) [![Forks](https://img.shields.io/github/forks/HOL-Theorem-Prover/HOL?style=flat-square&color=blue)](https://github.com/HOL-Theorem-Prover/HOL/network) [![Language](https://img.shields.io/badge/lang-Standard%20ML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+
+> Canonical sources for HOL4 theorem-proving system.   Branch develop is where “mainline development” occurs; when develop passes our regression tests, master is merged forward to catch up.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 749 |
+| 🍴 **Forks** | 172 |
+| 💻 **Language** | Standard ML |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`higher-order-logic` `lambda-calculus` `theorem-proving`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+HOL-Theorem-Prover/HOL: HOL-Theorem-Prover/HOL helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+HOL-Theorem-Prover/HOL: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+HOL-Theorem-Prover/HOL：HOL-Theorem-Prover/HOL helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** HOL-Theorem-Prover/HOL helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 749 GitHub stars
+- 172 forks
+- updated 2026-06-30
+- primary language: Standard ML
+- 3 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 56/100 |
+| stars | 61/100 |
+| topics | 38/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
+| adoption | 60/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/HOL-Theorem-Prover/HOL) · [← Back to Misc](./README.md)</sub>

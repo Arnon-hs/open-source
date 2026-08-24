@@ -1,6 +1,6 @@
 # Sage/carbon
 
-[![Stars](https://img.shields.io/github/stars/Sage/carbon?style=flat-square&color=yellow)](https://github.com/Sage/carbon/stargazers) [![Forks](https://img.shields.io/github/forks/Sage/carbon?style=flat-square&color=blue)](https://github.com/Sage/carbon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sage/carbon?style=flat-square&color=yellow)](https://github.com/Sage/carbon/stargazers) [![Forks](https://img.shields.io/github/forks/Sage/carbon?style=flat-square&color=blue)](https://github.com/Sage/carbon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Carbon by Sage | ReactJS UI Component Library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Sage/carbon 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

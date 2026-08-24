@@ -1,6 +1,6 @@
 # vishalguptax/claude-code-manager
 
-[![Stars](https://img.shields.io/github/stars/vishalguptax/claude-code-manager?style=flat-square&color=yellow)](https://github.com/vishalguptax/claude-code-manager/stargazers) [![Forks](https://img.shields.io/github/forks/vishalguptax/claude-code-manager?style=flat-square&color=blue)](https://github.com/vishalguptax/claude-code-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vishalguptax/claude-code-manager?style=flat-square&color=yellow)](https://github.com/vishalguptax/claude-code-manager/stargazers) [![Forks](https://img.shields.io/github/forks/vishalguptax/claude-code-manager?style=flat-square&color=blue)](https://github.com/vishalguptax/claude-code-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code Manager - sessions, MCP, skills, usage & accounts in your VS Code sidebar. 100% local.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ vishalguptax/claude-code-manager 帮助连接 AI 助手到实际工具和数据�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

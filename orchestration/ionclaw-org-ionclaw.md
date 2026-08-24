@@ -1,6 +1,6 @@
 # ionclaw-org/ionclaw
 
-[![Stars](https://img.shields.io/github/stars/ionclaw-org/ionclaw?style=flat-square&color=yellow)](https://github.com/ionclaw-org/ionclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ionclaw-org/ionclaw?style=flat-square&color=blue)](https://github.com/ionclaw-org/ionclaw/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ionclaw-org/ionclaw?style=flat-square&color=yellow)](https://github.com/ionclaw-org/ionclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ionclaw-org/ionclaw?style=flat-square&color=blue)](https://github.com/ionclaw-org/ionclaw/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform AI agent orchestrator in C++ that turns any device — including your phone — into a self-contained, multi-agent automation platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Database
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ ionclaw 的生产可用性为中等。它适合用于原型或内部工作流程
 | forks | 31/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

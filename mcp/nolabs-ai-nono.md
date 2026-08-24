@@ -1,6 +1,6 @@
 # nolabs-ai/nono
 
-[![Stars](https://img.shields.io/github/stars/nolabs-ai/nono?style=flat-square&color=yellow)](https://github.com/nolabs-ai/nono/stargazers) [![Forks](https://img.shields.io/github/forks/nolabs-ai/nono?style=flat-square&color=blue)](https://github.com/nolabs-ai/nono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nolabs-ai/nono?style=flat-square&color=yellow)](https://github.com/nolabs-ai/nono/stargazers) [![Forks](https://img.shields.io/github/forks/nolabs-ai/nono?style=flat-square&color=blue)](https://github.com/nolabs-ai/nono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Sandbox any AI agent in seconds - zero setup, zero latency.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ noloabs‑ai/nono 是一个用 Rust 编写的开源框架，能够在几秒钟�
 | forks | 57/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

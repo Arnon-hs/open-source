@@ -1,6 +1,6 @@
 # sandraschi/windows-computer-use-mcp
 
-[![Stars](https://img.shields.io/github/stars/sandraschi/windows-computer-use-mcp?style=flat-square&color=yellow)](https://github.com/sandraschi/windows-computer-use-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sandraschi/windows-computer-use-mcp?style=flat-square&color=blue)](https://github.com/sandraschi/windows-computer-use-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandraschi/windows-computer-use-mcp?style=flat-square&color=yellow)](https://github.com/sandraschi/windows-computer-use-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sandraschi/windows-computer-use-mcp?style=flat-square&color=blue)](https://github.com/sandraschi/windows-computer-use-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Windows Computer Use for AI Agents. Both a tool (22 MCP tools for click, type, screenshot, OCR, UI inspection) and an agent (autonomous mission engine, macro recorder, intent-based discovery, event watchers). Built with opencode (DeepSeek V4). Ships as MCP server, web UI, and Tauri desktop app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Overall, the project is **highly suitable for a serious pilot** and, after the m
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

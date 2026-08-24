@@ -1,6 +1,6 @@
 # atata-framework/atata
 
-[![Stars](https://img.shields.io/github/stars/atata-framework/atata?style=flat-square&color=yellow)](https://github.com/atata-framework/atata/stargazers) [![Forks](https://img.shields.io/github/forks/atata-framework/atata?style=flat-square&color=blue)](https://github.com/atata-framework/atata/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atata-framework/atata?style=flat-square&color=yellow)](https://github.com/atata-framework/atata/stargazers) [![Forks](https://img.shields.io/github/forks/atata-framework/atata?style=flat-square&color=blue)](https://github.com/atata-framework/atata/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > C#/.NET test automation framework for web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 501 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ atata-framework/atata 的生产可用性为中等（Medium）。虽然它对于�
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

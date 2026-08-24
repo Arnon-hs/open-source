@@ -1,6 +1,6 @@
 # JuneYaooo/nihaisha-nishi-tcm
 
-[![Stars](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square&color=yellow)](https://github.com/JuneYaooo/nihaisha-nishi-tcm/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/nihaisha-nishi-tcm?style=flat-square&color=blue)](https://github.com/JuneYaooo/nihaisha-nishi-tcm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square&color=yellow)](https://github.com/JuneYaooo/nihaisha-nishi-tcm/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/nihaisha-nishi-tcm?style=flat-square&color=blue)](https://github.com/JuneYaooo/nihaisha-nishi-tcm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Database · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ JuneYaooo/nihaisha-nishi-tcm 通过将课程检索、方证穴位辨析、学习
 | forks | 65/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

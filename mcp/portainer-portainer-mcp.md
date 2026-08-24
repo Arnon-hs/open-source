@@ -1,6 +1,6 @@
 # portainer/portainer-mcp
 
-[![Stars](https://img.shields.io/github/stars/portainer/portainer-mcp?style=flat-square&color=yellow)](https://github.com/portainer/portainer-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/portainer/portainer-mcp?style=flat-square&color=blue)](https://github.com/portainer/portainer-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/portainer/portainer-mcp?style=flat-square&color=yellow)](https://github.com/portainer/portainer-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/portainer/portainer-mcp?style=flat-square&color=blue)](https://github.com/portainer/portainer-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Official Portainer MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Portainer MCP 的生产可用性很高，主要原因是：
 | forks | 41/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

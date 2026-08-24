@@ -1,6 +1,6 @@
 # eliornl/rolemule
 
-[![Stars](https://img.shields.io/github/stars/eliornl/rolemule?style=flat-square&color=yellow)](https://github.com/eliornl/rolemule/stargazers) [![Forks](https://img.shields.io/github/forks/eliornl/rolemule?style=flat-square&color=blue)](https://github.com/eliornl/rolemule/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eliornl/rolemule?style=flat-square&color=yellow)](https://github.com/eliornl/rolemule/stargazers) [![Forks](https://img.shields.io/github/forks/eliornl/rolemule?style=flat-square&color=blue)](https://github.com/eliornl/rolemule/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > RoleMule — One mule for every role. Self-hosted AI job companion. Paste a posting (or Chrome extension): five agents analyze the role, score fit, research the company, write a cover letter, and produce resume tips in ~30s. Dashboard, interview prep, mock sessions, hiring outreach, six career tools, CLI. BYOK Gemini/OpenAI/Anthropic/Ollama.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · DevTools · Database
+Orchestration · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ eliornl/rolemule：eliornl/rolemule helps turn isolated prompts and tools into r
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

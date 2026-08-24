@@ -1,6 +1,6 @@
 # permissionlesstech/bitchat
 
-[![Stars](https://img.shields.io/github/stars/permissionlesstech/bitchat?style=flat-square&color=yellow)](https://github.com/permissionlesstech/bitchat/stargazers) [![Forks](https://img.shields.io/github/forks/permissionlesstech/bitchat?style=flat-square&color=blue)](https://github.com/permissionlesstech/bitchat/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/permissionlesstech/bitchat?style=flat-square&color=yellow)](https://github.com/permissionlesstech/bitchat/stargazers) [![Forks](https://img.shields.io/github/forks/permissionlesstech/bitchat?style=flat-square&color=blue)](https://github.com/permissionlesstech/bitchat/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > bluetooth mesh chat, IRC vibes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.3k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ permissionlesstech/bitchat 具有较高的生产可用性，主要原因是其�
 | forks | 91/100 |
 | stars | 95/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 94/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

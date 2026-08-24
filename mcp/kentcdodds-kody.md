@@ -1,6 +1,6 @@
 # kentcdodds/kody
 
-[![Stars](https://img.shields.io/github/stars/kentcdodds/kody?style=flat-square&color=yellow)](https://github.com/kentcdodds/kody/stargazers) [![Forks](https://img.shields.io/github/forks/kentcdodds/kody?style=flat-square&color=blue)](https://github.com/kentcdodds/kody/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kentcdodds/kody?style=flat-square&color=yellow)](https://github.com/kentcdodds/kody/stargazers) [![Forks](https://img.shields.io/github/forks/kentcdodds/kody?style=flat-square&color=blue)](https://github.com/kentcdodds/kody/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An experimental personal assistant platform built on Cloudflare Workers and MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Frontend · Database
+MCP
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ kentcdodds/kody的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

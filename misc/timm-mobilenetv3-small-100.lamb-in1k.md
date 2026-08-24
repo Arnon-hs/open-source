@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | timm |
 | 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2025-10-19 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -111,6 +111,7 @@ timm/mobilenetv3_small_100.lamb_in1k 是一个开源的计算视觉模型，适�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

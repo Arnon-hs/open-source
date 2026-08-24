@@ -1,6 +1,6 @@
 # kossakovsky/n8n-install
 
-[![Stars](https://img.shields.io/github/stars/kossakovsky/n8n-install?style=flat-square&color=yellow)](https://github.com/kossakovsky/n8n-install/stargazers) [![Forks](https://img.shields.io/github/forks/kossakovsky/n8n-install?style=flat-square&color=blue)](https://github.com/kossakovsky/n8n-install/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kossakovsky/n8n-install?style=flat-square&color=yellow)](https://github.com/kossakovsky/n8n-install/stargazers) [![Forks](https://img.shields.io/github/forks/kossakovsky/n8n-install?style=flat-square&color=blue)](https://github.com/kossakovsky/n8n-install/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTPS. Free Zapier/Make alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 890 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Frontend · Backend
+Knowledge/RAG · Automation · AI/ML · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ kossakovsky/n8n-install 的生产可用性较高，主要原因是其近期的�
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

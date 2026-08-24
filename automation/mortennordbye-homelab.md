@@ -1,6 +1,6 @@
 # mortennordbye/homelab
 
-[![Stars](https://img.shields.io/github/stars/mortennordbye/homelab?style=flat-square&color=yellow)](https://github.com/mortennordbye/homelab/stargazers) [![Forks](https://img.shields.io/github/forks/mortennordbye/homelab?style=flat-square&color=blue)](https://github.com/mortennordbye/homelab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mortennordbye/homelab?style=flat-square&color=yellow)](https://github.com/mortennordbye/homelab/stargazers) [![Forks](https://img.shields.io/github/forks/mortennordbye/homelab?style=flat-square&color=blue)](https://github.com/mortennordbye/homelab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > GitOps-managed homelab using Kubernetes (Talos), ArgoCD, and Terraform for infrastructure as code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database · DevOps/Infra
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ mortennordbye/homelab 通过 GitOps（Talos + ArgoCD + Terraform）将�
 | forks | 24/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

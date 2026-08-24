@@ -1,6 +1,6 @@
 # airbnb/chronon
 
-[![Stars](https://img.shields.io/github/stars/airbnb/chronon?style=flat-square&color=yellow)](https://github.com/airbnb/chronon/stargazers) [![Forks](https://img.shields.io/github/forks/airbnb/chronon?style=flat-square&color=blue)](https://github.com/airbnb/chronon/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/airbnb/chronon?style=flat-square&color=yellow)](https://github.com/airbnb/chronon/stargazers) [![Forks](https://img.shields.io/github/forks/airbnb/chronon?style=flat-square&color=blue)](https://github.com/airbnb/chronon/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Chronon is a data platform for serving for AI/ML applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Chronon 是 Airbnb 开源的面向 AI/ML 应用的数据平台，提供统一的
 | forks | 49/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

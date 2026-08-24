@@ -1,6 +1,6 @@
 # armijnhemel/binaryanalysis-ng
 
-[![Stars](https://img.shields.io/github/stars/armijnhemel/binaryanalysis-ng?style=flat-square&color=yellow)](https://github.com/armijnhemel/binaryanalysis-ng/stargazers) [![Forks](https://img.shields.io/github/forks/armijnhemel/binaryanalysis-ng?style=flat-square&color=blue)](https://github.com/armijnhemel/binaryanalysis-ng/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/armijnhemel/binaryanalysis-ng?style=flat-square&color=yellow)](https://github.com/armijnhemel/binaryanalysis-ng/stargazers) [![Forks](https://img.shields.io/github/forks/armijnhemel/binaryanalysis-ng?style=flat-square&color=blue)](https://github.com/armijnhemel/binaryanalysis-ng/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Binary Analysis Next Generation (BANG)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ BANG 的生产可用性为中等（Medium）。它适合用于原型开发或内
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

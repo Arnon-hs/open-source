@@ -1,6 +1,6 @@
 # LeleDerGrasshalmi/FortniteEndpointsDocumentation
 
-[![Stars](https://img.shields.io/github/stars/LeleDerGrasshalmi/FortniteEndpointsDocumentation?style=flat-square&color=yellow)](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/stargazers) [![Forks](https://img.shields.io/github/forks/LeleDerGrasshalmi/FortniteEndpointsDocumentation?style=flat-square&color=blue)](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeleDerGrasshalmi/FortniteEndpointsDocumentation?style=flat-square&color=yellow)](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/stargazers) [![Forks](https://img.shields.io/github/forks/LeleDerGrasshalmi/FortniteEndpointsDocumentation?style=flat-square&color=blue)](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Fortnite & Epic Games Unofficial API Documentation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ FortniteEndpointsDocumentation 的生产可用性为中等（Medium），适合�
 | forks | 51/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

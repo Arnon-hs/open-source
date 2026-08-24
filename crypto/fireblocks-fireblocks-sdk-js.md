@@ -1,6 +1,6 @@
 # fireblocks/fireblocks-sdk-js
 
-[![Stars](https://img.shields.io/github/stars/fireblocks/fireblocks-sdk-js?style=flat-square&color=yellow)](https://github.com/fireblocks/fireblocks-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/fireblocks/fireblocks-sdk-js?style=flat-square&color=blue)](https://github.com/fireblocks/fireblocks-sdk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fireblocks/fireblocks-sdk-js?style=flat-square&color=yellow)](https://github.com/fireblocks/fireblocks-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/fireblocks/fireblocks-sdk-js?style=flat-square&color=blue)](https://github.com/fireblocks/fireblocks-sdk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Typescript & Javascript SDK for developers using Fireblocks API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Fireblocks SDK-JS 的生产可用性评估为高（High）。它具有以下特�
 | forks | 47/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

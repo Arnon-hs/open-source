@@ -1,6 +1,6 @@
 # inite-ai/inite-brain-service
 
-[![Stars](https://img.shields.io/github/stars/inite-ai/inite-brain-service?style=flat-square&color=yellow)](https://github.com/inite-ai/inite-brain-service/stargazers) [![Forks](https://img.shields.io/github/forks/inite-ai/inite-brain-service?style=flat-square&color=blue)](https://github.com/inite-ai/inite-brain-service/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inite-ai/inite-brain-service?style=flat-square&color=yellow)](https://github.com/inite-ai/inite-brain-service/stargazers) [![Forks](https://img.shields.io/github/forks/inite-ai/inite-brain-service?style=flat-square&color=blue)](https://github.com/inite-ai/inite-brain-service/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source bitemporal knowledge graph — long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR forget. REST + native MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ inite-ai/inite-brain-service 的主要价值在于帮助将孤立的提示和工
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # agentjido/jido_ai
 
-[![Stars](https://img.shields.io/github/stars/agentjido/jido_ai?style=flat-square&color=yellow)](https://github.com/agentjido/jido_ai/stargazers) [![Forks](https://img.shields.io/github/forks/agentjido/jido_ai?style=flat-square&color=blue)](https://github.com/agentjido/jido_ai/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentjido/jido_ai?style=flat-square&color=yellow)](https://github.com/agentjido/jido_ai/stargazers) [![Forks](https://img.shields.io/github/forks/agentjido/jido_ai?style=flat-square&color=blue)](https://github.com/agentjido/jido_ai/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AI integration layer for Jido agents with LLM orchestration and reasoning strategies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Overall, *agentjido/jido_ai* offers a compelling way to standardize AI‑driven 
 | forks | 44/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

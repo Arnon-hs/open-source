@@ -1,6 +1,6 @@
 # bb-qq/r8152
 
-[![Stars](https://img.shields.io/github/stars/bb-qq/r8152?style=flat-square&color=yellow)](https://github.com/bb-qq/r8152/stargazers) [![Forks](https://img.shields.io/github/forks/bb-qq/r8152?style=flat-square&color=blue)](https://github.com/bb-qq/r8152/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bb-qq/r8152?style=flat-square&color=yellow)](https://github.com/bb-qq/r8152/stargazers) [![Forks](https://img.shields.io/github/forks/bb-qq/r8152?style=flat-square&color=blue)](https://github.com/bb-qq/r8152/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ bb-qq/r8152 的生产可用性为中等。它适合用于原型或内部工作�
 | forks | 59/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 70/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

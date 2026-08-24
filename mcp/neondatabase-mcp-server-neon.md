@@ -1,6 +1,6 @@
 # neondatabase/mcp-server-neon
 
-[![Stars](https://img.shields.io/github/stars/neondatabase/mcp-server-neon?style=flat-square&color=yellow)](https://github.com/neondatabase/mcp-server-neon/stargazers) [![Forks](https://img.shields.io/github/forks/neondatabase/mcp-server-neon?style=flat-square&color=blue)](https://github.com/neondatabase/mcp-server-neon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neondatabase/mcp-server-neon?style=flat-square&color=yellow)](https://github.com/neondatabase/mcp-server-neon/stargazers) [![Forks](https://img.shields.io/github/forks/neondatabase/mcp-server-neon?style=flat-square&color=blue)](https://github.com/neondatabase/mcp-server-neon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for interacting with Neon Management API and databases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 596 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend · Data · Database
+MCP · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Overall, *neondatabase/mcp-server-neon* is a high‑readiness OSS component that
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

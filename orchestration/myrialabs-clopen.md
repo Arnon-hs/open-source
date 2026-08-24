@@ -1,6 +1,6 @@
 # myrialabs/clopen
 
-[![Stars](https://img.shields.io/github/stars/myrialabs/clopen?style=flat-square&color=yellow)](https://github.com/myrialabs/clopen/stargazers) [![Forks](https://img.shields.io/github/forks/myrialabs/clopen?style=flat-square&color=blue)](https://github.com/myrialabs/clopen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/myrialabs/clopen?style=flat-square&color=yellow)](https://github.com/myrialabs/clopen/stargazers) [![Forks](https://img.shields.io/github/forks/myrialabs/clopen?style=flat-square&color=blue)](https://github.com/myrialabs/clopen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one workspace for AI coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Myrialabs/clopen 是一个综合性的 AI 编码代理工作空间，帮助您�
 | forks | 23/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

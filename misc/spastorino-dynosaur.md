@@ -1,6 +1,6 @@
 # spastorino/dynosaur
 
-[![Stars](https://img.shields.io/github/stars/spastorino/dynosaur?style=flat-square&color=yellow)](https://github.com/spastorino/dynosaur/stargazers) [![Forks](https://img.shields.io/github/forks/spastorino/dynosaur?style=flat-square&color=blue)](https://github.com/spastorino/dynosaur/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spastorino/dynosaur?style=flat-square&color=yellow)](https://github.com/spastorino/dynosaur/stargazers) [![Forks](https://img.shields.io/github/forks/spastorino/dynosaur?style=flat-square&color=blue)](https://github.com/spastorino/dynosaur/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ spastorino/dynosaur 是一个用 Rust 编写的开源工具，近期仍在活跃
 | forks | 29/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 65/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

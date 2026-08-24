@@ -1,6 +1,6 @@
 # nao1215/filesql
 
-[![Stars](https://img.shields.io/github/stars/nao1215/filesql?style=flat-square&color=yellow)](https://github.com/nao1215/filesql/stargazers) [![Forks](https://img.shields.io/github/forks/nao1215/filesql?style=flat-square&color=blue)](https://github.com/nao1215/filesql/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nao1215/filesql?style=flat-square&color=yellow)](https://github.com/nao1215/filesql/stargazers) [![Forks](https://img.shields.io/github/forks/nao1215/filesql?style=flat-square&color=blue)](https://github.com/nao1215/filesql/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > loads CSV, TSV, LTSV, JSON, JSONL, Parquet, XLSX, ACH, and Fedwire files into SQLite; includes prep and frame for cleanup and in-memory transforms
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database · Marketing
+Data · Database
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ nao1215/filesql 帮助用户将原始数据转换为可搜索、可分析或可�
 | forks | 26/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

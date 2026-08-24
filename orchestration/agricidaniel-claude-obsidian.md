@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-obsidian
 
-[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-obsidian/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-obsidian?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-obsidian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-obsidian/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-obsidian?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-obsidian/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Marketing
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ AgriciDaniel/claude-obsidian 具有高生产可用性，主要原因是：
 | forks | 77/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 83/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

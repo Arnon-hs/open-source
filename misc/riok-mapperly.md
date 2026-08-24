@@ -1,6 +1,6 @@
 # riok/mapperly
 
-[![Stars](https://img.shields.io/github/stars/riok/mapperly?style=flat-square&color=yellow)](https://github.com/riok/mapperly/stargazers) [![Forks](https://img.shields.io/github/forks/riok/mapperly?style=flat-square&color=blue)](https://github.com/riok/mapperly/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riok/mapperly?style=flat-square&color=yellow)](https://github.com/riok/mapperly/stargazers) [![Forks](https://img.shields.io/github/forks/riok/mapperly?style=flat-square&color=blue)](https://github.com/riok/mapperly/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A .NET source generator for generating object mappings. No runtime reflection.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ riok/mapperly 的生产可用性是高的，因为它有活跃的社区支持、
 | forks | 59/100 |
 | stars | 77/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

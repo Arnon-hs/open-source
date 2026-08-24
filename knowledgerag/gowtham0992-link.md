@@ -1,6 +1,6 @@
 # gowtham0992/link
 
-[![Stars](https://img.shields.io/github/stars/gowtham0992/link?style=flat-square&color=yellow)](https://github.com/gowtham0992/link/stargazers) [![Forks](https://img.shields.io/github/forks/gowtham0992/link?style=flat-square&color=blue)](https://github.com/gowtham0992/link/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gowtham0992/link?style=flat-square&color=yellow)](https://github.com/gowtham0992/link/stargazers) [![Forks](https://img.shields.io/github/forks/gowtham0992/link?style=flat-square&color=blue)](https://github.com/gowtham0992/link/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Local personal memory for LLM agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ gowtham0992/link 是一个本地个人记忆库，能够把内部知识转化为
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

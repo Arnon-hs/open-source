@@ -1,6 +1,6 @@
 # Gerstep/positioning-plugin
 
-[![Stars](https://img.shields.io/github/stars/Gerstep/positioning-plugin?style=flat-square&color=yellow)](https://github.com/Gerstep/positioning-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Gerstep/positioning-plugin?style=flat-square&color=blue)](https://github.com/Gerstep/positioning-plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gerstep/positioning-plugin?style=flat-square&color=yellow)](https://github.com/Gerstep/positioning-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Gerstep/positioning-plugin?style=flat-square&color=blue)](https://github.com/Gerstep/positioning-plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 15-minute AI-agent positioning session for startups: forced choices, a sub-30-word statement, co-founder compile, and a 90-day proof plan. Claude Code / Cowork / Codex.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Gerstep/positioning-plugin 的生产可用性评为中等（Medium），因为�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 47/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

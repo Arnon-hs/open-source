@@ -1,6 +1,6 @@
 # Goldentrii/AgentRecall-X
 
-[![Stars](https://img.shields.io/github/stars/Goldentrii/AgentRecall-X?style=flat-square&color=yellow)](https://github.com/Goldentrii/AgentRecall-X/stargazers) [![Forks](https://img.shields.io/github/forks/Goldentrii/AgentRecall-X?style=flat-square&color=blue)](https://github.com/Goldentrii/AgentRecall-X/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Goldentrii/AgentRecall-X?style=flat-square&color=yellow)](https://github.com/Goldentrii/AgentRecall-X/stargazers) [![Forks](https://img.shields.io/github/forks/Goldentrii/AgentRecall-X?style=flat-square&color=blue)](https://github.com/Goldentrii/AgentRecall-X/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Correction-first persistent memory for AI agents. MCP server + SDK + CLI. Compounds across sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · DevTools
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Goldentrii/AgentRecall-X 的生产可用性很高，主要原因是：
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

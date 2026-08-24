@@ -1,6 +1,6 @@
 # jaccen/Awesome-Gaussian-Skills
 
-[![Stars](https://img.shields.io/github/stars/jaccen/Awesome-Gaussian-Skills?style=flat-square&color=yellow)](https://github.com/jaccen/Awesome-Gaussian-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/jaccen/Awesome-Gaussian-Skills?style=flat-square&color=blue)](https://github.com/jaccen/Awesome-Gaussian-Skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaccen/Awesome-Gaussian-Skills?style=flat-square&color=yellow)](https://github.com/jaccen/Awesome-Gaussian-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/jaccen/Awesome-Gaussian-Skills?style=flat-square&color=blue)](https://github.com/jaccen/Awesome-Gaussian-Skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 图形学与3DGS、空间智能持续更新论文；AI Agent Skills for 3D Gaussian Splatting, NeRF & Computer Graphics Research. 690+ methods, 25categories, 12skills. OpenClaw / Claude Code compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -146,14 +146,15 @@ jaccen/Awesome‑Gaussian‑Skills 是一个面向 3D Gaussian Splatting、NeRF 
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
-| usefulness | 74/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

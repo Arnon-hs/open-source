@@ -1,6 +1,6 @@
 # dinglebear-ai/unraid
 
-[![Stars](https://img.shields.io/github/stars/dinglebear-ai/unraid?style=flat-square&color=yellow)](https://github.com/dinglebear-ai/unraid/stargazers) [![Forks](https://img.shields.io/github/forks/dinglebear-ai/unraid?style=flat-square&color=blue)](https://github.com/dinglebear-ai/unraid/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dinglebear-ai/unraid?style=flat-square&color=yellow)](https://github.com/dinglebear-ai/unraid/stargazers) [![Forks](https://img.shields.io/github/forks/dinglebear-ai/unraid?style=flat-square&color=blue)](https://github.com/dinglebear-ai/unraid/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ dinglebear-ai/unraid是一个开源项目，允许通过GraphQL API和MCP工具�
 | forks | 39/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

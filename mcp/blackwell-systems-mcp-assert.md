@@ -1,6 +1,6 @@
 # blackwell-systems/mcp-assert
 
-[![Stars](https://img.shields.io/github/stars/blackwell-systems/mcp-assert?style=flat-square&color=yellow)](https://github.com/blackwell-systems/mcp-assert/stargazers) [![Forks](https://img.shields.io/github/forks/blackwell-systems/mcp-assert?style=flat-square&color=blue)](https://github.com/blackwell-systems/mcp-assert/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blackwell-systems/mcp-assert?style=flat-square&color=yellow)](https://github.com/blackwell-systems/mcp-assert/stargazers) [![Forks](https://img.shields.io/github/forks/blackwell-systems/mcp-assert?style=flat-square&color=blue)](https://github.com/blackwell-systems/mcp-assert/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The testing standard for MCP servers. Lint (14 rules), test, and fuzz over real stdio/SSE/HTTP transport. 18 assertion types in YAML. Found 4,794 schema issues across 55 servers. Any language, no mocks, single binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ blackwell-systems/mcp-assert 是面向 MCP（Model Context Protocol）服务器�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

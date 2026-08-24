@@ -1,6 +1,6 @@
 # SpudGunMan/meshing-around
 
-[![Stars](https://img.shields.io/github/stars/SpudGunMan/meshing-around?style=flat-square&color=yellow)](https://github.com/SpudGunMan/meshing-around/stargazers) [![Forks](https://img.shields.io/github/forks/SpudGunMan/meshing-around?style=flat-square&color=blue)](https://github.com/SpudGunMan/meshing-around/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SpudGunMan/meshing-around?style=flat-square&color=yellow)](https://github.com/SpudGunMan/meshing-around/stargazers) [![Forks](https://img.shields.io/github/forks/SpudGunMan/meshing-around?style=flat-square&color=blue)](https://github.com/SpudGunMan/meshing-around/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > BBS Mesh Scripts for Meshtastic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ SpudGunMan/meshing-around 提供了一套用于 Meshtastic BBS 网格的 Python 
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

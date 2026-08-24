@@ -1,6 +1,6 @@
 # tamdogood/builder-essential-skills
 
-[![Stars](https://img.shields.io/github/stars/tamdogood/builder-essential-skills?style=flat-square&color=yellow)](https://github.com/tamdogood/builder-essential-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tamdogood/builder-essential-skills?style=flat-square&color=blue)](https://github.com/tamdogood/builder-essential-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tamdogood/builder-essential-skills?style=flat-square&color=yellow)](https://github.com/tamdogood/builder-essential-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tamdogood/builder-essential-skills?style=flat-square&color=blue)](https://github.com/tamdogood/builder-essential-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A repository for skills that are essential to my daily work
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ tamdogood/builder-essential-skills 是一个开源项目，提供了构建日常
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

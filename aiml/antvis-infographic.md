@@ -1,6 +1,6 @@
 # antvis/Infographic
 
-[![Stars](https://img.shields.io/github/stars/antvis/Infographic?style=flat-square&color=yellow)](https://github.com/antvis/Infographic/stargazers) [![Forks](https://img.shields.io/github/forks/antvis/Infographic?style=flat-square&color=blue)](https://github.com/antvis/Infographic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antvis/Infographic?style=flat-square&color=yellow)](https://github.com/antvis/Infographic/stargazers) [![Forks](https://img.shields.io/github/forks/antvis/Infographic?style=flat-square&color=blue)](https://github.com/antvis/Infographic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 504 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ antvis/Infographic：antvis/Infographic helps add AI capability without starting
 | forks | 68/100 |
 | stars | 81/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 78/100 |
-| usefulness | 58/100 |
+| production | 71/100 |
+| usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

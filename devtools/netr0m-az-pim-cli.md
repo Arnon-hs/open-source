@@ -1,6 +1,6 @@
 # netr0m/az-pim-cli
 
-[![Stars](https://img.shields.io/github/stars/netr0m/az-pim-cli?style=flat-square&color=yellow)](https://github.com/netr0m/az-pim-cli/stargazers) [![Forks](https://img.shields.io/github/forks/netr0m/az-pim-cli?style=flat-square&color=blue)](https://github.com/netr0m/az-pim-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netr0m/az-pim-cli?style=flat-square&color=yellow)](https://github.com/netr0m/az-pim-cli/stargazers) [![Forks](https://img.shields.io/github/forks/netr0m/az-pim-cli?style=flat-square&color=blue)](https://github.com/netr0m/az-pim-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A utility to list and activate Azure Entra ID Privileged Identity Management roles from the CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ netr0m/az-pim-cli 可以帮助工程师节省每天的开发和审查循环时�
 | forks | 34/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

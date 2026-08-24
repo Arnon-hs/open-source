@@ -1,6 +1,6 @@
 # AmanPriyanshu/Awesome-AI-For-Security
 
-[![Stars](https://img.shields.io/github/stars/AmanPriyanshu/Awesome-AI-For-Security?style=flat-square&color=yellow)](https://github.com/AmanPriyanshu/Awesome-AI-For-Security/stargazers) [![Forks](https://img.shields.io/github/forks/AmanPriyanshu/Awesome-AI-For-Security?style=flat-square&color=blue)](https://github.com/AmanPriyanshu/Awesome-AI-For-Security/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmanPriyanshu/Awesome-AI-For-Security?style=flat-square&color=yellow)](https://github.com/AmanPriyanshu/Awesome-AI-For-Security/stargazers) [![Forks](https://img.shields.io/github/forks/AmanPriyanshu/Awesome-AI-For-Security?style=flat-square&color=blue)](https://github.com/AmanPriyanshu/Awesome-AI-For-Security/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data · Security
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ AmanPriyanshu/Awesome-AI-For-Security 可以帮助减少工作流程中的重复
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

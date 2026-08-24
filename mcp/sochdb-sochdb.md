@@ -1,6 +1,6 @@
 # sochdb/sochdb
 
-[![Stars](https://img.shields.io/github/stars/sochdb/sochdb?style=flat-square&color=yellow)](https://github.com/sochdb/sochdb/stargazers) [![Forks](https://img.shields.io/github/forks/sochdb/sochdb?style=flat-square&color=blue)](https://github.com/sochdb/sochdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sochdb/sochdb?style=flat-square&color=yellow)](https://github.com/sochdb/sochdb/stargazers) [![Forks](https://img.shields.io/github/forks/sochdb/sochdb?style=flat-square&color=blue)](https://github.com/sochdb/sochdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > SochDB is a high-performance embedded, ACID-compliant vector database purpose-built for AI agents and memory
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Data
+MCP · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ SochDB 是一款基于 Rust 实现的高性能嵌入式向量数据库，具备 
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

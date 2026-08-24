@@ -1,6 +1,6 @@
 # rtic-rs/rtic
 
-[![Stars](https://img.shields.io/github/stars/rtic-rs/rtic?style=flat-square&color=yellow)](https://github.com/rtic-rs/rtic/stargazers) [![Forks](https://img.shields.io/github/forks/rtic-rs/rtic?style=flat-square&color=blue)](https://github.com/rtic-rs/rtic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rtic-rs/rtic?style=flat-square&color=yellow)](https://github.com/rtic-rs/rtic/stargazers) [![Forks](https://img.shields.io/github/forks/rtic-rs/rtic?style=flat-square&color=blue)](https://github.com/rtic-rs/rtic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ RTIC（Real‑Time Interrupt‑driven Concurrency）为 ARM Cortex‑M 系列 MC
 | forks | 60/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

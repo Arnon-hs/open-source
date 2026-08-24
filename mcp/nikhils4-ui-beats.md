@@ -1,6 +1,6 @@
 # nikhils4/ui-beats
 
-[![Stars](https://img.shields.io/github/stars/nikhils4/ui-beats?style=flat-square&color=yellow)](https://github.com/nikhils4/ui-beats/stargazers) [![Forks](https://img.shields.io/github/forks/nikhils4/ui-beats?style=flat-square&color=blue)](https://github.com/nikhils4/ui-beats/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikhils4/ui-beats?style=flat-square&color=yellow)](https://github.com/nikhils4/ui-beats/stargazers) [![Forks](https://img.shields.io/github/forks/nikhils4/ui-beats?style=flat-square&color=blue)](https://github.com/nikhils4/ui-beats/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Animated React components you own. 55 components built with TypeScript, Tailwind CSS and Motion — copy, paste, or install with the shadcn CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Frontend · Backend · Design
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ nikhils4/ui-beats是一个开源项目，提供了55个动画化的React组件�
 | forks | 28/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

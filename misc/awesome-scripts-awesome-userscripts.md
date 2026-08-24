@@ -1,6 +1,6 @@
 # awesome-scripts/awesome-userscripts
 
-[![Stars](https://img.shields.io/github/stars/awesome-scripts/awesome-userscripts?style=flat-square&color=yellow)](https://github.com/awesome-scripts/awesome-userscripts/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-scripts/awesome-userscripts?style=flat-square&color=blue)](https://github.com/awesome-scripts/awesome-userscripts/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awesome-scripts/awesome-userscripts?style=flat-square&color=yellow)](https://github.com/awesome-scripts/awesome-userscripts/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-scripts/awesome-userscripts?style=flat-square&color=blue)](https://github.com/awesome-scripts/awesome-userscripts/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 📖  A curated list of Awesome Userscripts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ awesome-scripts/awesome-userscripts 的生产可用性较高，主要原因是�
 | forks | 54/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

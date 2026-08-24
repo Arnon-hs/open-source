@@ -1,6 +1,6 @@
 # JurajNyiri/HomeAssistant-Tapo-Control
 
-[![Stars](https://img.shields.io/github/stars/JurajNyiri/HomeAssistant-Tapo-Control?style=flat-square&color=yellow)](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/stargazers) [![Forks](https://img.shields.io/github/forks/JurajNyiri/HomeAssistant-Tapo-Control?style=flat-square&color=blue)](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JurajNyiri/HomeAssistant-Tapo-Control?style=flat-square&color=yellow)](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/stargazers) [![Forks](https://img.shields.io/github/forks/JurajNyiri/HomeAssistant-Tapo-Control?style=flat-square&color=blue)](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Control for Tapo cameras as a Home Assistant component
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ JurajNyiri/HomeAssistant-Tapo-Control 的生产可用性很高。它最近有活
 | forks | 55/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

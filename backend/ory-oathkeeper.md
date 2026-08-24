@@ -1,6 +1,6 @@
 # ory/oathkeeper
 
-[![Stars](https://img.shields.io/github/stars/ory/oathkeeper?style=flat-square&color=yellow)](https://github.com/ory/oathkeeper/stargazers) [![Forks](https://img.shields.io/github/forks/ory/oathkeeper?style=flat-square&color=blue)](https://github.com/ory/oathkeeper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ory/oathkeeper?style=flat-square&color=yellow)](https://github.com/ory/oathkeeper/stargazers) [![Forks](https://img.shields.io/github/forks/ory/oathkeeper?style=flat-square&color=blue)](https://github.com/ory/oathkeeper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 414 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Security
+Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ ory/oathkeeper 的生产可用性很高，最近有活跃的更新，采用度�
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

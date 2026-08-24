@@ -1,6 +1,6 @@
 # m-novotny/memguard-rs
 
-[![Stars](https://img.shields.io/github/stars/m-novotny/memguard-rs?style=flat-square&color=yellow)](https://github.com/m-novotny/memguard-rs/stargazers) [![Forks](https://img.shields.io/github/forks/m-novotny/memguard-rs?style=flat-square&color=blue)](https://github.com/m-novotny/memguard-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/m-novotny/memguard-rs?style=flat-square&color=yellow)](https://github.com/m-novotny/memguard-rs/stargazers) [![Forks](https://img.shields.io/github/forks/m-novotny/memguard-rs?style=flat-square&color=blue)](https://github.com/m-novotny/memguard-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Secure memory handling primitives for Rust — zeroization on drop, mlock-protected regions, constant-time comparison, and compile-time enforced memory safety boundaries
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ m‑novotny/memguard‑rs 提供了 Rust 中的安全内存原语，包括自动
 | forks | 12/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # denoland/deno_doc
 
-[![Stars](https://img.shields.io/github/stars/denoland/deno_doc?style=flat-square&color=yellow)](https://github.com/denoland/deno_doc/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/deno_doc?style=flat-square&color=blue)](https://github.com/denoland/deno_doc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denoland/deno_doc?style=flat-square&color=yellow)](https://github.com/denoland/deno_doc/stargazers) [![Forks](https://img.shields.io/github/forks/denoland/deno_doc?style=flat-square&color=blue)](https://github.com/denoland/deno_doc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation generator for Deno
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 296 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Deno_doc 的生产可用性为中等。它适合用于 prototype 或内部工作
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

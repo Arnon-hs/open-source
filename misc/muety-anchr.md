@@ -1,6 +1,6 @@
 # muety/anchr
 
-[![Stars](https://img.shields.io/github/stars/muety/anchr?style=flat-square&color=yellow)](https://github.com/muety/anchr/stargazers) [![Forks](https://img.shields.io/github/forks/muety/anchr?style=flat-square&color=blue)](https://github.com/muety/anchr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muety/anchr?style=flat-square&color=yellow)](https://github.com/muety/anchr/stargazers) [![Forks](https://img.shields.io/github/forks/muety/anchr?style=flat-square&color=blue)](https://github.com/muety/anchr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 387 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ muety/anchr 的生产可用性为中等。它可以用于原型或内部工作�
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

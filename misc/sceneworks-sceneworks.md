@@ -1,6 +1,6 @@
 # SceneWorks/SceneWorks
 
-[![Stars](https://img.shields.io/github/stars/SceneWorks/SceneWorks?style=flat-square&color=yellow)](https://github.com/SceneWorks/SceneWorks/stargazers) [![Forks](https://img.shields.io/github/forks/SceneWorks/SceneWorks?style=flat-square&color=blue)](https://github.com/SceneWorks/SceneWorks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SceneWorks/SceneWorks?style=flat-square&color=yellow)](https://github.com/SceneWorks/SceneWorks/stargazers) [![Forks](https://img.shields.io/github/forks/SceneWorks/SceneWorks?style=flat-square&color=blue)](https://github.com/SceneWorks/SceneWorks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,14 +69,15 @@ SceneWorks/SceneWorks 是一个开源项目，虽然其评分不高（47/100）�
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 64/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # VoxelCubes/PanelCleaner
 
-[![Stars](https://img.shields.io/github/stars/VoxelCubes/PanelCleaner?style=flat-square&color=yellow)](https://github.com/VoxelCubes/PanelCleaner/stargazers) [![Forks](https://img.shields.io/github/forks/VoxelCubes/PanelCleaner?style=flat-square&color=blue)](https://github.com/VoxelCubes/PanelCleaner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoxelCubes/PanelCleaner?style=flat-square&color=yellow)](https://github.com/VoxelCubes/PanelCleaner/stargazers) [![Forks](https://img.shields.io/github/forks/VoxelCubes/PanelCleaner?style=flat-square&color=blue)](https://github.com/VoxelCubes/PanelCleaner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-powered tool to clean manga panels.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ VoxelCubes/PanelCleaner：VoxelCubes/PanelCleaner helps add AI capability withou
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

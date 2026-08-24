@@ -1,6 +1,6 @@
 # PaloAltoNetworks/Unit42-timely-threat-intel
 
-[![Stars](https://img.shields.io/github/stars/PaloAltoNetworks/Unit42-timely-threat-intel?style=flat-square&color=yellow)](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/stargazers) [![Forks](https://img.shields.io/github/forks/PaloAltoNetworks/Unit42-timely-threat-intel?style=flat-square&color=blue)](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaloAltoNetworks/Unit42-timely-threat-intel?style=flat-square&color=yellow)](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/stargazers) [![Forks](https://img.shields.io/github/forks/PaloAltoNetworks/Unit42-timely-threat-intel?style=flat-square&color=blue)](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of files with indicators supporting social media posts from Palo Alto Network's Unit 42 team to disseminate timely threat intelligence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ PaloAltoNetworks/Unit42‑timely‑threat‑intel 汇集了 Unit 42 团队在�
 | forks | 40/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

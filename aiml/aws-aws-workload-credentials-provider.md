@@ -1,6 +1,6 @@
 # aws/aws-workload-credentials-provider
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-workload-credentials-provider?style=flat-square&color=yellow)](https://github.com/aws/aws-workload-credentials-provider/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-workload-credentials-provider?style=flat-square&color=blue)](https://github.com/aws/aws-workload-credentials-provider/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-workload-credentials-provider?style=flat-square&color=yellow)](https://github.com/aws/aws-workload-credentials-provider/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-workload-credentials-provider?style=flat-square&color=blue)](https://github.com/aws/aws-workload-credentials-provider/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The AWS Workload Credentials Provider (formerly the AWS Secrets Manager Agent) is a client-side solution that helps you standardize how you consume credentials from AWS services across your compute environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 697 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ aws/aws-workload-credentials-provider 帮助开发者在不从头开始构建模
 | forks | 42/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

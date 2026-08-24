@@ -1,6 +1,6 @@
 # FinHackCN/finhack
 
-[![Stars](https://img.shields.io/github/stars/FinHackCN/finhack?style=flat-square&color=yellow)](https://github.com/FinHackCN/finhack/stargazers) [![Forks](https://img.shields.io/github/forks/FinHackCN/finhack?style=flat-square&color=blue)](https://github.com/FinHackCN/finhack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FinHackCN/finhack?style=flat-square&color=yellow)](https://github.com/FinHackCN/finhack/stargazers) [![Forks](https://img.shields.io/github/forks/FinHackCN/finhack?style=flat-square&color=blue)](https://github.com/FinHackCN/finhack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > FinHack®，一个易于拓展的量化金融框架，它在当前版本中集成了数据采集、因子计算、因子挖掘、因子分析、机器学习、策略编写、量化回测、实盘接入等全流程的量化投研工作。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ FinHack 是一个易于拓展的量化金融框架，集成了数据采集、因
 | forks | 59/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sinavm/sinavm
 
-[![Stars](https://img.shields.io/github/stars/sinavm/sinavm?style=flat-square&color=yellow)](https://github.com/sinavm/sinavm/stargazers) [![Forks](https://img.shields.io/github/forks/sinavm/sinavm?style=flat-square&color=blue)](https://github.com/sinavm/sinavm/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sinavm/sinavm?style=flat-square&color=yellow)](https://github.com/sinavm/sinavm/stargazers) [![Forks](https://img.shields.io/github/forks/sinavm/sinavm?style=flat-square&color=blue)](https://github.com/sinavm/sinavm/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > مواقعی که اینترنت ملی و محدود است، بدون نیاز به وی پی ان می‌توانید به محتوای کانال‌ها و کانفیگ‌های فیلترشکن دسترسی پیدا کنید
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 839 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Mobile
+Payments · Mobile
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ sinavm/sinavm 的生产可用性为中等，适合用于原型或内部工作流
 | forks | 43/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

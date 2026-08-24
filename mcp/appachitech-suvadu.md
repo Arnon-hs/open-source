@@ -1,6 +1,6 @@
 # AppachiTech/suvadu
 
-[![Stars](https://img.shields.io/github/stars/AppachiTech/suvadu?style=flat-square&color=yellow)](https://github.com/AppachiTech/suvadu/stargazers) [![Forks](https://img.shields.io/github/forks/AppachiTech/suvadu?style=flat-square&color=blue)](https://github.com/AppachiTech/suvadu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AppachiTech/suvadu?style=flat-square&color=yellow)](https://github.com/AppachiTech/suvadu/stargazers) [![Forks](https://img.shields.io/github/forks/AppachiTech/suvadu?style=flat-square&color=blue)](https://github.com/AppachiTech/suvadu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Shell history replacement with AI agent tracking and MCP server. Built in Rust, 100% local.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · DevTools · Database · Observability
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ AppachiTech/suvadu 的生产可用性是较高的，最新活动、采用率和�
 | forks | 26/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

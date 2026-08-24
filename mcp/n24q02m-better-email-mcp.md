@@ -1,6 +1,6 @@
 # n24q02m/better-email-mcp
 
-[![Stars](https://img.shields.io/github/stars/n24q02m/better-email-mcp?style=flat-square&color=yellow)](https://github.com/n24q02m/better-email-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/n24q02m/better-email-mcp?style=flat-square&color=blue)](https://github.com/n24q02m/better-email-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n24q02m/better-email-mcp?style=flat-square&color=yellow)](https://github.com/n24q02m/better-email-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/n24q02m/better-email-mcp?style=flat-square&color=blue)](https://github.com/n24q02m/better-email-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > IMAP/SMTP email for AI agents -- read, send, organize folders, and manage attachments across multiple accounts, with auto-discovery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ n24q02m/better-email-mcp 是一个开源项目，提供了 IMAP/SMTP 电子邮�
 | forks | 26/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

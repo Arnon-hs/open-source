@@ -1,6 +1,6 @@
 # nexscope-ai/nexscope-ecommerce-skills
 
-[![Stars](https://img.shields.io/github/stars/nexscope-ai/nexscope-ecommerce-skills?style=flat-square&color=yellow)](https://github.com/nexscope-ai/nexscope-ecommerce-skills/stargazers) [![Forks](https://img.shields.io/github/forks/nexscope-ai/nexscope-ecommerce-skills?style=flat-square&color=blue)](https://github.com/nexscope-ai/nexscope-ecommerce-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexscope-ai/nexscope-ecommerce-skills?style=flat-square&color=yellow)](https://github.com/nexscope-ai/nexscope-ecommerce-skills/stargazers) [![Forks](https://img.shields.io/github/forks/nexscope-ai/nexscope-ecommerce-skills?style=flat-square&color=blue)](https://github.com/nexscope-ai/nexscope-ecommerce-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Ready-to-use AI agent skills for e-commerce intelligence. Product research, keyword optimization, competitor analysis, pricing monitoring, patent risk assessment, market trends, and platform-specific tools for Amazon, TikTok Shop, Shopify, Temu and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Database · Observability
+Orchestration · Automation · AI/ML · Observability · Product
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ nexscope-ai/nexscope-ecommerce-skills 帮助将孤立的提示和工具转化为
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

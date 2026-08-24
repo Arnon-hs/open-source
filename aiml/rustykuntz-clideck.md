@@ -1,6 +1,6 @@
 # rustykuntz/clideck
 
-[![Stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=flat-square&color=yellow)](https://github.com/rustykuntz/clideck/stargazers) [![Forks](https://img.shields.io/github/forks/rustykuntz/clideck?style=flat-square&color=blue)](https://github.com/rustykuntz/clideck/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=flat-square&color=yellow)](https://github.com/rustykuntz/clideck/stargazers) [![Forks](https://img.shields.io/github/forks/rustykuntz/clideck?style=flat-square&color=blue)](https://github.com/rustykuntz/clideck/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A dashboard for running and coordinating multiple AI CLI agents at once.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ rustykuntz/clideck 是一个基于网页的仪表盘，能够一次性启动、�
 | forks | 26/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

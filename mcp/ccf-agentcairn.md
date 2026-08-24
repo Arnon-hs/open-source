@@ -1,6 +1,6 @@
 # ccf/agentcairn
 
-[![Stars](https://img.shields.io/github/stars/ccf/agentcairn?style=flat-square&color=yellow)](https://github.com/ccf/agentcairn/stargazers) [![Forks](https://img.shields.io/github/forks/ccf/agentcairn?style=flat-square&color=blue)](https://github.com/ccf/agentcairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccf/agentcairn?style=flat-square&color=yellow)](https://github.com/ccf/agentcairn/stargazers) [![Forks](https://img.shields.io/github/forks/ccf/agentcairn?style=flat-square&color=blue)](https://github.com/ccf/agentcairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Long-term, cross-project memory for AI coding agents. Your own Obsidian vault as the source of truth. Daemonless and without opaque databases, your memory belongs to you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Data · Database
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ ccf/agent
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # XNet-NGO/aiope
 
-[![Stars](https://img.shields.io/github/stars/XNet-NGO/aiope?style=flat-square&color=yellow)](https://github.com/XNet-NGO/aiope/stargazers) [![Forks](https://img.shields.io/github/forks/XNet-NGO/aiope?style=flat-square&color=blue)](https://github.com/XNet-NGO/aiope/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XNet-NGO/aiope?style=flat-square&color=yellow)](https://github.com/XNet-NGO/aiope/stargazers) [![Forks](https://img.shields.io/github/forks/XNet-NGO/aiope?style=flat-square&color=blue)](https://github.com/XNet-NGO/aiope/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AIOPE — 46-tool AI agent for Android. Linux terminal, browser automation, SSH, dynamic UI, MCP, any model. Built by one developer + AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | C |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ XNet-NGO/aiope 的生产可用性为中等，适合用于原型或内部工作�
 | forks | 25/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

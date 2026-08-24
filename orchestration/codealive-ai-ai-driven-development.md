@@ -1,6 +1,6 @@
 # CodeAlive-AI/ai-driven-development
 
-[![Stars](https://img.shields.io/github/stars/CodeAlive-AI/ai-driven-development?style=flat-square&color=yellow)](https://github.com/CodeAlive-AI/ai-driven-development/stargazers) [![Forks](https://img.shields.io/github/forks/CodeAlive-AI/ai-driven-development?style=flat-square&color=blue)](https://github.com/CodeAlive-AI/ai-driven-development/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeAlive-AI/ai-driven-development?style=flat-square&color=yellow)](https://github.com/CodeAlive-AI/ai-driven-development/stargazers) [![Forks](https://img.shields.io/github/forks/CodeAlive-AI/ai-driven-development?style=flat-square&color=blue)](https://github.com/CodeAlive-AI/ai-driven-development/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, OpenCode, Cursor, Antigravity, and any agent supporting the Agent Skills standard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ CodeAlive-AI/ai-driven-development
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

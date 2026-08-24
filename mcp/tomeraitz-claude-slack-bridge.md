@@ -1,6 +1,6 @@
 # tomeraitz/claude-slack-bridge
 
-[![Stars](https://img.shields.io/github/stars/tomeraitz/claude-slack-bridge?style=flat-square&color=yellow)](https://github.com/tomeraitz/claude-slack-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/tomeraitz/claude-slack-bridge?style=flat-square&color=blue)](https://github.com/tomeraitz/claude-slack-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomeraitz/claude-slack-bridge?style=flat-square&color=yellow)](https://github.com/tomeraitz/claude-slack-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/tomeraitz/claude-slack-bridge?style=flat-square&color=blue)](https://github.com/tomeraitz/claude-slack-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that lets Claude Code pause mid-task and ask a human a question via Slack — then resume once you reply.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ tomeraitz/claude‑slack‑bridge 是一个实现 Model Context Protocol（M
 | forks | 29/100 |
 | stars | 32/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

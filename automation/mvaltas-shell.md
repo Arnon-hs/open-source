@@ -1,6 +1,6 @@
 # mvaltas/shell
 
-[![Stars](https://img.shields.io/github/stars/mvaltas/shell?style=flat-square&color=yellow)](https://github.com/mvaltas/shell/stargazers) [![Forks](https://img.shields.io/github/forks/mvaltas/shell?style=flat-square&color=blue)](https://github.com/mvaltas/shell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mvaltas/shell?style=flat-square&color=yellow)](https://github.com/mvaltas/shell/stargazers) [![Forks](https://img.shields.io/github/forks/mvaltas/shell?style=flat-square&color=blue)](https://github.com/mvaltas/shell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Shell functions and aliases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ mvaltas/shell 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 29/100 |
 | stars | 36/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

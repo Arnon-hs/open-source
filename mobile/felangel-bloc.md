@@ -1,6 +1,6 @@
 # felangel/bloc
 
-[![Stars](https://img.shields.io/github/stars/felangel/bloc?style=flat-square&color=yellow)](https://github.com/felangel/bloc/stargazers) [![Forks](https://img.shields.io/github/forks/felangel/bloc?style=flat-square&color=blue)](https://github.com/felangel/bloc/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/felangel/bloc?style=flat-square&color=yellow)](https://github.com/felangel/bloc/stargazers) [![Forks](https://img.shields.io/github/forks/felangel/bloc?style=flat-square&color=blue)](https://github.com/felangel/bloc/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A predictable state management library that helps implement the BLoC design pattern
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.5k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -136,14 +136,15 @@ The project scores high on production readiness: it is actively maintained (last
 | forks | 88/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

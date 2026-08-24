@@ -1,6 +1,6 @@
 # GianIac/numax
 
-[![Stars](https://img.shields.io/github/stars/GianIac/numax?style=flat-square&color=yellow)](https://github.com/GianIac/numax/stargazers) [![Forks](https://img.shields.io/github/forks/GianIac/numax?style=flat-square&color=blue)](https://github.com/GianIac/numax/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GianIac/numax?style=flat-square&color=yellow)](https://github.com/GianIac/numax/stargazers) [![Forks](https://img.shields.io/github/forks/GianIac/numax?style=flat-square&color=blue)](https://github.com/GianIac/numax/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The beginning of a new runtime model
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ GianIac/numax 的生产可用性为中等水平。它适合用于原型或内部
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

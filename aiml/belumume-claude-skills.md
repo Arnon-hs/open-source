@@ -1,6 +1,6 @@
 # belumume/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/belumume/claude-skills?style=flat-square&color=yellow)](https://github.com/belumume/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/belumume/claude-skills?style=flat-square&color=blue)](https://github.com/belumume/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/belumume/claude-skills?style=flat-square&color=yellow)](https://github.com/belumume/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/belumume/claude-skills?style=flat-square&color=blue)](https://github.com/belumume/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Personal collection of Claude skills - growing as I discover patterns and solve real-world problems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ belumume/claude-skills 是一个个人收集的 Claude 技能集合，旨在帮�
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 75/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

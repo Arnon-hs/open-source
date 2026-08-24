@@ -1,6 +1,6 @@
 # flatpak/xdg-desktop-portal
 
-[![Stars](https://img.shields.io/github/stars/flatpak/xdg-desktop-portal?style=flat-square&color=yellow)](https://github.com/flatpak/xdg-desktop-portal/stargazers) [![Forks](https://img.shields.io/github/forks/flatpak/xdg-desktop-portal?style=flat-square&color=blue)](https://github.com/flatpak/xdg-desktop-portal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flatpak/xdg-desktop-portal?style=flat-square&color=yellow)](https://github.com/flatpak/xdg-desktop-portal/stargazers) [![Forks](https://img.shields.io/github/forks/flatpak/xdg-desktop-portal?style=flat-square&color=blue)](https://github.com/flatpak/xdg-desktop-portal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop integration portal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 819 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ flatpak/xdg-desktop-portal 的生产可用性为中等。它适合用于原型�
 | forks | 61/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

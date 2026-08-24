@@ -1,6 +1,6 @@
 # 2389-research/claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/2389-research/claude-plugins?style=flat-square&color=yellow)](https://github.com/2389-research/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/2389-research/claude-plugins?style=flat-square&color=blue)](https://github.com/2389-research/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2389-research/claude-plugins?style=flat-square&color=yellow)](https://github.com/2389-research/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/2389-research/claude-plugins?style=flat-square&color=blue)](https://github.com/2389-research/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 28 plugins and MCP servers for Claude Code — TDD, multi-agent orchestration, iterative refinement, binary RE, structured decisions. Install any skill in one command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Once these steps are completed, *claude‑plugins* offers a practical, low‑fri
 | forks | 17/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jellyfin/jellyfin
 
-[![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=flat-square&color=yellow)](https://github.com/jellyfin/jellyfin/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellyfin?style=flat-square&color=blue)](https://github.com/jellyfin/jellyfin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=flat-square&color=yellow)](https://github.com/jellyfin/jellyfin/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellyfin?style=flat-square&color=blue)](https://github.com/jellyfin/jellyfin/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Free Software Media System - Server Backend & API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51.6k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Jellyfin（jellyfin/jellyfin）是一款完全开源的媒体系统，提供完�
 | forks | 92/100 |
 | stars | 100/100 |
 | topics | 50/100 |
-| outlook | 86/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 98/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

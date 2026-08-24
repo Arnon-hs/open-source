@@ -1,6 +1,6 @@
 # kunwarVivek/mcp-github-project-manager
 
-[![Stars](https://img.shields.io/github/stars/kunwarVivek/mcp-github-project-manager?style=flat-square&color=yellow)](https://github.com/kunwarVivek/mcp-github-project-manager/stargazers) [![Forks](https://img.shields.io/github/forks/kunwarVivek/mcp-github-project-manager?style=flat-square&color=blue)](https://github.com/kunwarVivek/mcp-github-project-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kunwarVivek/mcp-github-project-manager?style=flat-square&color=yellow)](https://github.com/kunwarVivek/mcp-github-project-manager/stargazers) [![Forks](https://img.shields.io/github/forks/kunwarVivek/mcp-github-project-manager?style=flat-square&color=blue)](https://github.com/kunwarVivek/mcp-github-project-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > a mcp server to manage github project's functionality
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ kunwarVivek/mcp-github-project-manager 是一个基于 MCP 协议的 GitHub 项�
 | forks | 35/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # MindLab-Research/Mixture-of-LoRA-Harness
 
-[![Stars](https://img.shields.io/github/stars/MindLab-Research/Mixture-of-LoRA-Harness?style=flat-square&color=yellow)](https://github.com/MindLab-Research/Mixture-of-LoRA-Harness/stargazers) [![Forks](https://img.shields.io/github/forks/MindLab-Research/Mixture-of-LoRA-Harness?style=flat-square&color=blue)](https://github.com/MindLab-Research/Mixture-of-LoRA-Harness/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MindLab-Research/Mixture-of-LoRA-Harness?style=flat-square&color=yellow)](https://github.com/MindLab-Research/Mixture-of-LoRA-Harness/stargazers) [![Forks](https://img.shields.io/github/forks/MindLab-Research/Mixture-of-LoRA-Harness?style=flat-square&color=blue)](https://github.com/MindLab-Research/Mixture-of-LoRA-Harness/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -77,14 +77,15 @@ MindLab-Research/Mixture-of-LoRA-Harness 是一个用于混合 LoRA（Low-Rank A
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

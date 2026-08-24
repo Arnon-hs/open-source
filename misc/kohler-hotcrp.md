@@ -1,6 +1,6 @@
 # kohler/hotcrp
 
-[![Stars](https://img.shields.io/github/stars/kohler/hotcrp?style=flat-square&color=yellow)](https://github.com/kohler/hotcrp/stargazers) [![Forks](https://img.shields.io/github/forks/kohler/hotcrp?style=flat-square&color=blue)](https://github.com/kohler/hotcrp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kohler/hotcrp?style=flat-square&color=yellow)](https://github.com/kohler/hotcrp/stargazers) [![Forks](https://img.shields.io/github/forks/kohler/hotcrp?style=flat-square&color=blue)](https://github.com/kohler/hotcrp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > HotCRP conference review software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 427 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ HotCRP 的生产可用性为中等。它适合用于内部工作流程或原型�
 | forks | 53/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

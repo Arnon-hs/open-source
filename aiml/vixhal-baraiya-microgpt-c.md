@@ -1,6 +1,6 @@
 # vixhal-baraiya/microgpt-c
 
-[![Stars](https://img.shields.io/github/stars/vixhal-baraiya/microgpt-c?style=flat-square&color=yellow)](https://github.com/vixhal-baraiya/microgpt-c/stargazers) [![Forks](https://img.shields.io/github/forks/vixhal-baraiya/microgpt-c?style=flat-square&color=blue)](https://github.com/vixhal-baraiya/microgpt-c/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vixhal-baraiya/microgpt-c?style=flat-square&color=yellow)](https://github.com/vixhal-baraiya/microgpt-c/stargazers) [![Forks](https://img.shields.io/github/forks/vixhal-baraiya/microgpt-c?style=flat-square&color=blue)](https://github.com/vixhal-baraiya/microgpt-c/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The most atomic way to train and inference a GPT in pure, dependency-free C
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 576 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ vixhal-baraiya/microgpt-c 是一个开源项目，提供了一个纯粹、无依
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

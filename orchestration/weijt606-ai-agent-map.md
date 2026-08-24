@@ -1,6 +1,6 @@
 # weijt606/ai-agent-map
 
-[![Stars](https://img.shields.io/github/stars/weijt606/ai-agent-map?style=flat-square&color=yellow)](https://github.com/weijt606/ai-agent-map/stargazers) [![Forks](https://img.shields.io/github/forks/weijt606/ai-agent-map?style=flat-square&color=blue)](https://github.com/weijt606/ai-agent-map/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weijt606/ai-agent-map?style=flat-square&color=yellow)](https://github.com/weijt606/ai-agent-map/stargazers) [![Forks](https://img.shields.io/github/forks/weijt606/ai-agent-map?style=flat-square&color=blue)](https://github.com/weijt606/ai-agent-map/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A practical, visual-first guide to comparing AI agents, platforms, runtimes, and orchestration tools so you can shortlist the right options faster.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ weijt606/ai-agent-map 的生产可用
 | forks | 24/100 |
 | stars | 37/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

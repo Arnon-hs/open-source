@@ -1,6 +1,6 @@
 # ElPumpo/TinyNvidiaUpdateChecker
 
-[![Stars](https://img.shields.io/github/stars/ElPumpo/TinyNvidiaUpdateChecker?style=flat-square&color=yellow)](https://github.com/ElPumpo/TinyNvidiaUpdateChecker/stargazers) [![Forks](https://img.shields.io/github/forks/ElPumpo/TinyNvidiaUpdateChecker?style=flat-square&color=blue)](https://github.com/ElPumpo/TinyNvidiaUpdateChecker/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ElPumpo/TinyNvidiaUpdateChecker?style=flat-square&color=yellow)](https://github.com/ElPumpo/TinyNvidiaUpdateChecker/stargazers) [![Forks](https://img.shields.io/github/forks/ElPumpo/TinyNvidiaUpdateChecker?style=flat-square&color=blue)](https://github.com/ElPumpo/TinyNvidiaUpdateChecker/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The best NVIDIA GPU update checker for Windows power users/gamers. Fully open sourced and lightweight.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ ElPumpo/TinyNvidiaUpdateChecker 是一个开源、轻量级的 NVIDIA GPU 更新
 | forks | 45/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

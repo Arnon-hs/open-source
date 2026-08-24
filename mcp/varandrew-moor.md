@@ -1,6 +1,6 @@
 # varandrew/moor
 
-[![Stars](https://img.shields.io/github/stars/varandrew/moor?style=flat-square&color=yellow)](https://github.com/varandrew/moor/stargazers) [![Forks](https://img.shields.io/github/forks/varandrew/moor?style=flat-square&color=blue)](https://github.com/varandrew/moor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/varandrew/moor?style=flat-square&color=yellow)](https://github.com/varandrew/moor/stargazers) [![Forks](https://img.shields.io/github/forks/varandrew/moor?style=flat-square&color=blue)](https://github.com/varandrew/moor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Moor is a local MCP control plane for Mac. It gives every coding agent one safe, observable, configurable gateway to your MCP servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Moor 的生产可用性为中等。它适合用于原型或内部工作流程，
 | forks | 26/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

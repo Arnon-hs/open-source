@@ -1,6 +1,6 @@
 # peg/rampart
 
-[![Stars](https://img.shields.io/github/stars/peg/rampart?style=flat-square&color=yellow)](https://github.com/peg/rampart/stargazers) [![Forks](https://img.shields.io/github/forks/peg/rampart?style=flat-square&color=blue)](https://github.com/peg/rampart/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peg/rampart?style=flat-square&color=yellow)](https://github.com/peg/rampart/stargazers) [![Forks](https://img.shields.io/github/forks/peg/rampart?style=flat-square&color=blue)](https://github.com/peg/rampart/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source firewall for AI agents. Policy engine that audits and controls what OpenClaw, Claude Code, Cursor, Codex, and any AI tool can do on your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ peg/rampart 的生产可用性很高，最近有活跃的维护和采用，适�
 | forks | 28/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

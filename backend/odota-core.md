@@ -1,6 +1,6 @@
 # odota/core
 
-[![Stars](https://img.shields.io/github/stars/odota/core?style=flat-square&color=yellow)](https://github.com/odota/core/stargazers) [![Forks](https://img.shields.io/github/forks/odota/core?style=flat-square&color=blue)](https://github.com/odota/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/odota/core?style=flat-square&color=yellow)](https://github.com/odota/core/stargazers) [![Forks](https://img.shields.io/github/forks/odota/core?style=flat-square&color=blue)](https://github.com/odota/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > OpenDota: Open source Dota 2 data platform with automated replay parsing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Database · DevOps/Infra
+Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ OpenDota: OpenDota 是一个开源的Dota 2数据平台，提供自动化回放�
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

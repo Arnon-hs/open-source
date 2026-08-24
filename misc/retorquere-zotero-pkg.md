@@ -1,6 +1,6 @@
 # retorquere/zotero-pkg
 
-[![Stars](https://img.shields.io/github/stars/retorquere/zotero-pkg?style=flat-square&color=yellow)](https://github.com/retorquere/zotero-pkg/stargazers) [![Forks](https://img.shields.io/github/forks/retorquere/zotero-pkg?style=flat-square&color=blue)](https://github.com/retorquere/zotero-pkg/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/retorquere/zotero-pkg?style=flat-square&color=yellow)](https://github.com/retorquere/zotero-pkg/stargazers) [![Forks](https://img.shields.io/github/forks/retorquere/zotero-pkg?style=flat-square&color=blue)](https://github.com/retorquere/zotero-pkg/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Packaged versions of Zotero and Juris-M for Debian-based systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ retorquere/zotero-pkg 的生产可用性为中等。它适合用于原型开发�
 | forks | 40/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

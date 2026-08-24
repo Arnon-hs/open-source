@@ -1,6 +1,6 @@
 # guard0-ai/g0
 
-[![Stars](https://img.shields.io/github/stars/guard0-ai/g0?style=flat-square&color=yellow)](https://github.com/guard0-ai/g0/stargazers) [![Forks](https://img.shields.io/github/forks/guard0-ai/g0?style=flat-square&color=blue)](https://github.com/guard0-ai/g0/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guard0-ai/g0?style=flat-square&color=yellow)](https://github.com/guard0-ai/g0/stargazers) [![Forks](https://img.shields.io/github/forks/guard0-ai/g0?style=flat-square&color=blue)](https://github.com/guard0-ai/g0/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The control layer for AI agents. 1,200+ rules, 12 domains, 10 frameworks, 4,000+ adversarial payloads. Discover. Assess. Test. Monitor. Comply.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Observability · Security · Marketing
+AI/ML · Observability · Security
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ guard0‑ai/g0 是面向 AI 代理的控制层，内置 1,200+ 规则、12 大�
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

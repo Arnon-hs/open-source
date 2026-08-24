@@ -1,6 +1,6 @@
 # TickTockBent/charlotte
 
-[![Stars](https://img.shields.io/github/stars/TickTockBent/charlotte?style=flat-square&color=yellow)](https://github.com/TickTockBent/charlotte/stargazers) [![Forks](https://img.shields.io/github/forks/TickTockBent/charlotte?style=flat-square&color=blue)](https://github.com/TickTockBent/charlotte/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TickTockBent/charlotte?style=flat-square&color=yellow)](https://github.com/TickTockBent/charlotte/stargazers) [![Forks](https://img.shields.io/github/forks/TickTockBent/charlotte?style=flat-square&color=blue)](https://github.com/TickTockBent/charlotte/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Token-efficient browser MCP server — structured web pages for AI agents, not raw accessibility dumps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ TickTockBent/charlotte 是一款 **Token‑efficient 浏览器 MCP（Model Conte
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

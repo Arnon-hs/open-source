@@ -1,6 +1,6 @@
 # Covai-Labs/ai-chat-exporter
 
-[![Stars](https://img.shields.io/github/stars/Covai-Labs/ai-chat-exporter?style=flat-square&color=yellow)](https://github.com/Covai-Labs/ai-chat-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/Covai-Labs/ai-chat-exporter?style=flat-square&color=blue)](https://github.com/Covai-Labs/ai-chat-exporter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Covai-Labs/ai-chat-exporter?style=flat-square&color=yellow)](https://github.com/Covai-Labs/ai-chat-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/Covai-Labs/ai-chat-exporter?style=flat-square&color=blue)](https://github.com/Covai-Labs/ai-chat-exporter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, privacy-focused browser extension to export AI chats from ChatGPT, Claude, Gemini, Qwen, Perplexity, DeepSeek, and Meta AI to Markdown or JSON.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Covai-Labs/ai-chat-exporter 是一个简单的、以隐私为首的浏览器扩�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

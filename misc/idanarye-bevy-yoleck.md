@@ -1,6 +1,6 @@
 # idanarye/bevy-yoleck
 
-[![Stars](https://img.shields.io/github/stars/idanarye/bevy-yoleck?style=flat-square&color=yellow)](https://github.com/idanarye/bevy-yoleck/stargazers) [![Forks](https://img.shields.io/github/forks/idanarye/bevy-yoleck?style=flat-square&color=blue)](https://github.com/idanarye/bevy-yoleck/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idanarye/bevy-yoleck?style=flat-square&color=yellow)](https://github.com/idanarye/bevy-yoleck/stargazers) [![Forks](https://img.shields.io/github/forks/idanarye/bevy-yoleck?style=flat-square&color=blue)](https://github.com/idanarye/bevy-yoleck/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Your Own Level Editor Creation Kit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ idanarye/bevy-yoleck 的价值在于可以帮助开发者创建自定义关卡�
 | forks | 29/100 |
 | stars | 50/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

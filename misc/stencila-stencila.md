@@ -1,6 +1,6 @@
 # stencila/stencila
 
-[![Stars](https://img.shields.io/github/stars/stencila/stencila?style=flat-square&color=yellow)](https://github.com/stencila/stencila/stargazers) [![Forks](https://img.shields.io/github/forks/stencila/stencila?style=flat-square&color=blue)](https://github.com/stencila/stencila/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stencila/stencila?style=flat-square&color=yellow)](https://github.com/stencila/stencila/stargazers) [![Forks](https://img.shields.io/github/forks/stencila/stencila?style=flat-square&color=blue)](https://github.com/stencila/stencila/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Documents with Scientific Intelligence
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 882 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ stencila / stencila 是一个用 Rust 编写的开源框架，旨在为科�
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # timothywarner-org/claude-architect
 
-[![Stars](https://img.shields.io/github/stars/timothywarner-org/claude-architect?style=flat-square&color=yellow)](https://github.com/timothywarner-org/claude-architect/stargazers) [![Forks](https://img.shields.io/github/forks/timothywarner-org/claude-architect?style=flat-square&color=blue)](https://github.com/timothywarner-org/claude-architect/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timothywarner-org/claude-architect?style=flat-square&color=yellow)](https://github.com/timothywarner-org/claude-architect/stargazers) [![Forks](https://img.shields.io/github/forks/timothywarner-org/claude-architect?style=flat-square&color=blue)](https://github.com/timothywarner-org/claude-architect/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Study materials, code examples, and practice scenarios for Anthropic's Claude Certified Architect: Foundations (CCA-F) certification exam. Covers all five exam domains: agentic architecture, MCP integration, Claude Code workflows, prompt engineering, and context management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ timothywarner‑org/claude‑architect 提供了完整的 **Claude Certified Arc
 | forks | 33/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

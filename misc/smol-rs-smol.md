@@ -1,6 +1,6 @@
 # smol-rs/smol
 
-[![Stars](https://img.shields.io/github/stars/smol-rs/smol?style=flat-square&color=yellow)](https://github.com/smol-rs/smol/stargazers) [![Forks](https://img.shields.io/github/forks/smol-rs/smol?style=flat-square&color=blue)](https://github.com/smol-rs/smol/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smol-rs/smol?style=flat-square&color=yellow)](https://github.com/smol-rs/smol/stargazers) [![Forks](https://img.shields.io/github/forks/smol-rs/smol?style=flat-square&color=blue)](https://github.com/smol-rs/smol/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A small and fast async runtime for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -125,14 +125,15 @@ smol 具备轻量、高性能、易集成的特性，已达到可直接用于生
 | forks | 57/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

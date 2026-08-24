@@ -1,6 +1,6 @@
 # shawn0728/OpenSearch-VL
 
-[![Stars](https://img.shields.io/github/stars/shawn0728/OpenSearch-VL?style=flat-square&color=yellow)](https://github.com/shawn0728/OpenSearch-VL/stargazers) [![Forks](https://img.shields.io/github/forks/shawn0728/OpenSearch-VL?style=flat-square&color=blue)](https://github.com/shawn0728/OpenSearch-VL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shawn0728/OpenSearch-VL?style=flat-square&color=yellow)](https://github.com/shawn0728/OpenSearch-VL/stargazers) [![Forks](https://img.shields.io/github/forks/shawn0728/OpenSearch-VL?style=flat-square&color=blue)](https://github.com/shawn0728/OpenSearch-VL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍 OpenSearch-VL provides a fully open recipe for training strong multimodal deep search agents through high-quality data curation, diverse visual/search tools, and fatal-aware agentic reinforcement learning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 259 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ OpenSearch-VL 的生产可用性为中等（Medium）。它适用于原型开发
 | forks | 37/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

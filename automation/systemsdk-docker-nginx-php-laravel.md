@@ -1,6 +1,6 @@
 # systemsdk/docker-nginx-php-laravel
 
-[![Stars](https://img.shields.io/github/stars/systemsdk/docker-nginx-php-laravel?style=flat-square&color=yellow)](https://github.com/systemsdk/docker-nginx-php-laravel/stargazers) [![Forks](https://img.shields.io/github/forks/systemsdk/docker-nginx-php-laravel?style=flat-square&color=blue)](https://github.com/systemsdk/docker-nginx-php-laravel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/systemsdk/docker-nginx-php-laravel?style=flat-square&color=yellow)](https://github.com/systemsdk/docker-nginx-php-laravel/stargazers) [![Forks](https://img.shields.io/github/forks/systemsdk/docker-nginx-php-laravel?style=flat-square&color=blue)](https://github.com/systemsdk/docker-nginx-php-laravel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Docker environment required to run Laravel (based on official php and mysql docker hub repositories)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Database · DevOps/Infra
+Automation · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ The project exhibits strong production-readiness signals, including:
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

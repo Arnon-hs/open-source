@@ -1,6 +1,6 @@
 # JingxuanC/causal-memory
 
-[![Stars](https://img.shields.io/github/stars/JingxuanC/causal-memory?style=flat-square&color=yellow)](https://github.com/JingxuanC/causal-memory/stargazers) [![Forks](https://img.shields.io/github/forks/JingxuanC/causal-memory?style=flat-square&color=blue)](https://github.com/JingxuanC/causal-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JingxuanC/causal-memory?style=flat-square&color=yellow)](https://github.com/JingxuanC/causal-memory/stargazers) [![Forks](https://img.shields.io/github/forks/JingxuanC/causal-memory?style=flat-square&color=blue)](https://github.com/JingxuanC/causal-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Causal memory layer for AI agents — MCP server that records decision→outcome relationships. Survives compaction.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ JingxuanC/causal-memory：JingxuanC/causal-memory helps connect AI assistants to
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 46/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

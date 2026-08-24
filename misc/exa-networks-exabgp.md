@@ -1,6 +1,6 @@
 # Exa-Networks/exabgp
 
-[![Stars](https://img.shields.io/github/stars/Exa-Networks/exabgp?style=flat-square&color=yellow)](https://github.com/Exa-Networks/exabgp/stargazers) [![Forks](https://img.shields.io/github/forks/Exa-Networks/exabgp?style=flat-square&color=blue)](https://github.com/Exa-Networks/exabgp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Exa-Networks/exabgp?style=flat-square&color=yellow)](https://github.com/Exa-Networks/exabgp/stargazers) [![Forks](https://img.shields.io/github/forks/Exa-Networks/exabgp?style=flat-square&color=blue)](https://github.com/Exa-Networks/exabgp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The BGP swiss army knife of networking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 463 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Exa-Networks/exabgp 的生产可用性很高，因为它有最近的活动、广
 | forks | 67/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mikusnuz/app-publish-mcp
 
-[![Stars](https://img.shields.io/github/stars/mikusnuz/app-publish-mcp?style=flat-square&color=yellow)](https://github.com/mikusnuz/app-publish-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mikusnuz/app-publish-mcp?style=flat-square&color=blue)](https://github.com/mikusnuz/app-publish-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikusnuz/app-publish-mcp?style=flat-square&color=yellow)](https://github.com/mikusnuz/app-publish-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mikusnuz/app-publish-mcp?style=flat-square&color=blue)](https://github.com/mikusnuz/app-publish-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Unified MCP server for App Store Connect & Google Play Console — 91 tools for listings, screenshots, releases, reviews & submissions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ mikusnuz/app-publish-mcp 的生产可用性较高，主要原因包括：
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

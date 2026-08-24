@@ -1,6 +1,6 @@
 # h4444433333/net-deep-research
 
-[![Stars](https://img.shields.io/github/stars/h4444433333/net-deep-research?style=flat-square&color=yellow)](https://github.com/h4444433333/net-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/h4444433333/net-deep-research?style=flat-square&color=blue)](https://github.com/h4444433333/net-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h4444433333/net-deep-research?style=flat-square&color=yellow)](https://github.com/h4444433333/net-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/h4444433333/net-deep-research?style=flat-square&color=blue)](https://github.com/h4444433333/net-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Deep research skill for AI agents: live web research, source reputation checks, safer URL fetches, and structured evidence feedback.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ h4444433333/net-deep-research 为 AI 代理提供实时网页研究、来源信�
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -110,6 +110,7 @@ Mooler0410/LLMsPracticalGuide 是一个收录在 *awesome‑llm* 列表中的实
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

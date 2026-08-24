@@ -1,6 +1,6 @@
 # joinmarket-webui/jam
 
-[![Stars](https://img.shields.io/github/stars/joinmarket-webui/jam?style=flat-square&color=yellow)](https://github.com/joinmarket-webui/jam/stargazers) [![Forks](https://img.shields.io/github/forks/joinmarket-webui/jam?style=flat-square&color=blue)](https://github.com/joinmarket-webui/jam/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joinmarket-webui/jam?style=flat-square&color=yellow)](https://github.com/joinmarket-webui/jam/stargazers) [![Forks](https://img.shields.io/github/forks/joinmarket-webui/jam?style=flat-square&color=blue)](https://github.com/joinmarket-webui/jam/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Your sats. Your privacy. Your profit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ joinmarket-webui/jam 的生产可用性为中等（Medium），适合用于 prot
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

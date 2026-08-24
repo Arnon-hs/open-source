@@ -1,6 +1,6 @@
 # shocknet/Lightning.Pub
 
-[![Stars](https://img.shields.io/github/stars/shocknet/Lightning.Pub?style=flat-square&color=yellow)](https://github.com/shocknet/Lightning.Pub/stargazers) [![Forks](https://img.shields.io/github/forks/shocknet/Lightning.Pub?style=flat-square&color=blue)](https://github.com/shocknet/Lightning.Pub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shocknet/Lightning.Pub?style=flat-square&color=yellow)](https://github.com/shocknet/Lightning.Pub/stargazers) [![Forks](https://img.shields.io/github/forks/shocknet/Lightning.Pub?style=flat-square&color=blue)](https://github.com/shocknet/Lightning.Pub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The Nostr Native Lightning node, share your node with nostr accounts and connect easily to webapps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Lightning.Pub 是一个基于 Nostr 协议的原生 Lightning 节点实现，能
 | forks | 31/100 |
 | stars | 42/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

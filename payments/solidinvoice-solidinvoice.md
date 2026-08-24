@@ -1,6 +1,6 @@
 # SolidInvoice/SolidInvoice
 
-[![Stars](https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=flat-square&color=yellow)](https://github.com/SolidInvoice/SolidInvoice/stargazers) [![Forks](https://img.shields.io/github/forks/SolidInvoice/SolidInvoice?style=flat-square&color=blue)](https://github.com/SolidInvoice/SolidInvoice/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=flat-square&color=yellow)](https://github.com/SolidInvoice/SolidInvoice/stargazers) [![Forks](https://img.shields.io/github/forks/SolidInvoice/SolidInvoice?style=flat-square&color=blue)](https://github.com/SolidInvoice/SolidInvoice/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Simple and elegant invoicing solution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 926 |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ SolidInvoice 是一款基于 PHP 的开源发票系统，界面简洁、功能�
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

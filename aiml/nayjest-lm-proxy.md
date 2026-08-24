@@ -1,6 +1,6 @@
 # Nayjest/lm-proxy
 
-[![Stars](https://img.shields.io/github/stars/Nayjest/lm-proxy?style=flat-square&color=yellow)](https://github.com/Nayjest/lm-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Nayjest/lm-proxy?style=flat-square&color=blue)](https://github.com/Nayjest/lm-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nayjest/lm-proxy?style=flat-square&color=yellow)](https://github.com/Nayjest/lm-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Nayjest/lm-proxy?style=flat-square&color=blue)](https://github.com/Nayjest/lm-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI-compatible HTTP LLM proxy / gateway for multi-provider inference (Google, Anthropic, OpenAI, PyTorch). Lightweight, extensible Python/FastAPI—use as library or standalone service.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Nayjest/lm-proxy 的生产可用性较高，主要原因是：
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

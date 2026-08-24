@@ -1,6 +1,6 @@
 # weidu12123/Liyuan
 
-[![Stars](https://img.shields.io/github/stars/weidu12123/Liyuan?style=flat-square&color=yellow)](https://github.com/weidu12123/Liyuan/stargazers) [![Forks](https://img.shields.io/github/forks/weidu12123/Liyuan?style=flat-square&color=blue)](https://github.com/weidu12123/Liyuan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weidu12123/Liyuan?style=flat-square&color=yellow)](https://github.com/weidu12123/Liyuan/stargazers) [![Forks](https://img.shields.io/github/forks/weidu12123/Liyuan?style=flat-square&color=blue)](https://github.com/weidu12123/Liyuan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 梨园 Liyuan — 以 AI Agent 为主体的角色扮演应用：记忆账本、决策卡、自建面板、世界线，兼容角色卡/世界书
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Liyuan 的生产可用性为中等，适合用于原型或内部工作流程，�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

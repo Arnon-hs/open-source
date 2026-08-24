@@ -1,6 +1,6 @@
 # jdf2e/nutui-react
 
-[![Stars](https://img.shields.io/github/stars/jdf2e/nutui-react?style=flat-square&color=yellow)](https://github.com/jdf2e/nutui-react/stargazers) [![Forks](https://img.shields.io/github/forks/jdf2e/nutui-react?style=flat-square&color=blue)](https://github.com/jdf2e/nutui-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jdf2e/nutui-react?style=flat-square&color=yellow)](https://github.com/jdf2e/nutui-react/stargazers) [![Forks](https://img.shields.io/github/forks/jdf2e/nutui-react?style=flat-square&color=blue)](https://github.com/jdf2e/nutui-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 298 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ jdf2e/nutui-react 的生产可用性评分为 66/100。它有以下优点：
 | forks | 62/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

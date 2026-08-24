@@ -1,6 +1,6 @@
 # ronnieops/pi-search-hub
 
-[![Stars](https://img.shields.io/github/stars/ronnieops/pi-search-hub?style=flat-square&color=yellow)](https://github.com/ronnieops/pi-search-hub/stargazers) [![Forks](https://img.shields.io/github/forks/ronnieops/pi-search-hub?style=flat-square&color=blue)](https://github.com/ronnieops/pi-search-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ronnieops/pi-search-hub?style=flat-square&color=yellow)](https://github.com/ronnieops/pi-search-hub/stargazers) [![Forks](https://img.shields.io/github/forks/ronnieops/pi-search-hub?style=flat-square&color=blue)](https://github.com/ronnieops/pi-search-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Unified web search + content extraction extension for pi with 17 backends. Auto-fallback, RRF combine mode, pluggable web_read (Jina/Sofya), and env/shell credential resolution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -125,14 +125,15 @@ ronnieops/pi‑search‑hub 是一款面向 **pi**（Prompt‑injection）平台
 | forks | 27/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

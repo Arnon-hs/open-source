@@ -1,6 +1,6 @@
 # spiritov/ds.css
 
-[![Stars](https://img.shields.io/github/stars/spiritov/ds.css?style=flat-square&color=yellow)](https://github.com/spiritov/ds.css/stargazers) [![Forks](https://img.shields.io/github/forks/spiritov/ds.css?style=flat-square&color=blue)](https://github.com/spiritov/ds.css/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spiritov/ds.css?style=flat-square&color=yellow)](https://github.com/spiritov/ds.css/stargazers) [![Forks](https://img.shields.io/github/forks/spiritov/ds.css?style=flat-square&color=blue)](https://github.com/spiritov/ds.css/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: ds.css: A css framework recreating the DS / DS Lite's UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 34/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ ds.css 是一个轻量级的 CSS 框架，复刻了 DS / DS Lite 的界面�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 55/100 |
-| quality | 37/100 |
-| recency | 100/100 |
+| outlook | 34/100 |
+| quality | 22/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 36/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

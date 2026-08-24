@@ -1,6 +1,6 @@
 # shaftoe/awesome-pi-coding-agent
 
-[![Stars](https://img.shields.io/github/stars/shaftoe/awesome-pi-coding-agent?style=flat-square&color=yellow)](https://github.com/shaftoe/awesome-pi-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/shaftoe/awesome-pi-coding-agent?style=flat-square&color=blue)](https://github.com/shaftoe/awesome-pi-coding-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shaftoe/awesome-pi-coding-agent?style=flat-square&color=yellow)](https://github.com/shaftoe/awesome-pi-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/shaftoe/awesome-pi-coding-agent?style=flat-square&color=blue)](https://github.com/shaftoe/awesome-pi-coding-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ shaftoe/awesome-pi-coding-agent：shaftoe/awesome-pi-coding-agent helps add AI c
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

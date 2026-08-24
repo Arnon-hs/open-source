@@ -1,6 +1,6 @@
 # JNTMTMTM/eIsland
 
-[![Stars](https://img.shields.io/github/stars/JNTMTMTM/eIsland?style=flat-square&color=yellow)](https://github.com/JNTMTMTM/eIsland/stargazers) [![Forks](https://img.shields.io/github/forks/JNTMTMTM/eIsland?style=flat-square&color=blue)](https://github.com/JNTMTMTM/eIsland/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JNTMTMTM/eIsland?style=flat-square&color=yellow)](https://github.com/JNTMTMTM/eIsland/stargazers) [![Forks](https://img.shields.io/github/forks/JNTMTMTM/eIsland?style=flat-square&color=blue)](https://github.com/JNTMTMTM/eIsland/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, built with Electron.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ eIsland 是一款基于 Electron 的 Windows 桌面组件，外观与 Apple 的 
 | forks | 19/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

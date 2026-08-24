@@ -1,6 +1,6 @@
 # imba/imba
 
-[![Stars](https://img.shields.io/github/stars/imba/imba?style=flat-square&color=yellow)](https://github.com/imba/imba/stargazers) [![Forks](https://img.shields.io/github/forks/imba/imba?style=flat-square&color=blue)](https://github.com/imba/imba/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imba/imba?style=flat-square&color=yellow)](https://github.com/imba/imba/stargazers) [![Forks](https://img.shields.io/github/forks/imba/imba?style=flat-square&color=blue)](https://github.com/imba/imba/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🐤 The friendly full-stack language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ imba/imba 的生产可用性较高，主要原因包括：
 | forks | 57/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

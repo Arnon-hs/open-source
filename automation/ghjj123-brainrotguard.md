@@ -1,6 +1,6 @@
 # GHJJ123/brainrotguard
 
-[![Stars](https://img.shields.io/github/stars/GHJJ123/brainrotguard?style=flat-square&color=yellow)](https://github.com/GHJJ123/brainrotguard/stargazers) [![Forks](https://img.shields.io/github/forks/GHJJ123/brainrotguard?style=flat-square&color=blue)](https://github.com/GHJJ123/brainrotguard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GHJJ123/brainrotguard?style=flat-square&color=yellow)](https://github.com/GHJJ123/brainrotguard/stargazers) [![Forks](https://img.shields.io/github/forks/GHJJ123/brainrotguard?style=flat-square&color=blue)](https://github.com/GHJJ123/brainrotguard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · DevOps/Infra
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ GHJJ123/brainrotguard 帮助用户移除重复的手动操作，从而提高工�
 | forks | 34/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

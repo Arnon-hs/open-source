@@ -1,6 +1,6 @@
 # terrapower/armi
 
-[![Stars](https://img.shields.io/github/stars/terrapower/armi?style=flat-square&color=yellow)](https://github.com/terrapower/armi/stargazers) [![Forks](https://img.shields.io/github/forks/terrapower/armi?style=flat-square&color=blue)](https://github.com/terrapower/armi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terrapower/armi?style=flat-square&color=yellow)](https://github.com/terrapower/armi/stargazers) [![Forks](https://img.shields.io/github/forks/terrapower/armi?style=flat-square&color=blue)](https://github.com/terrapower/armi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source nuclear reactor analysis automation framework that helps design teams increase efficiency and quality
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Design
+Automation · Design
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ terrapower/armi 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 50/100 |
 | stars | 52/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # goshs-labs/goshs
 
-[![Stars](https://img.shields.io/github/stars/goshs-labs/goshs?style=flat-square&color=yellow)](https://github.com/goshs-labs/goshs/stargazers) [![Forks](https://img.shields.io/github/forks/goshs-labs/goshs?style=flat-square&color=blue)](https://github.com/goshs-labs/goshs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goshs-labs/goshs?style=flat-square&color=yellow)](https://github.com/goshs-labs/goshs/stargazers) [![Forks](https://img.shields.io/github/forks/goshs-labs/goshs?style=flat-square&color=blue)](https://github.com/goshs-labs/goshs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · FTP/SFTP · SMB · LDAP/S · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 925 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend · Security
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ goshs-labs/goshs 帮助团队重用服务基础设施，而不是重建常见的
 | forks | 43/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

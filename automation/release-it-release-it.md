@@ -1,6 +1,6 @@
 # release-it/release-it
 
-[![Stars](https://img.shields.io/github/stars/release-it/release-it?style=flat-square&color=yellow)](https://github.com/release-it/release-it/stargazers) [![Forks](https://img.shields.io/github/forks/release-it/release-it?style=flat-square&color=blue)](https://github.com/release-it/release-it/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/release-it/release-it?style=flat-square&color=yellow)](https://github.com/release-it/release-it/stargazers) [![Forks](https://img.shields.io/github/forks/release-it/release-it?style=flat-square&color=blue)](https://github.com/release-it/release-it/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Automate versioning and package publishing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 569 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ release-it 的生产可用性很高，主要原因包括：
 | forks | 69/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

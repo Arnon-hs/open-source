@@ -1,6 +1,6 @@
 # zscaler/zscaler-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/zscaler/zscaler-mcp-server?style=flat-square&color=yellow)](https://github.com/zscaler/zscaler-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/zscaler/zscaler-mcp-server?style=flat-square&color=blue)](https://github.com/zscaler/zscaler-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zscaler/zscaler-mcp-server?style=flat-square&color=yellow)](https://github.com/zscaler/zscaler-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/zscaler/zscaler-mcp-server?style=flat-square&color=blue)](https://github.com/zscaler/zscaler-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Zscaler Integration MCP Server is a Model Context Protocol (MCP) server designed for managing Several Zscaler Products using Large Language Models (LLMs).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Design
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Zscaler Integration MCP Server 是一个用于管理多个 Zscaler 产品的 Mod
 | forks | 34/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

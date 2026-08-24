@@ -1,6 +1,6 @@
 # ldez/go-git-cmd-wrapper
 
-[![Stars](https://img.shields.io/github/stars/ldez/go-git-cmd-wrapper?style=flat-square&color=yellow)](https://github.com/ldez/go-git-cmd-wrapper/stargazers) [![Forks](https://img.shields.io/github/forks/ldez/go-git-cmd-wrapper?style=flat-square&color=blue)](https://github.com/ldez/go-git-cmd-wrapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldez/go-git-cmd-wrapper?style=flat-square&color=yellow)](https://github.com/ldez/go-git-cmd-wrapper/stargazers) [![Forks](https://img.shields.io/github/forks/ldez/go-git-cmd-wrapper?style=flat-square&color=blue)](https://github.com/ldez/go-git-cmd-wrapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A simple wrapper around git command in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ ldez/go‑git‑cmd‑wrapper 是一个用 Go 实现的轻量级库，提供对�
 | forks | 31/100 |
 | stars | 38/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

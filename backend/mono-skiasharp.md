@@ -1,6 +1,6 @@
 # mono/SkiaSharp
 
-[![Stars](https://img.shields.io/github/stars/mono/SkiaSharp?style=flat-square&color=yellow)](https://github.com/mono/SkiaSharp/stargazers) [![Forks](https://img.shields.io/github/forks/mono/SkiaSharp?style=flat-square&color=blue)](https://github.com/mono/SkiaSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mono/SkiaSharp?style=flat-square&color=yellow)](https://github.com/mono/SkiaSharp/stargazers) [![Forks](https://img.shields.io/github/forks/mono/SkiaSharp?style=flat-square&color=blue)](https://github.com/mono/SkiaSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 642 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · Mobile
+Backend · Mobile
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ SkiaSharp的生产可用性很高，主要原因是：
 | forks | 70/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 82/100 |
-| usefulness | 58/100 |
+| production | 62/100 |
+| usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

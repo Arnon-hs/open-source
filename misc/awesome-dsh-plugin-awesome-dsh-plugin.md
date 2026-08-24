@@ -1,6 +1,6 @@
 # awesome-dsh-plugin/awesome-dsh-plugin
 
-[![Stars](https://img.shields.io/github/stars/awesome-dsh-plugin/awesome-dsh-plugin?style=flat-square&color=yellow)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-dsh-plugin/awesome-dsh-plugin?style=flat-square&color=blue)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awesome-dsh-plugin/awesome-dsh-plugin?style=flat-square&color=yellow)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-dsh-plugin/awesome-dsh-plugin?style=flat-square&color=blue)](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 858 |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ awesome-dsh-plugin/awesome-dsh-plugin 已经有较高的生产可用性，主要
 | forks | 56/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

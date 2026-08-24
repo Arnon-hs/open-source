@@ -1,6 +1,6 @@
 # microsoft/go-sqlcmd
 
-[![Stars](https://img.shields.io/github/stars/microsoft/go-sqlcmd?style=flat-square&color=yellow)](https://github.com/microsoft/go-sqlcmd/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/go-sqlcmd?style=flat-square&color=blue)](https://github.com/microsoft/go-sqlcmd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/go-sqlcmd?style=flat-square&color=yellow)](https://github.com/microsoft/go-sqlcmd/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/go-sqlcmd?style=flat-square&color=blue)](https://github.com/microsoft/go-sqlcmd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The new sqlcmd, CLI for SQL Server and Azure SQL (winget install sqlcmd / sqlcmd create mssql / sqlcmd open ads)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 570 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Marketing
+Backend · Marketing
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ microsoft/go-sqlcmd 是一个用于 SQL Server 和 Azure SQL 的新 CLI 工具�
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

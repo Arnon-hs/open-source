@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ lichess-org/lila-docker：lichess-org/lila-docker helps make deployment and oper
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # reolink/reolink-cli
 
-[![Stars](https://img.shields.io/github/stars/reolink/reolink-cli?style=flat-square&color=yellow)](https://github.com/reolink/reolink-cli/stargazers) [![Forks](https://img.shields.io/github/forks/reolink/reolink-cli?style=flat-square&color=blue)](https://github.com/reolink/reolink-cli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reolink/reolink-cli?style=flat-square&color=yellow)](https://github.com/reolink/reolink-cli/stargazers) [![Forks](https://img.shields.io/github/forks/reolink/reolink-cli?style=flat-square&color=blue)](https://github.com/reolink/reolink-cli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Official command-line tool for Reolink IP cameras, doorbells and NVRs — LAN only, no cloud. Snapshots, PTZ, RTSP/RTMP stream URLs, two-way audio (talkback/TTS), motion and AI detection, event monitoring, VOD download. JSON output and a built-in MCP server. Works with Home Assistant, Frigate and go2rtc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Reolink CLI 的生产可用性高，理由如下：
 | forks | 26/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

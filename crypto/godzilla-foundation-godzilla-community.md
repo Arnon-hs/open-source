@@ -1,6 +1,6 @@
 # godzilla-foundation/godzilla-community
 
-[![Stars](https://img.shields.io/github/stars/godzilla-foundation/godzilla-community?style=flat-square&color=yellow)](https://github.com/godzilla-foundation/godzilla-community/stargazers) [![Forks](https://img.shields.io/github/forks/godzilla-foundation/godzilla-community?style=flat-square&color=blue)](https://github.com/godzilla-foundation/godzilla-community/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/godzilla-foundation/godzilla-community?style=flat-square&color=yellow)](https://github.com/godzilla-foundation/godzilla-community/stargazers) [![Forks](https://img.shields.io/github/forks/godzilla-foundation/godzilla-community?style=flat-square&color=blue)](https://github.com/godzilla-foundation/godzilla-community/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > godzilla.dev is an open-source C++/Python infrastructure for self-hosted crypto funding rate arbitrage and market making, with ultra low-latency and enterprise private deployment
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · AI/ML · DevOps/Infra
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ godzilla-foundation/godzilla-community 是一个开源项目，提供了一个�
 | forks | 45/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

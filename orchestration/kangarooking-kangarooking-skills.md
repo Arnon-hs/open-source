@@ -1,6 +1,6 @@
 # kangarooking/kangarooking-skills
 
-[![Stars](https://img.shields.io/github/stars/kangarooking/kangarooking-skills?style=flat-square&color=yellow)](https://github.com/kangarooking/kangarooking-skills/stargazers) [![Forks](https://img.shields.io/github/forks/kangarooking/kangarooking-skills?style=flat-square&color=blue)](https://github.com/kangarooking/kangarooking-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kangarooking/kangarooking-skills?style=flat-square&color=yellow)](https://github.com/kangarooking/kangarooking-skills/stargazers) [![Forks](https://img.shields.io/github/forks/kangarooking/kangarooking-skills?style=flat-square&color=blue)](https://github.com/kangarooking/kangarooking-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > My custom AI Agent skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ kangarooking/kangarooking-skills 是一套自定义 AI Agent 技能库，旨在�
 | forks | 43/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

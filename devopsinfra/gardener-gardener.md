@@ -1,6 +1,6 @@
 # gardener/gardener
 
-[![Stars](https://img.shields.io/github/stars/gardener/gardener?style=flat-square&color=yellow)](https://github.com/gardener/gardener/stargazers) [![Forks](https://img.shields.io/github/forks/gardener/gardener?style=flat-square&color=blue)](https://github.com/gardener/gardener/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gardener/gardener?style=flat-square&color=yellow)](https://github.com/gardener/gardener/stargazers) [![Forks](https://img.shields.io/github/forks/gardener/gardener?style=flat-square&color=blue)](https://github.com/gardener/gardener/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 580 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Gardener（`gardener/gardener`）是一个基于托管控制平面的开源系�
 | forks | 69/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

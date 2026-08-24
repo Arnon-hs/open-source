@@ -1,6 +1,6 @@
 # savonet/liquidsoap
 
-[![Stars](https://img.shields.io/github/stars/savonet/liquidsoap?style=flat-square&color=yellow)](https://github.com/savonet/liquidsoap/stargazers) [![Forks](https://img.shields.io/github/forks/savonet/liquidsoap?style=flat-square&color=blue)](https://github.com/savonet/liquidsoap/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/savonet/liquidsoap?style=flat-square&color=yellow)](https://github.com/savonet/liquidsoap/stargazers) [![Forks](https://img.shields.io/github/forks/savonet/liquidsoap?style=flat-square&color=blue)](https://github.com/savonet/liquidsoap/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | OCaml |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend
+Automation
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Liquidsoap 的生产可用性为中等。它适合用于原型开发或内部工
 | forks | 55/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # js-lee-AI/awesome-llm-agent-papers
 
-[![Stars](https://img.shields.io/github/stars/js-lee-AI/awesome-llm-agent-papers?style=flat-square&color=yellow)](https://github.com/js-lee-AI/awesome-llm-agent-papers/stargazers) [![Forks](https://img.shields.io/github/forks/js-lee-AI/awesome-llm-agent-papers?style=flat-square&color=blue)](https://github.com/js-lee-AI/awesome-llm-agent-papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/js-lee-AI/awesome-llm-agent-papers?style=flat-square&color=yellow)](https://github.com/js-lee-AI/awesome-llm-agent-papers/stargazers) [![Forks](https://img.shields.io/github/forks/js-lee-AI/awesome-llm-agent-papers?style=flat-square&color=blue)](https://github.com/js-lee-AI/awesome-llm-agent-papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A curated, continuously updated reading list of 200+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the survey 'LLM Agents: A Survey'.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ js-lee-AI/awesome-llm-agent-papers 是一个开源项目，提供了一个持续
 | forks | 27/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # unjs/magic-regexp
 
-[![Stars](https://img.shields.io/github/stars/unjs/magic-regexp?style=flat-square&color=yellow)](https://github.com/unjs/magic-regexp/stargazers) [![Forks](https://img.shields.io/github/forks/unjs/magic-regexp?style=flat-square&color=blue)](https://github.com/unjs/magic-regexp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unjs/magic-regexp?style=flat-square&color=yellow)](https://github.com/unjs/magic-regexp/stargazers) [![Forks](https://img.shields.io/github/forks/unjs/magic-regexp?style=flat-square&color=blue)](https://github.com/unjs/magic-regexp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A compiled-away, type-safe, readable RegExp alternative
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ unjs/magic-regexp 的生产可用性很高，原因是其最近的活动、广�
 | forks | 47/100 |
 | stars | 77/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

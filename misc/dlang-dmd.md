@@ -1,6 +1,6 @@
 # dlang/dmd
 
-[![Stars](https://img.shields.io/github/stars/dlang/dmd?style=flat-square&color=yellow)](https://github.com/dlang/dmd/stargazers) [![Forks](https://img.shields.io/github/forks/dlang/dmd?style=flat-square&color=blue)](https://github.com/dlang/dmd/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dlang/dmd?style=flat-square&color=yellow)](https://github.com/dlang/dmd/stargazers) [![Forks](https://img.shields.io/github/forks/dlang/dmd?style=flat-square&color=blue)](https://github.com/dlang/dmd/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > dmd D Programming Language compiler
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 708 |
 | 💻 **Language** | D |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ dlang/dmd 的生产可用性很高。它有一个活跃的社区，持续更新�
 | forks | 71/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

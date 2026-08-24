@@ -1,6 +1,6 @@
 # flightphp/core
 
-[![Stars](https://img.shields.io/github/stars/flightphp/core?style=flat-square&color=yellow)](https://github.com/flightphp/core/stargazers) [![Forks](https://img.shields.io/github/forks/flightphp/core?style=flat-square&color=blue)](https://github.com/flightphp/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flightphp/core?style=flat-square&color=yellow)](https://github.com/flightphp/core/stargazers) [![Forks](https://img.shields.io/github/forks/flightphp/core?style=flat-square&color=blue)](https://github.com/flightphp/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An extensible micro-framework for PHP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 417 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ flightphp/core：flightphp/core helps teams reuse service infrastructure instead
 | forks | 66/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

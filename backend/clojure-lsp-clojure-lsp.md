@@ -1,6 +1,6 @@
 # clojure-lsp/clojure-lsp
 
-[![Stars](https://img.shields.io/github/stars/clojure-lsp/clojure-lsp?style=flat-square&color=yellow)](https://github.com/clojure-lsp/clojure-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/clojure-lsp/clojure-lsp?style=flat-square&color=blue)](https://github.com/clojure-lsp/clojure-lsp/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clojure-lsp/clojure-lsp?style=flat-square&color=yellow)](https://github.com/clojure-lsp/clojure-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/clojure-lsp/clojure-lsp?style=flat-square&color=blue)](https://github.com/clojure-lsp/clojure-lsp/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Clojure & ClojureScript Language Server (LSP) implementation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ clojure-lsp 是一个为 Clojure 与 ClojureScript 提供 LSP（Language Server 
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

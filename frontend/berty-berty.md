@@ -1,6 +1,6 @@
 # berty/berty
 
-[![Stars](https://img.shields.io/github/stars/berty/berty?style=flat-square&color=yellow)](https://github.com/berty/berty/stargazers) [![Forks](https://img.shields.io/github/forks/berty/berty?style=flat-square&color=blue)](https://github.com/berty/berty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/berty/berty?style=flat-square&color=yellow)](https://github.com/berty/berty/stargazers) [![Forks](https://img.shields.io/github/forks/berty/berty?style=flat-square&color=blue)](https://github.com/berty/berty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 496 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · Mobile · Security
+Frontend · Mobile · Security
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Berty 在生产环境中有很高的可用性，主要原因是：
 | forks | 67/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

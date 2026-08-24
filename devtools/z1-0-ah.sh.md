@@ -1,6 +1,6 @@
 # z1-0/ah.sh
 
-[![Stars](https://img.shields.io/github/stars/z1-0/ah.sh?style=flat-square&color=yellow)](https://github.com/z1-0/ah.sh/stargazers) [![Forks](https://img.shields.io/github/forks/z1-0/ah.sh?style=flat-square&color=blue)](https://github.com/z1-0/ah.sh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/z1-0/ah.sh?style=flat-square&color=yellow)](https://github.com/z1-0/ah.sh/stargazers) [![Forks](https://img.shields.io/github/forks/z1-0/ah.sh?style=flat-square&color=blue)](https://github.com/z1-0/ah.sh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ad-hoc development shell manager powered by Nix
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ z1-0/ah.sh 的生产可用性为中等。虽然它可以用于内部工作流和
 | forks | 8/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

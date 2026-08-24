@@ -1,6 +1,6 @@
 # mag123c/toktrack
 
-[![Stars](https://img.shields.io/github/stars/mag123c/toktrack?style=flat-square&color=yellow)](https://github.com/mag123c/toktrack/stargazers) [![Forks](https://img.shields.io/github/forks/mag123c/toktrack?style=flat-square&color=blue)](https://github.com/mag123c/toktrack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mag123c/toktrack?style=flat-square&color=yellow)](https://github.com/mag123c/toktrack/stargazers) [![Forks](https://img.shields.io/github/forks/mag123c/toktrack?style=flat-square&color=blue)](https://github.com/mag123c/toktrack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend · DevTools
+Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ mag123c/toktrack 是一款基于 Rust 实现的超高速 LLM Token 与费用跟�
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

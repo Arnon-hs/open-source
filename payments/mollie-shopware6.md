@@ -1,6 +1,6 @@
 # mollie/Shopware6
 
-[![Stars](https://img.shields.io/github/stars/mollie/Shopware6?style=flat-square&color=yellow)](https://github.com/mollie/Shopware6/stargazers) [![Forks](https://img.shields.io/github/forks/mollie/Shopware6?style=flat-square&color=blue)](https://github.com/mollie/Shopware6/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mollie/Shopware6?style=flat-square&color=yellow)](https://github.com/mollie/Shopware6/stargazers) [![Forks](https://img.shields.io/github/forks/mollie/Shopware6?style=flat-square&color=blue)](https://github.com/mollie/Shopware6/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Mollie Payments Plugin for Shopware 6
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Mollie Payments Plugin for Shopware 6（`mollie/Shopware6`）是一款为 Shop
 | forks | 46/100 |
 | stars | 39/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

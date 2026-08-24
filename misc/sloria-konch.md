@@ -1,6 +1,6 @@
 # sloria/konch
 
-[![Stars](https://img.shields.io/github/stars/sloria/konch?style=flat-square&color=yellow)](https://github.com/sloria/konch/stargazers) [![Forks](https://img.shields.io/github/forks/sloria/konch?style=flat-square&color=blue)](https://github.com/sloria/konch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sloria/konch?style=flat-square&color=yellow)](https://github.com/sloria/konch/stargazers) [![Forks](https://img.shields.io/github/forks/sloria/konch?style=flat-square&color=blue)](https://github.com/sloria/konch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Configures your Python shell.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ The project scores high on readiness: recent activity (last commit 2026‑05‑1
 | forks | 30/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

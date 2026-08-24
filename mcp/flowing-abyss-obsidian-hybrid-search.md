@@ -1,6 +1,6 @@
 # flowing-abyss/obsidian-hybrid-search
 
-[![Stars](https://img.shields.io/github/stars/flowing-abyss/obsidian-hybrid-search?style=flat-square&color=yellow)](https://github.com/flowing-abyss/obsidian-hybrid-search/stargazers) [![Forks](https://img.shields.io/github/forks/flowing-abyss/obsidian-hybrid-search?style=flat-square&color=blue)](https://github.com/flowing-abyss/obsidian-hybrid-search/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flowing-abyss/obsidian-hybrid-search?style=flat-square&color=yellow)](https://github.com/flowing-abyss/obsidian-hybrid-search/stargazers) [![Forks](https://img.shields.io/github/forks/flowing-abyss/obsidian-hybrid-search?style=flat-square&color=blue)](https://github.com/flowing-abyss/obsidian-hybrid-search/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Hybrid search for Obsidian vaults via plugin, CLI, and MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Backend · DevTools · Database
+MCP · Knowledge/RAG · Database
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Here's a brief summary of the open-source project:
 | forks | 31/100 |
 | stars | 42/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

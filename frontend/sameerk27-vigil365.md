@@ -1,6 +1,6 @@
 # sameerk27/vigil365
 
-[![Stars](https://img.shields.io/github/stars/sameerk27/vigil365?style=flat-square&color=yellow)](https://github.com/sameerk27/vigil365/stargazers) [![Forks](https://img.shields.io/github/forks/sameerk27/vigil365?style=flat-square&color=blue)](https://github.com/sameerk27/vigil365/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sameerk27/vigil365?style=flat-square&color=yellow)](https://github.com/sameerk27/vigil365/stargazers) [![Forks](https://img.shields.io/github/forks/sameerk27/vigil365?style=flat-square&color=blue)](https://github.com/sameerk27/vigil365/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Microsoft 365 security operations dashboard — aggregates Defender XDR, Entra ID Protection, Intune, Compliance and more into one place.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ sameerk27/vigil365 的生产可用性很高，项目最近有活动，采用度�
 | forks | 46/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aserto-dev/topaz
 
-[![Stars](https://img.shields.io/github/stars/aserto-dev/topaz?style=flat-square&color=yellow)](https://github.com/aserto-dev/topaz/stargazers) [![Forks](https://img.shields.io/github/forks/aserto-dev/topaz?style=flat-square&color=blue)](https://github.com/aserto-dev/topaz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aserto-dev/topaz?style=flat-square&color=yellow)](https://github.com/aserto-dev/topaz/stargazers) [![Forks](https://img.shields.io/github/forks/aserto-dev/topaz?style=flat-square&color=blue)](https://github.com/aserto-dev/topaz/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud-native authorization for modern applications and APIs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ aserto-dev/topaz 的生产可用性较高，原因如下：
 | forks | 41/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

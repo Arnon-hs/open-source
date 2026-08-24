@@ -1,6 +1,6 @@
 # p2panda/reflection
 
-[![Stars](https://img.shields.io/github/stars/p2panda/reflection?style=flat-square&color=yellow)](https://github.com/p2panda/reflection/stargazers) [![Forks](https://img.shields.io/github/forks/p2panda/reflection?style=flat-square&color=blue)](https://github.com/p2panda/reflection/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p2panda/reflection?style=flat-square&color=yellow)](https://github.com/p2panda/reflection/stargazers) [![Forks](https://img.shields.io/github/forks/p2panda/reflection?style=flat-square&color=blue)](https://github.com/p2panda/reflection/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Collaborative, local-first GTK text editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ p2panda/reflection 是一款基于 GTK 的本地优先（local‑first）协同�
 | forks | 26/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # koki-develop/clive
 
-[![Stars](https://img.shields.io/github/stars/koki-develop/clive?style=flat-square&color=yellow)](https://github.com/koki-develop/clive/stargazers) [![Forks](https://img.shields.io/github/forks/koki-develop/clive?style=flat-square&color=blue)](https://github.com/koki-develop/clive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koki-develop/clive?style=flat-square&color=yellow)](https://github.com/koki-develop/clive/stargazers) [![Forks](https://img.shields.io/github/forks/koki-develop/clive?style=flat-square&color=blue)](https://github.com/koki-develop/clive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Automates terminal operations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ koki-develop/clive 是一款用 Go 编写的轻量级 CLI 工具，能够自动�
 | forks | 24/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

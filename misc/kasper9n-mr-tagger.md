@@ -1,6 +1,6 @@
 # kasper9n/mr-tagger
 
-[![Stars](https://img.shields.io/github/stars/kasper9n/mr-tagger?style=flat-square&color=yellow)](https://github.com/kasper9n/mr-tagger/stargazers) [![Forks](https://img.shields.io/github/forks/kasper9n/mr-tagger?style=flat-square&color=blue)](https://github.com/kasper9n/mr-tagger/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kasper9n/mr-tagger?style=flat-square&color=yellow)](https://github.com/kasper9n/mr-tagger/stargazers) [![Forks](https://img.shields.io/github/forks/kasper9n/mr-tagger?style=flat-square&color=blue)](https://github.com/kasper9n/mr-tagger/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Music file tagging app for Mac, Linux and Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ kasper9n/mr-tagger 的生产可用性为中等。它适合用于原型验证或�
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

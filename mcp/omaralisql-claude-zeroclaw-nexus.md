@@ -1,6 +1,6 @@
 # omaralisql/Claude-Zeroclaw-Nexus
 
-[![Stars](https://img.shields.io/github/stars/omaralisql/Claude-Zeroclaw-Nexus?style=flat-square&color=yellow)](https://github.com/omaralisql/Claude-Zeroclaw-Nexus/stargazers) [![Forks](https://img.shields.io/github/forks/omaralisql/Claude-Zeroclaw-Nexus?style=flat-square&color=blue)](https://github.com/omaralisql/Claude-Zeroclaw-Nexus/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omaralisql/Claude-Zeroclaw-Nexus?style=flat-square&color=yellow)](https://github.com/omaralisql/Claude-Zeroclaw-Nexus/stargazers) [![Forks](https://img.shields.io/github/forks/omaralisql/Claude-Zeroclaw-Nexus?style=flat-square&color=blue)](https://github.com/omaralisql/Claude-Zeroclaw-Nexus/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code ZeroClaw Pro 2026: AI Multitool & CLI Router for Claude SDK Subagents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ omaralisql/Claude‑Zeroclaw‑Nexus 是一款基于 Claude SDK 子代理的 AI 
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

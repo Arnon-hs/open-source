@@ -1,6 +1,6 @@
 # TheGreenCedar/codex-autoresearch
 
-[![Stars](https://img.shields.io/github/stars/TheGreenCedar/codex-autoresearch?style=flat-square&color=yellow)](https://github.com/TheGreenCedar/codex-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/TheGreenCedar/codex-autoresearch?style=flat-square&color=blue)](https://github.com/TheGreenCedar/codex-autoresearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheGreenCedar/codex-autoresearch?style=flat-square&color=yellow)](https://github.com/TheGreenCedar/codex-autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/TheGreenCedar/codex-autoresearch?style=flat-square&color=blue)](https://github.com/TheGreenCedar/codex-autoresearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A codex plugin for running optimization loops inside a codebase. It is useful when you have a measurable target and many possible changes to try: test runtime, build speed, bundle size, model loss, Lighthouse scores, memory use, query latency, or any other metric you can print from a script.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ TheGreenCedar/codex‑autoresearch 是一个 Codex 插件，能够在代码库�
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

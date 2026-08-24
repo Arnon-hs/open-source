@@ -1,6 +1,6 @@
 # kubernetes/release
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/release?style=flat-square&color=yellow)](https://github.com/kubernetes/release/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/release?style=flat-square&color=blue)](https://github.com/kubernetes/release/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/release?style=flat-square&color=yellow)](https://github.com/kubernetes/release/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/release?style=flat-square&color=blue)](https://github.com/kubernetes/release/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Release infrastructure for Kubernetes and related components
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 504 |
 | 🍴 **Forks** | 551 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ kubernetes/release 的价值在于帮助用户标准化部署、自动化运维�
 | forks | 69/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

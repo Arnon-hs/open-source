@@ -1,6 +1,6 @@
 # smallfawn/QLScriptPublic
 
-[![Stars](https://img.shields.io/github/stars/smallfawn/QLScriptPublic?style=flat-square&color=yellow)](https://github.com/smallfawn/QLScriptPublic/stargazers) [![Forks](https://img.shields.io/github/forks/smallfawn/QLScriptPublic?style=flat-square&color=blue)](https://github.com/smallfawn/QLScriptPublic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smallfawn/QLScriptPublic?style=flat-square&color=yellow)](https://github.com/smallfawn/QLScriptPublic/stargazers) [![Forks](https://img.shields.io/github/forks/smallfawn/QLScriptPublic?style=flat-square&color=blue)](https://github.com/smallfawn/QLScriptPublic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 青龙面板脚本公共仓库 企鹅交流1021185005
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Here's a brief summary and explanation of the project:
 | forks | 65/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

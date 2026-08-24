@@ -1,6 +1,6 @@
 # stevelr/anytype
 
-[![Stars](https://img.shields.io/github/stars/stevelr/anytype?style=flat-square&color=yellow)](https://github.com/stevelr/anytype/stargazers) [![Forks](https://img.shields.io/github/forks/stevelr/anytype?style=flat-square&color=blue)](https://github.com/stevelr/anytype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevelr/anytype?style=flat-square&color=yellow)](https://github.com/stevelr/anytype/stargazers) [![Forks](https://img.shields.io/github/forks/stevelr/anytype?style=flat-square&color=blue)](https://github.com/stevelr/anytype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > CLI, Rust client library, and MCP server for Anytype: manage spaces and objects, edit documents in Markdown, back up and restore, chat.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ stevelr/anytype：stevelr/anytype helps connect AI assistants to real tools and 
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

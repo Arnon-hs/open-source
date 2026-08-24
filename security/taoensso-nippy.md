@@ -1,6 +1,6 @@
 # taoensso/nippy
 
-[![Stars](https://img.shields.io/github/stars/taoensso/nippy?style=flat-square&color=yellow)](https://github.com/taoensso/nippy/stargazers) [![Forks](https://img.shields.io/github/forks/taoensso/nippy?style=flat-square&color=blue)](https://github.com/taoensso/nippy/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taoensso/nippy?style=flat-square&color=yellow)](https://github.com/taoensso/nippy/stargazers) [![Forks](https://img.shields.io/github/forks/taoensso/nippy?style=flat-square&color=blue)](https://github.com/taoensso/nippy/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Fast serialization library for Clojure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ taoensso/nippy：taoensso/nippy helps catch security and privacy issues earlier 
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

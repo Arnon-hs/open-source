@@ -1,6 +1,6 @@
 # feature-sliced/skills
 
-[![Stars](https://img.shields.io/github/stars/feature-sliced/skills?style=flat-square&color=yellow)](https://github.com/feature-sliced/skills/stargazers) [![Forks](https://img.shields.io/github/forks/feature-sliced/skills?style=flat-square&color=blue)](https://github.com/feature-sliced/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feature-sliced/skills?style=flat-square&color=yellow)](https://github.com/feature-sliced/skills/stargazers) [![Forks](https://img.shields.io/github/forks/feature-sliced/skills?style=flat-square&color=blue)](https://github.com/feature-sliced/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills for applying Feature-Sliced Design (FSD) v2.1 in frontend projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ feature-sliced/skills 是一个开源项目，提供了用于前端项目的 Fea
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

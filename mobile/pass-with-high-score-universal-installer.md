@@ -1,6 +1,6 @@
 # pass-with-high-score/universal-installer
 
-[![Stars](https://img.shields.io/github/stars/pass-with-high-score/universal-installer?style=flat-square&color=yellow)](https://github.com/pass-with-high-score/universal-installer/stargazers) [![Forks](https://img.shields.io/github/forks/pass-with-high-score/universal-installer?style=flat-square&color=blue)](https://github.com/pass-with-high-score/universal-installer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pass-with-high-score/universal-installer?style=flat-square&color=yellow)](https://github.com/pass-with-high-score/universal-installer/stargazers) [![Forks](https://img.shields.io/github/forks/pass-with-high-score/universal-installer?style=flat-square&color=blue)](https://github.com/pass-with-high-score/universal-installer/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Pass-with-high-score/universal-installer 可以在以下情况下提供价值：
 | forks | 43/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

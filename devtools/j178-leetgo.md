@@ -1,6 +1,6 @@
 # j178/leetgo
 
-[![Stars](https://img.shields.io/github/stars/j178/leetgo?style=flat-square&color=yellow)](https://github.com/j178/leetgo/stargazers) [![Forks](https://img.shields.io/github/forks/j178/leetgo?style=flat-square&color=blue)](https://github.com/j178/leetgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/j178/leetgo?style=flat-square&color=yellow)](https://github.com/j178/leetgo/stargazers) [![Forks](https://img.shields.io/github/forks/j178/leetgo?style=flat-square&color=blue)](https://github.com/j178/leetgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Best LeetCode friend for geek. :snowboarder:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ j178/leetgo 的生产可用性较高。根据 GitHub 的数据，项目有 693 �
 | forks | 42/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

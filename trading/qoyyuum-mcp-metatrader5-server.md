@@ -1,6 +1,6 @@
 # Qoyyuum/mcp-metatrader5-server
 
-[![Stars](https://img.shields.io/github/stars/Qoyyuum/mcp-metatrader5-server?style=flat-square&color=yellow)](https://github.com/Qoyyuum/mcp-metatrader5-server/stargazers) [![Forks](https://img.shields.io/github/forks/Qoyyuum/mcp-metatrader5-server?style=flat-square&color=blue)](https://github.com/Qoyyuum/mcp-metatrader5-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qoyyuum/mcp-metatrader5-server?style=flat-square&color=yellow)](https://github.com/Qoyyuum/mcp-metatrader5-server/stargazers) [![Forks](https://img.shields.io/github/forks/Qoyyuum/mcp-metatrader5-server?style=flat-square&color=blue)](https://github.com/Qoyyuum/mcp-metatrader5-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server for interacting with the MetaTrader 5 trading platform. This server provides AI assistants with tools and resources to access market data, perform trading operations, and analyze trading history.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · MCP · AI/ML · Backend · Data
+Trading · MCP · Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Qoyyuum/mcp‑metatrader5‑server 是一个基于 Model Context Protocol（MCP�
 | forks | 45/100 |
 | stars | 48/100 |
 | topics | 25/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

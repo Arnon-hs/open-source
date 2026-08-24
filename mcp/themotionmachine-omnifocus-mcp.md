@@ -1,6 +1,6 @@
 # themotionmachine/OmniFocus-MCP
 
-[![Stars](https://img.shields.io/github/stars/themotionmachine/OmniFocus-MCP?style=flat-square&color=yellow)](https://github.com/themotionmachine/OmniFocus-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/themotionmachine/OmniFocus-MCP?style=flat-square&color=blue)](https://github.com/themotionmachine/OmniFocus-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/themotionmachine/OmniFocus-MCP?style=flat-square&color=yellow)](https://github.com/themotionmachine/OmniFocus-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/themotionmachine/OmniFocus-MCP?style=flat-square&color=blue)](https://github.com/themotionmachine/OmniFocus-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Let LLMs interface with your tasks and projects through the Model Context Protocol. Add, organize, and query your OmniFocus database with natural language commands.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Here's a brief summary and an explanation of the project's value, practical adop
 | forks | 45/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

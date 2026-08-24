@@ -1,6 +1,6 @@
 # streamnative/streamnative-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/streamnative/streamnative-mcp-server?style=flat-square&color=yellow)](https://github.com/streamnative/streamnative-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/streamnative/streamnative-mcp-server?style=flat-square&color=blue)](https://github.com/streamnative/streamnative-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streamnative/streamnative-mcp-server?style=flat-square&color=yellow)](https://github.com/streamnative/streamnative-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/streamnative/streamnative-mcp-server?style=flat-square&color=blue)](https://github.com/streamnative/streamnative-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Developer-friendly MCP server bridging Kafka and Pulsar protocols—built with ❤️ by StreamNative for an agentic, streaming-first future.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ StreamNative MCP Server 的生产可用性评分为中等（Medium）。它适�
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

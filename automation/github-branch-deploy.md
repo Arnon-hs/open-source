@@ -1,6 +1,6 @@
 # github/branch-deploy
 
-[![Stars](https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&color=yellow)](https://github.com/github/branch-deploy/stargazers) [![Forks](https://img.shields.io/github/forks/github/branch-deploy?style=flat-square&color=blue)](https://github.com/github/branch-deploy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&color=yellow)](https://github.com/github/branch-deploy/stargazers) [![Forks](https://img.shields.io/github/forks/github/branch-deploy?style=flat-square&color=blue)](https://github.com/github/branch-deploy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 554 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ github/branch-deploy - проект, который позволяет авто�
 | forks | 46/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

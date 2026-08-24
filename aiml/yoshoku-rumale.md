@@ -1,6 +1,6 @@
 # yoshoku/rumale
 
-[![Stars](https://img.shields.io/github/stars/yoshoku/rumale?style=flat-square&color=yellow)](https://github.com/yoshoku/rumale/stargazers) [![Forks](https://img.shields.io/github/forks/yoshoku/rumale?style=flat-square&color=blue)](https://github.com/yoshoku/rumale/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yoshoku/rumale?style=flat-square&color=yellow)](https://github.com/yoshoku/rumale/stargazers) [![Forks](https://img.shields.io/github/forks/yoshoku/rumale?style=flat-square&color=blue)](https://github.com/yoshoku/rumale/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Rumale is a machine learning library in Ruby
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 914 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Yoshoku/rumale 是一个基于 Ruby 的机器学习库，能够快速为项目�
 | forks | 39/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

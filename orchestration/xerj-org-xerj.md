@@ -1,6 +1,6 @@
 # xerj-org/xerj
 
-[![Stars](https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&color=yellow)](https://github.com/xerj-org/xerj/stargazers) [![Forks](https://img.shields.io/github/forks/xerj-org/xerj?style=flat-square&color=blue)](https://github.com/xerj-org/xerj/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&color=yellow)](https://github.com/xerj-org/xerj/stargazers) [![Forks](https://img.shields.io/github/forks/xerj-org/xerj?style=flat-square&color=blue)](https://github.com/xerj-org/xerj/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Backend · DevTools
+Orchestration · Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ XERJ的生产可用性非常高，近期活动、采用和生态系统信号都�
 | forks | 19/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

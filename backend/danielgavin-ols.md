@@ -1,6 +1,6 @@
 # DanielGavin/ols
 
-[![Stars](https://img.shields.io/github/stars/DanielGavin/ols?style=flat-square&color=yellow)](https://github.com/DanielGavin/ols/stargazers) [![Forks](https://img.shields.io/github/forks/DanielGavin/ols?style=flat-square&color=blue)](https://github.com/DanielGavin/ols/network) [![Language](https://img.shields.io/badge/lang-Odin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanielGavin/ols?style=flat-square&color=yellow)](https://github.com/DanielGavin/ols/stargazers) [![Forks](https://img.shields.io/github/forks/DanielGavin/ols?style=flat-square&color=blue)](https://github.com/DanielGavin/ols/network) [![Language](https://img.shields.io/badge/lang-Odin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Language server for Odin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Odin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ DanielGavin/ols 是一个开源项目，提供了一个语言服务器用于 Odi
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

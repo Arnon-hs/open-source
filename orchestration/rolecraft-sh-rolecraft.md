@@ -1,6 +1,6 @@
 # rolecraft-sh/rolecraft
 
-[![Stars](https://img.shields.io/github/stars/rolecraft-sh/rolecraft?style=flat-square&color=yellow)](https://github.com/rolecraft-sh/rolecraft/stargazers) [![Forks](https://img.shields.io/github/forks/rolecraft-sh/rolecraft?style=flat-square&color=blue)](https://github.com/rolecraft-sh/rolecraft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rolecraft-sh/rolecraft?style=flat-square&color=yellow)](https://github.com/rolecraft-sh/rolecraft/stargazers) [![Forks](https://img.shields.io/github/forks/rolecraft-sh/rolecraft?style=flat-square&color=blue)](https://github.com/rolecraft-sh/rolecraft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency CLI that installs AI agent skills + MCP servers from any source. 86+ agents. No signup, no telemetry, 4 KB.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ rolecraft-sh/rolecraft 在生产环境中具有较高的可用性，主要原因
 | forks | 29/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Digital-Threads/aimux
 
-[![Stars](https://img.shields.io/github/stars/Digital-Threads/aimux?style=flat-square&color=yellow)](https://github.com/Digital-Threads/aimux/stargazers) [![Forks](https://img.shields.io/github/forks/Digital-Threads/aimux?style=flat-square&color=blue)](https://github.com/Digital-Threads/aimux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Digital-Threads/aimux?style=flat-square&color=yellow)](https://github.com/Digital-Threads/aimux/stargazers) [![Forks](https://img.shields.io/github/forks/Digital-Threads/aimux?style=flat-square&color=blue)](https://github.com/Digital-Threads/aimux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Marketing
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Digital-Threads/aimux 的生产可用性为中等（Medium）。它适用于以�
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

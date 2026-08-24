@@ -1,6 +1,6 @@
 # s2e-systems/dust-dds
 
-[![Stars](https://img.shields.io/github/stars/s2e-systems/dust-dds?style=flat-square&color=yellow)](https://github.com/s2e-systems/dust-dds/stargazers) [![Forks](https://img.shields.io/github/forks/s2e-systems/dust-dds?style=flat-square&color=blue)](https://github.com/s2e-systems/dust-dds/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s2e-systems/dust-dds?style=flat-square&color=yellow)](https://github.com/s2e-systems/dust-dds/stargazers) [![Forks](https://img.shields.io/github/forks/s2e-systems/dust-dds?style=flat-square&color=blue)](https://github.com/s2e-systems/dust-dds/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of the Data Distribution Service (DDS)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Dust‑DDS is a Rust‑native implementation of the Data Distribution Service (D
 | forks | 38/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

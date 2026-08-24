@@ -1,6 +1,6 @@
 # alpha-omega-security/scrutineer
 
-[![Stars](https://img.shields.io/github/stars/alpha-omega-security/scrutineer?style=flat-square&color=yellow)](https://github.com/alpha-omega-security/scrutineer/stargazers) [![Forks](https://img.shields.io/github/forks/alpha-omega-security/scrutineer?style=flat-square&color=blue)](https://github.com/alpha-omega-security/scrutineer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alpha-omega-security/scrutineer?style=flat-square&color=yellow)](https://github.com/alpha-omega-security/scrutineer/stargazers) [![Forks](https://img.shields.io/github/forks/alpha-omega-security/scrutineer?style=flat-square&color=blue)](https://github.com/alpha-omega-security/scrutineer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Security through scrutiny
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ alpha-omega-security/scrutineer 的生产可用性为中等。它适合用于原
 | forks | 38/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

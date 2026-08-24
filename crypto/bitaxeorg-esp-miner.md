@@ -1,6 +1,6 @@
 # bitaxeorg/ESP-Miner
 
-[![Stars](https://img.shields.io/github/stars/bitaxeorg/ESP-Miner?style=flat-square&color=yellow)](https://github.com/bitaxeorg/ESP-Miner/stargazers) [![Forks](https://img.shields.io/github/forks/bitaxeorg/ESP-Miner?style=flat-square&color=blue)](https://github.com/bitaxeorg/ESP-Miner/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitaxeorg/ESP-Miner?style=flat-square&color=yellow)](https://github.com/bitaxeorg/ESP-Miner/stargazers) [![Forks](https://img.shields.io/github/forks/bitaxeorg/ESP-Miner?style=flat-square&color=blue)](https://github.com/bitaxeorg/ESP-Miner/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A bitcoin ASIC miner for the ESP32
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 924 |
 | 🍴 **Forks** | 394 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ bitaxeorg/ESP-Miner 的生产可用性为中等，适合用于 prototype 或内�
 | forks | 65/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

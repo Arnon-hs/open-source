@@ -1,6 +1,6 @@
 # OpenMinis/OpenMinis
 
-[![Stars](https://img.shields.io/github/stars/OpenMinis/OpenMinis?style=flat-square&color=yellow)](https://github.com/OpenMinis/OpenMinis/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMinis/OpenMinis?style=flat-square&color=blue)](https://github.com/OpenMinis/OpenMinis/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenMinis/OpenMinis?style=flat-square&color=yellow)](https://github.com/OpenMinis/OpenMinis/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMinis/OpenMinis?style=flat-square&color=blue)](https://github.com/OpenMinis/OpenMinis/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OpenMinis — The AI Agent app across platforms. Fully free and open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 437 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ OpenMinis/OpenMinis：OpenMinis/OpenMinis helps add AI capability without starti
 | forks | 66/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

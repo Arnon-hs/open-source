@@ -1,6 +1,6 @@
 # OWASP/www-project-agent-memory-guard
 
-[![Stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=flat-square&color=yellow)](https://github.com/OWASP/www-project-agent-memory-guard/stargazers) [![Forks](https://img.shields.io/github/forks/OWASP/www-project-agent-memory-guard?style=flat-square&color=blue)](https://github.com/OWASP/www-project-agent-memory-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard?style=flat-square&color=yellow)](https://github.com/OWASP/www-project-agent-memory-guard/stargazers) [![Forks](https://img.shields.io/github/forks/OWASP/www-project-agent-memory-guard?style=flat-square&color=blue)](https://github.com/OWASP/www-project-agent-memory-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > OWASP Foundation web repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ OWASP/www-project-agent-memory-guard 是 OWASP 基金会的开源项目，旨在
 | forks | 36/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

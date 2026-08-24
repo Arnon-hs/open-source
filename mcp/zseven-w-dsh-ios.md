@@ -1,6 +1,6 @@
 # ZSeven-W/dsh-ios
 
-[![Stars](https://img.shields.io/github/stars/ZSeven-W/dsh-ios?style=flat-square&color=yellow)](https://github.com/ZSeven-W/dsh-ios/stargazers) [![Forks](https://img.shields.io/github/forks/ZSeven-W/dsh-ios?style=flat-square&color=blue)](https://github.com/ZSeven-W/dsh-ios/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZSeven-W/dsh-ios?style=flat-square&color=yellow)](https://github.com/ZSeven-W/dsh-ios/stargazers) [![Forks](https://img.shields.io/github/forks/ZSeven-W/dsh-ios?style=flat-square&color=blue)](https://github.com/ZSeven-W/dsh-ios/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 21 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Frontend
+MCP · Automation · AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ZSeven-W/dsh-ios：ZSeven-W/dsh-ios helps connect AI assistants to real tools an
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

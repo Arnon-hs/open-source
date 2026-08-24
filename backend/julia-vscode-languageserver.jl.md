@@ -1,6 +1,6 @@
 # julia-vscode/LanguageServer.jl
 
-[![Stars](https://img.shields.io/github/stars/julia-vscode/LanguageServer.jl?style=flat-square&color=yellow)](https://github.com/julia-vscode/LanguageServer.jl/stargazers) [![Forks](https://img.shields.io/github/forks/julia-vscode/LanguageServer.jl?style=flat-square&color=blue)](https://github.com/julia-vscode/LanguageServer.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/julia-vscode/LanguageServer.jl?style=flat-square&color=yellow)](https://github.com/julia-vscode/LanguageServer.jl/stargazers) [![Forks](https://img.shields.io/github/forks/julia-vscode/LanguageServer.jl?style=flat-square&color=blue)](https://github.com/julia-vscode/LanguageServer.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of the Microsoft Language Server Protocol for the Julia language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ julia-vscode/LanguageServer.jl 是一个基于 Julia 语言的 Microsoft Languag
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

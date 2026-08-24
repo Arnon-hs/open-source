@@ -1,6 +1,6 @@
 # firebase/firebase-functions
 
-[![Stars](https://img.shields.io/github/stars/firebase/firebase-functions?style=flat-square&color=yellow)](https://github.com/firebase/firebase-functions/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/firebase-functions?style=flat-square&color=blue)](https://github.com/firebase/firebase-functions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firebase/firebase-functions?style=flat-square&color=yellow)](https://github.com/firebase/firebase-functions/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/firebase-functions?style=flat-square&color=blue)](https://github.com/firebase/firebase-functions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Firebase SDK for Cloud Functions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Firebase SDK for Cloud Functions 的生产可用性为中等。它适用于需�
 | forks | 59/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

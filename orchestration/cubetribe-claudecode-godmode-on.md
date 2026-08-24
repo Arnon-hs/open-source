@@ -1,6 +1,6 @@
 # cubetribe/ClaudeCode_GodMode-On
 
-[![Stars](https://img.shields.io/github/stars/cubetribe/ClaudeCode_GodMode-On?style=flat-square&color=yellow)](https://github.com/cubetribe/ClaudeCode_GodMode-On/stargazers) [![Forks](https://img.shields.io/github/forks/cubetribe/ClaudeCode_GodMode-On?style=flat-square&color=blue)](https://github.com/cubetribe/ClaudeCode_GodMode-On/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cubetribe/ClaudeCode_GodMode-On?style=flat-square&color=yellow)](https://github.com/cubetribe/ClaudeCode_GodMode-On/stargazers) [![Forks](https://img.shields.io/github/forks/cubetribe/ClaudeCode_GodMode-On?style=flat-square&color=blue)](https://github.com/cubetribe/ClaudeCode_GodMode-On/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-orchestrating multi-agent system for Claude Code — you say WHAT, the AI decides HOW. v7.1: 15 AI agents, Smart Routing, parallel quality gates, skills architecture, plugin & one-command installer. Optimized for Claude Fable 5.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ cubetribe/ClaudeCode_GodMode-On 是一个开源项目，旨在为 Claude Code �
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

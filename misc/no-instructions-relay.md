@@ -1,6 +1,6 @@
 # No-Instructions/Relay
 
-[![Stars](https://img.shields.io/github/stars/No-Instructions/Relay?style=flat-square&color=yellow)](https://github.com/No-Instructions/Relay/stargazers) [![Forks](https://img.shields.io/github/forks/No-Instructions/Relay?style=flat-square&color=blue)](https://github.com/No-Instructions/Relay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/No-Instructions/Relay?style=flat-square&color=yellow)](https://github.com/No-Instructions/Relay/stargazers) [![Forks](https://img.shields.io/github/forks/No-Instructions/Relay?style=flat-square&color=blue)](https://github.com/No-Instructions/Relay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Multiplayer Mode for Obsidian
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 505 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ No‑Instructions/Relay 为 Obsidian 提供了多人协作模式，让多位用�
 | forks | 39/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

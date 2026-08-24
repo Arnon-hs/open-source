@@ -1,6 +1,6 @@
 # hust-open-atom-club/oh-dsh
 
-[![Stars](https://img.shields.io/github/stars/hust-open-atom-club/oh-dsh?style=flat-square&color=yellow)](https://github.com/hust-open-atom-club/oh-dsh/stargazers) [![Forks](https://img.shields.io/github/forks/hust-open-atom-club/oh-dsh?style=flat-square&color=blue)](https://github.com/hust-open-atom-club/oh-dsh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hust-open-atom-club/oh-dsh?style=flat-square&color=yellow)](https://github.com/hust-open-atom-club/oh-dsh/stargazers) [![Forks](https://img.shields.io/github/forks/hust-open-atom-club/oh-dsh?style=flat-square&color=blue)](https://github.com/hust-open-atom-club/oh-dsh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 一站式 DeepSeek Harness 社区发行版：TUI、桌面端与 Web UI 三种形态统一体验，支持分层安装、一步到位，免去手工整合打包。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ oh-dsh 的生产可用性为中等（Medium）。它适用于 prototyping 或内
 | forks | 26/100 |
 | stars | 42/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

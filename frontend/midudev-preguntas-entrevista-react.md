@@ -1,6 +1,6 @@
 # midudev/preguntas-entrevista-react
 
-[![Stars](https://img.shields.io/github/stars/midudev/preguntas-entrevista-react?style=flat-square&color=yellow)](https://github.com/midudev/preguntas-entrevista-react/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/preguntas-entrevista-react?style=flat-square&color=blue)](https://github.com/midudev/preguntas-entrevista-react/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/midudev/preguntas-entrevista-react?style=flat-square&color=yellow)](https://github.com/midudev/preguntas-entrevista-react/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/preguntas-entrevista-react?style=flat-square&color=blue)](https://github.com/midudev/preguntas-entrevista-react/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Preguntas típicas sobre React para entrevistas de trabajo ⚛️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ midudev/preguntas-entrevista-react 是一个开源项目，提供了 React 面�
 | forks | 72/100 |
 | stars | 83/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

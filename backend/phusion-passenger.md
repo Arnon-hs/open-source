@@ -1,6 +1,6 @@
 # phusion/passenger
 
-[![Stars](https://img.shields.io/github/stars/phusion/passenger?style=flat-square&color=yellow)](https://github.com/phusion/passenger/stargazers) [![Forks](https://img.shields.io/github/forks/phusion/passenger?style=flat-square&color=blue)](https://github.com/phusion/passenger/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phusion/passenger?style=flat-square&color=yellow)](https://github.com/phusion/passenger/stargazers) [![Forks](https://img.shields.io/github/forks/phusion/passenger?style=flat-square&color=blue)](https://github.com/phusion/passenger/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A fast and robust web server and application server for Ruby, Python and Node.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 559 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ phusion/passenger 在生产环境中的可用性较高，主要原因是它有�
 | forks | 69/100 |
 | stars | 79/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

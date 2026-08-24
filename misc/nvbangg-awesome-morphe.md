@@ -1,6 +1,6 @@
 # nvbangg/awesome-morphe
 
-[![Stars](https://img.shields.io/github/stars/nvbangg/awesome-morphe?style=flat-square&color=yellow)](https://github.com/nvbangg/awesome-morphe/stargazers) [![Forks](https://img.shields.io/github/forks/nvbangg/awesome-morphe?style=flat-square&color=blue)](https://github.com/nvbangg/awesome-morphe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nvbangg/awesome-morphe?style=flat-square&color=yellow)](https://github.com/nvbangg/awesome-morphe/stargazers) [![Forks](https://img.shields.io/github/forks/nvbangg/awesome-morphe?style=flat-square&color=blue)](https://github.com/nvbangg/awesome-morphe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ nvbangg/awesome-morphe 是一个开源项目，提供 Morphe 资源、补丁包�
 | forks | 8/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

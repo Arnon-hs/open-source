@@ -1,6 +1,6 @@
 # ErisPulse/ErisPulse
 
-[![Stars](https://img.shields.io/github/stars/ErisPulse/ErisPulse?style=flat-square&color=yellow)](https://github.com/ErisPulse/ErisPulse/stargazers) [![Forks](https://img.shields.io/github/forks/ErisPulse/ErisPulse?style=flat-square&color=blue)](https://github.com/ErisPulse/ErisPulse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ErisPulse/ErisPulse?style=flat-square&color=yellow)](https://github.com/ErisPulse/ErisPulse/stargazers) [![Forks](https://img.shields.io/github/forks/ErisPulse/ErisPulse?style=flat-square&color=blue)](https://github.com/ErisPulse/ErisPulse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Event-driven multi-platform bot framework with Dashboard, Docker, hot-reload & module marketplace | 事件驱动的多平台机器人框架 — 一次编写部署 QQ/Telegram/Kook/云湖/Matrix/邮件等 10+ 平台
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Database · DevOps/Infra
+MCP · Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ErisPulse/ErisPulse 有较高的生产可用性，主要原因是：
 | forks | 24/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

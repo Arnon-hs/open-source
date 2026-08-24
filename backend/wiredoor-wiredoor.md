@@ -1,6 +1,6 @@
 # wiredoor/wiredoor
 
-[![Stars](https://img.shields.io/github/stars/wiredoor/wiredoor?style=flat-square&color=yellow)](https://github.com/wiredoor/wiredoor/stargazers) [![Forks](https://img.shields.io/github/forks/wiredoor/wiredoor?style=flat-square&color=blue)](https://github.com/wiredoor/wiredoor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wiredoor/wiredoor?style=flat-square&color=yellow)](https://github.com/wiredoor/wiredoor/stargazers) [![Forks](https://img.shields.io/github/forks/wiredoor/wiredoor?style=flat-square&color=blue)](https://github.com/wiredoor/wiredoor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ wiredoor/wiredoor 具有高生产可用性，最近有活动，采用率和生�
 | forks | 47/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

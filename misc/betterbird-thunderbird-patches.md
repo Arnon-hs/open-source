@@ -1,6 +1,6 @@
 # Betterbird/thunderbird-patches
 
-[![Stars](https://img.shields.io/github/stars/Betterbird/thunderbird-patches?style=flat-square&color=yellow)](https://github.com/Betterbird/thunderbird-patches/stargazers) [![Forks](https://img.shields.io/github/forks/Betterbird/thunderbird-patches?style=flat-square&color=blue)](https://github.com/Betterbird/thunderbird-patches/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Betterbird/thunderbird-patches?style=flat-square&color=yellow)](https://github.com/Betterbird/thunderbird-patches/stargazers) [![Forks](https://img.shields.io/github/forks/Betterbird/thunderbird-patches?style=flat-square&color=blue)](https://github.com/Betterbird/thunderbird-patches/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 902 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ Betterbird 是基于 Mozilla Thunderbird 的功能增强分支，`Betterbird/thu
 | forks | 41/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rust-windowing/softbuffer
 
-[![Stars](https://img.shields.io/github/stars/rust-windowing/softbuffer?style=flat-square&color=yellow)](https://github.com/rust-windowing/softbuffer/stargazers) [![Forks](https://img.shields.io/github/forks/rust-windowing/softbuffer?style=flat-square&color=blue)](https://github.com/rust-windowing/softbuffer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-windowing/softbuffer?style=flat-square&color=yellow)](https://github.com/rust-windowing/softbuffer/stargazers) [![Forks](https://img.shields.io/github/forks/rust-windowing/softbuffer?style=flat-square&color=blue)](https://github.com/rust-windowing/softbuffer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Easily write an image to a window
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ rust-windowing/softbuffer 被评估为中等生产可用性（Medium）。它适
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 70/100 |
-| usefulness | 42/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

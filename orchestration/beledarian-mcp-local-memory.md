@@ -1,6 +1,6 @@
 # Beledarian/mcp-local-memory
 
-[![Stars](https://img.shields.io/github/stars/Beledarian/mcp-local-memory?style=flat-square&color=yellow)](https://github.com/Beledarian/mcp-local-memory/stargazers) [![Forks](https://img.shields.io/github/forks/Beledarian/mcp-local-memory?style=flat-square&color=blue)](https://github.com/Beledarian/mcp-local-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Beledarian/mcp-local-memory?style=flat-square&color=yellow)](https://github.com/Beledarian/mcp-local-memory/stargazers) [![Forks](https://img.shields.io/github/forks/Beledarian/mcp-local-memory?style=flat-square&color=blue)](https://github.com/Beledarian/mcp-local-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, powerful local memory server for AI agents supporting text, entities, and relations. Enables persistent codebase understanding and user preference management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Beledarian/mcp‑local‑memory 是一个轻量级的本地记忆服务器，能
 | forks | 17/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

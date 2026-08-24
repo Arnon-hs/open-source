@@ -1,6 +1,6 @@
 # bytebase/dbhub
 
-[![Stars](https://img.shields.io/github/stars/bytebase/dbhub?style=flat-square&color=yellow)](https://github.com/bytebase/dbhub/stargazers) [![Forks](https://img.shields.io/github/forks/bytebase/dbhub?style=flat-square&color=blue)](https://github.com/bytebase/dbhub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytebase/dbhub?style=flat-square&color=yellow)](https://github.com/bytebase/dbhub/stargazers) [![Forks](https://img.shields.io/github/forks/bytebase/dbhub?style=flat-square&color=blue)](https://github.com/bytebase/dbhub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ bytebase/dbhub 是一款零依赖、低 token 消耗的数据库 MCP（Model‑C
 | forks | 60/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

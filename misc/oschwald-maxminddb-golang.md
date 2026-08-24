@@ -1,6 +1,6 @@
 # oschwald/maxminddb-golang
 
-[![Stars](https://img.shields.io/github/stars/oschwald/maxminddb-golang?style=flat-square&color=yellow)](https://github.com/oschwald/maxminddb-golang/stargazers) [![Forks](https://img.shields.io/github/forks/oschwald/maxminddb-golang?style=flat-square&color=blue)](https://github.com/oschwald/maxminddb-golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oschwald/maxminddb-golang?style=flat-square&color=yellow)](https://github.com/oschwald/maxminddb-golang/stargazers) [![Forks](https://img.shields.io/github/forks/oschwald/maxminddb-golang?style=flat-square&color=blue)](https://github.com/oschwald/maxminddb-golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MaxMind DB Reader for Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 743 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ oschwald/maxminddb-golang 是一款 Go 语言实现的 MaxMind DB 读取库，�
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

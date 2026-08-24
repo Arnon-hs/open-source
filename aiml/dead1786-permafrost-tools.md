@@ -1,6 +1,6 @@
 # dead1786/permafrost-tools
 
-[![Stars](https://img.shields.io/github/stars/dead1786/permafrost-tools?style=flat-square&color=yellow)](https://github.com/dead1786/permafrost-tools/stargazers) [![Forks](https://img.shields.io/github/forks/dead1786/permafrost-tools?style=flat-square&color=blue)](https://github.com/dead1786/permafrost-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dead1786/permafrost-tools?style=flat-square&color=yellow)](https://github.com/dead1786/permafrost-tools/stargazers) [![Forks](https://img.shields.io/github/forks/dead1786/permafrost-tools?style=flat-square&color=blue)](https://github.com/dead1786/permafrost-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Battle-tested utilities for AI coding assistants. Self-guard hooks, memory GC, pitfall tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ dead1786/permafrost-tools 的生产可用性为中等（Medium）。它适用于
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

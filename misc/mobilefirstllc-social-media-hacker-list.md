@@ -1,6 +1,6 @@
 # MobileFirstLLC/social-media-hacker-list
 
-[![Stars](https://img.shields.io/github/stars/MobileFirstLLC/social-media-hacker-list?style=flat-square&color=yellow)](https://github.com/MobileFirstLLC/social-media-hacker-list/stargazers) [![Forks](https://img.shields.io/github/forks/MobileFirstLLC/social-media-hacker-list?style=flat-square&color=blue)](https://github.com/MobileFirstLLC/social-media-hacker-list/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MobileFirstLLC/social-media-hacker-list?style=flat-square&color=yellow)](https://github.com/MobileFirstLLC/social-media-hacker-list/stargazers) [![Forks](https://img.shields.io/github/forks/MobileFirstLLC/social-media-hacker-list?style=flat-square&color=blue)](https://github.com/MobileFirstLLC/social-media-hacker-list/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Growing list of apps and tools for enhancing social media experiences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 261 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ MobileFirstLLC/social-media-hacker-list 是一个开源项目，旨在提供增�
 | forks | 60/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

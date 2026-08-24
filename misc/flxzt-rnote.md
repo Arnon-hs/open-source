@@ -1,6 +1,6 @@
 # flxzt/rnote
 
-[![Stars](https://img.shields.io/github/stars/flxzt/rnote?style=flat-square&color=yellow)](https://github.com/flxzt/rnote/stargazers) [![Forks](https://img.shields.io/github/forks/flxzt/rnote?style=flat-square&color=blue)](https://github.com/flxzt/rnote/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flxzt/rnote?style=flat-square&color=yellow)](https://github.com/flxzt/rnote/stargazers) [![Forks](https://img.shields.io/github/forks/flxzt/rnote?style=flat-square&color=blue)](https://github.com/flxzt/rnote/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Sketch and take handwritten notes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.4k |
 | 🍴 **Forks** | 471 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ flxzt/rnote 的生产可用性较高，因为它有活跃的社区、较高的 G
 | forks | 67/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

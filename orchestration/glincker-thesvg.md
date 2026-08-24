@@ -1,6 +1,6 @@
 # glincker/thesvg
 
-[![Stars](https://img.shields.io/github/stars/glincker/thesvg?style=flat-square&color=yellow)](https://github.com/glincker/thesvg/stargazers) [![Forks](https://img.shields.io/github/forks/glincker/thesvg?style=flat-square&color=blue)](https://github.com/glincker/thesvg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glincker/thesvg?style=flat-square&color=yellow)](https://github.com/glincker/thesvg/stargazers) [![Forks](https://img.shields.io/github/forks/glincker/thesvg?style=flat-square&color=blue)](https://github.com/glincker/thesvg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 6,500+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools · Design
+Orchestration · AI/ML · Frontend · Design
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ glincker/thesvg 提供了 6,500+ 可直接使用的品牌 SVG 图标，支持 Tr
 | forks | 58/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

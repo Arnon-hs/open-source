@@ -1,6 +1,6 @@
 # kenn-io/kata
 
-[![Stars](https://img.shields.io/github/stars/kenn-io/kata?style=flat-square&color=yellow)](https://github.com/kenn-io/kata/stargazers) [![Forks](https://img.shields.io/github/forks/kenn-io/kata?style=flat-square&color=blue)](https://github.com/kenn-io/kata/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenn-io/kata?style=flat-square&color=yellow)](https://github.com/kenn-io/kata/stargazers) [![Forks](https://img.shields.io/github/forks/kenn-io/kata?style=flat-square&color=blue)](https://github.com/kenn-io/kata/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ kenn-io/kata 的生产可用性为中等。它适用于以下场景：
 | forks | 36/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

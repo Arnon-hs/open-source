@@ -1,6 +1,6 @@
 # yzhao062/awesome-auditable-ai
 
-[![Stars](https://img.shields.io/github/stars/yzhao062/awesome-auditable-ai?style=flat-square&color=yellow)](https://github.com/yzhao062/awesome-auditable-ai/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/awesome-auditable-ai?style=flat-square&color=blue)](https://github.com/yzhao062/awesome-auditable-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzhao062/awesome-auditable-ai?style=flat-square&color=yellow)](https://github.com/yzhao062/awesome-auditable-ai/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/awesome-auditable-ai?style=flat-square&color=blue)](https://github.com/yzhao062/awesome-auditable-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Auditing AI agents: a curated list of papers, tools, datasets, benchmarks, and standards covering reliability, monitoring, failure attribution, and decision records.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Observability
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ yzhao062/awesome-auditable-ai 是一个开源项目，旨在为 AI 代理提供�
 | forks | 31/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

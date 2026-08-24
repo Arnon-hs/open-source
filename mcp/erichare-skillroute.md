@@ -1,6 +1,6 @@
 # erichare/skillroute
 
-[![Stars](https://img.shields.io/github/stars/erichare/skillroute?style=flat-square&color=yellow)](https://github.com/erichare/skillroute/stargazers) [![Forks](https://img.shields.io/github/forks/erichare/skillroute?style=flat-square&color=blue)](https://github.com/erichare/skillroute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erichare/skillroute?style=flat-square&color=yellow)](https://github.com/erichare/skillroute/stargazers) [![Forks](https://img.shields.io/github/forks/erichare/skillroute?style=flat-square&color=blue)](https://github.com/erichare/skillroute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first skill routing for agent builders — index SKILL.md bundles, get ranked skill plans with confidence and evidence, and serve them to any agent over MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Database
+MCP · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ erichare/skillroute的价值在于，它可以帮助连接智能助手与真实�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sunscrapers/djoser
 
-[![Stars](https://img.shields.io/github/stars/sunscrapers/djoser?style=flat-square&color=yellow)](https://github.com/sunscrapers/djoser/stargazers) [![Forks](https://img.shields.io/github/forks/sunscrapers/djoser?style=flat-square&color=blue)](https://github.com/sunscrapers/djoser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunscrapers/djoser?style=flat-square&color=yellow)](https://github.com/sunscrapers/djoser/stargazers) [![Forks](https://img.shields.io/github/forks/sunscrapers/djoser?style=flat-square&color=blue)](https://github.com/sunscrapers/djoser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > REST implementation of Django authentication system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 467 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ sunscrapers/djoser 的生产可用性较高，主要原因包括：
 | forks | 67/100 |
 | stars | 73/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

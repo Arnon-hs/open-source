@@ -1,6 +1,6 @@
 # atlassian/gostatsd
 
-[![Stars](https://img.shields.io/github/stars/atlassian/gostatsd?style=flat-square&color=yellow)](https://github.com/atlassian/gostatsd/stargazers) [![Forks](https://img.shields.io/github/forks/atlassian/gostatsd?style=flat-square&color=blue)](https://github.com/atlassian/gostatsd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atlassian/gostatsd?style=flat-square&color=yellow)](https://github.com/atlassian/gostatsd/stargazers) [![Forks](https://img.shields.io/github/forks/atlassian/gostatsd?style=flat-square&color=blue)](https://github.com/atlassian/gostatsd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of Etsy's statsd in Go with tags support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ atlassian/gostatsd 的生产可用性为中等级，适合用于原型或内部�
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 13/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

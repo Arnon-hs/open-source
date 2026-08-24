@@ -1,6 +1,6 @@
 # Anionex/dsh-vision-toolkit
 
-[![Stars](https://img.shields.io/github/stars/Anionex/dsh-vision-toolkit?style=flat-square&color=yellow)](https://github.com/Anionex/dsh-vision-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/Anionex/dsh-vision-toolkit?style=flat-square&color=blue)](https://github.com/Anionex/dsh-vision-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anionex/dsh-vision-toolkit?style=flat-square&color=yellow)](https://github.com/Anionex/dsh-vision-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/Anionex/dsh-vision-toolkit?style=flat-square&color=blue)](https://github.com/Anionex/dsh-vision-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Anionex/dsh-vision-toolkit 的生产可用性较高，主要原因是：
 | forks | 32/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

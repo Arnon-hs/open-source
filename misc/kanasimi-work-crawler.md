@@ -1,6 +1,6 @@
 # kanasimi/work_crawler
 
-[![Stars](https://img.shields.io/github/stars/kanasimi/work_crawler?style=flat-square&color=yellow)](https://github.com/kanasimi/work_crawler/stargazers) [![Forks](https://img.shields.io/github/forks/kanasimi/work_crawler?style=flat-square&color=blue)](https://github.com/kanasimi/work_crawler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanasimi/work_crawler?style=flat-square&color=yellow)](https://github.com/kanasimi/work_crawler/stargazers) [![Forks](https://img.shields.io/github/forks/kanasimi/work_crawler?style=flat-square&color=blue)](https://github.com/kanasimi/work_crawler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ kanasimi/work_crawler 是一个功能强大的 JavaScript 漫画/小说下载工
 | forks | 64/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

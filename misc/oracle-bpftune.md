@@ -1,6 +1,6 @@
 # oracle/bpftune
 
-[![Stars](https://img.shields.io/github/stars/oracle/bpftune?style=flat-square&color=yellow)](https://github.com/oracle/bpftune/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/bpftune?style=flat-square&color=blue)](https://github.com/oracle/bpftune/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle/bpftune?style=flat-square&color=yellow)](https://github.com/oracle/bpftune/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/bpftune?style=flat-square&color=blue)](https://github.com/oracle/bpftune/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > bpftune uses BPF to auto-tune Linux systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ BPFTune 的生产可用性为中等。它可以用于原型和内部工作流程
 | forks | 51/100 |
 | stars | 70/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

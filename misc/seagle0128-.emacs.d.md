@@ -1,6 +1,6 @@
 # seagle0128/.emacs.d
 
-[![Stars](https://img.shields.io/github/stars/seagle0128/.emacs.d?style=flat-square&color=yellow)](https://github.com/seagle0128/.emacs.d/stargazers) [![Forks](https://img.shields.io/github/forks/seagle0128/.emacs.d?style=flat-square&color=blue)](https://github.com/seagle0128/.emacs.d/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seagle0128/.emacs.d?style=flat-square&color=yellow)](https://github.com/seagle0128/.emacs.d/stargazers) [![Forks](https://img.shields.io/github/forks/seagle0128/.emacs.d?style=flat-square&color=blue)](https://github.com/seagle0128/.emacs.d/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Centaur Emacs - A Fancy and Fast Emacs Configuration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 275 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Centaur Emacs 是一套基于 Emacs 的高度定制化配置，旨在提供“�
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

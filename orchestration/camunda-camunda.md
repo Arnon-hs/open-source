@@ -1,6 +1,6 @@
 # camunda/camunda
 
-[![Stars](https://img.shields.io/github/stars/camunda/camunda?style=flat-square&color=yellow)](https://github.com/camunda/camunda/stargazers) [![Forks](https://img.shields.io/github/forks/camunda/camunda?style=flat-square&color=blue)](https://github.com/camunda/camunda/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/camunda/camunda?style=flat-square&color=yellow)](https://github.com/camunda/camunda/stargazers) [![Forks](https://img.shields.io/github/forks/camunda/camunda?style=flat-square&color=blue)](https://github.com/camunda/camunda/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Process Orchestration Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 794 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · Backend
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ camunda/camunda：camunda/camunda helps turn isolated prompts and tools into rep
 | forks | 73/100 |
 | stars | 77/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

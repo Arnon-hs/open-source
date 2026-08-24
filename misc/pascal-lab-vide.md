@@ -1,6 +1,6 @@
 # pascal-lab/vide
 
-[![Stars](https://img.shields.io/github/stars/pascal-lab/vide?style=flat-square&color=yellow)](https://github.com/pascal-lab/vide/stargazers) [![Forks](https://img.shields.io/github/forks/pascal-lab/vide?style=flat-square&color=blue)](https://github.com/pascal-lab/vide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pascal-lab/vide?style=flat-square&color=yellow)](https://github.com/pascal-lab/vide/stargazers) [![Forks](https://img.shields.io/github/forks/pascal-lab/vide?style=flat-square&color=blue)](https://github.com/pascal-lab/vide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Modern SystemVerilog Coding IDE.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ pascal-lab/vide 的生产可用性为中等。它适合用于内部流程或原�
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

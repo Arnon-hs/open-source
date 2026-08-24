@@ -1,6 +1,6 @@
 # antoinezambelli/forge
 
-[![Stars](https://img.shields.io/github/stars/antoinezambelli/forge?style=flat-square&color=yellow)](https://github.com/antoinezambelli/forge/stargazers) [![Forks](https://img.shields.io/github/forks/antoinezambelli/forge?style=flat-square&color=blue)](https://github.com/antoinezambelli/forge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antoinezambelli/forge?style=flat-square&color=yellow)](https://github.com/antoinezambelli/forge/stargazers) [![Forks](https://img.shields.io/github/forks/antoinezambelli/forge?style=flat-square&color=blue)](https://github.com/antoinezambelli/forge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ antoinezambelli/forge 是一个基于 Python 的框架，专注于自托管的�
 | forks | 55/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

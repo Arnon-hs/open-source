@@ -1,6 +1,6 @@
 # am-will/gooey-pi
 
-[![Stars](https://img.shields.io/github/stars/am-will/gooey-pi?style=flat-square&color=yellow)](https://github.com/am-will/gooey-pi/stargazers) [![Forks](https://img.shields.io/github/forks/am-will/gooey-pi?style=flat-square&color=blue)](https://github.com/am-will/gooey-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/am-will/gooey-pi?style=flat-square&color=yellow)](https://github.com/am-will/gooey-pi/stargazers) [![Forks](https://img.shields.io/github/forks/am-will/gooey-pi?style=flat-square&color=blue)](https://github.com/am-will/gooey-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop workspace for Pi, OMP, and Prime Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ am-will/gooey-pi 的生产可用性高，主要原因包括：
 | forks | 34/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

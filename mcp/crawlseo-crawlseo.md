@@ -1,6 +1,6 @@
 # crawlseo/crawlseo
 
-[![Stars](https://img.shields.io/github/stars/crawlseo/crawlseo?style=flat-square&color=yellow)](https://github.com/crawlseo/crawlseo/stargazers) [![Forks](https://img.shields.io/github/forks/crawlseo/crawlseo?style=flat-square&color=blue)](https://github.com/crawlseo/crawlseo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crawlseo/crawlseo?style=flat-square&color=yellow)](https://github.com/crawlseo/crawlseo/stargazers) [![Forks](https://img.shields.io/github/forks/crawlseo/crawlseo?style=flat-square&color=blue)](https://github.com/crawlseo/crawlseo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Observability · Marketing
+MCP · Frontend · Observability · Marketing
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ crawlseo/crawlseo 帮助连接人工智能助手到真实的工具和数据通�
 | forks | 39/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

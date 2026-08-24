@@ -1,6 +1,6 @@
 # pengjunchi0/codex-visio-paper-figure-skill
 
-[![Stars](https://img.shields.io/github/stars/pengjunchi0/codex-visio-paper-figure-skill?style=flat-square&color=yellow)](https://github.com/pengjunchi0/codex-visio-paper-figure-skill/stargazers) [![Forks](https://img.shields.io/github/forks/pengjunchi0/codex-visio-paper-figure-skill?style=flat-square&color=blue)](https://github.com/pengjunchi0/codex-visio-paper-figure-skill/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pengjunchi0/codex-visio-paper-figure-skill?style=flat-square&color=yellow)](https://github.com/pengjunchi0/codex-visio-paper-figure-skill/stargazers) [![Forks](https://img.shields.io/github/forks/pengjunchi0/codex-visio-paper-figure-skill?style=flat-square&color=blue)](https://github.com/pengjunchi0/codex-visio-paper-figure-skill/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 科研绘图skill、论文绘图skill、图片转visio等可编辑格式，将生成图转化为论文可编辑图，便于作者调整绘图细节
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 590 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ pengjunchi0/codex-visio-paper-figure-skill是一个开源项目，旨在帮助�
 | forks | 37/100 |
 | stars | 59/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

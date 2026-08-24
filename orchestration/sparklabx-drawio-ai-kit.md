@@ -1,6 +1,6 @@
 # sparklabx/drawio-ai-kit
 
-[![Stars](https://img.shields.io/github/stars/sparklabx/drawio-ai-kit?style=flat-square&color=yellow)](https://github.com/sparklabx/drawio-ai-kit/stargazers) [![Forks](https://img.shields.io/github/forks/sparklabx/drawio-ai-kit?style=flat-square&color=blue)](https://github.com/sparklabx/drawio-ai-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sparklabx/drawio-ai-kit?style=flat-square&color=yellow)](https://github.com/sparklabx/drawio-ai-kit/stargazers) [![Forks](https://img.shields.io/github/forks/sparklabx/drawio-ai-kit?style=flat-square&color=blue)](https://github.com/sparklabx/drawio-ai-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Teach your AI to draw correct, beautiful draw.io diagrams — declarative layout engine, ground-truth stencils, structural validator, vision self-check. AWS · Azure · GCP · Databricks · BPMN. Zero dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Data
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ sparklabx/drawio-ai-kit 帮助将孤立的提示和工具转换为可重复的�
 | forks | 48/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

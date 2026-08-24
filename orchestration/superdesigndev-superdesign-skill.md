@@ -1,6 +1,6 @@
 # superdesigndev/superdesign-skill
 
-[![Stars](https://img.shields.io/github/stars/superdesigndev/superdesign-skill?style=flat-square&color=yellow)](https://github.com/superdesigndev/superdesign-skill/stargazers) [![Forks](https://img.shields.io/github/forks/superdesigndev/superdesign-skill?style=flat-square&color=blue)](https://github.com/superdesigndev/superdesign-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superdesigndev/superdesign-skill?style=flat-square&color=yellow)](https://github.com/superdesigndev/superdesign-skill/stargazers) [![Forks](https://img.shields.io/github/forks/superdesigndev/superdesign-skill?style=flat-square&color=blue)](https://github.com/superdesigndev/superdesign-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ superdesign-skill 的生产可用性为中等。它适合用于原型或内部�
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

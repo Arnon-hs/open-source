@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 781 |
+| 🍴 **Forks** | 782 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-08-23 |
@@ -54,7 +54,7 @@ go-admin-team/go-admin-ui：go-admin-team/go-admin-ui helps ship user-facing int
 **Quality signals**
 
 - 1325 GitHub stars
-- 781 forks
+- 782 forks
 - updated 2026-08-23
 - primary language: Vue
 - 7 topics
@@ -65,17 +65,16 @@ go-admin-team/go-admin-ui：go-admin-team/go-admin-ui helps ship user-facing int
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 73/100 |
-| outlook | 76/100 |
-| adoption | 68/100 |
-| categoryMatchCount | 200/100 |
-| stars | 66/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| stars | 66/100 |
 | topics | 88/100 |
+| outlook | 76/100 |
+| quality | 79/100 |
+| recency | 100/100 |
+| adoption | 68/100 |
+| production | 73/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
 
 ---

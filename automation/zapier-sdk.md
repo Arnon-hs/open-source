@@ -1,6 +1,6 @@
 # zapier/sdk
 
-[![Stars](https://img.shields.io/github/stars/zapier/sdk?style=flat-square&color=yellow)](https://github.com/zapier/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/sdk?style=flat-square&color=blue)](https://github.com/zapier/sdk/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zapier/sdk?style=flat-square&color=yellow)](https://github.com/zapier/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/sdk?style=flat-square&color=blue)](https://github.com/zapier/sdk/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Connect your app, agent, or backend to 9,000+ apps. Run actions, manage user connections, and chain apps together — the SDK handles auth, retries, and API differences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools · Security
+Automation · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ zapier/sdk 的生产可用性评分为 84/100。根据 GitHub 的数据，它的
 | forks | 19/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

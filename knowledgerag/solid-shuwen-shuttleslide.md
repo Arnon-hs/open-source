@@ -1,6 +1,6 @@
 # solid-shuwen/shuttleslide
 
-[![Stars](https://img.shields.io/github/stars/solid-shuwen/shuttleslide?style=flat-square&color=yellow)](https://github.com/solid-shuwen/shuttleslide/stargazers) [![Forks](https://img.shields.io/github/forks/solid-shuwen/shuttleslide?style=flat-square&color=blue)](https://github.com/solid-shuwen/shuttleslide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solid-shuwen/shuttleslide?style=flat-square&color=yellow)](https://github.com/solid-shuwen/shuttleslide/stargazers) [![Forks](https://img.shields.io/github/forks/solid-shuwen/shuttleslide?style=flat-square&color=blue)](https://github.com/solid-shuwen/shuttleslide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Python toolkit for PowerPoint ↔ HTML, built for AI. Round-trip fidelity preserves formatting across every edit loop — ideal for RAG ingestion, LLM agents, and AI-assisted slide editing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · DevTools · Database
+Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ solid‑shuwen/shuttleslide 是一个专为 AI 设计的 PowerPoint ↔ HTML 双
 | forks | 21/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

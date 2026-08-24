@@ -1,6 +1,6 @@
 # HowieHChen/XiaomiHelper
 
-[![Stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat-square&color=yellow)](https://github.com/HowieHChen/XiaomiHelper/stargazers) [![Forks](https://img.shields.io/github/forks/HowieHChen/XiaomiHelper?style=flat-square&color=blue)](https://github.com/HowieHChen/XiaomiHelper/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat-square&color=yellow)](https://github.com/HowieHChen/XiaomiHelper/stargazers) [![Forks](https://img.shields.io/github/forks/HowieHChen/XiaomiHelper?style=flat-square&color=blue)](https://github.com/HowieHChen/XiaomiHelper/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > No description or website provided.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ HowieHChen/XiaomiHelper 是一个开源项目，帮助用户与小米设备进�
 | forks | 33/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

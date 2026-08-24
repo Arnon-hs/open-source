@@ -1,6 +1,6 @@
 # BaseInfinity/claude-sdlc-harness
 
-[![Stars](https://img.shields.io/github/stars/BaseInfinity/claude-sdlc-harness?style=flat-square&color=yellow)](https://github.com/BaseInfinity/claude-sdlc-harness/stargazers) [![Forks](https://img.shields.io/github/forks/BaseInfinity/claude-sdlc-harness?style=flat-square&color=blue)](https://github.com/BaseInfinity/claude-sdlc-harness/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BaseInfinity/claude-sdlc-harness?style=flat-square&color=yellow)](https://github.com/BaseInfinity/claude-sdlc-harness/stargazers) [![Forks](https://img.shields.io/github/forks/BaseInfinity/claude-sdlc-harness?style=flat-square&color=blue)](https://github.com/BaseInfinity/claude-sdlc-harness/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving SDLC enforcement for AI coding agents — hooks, skills, and one-command setup for Claude Code. Plan before coding, test before shipping, escalate when uncertain. Measures itself getting better over time.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ BaseInfinity/claude-sdlc-harness 是一个开源项目，提供自我演进的�
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

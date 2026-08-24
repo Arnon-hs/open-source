@@ -1,6 +1,6 @@
 # taskctl/taskctl
 
-[![Stars](https://img.shields.io/github/stars/taskctl/taskctl?style=flat-square&color=yellow)](https://github.com/taskctl/taskctl/stargazers) [![Forks](https://img.shields.io/github/forks/taskctl/taskctl?style=flat-square&color=blue)](https://github.com/taskctl/taskctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taskctl/taskctl?style=flat-square&color=yellow)](https://github.com/taskctl/taskctl/stargazers) [![Forks](https://img.shields.io/github/forks/taskctl/taskctl?style=flat-square&color=blue)](https://github.com/taskctl/taskctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ taskctl 在生产环境中具有较高的可用性，主要原因是：
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

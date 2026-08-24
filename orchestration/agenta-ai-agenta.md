@@ -1,6 +1,6 @@
 # Agenta-AI/agenta
 
-[![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square&color=yellow)](https://github.com/Agenta-AI/agenta/stargazers) [![Forks](https://img.shields.io/github/forks/Agenta-AI/agenta?style=flat-square&color=blue)](https://github.com/Agenta-AI/agenta/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat-square&color=yellow)](https://github.com/Agenta-AI/agenta/stargazers) [![Forks](https://img.shields.io/github/forks/Agenta-AI/agenta?style=flat-square&color=blue)](https://github.com/Agenta-AI/agenta/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 574 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Agenta-AI/agenta 的生产可用性很高，原因包括：
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

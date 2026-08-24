@@ -1,6 +1,6 @@
 # zapplyjobs/New-Grad-Jobs-2027
 
-[![Stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Jobs-2027?style=flat-square&color=yellow)](https://github.com/zapplyjobs/New-Grad-Jobs-2027/stargazers) [![Forks](https://img.shields.io/github/forks/zapplyjobs/New-Grad-Jobs-2027?style=flat-square&color=blue)](https://github.com/zapplyjobs/New-Grad-Jobs-2027/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Jobs-2027?style=flat-square&color=yellow)](https://github.com/zapplyjobs/New-Grad-Jobs-2027/stargazers) [![Forks](https://img.shields.io/github/forks/zapplyjobs/New-Grad-Jobs-2027?style=flat-square&color=blue)](https://github.com/zapplyjobs/New-Grad-Jobs-2027/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 2027 entry-level jobs in tech, finance, healthcare & more — new grad US roles across software, business, operations & beyond
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ zapplyjobs/New-Grad-Jobs-2027：zapplyjobs/New-Grad-Jobs-2027 may be useful when
 | forks | 46/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

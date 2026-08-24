@@ -1,6 +1,6 @@
 # sieblyio/bitget-api
 
-[![Stars](https://img.shields.io/github/stars/sieblyio/bitget-api?style=flat-square&color=yellow)](https://github.com/sieblyio/bitget-api/stargazers) [![Forks](https://img.shields.io/github/forks/sieblyio/bitget-api?style=flat-square&color=blue)](https://github.com/sieblyio/bitget-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sieblyio/bitget-api?style=flat-square&color=yellow)](https://github.com/sieblyio/bitget-api/stargazers) [![Forks](https://img.shields.io/github/forks/sieblyio/bitget-api?style=flat-square&color=blue)](https://github.com/sieblyio/bitget-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript & Node.js SDK for the Bitget APIs and WebSockets, with TypeScript & browser support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend · DevTools
+Crypto · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ sieblyio/bitget-api 具有高生产可用性，
 | forks | 39/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

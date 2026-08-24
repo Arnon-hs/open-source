@@ -1,6 +1,6 @@
 # riponcm/projectmem
 
-[![Stars](https://img.shields.io/github/stars/riponcm/projectmem?style=flat-square&color=yellow)](https://github.com/riponcm/projectmem/stargazers) [![Forks](https://img.shields.io/github/forks/riponcm/projectmem?style=flat-square&color=blue)](https://github.com/riponcm/projectmem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riponcm/projectmem?style=flat-square&color=yellow)](https://github.com/riponcm/projectmem/stargazers) [![Forks](https://img.shields.io/github/forks/riponcm/projectmem?style=flat-square&color=blue)](https://github.com/riponcm/projectmem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first memory layer for AI coding agents. Captures issues, attempts, decisions, and cross-project library gotchas — your AI starts experienced, not amnesiac. Native MCP server verified across Claude Desktop, Cursor, Antigravity, and Codex. 100% local · no cloud · no telemetry · MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ riponcm/projectmem 是一个面向 AI 编码助理的本地化记忆层，能够
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

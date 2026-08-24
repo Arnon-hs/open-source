@@ -1,6 +1,6 @@
 # chmonitor/chmonitor
 
-[![Stars](https://img.shields.io/github/stars/chmonitor/chmonitor?style=flat-square&color=yellow)](https://github.com/chmonitor/chmonitor/stargazers) [![Forks](https://img.shields.io/github/forks/chmonitor/chmonitor?style=flat-square&color=blue)](https://github.com/chmonitor/chmonitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chmonitor/chmonitor?style=flat-square&color=yellow)](https://github.com/chmonitor/chmonitor/stargazers) [![Forks](https://img.shields.io/github/forks/chmonitor/chmonitor?style=flat-square&color=blue)](https://github.com/chmonitor/chmonitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. Self-host or use the cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 249 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Data · Database
+MCP · AI/ML · Database · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ chmonitor/chmonitor 是一个开源的 ClickHouse 运营顾问，提供实时监
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

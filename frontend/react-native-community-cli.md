@@ -1,6 +1,6 @@
 # react-native-community/cli
 
-[![Stars](https://img.shields.io/github/stars/react-native-community/cli?style=flat-square&color=yellow)](https://github.com/react-native-community/cli/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-community/cli?style=flat-square&color=blue)](https://github.com/react-native-community/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react-native-community/cli?style=flat-square&color=yellow)](https://github.com/react-native-community/cli/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-community/cli?style=flat-square&color=blue)](https://github.com/react-native-community/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The React Native Community CLI — Command line tools to help you build React Native apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 938 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,14 +126,15 @@ react-native-community/cli 是 React Native 官方社区维护的命令行工具
 | forks | 74/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

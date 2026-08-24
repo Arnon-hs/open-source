@@ -1,6 +1,6 @@
 # ijry/uview-plus
 
-[![Stars](https://img.shields.io/github/stars/ijry/uview-plus?style=flat-square&color=yellow)](https://github.com/ijry/uview-plus/stargazers) [![Forks](https://img.shields.io/github/forks/ijry/uview-plus?style=flat-square&color=blue)](https://github.com/ijry/uview-plus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ijry/uview-plus?style=flat-square&color=yellow)](https://github.com/ijry/uview-plus/stargazers) [![Forks](https://img.shields.io/github/forks/ijry/uview-plus?style=flat-square&color=blue)](https://github.com/ijry/uview-plus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 零云®uview-plus，是uni-app全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 713 |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,14 +78,15 @@ ijry/uview-plus — это uni‑app‑совместимый фреймвор
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

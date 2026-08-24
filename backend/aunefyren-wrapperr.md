@@ -1,6 +1,6 @@
 # aunefyren/wrapperr
 
-[![Stars](https://img.shields.io/github/stars/aunefyren/wrapperr?style=flat-square&color=yellow)](https://github.com/aunefyren/wrapperr/stargazers) [![Forks](https://img.shields.io/github/forks/aunefyren/wrapperr?style=flat-square&color=blue)](https://github.com/aunefyren/wrapperr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aunefyren/wrapperr?style=flat-square&color=yellow)](https://github.com/aunefyren/wrapperr/stargazers) [![Forks](https://img.shields.io/github/forks/aunefyren/wrapperr?style=flat-square&color=blue)](https://github.com/aunefyren/wrapperr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 452 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · DevOps/Infra
+Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ wrapperr 的生产可用性很高，理由如下：
 | forks | 35/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

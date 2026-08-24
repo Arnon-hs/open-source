@@ -1,6 +1,6 @@
 # respawn-app/ksrc
 
-[![Stars](https://img.shields.io/github/stars/respawn-app/ksrc?style=flat-square&color=yellow)](https://github.com/respawn-app/ksrc/stargazers) [![Forks](https://img.shields.io/github/forks/respawn-app/ksrc?style=flat-square&color=blue)](https://github.com/respawn-app/ksrc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/respawn-app/ksrc?style=flat-square&color=yellow)](https://github.com/respawn-app/ksrc/stargazers) [![Forks](https://img.shields.io/github/forks/respawn-app/ksrc?style=flat-square&color=blue)](https://github.com/respawn-app/ksrc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Let your AI agents search and read 3rd-party Kotlin dependency sources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ respawn‑app/ksrc 是一个帮助 AI 代理检索并阅读第三方 Kotlin 依�
 | forks | 8/100 |
 | stars | 38/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

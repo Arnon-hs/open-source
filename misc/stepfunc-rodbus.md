@@ -1,6 +1,6 @@
 # stepfunc/rodbus
 
-[![Stars](https://img.shields.io/github/stars/stepfunc/rodbus?style=flat-square&color=yellow)](https://github.com/stepfunc/rodbus/stargazers) [![Forks](https://img.shields.io/github/forks/stepfunc/rodbus?style=flat-square&color=blue)](https://github.com/stepfunc/rodbus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stepfunc/rodbus?style=flat-square&color=yellow)](https://github.com/stepfunc/rodbus/stargazers) [![Forks](https://img.shields.io/github/forks/stepfunc/rodbus?style=flat-square&color=blue)](https://github.com/stepfunc/rodbus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of Modbus with idiomatic bindings for C, C++, .NET, and Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Stepfunc/Rodbus 是一个开源项目，实现了 Modbus 协议，并提供了 C
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

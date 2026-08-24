@@ -1,6 +1,6 @@
 # blocklistproject/Lists
 
-[![Stars](https://img.shields.io/github/stars/blocklistproject/Lists?style=flat-square&color=yellow)](https://github.com/blocklistproject/Lists/stargazers) [![Forks](https://img.shields.io/github/forks/blocklistproject/Lists?style=flat-square&color=blue)](https://github.com/blocklistproject/Lists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blocklistproject/Lists?style=flat-square&color=yellow)](https://github.com/blocklistproject/Lists/stargazers) [![Forks](https://img.shields.io/github/forks/blocklistproject/Lists?style=flat-square&color=blue)](https://github.com/blocklistproject/Lists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Primary Block Lists
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 412 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ blocklistproject/Lists is a Python‑based repository of curated blocklists (ad�
 | forks | 65/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

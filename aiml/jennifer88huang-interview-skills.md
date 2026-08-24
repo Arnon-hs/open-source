@@ -1,6 +1,6 @@
 # jennifer88huang/interview-skills
 
-[![Stars](https://img.shields.io/github/stars/jennifer88huang/interview-skills?style=flat-square&color=yellow)](https://github.com/jennifer88huang/interview-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jennifer88huang/interview-skills?style=flat-square&color=blue)](https://github.com/jennifer88huang/interview-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jennifer88huang/interview-skills?style=flat-square&color=yellow)](https://github.com/jennifer88huang/interview-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jennifer88huang/interview-skills?style=flat-square&color=blue)](https://github.com/jennifer88huang/interview-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 大厂 AI 模拟面试官 Skill。AI mock interview coach for FAANG, Big Tech, and startup job seekers. Generate personalized interview questions from JD + resume.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Jennifer88huang/interview‑skills 提供了一个即插即用的 AI 模拟面�
 | forks | 23/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

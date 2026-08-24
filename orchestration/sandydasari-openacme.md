@@ -1,6 +1,6 @@
 # sandydasari/openacme
 
-[![Stars](https://img.shields.io/github/stars/sandydasari/openacme?style=flat-square&color=yellow)](https://github.com/sandydasari/openacme/stargazers) [![Forks](https://img.shields.io/github/forks/sandydasari/openacme?style=flat-square&color=blue)](https://github.com/sandydasari/openacme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandydasari/openacme?style=flat-square&color=yellow)](https://github.com/sandydasari/openacme/stargazers) [![Forks](https://img.shields.io/github/forks/sandydasari/openacme?style=flat-square&color=blue)](https://github.com/sandydasari/openacme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in charge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Overall, openacme offers a mature, extensible foundation for building and operat
 | forks | 15/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

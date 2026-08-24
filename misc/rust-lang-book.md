@@ -1,6 +1,6 @@
 # rust-lang/book
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/book?style=flat-square&color=yellow)](https://github.com/rust-lang/book/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/book?style=flat-square&color=blue)](https://github.com/rust-lang/book/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/book?style=flat-square&color=yellow)](https://github.com/rust-lang/book/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/book?style=flat-square&color=blue)](https://github.com/rust-lang/book/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Rust-lang/book 的生产可用性很高，因为它是一个活跃的开源项�
 | forks | 90/100 |
 | stars | 91/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

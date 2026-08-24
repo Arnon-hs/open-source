@@ -1,6 +1,6 @@
 # AutomatedLab/AutomatedLab
 
-[![Stars](https://img.shields.io/github/stars/AutomatedLab/AutomatedLab?style=flat-square&color=yellow)](https://github.com/AutomatedLab/AutomatedLab/stargazers) [![Forks](https://img.shields.io/github/forks/AutomatedLab/AutomatedLab?style=flat-square&color=blue)](https://github.com/AutomatedLab/AutomatedLab/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AutomatedLab/AutomatedLab?style=flat-square&color=yellow)](https://github.com/AutomatedLab/AutomatedLab/stargazers) [![Forks](https://img.shields.io/github/forks/AutomatedLab/AutomatedLab?style=flat-square&color=blue)](https://github.com/AutomatedLab/AutomatedLab/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 384 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Product
+Trading
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ AutomatedLab 为 Windows（2008 R2–2022）和部分 Linux 环境提供“一
 | forks | 65/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

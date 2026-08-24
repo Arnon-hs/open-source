@@ -1,6 +1,6 @@
 # open-cli-tools/concurrently
 
-[![Stars](https://img.shields.io/github/stars/open-cli-tools/concurrently?style=flat-square&color=yellow)](https://github.com/open-cli-tools/concurrently/stargazers) [![Forks](https://img.shields.io/github/forks/open-cli-tools/concurrently?style=flat-square&color=blue)](https://github.com/open-cli-tools/concurrently/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-cli-tools/concurrently?style=flat-square&color=yellow)](https://github.com/open-cli-tools/concurrently/stargazers) [![Forks](https://img.shields.io/github/forks/open-cli-tools/concurrently?style=flat-square&color=blue)](https://github.com/open-cli-tools/concurrently/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ DevTools
 | forks | 61/100 |
 | stars | 83/100 |
 | topics | 75/100 |
-| outlook | 86/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

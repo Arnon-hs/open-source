@@ -1,6 +1,6 @@
 # elixir-protobuf/protobuf
 
-[![Stars](https://img.shields.io/github/stars/elixir-protobuf/protobuf?style=flat-square&color=yellow)](https://github.com/elixir-protobuf/protobuf/stargazers) [![Forks](https://img.shields.io/github/forks/elixir-protobuf/protobuf?style=flat-square&color=blue)](https://github.com/elixir-protobuf/protobuf/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elixir-protobuf/protobuf?style=flat-square&color=yellow)](https://github.com/elixir-protobuf/protobuf/stargazers) [![Forks](https://img.shields.io/github/forks/elixir-protobuf/protobuf?style=flat-square&color=blue)](https://github.com/elixir-protobuf/protobuf/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A pure Elixir implementation of Google Protobuf.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 902 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Elixir-protobuf/protobuf 的生产可用性评分为高（62/100）。它具有�
 | forks | 55/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

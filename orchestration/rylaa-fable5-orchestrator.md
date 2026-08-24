@@ -1,6 +1,6 @@
 # Rylaa/fable5-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/Rylaa/fable5-orchestrator?style=flat-square&color=yellow)](https://github.com/Rylaa/fable5-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Rylaa/fable5-orchestrator?style=flat-square&color=blue)](https://github.com/Rylaa/fable5-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rylaa/fable5-orchestrator?style=flat-square&color=yellow)](https://github.com/Rylaa/fable5-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Rylaa/fable5-orchestrator?style=flat-square&color=blue)](https://github.com/Rylaa/fable5-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Keep Claude Fable 5 in the chair all day without draining your usage limit — token-frugal multi-agent orchestration plugin for Claude Code: tier routing (Sonnet 5 does the work), Requirements Ledger, enforced guard hooks, automatic teammate reaping
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Rylaa/fable5-orchestrator 是一个开源项目，旨在提高 Claude AI 的效�
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

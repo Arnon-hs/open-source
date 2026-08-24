@@ -1,6 +1,6 @@
 # superagentxai/superagentx
 
-[![Stars](https://img.shields.io/github/stars/superagentxai/superagentx?style=flat-square&color=yellow)](https://github.com/superagentxai/superagentx/stargazers) [![Forks](https://img.shields.io/github/forks/superagentxai/superagentx?style=flat-square&color=blue)](https://github.com/superagentxai/superagentx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superagentxai/superagentx?style=flat-square&color=yellow)](https://github.com/superagentxai/superagentx/stargazers) [![Forks](https://img.shields.io/github/forks/superagentxai/superagentx?style=flat-square&color=blue)](https://github.com/superagentxai/superagentx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Move from idea to production in hours with policy-driven autonomous AI agents. Unified Control Plane: Centralised tools, MCPs, models, data, and policies with consistent observability and governance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · Knowledge/RAG · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ SuperAgentX（`superagentxai/superagentx`）是一套基于策略的自主 AI �
 | forks | 42/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

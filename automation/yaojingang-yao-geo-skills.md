@@ -1,6 +1,6 @@
 # yaojingang/yao-geo-skills
 
-[![Stars](https://img.shields.io/github/stars/yaojingang/yao-geo-skills?style=flat-square&color=yellow)](https://github.com/yaojingang/yao-geo-skills/stargazers) [![Forks](https://img.shields.io/github/forks/yaojingang/yao-geo-skills?style=flat-square&color=blue)](https://github.com/yaojingang/yao-geo-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaojingang/yao-geo-skills?style=flat-square&color=yellow)](https://github.com/yaojingang/yao-geo-skills/stargazers) [![Forks](https://img.shields.io/github/forks/yaojingang/yao-geo-skills?style=flat-square&color=blue)](https://github.com/yaojingang/yao-geo-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source Skill collection for GEO content and workflows, continuously updated.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ yaojingang/yao-geo-skills 是一套开源的 GEO（地理空间）技能库，�
 | forks | 48/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

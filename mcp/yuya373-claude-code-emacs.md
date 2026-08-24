@@ -1,6 +1,6 @@
 # yuya373/claude-code-emacs
 
-[![Stars](https://img.shields.io/github/stars/yuya373/claude-code-emacs?style=flat-square&color=yellow)](https://github.com/yuya373/claude-code-emacs/stargazers) [![Forks](https://img.shields.io/github/forks/yuya373/claude-code-emacs?style=flat-square&color=blue)](https://github.com/yuya373/claude-code-emacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuya373/claude-code-emacs?style=flat-square&color=yellow)](https://github.com/yuya373/claude-code-emacs/stargazers) [![Forks](https://img.shields.io/github/forks/yuya373/claude-code-emacs?style=flat-square&color=blue)](https://github.com/yuya373/claude-code-emacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > This package provides seamless integration with Claude Code, allowing you to run AI-powered coding sessions directly in your Emacs environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ yuya373/claude-code-emacs 是一个开源项目，提供了与 Claude Code 的�
 | forks | 23/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

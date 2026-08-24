@@ -1,6 +1,6 @@
 # supabase-community/postgres-language-server
 
-[![Stars](https://img.shields.io/github/stars/supabase-community/postgres-language-server?style=flat-square&color=yellow)](https://github.com/supabase-community/postgres-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/postgres-language-server?style=flat-square&color=blue)](https://github.com/supabase-community/postgres-language-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase-community/postgres-language-server?style=flat-square&color=yellow)](https://github.com/supabase-community/postgres-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/postgres-language-server?style=flat-square&color=blue)](https://github.com/supabase-community/postgres-language-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A Language Server for Postgres
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Postgres 语言服务器的生产可用性为中等。它适合用于原型开�
 | forks | 52/100 |
 | stars | 79/100 |
 | topics | 25/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

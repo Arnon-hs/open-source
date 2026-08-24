@@ -1,6 +1,6 @@
 # jihe520/MathModelAgent
 
-[![Stars](https://img.shields.io/github/stars/jihe520/MathModelAgent?style=flat-square&color=yellow)](https://github.com/jihe520/MathModelAgent/stargazers) [![Forks](https://img.shields.io/github/forks/jihe520/MathModelAgent?style=flat-square&color=blue)](https://github.com/jihe520/MathModelAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jihe520/MathModelAgent?style=flat-square&color=yellow)](https://github.com/jihe520/MathModelAgent/stargazers) [![Forks](https://img.shields.io/github/forks/jihe520/MathModelAgent?style=flat-square&color=blue)](https://github.com/jihe520/MathModelAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -126,14 +126,15 @@ Overall, MathModelAgent is a high‑readiness OSS candidate for teams that need 
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

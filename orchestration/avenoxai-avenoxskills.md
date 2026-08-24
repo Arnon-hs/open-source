@@ -1,6 +1,6 @@
 # avenoxai/avenoxskills
 
-[![Stars](https://img.shields.io/github/stars/avenoxai/avenoxskills?style=flat-square&color=yellow)](https://github.com/avenoxai/avenoxskills/stargazers) [![Forks](https://img.shields.io/github/forks/avenoxai/avenoxskills?style=flat-square&color=blue)](https://github.com/avenoxai/avenoxskills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avenoxai/avenoxskills?style=flat-square&color=yellow)](https://github.com/avenoxai/avenoxskills/stargazers) [![Forks](https://img.shields.io/github/forks/avenoxai/avenoxskills?style=flat-square&color=blue)](https://github.com/avenoxai/avenoxskills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Production agent skills for Claude Code, Cursor, and any SKILL.md harness — Codex fleets, video pipeline, monorepo review bundles, multi-chain explorer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ AvenoxSkills 的生产可用性为 中等（Medium）。它适合用于原型开
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

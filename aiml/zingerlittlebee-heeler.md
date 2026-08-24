@@ -1,6 +1,6 @@
 # ZingerLittleBee/Heeler
 
-[![Stars](https://img.shields.io/github/stars/ZingerLittleBee/Heeler?style=flat-square&color=yellow)](https://github.com/ZingerLittleBee/Heeler/stargazers) [![Forks](https://img.shields.io/github/forks/ZingerLittleBee/Heeler?style=flat-square&color=blue)](https://github.com/ZingerLittleBee/Heeler/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZingerLittleBee/Heeler?style=flat-square&color=yellow)](https://github.com/ZingerLittleBee/Heeler/stargazers) [![Forks](https://img.shields.io/github/forks/ZingerLittleBee/Heeler?style=flat-square&color=blue)](https://github.com/ZingerLittleBee/Heeler/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ZingerLittleBee/Heeler：ZingerLittleBee/Heeler helps add AI capability without 
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

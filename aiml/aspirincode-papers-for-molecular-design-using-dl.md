@@ -1,6 +1,6 @@
 # AspirinCode/papers-for-molecular-design-using-DL
 
-[![Stars](https://img.shields.io/github/stars/AspirinCode/papers-for-molecular-design-using-DL?style=flat-square&color=yellow)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/stargazers) [![Forks](https://img.shields.io/github/forks/AspirinCode/papers-for-molecular-design-using-DL?style=flat-square&color=blue)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AspirinCode/papers-for-molecular-design-using-DL?style=flat-square&color=yellow)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/stargazers) [![Forks](https://img.shields.io/github/forks/AspirinCode/papers-for-molecular-design-using-DL?style=flat-square&color=blue)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > List of Molecular and Material design using Generative AI and Deep Learning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 944 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Design · Education
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ AspirinCode/papers‑for‑molecular‑design‑using‑DL 是一个收录了分
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

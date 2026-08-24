@@ -1,6 +1,6 @@
 # Piebald-AI/gemini-cli-desktop
 
-[![Stars](https://img.shields.io/github/stars/Piebald-AI/gemini-cli-desktop?style=flat-square&color=yellow)](https://github.com/Piebald-AI/gemini-cli-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Piebald-AI/gemini-cli-desktop?style=flat-square&color=blue)](https://github.com/Piebald-AI/gemini-cli-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Piebald-AI/gemini-cli-desktop?style=flat-square&color=yellow)](https://github.com/Piebald-AI/gemini-cli-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/Piebald-AI/gemini-cli-desktop?style=flat-square&color=blue)](https://github.com/Piebald-AI/gemini-cli-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 467 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Piebald‑AI/gemini‑cli‑desktop 是一款基于 Web 与桌面 UI 的统一�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

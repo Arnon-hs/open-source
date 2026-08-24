@@ -1,6 +1,6 @@
 # asg017/sqlite-jiff
 
-[![Stars](https://img.shields.io/github/stars/asg017/sqlite-jiff?style=flat-square&color=yellow)](https://github.com/asg017/sqlite-jiff/stargazers) [![Forks](https://img.shields.io/github/forks/asg017/sqlite-jiff?style=flat-square&color=blue)](https://github.com/asg017/sqlite-jiff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asg017/sqlite-jiff?style=flat-square&color=yellow)](https://github.com/asg017/sqlite-jiff/stargazers) [![Forks](https://img.shields.io/github/forks/asg017/sqlite-jiff?style=flat-square&color=blue)](https://github.com/asg017/sqlite-jiff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ asg017/sqlite-jiff 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 63/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

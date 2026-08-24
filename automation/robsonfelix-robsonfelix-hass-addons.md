@@ -1,6 +1,6 @@
 # robsonfelix/robsonfelix-hass-addons
 
-[![Stars](https://img.shields.io/github/stars/robsonfelix/robsonfelix-hass-addons?style=flat-square&color=yellow)](https://github.com/robsonfelix/robsonfelix-hass-addons/stargazers) [![Forks](https://img.shields.io/github/forks/robsonfelix/robsonfelix-hass-addons?style=flat-square&color=blue)](https://github.com/robsonfelix/robsonfelix-hass-addons/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robsonfelix/robsonfelix-hass-addons?style=flat-square&color=yellow)](https://github.com/robsonfelix/robsonfelix-hass-addons/stargazers) [![Forks](https://img.shields.io/github/forks/robsonfelix/robsonfelix-hass-addons?style=flat-square&color=blue)](https://github.com/robsonfelix/robsonfelix-hass-addons/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant add-ons by Robson Felix. Includes Claude Code - run Anthropic's AI coding assistant directly in Home Assistant to create automations and manage your smart home.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ robsonfelix/robsonfelix-hass-addons 是一个开源项目，提供了 Home Assis
 | forks | 38/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ProcessMaker/processmaker
 
-[![Stars](https://img.shields.io/github/stars/ProcessMaker/processmaker?style=flat-square&color=yellow)](https://github.com/ProcessMaker/processmaker/stargazers) [![Forks](https://img.shields.io/github/forks/ProcessMaker/processmaker?style=flat-square&color=blue)](https://github.com/ProcessMaker/processmaker/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProcessMaker/processmaker?style=flat-square&color=yellow)](https://github.com/ProcessMaker/processmaker/stargazers) [![Forks](https://img.shields.io/github/forks/ProcessMaker/processmaker?style=flat-square&color=blue)](https://github.com/ProcessMaker/processmaker/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ProcessMaker BPM Core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 538 |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ ProcessMaker/processmaker 是一个开源的业务流程管理核心（BPM Core�
 | forks | 60/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # codecast-sh/codecast
 
-[![Stars](https://img.shields.io/github/stars/codecast-sh/codecast?style=flat-square&color=yellow)](https://github.com/codecast-sh/codecast/stargazers) [![Forks](https://img.shields.io/github/forks/codecast-sh/codecast?style=flat-square&color=blue)](https://github.com/codecast-sh/codecast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codecast-sh/codecast?style=flat-square&color=yellow)](https://github.com/codecast-sh/codecast/stargazers) [![Forks](https://img.shields.io/github/forks/codecast-sh/codecast?style=flat-square&color=blue)](https://github.com/codecast-sh/codecast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > See, steer, and remember every coding agent session — Claude Code, Codex, Cursor, Gemini. Team memory, live steering from any device, line-level agent attribution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ codecast-sh/codecast 的主要价值在于，它可以帮助开发者将孤立�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AbyssCN/oh-my-dag
 
-[![Stars](https://img.shields.io/github/stars/AbyssCN/oh-my-dag?style=flat-square&color=yellow)](https://github.com/AbyssCN/oh-my-dag/stargazers) [![Forks](https://img.shields.io/github/forks/AbyssCN/oh-my-dag?style=flat-square&color=blue)](https://github.com/AbyssCN/oh-my-dag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbyssCN/oh-my-dag?style=flat-square&color=yellow)](https://github.com/AbyssCN/oh-my-dag/stargazers) [![Forks](https://img.shields.io/github/forks/AbyssCN/oh-my-dag?style=flat-square&color=blue)](https://github.com/AbyssCN/oh-my-dag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Xihe · 羲和 — the system around the model. A model-agnostic multi-agent runtime: deterministic orchestration, a self-consolidating memory, a cross-model verifier, and engineered taste. Wright is its first agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ AbyssCN/oh-my-dag 的主要价值在于，它可以将孤立的提示和工具�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

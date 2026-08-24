@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ dtolnay/inventory 提供了类型化的分布式插件注册机制，能够在 R
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

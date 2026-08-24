@@ -1,6 +1,6 @@
 # adongwanai/AgentGuide
 
-[![Stars](https://img.shields.io/github/stars/adongwanai/AgentGuide?style=flat-square&color=yellow)](https://github.com/adongwanai/AgentGuide/stargazers) [![Forks](https://img.shields.io/github/forks/adongwanai/AgentGuide?style=flat-square&color=blue)](https://github.com/adongwanai/AgentGuide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adongwanai/AgentGuide?style=flat-square&color=yellow)](https://github.com/adongwanai/AgentGuide/stargazers) [![Forks](https://img.shields.io/github/forks/adongwanai/AgentGuide?style=flat-square&color=blue)](https://github.com/adongwanai/AgentGuide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 666 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · Education
+Orchestration · Knowledge/RAG · AI/ML · Education
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ adongwanai/AgentGuide 的价值在于，它帮助开发者协调多代理工作�
 | forks | 71/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

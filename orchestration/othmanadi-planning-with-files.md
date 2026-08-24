@@ -1,6 +1,6 @@
 # OthmanAdi/planning-with-files
 
-[![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&color=yellow)](https://github.com/OthmanAdi/planning-with-files/stargazers) [![Forks](https://img.shields.io/github/forks/OthmanAdi/planning-with-files?style=flat-square&color=blue)](https://github.com/OthmanAdi/planning-with-files/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&color=yellow)](https://github.com/OthmanAdi/planning-with-files/stargazers) [![Forks](https://img.shields.io/github/forks/OthmanAdi/planning-with-files?style=flat-square&color=blue)](https://github.com/OthmanAdi/planning-with-files/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ OthmanAdi/planning-with-files 是基于 Claude Code Skill 实现的 Manus 风格
 | forks | 82/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 75/100 |
+| recency | 20/100 |
 | adoption | 89/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

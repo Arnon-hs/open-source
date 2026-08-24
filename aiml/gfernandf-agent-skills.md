@@ -1,6 +1,6 @@
 # gfernandf/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/gfernandf/agent-skills?style=flat-square&color=yellow)](https://github.com/gfernandf/agent-skills/blob/main/docs/ACTION_PREFLIGHT_FORECAST_QUICKSTART.md/stargazers) [![Forks](https://img.shields.io/github/forks/gfernandf/agent-skills?style=flat-square&color=blue)](https://github.com/gfernandf/agent-skills/blob/main/docs/ACTION_PREFLIGHT_FORECAST_QUICKSTART.md/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gfernandf/agent-skills?style=flat-square&color=yellow)](https://github.com/gfernandf/agent-skills/blob/main/docs/ACTION_PREFLIGHT_FORECAST_QUICKSTART.md/stargazers) [![Forks](https://img.shields.io/github/forks/gfernandf/agent-skills?style=flat-square&color=blue)](https://github.com/gfernandf/agent-skills/blob/main/docs/ACTION_PREFLIGHT_FORECAST_QUICKSTART.md/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Action Preflight 是一个面向大语言模型（LLM）代理的“后置检查
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 36/100 |
+| quality | 26/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 38/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

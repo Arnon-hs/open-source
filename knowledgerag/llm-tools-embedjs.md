@@ -1,6 +1,6 @@
 # llm-tools/embedJs
 
-[![Stars](https://img.shields.io/github/stars/llm-tools/embedJs?style=flat-square&color=yellow)](https://github.com/llm-tools/embedJs/stargazers) [![Forks](https://img.shields.io/github/forks/llm-tools/embedJs?style=flat-square&color=blue)](https://github.com/llm-tools/embedJs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm-tools/embedJs?style=flat-square&color=yellow)](https://github.com/llm-tools/embedJs/stargazers) [![Forks](https://img.shields.io/github/forks/llm-tools/embedJs?style=flat-square&color=blue)](https://github.com/llm-tools/embedJs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A NodeJS RAG framework to easily work with LLMs and embeddings
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Overall, `llm-tools/embedJs` is production‑ready for a serious pilot, provided
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

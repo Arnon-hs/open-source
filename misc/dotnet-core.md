@@ -1,6 +1,6 @@
 # dotnet/core
 
-[![Stars](https://img.shields.io/github/stars/dotnet/core?style=flat-square&color=yellow)](https://github.com/dotnet/core/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/core?style=flat-square&color=blue)](https://github.com/dotnet/core/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/core?style=flat-square&color=yellow)](https://github.com/dotnet/core/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/core?style=flat-square&color=blue)](https://github.com/dotnet/core/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > .NET news, announcements, release notes, and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22k |
 | 🍴 **Forks** | 4.9k |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ dotnet/core 是一个开源项目，提供 .NET 相关的新闻、公告、发�
 | forks | 92/100 |
 | stars | 92/100 |
 | topics | 25/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

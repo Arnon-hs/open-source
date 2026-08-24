@@ -1,6 +1,6 @@
 # dcnetio/web-dc-api
 
-[![Stars](https://img.shields.io/github/stars/dcnetio/web-dc-api?style=flat-square&color=yellow)](https://github.com/dcnetio/web-dc-api/stargazers) [![Forks](https://img.shields.io/github/forks/dcnetio/web-dc-api?style=flat-square&color=blue)](https://github.com/dcnetio/web-dc-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dcnetio/web-dc-api?style=flat-square&color=yellow)](https://github.com/dcnetio/web-dc-api/stargazers) [![Forks](https://img.shields.io/github/forks/dcnetio/web-dc-api?style=flat-square&color=blue)](https://github.com/dcnetio/web-dc-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > web-dc-api是一个革命性的去中心化 Web 开发 SDK，让您无需任何服务器即可构建完整的智能体与互联网应用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ dcnetio/web-dc-api 的生产可用性非常高。它有强大的社区支持，�
 | forks | 15/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

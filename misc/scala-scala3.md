@@ -1,6 +1,6 @@
 # scala/scala3
 
-[![Stars](https://img.shields.io/github/stars/scala/scala3?style=flat-square&color=yellow)](https://github.com/scala/scala3/stargazers) [![Forks](https://img.shields.io/github/forks/scala/scala3?style=flat-square&color=blue)](https://github.com/scala/scala3/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scala/scala3?style=flat-square&color=yellow)](https://github.com/scala/scala3/stargazers) [![Forks](https://img.shields.io/github/forks/scala/scala3?style=flat-square&color=blue)](https://github.com/scala/scala3/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Scala 3 compiler, also known as Dotty.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Scala 3 编译器（代号 Dotty）是 Scala 语言的下一代实现，提供
 | forks | 77/100 |
 | stars | 81/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

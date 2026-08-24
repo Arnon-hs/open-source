@@ -1,6 +1,6 @@
 # niqibiao/unity-cli-skill
 
-[![Stars](https://img.shields.io/github/stars/niqibiao/unity-cli-skill?style=flat-square&color=yellow)](https://github.com/niqibiao/unity-cli-skill/stargazers) [![Forks](https://img.shields.io/github/forks/niqibiao/unity-cli-skill?style=flat-square&color=blue)](https://github.com/niqibiao/unity-cli-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niqibiao/unity-cli-skill?style=flat-square&color=yellow)](https://github.com/niqibiao/unity-cli-skill/stargazers) [![Forks](https://img.shields.io/github/forks/niqibiao/unity-cli-skill?style=flat-square&color=blue)](https://github.com/niqibiao/unity-cli-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 0 config AI agent skill for Unity — AI-driven unity control, automate workflow. For UnityEditor/UnityPlayer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ niqibiao/unity-cli-skill 是一个零配置的 AI Agent 技能，能够通过标
 | forks | 0/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

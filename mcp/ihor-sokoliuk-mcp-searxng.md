@@ -1,6 +1,6 @@
 # ihor-sokoliuk/mcp-searxng
 
-[![Stars](https://img.shields.io/github/stars/ihor-sokoliuk/mcp-searxng?style=flat-square&color=yellow)](https://github.com/ihor-sokoliuk/mcp-searxng/stargazers) [![Forks](https://img.shields.io/github/forks/ihor-sokoliuk/mcp-searxng?style=flat-square&color=blue)](https://github.com/ihor-sokoliuk/mcp-searxng/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ihor-sokoliuk/mcp-searxng?style=flat-square&color=yellow)](https://github.com/ihor-sokoliuk/mcp-searxng/stargazers) [![Forks](https://img.shields.io/github/forks/ihor-sokoliuk/mcp-searxng?style=flat-square&color=blue)](https://github.com/ihor-sokoliuk/mcp-searxng/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Private web search for AI assistants via SearXNG — supports Claude, Cursor, and any MCP client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 944 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ ihor‑sokoliuk/mcp‑searxng 为 AI 助手提供私有化的 Web 搜索能力�
 | forks | 53/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

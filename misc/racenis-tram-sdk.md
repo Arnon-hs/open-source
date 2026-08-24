@@ -1,6 +1,6 @@
 # racenis/tram-sdk
 
-[![Stars](https://img.shields.io/github/stars/racenis/tram-sdk?style=flat-square&color=yellow)](https://github.com/racenis/tram-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/racenis/tram-sdk?style=flat-square&color=blue)](https://github.com/racenis/tram-sdk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/racenis/tram-sdk?style=flat-square&color=yellow)](https://github.com/racenis/tram-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/racenis/tram-sdk?style=flat-square&color=blue)](https://github.com/racenis/tram-sdk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ racenis/tram-sdk 的生产可用性为中等。由于 SDK 的维护和
 | forks | 23/100 |
 | stars | 56/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

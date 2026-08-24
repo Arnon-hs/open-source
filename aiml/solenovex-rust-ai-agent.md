@@ -1,6 +1,6 @@
 # solenovex/rust-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/solenovex/rust-ai-agent?style=flat-square&color=yellow)](https://github.com/solenovex/rust-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/solenovex/rust-ai-agent?style=flat-square&color=blue)](https://github.com/solenovex/rust-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solenovex/rust-ai-agent?style=flat-square&color=yellow)](https://github.com/solenovex/rust-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/solenovex/rust-ai-agent?style=flat-square&color=blue)](https://github.com/solenovex/rust-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ solenovex/rust-ai-agent 是一个开源项目，提供了 AI 能力添加的便�
 | forks | 17/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 63/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

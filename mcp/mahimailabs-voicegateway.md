@@ -1,6 +1,6 @@
 # mahimailabs/voicegateway
 
-[![Stars](https://img.shields.io/github/stars/mahimailabs/voicegateway?style=flat-square&color=yellow)](https://github.com/mahimailabs/voicegateway/stargazers) [![Forks](https://img.shields.io/github/forks/mahimailabs/voicegateway?style=flat-square&color=blue)](https://github.com/mahimailabs/voicegateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahimailabs/voicegateway?style=flat-square&color=yellow)](https://github.com/mahimailabs/voicegateway/stargazers) [![Forks](https://img.shields.io/github/forks/mahimailabs/voicegateway?style=flat-square&color=blue)](https://github.com/mahimailabs/voicegateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The One Dashboard every Voice Agent needs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Observability
+MCP · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ MahimaLabs/VoiceGateway 是一个基于 Model Context Protocol（MCP）的统一
 | forks | 25/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # HougeLangley/MediCareAI-Agent
 
-[![Stars](https://img.shields.io/github/stars/HougeLangley/MediCareAI-Agent?style=flat-square&color=yellow)](https://github.com/HougeLangley/MediCareAI-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/HougeLangley/MediCareAI-Agent?style=flat-square&color=blue)](https://github.com/HougeLangley/MediCareAI-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HougeLangley/MediCareAI-Agent?style=flat-square&color=yellow)](https://github.com/HougeLangley/MediCareAI-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/HougeLangley/MediCareAI-Agent?style=flat-square&color=blue)](https://github.com/HougeLangley/MediCareAI-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-Agent Autonomous Medical Collaboration System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ HougeLangley/MediCareAI-Agent 是一个多智能体自主医疗协作系统，�
 | forks | 25/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 45/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

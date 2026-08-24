@@ -1,6 +1,6 @@
 # linkerlin/PUAX
 
-[![Stars](https://img.shields.io/github/stars/linkerlin/PUAX?style=flat-square&color=yellow)](https://github.com/linkerlin/PUAX/stargazers) [![Forks](https://img.shields.io/github/forks/linkerlin/PUAX?style=flat-square&color=blue)](https://github.com/linkerlin/PUAX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkerlin/PUAX?style=flat-square&color=yellow)](https://github.com/linkerlin/PUAX/stargazers) [![Forks](https://img.shields.io/github/forks/linkerlin/PUAX?style=flat-square&color=blue)](https://github.com/linkerlin/PUAX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 用来驯服AI Agent的效果绝佳的多角色 Prompt！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ linkerlin/PUAX 的生产可用性被评估为中等（Medium）。它可以用�
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

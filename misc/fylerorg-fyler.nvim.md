@@ -1,6 +1,6 @@
 # FylerOrg/fyler.nvim
 
-[![Stars](https://img.shields.io/github/stars/FylerOrg/fyler.nvim?style=flat-square&color=yellow)](https://github.com/FylerOrg/fyler.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/FylerOrg/fyler.nvim?style=flat-square&color=blue)](https://github.com/FylerOrg/fyler.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FylerOrg/fyler.nvim?style=flat-square&color=yellow)](https://github.com/FylerOrg/fyler.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/FylerOrg/fyler.nvim?style=flat-square&color=blue)](https://github.com/FylerOrg/fyler.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A neovim file manager which can edit file system like a buffer with tree view
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 739 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ require('lazy').setup({
 | forks | 42/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # roomi-fields/rtfm
 
-[![Stars](https://img.shields.io/github/stars/roomi-fields/rtfm?style=flat-square&color=yellow)](https://github.com/roomi-fields/rtfm/stargazers) [![Forks](https://img.shields.io/github/forks/roomi-fields/rtfm?style=flat-square&color=blue)](https://github.com/roomi-fields/rtfm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roomi-fields/rtfm?style=flat-square&color=yellow)](https://github.com/roomi-fields/rtfm/stargazers) [![Forks](https://img.shields.io/github/forks/roomi-fields/rtfm?style=flat-square&color=blue)](https://github.com/roomi-fields/rtfm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The open retrieval layer for AI coding agents. Indexes code, docs, legal, research, data — 22 parsers (incl. EPUB, DOCX, ODT), FTS5 + semantic search, knowledge graph. Serves surgical context via MCP. Open source, local, free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ RTFM 的生产可用性为中等，适合用于原型或内部
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # appautomaton/agent-designer
 
-[![Stars](https://img.shields.io/github/stars/appautomaton/agent-designer?style=flat-square&color=yellow)](https://github.com/appautomaton/agent-designer/stargazers) [![Forks](https://img.shields.io/github/forks/appautomaton/agent-designer?style=flat-square&color=blue)](https://github.com/appautomaton/agent-designer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appautomaton/agent-designer?style=flat-square&color=yellow)](https://github.com/appautomaton/agent-designer/stargazers) [![Forks](https://img.shields.io/github/forks/appautomaton/agent-designer?style=flat-square&color=blue)](https://github.com/appautomaton/agent-designer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Portable SKILLs workspace for Claude Code, Codex, and Gemini — issue-driven workflows and cross-agent collaboration via bridge scripts with session continuity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ appautomaton/agent-designer 是一个可移植的工作空间，支持 Claude Co
 | forks | 31/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kanban-rs/kanban
 
-[![Stars](https://img.shields.io/github/stars/kanban-rs/kanban?style=flat-square&color=yellow)](https://github.com/kanban-rs/kanban/stargazers) [![Forks](https://img.shields.io/github/forks/kanban-rs/kanban?style=flat-square&color=blue)](https://github.com/kanban-rs/kanban/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanban-rs/kanban?style=flat-square&color=yellow)](https://github.com/kanban-rs/kanban/stargazers) [![Forks](https://img.shields.io/github/forks/kanban-rs/kanban?style=flat-square&color=blue)](https://github.com/kanban-rs/kanban/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal based project management solution
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · DevTools · Product
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Kanban-rs/kanban 的生产可用性很高，主要原因是：
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

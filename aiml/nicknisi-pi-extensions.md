@@ -1,6 +1,6 @@
 # nicknisi/pi-extensions
 
-[![Stars](https://img.shields.io/github/stars/nicknisi/pi-extensions?style=flat-square&color=yellow)](https://github.com/nicknisi/pi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/nicknisi/pi-extensions?style=flat-square&color=blue)](https://github.com/nicknisi/pi-extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicknisi/pi-extensions?style=flat-square&color=yellow)](https://github.com/nicknisi/pi-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/nicknisi/pi-extensions?style=flat-square&color=blue)](https://github.com/nicknisi/pi-extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Nick Nisi's pi extensions — a pnpm monorepo of independently installable pi packages (@nicknisi/pi-*). TUI polish, side-channel LLM tools, Claude Code compat, and session plumbing for the pi coding agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Nick Nisi 的 pi 扩展是一款开源项目，基于 pnpm 构建的 monorepo，
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

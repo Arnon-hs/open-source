@@ -1,6 +1,6 @@
 # pytest-dev/pytest
 
-[![Stars](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat-square&color=yellow)](https://github.com/pytest-dev/pytest/stargazers) [![Forks](https://img.shields.io/github/forks/pytest-dev/pytest?style=flat-square&color=blue)](https://github.com/pytest-dev/pytest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat-square&color=yellow)](https://github.com/pytest-dev/pytest/stargazers) [![Forks](https://img.shields.io/github/forks/pytest-dev/pytest?style=flat-square&color=blue)](https://github.com/pytest-dev/pytest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.3k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ pytest 是一款基于 Python 的轻量级测试框架，能够让开发者用�
 | forks | 88/100 |
 | stars | 88/100 |
 | topics | 63/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

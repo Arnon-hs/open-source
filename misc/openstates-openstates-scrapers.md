@@ -1,6 +1,6 @@
 # openstates/openstates-scrapers
 
-[![Stars](https://img.shields.io/github/stars/openstates/openstates-scrapers?style=flat-square&color=yellow)](https://github.com/openstates/openstates-scrapers/stargazers) [![Forks](https://img.shields.io/github/forks/openstates/openstates-scrapers?style=flat-square&color=blue)](https://github.com/openstates/openstates-scrapers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstates/openstates-scrapers?style=flat-square&color=yellow)](https://github.com/openstates/openstates-scrapers/stargazers) [![Forks](https://img.shields.io/github/forks/openstates/openstates-scrapers?style=flat-square&color=blue)](https://github.com/openstates/openstates-scrapers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > source for Open States scrapers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 907 |
 | 🍴 **Forks** | 511 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ openstates/openstates-scrapers 具有高生产可用性，适合用于生产环�
 | forks | 68/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

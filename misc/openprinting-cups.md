@@ -1,6 +1,6 @@
 # OpenPrinting/cups
 
-[![Stars](https://img.shields.io/github/stars/OpenPrinting/cups?style=flat-square&color=yellow)](https://github.com/OpenPrinting/cups/stargazers) [![Forks](https://img.shields.io/github/forks/OpenPrinting/cups?style=flat-square&color=blue)](https://github.com/OpenPrinting/cups/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenPrinting/cups?style=flat-square&color=yellow)](https://github.com/OpenPrinting/cups/stargazers) [![Forks](https://img.shields.io/github/forks/OpenPrinting/cups?style=flat-square&color=blue)](https://github.com/OpenPrinting/cups/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > OpenPrinting CUPS Sources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ OpenPrinting/cups 的生产可用性为中等。它适合用于原型或内部�
 | forks | 62/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

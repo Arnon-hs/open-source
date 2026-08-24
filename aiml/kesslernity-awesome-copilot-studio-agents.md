@@ -1,6 +1,6 @@
 # kesslernity/awesome-copilot-studio-agents
 
-[![Stars](https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square&color=yellow)](https://github.com/kesslernity/awesome-copilot-studio-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kesslernity/awesome-copilot-studio-agents?style=flat-square&color=blue)](https://github.com/kesslernity/awesome-copilot-studio-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square&color=yellow)](https://github.com/kesslernity/awesome-copilot-studio-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kesslernity/awesome-copilot-studio-agents?style=flat-square&color=blue)](https://github.com/kesslernity/awesome-copilot-studio-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 78 paste-ready declarative agents for Microsoft 365 Copilot. No coding. No Azure. Deploy in minutes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 425 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ kesslernity/awesome‑copilot‑studio‑agents 提供了 78 条即插即用的�
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

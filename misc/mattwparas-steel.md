@@ -1,6 +1,6 @@
 # mattwparas/steel
 
-[![Stars](https://img.shields.io/github/stars/mattwparas/steel?style=flat-square&color=yellow)](https://github.com/mattwparas/steel/stargazers) [![Forks](https://img.shields.io/github/forks/mattwparas/steel?style=flat-square&color=blue)](https://github.com/mattwparas/steel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattwparas/steel?style=flat-square&color=yellow)](https://github.com/mattwparas/steel/stargazers) [![Forks](https://img.shields.io/github/forks/mattwparas/steel?style=flat-square&color=blue)](https://github.com/mattwparas/steel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An embedded scheme interpreter in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ mattwparas/steel：mattwparas/steel may be useful when its README and activity m
 | forks | 53/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

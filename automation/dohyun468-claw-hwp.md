@@ -1,6 +1,6 @@
 # DoHyun468/claw-hwp
 
-[![Stars](https://img.shields.io/github/stars/DoHyun468/claw-hwp?style=flat-square&color=yellow)](https://github.com/DoHyun468/claw-hwp/stargazers) [![Forks](https://img.shields.io/github/forks/DoHyun468/claw-hwp?style=flat-square&color=blue)](https://github.com/DoHyun468/claw-hwp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DoHyun468/claw-hwp?style=flat-square&color=yellow)](https://github.com/DoHyun468/claw-hwp/stargazers) [![Forks](https://img.shields.io/github/forks/DoHyun468/claw-hwp?style=flat-square&color=blue)](https://github.com/DoHyun468/claw-hwp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI(Claude·클로드 · Codex·코덱스)로 한글 문서(.hwp/.hwpx)를 한컴 없이 읽고·만들고·편집하는 오픈소스 스킬 · Read, create & edit Korean HWP in Claude/Codex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ DoHyun468/claw-hwp 的生产可用性为 中等。它适合用于原型或内部
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # factoriolab/factoriolab
 
-[![Stars](https://img.shields.io/github/stars/factoriolab/factoriolab?style=flat-square&color=yellow)](https://github.com/factoriolab/factoriolab/stargazers) [![Forks](https://img.shields.io/github/forks/factoriolab/factoriolab?style=flat-square&color=blue)](https://github.com/factoriolab/factoriolab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/factoriolab/factoriolab?style=flat-square&color=yellow)](https://github.com/factoriolab/factoriolab/stargazers) [![Forks](https://img.shields.io/github/forks/factoriolab/factoriolab?style=flat-square&color=blue)](https://github.com/factoriolab/factoriolab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Angular-based calculator for factory games like Factorio and Dyson Sphere Program
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 853 |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Factoriolab 的生产可用性为中等（Medium）。它适合用于内部开�
 | forks | 59/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

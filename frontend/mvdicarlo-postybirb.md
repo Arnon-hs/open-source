@@ -1,6 +1,6 @@
 # mvdicarlo/postybirb
 
-[![Stars](https://img.shields.io/github/stars/mvdicarlo/postybirb?style=flat-square&color=yellow)](https://github.com/mvdicarlo/postybirb/stargazers) [![Forks](https://img.shields.io/github/forks/mvdicarlo/postybirb?style=flat-square&color=blue)](https://github.com/mvdicarlo/postybirb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mvdicarlo/postybirb?style=flat-square&color=yellow)](https://github.com/mvdicarlo/postybirb/stargazers) [![Forks](https://img.shields.io/github/forks/mvdicarlo/postybirb?style=flat-square&color=blue)](https://github.com/mvdicarlo/postybirb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > PostyBirb is an application that helps artists post art and other multimedia to multiple websites more quickly. The overall goal of PostyBirb is to cut down on the time it takes to post submissions to multiple websites.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ PostyBirb 的生产可用性较高，理由如下：
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

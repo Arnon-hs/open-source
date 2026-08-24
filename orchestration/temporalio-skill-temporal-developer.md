@@ -1,6 +1,6 @@
 # temporalio/skill-temporal-developer
 
-[![Stars](https://img.shields.io/github/stars/temporalio/skill-temporal-developer?style=flat-square&color=yellow)](https://github.com/temporalio/skill-temporal-developer/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/skill-temporal-developer?style=flat-square&color=blue)](https://github.com/temporalio/skill-temporal-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/temporalio/skill-temporal-developer?style=flat-square&color=yellow)](https://github.com/temporalio/skill-temporal-developer/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/skill-temporal-developer?style=flat-square&color=blue)](https://github.com/temporalio/skill-temporal-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Comprehensive Skill for developing with Temporal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ temporalio/skill-temporal-developer 是一套面向 Temporal 开发的完整 AI�
 | forks | 32/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # CoralPink/commentary
 
-[![Stars](https://img.shields.io/github/stars/CoralPink/commentary?style=flat-square&color=yellow)](https://github.com/CoralPink/commentary/stargazers) [![Forks](https://img.shields.io/github/forks/CoralPink/commentary?style=flat-square&color=blue)](https://github.com/CoralPink/commentary/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoralPink/commentary?style=flat-square&color=yellow)](https://github.com/CoralPink/commentary/stargazers) [![Forks](https://img.shields.io/github/forks/CoralPink/commentary?style=flat-square&color=blue)](https://github.com/CoralPink/commentary/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > This site introduces WezTerm and Neovim dotfiles that I usually use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ CoralPink/commentary的生产可用性为中等。它适合于原型验证或内
 | forks | 12/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

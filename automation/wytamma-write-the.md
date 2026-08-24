@@ -1,6 +1,6 @@
 # Wytamma/write-the
 
-[![Stars](https://img.shields.io/github/stars/Wytamma/write-the?style=flat-square&color=yellow)](https://github.com/Wytamma/write-the/stargazers) [![Forks](https://img.shields.io/github/forks/Wytamma/write-the?style=flat-square&color=blue)](https://github.com/Wytamma/write-the/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wytamma/write-the?style=flat-square&color=yellow)](https://github.com/Wytamma/write-the/stargazers) [![Forks](https://img.shields.io/github/forks/Wytamma/write-the?style=flat-square&color=blue)](https://github.com/Wytamma/write-the/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Documentation and Test Generation Tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Wytamma/write-the 的生产可用性为中等（Medium），适合用于原型�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

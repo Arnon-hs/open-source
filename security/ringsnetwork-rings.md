@@ -1,6 +1,6 @@
 # RingsNetwork/rings
 
-[![Stars](https://img.shields.io/github/stars/RingsNetwork/rings?style=flat-square&color=yellow)](https://github.com/RingsNetwork/rings/stargazers) [![Forks](https://img.shields.io/github/forks/RingsNetwork/rings?style=flat-square&color=blue)](https://github.com/RingsNetwork/rings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RingsNetwork/rings?style=flat-square&color=yellow)](https://github.com/RingsNetwork/rings/stargazers) [![Forks](https://img.shields.io/github/forks/RingsNetwork/rings?style=flat-square&color=blue)](https://github.com/RingsNetwork/rings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rings is a structured peer-to-peer network implementation using WebRTC, Chord DHT, and full WebAssembly (WASM) support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Rings（RingsNetwork/rings）是一款基于 WebRTC、Chord DHT 并完整支持 
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

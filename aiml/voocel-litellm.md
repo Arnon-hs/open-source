@@ -1,6 +1,6 @@
 # voocel/litellm
 
-[![Stars](https://img.shields.io/github/stars/voocel/litellm?style=flat-square&color=yellow)](https://github.com/voocel/litellm/stargazers) [![Forks](https://img.shields.io/github/forks/voocel/litellm?style=flat-square&color=blue)](https://github.com/voocel/litellm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voocel/litellm?style=flat-square&color=yellow)](https://github.com/voocel/litellm/stargazers) [![Forks](https://img.shields.io/github/forks/voocel/litellm?style=flat-square&color=blue)](https://github.com/voocel/litellm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > LiteLLM for Go, the easiest way to write LLM-based programs in Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ resp, err := client.Chat(context.Background(), []litellm.Message{
 | forks | 24/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

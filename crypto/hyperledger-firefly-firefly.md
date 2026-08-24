@@ -1,6 +1,6 @@
 # hyperledger-firefly/firefly
 
-[![Stars](https://img.shields.io/github/stars/hyperledger-firefly/firefly?style=flat-square&color=yellow)](https://github.com/hyperledger-firefly/firefly/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger-firefly/firefly?style=flat-square&color=blue)](https://github.com/hyperledger-firefly/firefly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperledger-firefly/firefly?style=flat-square&color=yellow)](https://github.com/hyperledger-firefly/firefly/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger-firefly/firefly?style=flat-square&color=blue)](https://github.com/hyperledger-firefly/firefly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Hyperledger FireFly is the first open source Supernode: a complete stack for enterprises to build and scale secure Web3 applications. The FireFly API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular chains and protocols.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 599 |
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · Backend · Data
+Crypto
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ Hyperledger FireFly 的生产可用性较高，最近有活动、广泛的采用
 | forks | 60/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

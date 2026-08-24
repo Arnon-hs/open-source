@@ -1,6 +1,6 @@
 # pyq0109/mirgo
 
-[![Stars](https://img.shields.io/github/stars/pyq0109/mirgo?style=flat-square&color=yellow)](https://github.com/pyq0109/mirgo/stargazers) [![Forks](https://img.shields.io/github/forks/pyq0109/mirgo?style=flat-square&color=blue)](https://github.com/pyq0109/mirgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyq0109/mirgo?style=flat-square&color=yellow)](https://github.com/pyq0109/mirgo/stargazers) [![Forks](https://img.shields.io/github/forks/pyq0109/mirgo?style=flat-square&color=blue)](https://github.com/pyq0109/mirgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 用 Go 语言重新实现热血传奇客户端和服务端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ pyq0109/mirgo 是一个开源项目，使用 Go 语言重新实现热血传奇�
 | forks | 52/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

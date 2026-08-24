@@ -1,6 +1,6 @@
 # basecamp/once-campfire
 
-[![Stars](https://img.shields.io/github/stars/basecamp/once-campfire?style=flat-square&color=yellow)](https://github.com/basecamp/once-campfire/stargazers) [![Forks](https://img.shields.io/github/forks/basecamp/once-campfire?style=flat-square&color=blue)](https://github.com/basecamp/once-campfire/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basecamp/once-campfire?style=flat-square&color=yellow)](https://github.com/basecamp/once-campfire/stargazers) [![Forks](https://img.shields.io/github/forks/basecamp/once-campfire?style=flat-square&color=blue)](https://github.com/basecamp/once-campfire/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Super simple group chat, without a subscription
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 767 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ basecamp/once-campfire：basecamp/once-campfire helps integrate monetization, bi
 | forks | 72/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

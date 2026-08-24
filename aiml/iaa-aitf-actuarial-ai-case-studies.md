@@ -1,6 +1,6 @@
 # IAA-AITF/Actuarial-AI-Case-Studies
 
-[![Stars](https://img.shields.io/github/stars/IAA-AITF/Actuarial-AI-Case-Studies?style=flat-square&color=yellow)](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies/stargazers) [![Forks](https://img.shields.io/github/forks/IAA-AITF/Actuarial-AI-Case-Studies?style=flat-square&color=blue)](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IAA-AITF/Actuarial-AI-Case-Studies?style=flat-square&color=yellow)](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies/stargazers) [![Forks](https://img.shields.io/github/forks/IAA-AITF/Actuarial-AI-Case-Studies?style=flat-square&color=blue)](https://github.com/IAA-AITF/Actuarial-AI-Case-Studies/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of actuarial AI case studies covering machine learning, generative AI, agentic AI, and more, designed to support actuaries in applying AI to real-world problems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -120,14 +120,15 @@ IAA‑AITF / Actuarial‑AI‑Case‑Studies 为精算师提供了已经实�
 | forks | 27/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

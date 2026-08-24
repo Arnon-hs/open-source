@@ -1,6 +1,6 @@
 # physics-dimension/PriceAI
 
-[![Stars](https://img.shields.io/github/stars/physics-dimension/PriceAI?style=flat-square&color=yellow)](https://github.com/physics-dimension/PriceAI/stargazers) [![Forks](https://img.shields.io/github/forks/physics-dimension/PriceAI?style=flat-square&color=blue)](https://github.com/physics-dimension/PriceAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/physics-dimension/PriceAI?style=flat-square&color=yellow)](https://github.com/physics-dimension/PriceAI/stargazers) [![Forks](https://img.shields.io/github/forks/physics-dimension/PriceAI?style=flat-square&color=blue)](https://github.com/physics-dimension/PriceAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Physics‑Dimension/PriceAI 是一款面向 AI 订阅卡的比价聚合工具，
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

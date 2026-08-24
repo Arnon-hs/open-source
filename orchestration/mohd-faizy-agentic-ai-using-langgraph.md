@@ -1,6 +1,6 @@
 # mohd-faizy/Agentic_AI_using_LangGraph
 
-[![Stars](https://img.shields.io/github/stars/mohd-faizy/Agentic_AI_using_LangGraph?style=flat-square&color=yellow)](https://github.com/mohd-faizy/Agentic_AI_using_LangGraph/stargazers) [![Forks](https://img.shields.io/github/forks/mohd-faizy/Agentic_AI_using_LangGraph?style=flat-square&color=blue)](https://github.com/mohd-faizy/Agentic_AI_using_LangGraph/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohd-faizy/Agentic_AI_using_LangGraph?style=flat-square&color=yellow)](https://github.com/mohd-faizy/Agentic_AI_using_LangGraph/stargazers) [![Forks](https://img.shields.io/github/forks/mohd-faizy/Agentic_AI_using_LangGraph?style=flat-square&color=blue)](https://github.com/mohd-faizy/Agentic_AI_using_LangGraph/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic AI framework built using LangGraph and Multi-Agent Control Plane (MCP) for building structured, goal-driven multi-agent systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ mohd-faizy/Agentic_AI_using_LangGraph 是一个开源项目，使用 LangGraph �
 | forks | 27/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

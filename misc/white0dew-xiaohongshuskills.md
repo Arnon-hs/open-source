@@ -1,6 +1,6 @@
 # white0dew/XiaohongshuSkills
 
-[![Stars](https://img.shields.io/github/stars/white0dew/XiaohongshuSkills?style=flat-square&color=yellow)](https://github.com/white0dew/XiaohongshuSkills/stargazers) [![Forks](https://img.shields.io/github/forks/white0dew/XiaohongshuSkills?style=flat-square&color=blue)](https://github.com/white0dew/XiaohongshuSkills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/white0dew/XiaohongshuSkills?style=flat-square&color=yellow)](https://github.com/white0dew/XiaohongshuSkills/stargazers) [![Forks](https://img.shields.io/github/forks/white0dew/XiaohongshuSkills?style=flat-square&color=blue)](https://github.com/white0dew/XiaohongshuSkills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ The project is considered production-ready with a medium level of readiness, ind
 | forks | 63/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

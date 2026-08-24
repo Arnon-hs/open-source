@@ -1,6 +1,6 @@
 # ZSeven-W/dsh-noema
 
-[![Stars](https://img.shields.io/github/stars/ZSeven-W/dsh-noema?style=flat-square&color=yellow)](https://github.com/ZSeven-W/dsh-noema/stargazers) [![Forks](https://img.shields.io/github/forks/ZSeven-W/dsh-noema?style=flat-square&color=blue)](https://github.com/ZSeven-W/dsh-noema/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZSeven-W/dsh-noema?style=flat-square&color=yellow)](https://github.com/ZSeven-W/dsh-noema/stargazers) [![Forks](https://img.shields.io/github/forks/ZSeven-W/dsh-noema?style=flat-square&color=blue)](https://github.com/ZSeven-W/dsh-noema/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ZSeven-W/dsh-noema：ZSeven-W/dsh-noema helps turn isolated prompts and tools in
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

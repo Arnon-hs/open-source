@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2024-07-03 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -111,6 +111,7 @@ BAAI/bge-m3 的价值在于它可以使内部知识变得可搜索和可使用�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

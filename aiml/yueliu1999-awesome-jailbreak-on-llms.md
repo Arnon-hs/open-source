@@ -1,6 +1,6 @@
 # yueliu1999/Awesome-Jailbreak-on-LLMs
 
-[![Stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Jailbreak-on-LLMs?style=flat-square&color=yellow)](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs/stargazers) [![Forks](https://img.shields.io/github/forks/yueliu1999/Awesome-Jailbreak-on-LLMs?style=flat-square&color=blue)](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Jailbreak-on-LLMs?style=flat-square&color=yellow)](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs/stargazers) [![Forks](https://img.shields.io/github/forks/yueliu1999/Awesome-Jailbreak-on-LLMs?style=flat-square&color=blue)](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Awesome-Jailbreak-on-LLMs 帮助开发者在不从零开始时添加 AI 能力�
 | forks | 52/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

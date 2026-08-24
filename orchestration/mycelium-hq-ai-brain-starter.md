@@ -1,6 +1,6 @@
 # mycelium-hq/ai-brain-starter
 
-[![Stars](https://img.shields.io/github/stars/mycelium-hq/ai-brain-starter?style=flat-square&color=yellow)](https://github.com/mycelium-hq/ai-brain-starter/stargazers) [![Forks](https://img.shields.io/github/forks/mycelium-hq/ai-brain-starter?style=flat-square&color=blue)](https://github.com/mycelium-hq/ai-brain-starter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mycelium-hq/ai-brain-starter?style=flat-square&color=yellow)](https://github.com/mycelium-hq/ai-brain-starter/stargazers) [![Forks](https://img.shields.io/github/forks/mycelium-hq/ai-brain-starter?style=flat-square&color=blue)](https://github.com/mycelium-hq/ai-brain-starter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The operating system for Claude Code. Memory, accountability, journaling, knowledge graphs, pattern recognition — one install, every session compounds.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Education · Product
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ mycelium-hq/ai-brain-starter：mycelium-hq/ai-brain-starter helps turn isolated 
 | forks | 35/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

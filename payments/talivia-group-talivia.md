@@ -1,6 +1,6 @@
 # talivia-group/talivia
 
-[![Stars](https://img.shields.io/github/stars/talivia-group/talivia?style=flat-square&color=yellow)](https://github.com/talivia-group/talivia/stargazers) [![Forks](https://img.shields.io/github/forks/talivia-group/talivia?style=flat-square&color=blue)](https://github.com/talivia-group/talivia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/talivia-group/talivia?style=flat-square&color=yellow)](https://github.com/talivia-group/talivia/stargazers) [![Forks](https://img.shields.io/github/forks/talivia-group/talivia?style=flat-square&color=blue)](https://github.com/talivia-group/talivia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Talivia 的生产可用性为Medium（中等），适合用于原型或内部工
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AyeCode/invoicing
 
-[![Stars](https://img.shields.io/github/stars/AyeCode/invoicing?style=flat-square&color=yellow)](https://github.com/AyeCode/invoicing/stargazers) [![Forks](https://img.shields.io/github/forks/AyeCode/invoicing?style=flat-square&color=blue)](https://github.com/AyeCode/invoicing/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AyeCode/invoicing?style=flat-square&color=yellow)](https://github.com/AyeCode/invoicing/stargazers) [![Forks](https://img.shields.io/github/forks/AyeCode/invoicing?style=flat-square&color=blue)](https://github.com/AyeCode/invoicing/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GetPaid (Formerly the Invoicing plugin) is a lightweight Payments and Invoicing system for WordPress. It can be used to sell anything online via payment forms or buy now buttons that can be added to any landing page. It can also be used by freelancers to manage their Invoices or by 3rd party Themes and Plugins as their payment system. GeoDirectory currently uses GetPaid as its payment system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Database
+Payments
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ AyeCode/invoicing 的生产可用性为中等。它适合用于原型或内部�
 | forks | 35/100 |
 | stars | 38/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

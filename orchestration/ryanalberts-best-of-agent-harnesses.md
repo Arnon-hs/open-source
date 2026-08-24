@@ -1,6 +1,6 @@
 # RyanAlberts/best-of-Agent-Harnesses
 
-[![Stars](https://img.shields.io/github/stars/RyanAlberts/best-of-Agent-Harnesses?style=flat-square&color=yellow)](https://github.com/RyanAlberts/best-of-Agent-Harnesses/stargazers) [![Forks](https://img.shields.io/github/forks/RyanAlberts/best-of-Agent-Harnesses?style=flat-square&color=blue)](https://github.com/RyanAlberts/best-of-Agent-Harnesses/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RyanAlberts/best-of-Agent-Harnesses?style=flat-square&color=yellow)](https://github.com/RyanAlberts/best-of-Agent-Harnesses/stargazers) [![Forks](https://img.shields.io/github/forks/RyanAlberts/best-of-Agent-Harnesses?style=flat-square&color=blue)](https://github.com/RyanAlberts/best-of-Agent-Harnesses/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ RyanAlberts/best-of-Agent-Harnesses：RyanAlberts/best-of-Agent-Harnesses helps 
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

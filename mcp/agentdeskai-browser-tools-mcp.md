@@ -1,6 +1,6 @@
 # AgentDeskAI/browser-tools-mcp
 
-[![Stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp?style=flat-square&color=yellow)](https://github.com/AgentDeskAI/browser-tools-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AgentDeskAI/browser-tools-mcp?style=flat-square&color=blue)](https://github.com/AgentDeskAI/browser-tools-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp?style=flat-square&color=yellow)](https://github.com/AgentDeskAI/browser-tools-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AgentDeskAI/browser-tools-mcp?style=flat-square&color=blue)](https://github.com/AgentDeskAI/browser-tools-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 529 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ AgentDeskAI/browser-tools-mcp 的生产可用性非常高，具有以下特征�
 | forks | 68/100 |
 | stars | 82/100 |
 | topics | 63/100 |
-| outlook | 91/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

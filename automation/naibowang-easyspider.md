@@ -1,6 +1,6 @@
 # NaiboWang/EasySpider
 
-[![Stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=flat-square&color=yellow)](https://github.com/NaiboWang/EasySpider/stargazers) [![Forks](https://img.shields.io/github/forks/NaiboWang/EasySpider?style=flat-square&color=blue)](https://github.com/NaiboWang/EasySpider/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=flat-square&color=yellow)](https://github.com/NaiboWang/EasySpider/stargazers) [![Forks](https://img.shields.io/github/forks/NaiboWang/EasySpider?style=flat-square&color=blue)](https://github.com/NaiboWang/EasySpider/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43.8k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Data
+Automation · Frontend · Data
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ EasySpider（NaiboWang/EasySpider）是一款可视化、零代码的网页自�
 | forks | 93/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 79/100 |
+| recency | 20/100 |
 | adoption | 97/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

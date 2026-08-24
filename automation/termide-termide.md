@@ -1,6 +1,6 @@
 # termide/termide
 
-[![Stars](https://img.shields.io/github/stars/termide/termide?style=flat-square&color=yellow)](https://github.com/termide/termide/stargazers) [![Forks](https://img.shields.io/github/forks/termide/termide?style=flat-square&color=blue)](https://github.com/termide/termide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/termide/termide?style=flat-square&color=yellow)](https://github.com/termide/termide/stargazers) [![Forks](https://img.shields.io/github/forks/termide/termide?style=flat-square&color=blue)](https://github.com/termide/termide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform terminal-based IDE, file manager, and virtual terminal written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Database
+Automation · Database
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ termide 是用 Rust 编写的跨平台终端 IDE，兼具文件管理器和虚�
 | forks | 12/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # travisghansen/hass-opnsense
 
-[![Stars](https://img.shields.io/github/stars/travisghansen/hass-opnsense?style=flat-square&color=yellow)](https://github.com/travisghansen/hass-opnsense/stargazers) [![Forks](https://img.shields.io/github/forks/travisghansen/hass-opnsense?style=flat-square&color=blue)](https://github.com/travisghansen/hass-opnsense/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/travisghansen/hass-opnsense?style=flat-square&color=yellow)](https://github.com/travisghansen/hass-opnsense/stargazers) [![Forks](https://img.shields.io/github/forks/travisghansen/hass-opnsense?style=flat-square&color=blue)](https://github.com/travisghansen/hass-opnsense/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > OPNsense integration with Home Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ travisghansen/hass-opnsense 是一个开源项目，用于将 Home Assistant 与
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

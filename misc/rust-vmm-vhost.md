@@ -1,6 +1,6 @@
 # rust-vmm/vhost
 
-[![Stars](https://img.shields.io/github/stars/rust-vmm/vhost?style=flat-square&color=yellow)](https://github.com/rust-vmm/vhost/stargazers) [![Forks](https://img.shields.io/github/forks/rust-vmm/vhost?style=flat-square&color=blue)](https://github.com/rust-vmm/vhost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-vmm/vhost?style=flat-square&color=yellow)](https://github.com/rust-vmm/vhost/stargazers) [![Forks](https://img.shields.io/github/forks/rust-vmm/vhost?style=flat-square&color=blue)](https://github.com/rust-vmm/vhost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ rust-vmm/vhost的生产可用性为中等（Medium），适合用于原型开发
 | forks | 50/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

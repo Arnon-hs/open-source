@@ -1,6 +1,6 @@
 # nagwww/s3-leaks
 
-[![Stars](https://img.shields.io/github/stars/nagwww/s3-leaks?style=flat-square&color=yellow)](https://github.com/nagwww/s3-leaks/stargazers) [![Forks](https://img.shields.io/github/forks/nagwww/s3-leaks?style=flat-square&color=blue)](https://github.com/nagwww/s3-leaks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nagwww/s3-leaks?style=flat-square&color=yellow)](https://github.com/nagwww/s3-leaks/stargazers) [![Forks](https://img.shields.io/github/forks/nagwww/s3-leaks?style=flat-square&color=blue)](https://github.com/nagwww/s3-leaks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > List of S3 Hacks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ The project has a medium production readiness score, making it suitable for use 
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

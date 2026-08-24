@@ -1,6 +1,6 @@
 # VonHoltenCodes/SlowBooks-Pro-2026
 
-[![Stars](https://img.shields.io/github/stars/VonHoltenCodes/SlowBooks-Pro-2026?style=flat-square&color=yellow)](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/stargazers) [![Forks](https://img.shields.io/github/forks/VonHoltenCodes/SlowBooks-Pro-2026?style=flat-square&color=blue)](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VonHoltenCodes/SlowBooks-Pro-2026?style=flat-square&color=yellow)](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/stargazers) [![Forks](https://img.shields.io/github/forks/VonHoltenCodes/SlowBooks-Pro-2026?style=flat-square&color=blue)](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Personal bookkeeping app - a QuickBooks 2003 Pro replacement, decompiled from the ashes of QBW32.EXE. Free for personal and enterprise use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Knowledge/RAG · AI/ML · Frontend · Backend
+Payments · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ VonHoltenCodes/SlowBooks-Pro-2026 的价值在于它可以帮助用户快速集�
 | forks | 39/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

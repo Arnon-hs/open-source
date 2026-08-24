@@ -1,6 +1,6 @@
 # ChatGPTBox-dev/chatGPTBox
 
-[![Stars](https://img.shields.io/github/stars/ChatGPTBox-dev/chatGPTBox?style=flat-square&color=yellow)](https://github.com/ChatGPTBox-dev/chatGPTBox/stargazers) [![Forks](https://img.shields.io/github/forks/ChatGPTBox-dev/chatGPTBox?style=flat-square&color=blue)](https://github.com/ChatGPTBox-dev/chatGPTBox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChatGPTBox-dev/chatGPTBox?style=flat-square&color=yellow)](https://github.com/ChatGPTBox-dev/chatGPTBox/stargazers) [![Forks](https://img.shields.io/github/forks/ChatGPTBox-dev/chatGPTBox?style=flat-square&color=blue)](https://github.com/ChatGPTBox-dev/chatGPTBox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Integrating ChatGPT into your browser deeply, everything you need is here
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 860 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ ChatGPTBox-dev/chatGPTBox 的主要价值在于，它可以帮助开发者轻松
 | forks | 73/100 |
 | stars | 86/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

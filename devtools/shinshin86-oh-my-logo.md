@@ -1,6 +1,6 @@
 # shinshin86/oh-my-logo
 
-[![Stars](https://img.shields.io/github/stars/shinshin86/oh-my-logo?style=flat-square&color=yellow)](https://github.com/shinshin86/oh-my-logo/stargazers) [![Forks](https://img.shields.io/github/forks/shinshin86/oh-my-logo?style=flat-square&color=blue)](https://github.com/shinshin86/oh-my-logo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinshin86/oh-my-logo?style=flat-square&color=yellow)](https://github.com/shinshin86/oh-my-logo/stargazers) [![Forks](https://img.shields.io/github/forks/shinshin86/oh-my-logo?style=flat-square&color=blue)](https://github.com/shinshin86/oh-my-logo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ shinshin86/oh‑my‑logo 是一个用 TypeScript 编写的 CLI/SDK，能够在�
 | forks | 45/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # asaotomo/FofaMap
 
-[![Stars](https://img.shields.io/github/stars/asaotomo/FofaMap?style=flat-square&color=yellow)](https://github.com/asaotomo/FofaMap/stargazers) [![Forks](https://img.shields.io/github/forks/asaotomo/FofaMap?style=flat-square&color=blue)](https://github.com/asaotomo/FofaMap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asaotomo/FofaMap?style=flat-square&color=yellow)](https://github.com/asaotomo/FofaMap/stargazers) [![Forks](https://img.shields.io/github/forks/asaotomo/FofaMap?style=flat-square&color=blue)](https://github.com/asaotomo/FofaMap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > 证据驱动的 FOFA 资产测绘智能体：自然语言侦察、AI 反思、CLI / MCP / Skill / REST API，以及经人工审批的 Nuclei 扫描。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 698 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Security
+MCP · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ asaotomo/FofaMap 的生产可用性很高，主要原因是：
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

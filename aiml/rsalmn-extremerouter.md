@@ -1,6 +1,6 @@
 # rsalmn/ExtremeRouter
 
-[![Stars](https://img.shields.io/github/stars/rsalmn/ExtremeRouter?style=flat-square&color=yellow)](https://github.com/rsalmn/ExtremeRouter/stargazers) [![Forks](https://img.shields.io/github/forks/rsalmn/ExtremeRouter?style=flat-square&color=blue)](https://github.com/rsalmn/ExtremeRouter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsalmn/ExtremeRouter?style=flat-square&color=yellow)](https://github.com/rsalmn/ExtremeRouter/stargazers) [![Forks](https://img.shields.io/github/forks/rsalmn/ExtremeRouter?style=flat-square&color=blue)](https://github.com/rsalmn/ExtremeRouter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 90+ providers. Auto-fallback, RTK -90% tokens, Pxpipe, never hit limits.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ rsalmn/ExtremeRouter 帮助开发者在不从头搭建模型堆栈的情况下�
 | forks | 21/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

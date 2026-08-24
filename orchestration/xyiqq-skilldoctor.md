@@ -1,6 +1,6 @@
 # xyiqq/skilldoctor
 
-[![Stars](https://img.shields.io/github/stars/xyiqq/skilldoctor?style=flat-square&color=yellow)](https://github.com/xyiqq/skilldoctor/stargazers) [![Forks](https://img.shields.io/github/forks/xyiqq/skilldoctor?style=flat-square&color=blue)](https://github.com/xyiqq/skilldoctor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xyiqq/skilldoctor?style=flat-square&color=yellow)](https://github.com/xyiqq/skilldoctor/stargazers) [![Forks](https://img.shields.io/github/forks/xyiqq/skilldoctor?style=flat-square&color=blue)](https://github.com/xyiqq/skilldoctor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Quality gate for Agent Skills: lint, security audit, and Claude/Cursor/Codex/OpenCode compatibility.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 243 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ xyiqq/skilldoctor 在生产环境中具有较高的可用性，主要原因包�
 | forks | 25/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

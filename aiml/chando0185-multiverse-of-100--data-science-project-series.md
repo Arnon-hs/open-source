@@ -1,6 +1,6 @@
 # Chando0185/Multiverse_of_100-_data_science_project_series
 
-[![Stars](https://img.shields.io/github/stars/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=yellow)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/stargazers) [![Forks](https://img.shields.io/github/forks/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=blue)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=yellow)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/stargazers) [![Forks](https://img.shields.io/github/forks/Chando0185/Multiverse_of_100-_data_science_project_series?style=flat-square&color=blue)](https://github.com/Chando0185/Multiverse_of_100-_data_science_project_series/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to the Multiverse of Data Science — a comprehensive, ever-expanding collection of over 100 real-world projects covering the entire data science pipeline!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Multiverse of Data Science 是一个开源仓库，收录了 100+ 真实业务�
 | forks | 48/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

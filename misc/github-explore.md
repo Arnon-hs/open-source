@@ -1,6 +1,6 @@
 # github/explore
 
-[![Stars](https://img.shields.io/github/stars/github/explore?style=flat-square&color=yellow)](https://github.com/github/explore/stargazers) [![Forks](https://img.shields.io/github/forks/github/explore?style=flat-square&color=blue)](https://github.com/github/explore/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/explore?style=flat-square&color=yellow)](https://github.com/github/explore/stargazers) [![Forks](https://img.shields.io/github/forks/github/explore?style=flat-square&color=blue)](https://github.com/github/explore/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Community-curated topic and collection pages on GitHub
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 14.4k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ github/explore 的生产可用性很高，考虑到其最近的更新、广泛�
 | forks | 100/100 |
 | stars | 78/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

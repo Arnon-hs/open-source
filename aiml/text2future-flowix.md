@@ -1,6 +1,6 @@
 # text2future/flowix
 
-[![Stars](https://img.shields.io/github/stars/text2future/flowix?style=flat-square&color=yellow)](https://github.com/text2future/flowix/stargazers) [![Forks](https://img.shields.io/github/forks/text2future/flowix?style=flat-square&color=blue)](https://github.com/text2future/flowix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/text2future/flowix?style=flat-square&color=yellow)](https://github.com/text2future/flowix/stargazers) [![Forks](https://img.shields.io/github/forks/text2future/flowix?style=flat-square&color=blue)](https://github.com/text2future/flowix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ✦ AI Agent 的文档空间 ✦ Docs space for AI Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ text2future/flowix 的生产可用性为中等。它适合用于原型开发或�
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

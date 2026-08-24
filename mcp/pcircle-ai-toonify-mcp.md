@@ -1,6 +1,6 @@
 # PCIRCLE-AI/toonify-mcp
 
-[![Stars](https://img.shields.io/github/stars/PCIRCLE-AI/toonify-mcp?style=flat-square&color=yellow)](https://github.com/PCIRCLE-AI/toonify-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PCIRCLE-AI/toonify-mcp?style=flat-square&color=blue)](https://github.com/PCIRCLE-AI/toonify-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PCIRCLE-AI/toonify-mcp?style=flat-square&color=yellow)](https://github.com/PCIRCLE-AI/toonify-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PCIRCLE-AI/toonify-mcp?style=flat-square&color=blue)](https://github.com/PCIRCLE-AI/toonify-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Context compression plugin for Claude Code. Automatically trims large tool output—JSON, YAML, stack traces, and logs—before it enters the context window.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · Backend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ PCIRCLE-AI/toonify-mcp 的生产可用性很高，主要原因是：
 | forks | 27/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bbkane/warg
 
-[![Stars](https://img.shields.io/github/stars/bbkane/warg?style=flat-square&color=yellow)](https://github.com/bbkane/warg/stargazers) [![Forks](https://img.shields.io/github/forks/bbkane/warg?style=flat-square&color=blue)](https://github.com/bbkane/warg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bbkane/warg?style=flat-square&color=yellow)](https://github.com/bbkane/warg/stargazers) [![Forks](https://img.shields.io/github/forks/bbkane/warg?style=flat-square&color=blue)](https://github.com/bbkane/warg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative CLI framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ bbkane/warg的生产可用性为中等（Medium）。它适合用于原型或内
 | forks | 15/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

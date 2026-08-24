@@ -1,6 +1,6 @@
 # moonrunnerkc/swarm-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/moonrunnerkc/swarm-orchestrator?style=flat-square&color=yellow)](https://github.com/moonrunnerkc/swarm-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/moonrunnerkc/swarm-orchestrator?style=flat-square&color=blue)](https://github.com/moonrunnerkc/swarm-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moonrunnerkc/swarm-orchestrator?style=flat-square&color=yellow)](https://github.com/moonrunnerkc/swarm-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/moonrunnerkc/swarm-orchestrator?style=flat-square&color=blue)](https://github.com/moonrunnerkc/swarm-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Reviews pull requests for the shortcuts AI coding agents take to look done without being done: relaxed tests, swallowed errors, fake renames, 11 checks in all. Flags them for a human by default, or blocks the merge if you turn that on. Can also turn a goal into a checklist and only accept a patch once every check passes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ moonrunnerkc/swarm-orchestrator具有高生产可用性，主要原因是：
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

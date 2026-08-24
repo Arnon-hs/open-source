@@ -1,6 +1,6 @@
 # 0xNikilite/oboromi
 
-[![Stars](https://img.shields.io/github/stars/0xNikilite/oboromi?style=flat-square&color=yellow)](https://github.com/0xNikilite/oboromi/stargazers) [![Forks](https://img.shields.io/github/forks/0xNikilite/oboromi?style=flat-square&color=blue)](https://github.com/0xNikilite/oboromi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xNikilite/oboromi?style=flat-square&color=yellow)](https://github.com/0xNikilite/oboromi/stargazers) [![Forks](https://img.shields.io/github/forks/0xNikilite/oboromi?style=flat-square&color=blue)](https://github.com/0xNikilite/oboromi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > a proof-of-concept project for a possible Nintendo Switch 2 emulator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Here's a 2-3 sentence summary of the open-source project:
 | forks | 42/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bivex/ILSpy-Mcp
 
-[![Stars](https://img.shields.io/github/stars/bivex/ILSpy-Mcp?style=flat-square&color=yellow)](https://github.com/bivex/ILSpy-Mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bivex/ILSpy-Mcp?style=flat-square&color=blue)](https://github.com/bivex/ILSpy-Mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bivex/ILSpy-Mcp?style=flat-square&color=yellow)](https://github.com/bivex/ILSpy-Mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bivex/ILSpy-Mcp?style=flat-square&color=blue)](https://github.com/bivex/ILSpy-Mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🔓 UNLEASH ILSpy'S POWER. Reverse-engineer DOTNET code at GOD SPEED. AI-assisted debugging that THINKS with you. Decompile ANYTHING. 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ bivex/ILSpy-Mcp 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

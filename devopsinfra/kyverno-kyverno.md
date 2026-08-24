@@ -1,6 +1,6 @@
 # kyverno/kyverno
 
-[![Stars](https://img.shields.io/github/stars/kyverno/kyverno?style=flat-square&color=yellow)](https://github.com/kyverno/kyverno/stargazers) [![Forks](https://img.shields.io/github/forks/kyverno/kyverno?style=flat-square&color=blue)](https://github.com/kyverno/kyverno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kyverno/kyverno?style=flat-square&color=yellow)](https://github.com/kyverno/kyverno/stargazers) [![Forks](https://img.shields.io/github/forks/kyverno/kyverno?style=flat-square&color=blue)](https://github.com/kyverno/kyverno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Unified Policy as Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Kyverno的生产可用性很高，主要原因是：
 | forks | 79/100 |
 | stars | 83/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

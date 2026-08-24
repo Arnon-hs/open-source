@@ -1,6 +1,6 @@
 # razorblade23/PyCrucible
 
-[![Stars](https://img.shields.io/github/stars/razorblade23/PyCrucible?style=flat-square&color=yellow)](https://github.com/razorblade23/PyCrucible/stargazers) [![Forks](https://img.shields.io/github/forks/razorblade23/PyCrucible?style=flat-square&color=blue)](https://github.com/razorblade23/PyCrucible/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/razorblade23/PyCrucible?style=flat-square&color=yellow)](https://github.com/razorblade23/PyCrucible/stargazers) [![Forks](https://img.shields.io/github/forks/razorblade23/PyCrucible?style=flat-square&color=blue)](https://github.com/razorblade23/PyCrucible/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ PyCrucible 的生产可用性为中等水平。它适合用于原型或内部工
 | forks | 19/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

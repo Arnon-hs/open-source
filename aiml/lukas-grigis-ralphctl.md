@@ -1,6 +1,6 @@
 # lukas-grigis/ralphctl
 
-[![Stars](https://img.shields.io/github/stars/lukas-grigis/ralphctl?style=flat-square&color=yellow)](https://github.com/lukas-grigis/ralphctl/stargazers) [![Forks](https://img.shields.io/github/forks/lukas-grigis/ralphctl?style=flat-square&color=blue)](https://github.com/lukas-grigis/ralphctl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukas-grigis/ralphctl?style=flat-square&color=yellow)](https://github.com/lukas-grigis/ralphctl/stargazers) [![Forks](https://img.shields.io/github/forks/lukas-grigis/ralphctl?style=flat-square&color=blue)](https://github.com/lukas-grigis/ralphctl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A ralph harness for long-running AI coding tasks — a generator-evaluator loop that orchestrates Claude Code, OpenAI Codex & GitHub Copilot across repositories 🍩
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ lukas-grigis/ralphctl：lukas-grigis/ralphctl helps add AI capability without st
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

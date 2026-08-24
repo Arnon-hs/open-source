@@ -1,6 +1,6 @@
 # evilmartians/agent-prism
 
-[![Stars](https://img.shields.io/github/stars/evilmartians/agent-prism?style=flat-square&color=yellow)](https://github.com/evilmartians/agent-prism/stargazers) [![Forks](https://img.shields.io/github/forks/evilmartians/agent-prism?style=flat-square&color=blue)](https://github.com/evilmartians/agent-prism/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evilmartians/agent-prism?style=flat-square&color=yellow)](https://github.com/evilmartians/agent-prism/stargazers) [![Forks](https://img.shields.io/github/forks/evilmartians/agent-prism?style=flat-square&color=blue)](https://github.com/evilmartians/agent-prism/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > React components for visualizing traces from AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Evilmartians/agent-prism 在生产环境中的可用性很高，因为该项目�
 | forks | 33/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

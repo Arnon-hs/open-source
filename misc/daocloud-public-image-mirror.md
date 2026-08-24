@@ -1,6 +1,6 @@
 # DaoCloud/public-image-mirror
 
-[![Stars](https://img.shields.io/github/stars/DaoCloud/public-image-mirror?style=flat-square&color=yellow)](https://github.com/DaoCloud/public-image-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/DaoCloud/public-image-mirror?style=flat-square&color=blue)](https://github.com/DaoCloud/public-image-mirror/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaoCloud/public-image-mirror?style=flat-square&color=yellow)](https://github.com/DaoCloud/public-image-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/DaoCloud/public-image-mirror?style=flat-square&color=blue)](https://github.com/DaoCloud/public-image-mirror/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.7k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ DaoCloud/public-image-mirror 的生产可用性非常高。其最近的活动、
 | forks | 80/100 |
 | stars | 89/100 |
 | topics | 25/100 |
-| outlook | 77/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 86/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

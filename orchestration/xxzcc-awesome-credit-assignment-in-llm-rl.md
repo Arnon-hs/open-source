@@ -1,6 +1,6 @@
 # xxzcc/Awesome-Credit-Assignment-in-LLM-RL
 
-[![Stars](https://img.shields.io/github/stars/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=yellow)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/stargazers) [![Forks](https://img.shields.io/github/forks/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=blue)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=yellow)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/stargazers) [![Forks](https://img.shields.io/github/forks/xxzcc/Awesome-Credit-Assignment-in-LLM-RL?style=flat-square&color=blue)](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Curated papers, taxonomy, benchmarks, and decision guides for credit assignment in reasoning and agentic LLM reinforcement learning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ xxzcc/Awesome-Credit-Assignment-in-LLM-RL 是一个开源项目，致力于为�
 | forks | 12/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

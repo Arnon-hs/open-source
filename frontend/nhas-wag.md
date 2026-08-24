@@ -1,6 +1,6 @@
 # NHAS/wag
 
-[![Stars](https://img.shields.io/github/stars/NHAS/wag?style=flat-square&color=yellow)](https://github.com/NHAS/wag/stargazers) [![Forks](https://img.shields.io/github/forks/NHAS/wag?style=flat-square&color=blue)](https://github.com/NHAS/wag/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NHAS/wag?style=flat-square&color=yellow)](https://github.com/NHAS/wag/stargazers) [![Forks](https://img.shields.io/github/forks/NHAS/wag?style=flat-square&color=blue)](https://github.com/NHAS/wag/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Simple Wireguard 2FA
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 718 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ NHAS/wag 是一个基于 WireGuard 的简易双因素认证（2FA）实现，提
 | forks | 43/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # utkarshdalal/GameNative
 
-[![Stars](https://img.shields.io/github/stars/utkarshdalal/GameNative?style=flat-square&color=yellow)](https://github.com/utkarshdalal/GameNative/stargazers) [![Forks](https://img.shields.io/github/forks/utkarshdalal/GameNative?style=flat-square&color=blue)](https://github.com/utkarshdalal/GameNative/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/utkarshdalal/GameNative?style=flat-square&color=yellow)](https://github.com/utkarshdalal/GameNative/stargazers) [![Forks](https://img.shields.io/github/forks/utkarshdalal/GameNative?style=flat-square&color=blue)](https://github.com/utkarshdalal/GameNative/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 332 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ utkarshdalal/GameNative是一个开源项目，旨在实现Native PC游戏在And
 | forks | 63/100 |
 | stars | 84/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

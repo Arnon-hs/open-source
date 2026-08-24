@@ -1,6 +1,6 @@
 # marlonrichert/zsh-autocomplete
 
-[![Stars](https://img.shields.io/github/stars/marlonrichert/zsh-autocomplete?style=flat-square&color=yellow)](https://github.com/marlonrichert/zsh-autocomplete/stargazers) [![Forks](https://img.shields.io/github/forks/marlonrichert/zsh-autocomplete?style=flat-square&color=blue)](https://github.com/marlonrichert/zsh-autocomplete/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marlonrichert/zsh-autocomplete?style=flat-square&color=yellow)](https://github.com/marlonrichert/zsh-autocomplete/stargazers) [![Forks](https://img.shields.io/github/forks/marlonrichert/zsh-autocomplete?style=flat-square&color=blue)](https://github.com/marlonrichert/zsh-autocomplete/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ marlonrichert/zsh-autocomplete 是一个开源项目，提供了实时类型提�
 | forks | 58/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # chewing/windows-chewing-tsf
 
-[![Stars](https://img.shields.io/github/stars/chewing/windows-chewing-tsf?style=flat-square&color=yellow)](https://github.com/chewing/windows-chewing-tsf/stargazers) [![Forks](https://img.shields.io/github/forks/chewing/windows-chewing-tsf?style=flat-square&color=blue)](https://github.com/chewing/windows-chewing-tsf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chewing/windows-chewing-tsf?style=flat-square&color=yellow)](https://github.com/chewing/windows-chewing-tsf/stargazers) [![Forks](https://img.shields.io/github/forks/chewing/windows-chewing-tsf?style=flat-square&color=blue)](https://github.com/chewing/windows-chewing-tsf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Free software implementation of Chewing Input method for Windows based on Text Services Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ chewing/windows‑chewing‑tsf 为 Windows 提供了一个可编译、可定制
 | forks | 37/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 41/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # L-Forster/open-jet
 
-[![Stars](https://img.shields.io/github/stars/L-Forster/open-jet?style=flat-square&color=yellow)](https://github.com/L-Forster/open-jet/stargazers) [![Forks](https://img.shields.io/github/forks/L-Forster/open-jet?style=flat-square&color=blue)](https://github.com/L-Forster/open-jet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/L-Forster/open-jet?style=flat-square&color=yellow)](https://github.com/L-Forster/open-jet/stargazers) [![Forks](https://img.shields.io/github/forks/L-Forster/open-jet?style=flat-square&color=blue)](https://github.com/L-Forster/open-jet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal coding agent, and a Python SDK for embedding on-device models in your own apps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ L-Forster/open-jet 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 17/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # oryx-labs/oryxos
 
-[![Stars](https://img.shields.io/github/stars/oryx-labs/oryxos?style=flat-square&color=yellow)](https://github.com/oryx-labs/oryxos/stargazers) [![Forks](https://img.shields.io/github/forks/oryx-labs/oryxos?style=flat-square&color=blue)](https://github.com/oryx-labs/oryxos/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oryx-labs/oryxos?style=flat-square&color=yellow)](https://github.com/oryx-labs/oryxos/stargazers) [![Forks](https://img.shields.io/github/forks/oryx-labs/oryxos?style=flat-square&color=blue)](https://github.com/oryx-labs/oryxos/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > OryxOS is an open-source Distributed AI Agent OS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ OryxOS 的生产可用性为中等（Medium）。它可以用于内部工作流�
 | forks | 29/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # timer-machine/timer-machine-android
 
-[![Stars](https://img.shields.io/github/stars/timer-machine/timer-machine-android?style=flat-square&color=yellow)](https://github.com/timer-machine/timer-machine-android/stargazers) [![Forks](https://img.shields.io/github/forks/timer-machine/timer-machine-android?style=flat-square&color=blue)](https://github.com/timer-machine/timer-machine-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timer-machine/timer-machine-android?style=flat-square&color=yellow)](https://github.com/timer-machine/timer-machine-android/stargazers) [![Forks](https://img.shields.io/github/forks/timer-machine/timer-machine-android?style=flat-square&color=blue)](https://github.com/timer-machine/timer-machine-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ⏲ A highly customizable interval timer app for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ Timer‑Machine/Android 是一款高度可定制的 Android 间隔计时器，�
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

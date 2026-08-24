@@ -1,6 +1,6 @@
 # SquareWaveSystems/squarebox
 
-[![Stars](https://img.shields.io/github/stars/SquareWaveSystems/squarebox?style=flat-square&color=yellow)](https://github.com/SquareWaveSystems/squarebox/stargazers) [![Forks](https://img.shields.io/github/forks/SquareWaveSystems/squarebox?style=flat-square&color=blue)](https://github.com/SquareWaveSystems/squarebox/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SquareWaveSystems/squarebox?style=flat-square&color=yellow)](https://github.com/SquareWaveSystems/squarebox/stargazers) [![Forks](https://img.shields.io/github/forks/SquareWaveSystems/squarebox?style=flat-square&color=blue)](https://github.com/SquareWaveSystems/squarebox/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A curated set of modern CLI/TUI tools and AI coding assistants in a container. Batteries included.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · DevOps/Infra
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -121,14 +121,15 @@ SquareWaveSystems/squarebox 的生产可用性很高，因为它有：
 | forks | 25/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # gastownhall/gastown
 
-[![Stars](https://img.shields.io/github/stars/gastownhall/gastown?style=flat-square&color=yellow)](https://github.com/gastownhall/gastown/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/gastown?style=flat-square&color=blue)](https://github.com/gastownhall/gastown/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gastownhall/gastown?style=flat-square&color=yellow)](https://github.com/gastownhall/gastown/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/gastown?style=flat-square&color=blue)](https://github.com/gastownhall/gastown/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Gas Town - multi-agent workspace manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.1k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Gastown（gastownhall/gastown）是一个基于 Go 实现的多智能体工作�
 | forks | 79/100 |
 | stars | 89/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 86/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

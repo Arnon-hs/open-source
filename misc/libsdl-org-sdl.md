@@ -1,6 +1,6 @@
 # libsdl-org/SDL
 
-[![Stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square&color=yellow)](https://github.com/libsdl-org/SDL/stargazers) [![Forks](https://img.shields.io/github/forks/libsdl-org/SDL?style=flat-square&color=blue)](https://github.com/libsdl-org/SDL/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=flat-square&color=yellow)](https://github.com/libsdl-org/SDL/stargazers) [![Forks](https://img.shields.io/github/forks/libsdl-org/SDL?style=flat-square&color=blue)](https://github.com/libsdl-org/SDL/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Simple DirectMedia Layer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.1k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ libsdl-org/SDL 的生产可用性非常高。它有大量的 GitHub 星星和 Fo
 | forks | 86/100 |
 | stars | 89/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 89/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

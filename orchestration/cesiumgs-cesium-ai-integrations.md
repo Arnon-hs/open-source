@@ -1,6 +1,6 @@
 # CesiumGS/cesium-ai-integrations
 
-[![Stars](https://img.shields.io/github/stars/CesiumGS/cesium-ai-integrations?style=flat-square&color=yellow)](https://github.com/CesiumGS/cesium-ai-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/CesiumGS/cesium-ai-integrations?style=flat-square&color=blue)](https://github.com/CesiumGS/cesium-ai-integrations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CesiumGS/cesium-ai-integrations?style=flat-square&color=yellow)](https://github.com/CesiumGS/cesium-ai-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/CesiumGS/cesium-ai-integrations?style=flat-square&color=blue)](https://github.com/CesiumGS/cesium-ai-integrations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Cesium AI Integrations is a collection of reference integrations and experiments connecting the Cesium ecosystem with AI systems including Model Context Protocol (MCP) tools, retrieval pipelines, and agent skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ CesiumGS/cesium-ai-integrations：CesiumGS/cesium-ai-integrations helps turn iso
 | forks | 26/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

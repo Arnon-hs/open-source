@@ -1,6 +1,6 @@
 # callstackincubator/rock
 
-[![Stars](https://img.shields.io/github/stars/callstackincubator/rock?style=flat-square&color=yellow)](https://github.com/callstackincubator/rock/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/rock?style=flat-square&color=blue)](https://github.com/callstackincubator/rock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/callstackincubator/rock?style=flat-square&color=yellow)](https://github.com/callstackincubator/rock/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/rock?style=flat-square&color=blue)](https://github.com/callstackincubator/rock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Modular toolkit for teams building React Native apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ callstackincubator/rock 是一个面向 React Native 团队的模块化 UI 工
 | forks | 41/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 76/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

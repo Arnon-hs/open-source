@@ -1,6 +1,6 @@
 # kronotop/kronotop
 
-[![Stars](https://img.shields.io/github/stars/kronotop/kronotop?style=flat-square&color=yellow)](https://github.com/kronotop/kronotop/stargazers) [![Forks](https://img.shields.io/github/forks/kronotop/kronotop?style=flat-square&color=blue)](https://github.com/kronotop/kronotop/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kronotop/kronotop?style=flat-square&color=yellow)](https://github.com/kronotop/kronotop/stargazers) [![Forks](https://img.shields.io/github/forks/kronotop/kronotop?style=flat-square&color=blue)](https://github.com/kronotop/kronotop/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed, transactional document database backed by FoundationDB.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 296 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -142,14 +142,15 @@ Kronotop 是基于 FoundationDB 的分布式事务性文档数据库，提供强
 | forks | 25/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

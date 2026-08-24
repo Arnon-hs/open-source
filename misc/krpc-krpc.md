@@ -1,6 +1,6 @@
 # krpc/krpc
 
-[![Stars](https://img.shields.io/github/stars/krpc/krpc?style=flat-square&color=yellow)](https://github.com/krpc/krpc/stargazers) [![Forks](https://img.shields.io/github/forks/krpc/krpc?style=flat-square&color=blue)](https://github.com/krpc/krpc/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krpc/krpc?style=flat-square&color=yellow)](https://github.com/krpc/krpc/stargazers) [![Forks](https://img.shields.io/github/forks/krpc/krpc?style=flat-square&color=blue)](https://github.com/krpc/krpc/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Remote Procedure Calls for Kerbal Space Program
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 730 |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ krpc/krpc 的生产可用性为中等（Medium）。它可以用来创建原型�
 | forks | 56/100 |
 | stars | 61/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

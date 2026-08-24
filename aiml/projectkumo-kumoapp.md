@@ -1,6 +1,6 @@
 # ProjectKumo/KumoApp
 
-[![Stars](https://img.shields.io/github/stars/ProjectKumo/KumoApp?style=flat-square&color=yellow)](https://github.com/ProjectKumo/KumoApp/stargazers) [![Forks](https://img.shields.io/github/forks/ProjectKumo/KumoApp?style=flat-square&color=blue)](https://github.com/ProjectKumo/KumoApp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProjectKumo/KumoApp?style=flat-square&color=yellow)](https://github.com/ProjectKumo/KumoApp/stargazers) [![Forks](https://img.shields.io/github/forks/ProjectKumo/KumoApp?style=flat-square&color=blue)](https://github.com/ProjectKumo/KumoApp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ ProjectKumo/KumoApp 是一款基于 SwiftUI 开发的原生 macOS 客户端，�
 | forks | 8/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

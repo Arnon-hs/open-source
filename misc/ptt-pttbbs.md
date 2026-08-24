@@ -1,6 +1,6 @@
 # ptt/pttbbs
 
-[![Stars](https://img.shields.io/github/stars/ptt/pttbbs?style=flat-square&color=yellow)](https://github.com/ptt/pttbbs/stargazers) [![Forks](https://img.shields.io/github/forks/ptt/pttbbs?style=flat-square&color=blue)](https://github.com/ptt/pttbbs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ptt/pttbbs?style=flat-square&color=yellow)](https://github.com/ptt/pttbbs/stargazers) [![Forks](https://img.shields.io/github/forks/ptt/pttbbs?style=flat-square&color=blue)](https://github.com/ptt/pttbbs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > PTT BBS source code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ PTT BBS 是一个开源项目，提供了 BBS (Bulletin Board System) 的源代�
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

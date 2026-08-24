@@ -1,6 +1,6 @@
 # spatie/calendar-links
 
-[![Stars](https://img.shields.io/github/stars/spatie/calendar-links?style=flat-square&color=yellow)](https://github.com/spatie/calendar-links/stargazers) [![Forks](https://img.shields.io/github/forks/spatie/calendar-links?style=flat-square&color=blue)](https://github.com/spatie/calendar-links/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spatie/calendar-links?style=flat-square&color=yellow)](https://github.com/spatie/calendar-links/stargazers) [![Forks](https://img.shields.io/github/forks/spatie/calendar-links?style=flat-square&color=blue)](https://github.com/spatie/calendar-links/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Generate add to calendar links for Google, iCal and other calendar systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ spatie/calendar-links：spatie/calendar-links may be useful when its README and 
 | forks | 55/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

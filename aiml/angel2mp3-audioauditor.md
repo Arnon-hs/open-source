@@ -1,6 +1,6 @@
 # Angel2mp3/AudioAuditor
 
-[![Stars](https://img.shields.io/github/stars/Angel2mp3/AudioAuditor?style=flat-square&color=yellow)](https://github.com/Angel2mp3/AudioAuditor/stargazers) [![Forks](https://img.shields.io/github/forks/Angel2mp3/AudioAuditor?style=flat-square&color=blue)](https://github.com/Angel2mp3/AudioAuditor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Angel2mp3/AudioAuditor?style=flat-square&color=yellow)](https://github.com/Angel2mp3/AudioAuditor/stargazers) [![Forks](https://img.shields.io/github/forks/Angel2mp3/AudioAuditor?style=flat-square&color=blue)](https://github.com/Angel2mp3/AudioAuditor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Angel2mp3/AudioAuditor：Angel2mp3/AudioAuditor helps add AI capability without 
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

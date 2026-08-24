@@ -1,6 +1,6 @@
 # vxfemboy/wipedicks
 
-[![Stars](https://img.shields.io/github/stars/vxfemboy/wipedicks?style=flat-square&color=yellow)](https://github.com/vxfemboy/wipedicks/stargazers) [![Forks](https://img.shields.io/github/forks/vxfemboy/wipedicks?style=flat-square&color=blue)](https://github.com/vxfemboy/wipedicks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vxfemboy/wipedicks?style=flat-square&color=yellow)](https://github.com/vxfemboy/wipedicks/stargazers) [![Forks](https://img.shields.io/github/forks/vxfemboy/wipedicks?style=flat-square&color=blue)](https://github.com/vxfemboy/wipedicks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Wipe files and drives securely with random ASCII dicks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ vxfemboy/wipedicks 是一个开源项目，用于安全擦除文件和驱动器�
 | forks | 17/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

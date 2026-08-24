@@ -1,6 +1,6 @@
 # Menfre01/waveloom
 
-[![Stars](https://img.shields.io/github/stars/Menfre01/waveloom?style=flat-square&color=yellow)](https://github.com/Menfre01/waveloom/stargazers) [![Forks](https://img.shields.io/github/forks/Menfre01/waveloom?style=flat-square&color=blue)](https://github.com/Menfre01/waveloom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Menfre01/waveloom?style=flat-square&color=yellow)](https://github.com/Menfre01/waveloom/stargazers) [![Forks](https://img.shields.io/github/forks/Menfre01/waveloom?style=flat-square&color=blue)](https://github.com/Menfre01/waveloom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 为 DeepSeek 前缀缓存定制的终端 Code Agent（纯 Go），缓存命中率 95-99%，输入成本降至 1/50。A terminal coding agent optimized for DeepSeek prefix caching — 95-99% cache hit, 1/50th the cost.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Menfre01/waveloom 是一款基于 Go 实现的终端 Code Agent，专为 DeepSee
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # binance/binance-connector-go
 
-[![Stars](https://img.shields.io/github/stars/binance/binance-connector-go?style=flat-square&color=yellow)](https://github.com/binance/binance-connector-go/stargazers) [![Forks](https://img.shields.io/github/forks/binance/binance-connector-go?style=flat-square&color=blue)](https://github.com/binance/binance-connector-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binance/binance-connector-go?style=flat-square&color=yellow)](https://github.com/binance/binance-connector-go/stargazers) [![Forks](https://img.shields.io/github/forks/binance/binance-connector-go?style=flat-square&color=blue)](https://github.com/binance/binance-connector-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Simple GO connector to Binance API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Binance/binance-connector-go 是一个开源的 Go 语言接入器，提供简�
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

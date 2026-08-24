@@ -1,6 +1,6 @@
 # Santroller/Santroller
 
-[![Stars](https://img.shields.io/github/stars/Santroller/Santroller?style=flat-square&color=yellow)](https://github.com/Santroller/Santroller/stargazers) [![Forks](https://img.shields.io/github/forks/Santroller/Santroller?style=flat-square&color=blue)](https://github.com/Santroller/Santroller/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Santroller/Santroller?style=flat-square&color=yellow)](https://github.com/Santroller/Santroller/stargazers) [![Forks](https://img.shields.io/github/forks/Santroller/Santroller?style=flat-square&color=blue)](https://github.com/Santroller/Santroller/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Firmware for using various microcontrollers as controllers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ Santroller 是一款固件，能够把多种微控制器通用化为通用控制
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

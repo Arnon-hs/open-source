@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-seo
 
-[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-seo/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-seo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/claude-seo/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&color=blue)](https://github.com/AgriciDaniel/claude-seo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 972 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Data · Marketing
+Automation · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ AgriciDaniel/claude‑seo 为 Claude Code 提供了一个“全能 SEO 大脑”
 | forks | 75/100 |
 | stars | 81/100 |
 | topics | 88/100 |
-| outlook | 92/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 79/100 |
-| production | 84/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

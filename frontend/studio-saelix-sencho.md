@@ -1,6 +1,6 @@
 # Studio-Saelix/sencho
 
-[![Stars](https://img.shields.io/github/stars/Studio-Saelix/sencho?style=flat-square&color=yellow)](https://github.com/Studio-Saelix/sencho/stargazers) [![Forks](https://img.shields.io/github/forks/Studio-Saelix/sencho?style=flat-square&color=blue)](https://github.com/Studio-Saelix/sencho/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Studio-Saelix/sencho?style=flat-square&color=yellow)](https://github.com/Studio-Saelix/sencho/stargazers) [![Forks](https://img.shields.io/github/forks/Studio-Saelix/sencho?style=flat-square&color=blue)](https://github.com/Studio-Saelix/sencho/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Docker Compose management platform. Great for homelabs, small DevOps teams, and platform engineers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · DevOps/Infra
+Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ sencho 的生产可用性很高，理由如下：
 | forks | 23/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Adyen/adyen-salesforce-commerce-cloud
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-salesforce-commerce-cloud?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-salesforce-commerce-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-salesforce-commerce-cloud?style=flat-square&color=blue)](https://github.com/Adyen/adyen-salesforce-commerce-cloud/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-salesforce-commerce-cloud?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-salesforce-commerce-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-salesforce-commerce-cloud?style=flat-square&color=blue)](https://github.com/Adyen/adyen-salesforce-commerce-cloud/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Salesforce Commerce Cloud (formerly Demandware)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Database
+Payments
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Adyen/adyen-salesforce-commerce-cloud 的价值在于，它可以帮助商家快
 | forks | 49/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

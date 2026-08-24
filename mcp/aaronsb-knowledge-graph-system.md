@@ -1,6 +1,6 @@
 # aaronsb/knowledge-graph-system
 
-[![Stars](https://img.shields.io/github/stars/aaronsb/knowledge-graph-system?style=flat-square&color=yellow)](https://github.com/aaronsb/knowledge-graph-system/stargazers) [![Forks](https://img.shields.io/github/forks/aaronsb/knowledge-graph-system?style=flat-square&color=blue)](https://github.com/aaronsb/knowledge-graph-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronsb/knowledge-graph-system?style=flat-square&color=yellow)](https://github.com/aaronsb/knowledge-graph-system/stargazers) [![Forks](https://img.shields.io/github/forks/aaronsb/knowledge-graph-system?style=flat-square&color=blue)](https://github.com/aaronsb/knowledge-graph-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Kappa Graph — κ(G). A semantic knowledge graph where knowledge has weight. Extracts concepts, measures grounding strength, preserves disagreement, traces everything to source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Backend · Data · Database
+MCP · Knowledge/RAG · Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Kappa Graph（κ(G)）是一个语义知识图谱系统，除了存储概念间�
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

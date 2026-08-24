@@ -1,6 +1,6 @@
 # AlterLab-IEU/AlterLab-Academic-Skills
 
-[![Stars](https://img.shields.io/github/stars/AlterLab-IEU/AlterLab-Academic-Skills?style=flat-square&color=yellow)](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/AlterLab-IEU/AlterLab-Academic-Skills?style=flat-square&color=blue)](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlterLab-IEU/AlterLab-Academic-Skills?style=flat-square&color=yellow)](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/AlterLab-IEU/AlterLab-Academic-Skills?style=flat-square&color=blue)](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 210 evaluated academic Claude/agent skills across 16 research domains — bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia & more. Every skill ships an executable eval (agentskills.io schema). Citation verifier + research→write→review→publish pipeline. Claude Code, Cursor, Codex, Gemini CLI & Copilot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · DevTools · Data
+Orchestration · MCP · AI/ML · Data
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ AlterLab-IEU/AlterLab-Academic-Skills 提供 210 条经过评估的学术 Claude
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

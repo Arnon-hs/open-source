@@ -1,6 +1,6 @@
 # paperclipinc/openclaw-operator
 
-[![Stars](https://img.shields.io/github/stars/paperclipinc/openclaw-operator?style=flat-square&color=yellow)](https://github.com/paperclipinc/openclaw-operator/stargazers) [![Forks](https://img.shields.io/github/forks/paperclipinc/openclaw-operator?style=flat-square&color=blue)](https://github.com/paperclipinc/openclaw-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paperclipinc/openclaw-operator?style=flat-square&color=yellow)](https://github.com/paperclipinc/openclaw-operator/stargazers) [![Forks](https://img.shields.io/github/forks/paperclipinc/openclaw-operator?style=flat-square&color=blue)](https://github.com/paperclipinc/openclaw-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Observability · DevOps/Infra · Security
+AI/ML · Observability · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ paperclipinc/openclaw-operator 是一款基于 Kubernetes 的 Operator，用于�
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

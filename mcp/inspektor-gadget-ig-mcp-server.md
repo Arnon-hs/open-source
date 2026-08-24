@@ -1,6 +1,6 @@
 # inspektor-gadget/ig-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/inspektor-gadget/ig-mcp-server?style=flat-square&color=yellow)](https://github.com/inspektor-gadget/ig-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/inspektor-gadget/ig-mcp-server?style=flat-square&color=blue)](https://github.com/inspektor-gadget/ig-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inspektor-gadget/ig-mcp-server?style=flat-square&color=yellow)](https://github.com/inspektor-gadget/ig-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/inspektor-gadget/ig-mcp-server?style=flat-square&color=blue)](https://github.com/inspektor-gadget/ig-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Debug your Container and Kubernetes workloads with an AI interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevOps/Infra · Marketing
+MCP · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ inspektor-gadget/ig-mcp-server 是一个基于 Go 实现的 Model Context Pr
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

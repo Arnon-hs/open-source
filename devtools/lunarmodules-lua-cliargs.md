@@ -1,6 +1,6 @@
 # lunarmodules/lua_cliargs
 
-[![Stars](https://img.shields.io/github/stars/lunarmodules/lua_cliargs?style=flat-square&color=yellow)](https://github.com/lunarmodules/lua_cliargs/stargazers) [![Forks](https://img.shields.io/github/forks/lunarmodules/lua_cliargs?style=flat-square&color=blue)](https://github.com/lunarmodules/lua_cliargs/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lunarmodules/lua_cliargs?style=flat-square&color=yellow)](https://github.com/lunarmodules/lua_cliargs/stargazers) [![Forks](https://img.shields.io/github/forks/lunarmodules/lua_cliargs?style=flat-square&color=blue)](https://github.com/lunarmodules/lua_cliargs/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line argument parsing module for Lua.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ lunarmodules/lua_cliargs 的生产可用性为中等（Medium）：它适合用�
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

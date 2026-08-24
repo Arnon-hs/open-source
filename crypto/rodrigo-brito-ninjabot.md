@@ -1,6 +1,6 @@
 # rodrigo-brito/ninjabot
 
-[![Stars](https://img.shields.io/github/stars/rodrigo-brito/ninjabot?style=flat-square&color=yellow)](https://github.com/rodrigo-brito/ninjabot/stargazers) [![Forks](https://img.shields.io/github/forks/rodrigo-brito/ninjabot?style=flat-square&color=blue)](https://github.com/rodrigo-brito/ninjabot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rodrigo-brito/ninjabot?style=flat-square&color=yellow)](https://github.com/rodrigo-brito/ninjabot/stargazers) [![Forks](https://img.shields.io/github/forks/rodrigo-brito/ninjabot?style=flat-square&color=blue)](https://github.com/rodrigo-brito/ninjabot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A fast trading bot platform for cryptocurrency in Go (Binance)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 198 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Database
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ rodrigo-brito/ninjabot 的生产可用性非常高，主要原因是：
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

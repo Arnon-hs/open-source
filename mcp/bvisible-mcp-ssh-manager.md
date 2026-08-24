@@ -1,6 +1,6 @@
 # bvisible/mcp-ssh-manager
 
-[![Stars](https://img.shields.io/github/stars/bvisible/mcp-ssh-manager?style=flat-square&color=yellow)](https://github.com/bvisible/mcp-ssh-manager/stargazers) [![Forks](https://img.shields.io/github/forks/bvisible/mcp-ssh-manager?style=flat-square&color=blue)](https://github.com/bvisible/mcp-ssh-manager/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bvisible/mcp-ssh-manager?style=flat-square&color=yellow)](https://github.com/bvisible/mcp-ssh-manager/stargazers) [![Forks](https://img.shields.io/github/forks/bvisible/mcp-ssh-manager?style=flat-square&color=blue)](https://github.com/bvisible/mcp-ssh-manager/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP SSH Server: 37 tools for remote SSH management | Claude Code & OpenAI Codex | DevOps automation, backups, database operations, health monitoring
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Data
+MCP · Automation · Backend · Database · Observability
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ bvisible/mcp-ssh-manager 是一套基于 Model Context Protocol（MCP）的 
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

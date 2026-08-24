@@ -1,6 +1,6 @@
 # willdady/platypus
 
-[![Stars](https://img.shields.io/github/stars/willdady/platypus?style=flat-square&color=yellow)](https://github.com/willdady/platypus/stargazers) [![Forks](https://img.shields.io/github/forks/willdady/platypus?style=flat-square&color=blue)](https://github.com/willdady/platypus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/willdady/platypus?style=flat-square&color=yellow)](https://github.com/willdady/platypus/stargazers) [![Forks](https://img.shields.io/github/forks/willdady/platypus?style=flat-square&color=blue)](https://github.com/willdady/platypus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, multi-tenant platform for building and managing AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Database
+MCP · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ willdady/platypus 帮助连接 AI 代理与真实工具和数据，通过标准�
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

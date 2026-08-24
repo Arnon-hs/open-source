@@ -1,6 +1,6 @@
 # RenseiAI/agentfactory
 
-[![Stars](https://img.shields.io/github/stars/RenseiAI/agentfactory?style=flat-square&color=yellow)](https://github.com/RenseiAI/agentfactory/stargazers) [![Forks](https://img.shields.io/github/forks/RenseiAI/agentfactory?style=flat-square&color=blue)](https://github.com/RenseiAI/agentfactory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RenseiAI/agentfactory?style=flat-square&color=yellow)](https://github.com/RenseiAI/agentfactory/stargazers) [![Forks](https://img.shields.io/github/forks/RenseiAI/agentfactory?style=flat-square&color=blue)](https://github.com/RenseiAI/agentfactory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source software factory — multi-agent fleet management for coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ RenseiAI/agentfactory 是一套开源的多智能体编程工厂，能够把单�
 | forks | 24/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

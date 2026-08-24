@@ -1,6 +1,6 @@
 # dash0hq/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/dash0hq/agent-skills?style=flat-square&color=yellow)](https://github.com/dash0hq/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dash0hq/agent-skills?style=flat-square&color=blue)](https://github.com/dash0hq/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dash0hq/agent-skills?style=flat-square&color=yellow)](https://github.com/dash0hq/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dash0hq/agent-skills?style=flat-square&color=blue)](https://github.com/dash0hq/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry skills and reference documentation for AI coding assistants - instrumentation patterns, telemetry quality guides, and Dash0 integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Observability
+Orchestration · MCP · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ dash0hq/agent-skills 的主要价值在于：
 | forks | 26/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

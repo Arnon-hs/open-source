@@ -1,6 +1,6 @@
 # quran/quran-ios
 
-[![Stars](https://img.shields.io/github/stars/quran/quran-ios?style=flat-square&color=yellow)](https://github.com/quran/quran-ios/stargazers) [![Forks](https://img.shields.io/github/forks/quran/quran-ios?style=flat-square&color=blue)](https://github.com/quran/quran-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quran/quran-ios?style=flat-square&color=yellow)](https://github.com/quran/quran-ios/stargazers) [![Forks](https://img.shields.io/github/forks/quran/quran-ios?style=flat-square&color=blue)](https://github.com/quran/quran-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > QuranEngine is the engine powering the Quran.com iOS app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 572 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Quran/quran-ios 的生产可用性为中等。由于项目的维护情况良好�
 | forks | 58/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

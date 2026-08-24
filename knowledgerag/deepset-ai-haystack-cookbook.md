@@ -1,6 +1,6 @@
 # deepset-ai/haystack-cookbook
 
-[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-cookbook?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-cookbook?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-cookbook?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-cookbook?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-cookbook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 👩🏻‍🍳 A collection of example notebooks using Haystack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 545 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ deepset-ai/haystack-cookbook 是一个开源项目，集合了使用 Haystack �
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

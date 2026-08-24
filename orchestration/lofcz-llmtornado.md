@@ -1,6 +1,6 @@
 # lofcz/LLMTornado
 
-[![Stars](https://img.shields.io/github/stars/lofcz/LLMTornado?style=flat-square&color=yellow)](https://github.com/lofcz/LLMTornado/stargazers) [![Forks](https://img.shields.io/github/forks/lofcz/LLMTornado?style=flat-square&color=blue)](https://github.com/lofcz/LLMTornado/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lofcz/LLMTornado?style=flat-square&color=yellow)](https://github.com/lofcz/LLMTornado/stargazers) [![Forks](https://img.shields.io/github/forks/lofcz/LLMTornado?style=flat-square&color=blue)](https://github.com/lofcz/LLMTornado/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The .NET library to build AI agents with 30+ built-in connectors.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 619 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ lofcz/LLMTornado 的生产可用性较高，主要原因是其 recent activity�
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

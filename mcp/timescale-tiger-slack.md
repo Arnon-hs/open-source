@@ -1,6 +1,6 @@
 # timescale/tiger-slack
 
-[![Stars](https://img.shields.io/github/stars/timescale/tiger-slack?style=flat-square&color=yellow)](https://github.com/timescale/tiger-slack/stargazers) [![Forks](https://img.shields.io/github/forks/timescale/tiger-slack?style=flat-square&color=blue)](https://github.com/timescale/tiger-slack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timescale/tiger-slack?style=flat-square&color=yellow)](https://github.com/timescale/tiger-slack/stargazers) [![Forks](https://img.shields.io/github/forks/timescale/tiger-slack?style=flat-square&color=blue)](https://github.com/timescale/tiger-slack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time Slack ingest and MCP server to power your agentic Slack bots
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ timescale/tiger‑slack 是一个实时 Slack 消息采集与 Model Context 
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

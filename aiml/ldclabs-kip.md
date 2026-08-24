@@ -1,6 +1,6 @@
 # ldclabs/KIP
 
-[![Stars](https://img.shields.io/github/stars/ldclabs/KIP?style=flat-square&color=yellow)](https://github.com/ldclabs/KIP/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/KIP?style=flat-square&color=blue)](https://github.com/ldclabs/KIP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldclabs/KIP?style=flat-square&color=yellow)](https://github.com/ldclabs/KIP/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/KIP?style=flat-square&color=blue)](https://github.com/ldclabs/KIP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🧬 KIP is a Knowledge-memory Interaction Protocol designed for LLMs, aiming to build a sustainable learning and self-evolving memory system for AI Agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ ldclabs/KIP的生产可用性为中等（Medium）。它适合用于构建原型
 | forks | 19/100 |
 | stars | 40/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

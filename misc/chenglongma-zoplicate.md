@@ -1,6 +1,6 @@
 # ChenglongMa/zoplicate
 
-[![Stars](https://img.shields.io/github/stars/ChenglongMa/zoplicate?style=flat-square&color=yellow)](https://github.com/ChenglongMa/zoplicate/stargazers) [![Forks](https://img.shields.io/github/forks/ChenglongMa/zoplicate?style=flat-square&color=blue)](https://github.com/ChenglongMa/zoplicate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChenglongMa/zoplicate?style=flat-square&color=yellow)](https://github.com/ChenglongMa/zoplicate/stargazers) [![Forks](https://img.shields.io/github/forks/ChenglongMa/zoplicate?style=flat-square&color=blue)](https://github.com/ChenglongMa/zoplicate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin that does one thing only: Detect and manage duplicate items in Zotero.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 960 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ ChenglongMa/zoplicate：ChenglongMa/zoplicate may be useful when its README and 
 | forks | 31/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

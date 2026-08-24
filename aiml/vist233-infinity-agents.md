@@ -1,6 +1,6 @@
 # Vist233/infinity_Agents
 
-[![Stars](https://img.shields.io/github/stars/Vist233/infinity_Agents?style=flat-square&color=yellow)](https://github.com/Vist233/infinity_Agents/stargazers) [![Forks](https://img.shields.io/github/forks/Vist233/infinity_Agents?style=flat-square&color=blue)](https://github.com/Vist233/infinity_Agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vist233/infinity_Agents?style=flat-square&color=yellow)](https://github.com/Vist233/infinity_Agents/stargazers) [![Forks](https://img.shields.io/github/forks/Vist233/infinity_Agents?style=flat-square&color=blue)](https://github.com/Vist233/infinity_Agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent for convert nature language to shell or python command and search paper for you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Vist233/infinity_Agents 的价值在于，它可以帮助开发者快速构建 A
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 13/100 |
-| outlook | 64/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 37/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

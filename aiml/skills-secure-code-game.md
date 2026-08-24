@@ -1,6 +1,6 @@
 # skills/secure-code-game
 
-[![Stars](https://img.shields.io/github/stars/skills/secure-code-game?style=flat-square&color=yellow)](https://github.com/skills/secure-code-game/stargazers) [![Forks](https://img.shields.io/github/forks/skills/secure-code-game?style=flat-square&color=blue)](https://github.com/skills/secure-code-game/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skills/secure-code-game?style=flat-square&color=yellow)](https://github.com/skills/secure-code-game/stargazers) [![Forks](https://img.shields.io/github/forks/skills/secure-code-game?style=flat-square&color=blue)](https://github.com/skills/secure-code-game/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Learn to code securely while having fun through our popular open source in-editor experience, designed for developers, students, and anyone curious about security. Get started for free in under 2 minutes, playing right from your browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 376 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security · Design · Education
+AI/ML · Security · Education
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ The Secure Code Game has
 | forks | 64/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

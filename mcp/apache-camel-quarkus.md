@@ -1,6 +1,6 @@
 # apache/camel-quarkus
 
-[![Stars](https://img.shields.io/github/stars/apache/camel-quarkus?style=flat-square&color=yellow)](https://github.com/apache/camel-quarkus/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel-quarkus?style=flat-square&color=blue)](https://github.com/apache/camel-quarkus/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/camel-quarkus?style=flat-square&color=yellow)](https://github.com/apache/camel-quarkus/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel-quarkus?style=flat-square&color=blue)](https://github.com/apache/camel-quarkus/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Camel Quarkus
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ apache/camel-quarkus：apache/camel-quarkus helps connect AI assistants to real 
 | forks | 59/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

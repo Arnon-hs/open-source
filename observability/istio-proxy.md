@@ -1,6 +1,6 @@
 # istio/proxy
 
-[![Stars](https://img.shields.io/github/stars/istio/proxy?style=flat-square&color=yellow)](https://github.com/istio/proxy/stargazers) [![Forks](https://img.shields.io/github/forks/istio/proxy?style=flat-square&color=blue)](https://github.com/istio/proxy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/istio/proxy?style=flat-square&color=yellow)](https://github.com/istio/proxy/stargazers) [![Forks](https://img.shields.io/github/forks/istio/proxy?style=flat-square&color=blue)](https://github.com/istio/proxy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The Istio proxy components.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 891 |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Istio proxy 是 Istio 服务网格的核心数据平面组件，提供流量�
 | forks | 79/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

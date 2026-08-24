@@ -1,6 +1,6 @@
 # LukasNiessen/ArchUnitTS
 
-[![Stars](https://img.shields.io/github/stars/LukasNiessen/ArchUnitTS?style=flat-square&color=yellow)](https://github.com/LukasNiessen/ArchUnitTS/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/ArchUnitTS?style=flat-square&color=blue)](https://github.com/LukasNiessen/ArchUnitTS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LukasNiessen/ArchUnitTS?style=flat-square&color=yellow)](https://github.com/LukasNiessen/ArchUnitTS/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/ArchUnitTS?style=flat-square&color=blue)](https://github.com/LukasNiessen/ArchUnitTS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ArchUnitTS is an architecture testing library. Specify and ensure architecture rules in your TypeScript app. Easy setup and pipeline integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ LukasNiessen/ArchUnitTS：LukasNiessen/ArchUnitTS helps engineers save time in d
 | forks | 29/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

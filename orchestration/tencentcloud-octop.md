@@ -1,6 +1,6 @@
 # TencentCloud/Octop
 
-[![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square&color=yellow)](https://github.com/TencentCloud/Octop/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/Octop?style=flat-square&color=blue)](https://github.com/TencentCloud/Octop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square&color=yellow)](https://github.com/TencentCloud/Octop/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/Octop?style=flat-square&color=blue)](https://github.com/TencentCloud/Octop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Octop 在生产环境中的可用性较高，主要原因是：
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # atomantic/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/atomantic/dotfiles?style=flat-square&color=yellow)](https://github.com/atomantic/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/atomantic/dotfiles?style=flat-square&color=blue)](https://github.com/atomantic/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atomantic/dotfiles?style=flat-square&color=yellow)](https://github.com/atomantic/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/atomantic/dotfiles?style=flat-square&color=blue)](https://github.com/atomantic/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 430 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ atomantic/dotfiles 是一套面向 macOS 的自动化配置、偏好设置与软
 | forks | 66/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

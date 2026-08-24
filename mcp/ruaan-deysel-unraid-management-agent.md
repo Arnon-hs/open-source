@@ -1,6 +1,6 @@
 # ruaan-deysel/unraid-management-agent
 
-[![Stars](https://img.shields.io/github/stars/ruaan-deysel/unraid-management-agent?style=flat-square&color=yellow)](https://github.com/ruaan-deysel/unraid-management-agent/stargazers) [![Forks](https://img.shields.io/github/forks/ruaan-deysel/unraid-management-agent?style=flat-square&color=blue)](https://github.com/ruaan-deysel/unraid-management-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruaan-deysel/unraid-management-agent?style=flat-square&color=yellow)](https://github.com/ruaan-deysel/unraid-management-agent/stargazers) [![Forks](https://img.shields.io/github/forks/ruaan-deysel/unraid-management-agent?style=flat-square&color=blue)](https://github.com/ruaan-deysel/unraid-management-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Observability
+MCP · AI/ML · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ ruaan-deysel/unraid-management-agent 的生产可用性为高（High）。它有
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

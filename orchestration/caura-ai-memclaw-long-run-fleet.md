@@ -1,6 +1,6 @@
 # caura-ai/memclaw-long-run-fleet
 
-[![Stars](https://img.shields.io/github/stars/caura-ai/memclaw-long-run-fleet?style=flat-square&color=yellow)](https://github.com/caura-ai/memclaw-long-run-fleet/stargazers) [![Forks](https://img.shields.io/github/forks/caura-ai/memclaw-long-run-fleet?style=flat-square&color=blue)](https://github.com/caura-ai/memclaw-long-run-fleet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caura-ai/memclaw-long-run-fleet?style=flat-square&color=yellow)](https://github.com/caura-ai/memclaw-long-run-fleet/stargazers) [![Forks](https://img.shields.io/github/forks/caura-ai/memclaw-long-run-fleet?style=flat-square&color=blue)](https://github.com/caura-ai/memclaw-long-run-fleet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Long-running fleet orchestration and memory infrastructure for AI agents. Enables persistent context, shared memory, task execution, and governed coordination across multi-agent systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Caura-ai/memclaw-long-run-fleet 是一个开源项目，用于长期运行的机
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

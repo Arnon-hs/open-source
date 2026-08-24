@@ -1,6 +1,6 @@
 # Obedience-Corp/festival
 
-[![Stars](https://img.shields.io/github/stars/Obedience-Corp/festival?style=flat-square&color=yellow)](https://github.com/Obedience-Corp/festival/stargazers) [![Forks](https://img.shields.io/github/forks/Obedience-Corp/festival?style=flat-square&color=blue)](https://github.com/Obedience-Corp/festival/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Obedience-Corp/festival?style=flat-square&color=yellow)](https://github.com/Obedience-Corp/festival/stargazers) [![Forks](https://img.shields.io/github/forks/Obedience-Corp/festival?style=flat-square&color=blue)](https://github.com/Obedience-Corp/festival/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Structured planning and persistent context for AI coding agents. Plan multi-phase work once and any agent (Claude Code, Codex, OpenCode) executes it across sessions without losing the thread.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Festival的生产可用性为中等（Medium），适合用于原型或内部工
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

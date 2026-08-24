@@ -1,6 +1,6 @@
 # ashfromsky/acquiremock
 
-[![Stars](https://img.shields.io/github/stars/ashfromsky/acquiremock?style=flat-square&color=yellow)](https://github.com/ashfromsky/acquiremock/stargazers) [![Forks](https://img.shields.io/github/forks/ashfromsky/acquiremock?style=flat-square&color=blue)](https://github.com/ashfromsky/acquiremock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashfromsky/acquiremock?style=flat-square&color=yellow)](https://github.com/ashfromsky/acquiremock/stargazers) [![Forks](https://img.shields.io/github/forks/ashfromsky/acquiremock?style=flat-square&color=blue)](https://github.com/ashfromsky/acquiremock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AcquireMock is a full-featured mock payment gateway built for reliable testing of any e-commerce integration. It simulates real payment flows with OTP verification, HMAC-signed webhooks, and a modern user interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-04 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ AcquireMock 是一个功能完整的模拟支付网关，能够在本地或 CI �
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 66/100 |
-| recency | 80/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

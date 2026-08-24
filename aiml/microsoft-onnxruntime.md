@@ -1,6 +1,6 @@
 # microsoft/onnxruntime
 
-[![Stars](https://img.shields.io/github/stars/microsoft/onnxruntime?style=flat-square&color=yellow)](https://github.com/microsoft/onnxruntime/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/onnxruntime?style=flat-square&color=blue)](https://github.com/microsoft/onnxruntime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/onnxruntime?style=flat-square&color=yellow)](https://github.com/microsoft/onnxruntime/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/onnxruntime?style=flat-square&color=blue)](https://github.com/microsoft/onnxruntime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ ONNX Runtime（microsoft/onnxruntime）是微软开源的跨平台、高性能�
 | forks | 90/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

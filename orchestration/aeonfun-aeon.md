@@ -1,6 +1,6 @@
 # aeonfun/aeon
 
-[![Stars](https://img.shields.io/github/stars/aeonfun/aeon?style=flat-square&color=yellow)](https://github.com/aeonfun/aeon/stargazers) [![Forks](https://img.shields.io/github/forks/aeonfun/aeon?style=flat-square&color=blue)](https://github.com/aeonfun/aeon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aeonfun/aeon?style=flat-square&color=yellow)](https://github.com/aeonfun/aeon/stargazers) [![Forks](https://img.shields.io/github/forks/aeonfun/aeon?style=flat-square&color=blue)](https://github.com/aeonfun/aeon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ aeonfun/aeon 在生产环境中有很高的可用性，尤其是考虑到其最�
 | forks | 58/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

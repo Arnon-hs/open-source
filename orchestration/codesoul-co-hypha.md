@@ -1,6 +1,6 @@
 # CodeSoul-co/Hypha
 
-[![Stars](https://img.shields.io/github/stars/CodeSoul-co/Hypha?style=flat-square&color=yellow)](https://github.com/CodeSoul-co/Hypha/stargazers) [![Forks](https://img.shields.io/github/forks/CodeSoul-co/Hypha?style=flat-square&color=blue)](https://github.com/CodeSoul-co/Hypha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeSoul-co/Hypha?style=flat-square&color=yellow)](https://github.com/CodeSoul-co/Hypha/stargazers) [![Forks](https://img.shields.io/github/forks/CodeSoul-co/Hypha?style=flat-square&color=blue)](https://github.com/CodeSoul-co/Hypha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Harness-oriented agent system framework for production-grade LLM agent applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Hypha 的生产可用性较高，主要原因是：
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # NotAShelf/microfetch
 
-[![Stars](https://img.shields.io/github/stars/NotAShelf/microfetch?style=flat-square&color=yellow)](https://github.com/NotAShelf/microfetch/stargazers) [![Forks](https://img.shields.io/github/forks/NotAShelf/microfetch?style=flat-square&color=blue)](https://github.com/NotAShelf/microfetch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NotAShelf/microfetch?style=flat-square&color=yellow)](https://github.com/NotAShelf/microfetch/stargazers) [![Forks](https://img.shields.io/github/forks/NotAShelf/microfetch?style=flat-square&color=blue)](https://github.com/NotAShelf/microfetch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Microscopic fetch tool in Rust, for NixOS systems, with special emphasis on speed
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ NotAShelf/microfetch 是一款用 Rust 编写的极简化系统信息获取工�
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

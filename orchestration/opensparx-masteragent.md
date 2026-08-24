@@ -1,6 +1,6 @@
 # OpenSparX/MasterAgent
 
-[![Stars](https://img.shields.io/github/stars/OpenSparX/MasterAgent?style=flat-square&color=yellow)](https://github.com/OpenSparX/MasterAgent/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSparX/MasterAgent?style=flat-square&color=blue)](https://github.com/OpenSparX/MasterAgent/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenSparX/MasterAgent?style=flat-square&color=yellow)](https://github.com/OpenSparX/MasterAgent/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSparX/MasterAgent?style=flat-square&color=blue)](https://github.com/OpenSparX/MasterAgent/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ OpenSparX/MasterAgent：OpenSparX/MasterAgent helps turn isolated prompts and to
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

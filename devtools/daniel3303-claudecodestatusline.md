@@ -1,6 +1,6 @@
 # daniel3303/ClaudeCodeStatusLine
 
-[![Stars](https://img.shields.io/github/stars/daniel3303/ClaudeCodeStatusLine?style=flat-square&color=yellow)](https://github.com/daniel3303/ClaudeCodeStatusLine/stargazers) [![Forks](https://img.shields.io/github/forks/daniel3303/ClaudeCodeStatusLine?style=flat-square&color=blue)](https://github.com/daniel3303/ClaudeCodeStatusLine/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daniel3303/ClaudeCodeStatusLine?style=flat-square&color=yellow)](https://github.com/daniel3303/ClaudeCodeStatusLine/stargazers) [![Forks](https://img.shields.io/github/forks/daniel3303/ClaudeCodeStatusLine?style=flat-square&color=blue)](https://github.com/daniel3303/ClaudeCodeStatusLine/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ daniel3303/ClaudeCodeStatusLine 是一款面向 Claude Code 开发环境的自�
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

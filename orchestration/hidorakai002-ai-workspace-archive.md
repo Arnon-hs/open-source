@@ -1,6 +1,6 @@
 # HIDORAKAI002/ai-workspace-archive
 
-[![Stars](https://img.shields.io/github/stars/HIDORAKAI002/ai-workspace-archive?style=flat-square&color=yellow)](https://github.com/HIDORAKAI002/ai-workspace-archive/stargazers) [![Forks](https://img.shields.io/github/forks/HIDORAKAI002/ai-workspace-archive?style=flat-square&color=blue)](https://github.com/HIDORAKAI002/ai-workspace-archive/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HIDORAKAI002/ai-workspace-archive?style=flat-square&color=yellow)](https://github.com/HIDORAKAI002/ai-workspace-archive/stargazers) [![Forks](https://img.shields.io/github/forks/HIDORAKAI002/ai-workspace-archive?style=flat-square&color=blue)](https://github.com/HIDORAKAI002/ai-workspace-archive/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ HIDORAKAI002/ai-workspace-archive 是一个持续自更新的本地 AI 工具库
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

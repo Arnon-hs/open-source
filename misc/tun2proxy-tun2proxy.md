@@ -1,6 +1,6 @@
 # tun2proxy/tun2proxy
 
-[![Stars](https://img.shields.io/github/stars/tun2proxy/tun2proxy?style=flat-square&color=yellow)](https://github.com/tun2proxy/tun2proxy/stargazers) [![Forks](https://img.shields.io/github/forks/tun2proxy/tun2proxy?style=flat-square&color=blue)](https://github.com/tun2proxy/tun2proxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tun2proxy/tun2proxy?style=flat-square&color=yellow)](https://github.com/tun2proxy/tun2proxy/stargazers) [![Forks](https://img.shields.io/github/forks/tun2proxy/tun2proxy?style=flat-square&color=blue)](https://github.com/tun2proxy/tun2proxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Tunnel (TUN) interface for SOCKS and HTTP proxies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ tun2proxy provides a lightweight userspace TUN interface that forwards all IP tr
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

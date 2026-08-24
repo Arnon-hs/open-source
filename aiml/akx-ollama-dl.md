@@ -1,6 +1,6 @@
 # akx/ollama-dl
 
-[![Stars](https://img.shields.io/github/stars/akx/ollama-dl?style=flat-square&color=yellow)](https://github.com/akx/ollama-dl/stargazers) [![Forks](https://img.shields.io/github/forks/akx/ollama-dl?style=flat-square&color=blue)](https://github.com/akx/ollama-dl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akx/ollama-dl?style=flat-square&color=yellow)](https://github.com/akx/ollama-dl/stargazers) [![Forks](https://img.shields.io/github/forks/akx/ollama-dl?style=flat-square&color=blue)](https://github.com/akx/ollama-dl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Download models from the Ollama library, without Ollama
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ akx/ollama-dl 的生产可用性为中等，适合用于以下场景：
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

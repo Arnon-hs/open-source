@@ -1,6 +1,6 @@
 # juspay/xyne-spaces
 
-[![Stars](https://img.shields.io/github/stars/juspay/xyne-spaces?style=flat-square&color=yellow)](https://github.com/juspay/xyne-spaces/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/xyne-spaces?style=flat-square&color=blue)](https://github.com/juspay/xyne-spaces/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/xyne-spaces?style=flat-square&color=yellow)](https://github.com/juspay/xyne-spaces/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/xyne-spaces?style=flat-square&color=blue)](https://github.com/juspay/xyne-spaces/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Org-OS, a collaborative platform for humans and agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ juspay/xyne-spaces：juspay/xyne-spaces helps remove repetitive manual operation
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

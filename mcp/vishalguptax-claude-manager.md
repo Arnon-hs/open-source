@@ -1,6 +1,6 @@
 # vishalguptax/claude-manager
 
-[![Stars](https://img.shields.io/github/stars/vishalguptax/claude-manager?style=flat-square&color=yellow)](https://github.com/vishalguptax/claude-manager/stargazers) [![Forks](https://img.shields.io/github/forks/vishalguptax/claude-manager?style=flat-square&color=blue)](https://github.com/vishalguptax/claude-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vishalguptax/claude-manager?style=flat-square&color=yellow)](https://github.com/vishalguptax/claude-manager/stargazers) [![Forks](https://img.shields.io/github/forks/vishalguptax/claude-manager?style=flat-square&color=blue)](https://github.com/vishalguptax/claude-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Manager — manage Claude Code sessions, MCP, skills, hooks, agents, accounts & usage from your VS Code sidebar. 100% local.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Claude Manager 是一款 VS Code 侧边栏插件，能够在本地完整管理
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

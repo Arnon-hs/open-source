@@ -1,6 +1,6 @@
 # gamedev-skills/awesome-gamedev-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/gamedev-skills/awesome-gamedev-agent-skills?style=flat-square&color=yellow)](https://github.com/gamedev-skills/awesome-gamedev-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/gamedev-skills/awesome-gamedev-agent-skills?style=flat-square&color=blue)](https://github.com/gamedev-skills/awesome-gamedev-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gamedev-skills/awesome-gamedev-agent-skills?style=flat-square&color=yellow)](https://github.com/gamedev-skills/awesome-gamedev-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/gamedev-skills/awesome-gamedev-agent-skills?style=flat-square&color=blue)](https://github.com/gamedev-skills/awesome-gamedev-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Database · Marketing
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ gamedev-skills/awesome-gamedev-agent-skills 是一个开源项目，提供了一
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

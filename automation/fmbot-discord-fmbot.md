@@ -1,6 +1,6 @@
 # fmbot-discord/fmbot
 
-[![Stars](https://img.shields.io/github/stars/fmbot-discord/fmbot?style=flat-square&color=yellow)](https://github.com/fmbot-discord/fmbot/stargazers) [![Forks](https://img.shields.io/github/forks/fmbot-discord/fmbot?style=flat-square&color=blue)](https://github.com/fmbot-discord/fmbot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fmbot-discord/fmbot?style=flat-square&color=yellow)](https://github.com/fmbot-discord/fmbot/stargazers) [![Forks](https://img.shields.io/github/forks/fmbot-discord/fmbot?style=flat-square&color=blue)](https://github.com/fmbot-discord/fmbot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > .fmbot is a social Discord bot that provides music statistics for you and your friends.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ fmbot has a high production readiness score due to its recent activity, adoption
 | forks | 46/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

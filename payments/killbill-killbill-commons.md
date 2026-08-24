@@ -1,6 +1,6 @@
 # killbill/killbill-commons
 
-[![Stars](https://img.shields.io/github/stars/killbill/killbill-commons?style=flat-square&color=yellow)](https://github.com/killbill/killbill-commons/stargazers) [![Forks](https://img.shields.io/github/forks/killbill/killbill-commons?style=flat-square&color=blue)](https://github.com/killbill/killbill-commons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/killbill/killbill-commons?style=flat-square&color=yellow)](https://github.com/killbill/killbill-commons/stargazers) [![Forks](https://img.shields.io/github/forks/killbill/killbill-commons?style=flat-square&color=blue)](https://github.com/killbill/killbill-commons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Kill Bill reusable Java components
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ killbill/killbill-commons 提供可复用的 Java 组件，帮助快速集成计
 | forks | 45/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

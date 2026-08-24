@@ -1,6 +1,6 @@
 # CommunityToolkit/Aspire
 
-[![Stars](https://img.shields.io/github/stars/CommunityToolkit/Aspire?style=flat-square&color=yellow)](https://github.com/CommunityToolkit/Aspire/stargazers) [![Forks](https://img.shields.io/github/forks/CommunityToolkit/Aspire?style=flat-square&color=blue)](https://github.com/CommunityToolkit/Aspire/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CommunityToolkit/Aspire?style=flat-square&color=yellow)](https://github.com/CommunityToolkit/Aspire/stargazers) [![Forks](https://img.shields.io/github/forks/CommunityToolkit/Aspire?style=flat-square&color=blue)](https://github.com/CommunityToolkit/Aspire/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A community project with additional components and extensions for Aspire
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 619 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ CommunityToolkit/Aspire 是一个社区项目，提供了 Aspire 的额外组件
 | forks | 57/100 |
 | stars | 59/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

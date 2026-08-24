@@ -1,6 +1,6 @@
 # costajohnt/oss-autopilot
 
-[![Stars](https://img.shields.io/github/stars/costajohnt/oss-autopilot?style=flat-square&color=yellow)](https://github.com/costajohnt/oss-autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/costajohnt/oss-autopilot?style=flat-square&color=blue)](https://github.com/costajohnt/oss-autopilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/costajohnt/oss-autopilot?style=flat-square&color=yellow)](https://github.com/costajohnt/oss-autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/costajohnt/oss-autopilot?style=flat-square&color=blue)](https://github.com/costajohnt/oss-autopilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin — AI-powered autopilot for managing open source contributions. Track PRs, respond to maintainers, discover issues, maintain velocity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ costajohnt/oss-autopilot 是一个开源项目，提供了 AI 动力化的自动
 | forks | 15/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

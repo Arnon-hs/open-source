@@ -1,6 +1,6 @@
 # prometheus-community/helm-charts
 
-[![Stars](https://img.shields.io/github/stars/prometheus-community/helm-charts?style=flat-square&color=yellow)](https://github.com/prometheus-community/helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-community/helm-charts?style=flat-square&color=blue)](https://github.com/prometheus-community/helm-charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prometheus-community/helm-charts?style=flat-square&color=yellow)](https://github.com/prometheus-community/helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-community/helm-charts?style=flat-square&color=blue)](https://github.com/prometheus-community/helm-charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus community Helm charts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ prometheus-community/helm‑charts 是 Prometheus 社区维护的 Helm Chart 集
 | forks | 93/100 |
 | stars | 81/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

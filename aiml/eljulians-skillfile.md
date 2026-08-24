@@ -1,6 +1,6 @@
 # eljulians/skillfile
 
-[![Stars](https://img.shields.io/github/stars/eljulians/skillfile?style=flat-square&color=yellow)](https://github.com/eljulians/skillfile/stargazers) [![Forks](https://img.shields.io/github/forks/eljulians/skillfile?style=flat-square&color=blue)](https://github.com/eljulians/skillfile/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eljulians/skillfile?style=flat-square&color=yellow)](https://github.com/eljulians/skillfile/stargazers) [![Forks](https://img.shields.io/github/forks/eljulians/skillfile?style=flat-square&color=blue)](https://github.com/eljulians/skillfile/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy across all major AI coding tools (Claude Code, Codex, Cursor, Antigravity and more)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ eljulians/skillfile 是一个“一站式”AI 技能与代理库，收录 110K+
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

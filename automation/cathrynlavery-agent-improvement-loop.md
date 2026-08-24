@@ -1,6 +1,6 @@
 # cathrynlavery/agent-improvement-loop
 
-[![Stars](https://img.shields.io/github/stars/cathrynlavery/agent-improvement-loop?style=flat-square&color=yellow)](https://github.com/cathrynlavery/agent-improvement-loop/stargazers) [![Forks](https://img.shields.io/github/forks/cathrynlavery/agent-improvement-loop?style=flat-square&color=blue)](https://github.com/cathrynlavery/agent-improvement-loop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cathrynlavery/agent-improvement-loop?style=flat-square&color=yellow)](https://github.com/cathrynlavery/agent-improvement-loop/stargazers) [![Forks](https://img.shields.io/github/forks/cathrynlavery/agent-improvement-loop?style=flat-square&color=blue)](https://github.com/cathrynlavery/agent-improvement-loop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Local session-mining loop for staging AI agent improvements and public-safe content ideas
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ cathrynlavery/agent-improvement-loop 的主要价值在于帮助减少工作流�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

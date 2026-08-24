@@ -1,6 +1,6 @@
 # Untru/1c-mcp
 
-[![Stars](https://img.shields.io/github/stars/Untru/1c-mcp?style=flat-square&color=yellow)](https://github.com/Untru/1c-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Untru/1c-mcp?style=flat-square&color=blue)](https://github.com/Untru/1c-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Untru/1c-mcp?style=flat-square&color=yellow)](https://github.com/Untru/1c-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Untru/1c-mcp?style=flat-square&color=blue)](https://github.com/Untru/1c-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ Untru/1c-mcp 提供了一个精选的 MCP（Model Context Protocol）服务器�
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

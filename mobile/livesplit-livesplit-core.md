@@ -1,6 +1,6 @@
 # LiveSplit/livesplit-core
 
-[![Stars](https://img.shields.io/github/stars/LiveSplit/livesplit-core?style=flat-square&color=yellow)](https://github.com/LiveSplit/livesplit-core/stargazers) [![Forks](https://img.shields.io/github/forks/LiveSplit/livesplit-core?style=flat-square&color=blue)](https://github.com/LiveSplit/livesplit-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LiveSplit/livesplit-core?style=flat-square&color=yellow)](https://github.com/LiveSplit/livesplit-core/stargazers) [![Forks](https://img.shields.io/github/forks/LiveSplit/livesplit-core?style=flat-square&color=blue)](https://github.com/LiveSplit/livesplit-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ LiveSplit/livesplit-core 的生产可用性为中等。它适合用于原型验�
 | forks | 47/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tinted-theming/tinty
 
-[![Stars](https://img.shields.io/github/stars/tinted-theming/tinty?style=flat-square&color=yellow)](https://github.com/tinted-theming/tinty/stargazers) [![Forks](https://img.shields.io/github/forks/tinted-theming/tinty?style=flat-square&color=blue)](https://github.com/tinted-theming/tinty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinted-theming/tinty?style=flat-square&color=yellow)](https://github.com/tinted-theming/tinty/stargazers) [![Forks](https://img.shields.io/github/forks/tinted-theming/tinty?style=flat-square&color=blue)](https://github.com/tinted-theming/tinty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A base16 and base24 color scheme manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 198 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ tinty 的生产可用性为中等（Medium），适合用于原型或内部工�
 | forks | 28/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

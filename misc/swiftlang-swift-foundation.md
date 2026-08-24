@@ -1,6 +1,6 @@
 # swiftlang/swift-foundation
 
-[![Stars](https://img.shields.io/github/stars/swiftlang/swift-foundation?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-foundation/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-foundation?style=flat-square&color=blue)](https://github.com/swiftlang/swift-foundation/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swiftlang/swift-foundation?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-foundation/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-foundation?style=flat-square&color=blue)](https://github.com/swiftlang/swift-foundation/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The Foundation project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Swiftlang/swift-foundation 在生产环境中可用性为中等。它可以用�
 | forks | 60/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

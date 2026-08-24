@@ -1,6 +1,6 @@
 # freema/openclaw-mcp
 
-[![Stars](https://img.shields.io/github/stars/freema/openclaw-mcp?style=flat-square&color=yellow)](https://github.com/freema/openclaw-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/freema/openclaw-mcp?style=flat-square&color=blue)](https://github.com/freema/openclaw-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freema/openclaw-mcp?style=flat-square&color=yellow)](https://github.com/freema/openclaw-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/freema/openclaw-mcp?style=flat-square&color=blue)](https://github.com/freema/openclaw-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🦞 MCP server for OpenClaw - secure bridge between Claude.ai and your self-hosted OpenClaw assistant with OAuth2 authentication
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevOps/Infra · Security
+MCP · Backend · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ freema/openclaw-mcp 具有高生产可用性，主要原因是：
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

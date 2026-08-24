@@ -1,6 +1,6 @@
 # scgopi/GraphCode
 
-[![Stars](https://img.shields.io/github/stars/scgopi/GraphCode?style=flat-square&color=yellow)](https://github.com/scgopi/GraphCode/stargazers) [![Forks](https://img.shields.io/github/forks/scgopi/GraphCode?style=flat-square&color=blue)](https://github.com/scgopi/GraphCode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scgopi/GraphCode?style=flat-square&color=yellow)](https://github.com/scgopi/GraphCode/stargazers) [![Forks](https://img.shields.io/github/forks/scgopi/GraphCode?style=flat-square&color=blue)](https://github.com/scgopi/GraphCode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Your coding agents, wired together: hand-offs, loops, and work that continues without you. #graphcode
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ GraphCode 的生产可用性为中等。它适合用于原型开发和内部工�
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

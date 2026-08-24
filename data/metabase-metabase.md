@@ -1,6 +1,6 @@
 # metabase/metabase
 
-[![Stars](https://img.shields.io/github/stars/metabase/metabase?style=flat-square&color=yellow)](https://github.com/metabase/metabase/stargazers) [![Forks](https://img.shields.io/github/forks/metabase/metabase?style=flat-square&color=blue)](https://github.com/metabase/metabase/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metabase/metabase?style=flat-square&color=yellow)](https://github.com/metabase/metabase/stargazers) [![Forks](https://img.shields.io/github/forks/metabase/metabase?style=flat-square&color=blue)](https://github.com/metabase/metabase/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47.8k |
 | 🍴 **Forks** | 6.6k |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Metabase 是一款易用的开源商业智能与嵌入式分析平台，帮助�
 | forks | 95/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 84/100 |
+| recency | 40/100 |
 | adoption | 98/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # oscardvs/zoteus
 
-[![Stars](https://img.shields.io/github/stars/oscardvs/zoteus?style=flat-square&color=yellow)](https://github.com/oscardvs/zoteus/stargazers) [![Forks](https://img.shields.io/github/forks/oscardvs/zoteus?style=flat-square&color=blue)](https://github.com/oscardvs/zoteus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oscardvs/zoteus?style=flat-square&color=yellow)](https://github.com/oscardvs/zoteus/stargazers) [![Forks](https://img.shields.io/github/forks/oscardvs/zoteus?style=flat-square&color=blue)](https://github.com/oscardvs/zoteus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ The everything Zotero MCP server: complete Zotero Web API v3 + desktop local API for Claude & any MCP client. Search, safe writes, add-by-DOI, CSL citations, hybrid semantic search, and a scholarly-context graph. TypeScript, local-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Backend · DevTools
+MCP · Knowledge/RAG · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ oscardvs/zoteus 的生产可用性很高，具有以下特点：
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

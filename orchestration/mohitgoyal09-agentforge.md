@@ -1,6 +1,6 @@
 # MohitGoyal09/AgentForge
 
-[![Stars](https://img.shields.io/github/stars/MohitGoyal09/AgentForge?style=flat-square&color=yellow)](https://github.com/MohitGoyal09/AgentForge/stargazers) [![Forks](https://img.shields.io/github/forks/MohitGoyal09/AgentForge?style=flat-square&color=blue)](https://github.com/MohitGoyal09/AgentForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MohitGoyal09/AgentForge?style=flat-square&color=yellow)](https://github.com/MohitGoyal09/AgentForge/stargazers) [![Forks](https://img.shields.io/github/forks/MohitGoyal09/AgentForge?style=flat-square&color=blue)](https://github.com/MohitGoyal09/AgentForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ MohitGoyal09/AgentForge 是一个开源的终端 AI 编码代理框架，专注�
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

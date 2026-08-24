@@ -1,6 +1,6 @@
 # tokio-rs/axum
 
-[![Stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&color=yellow)](https://github.com/tokio-rs/axum/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/axum?style=flat-square&color=blue)](https://github.com/tokio-rs/axum/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&color=yellow)](https://github.com/tokio-rs/axum/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/axum?style=flat-square&color=blue)](https://github.com/tokio-rs/axum/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ tokio-rs/axum 的生产可用性为高（High），因为项目具有以下特�
 | forks | 79/100 |
 | stars | 94/100 |
 | topics | 38/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

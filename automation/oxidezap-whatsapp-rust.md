@@ -1,6 +1,6 @@
 # oxidezap/whatsapp-rust
 
-[![Stars](https://img.shields.io/github/stars/oxidezap/whatsapp-rust?style=flat-square&color=yellow)](https://github.com/oxidezap/whatsapp-rust/stargazers) [![Forks](https://img.shields.io/github/forks/oxidezap/whatsapp-rust?style=flat-square&color=blue)](https://github.com/oxidezap/whatsapp-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxidezap/whatsapp-rust?style=flat-square&color=yellow)](https://github.com/oxidezap/whatsapp-rust/stargazers) [![Forks](https://img.shields.io/github/forks/oxidezap/whatsapp-rust?style=flat-square&color=blue)](https://github.com/oxidezap/whatsapp-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Whatsapp client written purely in Rust based on whatsmeow and baileys
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ oxidezap/whatsapp-rust 是一个纯 Rust 编写的 WhatsApp 客户端，底层�
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

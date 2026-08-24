@@ -1,6 +1,6 @@
 # cjmellor/level-up
 
-[![Stars](https://img.shields.io/github/stars/cjmellor/level-up?style=flat-square&color=yellow)](https://github.com/cjmellor/level-up/stargazers) [![Forks](https://img.shields.io/github/forks/cjmellor/level-up?style=flat-square&color=blue)](https://github.com/cjmellor/level-up/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cjmellor/level-up?style=flat-square&color=yellow)](https://github.com/cjmellor/level-up/stargazers) [![Forks](https://img.shields.io/github/forks/cjmellor/level-up?style=flat-square&color=blue)](https://github.com/cjmellor/level-up/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Level-Up is a Laravel package introducing gamification into your applications. Users earn experience points (XP) and levels through interactions, while also unlocking achievements. It promotes engagement, competition, and fun through its dynamic leaderboard feature. Customisable to fit your specific needs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ Level-Up 的生产可用性为中等。它适合用于原型或内部工作流�
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

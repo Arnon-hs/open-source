@@ -1,6 +1,6 @@
 # Consensys/teku
 
-[![Stars](https://img.shields.io/github/stars/Consensys/teku?style=flat-square&color=yellow)](https://github.com/Consensys/teku/stargazers) [![Forks](https://img.shields.io/github/forks/Consensys/teku?style=flat-square&color=blue)](https://github.com/Consensys/teku/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Consensys/teku?style=flat-square&color=yellow)](https://github.com/Consensys/teku/stargazers) [![Forks](https://img.shields.io/github/forks/Consensys/teku?style=flat-square&color=blue)](https://github.com/Consensys/teku/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Open-source Ethereum consensus client written in Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 777 |
 | 🍴 **Forks** | 381 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Consensys/teku 的生产可用性很高。它具有以下特点：
 | forks | 65/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

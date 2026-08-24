@@ -1,6 +1,6 @@
 # Owl-Listener/designer-skills
 
-[![Stars](https://img.shields.io/github/stars/Owl-Listener/designer-skills?style=flat-square&color=yellow)](https://github.com/Owl-Listener/designer-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Owl-Listener/designer-skills?style=flat-square&color=blue)](https://github.com/Owl-Listener/designer-skills/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Owl-Listener/designer-skills?style=flat-square&color=yellow)](https://github.com/Owl-Listener/designer-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Owl-Listener/designer-skills?style=flat-square&color=blue)](https://github.com/Owl-Listener/designer-skills/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Owl-Listener/designer-skills 的生产可用性很高，原因有以下几点：
 | forks | 63/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

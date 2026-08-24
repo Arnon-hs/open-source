@@ -1,6 +1,6 @@
 # endink/Mediapipe4u-plugin
 
-[![Stars](https://img.shields.io/github/stars/endink/Mediapipe4u-plugin?style=flat-square&color=yellow)](https://github.com/endink/Mediapipe4u-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/endink/Mediapipe4u-plugin?style=flat-square&color=blue)](https://github.com/endink/Mediapipe4u-plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endink/Mediapipe4u-plugin?style=flat-square&color=yellow)](https://github.com/endink/Mediapipe4u-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/endink/Mediapipe4u-plugin?style=flat-square&color=blue)](https://github.com/endink/Mediapipe4u-plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ endink/Mediapipe4u-plugin 是一个开源项目，旨在帮助用户在不从零
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

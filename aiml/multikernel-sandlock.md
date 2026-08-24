@@ -1,6 +1,6 @@
 # multikernel/sandlock
 
-[![Stars](https://img.shields.io/github/stars/multikernel/sandlock?style=flat-square&color=yellow)](https://github.com/multikernel/sandlock/stargazers) [![Forks](https://img.shields.io/github/forks/multikernel/sandlock?style=flat-square&color=blue)](https://github.com/multikernel/sandlock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multikernel/sandlock?style=flat-square&color=yellow)](https://github.com/multikernel/sandlock/stargazers) [![Forks](https://img.shields.io/github/forks/multikernel/sandlock?style=flat-square&color=blue)](https://github.com/multikernel/sandlock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no root.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ multikernel/sandlock 是一个极简的 AI 沙箱，实现方式基于 Linux 进
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

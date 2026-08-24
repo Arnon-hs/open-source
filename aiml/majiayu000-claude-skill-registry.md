@@ -1,6 +1,6 @@
 # majiayu000/claude-skill-registry
 
-[![Stars](https://img.shields.io/github/stars/majiayu000/claude-skill-registry?style=flat-square&color=yellow)](https://github.com/majiayu000/claude-skill-registry/stargazers) [![Forks](https://img.shields.io/github/forks/majiayu000/claude-skill-registry?style=flat-square&color=blue)](https://github.com/majiayu000/claude-skill-registry/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/majiayu000/claude-skill-registry?style=flat-square&color=yellow)](https://github.com/majiayu000/claude-skill-registry/stargazers) [![Forks](https://img.shields.io/github/forks/majiayu000/claude-skill-registry?style=flat-square&color=blue)](https://github.com/majiayu000/claude-skill-registry/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The most comprehensive Claude Code skills registry | Web Search: https://majiayu000.github.io/claude-skill-registry-core/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 556 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ majiayu000/claude-skill-registry 的生产可用性为中等。它适用于以�
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # shinpr/mcp-local-rag
 
-[![Stars](https://img.shields.io/github/stars/shinpr/mcp-local-rag?style=flat-square&color=yellow)](https://github.com/shinpr/mcp-local-rag/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/mcp-local-rag?style=flat-square&color=blue)](https://github.com/shinpr/mcp-local-rag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinpr/mcp-local-rag?style=flat-square&color=yellow)](https://github.com/shinpr/mcp-local-rag/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/mcp-local-rag?style=flat-square&color=blue)](https://github.com/shinpr/mcp-local-rag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ shinpr/mcp‑local‑rag 是面向开发者的本地化 RAG（检索增强生成
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

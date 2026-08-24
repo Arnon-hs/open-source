@@ -1,6 +1,6 @@
 # couchbase/sync_gateway
 
-[![Stars](https://img.shields.io/github/stars/couchbase/sync_gateway?style=flat-square&color=yellow)](https://github.com/couchbase/sync_gateway/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/sync_gateway?style=flat-square&color=blue)](https://github.com/couchbase/sync_gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/couchbase/sync_gateway?style=flat-square&color=yellow)](https://github.com/couchbase/sync_gateway/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/sync_gateway?style=flat-square&color=blue)](https://github.com/couchbase/sync_gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Manages access and synchronization between Couchbase Lite and Couchbase Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ couchbase/sync_gateway 在生产环境中具有较高的可用性。它有活跃
 | forks | 54/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

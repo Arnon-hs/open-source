@@ -1,6 +1,6 @@
 # coji/natural-japanese
 
-[![Stars](https://img.shields.io/github/stars/coji/natural-japanese?style=flat-square&color=yellow)](https://github.com/coji/natural-japanese/stargazers) [![Forks](https://img.shields.io/github/forks/coji/natural-japanese?style=flat-square&color=blue)](https://github.com/coji/natural-japanese/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coji/natural-japanese?style=flat-square&color=yellow)](https://github.com/coji/natural-japanese/stargazers) [![Forks](https://img.shields.io/github/forks/coji/natural-japanese?style=flat-square&color=blue)](https://github.com/coji/natural-japanese/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ coji/natural‑japanese 是一个 Agent Skill，能够把零散的提示和工�
 | forks | 15/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # penecho/penecho
 
-[![Stars](https://img.shields.io/github/stars/penecho/penecho?style=flat-square&color=yellow)](https://github.com/penecho/penecho/stargazers) [![Forks](https://img.shields.io/github/forks/penecho/penecho?style=flat-square&color=blue)](https://github.com/penecho/penecho/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/penecho/penecho?style=flat-square&color=yellow)](https://github.com/penecho/penecho/stargazers) [![Forks](https://img.shields.io/github/forks/penecho/penecho?style=flat-square&color=blue)](https://github.com/penecho/penecho/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 435 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ penecho/penecho 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

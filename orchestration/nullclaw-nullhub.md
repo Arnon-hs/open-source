@@ -1,6 +1,6 @@
 # nullclaw/nullhub
 
-[![Stars](https://img.shields.io/github/stars/nullclaw/nullhub?style=flat-square&color=yellow)](https://github.com/nullclaw/nullhub/stargazers) [![Forks](https://img.shields.io/github/forks/nullclaw/nullhub?style=flat-square&color=blue)](https://github.com/nullclaw/nullhub/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nullclaw/nullhub?style=flat-square&color=yellow)](https://github.com/nullclaw/nullhub/stargazers) [![Forks](https://img.shields.io/github/forks/nullclaw/nullhub?style=flat-square&color=blue)](https://github.com/nullclaw/nullhub/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 653 |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Nullclaw/nullhub 的生产可用性为中等。它适合用于原型或内部工
 | forks | 55/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

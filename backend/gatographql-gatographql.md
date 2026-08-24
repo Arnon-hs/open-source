@@ -1,6 +1,6 @@
 # GatoGraphQL/GatoGraphQL
 
-[![Stars](https://img.shields.io/github/stars/GatoGraphQL/GatoGraphQL?style=flat-square&color=yellow)](https://github.com/GatoGraphQL/GatoGraphQL/stargazers) [![Forks](https://img.shields.io/github/forks/GatoGraphQL/GatoGraphQL?style=flat-square&color=blue)](https://github.com/GatoGraphQL/GatoGraphQL/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GatoGraphQL/GatoGraphQL?style=flat-square&color=yellow)](https://github.com/GatoGraphQL/GatoGraphQL/stargazers) [![Forks](https://img.shields.io/github/forks/GatoGraphQL/GatoGraphQL?style=flat-square&color=blue)](https://github.com/GatoGraphQL/GatoGraphQL/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Interact with all your data in WordPress using GraphQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ GatoGraphQL 为 WordPress 提供原生 GraphQL 接口，让开发者可以像查
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

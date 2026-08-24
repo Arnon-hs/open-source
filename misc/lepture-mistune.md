@@ -1,6 +1,6 @@
 # lepture/mistune
 
-[![Stars](https://img.shields.io/github/stars/lepture/mistune?style=flat-square&color=yellow)](https://github.com/lepture/mistune/stargazers) [![Forks](https://img.shields.io/github/forks/lepture/mistune?style=flat-square&color=blue)](https://github.com/lepture/mistune/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lepture/mistune?style=flat-square&color=yellow)](https://github.com/lepture/mistune/stargazers) [![Forks](https://img.shields.io/github/forks/lepture/mistune?style=flat-square&color=blue)](https://github.com/lepture/mistune/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A fast yet powerful Python Markdown parser with renderers and plugins.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 291 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ lepture/mistune 的生产可用性非常高，它有活跃的维护者，持续�
 | forks | 62/100 |
 | stars | 74/100 |
 | topics | 13/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 76/100 |
-| usefulness | 42/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

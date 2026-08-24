@@ -1,6 +1,6 @@
 # weifuwan/seatunnel-web
 
-[![Stars](https://img.shields.io/github/stars/weifuwan/seatunnel-web?style=flat-square&color=yellow)](https://github.com/weifuwan/seatunnel-web/stargazers) [![Forks](https://img.shields.io/github/forks/weifuwan/seatunnel-web?style=flat-square&color=blue)](https://github.com/weifuwan/seatunnel-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weifuwan/seatunnel-web?style=flat-square&color=yellow)](https://github.com/weifuwan/seatunnel-web/stargazers) [![Forks](https://img.shields.io/github/forks/weifuwan/seatunnel-web?style=flat-square&color=blue)](https://github.com/weifuwan/seatunnel-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Making Apache SeaTunnel easier to use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ weifuwan/seatunnel-web 在生产环境中的可用性非常高。项目最近有
 | forks | 54/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

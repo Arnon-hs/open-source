@@ -1,6 +1,6 @@
 # cisagov/ScubaGear
 
-[![Stars](https://img.shields.io/github/stars/cisagov/ScubaGear?style=flat-square&color=yellow)](https://github.com/cisagov/ScubaGear/stargazers) [![Forks](https://img.shields.io/github/forks/cisagov/ScubaGear?style=flat-square&color=blue)](https://github.com/cisagov/ScubaGear/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cisagov/ScubaGear?style=flat-square&color=yellow)](https://github.com/cisagov/ScubaGear/stargazers) [![Forks](https://img.shields.io/github/forks/cisagov/ScubaGear?style=flat-square&color=blue)](https://github.com/cisagov/ScubaGear/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Automation to assess the state of your M365 tenant against CISA's baselines
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 375 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ cisagov/ScubaGear 的生产可用性较高，主要原因是：
 | forks | 64/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

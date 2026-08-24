@@ -1,6 +1,6 @@
 # realjaymes/marketingagentskills
 
-[![Stars](https://img.shields.io/github/stars/realjaymes/marketingagentskills?style=flat-square&color=yellow)](https://github.com/realjaymes/marketingagentskills/stargazers) [![Forks](https://img.shields.io/github/forks/realjaymes/marketingagentskills?style=flat-square&color=blue)](https://github.com/realjaymes/marketingagentskills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/realjaymes/marketingagentskills?style=flat-square&color=yellow)](https://github.com/realjaymes/marketingagentskills/stargazers) [![Forks](https://img.shields.io/github/forks/realjaymes/marketingagentskills?style=flat-square&color=blue)](https://github.com/realjaymes/marketingagentskills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 28 AI agent skills for marketing tasks, built for Claude Code and similar AI coding assistants
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Marketing
+Orchestration · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ realjaymes/marketingagentskills：realjaymes/marketingagentskills helps turn iso
 | forks | 30/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

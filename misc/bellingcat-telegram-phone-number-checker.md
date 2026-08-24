@@ -1,6 +1,6 @@
 # bellingcat/telegram-phone-number-checker
 
-[![Stars](https://img.shields.io/github/stars/bellingcat/telegram-phone-number-checker?style=flat-square&color=yellow)](https://github.com/bellingcat/telegram-phone-number-checker/stargazers) [![Forks](https://img.shields.io/github/forks/bellingcat/telegram-phone-number-checker?style=flat-square&color=blue)](https://github.com/bellingcat/telegram-phone-number-checker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bellingcat/telegram-phone-number-checker?style=flat-square&color=yellow)](https://github.com/bellingcat/telegram-phone-number-checker/stargazers) [![Forks](https://img.shields.io/github/forks/bellingcat/telegram-phone-number-checker?style=flat-square&color=blue)](https://github.com/bellingcat/telegram-phone-number-checker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Check if phone numbers are connected to Telegram accounts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ bellingcat/telegram-phone-number-checker：bellingcat/telegram-phone-number-chec
 | forks | 61/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

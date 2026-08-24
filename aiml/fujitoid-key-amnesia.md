@@ -1,6 +1,6 @@
 # fujitoid/key-amnesia
 
-[![Stars](https://img.shields.io/github/stars/fujitoid/key-amnesia?style=flat-square&color=yellow)](https://github.com/fujitoid/key-amnesia/stargazers) [![Forks](https://img.shields.io/github/forks/fujitoid/key-amnesia?style=flat-square&color=blue)](https://github.com/fujitoid/key-amnesia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fujitoid/key-amnesia?style=flat-square&color=yellow)](https://github.com/fujitoid/key-amnesia/stargazers) [![Forks](https://img.shields.io/github/forks/fujitoid/key-amnesia?style=flat-square&color=blue)](https://github.com/fujitoid/key-amnesia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Let your AI agent use your passwords and API keys - without ever letting it see them
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Security
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ fujitoid/key-amnesia：fujitoid/key-amnesia helps add AI capability without star
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

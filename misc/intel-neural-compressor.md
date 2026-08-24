@@ -1,0 +1,83 @@
+# intel/neural-compressor
+
+[![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=flat-square&color=yellow)](https://github.com/intel/neural-compressor/stargazers) [![Forks](https://img.shields.io/github/forks/intel/neural-compressor?style=flat-square&color=blue)](https://github.com/intel/neural-compressor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.7k |
+| 🍴 **Forks** | 320 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`auto-tuning` `awq` `fp4` `gptq` `int4` `int8` `knowledge-distillation` `large-language-models` `low-precision` `mxformat` `post-training-quantization` `pruning`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+intel/neural-compressor: intel/neural-compressor helps research and automate market workflows.. Use it for research trading systems; backtest strategies. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+intel/neural-compressor: open-source проект в категориях Trading, AI/ML, Database. Практическое применение: research trading systems; backtest strategies. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+intel/neural-compressor：intel/neural-compressor helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** intel/neural-compressor helps research and automate market workflows.
+
+**Best use cases**
+
+- research trading systems
+- backtest strategies
+- monitor market workflows
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 2697 GitHub stars
+- 320 forks
+- updated 2026-08-18
+- primary language: Python
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 63/100 |
+| stars | 73/100 |
+| topics | 100/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
+| adoption | 70/100 |
+| production | 72/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-08-18 · [View on GitHub](https://github.com/intel/neural-compressor) · [← Back to Misc](./README.md)</sub>

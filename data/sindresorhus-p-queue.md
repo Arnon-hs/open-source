@@ -1,6 +1,6 @@
 # sindresorhus/p-queue
 
-[![Stars](https://img.shields.io/github/stars/sindresorhus/p-queue?style=flat-square&color=yellow)](https://github.com/sindresorhus/p-queue/stargazers) [![Forks](https://img.shields.io/github/forks/sindresorhus/p-queue?style=flat-square&color=blue)](https://github.com/sindresorhus/p-queue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sindresorhus/p-queue?style=flat-square&color=yellow)](https://github.com/sindresorhus/p-queue/stargazers) [![Forks](https://img.shields.io/github/forks/sindresorhus/p-queue?style=flat-square&color=blue)](https://github.com/sindresorhus/p-queue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Promise queue with concurrency control
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ await queue.add(() => fetchData(id));   // fetchData 返回 Promise
 | forks | 58/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

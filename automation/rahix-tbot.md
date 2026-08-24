@@ -1,6 +1,6 @@
 # Rahix/tbot
 
-[![Stars](https://img.shields.io/github/stars/Rahix/tbot?style=flat-square&color=yellow)](https://github.com/Rahix/tbot/stargazers) [![Forks](https://img.shields.io/github/forks/Rahix/tbot?style=flat-square&color=blue)](https://github.com/Rahix/tbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rahix/tbot?style=flat-square&color=yellow)](https://github.com/Rahix/tbot/stargazers) [![Forks](https://img.shields.io/github/forks/Rahix/tbot?style=flat-square&color=blue)](https://github.com/Rahix/tbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Automation/Testing tool for Embedded Linux Development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Rahix/tbot：Rahix/tbot helps remove repetitive manual operations from a workflo
 | forks | 36/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Mng-dev-ai/agentrove
 
-[![Stars](https://img.shields.io/github/stars/Mng-dev-ai/agentrove?style=flat-square&color=yellow)](https://github.com/Mng-dev-ai/agentrove/stargazers) [![Forks](https://img.shields.io/github/forks/Mng-dev-ai/agentrove?style=flat-square&color=blue)](https://github.com/Mng-dev-ai/agentrove/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mng-dev-ai/agentrove?style=flat-square&color=yellow)](https://github.com/Mng-dev-ai/agentrove/stargazers) [![Forks](https://img.shields.io/github/forks/Mng-dev-ai/agentrove?style=flat-square&color=blue)](https://github.com/Mng-dev-ai/agentrove/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI coding workspace for Claude Code, Codex, Copilot, Cursor, and OpenCode, with ACP-powered sandboxes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Agentrove 的生产可用性较高，主要原因是其最近的更新、强大�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # fivetran/dbt_stripe
 
-[![Stars](https://img.shields.io/github/stars/fivetran/dbt_stripe?style=flat-square&color=yellow)](https://github.com/fivetran/dbt_stripe/stargazers) [![Forks](https://img.shields.io/github/forks/fivetran/dbt_stripe?style=flat-square&color=blue)](https://github.com/fivetran/dbt_stripe/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fivetran/dbt_stripe?style=flat-square&color=yellow)](https://github.com/fivetran/dbt_stripe/stargazers) [![Forks](https://img.shields.io/github/forks/fivetran/dbt_stripe?style=flat-square&color=blue)](https://github.com/fivetran/dbt_stripe/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Data models for Stripe built using dbt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Data
+Payments
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ fivetran/dbt_stripe 是一套基于 dbt 的开源数据模型，专门用于把 
 | forks | 40/100 |
 | stars | 38/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 69/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

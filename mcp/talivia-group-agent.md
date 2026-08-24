@@ -1,6 +1,6 @@
 # talivia-group/agent
 
-[![Stars](https://img.shields.io/github/stars/talivia-group/agent?style=flat-square&color=yellow)](https://github.com/talivia-group/agent/stargazers) [![Forks](https://img.shields.io/github/forks/talivia-group/agent?style=flat-square&color=blue)](https://github.com/talivia-group/agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/talivia-group/agent?style=flat-square&color=yellow)](https://github.com/talivia-group/agent/stargazers) [![Forks](https://img.shields.io/github/forks/talivia-group/agent?style=flat-square&color=blue)](https://github.com/talivia-group/agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Revenue-first website analytics installed and verified by AI agents through MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ talivia-group/agent 是一个开源项目，旨在通过 MCP（Model Context Pro
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

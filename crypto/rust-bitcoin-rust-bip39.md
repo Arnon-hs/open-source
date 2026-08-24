@@ -1,6 +1,6 @@
 # rust-bitcoin/rust-bip39
 
-[![Stars](https://img.shields.io/github/stars/rust-bitcoin/rust-bip39?style=flat-square&color=yellow)](https://github.com/rust-bitcoin/rust-bip39/stargazers) [![Forks](https://img.shields.io/github/forks/rust-bitcoin/rust-bip39?style=flat-square&color=blue)](https://github.com/rust-bitcoin/rust-bip39/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-bitcoin/rust-bip39?style=flat-square&color=yellow)](https://github.com/rust-bitcoin/rust-bip39/stargazers) [![Forks](https://img.shields.io/github/forks/rust-bitcoin/rust-bip39?style=flat-square&color=blue)](https://github.com/rust-bitcoin/rust-bip39/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust library for working with Bitcoin BIP-39 mnemonics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ rust-bitcoin/rust-bip39：rust-bitcoin/rust-bip39 helps prototype or inspect blo
 | forks | 46/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

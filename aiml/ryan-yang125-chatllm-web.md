@@ -1,6 +1,6 @@
 # Ryan-yang125/ChatLLM-Web
 
-[![Stars](https://img.shields.io/github/stars/Ryan-yang125/ChatLLM-Web?style=flat-square&color=yellow)](https://github.com/Ryan-yang125/ChatLLM-Web/stargazers) [![Forks](https://img.shields.io/github/forks/Ryan-yang125/ChatLLM-Web?style=flat-square&color=blue)](https://github.com/Ryan-yang125/ChatLLM-Web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ryan-yang125/ChatLLM-Web?style=flat-square&color=yellow)](https://github.com/Ryan-yang125/ChatLLM-Web/stargazers) [![Forks](https://img.shields.io/github/forks/Ryan-yang125/ChatLLM-Web?style=flat-square&color=blue)](https://github.com/Ryan-yang125/ChatLLM-Web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Private local model studio and browser-native AI chat powered by WebGPU and WebLLM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Ryan-yang125/ChatLLM-Web 的生产可用性较高，主要原因是：
 | forks | 42/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

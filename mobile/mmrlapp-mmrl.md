@@ -1,6 +1,6 @@
 # MMRLApp/MMRL
 
-[![Stars](https://img.shields.io/github/stars/MMRLApp/MMRL?style=flat-square&color=yellow)](https://github.com/MMRLApp/MMRL/stargazers) [![Forks](https://img.shields.io/github/forks/MMRLApp/MMRL?style=flat-square&color=blue)](https://github.com/MMRLApp/MMRL/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MMRLApp/MMRL?style=flat-square&color=yellow)](https://github.com/MMRLApp/MMRL/stargazers) [![Forks](https://img.shields.io/github/forks/MMRLApp/MMRL?style=flat-square&color=blue)](https://github.com/MMRLApp/MMRL/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A app for managing, sharing, and exploring Magisk modules across repositories
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ MMRLApp/MMRL 是一款基于 Kotlin 的 Android 客户端，专注于 **管理�
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # chevereto/chevereto
 
-[![Stars](https://img.shields.io/github/stars/chevereto/chevereto?style=flat-square&color=yellow)](https://github.com/chevereto/chevereto/stargazers) [![Forks](https://img.shields.io/github/forks/chevereto/chevereto?style=flat-square&color=blue)](https://github.com/chevereto/chevereto/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chevereto/chevereto?style=flat-square&color=yellow)](https://github.com/chevereto/chevereto/stargazers) [![Forks](https://img.shields.io/github/forks/chevereto/chevereto?style=flat-square&color=blue)](https://github.com/chevereto/chevereto/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The mature, battle-tested, high-end, OG self-hosted image and video hosting solution trusted since 2007. Build your own Flickr / Imgur media sharing platform with complete control over your content, data, and platform rules.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 940 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · DevTools · Data
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -70,14 +70,15 @@ Let's craft: "Chevereto 是一款成熟的自托管图片和视频托管方案�
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

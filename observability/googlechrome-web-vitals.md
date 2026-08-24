@@ -1,6 +1,6 @@
 # GoogleChrome/web-vitals
 
-[![Stars](https://img.shields.io/github/stars/GoogleChrome/web-vitals?style=flat-square&color=yellow)](https://github.com/GoogleChrome/web-vitals/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleChrome/web-vitals?style=flat-square&color=blue)](https://github.com/GoogleChrome/web-vitals/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleChrome/web-vitals?style=flat-square&color=yellow)](https://github.com/GoogleChrome/web-vitals/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleChrome/web-vitals?style=flat-square&color=blue)](https://github.com/GoogleChrome/web-vitals/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Essential metrics for a healthy site.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 520 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ GoogleChrome/web-vitals 是一个开源项目，提供了网站健康度的关�
 | forks | 68/100 |
 | stars | 84/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

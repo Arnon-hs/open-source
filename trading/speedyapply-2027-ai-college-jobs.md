@@ -1,6 +1,6 @@
 # speedyapply/2027-AI-College-Jobs
 
-[![Stars](https://img.shields.io/github/stars/speedyapply/2027-AI-College-Jobs?style=flat-square&color=yellow)](https://github.com/speedyapply/2027-AI-College-Jobs/stargazers) [![Forks](https://img.shields.io/github/forks/speedyapply/2027-AI-College-Jobs?style=flat-square&color=blue)](https://github.com/speedyapply/2027-AI-College-Jobs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/speedyapply/2027-AI-College-Jobs?style=flat-square&color=yellow)](https://github.com/speedyapply/2027-AI-College-Jobs/stargazers) [![Forks](https://img.shields.io/github/forks/speedyapply/2027-AI-College-Jobs?style=flat-square&color=blue)](https://github.com/speedyapply/2027-AI-College-Jobs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 2027 AI/ML internship & new graduate job list updated daily
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Data · Education
+Trading · AI/ML · Data
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ speedyapply/2027-AI-College-Jobs 是一个开源项目，提供每日更新的 2
 | forks | 59/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

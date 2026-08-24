@@ -1,6 +1,6 @@
 # mattn/anko
 
-[![Stars](https://img.shields.io/github/stars/mattn/anko?style=flat-square&color=yellow)](https://github.com/mattn/anko/stargazers) [![Forks](https://img.shields.io/github/forks/mattn/anko?style=flat-square&color=blue)](https://github.com/mattn/anko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattn/anko?style=flat-square&color=yellow)](https://github.com/mattn/anko/stargazers) [![Forks](https://img.shields.io/github/forks/mattn/anko?style=flat-square&color=blue)](https://github.com/mattn/anko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Scriptable interpreter written in golang
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ mattn/anko 的生产可用性为中等。它可以用于原型或内部工作流
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

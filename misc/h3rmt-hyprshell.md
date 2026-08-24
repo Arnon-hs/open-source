@@ -1,6 +1,6 @@
 # H3rmt/hyprshell
 
-[![Stars](https://img.shields.io/github/stars/H3rmt/hyprshell?style=flat-square&color=yellow)](https://github.com/H3rmt/hyprshell/stargazers) [![Forks](https://img.shields.io/github/forks/H3rmt/hyprshell?style=flat-square&color=blue)](https://github.com/H3rmt/hyprshell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/H3rmt/hyprshell?style=flat-square&color=yellow)](https://github.com/H3rmt/hyprshell/stargazers) [![Forks](https://img.shields.io/github/forks/H3rmt/hyprshell?style=flat-square&color=blue)](https://github.com/H3rmt/hyprshell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A modern GTK4-based window switcher and application launcher for Hyprland
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 571 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Hyprshell 是基于 GTK 4 的 Hyprland 专属窗口切换器和应用启动器
 | forks | 39/100 |
 | stars | 59/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 70/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

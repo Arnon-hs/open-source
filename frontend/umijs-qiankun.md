@@ -1,6 +1,6 @@
 # umijs/qiankun
 
-[![Stars](https://img.shields.io/github/stars/umijs/qiankun?style=flat-square&color=yellow)](https://github.com/umijs/qiankun/stargazers) [![Forks](https://img.shields.io/github/forks/umijs/qiankun?style=flat-square&color=blue)](https://github.com/umijs/qiankun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umijs/qiankun?style=flat-square&color=yellow)](https://github.com/umijs/qiankun/stargazers) [![Forks](https://img.shields.io/github/forks/umijs/qiankun?style=flat-square&color=blue)](https://github.com/umijs/qiankun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.6k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -88,14 +88,15 @@ umijs/qiankun 是基于 single‑spa 实现的微前端框架，提供「开箱�
 | forks | 83/100 |
 | stars | 90/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

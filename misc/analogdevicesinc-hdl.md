@@ -1,6 +1,6 @@
 # analogdevicesinc/hdl
 
-[![Stars](https://img.shields.io/github/stars/analogdevicesinc/hdl?style=flat-square&color=yellow)](https://github.com/analogdevicesinc/hdl/stargazers) [![Forks](https://img.shields.io/github/forks/analogdevicesinc/hdl?style=flat-square&color=blue)](https://github.com/analogdevicesinc/hdl/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/analogdevicesinc/hdl?style=flat-square&color=yellow)](https://github.com/analogdevicesinc/hdl/stargazers) [![Forks](https://img.shields.io/github/forks/analogdevicesinc/hdl?style=flat-square&color=blue)](https://github.com/analogdevicesinc/hdl/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > HDL libraries and projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ The project has a high production readiness score, indicating its potential for 
 | forks | 81/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

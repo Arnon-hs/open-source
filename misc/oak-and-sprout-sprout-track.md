@@ -1,6 +1,6 @@
 # Oak-and-Sprout/sprout-track
 
-[![Stars](https://img.shields.io/github/stars/Oak-and-Sprout/sprout-track?style=flat-square&color=yellow)](https://github.com/Oak-and-Sprout/sprout-track/stargazers) [![Forks](https://img.shields.io/github/forks/Oak-and-Sprout/sprout-track?style=flat-square&color=blue)](https://github.com/Oak-and-Sprout/sprout-track/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Oak-and-Sprout/sprout-track?style=flat-square&color=yellow)](https://github.com/Oak-and-Sprout/sprout-track/stargazers) [![Forks](https://img.shields.io/github/forks/Oak-and-Sprout/sprout-track?style=flat-square&color=blue)](https://github.com/Oak-and-Sprout/sprout-track/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A tracker to track baby diapers, feedings, naps, pumping, and other activities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Oak-and-Sprout/sprout-track 的生产可用性较高，因为它有：
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

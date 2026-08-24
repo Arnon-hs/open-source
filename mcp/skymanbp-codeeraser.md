@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ skymanbp/CodeEraser：skymanbp/CodeEraser helps connect AI assistants to real to
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

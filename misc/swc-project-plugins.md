@@ -1,6 +1,6 @@
 # swc-project/plugins
 
-[![Stars](https://img.shields.io/github/stars/swc-project/plugins?style=flat-square&color=yellow)](https://github.com/swc-project/plugins/stargazers) [![Forks](https://img.shields.io/github/forks/swc-project/plugins?style=flat-square&color=blue)](https://github.com/swc-project/plugins/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swc-project/plugins?style=flat-square&color=yellow)](https://github.com/swc-project/plugins/stargazers) [![Forks](https://img.shields.io/github/forks/swc-project/plugins?style=flat-square&color=blue)](https://github.com/swc-project/plugins/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Plugins for swc, written in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ swc-project/plugins 的生产可用性为中等（Medium）。虽然插件已经
 | forks | 50/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

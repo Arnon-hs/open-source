@@ -1,6 +1,6 @@
 # chthollyphile/folia-major
 
-[![Stars](https://img.shields.io/github/stars/chthollyphile/folia-major?style=flat-square&color=yellow)](https://github.com/chthollyphile/folia-major/stargazers) [![Forks](https://img.shields.io/github/forks/chthollyphile/folia-major?style=flat-square&color=blue)](https://github.com/chthollyphile/folia-major/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chthollyphile/folia-major?style=flat-square&color=yellow)](https://github.com/chthollyphile/folia-major/stargazers) [![Forks](https://img.shields.io/github/forks/chthollyphile/folia-major?style=flat-square&color=blue)](https://github.com/chthollyphile/folia-major/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ chthollyphile/folia-major 是一个开源项目，专注于创建绚丽的歌词
 | forks | 48/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

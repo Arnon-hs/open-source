@@ -1,6 +1,6 @@
 # zuplo/zudoku
 
-[![Stars](https://img.shields.io/github/stars/zuplo/zudoku?style=flat-square&color=yellow)](https://github.com/zuplo/zudoku/stargazers) [![Forks](https://img.shields.io/github/forks/zuplo/zudoku?style=flat-square&color=blue)](https://github.com/zuplo/zudoku/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zuplo/zudoku?style=flat-square&color=yellow)](https://github.com/zuplo/zudoku/stargazers) [![Forks](https://img.shields.io/github/forks/zuplo/zudoku?style=flat-square&color=blue)](https://github.com/zuplo/zudoku/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for building high quality, interactive API documentation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ zuplo/zudoku 的生产可用性非常高，具有以下优势：
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

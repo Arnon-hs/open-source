@@ -1,6 +1,6 @@
 # mikobinbin/2026-world-cup-predictor
 
-[![Stars](https://img.shields.io/github/stars/mikobinbin/2026-world-cup-predictor?style=flat-square&color=yellow)](https://github.com/mikobinbin/2026-world-cup-predictor/stargazers) [![Forks](https://img.shields.io/github/forks/mikobinbin/2026-world-cup-predictor?style=flat-square&color=blue)](https://github.com/mikobinbin/2026-world-cup-predictor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikobinbin/2026-world-cup-predictor?style=flat-square&color=yellow)](https://github.com/mikobinbin/2026-world-cup-predictor/stargazers) [![Forks](https://img.shields.io/github/forks/mikobinbin/2026-world-cup-predictor?style=flat-square&color=blue)](https://github.com/mikobinbin/2026-world-cup-predictor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 2026 FIFA World Cup H2H Match Prediction | Poisson xG + Mystic Factors + Mobile-first | 世界杯H2H对战预测
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Misc
 | forks | 30/100 |
 | stars | 55/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

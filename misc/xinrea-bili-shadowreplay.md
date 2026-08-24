@@ -1,6 +1,6 @@
 # Xinrea/bili-shadowreplay
 
-[![Stars](https://img.shields.io/github/stars/Xinrea/bili-shadowreplay?style=flat-square&color=yellow)](https://github.com/Xinrea/bili-shadowreplay/stargazers) [![Forks](https://img.shields.io/github/forks/Xinrea/bili-shadowreplay?style=flat-square&color=blue)](https://github.com/Xinrea/bili-shadowreplay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xinrea/bili-shadowreplay?style=flat-square&color=yellow)](https://github.com/Xinrea/bili-shadowreplay/stargazers) [![Forks](https://img.shields.io/github/forks/Xinrea/bili-shadowreplay?style=flat-square&color=blue)](https://github.com/Xinrea/bili-shadowreplay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > bilibili 直播实时切片工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Xinrea/bili-shadowreplay 的生产可用性为中等。它适合于快速 protot
 | forks | 47/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

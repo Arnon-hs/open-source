@@ -1,6 +1,6 @@
 # Wing900/ManimCat
 
-[![Stars](https://img.shields.io/github/stars/Wing900/ManimCat?style=flat-square&color=yellow)](https://github.com/Wing900/ManimCat/stargazers) [![Forks](https://img.shields.io/github/forks/Wing900/ManimCat?style=flat-square&color=blue)](https://github.com/Wing900/ManimCat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wing900/ManimCat?style=flat-square&color=yellow)](https://github.com/Wing900/ManimCat/stargazers) [![Forks](https://img.shields.io/github/forks/Wing900/ManimCat?style=flat-square&color=blue)](https://github.com/Wing900/ManimCat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > EN: ManimCat: AI-generated math animations from natural language. High-quality Manim rendering with LaTeX support and auto-code fixing. 中: ManimCat：AI 数学动画生成器。支持描述即视频，内置 LaTeX 与代码纠错，让数学动效触手可及。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Wing900/ManimCat是一款基于AI的数学动画生成器，支持描述即视�
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
-| usefulness | 58/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

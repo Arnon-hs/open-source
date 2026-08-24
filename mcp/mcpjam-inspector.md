@@ -1,6 +1,6 @@
 # MCPJam/inspector
 
-[![Stars](https://img.shields.io/github/stars/MCPJam/inspector?style=flat-square&color=yellow)](https://github.com/MCPJam/inspector/stargazers) [![Forks](https://img.shields.io/github/forks/MCPJam/inspector?style=flat-square&color=blue)](https://github.com/MCPJam/inspector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MCPJam/inspector?style=flat-square&color=yellow)](https://github.com/MCPJam/inspector/stargazers) [![Forks](https://img.shields.io/github/forks/MCPJam/inspector?style=flat-square&color=blue)](https://github.com/MCPJam/inspector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · Backend · Observability
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ MCPJam/inspector 是一个面向 MCP 服务器、MCP 应用以及 ChatGPT 应用
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

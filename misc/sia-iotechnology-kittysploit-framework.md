@@ -1,6 +1,6 @@
 # SIA-IOTechnology/Kittysploit-framework
 
-[![Stars](https://img.shields.io/github/stars/SIA-IOTechnology/Kittysploit-framework?style=flat-square&color=yellow)](https://github.com/SIA-IOTechnology/Kittysploit-framework/stargazers) [![Forks](https://img.shields.io/github/forks/SIA-IOTechnology/Kittysploit-framework?style=flat-square&color=blue)](https://github.com/SIA-IOTechnology/Kittysploit-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SIA-IOTechnology/Kittysploit-framework?style=flat-square&color=yellow)](https://github.com/SIA-IOTechnology/Kittysploit-framework/stargazers) [![Forks](https://img.shields.io/github/forks/SIA-IOTechnology/Kittysploit-framework?style=flat-square&color=blue)](https://github.com/SIA-IOTechnology/Kittysploit-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator,....
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Kittysploit-framework 的生产可用性得
 | forks | 49/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

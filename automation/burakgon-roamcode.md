@@ -1,6 +1,6 @@
 # burakgon/roamcode
 
-[![Stars](https://img.shields.io/github/stars/burakgon/roamcode?style=flat-square&color=yellow)](https://github.com/burakgon/roamcode/stargazers) [![Forks](https://img.shields.io/github/forks/burakgon/roamcode?style=flat-square&color=blue)](https://github.com/burakgon/roamcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/burakgon/roamcode?style=flat-square&color=yellow)](https://github.com/burakgon/roamcode/stargazers) [![Forks](https://img.shields.io/github/forks/burakgon/roamcode?style=flat-square&color=blue)](https://github.com/burakgon/roamcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted mission control for real Claude Code and Codex sessions — persistent terminals, automations, and browser/mobile control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ burakgon/roamcode的生产可用性为中等（Medium），适合用于原型或
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # yc-oss/open-source-companies
 
-[![Stars](https://img.shields.io/github/stars/yc-oss/open-source-companies?style=flat-square&color=yellow)](https://github.com/yc-oss/open-source-companies/stargazers) [![Forks](https://img.shields.io/github/forks/yc-oss/open-source-companies?style=flat-square&color=blue)](https://github.com/yc-oss/open-source-companies/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yc-oss/open-source-companies?style=flat-square&color=yellow)](https://github.com/yc-oss/open-source-companies/stargazers) [![Forks](https://img.shields.io/github/forks/yc-oss/open-source-companies?style=flat-square&color=blue)](https://github.com/yc-oss/open-source-companies/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > List of open source startups funded by Y Combinator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ yc-oss/open-source-companies 提供了 Y Combinator 投资的开源创业公司�
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

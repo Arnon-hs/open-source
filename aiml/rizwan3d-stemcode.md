@@ -1,6 +1,6 @@
 # rizwan3d/StemCode
 
-[![Stars](https://img.shields.io/github/stars/rizwan3d/StemCode?style=flat-square&color=yellow)](https://github.com/rizwan3d/StemCode/stargazers) [![Forks](https://img.shields.io/github/forks/rizwan3d/StemCode?style=flat-square&color=blue)](https://github.com/rizwan3d/StemCode/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizwan3d/StemCode?style=flat-square&color=yellow)](https://github.com/rizwan3d/StemCode/stargazers) [![Forks](https://img.shields.io/github/forks/rizwan3d/StemCode?style=flat-square&color=blue)](https://github.com/rizwan3d/StemCode/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI coding agent for desktop, terminal, VS Code, Visual Studio, and CI code reviews.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ rizwan3d/StemCode 是一个本地第一的 AI 编码代理，支持桌面、终�
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

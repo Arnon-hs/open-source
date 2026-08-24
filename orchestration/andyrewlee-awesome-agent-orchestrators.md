@@ -1,6 +1,6 @@
 # andyrewlee/awesome-agent-orchestrators
 
-[![Stars](https://img.shields.io/github/stars/andyrewlee/awesome-agent-orchestrators?style=flat-square&color=yellow)](https://github.com/andyrewlee/awesome-agent-orchestrators/stargazers) [![Forks](https://img.shields.io/github/forks/andyrewlee/awesome-agent-orchestrators?style=flat-square&color=blue)](https://github.com/andyrewlee/awesome-agent-orchestrators/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andyrewlee/awesome-agent-orchestrators?style=flat-square&color=yellow)](https://github.com/andyrewlee/awesome-agent-orchestrators/stargazers) [![Forks](https://img.shields.io/github/forks/andyrewlee/awesome-agent-orchestrators?style=flat-square&color=blue)](https://github.com/andyrewlee/awesome-agent-orchestrators/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > List of agent orchestrators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ andyrewlee/awesome-agent-orchestrators 是一个精选列表，收录了能够�
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

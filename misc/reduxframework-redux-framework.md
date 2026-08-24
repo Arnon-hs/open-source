@@ -1,6 +1,6 @@
 # reduxframework/redux-framework
 
-[![Stars](https://img.shields.io/github/stars/reduxframework/redux-framework?style=flat-square&color=yellow)](https://github.com/reduxframework/redux-framework/stargazers) [![Forks](https://img.shields.io/github/forks/reduxframework/redux-framework?style=flat-square&color=blue)](https://github.com/reduxframework/redux-framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reduxframework/redux-framework?style=flat-square&color=yellow)](https://github.com/reduxframework/redux-framework/stargazers) [![Forks](https://img.shields.io/github/forks/reduxframework/redux-framework?style=flat-square&color=blue)](https://github.com/reduxframework/redux-framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Redux is a simple, truly extensible options framework for WordPress themes and plugins!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 577 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ reduxframework/redux-framework 的生产可用性高，主要原因是：
 | forks | 69/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

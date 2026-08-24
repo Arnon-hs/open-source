@@ -1,6 +1,6 @@
 # emilyploszaj/emi
 
-[![Stars](https://img.shields.io/github/stars/emilyploszaj/emi?style=flat-square&color=yellow)](https://github.com/emilyploszaj/emi/stargazers) [![Forks](https://img.shields.io/github/forks/emilyploszaj/emi?style=flat-square&color=blue)](https://github.com/emilyploszaj/emi/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emilyploszaj/emi?style=flat-square&color=yellow)](https://github.com/emilyploszaj/emi/stargazers) [![Forks](https://img.shields.io/github/forks/emilyploszaj/emi?style=flat-square&color=blue)](https://github.com/emilyploszaj/emi/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A featureful and accessible item and recipe viewer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ emi 是一个功能丰富和易于访问的物品和食谱查看器，提供了�
 | forks | 55/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

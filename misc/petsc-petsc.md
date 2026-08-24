@@ -1,6 +1,6 @@
 # petsc/petsc
 
-[![Stars](https://img.shields.io/github/stars/petsc/petsc?style=flat-square&color=yellow)](https://github.com/petsc/petsc/stargazers) [![Forks](https://img.shields.io/github/forks/petsc/petsc?style=flat-square&color=blue)](https://github.com/petsc/petsc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petsc/petsc?style=flat-square&color=yellow)](https://github.com/petsc/petsc/stargazers) [![Forks](https://img.shields.io/github/forks/petsc/petsc?style=flat-square&color=blue)](https://github.com/petsc/petsc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of https://gitlab.com/petsc/petsc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Petsc（Portable, Extensible Toolkit for Scientific Computation）是一个用�
 | forks | 58/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

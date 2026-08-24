@@ -1,6 +1,6 @@
 # hopoduck/agent-toast
 
-[![Stars](https://img.shields.io/github/stars/hopoduck/agent-toast?style=flat-square&color=yellow)](https://github.com/hopoduck/agent-toast/stargazers) [![Forks](https://img.shields.io/github/forks/hopoduck/agent-toast?style=flat-square&color=blue)](https://github.com/hopoduck/agent-toast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hopoduck/agent-toast?style=flat-square&color=yellow)](https://github.com/hopoduck/agent-toast/stargazers) [![Forks](https://img.shields.io/github/forks/hopoduck/agent-toast?style=flat-square&color=blue)](https://github.com/hopoduck/agent-toast/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > No more babysitting the terminal - Agent Toast pings you the instant Claude Code or Codex CLI needs you, then clicks you right back. (Claude Code · Codex CLI 데스크톱 알림 - 터미널 감시는 이제 그만)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Agent Toast 的生产可用性为中等。它适合用于原型或内部工作�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

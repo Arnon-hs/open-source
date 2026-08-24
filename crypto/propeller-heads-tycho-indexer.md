@@ -1,6 +1,6 @@
 # propeller-heads/tycho-indexer
 
-[![Stars](https://img.shields.io/github/stars/propeller-heads/tycho-indexer?style=flat-square&color=yellow)](https://github.com/propeller-heads/tycho-indexer/stargazers) [![Forks](https://img.shields.io/github/forks/propeller-heads/tycho-indexer?style=flat-square&color=blue)](https://github.com/propeller-heads/tycho-indexer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/propeller-heads/tycho-indexer?style=flat-square&color=yellow)](https://github.com/propeller-heads/tycho-indexer/stargazers) [![Forks](https://img.shields.io/github/forks/propeller-heads/tycho-indexer?style=flat-square&color=blue)](https://github.com/propeller-heads/tycho-indexer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Low latency indexer service for blockchain data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Data · Marketing
+Crypto
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ propeller-heads/tycho-indexer 是一个基于 Rust 实现的低延迟区块链�
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 25/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

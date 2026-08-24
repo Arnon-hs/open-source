@@ -1,6 +1,6 @@
 # koltyakov/sp-rest-proxy
 
-[![Stars](https://img.shields.io/github/stars/koltyakov/sp-rest-proxy?style=flat-square&color=yellow)](https://github.com/koltyakov/sp-rest-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/koltyakov/sp-rest-proxy?style=flat-square&color=blue)](https://github.com/koltyakov/sp-rest-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koltyakov/sp-rest-proxy?style=flat-square&color=yellow)](https://github.com/koltyakov/sp-rest-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/koltyakov/sp-rest-proxy?style=flat-square&color=blue)](https://github.com/koltyakov/sp-rest-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 SharePoint API Proxy for local development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ koltyakov/sp-rest-proxy 的生产可用性较高，主要原因是：
 | forks | 41/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

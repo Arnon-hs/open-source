@@ -1,6 +1,6 @@
 # processmission/oh-my-qemu
 
-[![Stars](https://img.shields.io/github/stars/processmission/oh-my-qemu?style=flat-square&color=yellow)](https://github.com/processmission/oh-my-qemu/stargazers) [![Forks](https://img.shields.io/github/forks/processmission/oh-my-qemu?style=flat-square&color=blue)](https://github.com/processmission/oh-my-qemu/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/processmission/oh-my-qemu?style=flat-square&color=yellow)](https://github.com/processmission/oh-my-qemu/stargazers) [![Forks](https://img.shields.io/github/forks/processmission/oh-my-qemu?style=flat-square&color=blue)](https://github.com/processmission/oh-my-qemu/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of AI agent skills for QEMU hardware modeling
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ processmission/oh-my-qemu 的价值在于它可以协调多个代理工作流程
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

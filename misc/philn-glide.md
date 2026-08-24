@@ -1,6 +1,6 @@
 # philn/glide
 
-[![Stars](https://img.shields.io/github/stars/philn/glide?style=flat-square&color=yellow)](https://github.com/philn/glide/stargazers) [![Forks](https://img.shields.io/github/forks/philn/glide?style=flat-square&color=blue)](https://github.com/philn/glide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/philn/glide?style=flat-square&color=yellow)](https://github.com/philn/glide/stargazers) [![Forks](https://img.shields.io/github/forks/philn/glide?style=flat-square&color=blue)](https://github.com/philn/glide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Linux/macOS media player based on GStreamer and GTK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ philn/glide 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 35/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

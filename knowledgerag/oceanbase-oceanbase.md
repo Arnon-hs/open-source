@@ -1,6 +1,6 @@
 # oceanbase/oceanbase
 
-[![Stars](https://img.shields.io/github/stars/oceanbase/oceanbase?style=flat-square&color=yellow)](https://github.com/oceanbase/oceanbase/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/oceanbase?style=flat-square&color=blue)](https://github.com/oceanbase/oceanbase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oceanbase/oceanbase?style=flat-square&color=yellow)](https://github.com/oceanbase/oceanbase/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/oceanbase?style=flat-square&color=blue)](https://github.com/oceanbase/oceanbase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · DevTools · Data · Database
+Knowledge/RAG · Data · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ OceanBase 是一款高性能分布式数据库，能够同时支撑事务、分�
 | forks | 82/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

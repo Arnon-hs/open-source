@@ -1,6 +1,6 @@
 # novasamatech/nova-wallet-ios
 
-[![Stars](https://img.shields.io/github/stars/novasamatech/nova-wallet-ios?style=flat-square&color=yellow)](https://github.com/novasamatech/nova-wallet-ios/stargazers) [![Forks](https://img.shields.io/github/forks/novasamatech/nova-wallet-ios?style=flat-square&color=blue)](https://github.com/novasamatech/nova-wallet-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/novasamatech/nova-wallet-ios?style=flat-square&color=yellow)](https://github.com/novasamatech/nova-wallet-ios/stargazers) [![Forks](https://img.shields.io/github/forks/novasamatech/nova-wallet-ios?style=flat-square&color=blue)](https://github.com/novasamatech/nova-wallet-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Nova Wallet iOS is a next gen application for Polkadot & Kusama ecosystem, transparent & community-oriented, focused on convenient UX/UI, fast performance & security.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · Database · Mobile
+Crypto · Mobile · Security
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Nova Wallet iOS 的生产可用性为中等（Medium），适合用于 Prototypi
 | forks | 39/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zeweihan/aiworkdeck
 
-[![Stars](https://img.shields.io/github/stars/zeweihan/aiworkdeck?style=flat-square&color=yellow)](https://github.com/zeweihan/aiworkdeck/stargazers) [![Forks](https://img.shields.io/github/forks/zeweihan/aiworkdeck?style=flat-square&color=blue)](https://github.com/zeweihan/aiworkdeck/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeweihan/aiworkdeck?style=flat-square&color=yellow)](https://github.com/zeweihan/aiworkdeck/stargazers) [![Forks](https://img.shields.io/github/forks/zeweihan/aiworkdeck?style=flat-square&color=blue)](https://github.com/zeweihan/aiworkdeck/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chains. VS Code for lawyers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Frontend
+MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ zeweihan/aiworkdeck 是一个面向法律和文档密集型工作流的 AI‑nat
 | forks | 27/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

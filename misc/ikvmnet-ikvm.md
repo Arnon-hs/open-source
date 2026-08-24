@@ -1,6 +1,6 @@
 # ikvmnet/ikvm
 
-[![Stars](https://img.shields.io/github/stars/ikvmnet/ikvm?style=flat-square&color=yellow)](https://github.com/ikvmnet/ikvm/stargazers) [![Forks](https://img.shields.io/github/forks/ikvmnet/ikvm?style=flat-square&color=blue)](https://github.com/ikvmnet/ikvm/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ikvmnet/ikvm?style=flat-square&color=yellow)](https://github.com/ikvmnet/ikvm/stargazers) [![Forks](https://img.shields.io/github/forks/ikvmnet/ikvm?style=flat-square&color=blue)](https://github.com/ikvmnet/ikvm/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Java Virtual Machine and Bytecode-to-IL Converter for .NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ ikvmnet/ikvm 的生产可用性是较高的，因为其最近有活动，采用�
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

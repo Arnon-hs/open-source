@@ -1,6 +1,6 @@
 # Canleskis/ephemeris-explorer
 
-[![Stars](https://img.shields.io/github/stars/Canleskis/ephemeris-explorer?style=flat-square&color=yellow)](https://github.com/Canleskis/ephemeris-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/Canleskis/ephemeris-explorer?style=flat-square&color=blue)](https://github.com/Canleskis/ephemeris-explorer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Canleskis/ephemeris-explorer?style=flat-square&color=yellow)](https://github.com/Canleskis/ephemeris-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/Canleskis/ephemeris-explorer?style=flat-square&color=blue)](https://github.com/Canleskis/ephemeris-explorer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A simulator of gravitationally bound systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Canleskis/ephemeris-explorer 的生产可用性为中等，适合用于原型设
 | forks | 19/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

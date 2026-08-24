@@ -1,6 +1,6 @@
 # rayon-rs/either
 
-[![Stars](https://img.shields.io/github/stars/rayon-rs/either?style=flat-square&color=yellow)](https://github.com/rayon-rs/either/stargazers) [![Forks](https://img.shields.io/github/forks/rayon-rs/either?style=flat-square&color=blue)](https://github.com/rayon-rs/either/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rayon-rs/either?style=flat-square&color=yellow)](https://github.com/rayon-rs/either/stargazers) [![Forks](https://img.shields.io/github/forks/rayon-rs/either?style=flat-square&color=blue)](https://github.com/rayon-rs/either/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The enum Either with variants Left and Right is a general purpose sum type with two cases.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ rayon-rs/either 可以在某些特定场景下提供价值，特别是当其 REA
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 13/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

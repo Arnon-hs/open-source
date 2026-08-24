@@ -1,6 +1,6 @@
 # xbill9/dog-or-not-lite
 
-[![Stars](https://img.shields.io/github/stars/xbill9/dog-or-not-lite?style=flat-square&color=yellow)](https://github.com/xbill9/dog-or-not-lite/stargazers) [![Forks](https://img.shields.io/github/forks/xbill9/dog-or-not-lite?style=flat-square&color=blue)](https://github.com/xbill9/dog-or-not-lite/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xbill9/dog-or-not-lite?style=flat-square&color=yellow)](https://github.com/xbill9/dog-or-not-lite/stargazers) [![Forks](https://img.shields.io/github/forks/xbill9/dog-or-not-lite?style=flat-square&color=blue)](https://github.com/xbill9/dog-or-not-lite/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): Shipping a vision-model verdict on Bedrock and Lightsail
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ Shipping a vision-model verdict on Bedrock and Lightsail：Shipping a vision-mod
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # stellar/rs-soroban-sdk
 
-[![Stars](https://img.shields.io/github/stars/stellar/rs-soroban-sdk?style=flat-square&color=yellow)](https://github.com/stellar/rs-soroban-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/rs-soroban-sdk?style=flat-square&color=blue)](https://github.com/stellar/rs-soroban-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stellar/rs-soroban-sdk?style=flat-square&color=yellow)](https://github.com/stellar/rs-soroban-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/rs-soroban-sdk?style=flat-square&color=blue)](https://github.com/stellar/rs-soroban-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust SDK for Soroban contracts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ stellar/rs-soroban-sdk 是一个开源 Rust SDK，用于 Soroban 合约开发。
 | forks | 51/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

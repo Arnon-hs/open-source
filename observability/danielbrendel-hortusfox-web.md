@@ -1,6 +1,6 @@
 # danielbrendel/hortusfox-web
 
-[![Stars](https://img.shields.io/github/stars/danielbrendel/hortusfox-web?style=flat-square&color=yellow)](https://github.com/danielbrendel/hortusfox-web/stargazers) [![Forks](https://img.shields.io/github/forks/danielbrendel/hortusfox-web?style=flat-square&color=blue)](https://github.com/danielbrendel/hortusfox-web/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielbrendel/hortusfox-web?style=flat-square&color=yellow)](https://github.com/danielbrendel/hortusfox-web/stargazers) [![Forks](https://img.shields.io/github/forks/danielbrendel/hortusfox-web?style=flat-square&color=blue)](https://github.com/danielbrendel/hortusfox-web/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted collaborative plant management and tracking system for plant enthusiasts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ danielbrendel/hortusfox‑web 是一个自托管的协同植物管理与追踪�
 | forks | 50/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | pyannote-audio |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2024-05-10 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -107,6 +107,7 @@ pyannote/speaker-diarization-3.1 的价值在于它可以用于语音识别任�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

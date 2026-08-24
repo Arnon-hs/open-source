@@ -1,6 +1,6 @@
 # zilliztech/claude-context
 
-[![Stars](https://img.shields.io/github/stars/zilliztech/claude-context?style=flat-square&color=yellow)](https://github.com/zilliztech/claude-context/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/claude-context?style=flat-square&color=blue)](https://github.com/zilliztech/claude-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zilliztech/claude-context?style=flat-square&color=yellow)](https://github.com/zilliztech/claude-context/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/claude-context?style=flat-square&color=blue)](https://github.com/zilliztech/claude-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 900 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · DevTools · Data
+MCP · Knowledge/RAG · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ zilliztech/claude-context 的生产可用性很高，主要原因是：
 | forks | 74/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 96/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 85/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

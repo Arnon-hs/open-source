@@ -1,6 +1,6 @@
 # NYTEMODEONLY/polyterm
 
-[![Stars](https://img.shields.io/github/stars/NYTEMODEONLY/polyterm?style=flat-square&color=yellow)](https://github.com/NYTEMODEONLY/polyterm/stargazers) [![Forks](https://img.shields.io/github/forks/NYTEMODEONLY/polyterm?style=flat-square&color=blue)](https://github.com/NYTEMODEONLY/polyterm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NYTEMODEONLY/polyterm?style=flat-square&color=yellow)](https://github.com/NYTEMODEONLY/polyterm/stargazers) [![Forks](https://img.shields.io/github/forks/NYTEMODEONLY/polyterm?style=flat-square&color=blue)](https://github.com/NYTEMODEONLY/polyterm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Polymarket in your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend · DevTools · Data
+Crypto · Trading · DevTools · Data
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ NYTEMODEONLY/polyterm 是一款在终端中运行的 Polymarket 客户端，让�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

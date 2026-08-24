@@ -1,6 +1,6 @@
 # perfectra1n/triliumnext-mcp
 
-[![Stars](https://img.shields.io/github/stars/perfectra1n/triliumnext-mcp?style=flat-square&color=yellow)](https://github.com/perfectra1n/triliumnext-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/perfectra1n/triliumnext-mcp?style=flat-square&color=blue)](https://github.com/perfectra1n/triliumnext-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perfectra1n/triliumnext-mcp?style=flat-square&color=yellow)](https://github.com/perfectra1n/triliumnext-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/perfectra1n/triliumnext-mcp?style=flat-square&color=blue)](https://github.com/perfectra1n/triliumnext-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server for interacting with a Trilium instance
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ perfectra1n/triliumnext-mcp 是一个基于 Model Context Protocol（MCP）的�
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

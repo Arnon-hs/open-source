@@ -1,6 +1,6 @@
 # lerim-dev/lerim
 
-[![Stars](https://img.shields.io/github/stars/lerim-dev/lerim?style=flat-square&color=yellow)](https://github.com/lerim-dev/lerim/stargazers) [![Forks](https://img.shields.io/github/forks/lerim-dev/lerim?style=flat-square&color=blue)](https://github.com/lerim-dev/lerim/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lerim-dev/lerim?style=flat-square&color=yellow)](https://github.com/lerim-dev/lerim/stargazers) [![Forks](https://img.shields.io/github/forks/lerim-dev/lerim?style=flat-square&color=blue)](https://github.com/lerim-dev/lerim/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Compiles AI agent traces and truns them into reusable context.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Product
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ Lerim 的生产可用性为中等（Medium）。它适合用于原型开发或�
 | forks | 21/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tothalex/drift
 
-[![Stars](https://img.shields.io/github/stars/tothalex/drift?style=flat-square&color=yellow)](https://github.com/tothalex/drift/stargazers) [![Forks](https://img.shields.io/github/forks/tothalex/drift?style=flat-square&color=blue)](https://github.com/tothalex/drift/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tothalex/drift?style=flat-square&color=yellow)](https://github.com/tothalex/drift/stargazers) [![Forks](https://img.shields.io/github/forks/tothalex/drift?style=flat-square&color=blue)](https://github.com/tothalex/drift/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Review your working changes like a pull request — in the terminal. Block-scoped live diffs, GitHub/GitLab PR review, and send-to-AI-agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ tothalex/drift 的生产可用性为中等（Medium）。虽然它已经被证�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

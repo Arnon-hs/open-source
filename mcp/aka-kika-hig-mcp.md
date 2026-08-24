@@ -1,6 +1,6 @@
 # aka-kika/hig-mcp
 
-[![Stars](https://img.shields.io/github/stars/aka-kika/hig-mcp?style=flat-square&color=yellow)](https://github.com/aka-kika/hig-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aka-kika/hig-mcp?style=flat-square&color=blue)](https://github.com/aka-kika/hig-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aka-kika/hig-mcp?style=flat-square&color=yellow)](https://github.com/aka-kika/hig-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aka-kika/hig-mcp?style=flat-square&color=blue)](https://github.com/aka-kika/hig-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server serving Apple Human Interface Guidelines as structured design tokens for AI coding agents — post-WWDC25 system colors, Liquid Glass constraints, SwiftUI mappings.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Mobile
+MCP · AI/ML · Backend · Mobile · Design
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ aka-kika/hig-mcp 的生产可用
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

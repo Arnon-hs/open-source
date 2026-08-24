@@ -1,6 +1,6 @@
 # JameZUK/Arkana
 
-[![Stars](https://img.shields.io/github/stars/JameZUK/Arkana?style=flat-square&color=yellow)](https://github.com/JameZUK/Arkana/stargazers) [![Forks](https://img.shields.io/github/forks/JameZUK/Arkana?style=flat-square&color=blue)](https://github.com/JameZUK/Arkana/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JameZUK/Arkana?style=flat-square&color=yellow)](https://github.com/JameZUK/Arkana/stargazers) [![Forks](https://img.shields.io/github/forks/JameZUK/Arkana?style=flat-square&color=blue)](https://github.com/JameZUK/Arkana/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ JameZUK/Arkana：JameZUK/Arkana helps connect AI assistants to real tools and da
 | forks | 29/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

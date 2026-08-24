@@ -1,6 +1,6 @@
 # KerberosClaw/kc_ai_skills
 
-[![Stars](https://img.shields.io/github/stars/KerberosClaw/kc_ai_skills?style=flat-square&color=yellow)](https://github.com/KerberosClaw/kc_ai_skills/stargazers) [![Forks](https://img.shields.io/github/forks/KerberosClaw/kc_ai_skills?style=flat-square&color=blue)](https://github.com/KerberosClaw/kc_ai_skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KerberosClaw/kc_ai_skills?style=flat-square&color=yellow)](https://github.com/KerberosClaw/kc_ai_skills/stargazers) [![Forks](https://img.shields.io/github/forks/KerberosClaw/kc_ai_skills?style=flat-square&color=blue)](https://github.com/KerberosClaw/kc_ai_skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI Skills That Actually Do Things — 中文優先的 Claude Code / Codex agent skills 合集 · Reusable bilingual skills for any LLM workflow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ KerberosClaw/kc_ai_skills 的生产可用性较高，主要原因是：
 | forks | 29/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

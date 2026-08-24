@@ -1,6 +1,6 @@
 # chrisleekr/binance-trading-bot
 
-[![Stars](https://img.shields.io/github/stars/chrisleekr/binance-trading-bot?style=flat-square&color=yellow)](https://github.com/chrisleekr/binance-trading-bot/stargazers) [![Forks](https://img.shields.io/github/forks/chrisleekr/binance-trading-bot?style=flat-square&color=blue)](https://github.com/chrisleekr/binance-trading-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisleekr/binance-trading-bot?style=flat-square&color=yellow)](https://github.com/chrisleekr/binance-trading-bot/stargazers) [![Forks](https://img.shields.io/github/forks/chrisleekr/binance-trading-bot?style=flat-square&color=blue)](https://github.com/chrisleekr/binance-trading-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Automated Binance trading bot with pluggable strategies, historical backtesting, and a live dashboard
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Backend
+Crypto · Trading · Automation · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ chrisleekr/binance-trading-bot 是一个开源的自动化比特币交易机器�
 | forks | 77/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 79/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

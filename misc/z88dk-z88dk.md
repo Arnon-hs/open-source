@@ -1,6 +1,6 @@
 # z88dk/z88dk
 
-[![Stars](https://img.shields.io/github/stars/z88dk/z88dk?style=flat-square&color=yellow)](https://github.com/z88dk/z88dk/stargazers) [![Forks](https://img.shields.io/github/forks/z88dk/z88dk?style=flat-square&color=blue)](https://github.com/z88dk/z88dk/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/z88dk/z88dk?style=flat-square&color=yellow)](https://github.com/z88dk/z88dk/stargazers) [![Forks](https://img.shields.io/github/forks/z88dk/z88dk?style=flat-square&color=blue)](https://github.com/z88dk/z88dk/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ z88dk/z88dk：z88dk/z88dk may be useful when its README and activity match a con
 | forks | 58/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

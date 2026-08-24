@@ -1,6 +1,6 @@
 # GaoSSR/Kiri
 
-[![Stars](https://img.shields.io/github/stars/GaoSSR/Kiri?style=flat-square&color=yellow)](https://github.com/GaoSSR/Kiri/stargazers) [![Forks](https://img.shields.io/github/forks/GaoSSR/Kiri?style=flat-square&color=blue)](https://github.com/GaoSSR/Kiri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GaoSSR/Kiri?style=flat-square&color=yellow)](https://github.com/GaoSSR/Kiri/stargazers) [![Forks](https://img.shields.io/github/forks/GaoSSR/Kiri?style=flat-square&color=blue)](https://github.com/GaoSSR/Kiri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > See through the fog of local development ports.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 561 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ GaoSSR/Kiri 的典型接入方式包括：
 | forks | 30/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

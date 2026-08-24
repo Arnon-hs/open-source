@@ -1,6 +1,6 @@
 # earlgreyhot1701D/hermes-clew
 
-[![Stars](https://img.shields.io/github/stars/earlgreyhot1701D/hermes-clew?style=flat-square&color=yellow)](https://github.com/earlgreyhot1701D/hermes-clew/stargazers) [![Forks](https://img.shields.io/github/forks/earlgreyhot1701D/hermes-clew?style=flat-square&color=blue)](https://github.com/earlgreyhot1701D/hermes-clew/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earlgreyhot1701D/hermes-clew?style=flat-square&color=yellow)](https://github.com/earlgreyhot1701D/hermes-clew/stargazers) [![Forks](https://img.shields.io/github/forks/earlgreyhot1701D/hermes-clew?style=flat-square&color=blue)](https://github.com/earlgreyhot1701D/hermes-clew/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): Can retrieval agents like ChatGPT and Perplexity read your website? Agentis Lux sees what they see.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Agentis Lux 是一款开源的检索增强（RAG）工具，能够让 ChatGPT�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 30/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 39/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

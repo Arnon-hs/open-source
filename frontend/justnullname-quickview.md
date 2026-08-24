@@ -1,6 +1,6 @@
 # justnullname/QuickView
 
-[![Stars](https://img.shields.io/github/stars/justnullname/QuickView?style=flat-square&color=yellow)](https://github.com/justnullname/QuickView/stargazers) [![Forks](https://img.shields.io/github/forks/justnullname/QuickView?style=flat-square&color=blue)](https://github.com/justnullname/QuickView/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justnullname/QuickView?style=flat-square&color=yellow)](https://github.com/justnullname/QuickView/stargazers) [![Forks](https://img.shields.io/github/forks/justnullname/QuickView?style=flat-square&color=blue)](https://github.com/justnullname/QuickView/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest Direct2D-powered image viewer for Windows. Features multi-threaded JXL/AVIF decoding, GPU acceleration, and a borderless geek UI. Supports WebP, RAW, & QOI with visual settings and auto-updates. Portable & SIMD-optimized.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Database
+Frontend
 
 ## 📝 Summary
 
@@ -134,14 +134,15 @@ QuickView 是一款基于 Direct2D 的超高速图片查看器，采用多线程
 | forks | 27/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

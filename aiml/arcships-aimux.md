@@ -1,6 +1,6 @@
 # arcships/aimux
 
-[![Stars](https://img.shields.io/github/stars/arcships/aimux?style=flat-square&color=yellow)](https://github.com/arcships/aimux/stargazers) [![Forks](https://img.shields.io/github/forks/arcships/aimux?style=flat-square&color=blue)](https://github.com/arcships/aimux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arcships/aimux?style=flat-square&color=yellow)](https://github.com/arcships/aimux/stargazers) [![Forks](https://img.shields.io/github/forks/arcships/aimux?style=flat-square&color=blue)](https://github.com/arcships/aimux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ arcships/aimux 的生产可用性为中等，适合用于：
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 46/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

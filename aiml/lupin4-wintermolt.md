@@ -1,6 +1,6 @@
 # lupin4/wintermolt
 
-[![Stars](https://img.shields.io/github/stars/lupin4/wintermolt?style=flat-square&color=yellow)](https://github.com/lupin4/wintermolt/stargazers) [![Forks](https://img.shields.io/github/forks/lupin4/wintermolt?style=flat-square&color=blue)](https://github.com/lupin4/wintermolt/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lupin4/wintermolt?style=flat-square&color=yellow)](https://github.com/lupin4/wintermolt/stargazers) [![Forks](https://img.shields.io/github/forks/lupin4/wintermolt?style=flat-square&color=blue)](https://github.com/lupin4/wintermolt/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI agent CLI built in Zig. A pure Zig rewrite of OpenClaw — one ~5MB binary, zero Node.js. Agentic loop, SSE streaming, tool dispatch, SQLite history, and multi-backend support (Claude, Ollama, OpenAI-compatible). Cross-compiles Mac, Linux, and Windows in one command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ wintermolt 是一款轻量且跨平台的 AI Agent 框架，能够让团队在�
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

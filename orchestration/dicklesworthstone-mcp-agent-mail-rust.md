@@ -1,6 +1,6 @@
 # Dicklesworthstone/mcp_agent_mail_rust
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/mcp_agent_mail_rust?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/mcp_agent_mail_rust/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/mcp_agent_mail_rust?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/mcp_agent_mail_rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/mcp_agent_mail_rust?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/mcp_agent_mail_rust/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/mcp_agent_mail_rust?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/mcp_agent_mail_rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ We need to write<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

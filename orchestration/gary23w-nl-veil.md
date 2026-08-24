@@ -1,6 +1,6 @@
 # gary23w/nl-veil
 
-[![Stars](https://img.shields.io/github/stars/gary23w/nl-veil?style=flat-square&color=yellow)](https://github.com/gary23w/nl-veil/stargazers) [![Forks](https://img.shields.io/github/forks/gary23w/nl-veil?style=flat-square&color=blue)](https://github.com/gary23w/nl-veil/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gary23w/nl-veil?style=flat-square&color=yellow)](https://github.com/gary23w/nl-veil/stargazers) [![Forks](https://img.shields.io/github/forks/gary23w/nl-veil?style=flat-square&color=blue)](https://github.com/gary23w/nl-veil/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A swarm of autonomous AI minds, unified and steered by a single consciousness - the Veil. Runs on any language model.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ gary23w/nl-veil 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

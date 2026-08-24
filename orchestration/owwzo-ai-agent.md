@@ -1,6 +1,6 @@
 # OWWZO/ai-agent
 
-[![Stars](https://img.shields.io/github/stars/OWWZO/ai-agent?style=flat-square&color=yellow)](https://github.com/OWWZO/ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/OWWZO/ai-agent?style=flat-square&color=blue)](https://github.com/OWWZO/ai-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OWWZO/ai-agent?style=flat-square&color=yellow)](https://github.com/OWWZO/ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/OWWZO/ai-agent?style=flat-square&color=blue)](https://github.com/OWWZO/ai-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 一个多智能体协作应用平台，支持多策略 Agent 调度、多工具编排、RAG 检索增强、会话记忆与执行过程持久化，能够按业务场景动态组织多智能体分工协作，完成复杂任务拆解、工具调用与结果汇聚，提升运维和分析场景的自动化与智能化水平 项目wiki：https://zread.ai/OWWZO/ai-agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ OWWZO/ai‑agent 是一个面向多智能体协作的应用平台，能够根据
 | forks | 27/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

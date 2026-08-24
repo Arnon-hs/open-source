@@ -1,6 +1,6 @@
 # sassman/t-rec-rs
 
-[![Stars](https://img.shields.io/github/stars/sassman/t-rec-rs?style=flat-square&color=yellow)](https://github.com/sassman/t-rec-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sassman/t-rec-rs?style=flat-square&color=blue)](https://github.com/sassman/t-rec-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sassman/t-rec-rs?style=flat-square&color=yellow)](https://github.com/sassman/t-rec-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sassman/t-rec-rs?style=flat-square&color=blue)](https://github.com/sassman/t-rec-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ sassman/t-rec-rs 的生产可用性为中等。它适合用于原型开发或内
 | forks | 39/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

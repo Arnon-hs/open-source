@@ -1,6 +1,6 @@
 # RevoltDevScript/Revolt-Script
 
-[![Stars](https://img.shields.io/github/stars/RevoltDevScript/Revolt-Script?style=flat-square&color=yellow)](https://github.com/RevoltDevScript/Revolt-Script/stargazers) [![Forks](https://img.shields.io/github/forks/RevoltDevScript/Revolt-Script?style=flat-square&color=blue)](https://github.com/RevoltDevScript/Revolt-Script/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RevoltDevScript/Revolt-Script?style=flat-square&color=yellow)](https://github.com/RevoltDevScript/Revolt-Script/stargazers) [![Forks](https://img.shields.io/github/forks/RevoltDevScript/Revolt-Script?style=flat-square&color=blue)](https://github.com/RevoltDevScript/Revolt-Script/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Revolt is the #1 Edgenuity automation tool featuring Auto Quiz, Auto Essay, Auto Advance, AI-powered writing with humanization, Auto Vocabulary, Auto Journal, and more. A semi-AFK script that handles quizzes, tests, exams, projects, and essays with ease. Compatible with desktop and mobile. Visit https://revolt.ly to get started.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 814 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ RevoltDevScript/Revolt-Script 的生产可用性为 中等（Medium）。它适�
 | forks | 15/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

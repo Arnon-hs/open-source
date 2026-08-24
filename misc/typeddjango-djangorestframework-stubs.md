@@ -1,6 +1,6 @@
 # typeddjango/djangorestframework-stubs
 
-[![Stars](https://img.shields.io/github/stars/typeddjango/djangorestframework-stubs?style=flat-square&color=yellow)](https://github.com/typeddjango/djangorestframework-stubs/stargazers) [![Forks](https://img.shields.io/github/forks/typeddjango/djangorestframework-stubs?style=flat-square&color=blue)](https://github.com/typeddjango/djangorestframework-stubs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typeddjango/djangorestframework-stubs?style=flat-square&color=yellow)](https://github.com/typeddjango/djangorestframework-stubs/stargazers) [![Forks](https://img.shields.io/github/forks/typeddjango/djangorestframework-stubs?style=flat-square&color=blue)](https://github.com/typeddjango/djangorestframework-stubs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > PEP-484 stubs for django-rest-framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 538 |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ The project scores high on production readiness: it is actively maintained (last
 | forks | 54/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # idris-lang/Idris2
 
-[![Stars](https://img.shields.io/github/stars/idris-lang/Idris2?style=flat-square&color=yellow)](https://github.com/idris-lang/Idris2/stargazers) [![Forks](https://img.shields.io/github/forks/idris-lang/Idris2?style=flat-square&color=blue)](https://github.com/idris-lang/Idris2/network) [![Language](https://img.shields.io/badge/lang-Idris-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idris-lang/Idris2?style=flat-square&color=yellow)](https://github.com/idris-lang/Idris2/stargazers) [![Forks](https://img.shields.io/github/forks/idris-lang/Idris2?style=flat-square&color=blue)](https://github.com/idris-lang/Idris2/network) [![Language](https://img.shields.io/badge/lang-Idris-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A purely functional programming language with first class types
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 408 |
 | 💻 **Language** | Idris |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ idris-lang/Idris2 的生产可用性为中等（Medium），适合用于原型�
 | forks | 65/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

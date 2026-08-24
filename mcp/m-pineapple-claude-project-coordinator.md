@@ -1,6 +1,6 @@
 # M-Pineapple/Claude-Project-Coordinator
 
-[![Stars](https://img.shields.io/github/stars/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=yellow)](https://github.com/M-Pineapple/Claude-Project-Coordinator/stargazers) [![Forks](https://img.shields.io/github/forks/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=blue)](https://github.com/M-Pineapple/Claude-Project-Coordinator/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=yellow)](https://github.com/M-Pineapple/Claude-Project-Coordinator/stargazers) [![Forks](https://img.shields.io/github/forks/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=blue)](https://github.com/M-Pineapple/Claude-Project-Coordinator/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Project Coordinator is a Swift-powered MCP (Model Context Protocol) server designed to streamline multi-project Xcode development. It lets you track project status, auto-detect frameworks, search code patterns, and maintain a structured development knowledge base — all locally, with Claude Desktop as your assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Claude 项目协调器的生产可用性为中等（Medium）。它适合用于�
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

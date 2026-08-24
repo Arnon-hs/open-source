@@ -1,6 +1,6 @@
 # streetsidesoftware/vscode-spell-checker
 
-[![Stars](https://img.shields.io/github/stars/streetsidesoftware/vscode-spell-checker?style=flat-square&color=yellow)](https://github.com/streetsidesoftware/vscode-spell-checker/stargazers) [![Forks](https://img.shields.io/github/forks/streetsidesoftware/vscode-spell-checker?style=flat-square&color=blue)](https://github.com/streetsidesoftware/vscode-spell-checker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streetsidesoftware/vscode-spell-checker?style=flat-square&color=yellow)](https://github.com/streetsidesoftware/vscode-spell-checker/stargazers) [![Forks](https://img.shields.io/github/forks/streetsidesoftware/vscode-spell-checker?style=flat-square&color=blue)](https://github.com/streetsidesoftware/vscode-spell-checker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A simple source code spell checker for code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ streetsidesoftware/vscode-spell-checker 是一个简单的源代码拼写检查�
 | forks | 54/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

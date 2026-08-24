@@ -1,6 +1,6 @@
 # ilia-pluzhnikov/claude-code-statusline
 
-[![Stars](https://img.shields.io/github/stars/ilia-pluzhnikov/claude-code-statusline?style=flat-square&color=yellow)](https://github.com/ilia-pluzhnikov/claude-code-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/ilia-pluzhnikov/claude-code-statusline?style=flat-square&color=blue)](https://github.com/ilia-pluzhnikov/claude-code-statusline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilia-pluzhnikov/claude-code-statusline?style=flat-square&color=yellow)](https://github.com/ilia-pluzhnikov/claude-code-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/ilia-pluzhnikov/claude-code-statusline?style=flat-square&color=blue)](https://github.com/ilia-pluzhnikov/claude-code-statusline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A feature-rich, dependency-free Node.js statusline for Claude Code with model, task, git state, context window, rate limits, and Anthropic peak-hours indicator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ ilia-pluzhnikov/claude-code-statusline 是一个功能丰富的 Node.js 状态�
 | forks | 26/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

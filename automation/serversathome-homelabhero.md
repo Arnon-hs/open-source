@@ -1,6 +1,6 @@
 # serversathome/homelabhero
 
-[![Stars](https://img.shields.io/github/stars/serversathome/homelabhero?style=flat-square&color=yellow)](https://github.com/serversathome/homelabhero/stargazers) [![Forks](https://img.shields.io/github/forks/serversathome/homelabhero?style=flat-square&color=blue)](https://github.com/serversathome/homelabhero/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serversathome/homelabhero?style=flat-square&color=yellow)](https://github.com/serversathome/homelabhero/stargazers) [![Forks](https://img.shields.io/github/forks/serversathome/homelabhero?style=flat-square&color=blue)](https://github.com/serversathome/homelabhero/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Turn a fresh LXC into an AI homelab command center. One command installs Claude Code + a web UI, preloaded with skills, and a credential broker so Claude operates your TrueNAS/Proxmox/Linux over SSH without ever seeing a secret.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ serversathome/homelabhero 的价值在于它可以帮助减少工作流中的重
 | forks | 8/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

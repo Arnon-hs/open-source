@@ -1,6 +1,6 @@
 # coz-m/MPLUS_FONTS
 
-[![Stars](https://img.shields.io/github/stars/coz-m/MPLUS_FONTS?style=flat-square&color=yellow)](https://github.com/coz-m/MPLUS_FONTS/stargazers) [![Forks](https://img.shields.io/github/forks/coz-m/MPLUS_FONTS?style=flat-square&color=blue)](https://github.com/coz-m/MPLUS_FONTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coz-m/MPLUS_FONTS?style=flat-square&color=yellow)](https://github.com/coz-m/MPLUS_FONTS/stargazers) [![Forks](https://img.shields.io/github/forks/coz-m/MPLUS_FONTS?style=flat-square&color=blue)](https://github.com/coz-m/MPLUS_FONTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > M+ FONTS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ M+ FONTS 项目的生产可用性为中等。虽然项目有 1206 个 GitHub sta
 | forks | 46/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

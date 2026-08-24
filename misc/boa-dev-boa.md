@@ -1,6 +1,6 @@
 # boa-dev/boa
 
-[![Stars](https://img.shields.io/github/stars/boa-dev/boa?style=flat-square&color=yellow)](https://github.com/boa-dev/boa/stargazers) [![Forks](https://img.shields.io/github/forks/boa-dev/boa?style=flat-square&color=blue)](https://github.com/boa-dev/boa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boa-dev/boa?style=flat-square&color=yellow)](https://github.com/boa-dev/boa/stargazers) [![Forks](https://img.shields.io/github/forks/boa-dev/boa?style=flat-square&color=blue)](https://github.com/boa-dev/boa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Boa is an embeddable Javascript engine written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 636 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Boa的生产可用性非常高。它有近7万个GitHub星星，636个分支，�
 | forks | 70/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

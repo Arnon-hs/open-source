@@ -1,6 +1,6 @@
 # bytemeadow/godot-bevy
 
-[![Stars](https://img.shields.io/github/stars/bytemeadow/godot-bevy?style=flat-square&color=yellow)](https://github.com/bytemeadow/godot-bevy/stargazers) [![Forks](https://img.shields.io/github/forks/bytemeadow/godot-bevy?style=flat-square&color=blue)](https://github.com/bytemeadow/godot-bevy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytemeadow/godot-bevy?style=flat-square&color=yellow)](https://github.com/bytemeadow/godot-bevy/stargazers) [![Forks](https://img.shields.io/github/forks/bytemeadow/godot-bevy?style=flat-square&color=blue)](https://github.com/bytemeadow/godot-bevy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Bring the power of Bevy to your Godot projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ bytemeadow/godot‑bevy 为 Godot 开发者提供了一套桥接层，让你可�
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

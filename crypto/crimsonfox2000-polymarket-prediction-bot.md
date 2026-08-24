@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ crimsonfox2000/polymarket-prediction-bot：crimsonfox2000/polymarket-prediction-
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

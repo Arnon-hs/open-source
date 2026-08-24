@@ -1,6 +1,6 @@
 # couchbase/mcp-server-couchbase
 
-[![Stars](https://img.shields.io/github/stars/couchbase/mcp-server-couchbase?style=flat-square&color=yellow)](https://github.com/couchbase/mcp-server-couchbase/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/mcp-server-couchbase?style=flat-square&color=blue)](https://github.com/couchbase/mcp-server-couchbase/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/couchbase/mcp-server-couchbase?style=flat-square&color=yellow)](https://github.com/couchbase/mcp-server-couchbase/stargazers) [![Forks](https://img.shields.io/github/forks/couchbase/mcp-server-couchbase?style=flat-square&color=blue)](https://github.com/couchbase/mcp-server-couchbase/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server to interact with data in Couchbase Clusters
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Data
+MCP
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ couchbase/mcp-server-couchbase：couchbase/mcp-server-couchbase helps connect AI
 | forks | 38/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

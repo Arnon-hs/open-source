@@ -1,6 +1,6 @@
 # ScrollPrize/villa
 
-[![Stars](https://img.shields.io/github/stars/ScrollPrize/villa?style=flat-square&color=yellow)](https://github.com/ScrollPrize/villa/stargazers) [![Forks](https://img.shields.io/github/forks/ScrollPrize/villa?style=flat-square&color=blue)](https://github.com/ScrollPrize/villa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScrollPrize/villa?style=flat-square&color=yellow)](https://github.com/ScrollPrize/villa/stargazers) [![Forks](https://img.shields.io/github/forks/ScrollPrize/villa?style=flat-square&color=blue)](https://github.com/ScrollPrize/villa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Vesuvius Challenge monorepo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,14 +73,15 @@ ScrollPrize/villa 是 Vesuvius Challenge 的单仓库，提供了完整的代码
 | forks | 51/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

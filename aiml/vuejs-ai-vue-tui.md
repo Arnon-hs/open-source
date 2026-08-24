@@ -1,6 +1,6 @@
 # vuejs-ai/vue-tui
 
-[![Stars](https://img.shields.io/github/stars/vuejs-ai/vue-tui?style=flat-square&color=yellow)](https://github.com/vuejs-ai/vue-tui/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs-ai/vue-tui?style=flat-square&color=blue)](https://github.com/vuejs-ai/vue-tui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vuejs-ai/vue-tui?style=flat-square&color=yellow)](https://github.com/vuejs-ai/vue-tui/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs-ai/vue-tui?style=flat-square&color=blue)](https://github.com/vuejs-ai/vue-tui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ vuejs-ai/vue-tui 是一套基于 Vue 的终端 UI 框架，支持单文件组件
 | forks | 21/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 77/100 |
-| usefulness | 90/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

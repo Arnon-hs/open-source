@@ -1,6 +1,6 @@
 # ianjwhite99/opencode-with-claude
 
-[![Stars](https://img.shields.io/github/stars/ianjwhite99/opencode-with-claude?style=flat-square&color=yellow)](https://github.com/ianjwhite99/opencode-with-claude/stargazers) [![Forks](https://img.shields.io/github/forks/ianjwhite99/opencode-with-claude?style=flat-square&color=blue)](https://github.com/ianjwhite99/opencode-with-claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ianjwhite99/opencode-with-claude?style=flat-square&color=yellow)](https://github.com/ianjwhite99/opencode-with-claude/stargazers) [![Forks](https://img.shields.io/github/forks/ianjwhite99/opencode-with-claude?style=flat-square&color=blue)](https://github.com/ianjwhite99/opencode-with-claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode plugin to use your Claude Max/Pro subscription with OpenCode via Meridian
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Overall, *opencode-with-claude* offers a high‑readiness, low‑effort path to 
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

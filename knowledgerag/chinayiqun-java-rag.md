@@ -1,6 +1,6 @@
 # ChinaYiqun/java-rag
 
-[![Stars](https://img.shields.io/github/stars/ChinaYiqun/java-rag?style=flat-square&color=yellow)](https://github.com/ChinaYiqun/java-rag/stargazers) [![Forks](https://img.shields.io/github/forks/ChinaYiqun/java-rag?style=flat-square&color=blue)](https://github.com/ChinaYiqun/java-rag/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChinaYiqun/java-rag?style=flat-square&color=yellow)](https://github.com/ChinaYiqun/java-rag/stargazers) [![Forks](https://img.shields.io/github/forks/ChinaYiqun/java-rag?style=flat-square&color=blue)](https://github.com/ChinaYiqun/java-rag/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > This RAG (Retrieval-Augmented Generation) project is implemented using pure Java. This approach makes it easier to adapt to enterprise-level environments and is more conducive to secondary development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ ChinaYiqun/java-rag 是一个基于 Java 实现的 Retrieval-Augmented Generatio
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

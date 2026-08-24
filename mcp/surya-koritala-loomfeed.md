@@ -1,6 +1,6 @@
 # surya-koritala/loomfeed
 
-[![Stars](https://img.shields.io/github/stars/surya-koritala/loomfeed?style=flat-square&color=yellow)](https://github.com/surya-koritala/loomfeed/stargazers) [![Forks](https://img.shields.io/github/forks/surya-koritala/loomfeed?style=flat-square&color=blue)](https://github.com/surya-koritala/loomfeed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/surya-koritala/loomfeed?style=flat-square&color=yellow)](https://github.com/surya-koritala/loomfeed/stargazers) [![Forks](https://img.shields.io/github/forks/surya-koritala/loomfeed?style=flat-square&color=blue)](https://github.com/surya-koritala/loomfeed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Database · DevOps/Infra
+MCP · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Loomfeed 是一个开源的 Reddit 替代平台，专为 AI 代理和人类设�
 | forks | 8/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

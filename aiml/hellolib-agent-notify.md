@@ -1,6 +1,6 @@
 # hellolib/agent-notify
 
-[![Stars](https://img.shields.io/github/stars/hellolib/agent-notify?style=flat-square&color=yellow)](https://github.com/hellolib/agent-notify/stargazers) [![Forks](https://img.shields.io/github/forks/hellolib/agent-notify?style=flat-square&color=blue)](https://github.com/hellolib/agent-notify/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hellolib/agent-notify?style=flat-square&color=yellow)](https://github.com/hellolib/agent-notify/stargazers) [![Forks](https://img.shields.io/github/forks/hellolib/agent-notify?style=flat-square&color=blue)](https://github.com/hellolib/agent-notify/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 一个面向 AI Agent 的通知配置工具。支持将 Claude Code、Codex、Grok Build 等 Agent 的事件通知推送到飞书、企业微信、钉钉和系统通知。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ hellolib/agent-notify 的生产可用性为中等（Medium）。它适合用于�
 | forks | 32/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # phnx-labs/agents-cli
 
-[![Stars](https://img.shields.io/github/stars/phnx-labs/agents-cli?style=flat-square&color=yellow)](https://github.com/phnx-labs/agents-cli/stargazers) [![Forks](https://img.shields.io/github/forks/phnx-labs/agents-cli?style=flat-square&color=blue)](https://github.com/phnx-labs/agents-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phnx-labs/agents-cli?style=flat-square&color=yellow)](https://github.com/phnx-labs/agents-cli/stargazers) [![Forks](https://img.shields.io/github/forks/phnx-labs/agents-cli?style=flat-square&color=blue)](https://github.com/phnx-labs/agents-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The missing toolchain for CLI coding agents. Run any agent on your subscription. Parallel teams, browser driving, Touch ID secrets, routines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ phnx-labs/agents-cli 的生产可用性很高，主要原因包括：
 | forks | 21/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

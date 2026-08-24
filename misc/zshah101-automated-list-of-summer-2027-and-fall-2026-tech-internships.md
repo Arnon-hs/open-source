@@ -1,6 +1,6 @@
 # zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships
 
-[![Stars](https://img.shields.io/github/stars/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships?style=flat-square&color=yellow)](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/stargazers) [![Forks](https://img.shields.io/github/forks/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships?style=flat-square&color=blue)](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships?style=flat-square&color=yellow)](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/stargazers) [![Forks](https://img.shields.io/github/forks/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships?style=flat-square&color=blue)](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > INTERNSHIP ENGINE
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ The project has a medium production readiness score, indicating that it can be u
 | forks | 19/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

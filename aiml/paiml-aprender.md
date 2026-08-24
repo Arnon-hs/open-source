@@ -1,6 +1,6 @@
 # paiml/aprender
 
-[![Stars](https://img.shields.io/github/stars/paiml/aprender?style=flat-square&color=yellow)](https://github.com/paiml/aprender/stargazers) [![Forks](https://img.shields.io/github/forks/paiml/aprender?style=flat-square&color=blue)](https://github.com/paiml/aprender/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paiml/aprender?style=flat-square&color=yellow)](https://github.com/paiml/aprender/stargazers) [![Forks](https://img.shields.io/github/forks/paiml/aprender?style=flat-square&color=blue)](https://github.com/paiml/aprender/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Next Generation Machine Learning, Statistics and Deep Learning in PURE Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ paiml/aprender 是一个基于纯 Rust 实现的下一代机器学习、统计�
 | forks | 33/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 71/100 |
-| usefulness | 42/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

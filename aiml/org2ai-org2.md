@@ -1,6 +1,6 @@
 # org2AI/ORG2
 
-[![Stars](https://img.shields.io/github/stars/org2AI/ORG2?style=flat-square&color=yellow)](https://github.com/org2AI/ORG2/stargazers) [![Forks](https://img.shields.io/github/forks/org2AI/ORG2?style=flat-square&color=blue)](https://github.com/org2AI/ORG2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/org2AI/ORG2?style=flat-square&color=yellow)](https://github.com/org2AI/ORG2/stargazers) [![Forks](https://img.shields.io/github/forks/org2AI/ORG2?style=flat-square&color=blue)](https://github.com/org2AI/ORG2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Coding agent orgs: built for reviewability and team collaboration. Built-in rust harness & 20+ CLIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ org2AI/ORG2 的生产可用性较高，主要原因是：
 | forks | 52/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

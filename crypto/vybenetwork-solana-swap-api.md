@@ -1,6 +1,6 @@
 # vybenetwork/solana-swap-api
 
-[![Stars](https://img.shields.io/github/stars/vybenetwork/solana-swap-api?style=flat-square&color=yellow)](https://github.com/vybenetwork/solana-swap-api/stargazers) [![Forks](https://img.shields.io/github/forks/vybenetwork/solana-swap-api?style=flat-square&color=blue)](https://github.com/vybenetwork/solana-swap-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vybenetwork/solana-swap-api?style=flat-square&color=yellow)](https://github.com/vybenetwork/solana-swap-api/stargazers) [![Forks](https://img.shields.io/github/forks/vybenetwork/solana-swap-api?style=flat-square&color=blue)](https://github.com/vybenetwork/solana-swap-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Solana Swap API & Router
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 975 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Backend · Database
+Crypto · Trading · Automation · Backend
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ vybenetwork/solana-swap-api 是一个开源项目，提供 Solana Swap API & Rou
 | forks | 50/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rburkholder/trade-frame
 
-[![Stars](https://img.shields.io/github/stars/rburkholder/trade-frame?style=flat-square&color=yellow)](https://github.com/rburkholder/trade-frame/stargazers) [![Forks](https://img.shields.io/github/forks/rburkholder/trade-frame?style=flat-square&color=blue)](https://github.com/rburkholder/trade-frame/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rburkholder/trade-frame?style=flat-square&color=yellow)](https://github.com/rburkholder/trade-frame/stargazers) [![Forks](https://img.shields.io/github/forks/rburkholder/trade-frame?style=flat-square&color=blue)](https://github.com/rburkholder/trade-frame/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > C++ 17 based library (with sample applications) for testing equities, futures, currencies, etfs & options based automated trading ideas using DTN IQFeed real time data feed and Interactive Brokers (IB TWS API) for trade execution. libtorch/lstm/cuda demo. Support for Alpaca & Phemex. Notifications via Telegram.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 672 |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · Frontend · Backend · DevTools
+Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ rburkholder/trade-frame 帮助研究和自动化市场工作流程，支持以�
 | forks | 57/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

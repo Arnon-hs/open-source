@@ -1,6 +1,6 @@
 # dotnet/ClangSharp
 
-[![Stars](https://img.shields.io/github/stars/dotnet/ClangSharp?style=flat-square&color=yellow)](https://github.com/dotnet/ClangSharp/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/ClangSharp?style=flat-square&color=blue)](https://github.com/dotnet/ClangSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/ClangSharp?style=flat-square&color=yellow)](https://github.com/dotnet/ClangSharp/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/ClangSharp?style=flat-square&color=blue)](https://github.com/dotnet/ClangSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Clang bindings for .NET written in C#
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ dotnet/ClangSharp 是一个用 C# 实现的 Clang 绑定库，提供对 LLVM/Cla
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

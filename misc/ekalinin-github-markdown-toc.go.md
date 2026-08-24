@@ -1,6 +1,6 @@
 # ekalinin/github-markdown-toc.go
 
-[![Stars](https://img.shields.io/github/stars/ekalinin/github-markdown-toc.go?style=flat-square&color=yellow)](https://github.com/ekalinin/github-markdown-toc.go/stargazers) [![Forks](https://img.shields.io/github/forks/ekalinin/github-markdown-toc.go?style=flat-square&color=blue)](https://github.com/ekalinin/github-markdown-toc.go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ekalinin/github-markdown-toc.go?style=flat-square&color=yellow)](https://github.com/ekalinin/github-markdown-toc.go/stargazers) [![Forks](https://img.shields.io/github/forks/ekalinin/github-markdown-toc.go?style=flat-square&color=blue)](https://github.com/ekalinin/github-markdown-toc.go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Easy TOC creation for GitHub README.md (in go)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 525 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ ekalinin/github-markdown-toc.go 是一个开源项目，用于在 GitHub README.
 | forks | 49/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

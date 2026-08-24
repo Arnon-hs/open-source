@@ -1,6 +1,6 @@
 # larashero3-dotcom/lieflat-charts
 
-[![Stars](https://img.shields.io/github/stars/larashero3-dotcom/lieflat-charts?style=flat-square&color=yellow)](https://github.com/larashero3-dotcom/lieflat-charts/stargazers) [![Forks](https://img.shields.io/github/forks/larashero3-dotcom/lieflat-charts?style=flat-square&color=blue)](https://github.com/larashero3-dotcom/lieflat-charts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/larashero3-dotcom/lieflat-charts?style=flat-square&color=yellow)](https://github.com/larashero3-dotcom/lieflat-charts/stargazers) [![Forks](https://img.shields.io/github/forks/larashero3-dotcom/lieflat-charts?style=flat-square&color=blue)](https://github.com/larashero3-dotcom/lieflat-charts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ larashero3-dotcom/lieflat-charts 帮助将孤立的提示和工具转化为可�
 | forks | 45/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

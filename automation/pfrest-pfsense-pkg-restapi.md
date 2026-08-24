@@ -1,6 +1,6 @@
 # pfrest/pfSense-pkg-RESTAPI
 
-[![Stars](https://img.shields.io/github/stars/pfrest/pfSense-pkg-RESTAPI?style=flat-square&color=yellow)](https://github.com/pfrest/pfSense-pkg-RESTAPI/stargazers) [![Forks](https://img.shields.io/github/forks/pfrest/pfSense-pkg-RESTAPI?style=flat-square&color=blue)](https://github.com/pfrest/pfSense-pkg-RESTAPI/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pfrest/pfSense-pkg-RESTAPI?style=flat-square&color=yellow)](https://github.com/pfrest/pfSense-pkg-RESTAPI/stargazers) [![Forks](https://img.shields.io/github/forks/pfrest/pfSense-pkg-RESTAPI?style=flat-square&color=blue)](https://github.com/pfrest/pfSense-pkg-RESTAPI/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The missing REST and GraphQL API package for pfSense
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 806 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ pfrest/pfSense-pkg-RESTAPI 是为 pfSense 防火墙补齐的 REST 与 GraphQL �
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # wwwwwwworld/solana-trading-bot-v3
 
-[![Stars](https://img.shields.io/github/stars/wwwwwwworld/solana-trading-bot-v3?style=flat-square&color=yellow)](https://github.com/wwwwwwworld/solana-trading-bot-v3/stargazers) [![Forks](https://img.shields.io/github/forks/wwwwwwworld/solana-trading-bot-v3?style=flat-square&color=blue)](https://github.com/wwwwwwworld/solana-trading-bot-v3/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wwwwwwworld/solana-trading-bot-v3?style=flat-square&color=yellow)](https://github.com/wwwwwwworld/solana-trading-bot-v3/stargazers) [![Forks](https://img.shields.io/github/forks/wwwwwwworld/solana-trading-bot-v3?style=flat-square&color=blue)](https://github.com/wwwwwwworld/solana-trading-bot-v3/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Observability
+Crypto · Trading · Automation · Observability
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ wwwwwwworld/solana-trading-bot-v3 是一个用于 Solana 链上交易的开源�
 | forks | 97/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

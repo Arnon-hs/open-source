@@ -1,6 +1,6 @@
 # ai4curation/ai-gene-review
 
-[![Stars](https://img.shields.io/github/stars/ai4curation/ai-gene-review?style=flat-square&color=yellow)](https://github.com/ai4curation/ai-gene-review/stargazers) [![Forks](https://img.shields.io/github/forks/ai4curation/ai-gene-review?style=flat-square&color=blue)](https://github.com/ai4curation/ai-gene-review/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai4curation/ai-gene-review?style=flat-square&color=yellow)](https://github.com/ai4curation/ai-gene-review/stargazers) [![Forks](https://img.shields.io/github/forks/ai4curation/ai-gene-review?style=flat-square&color=blue)](https://github.com/ai4curation/ai-gene-review/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Demonstration of AI review of existing functional annotations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ai4curation/ai-gene-review：ai4curation/ai-gene-review helps add AI capability 
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

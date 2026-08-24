@@ -1,6 +1,6 @@
 # mwarning/KadNode
 
-[![Stars](https://img.shields.io/github/stars/mwarning/KadNode?style=flat-square&color=yellow)](https://github.com/mwarning/KadNode/stargazers) [![Forks](https://img.shields.io/github/forks/mwarning/KadNode?style=flat-square&color=blue)](https://github.com/mwarning/KadNode/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mwarning/KadNode?style=flat-square&color=yellow)](https://github.com/mwarning/KadNode/stargazers) [![Forks](https://img.shields.io/github/forks/mwarning/KadNode?style=flat-square&color=blue)](https://github.com/mwarning/KadNode/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 440 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ KadNode 在原型开发和内部实验阶段价值突出，能够快速验证 We
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

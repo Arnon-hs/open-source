@@ -1,6 +1,6 @@
 # Voxelum/x-minecraft-launcher
 
-[![Stars](https://img.shields.io/github/stars/Voxelum/x-minecraft-launcher?style=flat-square&color=yellow)](https://github.com/Voxelum/x-minecraft-launcher/stargazers) [![Forks](https://img.shields.io/github/forks/Voxelum/x-minecraft-launcher?style=flat-square&color=blue)](https://github.com/Voxelum/x-minecraft-launcher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Voxelum/x-minecraft-launcher?style=flat-square&color=yellow)](https://github.com/Voxelum/x-minecraft-launcher/stargazers) [![Forks](https://img.shields.io/github/forks/Voxelum/x-minecraft-launcher?style=flat-square&color=blue)](https://github.com/Voxelum/x-minecraft-launcher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Voxelum/x-minecraft-launcher 是一款采用现代化交互设计的开源 Minec
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

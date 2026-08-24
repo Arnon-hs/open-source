@@ -1,6 +1,6 @@
 # ace-trump-tech/DeltaForce-OBS-Locker
 
-[![Stars](https://img.shields.io/github/stars/ace-trump-tech/DeltaForce-OBS-Locker?style=flat-square&color=yellow)](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker/stargazers) [![Forks](https://img.shields.io/github/forks/ace-trump-tech/DeltaForce-OBS-Locker?style=flat-square&color=blue)](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ace-trump-tech/DeltaForce-OBS-Locker?style=flat-square&color=yellow)](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker/stargazers) [![Forks](https://img.shields.io/github/forks/ace-trump-tech/DeltaForce-OBS-Locker?style=flat-square&color=blue)](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。5L2G5YW25a6e5Lul5LiK5YWo5piv6aqX5L2g55qE77yM6L+Z5Y+q5piv5Liq5biu5L2g5a6J6KOF5pqX5Yy656qB5Zu055qE5Y+N5L2c5byK6aG555uu572i5LqG
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ DeltaForce-OBS-Locker 的生产可用性为中等。它适合用于内部测试�
 | forks | 78/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # reymerekar7/rm-skills
 
-[![Stars](https://img.shields.io/github/stars/reymerekar7/rm-skills?style=flat-square&color=yellow)](https://github.com/reymerekar7/rm-skills/stargazers) [![Forks](https://img.shields.io/github/forks/reymerekar7/rm-skills?style=flat-square&color=blue)](https://github.com/reymerekar7/rm-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reymerekar7/rm-skills?style=flat-square&color=yellow)](https://github.com/reymerekar7/rm-skills/stargazers) [![Forks](https://img.shields.io/github/forks/reymerekar7/rm-skills?style=flat-square&color=blue)](https://github.com/reymerekar7/rm-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills for Claude Code — video analysis, X/Twitter scanning, Gmail triage, and tweet reading
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ reymerekar7/rm-skills 是一个开源项目，提供了 Claude Code 的 AI 代�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 43/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

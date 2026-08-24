@@ -1,6 +1,6 @@
 # pascalorg/editor
 
-[![Stars](https://img.shields.io/github/stars/pascalorg/editor?style=flat-square&color=yellow)](https://github.com/pascalorg/editor/stargazers) [![Forks](https://img.shields.io/github/forks/pascalorg/editor?style=flat-square&color=blue)](https://github.com/pascalorg/editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pascalorg/editor?style=flat-square&color=yellow)](https://github.com/pascalorg/editor/stargazers) [![Forks](https://img.shields.io/github/forks/pascalorg/editor?style=flat-square&color=blue)](https://github.com/pascalorg/editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Create and share 3D architectural projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ pascalorg/editor 是一个开源项目，用于创建和共享 3D 建筑项目�
 | forks | 86/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 86/100 |
+| recency | 60/100 |
 | adoption | 90/100 |
-| production | 84/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

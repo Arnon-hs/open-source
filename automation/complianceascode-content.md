@@ -1,6 +1,6 @@
 # ComplianceAsCode/content
 
-[![Stars](https://img.shields.io/github/stars/ComplianceAsCode/content?style=flat-square&color=yellow)](https://github.com/ComplianceAsCode/content/stargazers) [![Forks](https://img.shields.io/github/forks/ComplianceAsCode/content?style=flat-square&color=blue)](https://github.com/ComplianceAsCode/content/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComplianceAsCode/content?style=flat-square&color=yellow)](https://github.com/ComplianceAsCode/content/stargazers) [![Forks](https://img.shields.io/github/forks/ComplianceAsCode/content?style=flat-square&color=blue)](https://github.com/ComplianceAsCode/content/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Security automation content in SCAP, Bash, Ansible, and other formats
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 813 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database · Security
+Automation · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ ComplianceAsCode/content 是一个开源库，提供基于 SCAP、Bash、Ansible
 | forks | 73/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

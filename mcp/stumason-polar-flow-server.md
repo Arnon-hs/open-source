@@ -1,6 +1,6 @@
 # StuMason/polar-flow-server
 
-[![Stars](https://img.shields.io/github/stars/StuMason/polar-flow-server?style=flat-square&color=yellow)](https://github.com/StuMason/polar-flow-server/stargazers) [![Forks](https://img.shields.io/github/forks/StuMason/polar-flow-server?style=flat-square&color=blue)](https://github.com/StuMason/polar-flow-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StuMason/polar-flow-server?style=flat-square&color=yellow)](https://github.com/StuMason/polar-flow-server/stargazers) [![Forks](https://img.shields.io/github/forks/StuMason/polar-flow-server?style=flat-square&color=blue)](https://github.com/StuMason/polar-flow-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted health analytics for Polar devices — sync everything, keep it forever, and let your AI read it over MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Data · Database
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ StuMason/polar-flow-server 是一个开源项目，旨在为 Polar 设备提供�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

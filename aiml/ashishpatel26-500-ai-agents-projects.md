@@ -1,6 +1,6 @@
 # ashishpatel26/500-AI-Agents-Projects
 
-[![Stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=flat-square&color=yellow)](https://github.com/ashishpatel26/500-AI-Agents-Projects/stargazers) [![Forks](https://img.shields.io/github/forks/ashishpatel26/500-AI-Agents-Projects?style=flat-square&color=blue)](https://github.com/ashishpatel26/500-AI-Agents-Projects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=flat-square&color=yellow)](https://github.com/ashishpatel26/500-AI-Agents-Projects/stargazers) [![Forks](https://img.shields.io/github/forks/ashishpatel26/500-AI-Agents-Projects?style=flat-square&color=blue)](https://github.com/ashishpatel26/500-AI-Agents-Projects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35.1k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Here's a brief summary and explanation of the project's value, adoption path, an
 | forks | 95/100 |
 | stars | 97/100 |
 | topics | 25/100 |
-| outlook | 83/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 96/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

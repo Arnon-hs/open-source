@@ -1,6 +1,6 @@
 # sharpemu/sharpemu
 
-[![Stars](https://img.shields.io/github/stars/sharpemu/sharpemu?style=flat-square&color=yellow)](https://github.com/sharpemu/sharpemu/stargazers) [![Forks](https://img.shields.io/github/forks/sharpemu/sharpemu?style=flat-square&color=blue)](https://github.com/sharpemu/sharpemu/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sharpemu/sharpemu?style=flat-square&color=yellow)](https://github.com/sharpemu/sharpemu/stargazers) [![Forks](https://img.shields.io/github/forks/sharpemu/sharpemu?style=flat-square&color=blue)](https://github.com/sharpemu/sharpemu/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ sharpemu/sharpemu的生产可用性为中等，适合用于原型或内部工作
 | forks | 57/100 |
 | stars | 73/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

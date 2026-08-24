@@ -1,6 +1,6 @@
 # 1Panel-dev/CordysCRM-skills
 
-[![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM-skills?style=flat-square&color=yellow)](https://github.com/1Panel-dev/CordysCRM-skills/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/CordysCRM-skills?style=flat-square&color=blue)](https://github.com/1Panel-dev/CordysCRM-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM-skills?style=flat-square&color=yellow)](https://github.com/1Panel-dev/CordysCRM-skills/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/CordysCRM-skills?style=flat-square&color=blue)](https://github.com/1Panel-dev/CordysCRM-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 你的专属 AI CRM 销售助理，可集成至 OpenClaw、WorkBuddy 等任何 Agent，覆盖 L2C 整个链路。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ AI/ML
 | forks | 27/100 |
 | stars | 33/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vastsa/PI-Dock
 
-[![Stars](https://img.shields.io/github/stars/vastsa/PI-Dock?style=flat-square&color=yellow)](https://github.com/vastsa/PI-Dock/stargazers) [![Forks](https://img.shields.io/github/forks/vastsa/PI-Dock?style=flat-square&color=blue)](https://github.com/vastsa/PI-Dock/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vastsa/PI-Dock?style=flat-square&color=yellow)](https://github.com/vastsa/PI-Dock/stargazers) [![Forks](https://img.shields.io/github/forks/vastsa/PI-Dock?style=flat-square&color=blue)](https://github.com/vastsa/PI-Dock/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ vastsa/PI-Dock具有高生产可用性，原因包括：
 | forks | 27/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

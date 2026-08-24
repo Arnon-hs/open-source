@@ -1,6 +1,6 @@
 # kanyun-inc/reskill
 
-[![Stars](https://img.shields.io/github/stars/kanyun-inc/reskill?style=flat-square&color=yellow)](https://github.com/kanyun-inc/reskill/stargazers) [![Forks](https://img.shields.io/github/forks/kanyun-inc/reskill?style=flat-square&color=blue)](https://github.com/kanyun-inc/reskill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanyun-inc/reskill?style=flat-square&color=yellow)](https://github.com/kanyun-inc/reskill/stargazers) [![Forks](https://img.shields.io/github/forks/kanyun-inc/reskill?style=flat-square&color=blue)](https://github.com/kanyun-inc/reskill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > reskill - brings the npm experience to AI agent skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Reskill is currently at a **medium** readiness level: it is functional for proto
 | forks | 12/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

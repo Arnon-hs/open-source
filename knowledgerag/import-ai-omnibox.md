@@ -1,6 +1,6 @@
 # import-ai/omnibox
 
-[![Stars](https://img.shields.io/github/stars/import-ai/omnibox?style=flat-square&color=yellow)](https://github.com/import-ai/omnibox/stargazers) [![Forks](https://img.shields.io/github/forks/import-ai/omnibox?style=flat-square&color=blue)](https://github.com/import-ai/omnibox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/import-ai/omnibox?style=flat-square&color=yellow)](https://github.com/import-ai/omnibox/stargazers) [![Forks](https://img.shields.io/github/forks/import-ai/omnibox?style=flat-square&color=blue)](https://github.com/import-ai/omnibox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Collect, organize, use, and share, all in OmniBox.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ import‑ai/omnibox 是一款基于 Python 的开源知识管理与检索框架�
 | forks | 55/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

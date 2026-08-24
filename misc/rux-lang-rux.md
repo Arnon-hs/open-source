@@ -1,6 +1,6 @@
 # rux-lang/Rux
 
-[![Stars](https://img.shields.io/github/stars/rux-lang/Rux?style=flat-square&color=yellow)](https://github.com/rux-lang/Rux/stargazers) [![Forks](https://img.shields.io/github/forks/rux-lang/Rux?style=flat-square&color=blue)](https://github.com/rux-lang/Rux/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rux-lang/Rux?style=flat-square&color=yellow)](https://github.com/rux-lang/Rux/stargazers) [![Forks](https://img.shields.io/github/forks/rux-lang/Rux?style=flat-square&color=blue)](https://github.com/rux-lang/Rux/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Compiler for the Rux programming language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Rux 是一个开源编程语言的编译器，项目名为 rux-lang/Rux。该项
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

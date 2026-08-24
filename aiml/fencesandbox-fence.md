@@ -1,6 +1,6 @@
 # fencesandbox/fence
 
-[![Stars](https://img.shields.io/github/stars/fencesandbox/fence?style=flat-square&color=yellow)](https://github.com/fencesandbox/fence/stargazers) [![Forks](https://img.shields.io/github/forks/fencesandbox/fence?style=flat-square&color=blue)](https://github.com/fencesandbox/fence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fencesandbox/fence?style=flat-square&color=yellow)](https://github.com/fencesandbox/fence/stargazers) [![Forks](https://img.shields.io/github/forks/fencesandbox/fence?style=flat-square&color=blue)](https://github.com/fencesandbox/fence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 831 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ fencesandbox/fence 的生产可用性评分为高（66/100），主要原因是�
 | forks | 38/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

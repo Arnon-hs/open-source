@@ -1,6 +1,6 @@
 # datawhalechina/happy-llm
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/happy-llm?style=flat-square&color=yellow)](https://github.com/datawhalechina/happy-llm/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/happy-llm?style=flat-square&color=blue)](https://github.com/datawhalechina/happy-llm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/happy-llm?style=flat-square&color=yellow)](https://github.com/datawhalechina/happy-llm/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/happy-llm?style=flat-square&color=blue)](https://github.com/datawhalechina/happy-llm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 从零开始构建大模型
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32.6k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ datawhalechina/happy-llm 的生产可用性相对较高，主要原因是：
 | forks | 87/100 |
 | stars | 96/100 |
 | topics | 38/100 |
-| outlook | 87/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 94/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

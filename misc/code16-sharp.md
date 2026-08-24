@@ -1,6 +1,6 @@
 # code16/sharp
 
-[![Stars](https://img.shields.io/github/stars/code16/sharp?style=flat-square&color=yellow)](https://github.com/code16/sharp/stargazers) [![Forks](https://img.shields.io/github/forks/code16/sharp?style=flat-square&color=blue)](https://github.com/code16/sharp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/code16/sharp?style=flat-square&color=yellow)](https://github.com/code16/sharp/stargazers) [![Forks](https://img.shields.io/github/forks/code16/sharp?style=flat-square&color=blue)](https://github.com/code16/sharp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Laravel 11+ Content management framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 791 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ code16/sharp 的生产可用性为中等。虽然它可以用于内部工作流�
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jonhoo/rust-ibverbs
 
-[![Stars](https://img.shields.io/github/stars/jonhoo/rust-ibverbs?style=flat-square&color=yellow)](https://github.com/jonhoo/rust-ibverbs/stargazers) [![Forks](https://img.shields.io/github/forks/jonhoo/rust-ibverbs?style=flat-square&color=blue)](https://github.com/jonhoo/rust-ibverbs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonhoo/rust-ibverbs?style=flat-square&color=yellow)](https://github.com/jonhoo/rust-ibverbs/stargazers) [![Forks](https://img.shields.io/github/forks/jonhoo/rust-ibverbs?style=flat-square&color=blue)](https://github.com/jonhoo/rust-ibverbs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Bindings for RDMA ibverbs through rdma-core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Overall, `rust-ibverbs` is a solid building block for high‑performance Rust ne
 | forks | 44/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

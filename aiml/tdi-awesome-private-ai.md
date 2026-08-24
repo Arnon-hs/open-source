@@ -1,6 +1,6 @@
 # tdi/awesome-private-ai
 
-[![Stars](https://img.shields.io/github/stars/tdi/awesome-private-ai?style=flat-square&color=yellow)](https://github.com/tdi/awesome-private-ai/stargazers) [![Forks](https://img.shields.io/github/forks/tdi/awesome-private-ai?style=flat-square&color=blue)](https://github.com/tdi/awesome-private-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tdi/awesome-private-ai?style=flat-square&color=yellow)](https://github.com/tdi/awesome-private-ai/stargazers) [![Forks](https://img.shields.io/github/forks/tdi/awesome-private-ai?style=flat-square&color=blue)](https://github.com/tdi/awesome-private-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ tdi/awesome-private-ai 的生产可用性为中等（Medium）。它
 | forks | 40/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

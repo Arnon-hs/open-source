@@ -1,6 +1,6 @@
 # navilg/media-stack
 
-[![Stars](https://img.shields.io/github/stars/navilg/media-stack?style=flat-square&color=yellow)](https://github.com/navilg/media-stack/stargazers) [![Forks](https://img.shields.io/github/forks/navilg/media-stack?style=flat-square&color=blue)](https://github.com/navilg/media-stack/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/navilg/media-stack?style=flat-square&color=yellow)](https://github.com/navilg/media-stack/stargazers) [![Forks](https://img.shields.io/github/forks/navilg/media-stack?style=flat-square&color=blue)](https://github.com/navilg/media-stack/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted stack for media management and streaming, with AI-powered movie and show recommendations. Includes Sonarr, Radarr, qBitTorrent, Prowlarr, Jellyfin, Seerr, Recommendarr, and VPN support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ navilg/media‑stack 为需要在自托管媒体环境中快速加入 AI 推荐�
 | forks | 52/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

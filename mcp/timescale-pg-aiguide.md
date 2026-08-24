@@ -1,6 +1,6 @@
 # timescale/pg-aiguide
 
-[![Stars](https://img.shields.io/github/stars/timescale/pg-aiguide?style=flat-square&color=yellow)](https://github.com/timescale/pg-aiguide/stargazers) [![Forks](https://img.shields.io/github/forks/timescale/pg-aiguide?style=flat-square&color=blue)](https://github.com/timescale/pg-aiguide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timescale/pg-aiguide?style=flat-square&color=yellow)](https://github.com/timescale/pg-aiguide/stargazers) [![Forks](https://img.shields.io/github/forks/timescale/pg-aiguide?style=flat-square&color=blue)](https://github.com/timescale/pg-aiguide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Database
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ timescale/pg‑aiguide 是一个面向 PostgreSQL 的 MCP（Model Context Protoc
 | forks | 49/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 82/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

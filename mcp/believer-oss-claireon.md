@@ -1,6 +1,6 @@
 # believer-oss/Claireon
 
-[![Stars](https://img.shields.io/github/stars/believer-oss/Claireon?style=flat-square&color=yellow)](https://github.com/believer-oss/Claireon/stargazers) [![Forks](https://img.shields.io/github/forks/believer-oss/Claireon?style=flat-square&color=blue)](https://github.com/believer-oss/Claireon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/believer-oss/Claireon?style=flat-square&color=yellow)](https://github.com/believer-oss/Claireon/stargazers) [![Forks](https://img.shields.io/github/forks/believer-oss/Claireon?style=flat-square&color=blue)](https://github.com/believer-oss/Claireon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Unreal Editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ believer-oss/Claireon：believer-oss/Claireon helps connect AI assistants to rea
 | forks | 31/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

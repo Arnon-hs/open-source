@@ -1,6 +1,6 @@
 # corespeed-io/wechatbot
 
-[![Stars](https://img.shields.io/github/stars/corespeed-io/wechatbot?style=flat-square&color=yellow)](https://github.com/corespeed-io/wechatbot/stargazers) [![Forks](https://img.shields.io/github/forks/corespeed-io/wechatbot?style=flat-square&color=blue)](https://github.com/corespeed-io/wechatbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/corespeed-io/wechatbot?style=flat-square&color=yellow)](https://github.com/corespeed-io/wechatbot/stargazers) [![Forks](https://img.shields.io/github/forks/corespeed-io/wechatbot?style=flat-square&color=blue)](https://github.com/corespeed-io/wechatbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 微信 iLink Bot SDK for OpenClaw/AI Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ corespeed-io/wechatbot 提供了微信 iLink Bot 的 SDK，能够把微信聊天
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 76/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # karimz1/imgcompress
 
-[![Stars](https://img.shields.io/github/stars/karimz1/imgcompress?style=flat-square&color=yellow)](https://github.com/karimz1/imgcompress/stargazers) [![Forks](https://img.shields.io/github/forks/karimz1/imgcompress?style=flat-square&color=blue)](https://github.com/karimz1/imgcompress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karimz1/imgcompress?style=flat-square&color=yellow)](https://github.com/karimz1/imgcompress/stargazers) [![Forks](https://img.shields.io/github/forks/karimz1/imgcompress?style=flat-square&color=blue)](https://github.com/karimz1/imgcompress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Imgcompress is a self-hosted image processing toolbox that handles compression, format conversion, and AI background removal in a single web interface. It supports over 70 input formats (including PSD, HEIC, and RAW) and can output common formats or generate PDFs, all without sending files to external services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ karimz1/imgcompress 是一款自托管的图像处理工具箱，提供压缩、
 | forks | 33/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

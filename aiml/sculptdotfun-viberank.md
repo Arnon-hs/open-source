@@ -1,6 +1,6 @@
 # sculptdotfun/viberank
 
-[![Stars](https://img.shields.io/github/stars/sculptdotfun/viberank?style=flat-square&color=yellow)](https://github.com/sculptdotfun/viberank/stargazers) [![Forks](https://img.shields.io/github/forks/sculptdotfun/viberank?style=flat-square&color=blue)](https://github.com/sculptdotfun/viberank/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sculptdotfun/viberank?style=flat-square&color=yellow)](https://github.com/sculptdotfun/viberank/stargazers) [![Forks](https://img.shields.io/github/forks/sculptdotfun/viberank?style=flat-square&color=blue)](https://github.com/sculptdotfun/viberank/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆 The AI coding usage leaderboard — Claude Code, Codex, Gemini CLI & more. Real costs and tokens from ccusage data. Submit with: npx viberank-cli
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ sculptdotfun/viberank 的生产可用性很高，因为它拥有活跃的社区�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

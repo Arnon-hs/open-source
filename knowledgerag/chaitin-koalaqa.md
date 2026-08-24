@@ -1,6 +1,6 @@
 # chaitin/KoalaQA
 
-[![Stars](https://img.shields.io/github/stars/chaitin/KoalaQA?style=flat-square&color=yellow)](https://github.com/chaitin/KoalaQA/stargazers) [![Forks](https://img.shields.io/github/forks/chaitin/KoalaQA?style=flat-square&color=blue)](https://github.com/chaitin/KoalaQA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chaitin/KoalaQA?style=flat-square&color=yellow)](https://github.com/chaitin/KoalaQA/stargazers) [![Forks](https://img.shields.io/github/forks/chaitin/KoalaQA?style=flat-square&color=blue)](https://github.com/chaitin/KoalaQA/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，帮助你快速落地售后客服、社区问答、自助服务等场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ KoalaQA 是一款基于大语言模型的开源售后服务社区，提供 AI �
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

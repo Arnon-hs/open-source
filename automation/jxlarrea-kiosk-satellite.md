@@ -1,6 +1,6 @@
 # jxlarrea/kiosk-satellite
 
-[![Stars](https://img.shields.io/github/stars/jxlarrea/kiosk-satellite?style=flat-square&color=yellow)](https://github.com/jxlarrea/kiosk-satellite/stargazers) [![Forks](https://img.shields.io/github/forks/jxlarrea/kiosk-satellite?style=flat-square&color=blue)](https://github.com/jxlarrea/kiosk-satellite/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jxlarrea/kiosk-satellite?style=flat-square&color=yellow)](https://github.com/jxlarrea/kiosk-satellite/stargazers) [![Forks](https://img.shields.io/github/forks/jxlarrea/kiosk-satellite?style=flat-square&color=blue)](https://github.com/jxlarrea/kiosk-satellite/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any Android device into a dedicated, voice-enabled Home Assistant kiosk. The official companion app for Voice Satellite.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ jxlarrea/kiosk-satellite是一个开源项目，允许将任何安卓设备转�
 | forks | 28/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

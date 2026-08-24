@@ -1,6 +1,6 @@
 # utkuozdemir/nvidia_gpu_exporter
 
-[![Stars](https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=flat-square&color=yellow)](https://github.com/utkuozdemir/nvidia_gpu_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/utkuozdemir/nvidia_gpu_exporter?style=flat-square&color=blue)](https://github.com/utkuozdemir/nvidia_gpu_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=flat-square&color=yellow)](https://github.com/utkuozdemir/nvidia_gpu_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/utkuozdemir/nvidia_gpu_exporter?style=flat-square&color=blue)](https://github.com/utkuozdemir/nvidia_gpu_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Nvidia GPU exporter for prometheus using nvidia-smi binary
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ utkuozdemir/nvidia_gpu_exporter 是一个基于 Go 实现的 Prometheus Exporter
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

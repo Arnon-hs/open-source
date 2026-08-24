@@ -1,6 +1,6 @@
 # bitwarden/sdk-sm
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/sdk-sm?style=flat-square&color=yellow)](https://github.com/bitwarden/sdk-sm/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/sdk-sm?style=flat-square&color=blue)](https://github.com/bitwarden/sdk-sm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/sdk-sm?style=flat-square&color=yellow)](https://github.com/bitwarden/sdk-sm/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/sdk-sm?style=flat-square&color=blue)](https://github.com/bitwarden/sdk-sm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Bitwarden Secrets Manager SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 440 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ The project sits at a **medium** readiness level: it is stable enough for protot
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

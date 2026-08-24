@@ -1,6 +1,6 @@
 # PinkR1ver/vibe-roast
 
-[![Stars](https://img.shields.io/github/stars/PinkR1ver/vibe-roast?style=flat-square&color=yellow)](https://github.com/PinkR1ver/vibe-roast/stargazers) [![Forks](https://img.shields.io/github/forks/PinkR1ver/vibe-roast?style=flat-square&color=blue)](https://github.com/PinkR1ver/vibe-roast/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PinkR1ver/vibe-roast?style=flat-square&color=yellow)](https://github.com/PinkR1ver/vibe-roast/stargazers) [![Forks](https://img.shields.io/github/forks/PinkR1ver/vibe-roast?style=flat-square&color=blue)](https://github.com/PinkR1ver/vibe-roast/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI coding personality profiler, usage dashboard, and evidence-grounded roast.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ PinkR1ver/vibe-roast 的生产可用性为中等（Medium）。它适合用于�
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

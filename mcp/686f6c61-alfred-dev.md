@@ -1,6 +1,6 @@
 # 686f6c61/alfred-dev
 
-[![Stars](https://img.shields.io/github/stars/686f6c61/alfred-dev?style=flat-square&color=yellow)](https://github.com/686f6c61/alfred-dev/stargazers) [![Forks](https://img.shields.io/github/forks/686f6c61/alfred-dev?style=flat-square&color=blue)](https://github.com/686f6c61/alfred-dev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/686f6c61/alfred-dev?style=flat-square&color=yellow)](https://github.com/686f6c61/alfred-dev/stargazers) [![Forks](https://img.shields.io/github/forks/686f6c61/alfred-dev?style=flat-square&color=blue)](https://github.com/686f6c61/alfred-dev/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Tu equipo de desarrolladores en un plugin. 10 agentes, 11 skills planas, 18 comandos /alfred-dev:*. Memoria persistente, quality gates con evidencia y MCP local.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Security
+MCP · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ To adopt 686f6l61/alfred-dev, developers can start by evaluating the project's i
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

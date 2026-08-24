@@ -1,6 +1,6 @@
 # nirholas/PAI
 
-[![Stars](https://img.shields.io/github/stars/nirholas/PAI?style=flat-square&color=yellow)](https://github.com/nirholas/PAI/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/PAI?style=flat-square&color=blue)](https://github.com/nirholas/PAI/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/PAI?style=flat-square&color=yellow)](https://github.com/nirholas/PAI/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/PAI?style=flat-square&color=blue)](https://github.com/nirholas/PAI/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any x86_64 or ARM64 machine — full desktop, local AI, hardened networking, all in RAM. Plug in, boot in seconds, work anywhere, pull the stick and nothing stays behind. Your AI on your hardware, no cloud, no accounts. https://pai.direct
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ nirholas/PAI：nirholas/PAI helps prototype or inspect blockchain workflows with
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

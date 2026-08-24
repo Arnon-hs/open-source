@@ -1,6 +1,6 @@
 # mudkipme/MoeMemosAndroid
 
-[![Stars](https://img.shields.io/github/stars/mudkipme/MoeMemosAndroid?style=flat-square&color=yellow)](https://github.com/mudkipme/MoeMemosAndroid/stargazers) [![Forks](https://img.shields.io/github/forks/mudkipme/MoeMemosAndroid?style=flat-square&color=blue)](https://github.com/mudkipme/MoeMemosAndroid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mudkipme/MoeMemosAndroid?style=flat-square&color=yellow)](https://github.com/mudkipme/MoeMemosAndroid/stargazers) [![Forks](https://img.shields.io/github/forks/mudkipme/MoeMemosAndroid?style=flat-square&color=blue)](https://github.com/mudkipme/MoeMemosAndroid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An app to help you capture thoughts and ideas
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ MoeMemosAndroid的生产可用性较高，主要原因是其最近的更新、�
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

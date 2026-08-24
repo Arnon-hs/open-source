@@ -1,6 +1,6 @@
 # supabase-community/chatgpt-your-files
 
-[![Stars](https://img.shields.io/github/stars/supabase-community/chatgpt-your-files?style=flat-square&color=yellow)](https://github.com/supabase-community/chatgpt-your-files/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/chatgpt-your-files?style=flat-square&color=blue)](https://github.com/supabase-community/chatgpt-your-files/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase-community/chatgpt-your-files?style=flat-square&color=yellow)](https://github.com/supabase-community/chatgpt-your-files/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/chatgpt-your-files?style=flat-square&color=blue)](https://github.com/supabase-community/chatgpt-your-files/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready MVP for securely chatting with your documents using pgvector
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Product
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ supabase-community/chatgpt-your-files 是一个基于 Supabase + pgvector �
 | forks | 57/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

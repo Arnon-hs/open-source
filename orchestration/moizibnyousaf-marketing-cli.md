@@ -1,6 +1,6 @@
 # MoizIbnYousaf/marketing-cli
 
-[![Stars](https://img.shields.io/github/stars/MoizIbnYousaf/marketing-cli?style=flat-square&color=yellow)](https://github.com/MoizIbnYousaf/marketing-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MoizIbnYousaf/marketing-cli?style=flat-square&color=blue)](https://github.com/MoizIbnYousaf/marketing-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MoizIbnYousaf/marketing-cli?style=flat-square&color=yellow)](https://github.com/MoizIbnYousaf/marketing-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MoizIbnYousaf/marketing-cli?style=flat-square&color=blue)](https://github.com/MoizIbnYousaf/marketing-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native marketing CLI: 76 skills, 6 research/review agents, brand memory that compounds across sessions, and a local Studio dashboard. One npm install, then /cmo in your coding agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ MoizIbnYousaf/marketing-cli：MoizIbnYousaf/marketing-cli helps turn isolated pr
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

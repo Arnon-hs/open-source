@@ -1,6 +1,6 @@
 # hmarr/codeowners
 
-[![Stars](https://img.shields.io/github/stars/hmarr/codeowners?style=flat-square&color=yellow)](https://github.com/hmarr/codeowners/stargazers) [![Forks](https://img.shields.io/github/forks/hmarr/codeowners?style=flat-square&color=blue)](https://github.com/hmarr/codeowners/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hmarr/codeowners?style=flat-square&color=yellow)](https://github.com/hmarr/codeowners/stargazers) [![Forks](https://img.shields.io/github/forks/hmarr/codeowners?style=flat-square&color=blue)](https://github.com/hmarr/codeowners/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🔒 Command line tool and Go library for CODEOWNERS files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 232 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ hmarr/codeowners 的生产可用性为中等（Medium），适合用于原型开
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

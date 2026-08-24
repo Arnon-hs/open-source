@@ -1,6 +1,6 @@
 # cortrix/cortrix
 
-[![Stars](https://img.shields.io/github/stars/cortrix/cortrix?style=flat-square&color=yellow)](https://github.com/cortrix/cortrix/stargazers) [![Forks](https://img.shields.io/github/forks/cortrix/cortrix?style=flat-square&color=blue)](https://github.com/cortrix/cortrix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cortrix/cortrix?style=flat-square&color=yellow)](https://github.com/cortrix/cortrix/stargazers) [![Forks](https://img.shields.io/github/forks/cortrix/cortrix?style=flat-square&color=blue)](https://github.com/cortrix/cortrix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-first semantic data infrastructure: durable, queryable memory and document understanding for AI agents. Hybrid retrieval (P-HNSW vector + BM25 full-text), cross-namespace semantic query, SPC ingestion pipeline, MCP server & Python SDK. AGPL-3.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Data
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ cortrix/cortrix 的价值在于，它可以帮助连接 AI 代理与现有工具
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

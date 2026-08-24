@@ -1,6 +1,6 @@
 # patrickfreyer/apple-mail-mcp
 
-[![Stars](https://img.shields.io/github/stars/patrickfreyer/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/patrickfreyer/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patrickfreyer/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/patrickfreyer/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patrickfreyer/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/patrickfreyer/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patrickfreyer/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/patrickfreyer/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server giving AI assistants full access to Apple Mail - read, search, compose, organize & analyze emails via natural language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ MCP · Automation · AI/ML · Backend
 | forks | 42/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # killercup/cargo-edit
 
-[![Stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat-square&color=yellow)](https://github.com/killercup/cargo-edit/stargazers) [![Forks](https://img.shields.io/github/forks/killercup/cargo-edit?style=flat-square&color=blue)](https://github.com/killercup/cargo-edit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/killercup/cargo-edit?style=flat-square&color=yellow)](https://github.com/killercup/cargo-edit/stargazers) [![Forks](https://img.shields.io/github/forks/killercup/cargo-edit?style=flat-square&color=blue)](https://github.com/killercup/cargo-edit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A utility for managing cargo dependencies from the command line.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ killercup/cargo-edit 在生产环境中的可用性非常高。其亮点包括�
 | forks | 56/100 |
 | stars | 75/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

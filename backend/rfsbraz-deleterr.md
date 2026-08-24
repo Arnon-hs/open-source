@@ -1,6 +1,6 @@
 # rfsbraz/deleterr
 
-[![Stars](https://img.shields.io/github/stars/rfsbraz/deleterr?style=flat-square&color=yellow)](https://github.com/rfsbraz/deleterr/stargazers) [![Forks](https://img.shields.io/github/forks/rfsbraz/deleterr?style=flat-square&color=blue)](https://github.com/rfsbraz/deleterr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rfsbraz/deleterr?style=flat-square&color=yellow)](https://github.com/rfsbraz/deleterr/stargazers) [![Forks](https://img.shields.io/github/forks/rfsbraz/deleterr?style=flat-square&color=blue)](https://github.com/rfsbraz/deleterr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ rfsbraz/deleterr 是一款基于观看记录的 Plex 媒体自动清理工具，
 | forks | 28/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

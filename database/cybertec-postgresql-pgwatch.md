@@ -1,6 +1,6 @@
 # cybertec-postgresql/pgwatch
 
-[![Stars](https://img.shields.io/github/stars/cybertec-postgresql/pgwatch?style=flat-square&color=yellow)](https://github.com/cybertec-postgresql/pgwatch/stargazers) [![Forks](https://img.shields.io/github/forks/cybertec-postgresql/pgwatch?style=flat-square&color=blue)](https://github.com/cybertec-postgresql/pgwatch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cybertec-postgresql/pgwatch?style=flat-square&color=yellow)](https://github.com/cybertec-postgresql/pgwatch/stargazers) [![Forks](https://img.shields.io/github/forks/cybertec-postgresql/pgwatch?style=flat-square&color=blue)](https://github.com/cybertec-postgresql/pgwatch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🔬pgwatch: PostgreSQL metrics monitor/dashboard
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 865 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ pgwatch 的生产可用性为中等（Medium）。它适合用于快速原型或
 | forks | 53/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

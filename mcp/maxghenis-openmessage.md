@@ -1,6 +1,6 @@
 # MaxGhenis/openmessage
 
-[![Stars](https://img.shields.io/github/stars/MaxGhenis/openmessage?style=flat-square&color=yellow)](https://github.com/MaxGhenis/openmessage/stargazers) [![Forks](https://img.shields.io/github/forks/MaxGhenis/openmessage?style=flat-square&color=blue)](https://github.com/MaxGhenis/openmessage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MaxGhenis/openmessage?style=flat-square&color=yellow)](https://github.com/MaxGhenis/openmessage/stargazers) [![Forks](https://img.shields.io/github/forks/MaxGhenis/openmessage?style=flat-square&color=blue)](https://github.com/MaxGhenis/openmessage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first Google Messages + WhatsApp inbox for Mac, web, and MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ MaxGhenis/openmessage 是一个开源项目，旨在为 Mac、web 和 MCP 设计
 | forks | 34/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

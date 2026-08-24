@@ -1,6 +1,6 @@
 # gadicc/yahoo-finance2
 
-[![Stars](https://img.shields.io/github/stars/gadicc/yahoo-finance2?style=flat-square&color=yellow)](https://github.com/gadicc/yahoo-finance2/stargazers) [![Forks](https://img.shields.io/github/forks/gadicc/yahoo-finance2?style=flat-square&color=blue)](https://github.com/gadicc/yahoo-finance2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gadicc/yahoo-finance2?style=flat-square&color=yellow)](https://github.com/gadicc/yahoo-finance2/stargazers) [![Forks](https://img.shields.io/github/forks/gadicc/yahoo-finance2?style=flat-square&color=blue)](https://github.com/gadicc/yahoo-finance2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial API for Yahoo Finance with CLI, MCP and Agent Skill
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ gadicc/yahoo-finance2 是一款无官方认证的 Yahoo 财经 API，支持 CLI�
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 86/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

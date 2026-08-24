@@ -1,6 +1,6 @@
 # dalerank/playful_programming_cpp
 
-[![Stars](https://img.shields.io/github/stars/dalerank/playful_programming_cpp?style=flat-square&color=yellow)](https://github.com/dalerank/playful_programming_cpp/stargazers) [![Forks](https://img.shields.io/github/forks/dalerank/playful_programming_cpp?style=flat-square&color=blue)](https://github.com/dalerank/playful_programming_cpp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dalerank/playful_programming_cpp?style=flat-square&color=yellow)](https://github.com/dalerank/playful_programming_cpp/stargazers) [![Forks](https://img.shields.io/github/forks/dalerank/playful_programming_cpp?style=flat-square&color=blue)](https://github.com/dalerank/playful_programming_cpp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: Если ссылки схлопываются, значит это кому‑то нужно
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 34/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ The project is considered production-ready at a medium level. While it can be us
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 29/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

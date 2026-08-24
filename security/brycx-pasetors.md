@@ -1,6 +1,6 @@
 # brycx/pasetors
 
-[![Stars](https://img.shields.io/github/stars/brycx/pasetors?style=flat-square&color=yellow)](https://github.com/brycx/pasetors/stargazers) [![Forks](https://img.shields.io/github/forks/brycx/pasetors?style=flat-square&color=blue)](https://github.com/brycx/pasetors/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brycx/pasetors?style=flat-square&color=yellow)](https://github.com/brycx/pasetors/stargazers) [![Forks](https://img.shields.io/github/forks/brycx/pasetors?style=flat-square&color=blue)](https://github.com/brycx/pasetors/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > PASETOrs: PASETO tokens in pure Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Overall, PASETOrs is a solid candidate for internal or prototype workloads that 
 | forks | 32/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

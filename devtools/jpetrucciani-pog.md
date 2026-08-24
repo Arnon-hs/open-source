@@ -1,6 +1,6 @@
 # jpetrucciani/pog
 
-[![Stars](https://img.shields.io/github/stars/jpetrucciani/pog?style=flat-square&color=yellow)](https://github.com/jpetrucciani/pog/stargazers) [![Forks](https://img.shields.io/github/forks/jpetrucciani/pog?style=flat-square&color=blue)](https://github.com/jpetrucciani/pog/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jpetrucciani/pog?style=flat-square&color=yellow)](https://github.com/jpetrucciani/pog/stargazers) [![Forks](https://img.shields.io/github/forks/jpetrucciani/pog?style=flat-square&color=blue)](https://github.com/jpetrucciani/pog/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🤯 a new, powerful way to do bash scripts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ jpetrucciani/pog 提供了一种强大的 Bash 脚本编写方式，能够显著
 | forks | 17/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

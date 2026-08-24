@@ -1,6 +1,6 @@
 # AuthPlane/authserver
 
-[![Stars](https://img.shields.io/github/stars/AuthPlane/authserver?style=flat-square&color=yellow)](https://github.com/AuthPlane/authserver/stargazers) [![Forks](https://img.shields.io/github/forks/AuthPlane/authserver?style=flat-square&color=blue)](https://github.com/AuthPlane/authserver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AuthPlane/authserver?style=flat-square&color=yellow)](https://github.com/AuthPlane/authserver/stargazers) [![Forks](https://img.shields.io/github/forks/AuthPlane/authserver?style=flat-square&color=blue)](https://github.com/AuthPlane/authserver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > OAuth 2.1 Authorization Server for the Model Context Protocol (MCP)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ AuthPlane/authserver 使用 Go 语言编写，更新于 2026 年 8 月 12 日。
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

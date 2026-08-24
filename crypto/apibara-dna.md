@@ -1,6 +1,6 @@
 # apibara/dna
 
-[![Stars](https://img.shields.io/github/stars/apibara/dna?style=flat-square&color=yellow)](https://github.com/apibara/dna/stargazers) [![Forks](https://img.shields.io/github/forks/apibara/dna?style=flat-square&color=blue)](https://github.com/apibara/dna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apibara/dna?style=flat-square&color=yellow)](https://github.com/apibara/dna/stargazers) [![Forks](https://img.shields.io/github/forks/apibara/dna?style=flat-square&color=blue)](https://github.com/apibara/dna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Apibara is the fastest platform to build production-grade indexers that connect onchain data to web2 services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · Backend · DevTools
+Crypto · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Apibara 是业内最快的区块链索引平台，能够帮助开发者快速构
 | forks | 39/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

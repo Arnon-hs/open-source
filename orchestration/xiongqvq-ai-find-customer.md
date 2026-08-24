@@ -1,6 +1,6 @@
 # xiongQvQ/AI_Find_Customer
 
-[![Stars](https://img.shields.io/github/stars/xiongQvQ/AI_Find_Customer?style=flat-square&color=yellow)](https://github.com/xiongQvQ/AI_Find_Customer/stargazers) [![Forks](https://img.shields.io/github/forks/xiongQvQ/AI_Find_Customer?style=flat-square&color=blue)](https://github.com/xiongQvQ/AI_Find_Customer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiongQvQ/AI_Find_Customer?style=flat-square&color=yellow)](https://github.com/xiongQvQ/AI_Find_Customer/stargazers) [![Forks](https://img.shields.io/github/forks/xiongQvQ/AI_Find_Customer?style=flat-square&color=blue)](https://github.com/xiongQvQ/AI_Find_Customer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 面向外贸与 B2B 场景的 AI 客户挖掘系统，基于 FastAPI、LangGraph 和 React，实现公司理解、关键词生成、网页搜索、线   索提取与联系方式发现AI-powered B2B lead hunting system built with FastAPI, LangGraph, and React for automated company research,   keyword generation, web search, lead extraction, and contact discovery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ xiongQvQ/AI_Find_Customer 的生产可用性较高，理由如下：
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

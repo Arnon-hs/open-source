@@ -1,6 +1,6 @@
 # jspecify/jspecify
 
-[![Stars](https://img.shields.io/github/stars/jspecify/jspecify?style=flat-square&color=yellow)](https://github.com/jspecify/jspecify/stargazers) [![Forks](https://img.shields.io/github/forks/jspecify/jspecify?style=flat-square&color=blue)](https://github.com/jspecify/jspecify/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jspecify/jspecify?style=flat-square&color=yellow)](https://github.com/jspecify/jspecify/stargazers) [![Forks](https://img.shields.io/github/forks/jspecify/jspecify?style=flat-square&color=blue)](https://github.com/jspecify/jspecify/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ jspecify/jspecify 的生产可用性为中等，适合用于原型或内部工�
 | forks | 41/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

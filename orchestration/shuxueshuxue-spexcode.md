@@ -1,6 +1,6 @@
 # shuxueshuxue/Spexcode
 
-[![Stars](https://img.shields.io/github/stars/shuxueshuxue/Spexcode?style=flat-square&color=yellow)](https://github.com/shuxueshuxue/Spexcode/stargazers) [![Forks](https://img.shields.io/github/forks/shuxueshuxue/Spexcode?style=flat-square&color=blue)](https://github.com/shuxueshuxue/Spexcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shuxueshuxue/Spexcode?style=flat-square&color=yellow)](https://github.com/shuxueshuxue/Spexcode/stargazers) [![Forks](https://img.shields.io/github/forks/shuxueshuxue/Spexcode?style=flat-square&color=blue)](https://github.com/shuxueshuxue/Spexcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Spec-driven orchestration for your coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ shuxueshuxue/Spexcode：shuxueshuxue/Spexcode helps turn isolated prompts and to
 | forks | 32/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Tencent/tdesign
 
-[![Stars](https://img.shields.io/github/stars/Tencent/tdesign?style=flat-square&color=yellow)](https://github.com/Tencent/tdesign/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/tdesign?style=flat-square&color=blue)](https://github.com/Tencent/tdesign/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/tdesign?style=flat-square&color=yellow)](https://github.com/Tencent/tdesign/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/tdesign?style=flat-square&color=blue)](https://github.com/Tencent/tdesign/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise Design System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 335 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Tencent/tdesign 的生产可用性为中等（Medium），适合用于原型开�
 | forks | 63/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

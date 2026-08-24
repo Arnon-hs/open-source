@@ -1,6 +1,6 @@
 # nfstream/nfstream
 
-[![Stars](https://img.shields.io/github/stars/nfstream/nfstream?style=flat-square&color=yellow)](https://github.com/nfstream/nfstream/stargazers) [![Forks](https://img.shields.io/github/forks/nfstream/nfstream?style=flat-square&color=blue)](https://github.com/nfstream/nfstream/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nfstream/nfstream?style=flat-square&color=yellow)](https://github.com/nfstream/nfstream/stargazers) [![Forks](https://img.shields.io/github/forks/nfstream/nfstream?style=flat-square&color=blue)](https://github.com/nfstream/nfstream/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > NFStream: a Flexible Network Data Analysis Framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Observability · Security · Education
+Data · Observability · Security
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ NFStream的生产可用性很高，因为它有：
 | forks | 54/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

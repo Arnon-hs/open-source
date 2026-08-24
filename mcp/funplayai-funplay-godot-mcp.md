@@ -1,6 +1,6 @@
 # FunplayAI/funplay-godot-mcp
 
-[![Stars](https://img.shields.io/github/stars/FunplayAI/funplay-godot-mcp?style=flat-square&color=yellow)](https://github.com/FunplayAI/funplay-godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/FunplayAI/funplay-godot-mcp?style=flat-square&color=blue)](https://github.com/FunplayAI/funplay-godot-mcp/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FunplayAI/funplay-godot-mcp?style=flat-square&color=yellow)](https://github.com/FunplayAI/funplay-godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/FunplayAI/funplay-godot-mcp?style=flat-square&color=blue)](https://github.com/FunplayAI/funplay-godot-mcp/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Most Advanced MCP Server for Godot Editor with execute_code, prompts/resources, project maps, runtime inspection, asset workflows, and safe AI automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | GDScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ FunplayAI/funplay‑godot‑mcp 是面向 Godot 编辑器的最先进的 MCP（M
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

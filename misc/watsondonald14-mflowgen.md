@@ -1,6 +1,6 @@
 # watsondonald14/mflowgen
 
-[![Stars](https://img.shields.io/github/stars/watsondonald14/mflowgen?style=flat-square&color=yellow)](https://github.com/watsondonald14/mflowgen/stargazers) [![Forks](https://img.shields.io/github/forks/watsondonald14/mflowgen?style=flat-square&color=blue)](https://github.com/watsondonald14/mflowgen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/watsondonald14/mflowgen?style=flat-square&color=yellow)](https://github.com/watsondonald14/mflowgen/stargazers) [![Forks](https://img.shields.io/github/forks/watsondonald14/mflowgen?style=flat-square&color=blue)](https://github.com/watsondonald14/mflowgen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > mflowgen
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ watsondonald14/mflowgen：watsondonald14/mflowgen may be useful when its README 
 | forks | 47/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

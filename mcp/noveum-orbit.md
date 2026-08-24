@@ -1,6 +1,6 @@
 # Noveum/orbit
 
-[![Stars](https://img.shields.io/github/stars/Noveum/orbit?style=flat-square&color=yellow)](https://github.com/Noveum/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/Noveum/orbit?style=flat-square&color=blue)](https://github.com/Noveum/orbit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Noveum/orbit?style=flat-square&color=yellow)](https://github.com/Noveum/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/Noveum/orbit?style=flat-square&color=blue)](https://github.com/Noveum/orbit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open source, realtime task manager. Issues, boards, sprints, projects and docs that sync instantly. Keyboard-first, self-hostable, with an MCP server for AI agents. No pricing, ever.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · Backend · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Noveum/orbit：Noveum/orbit helps connect AI assistants to real tools and data t
 | forks | 25/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

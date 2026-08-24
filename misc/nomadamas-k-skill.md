@@ -1,6 +1,6 @@
 # NomaDamas/k-skill
 
-[![Stars](https://img.shields.io/github/stars/NomaDamas/k-skill?style=flat-square&color=yellow)](https://github.com/NomaDamas/k-skill/stargazers) [![Forks](https://img.shields.io/github/forks/NomaDamas/k-skill?style=flat-square&color=blue)](https://github.com/NomaDamas/k-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NomaDamas/k-skill?style=flat-square&color=yellow)](https://github.com/NomaDamas/k-skill/stargazers) [![Forks](https://img.shields.io/github/forks/NomaDamas/k-skill?style=flat-square&color=blue)](https://github.com/NomaDamas/k-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 712 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ NomaDamas/k-skill 的生产可用性为中等。它可以用于原型或内部�
 | forks | 71/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

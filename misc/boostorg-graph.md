@@ -1,6 +1,6 @@
 # boostorg/graph
 
-[![Stars](https://img.shields.io/github/stars/boostorg/graph?style=flat-square&color=yellow)](https://github.com/boostorg/graph/stargazers) [![Forks](https://img.shields.io/github/forks/boostorg/graph?style=flat-square&color=blue)](https://github.com/boostorg/graph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boostorg/graph?style=flat-square&color=yellow)](https://github.com/boostorg/graph/stargazers) [![Forks](https://img.shields.io/github/forks/boostorg/graph?style=flat-square&color=blue)](https://github.com/boostorg/graph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Boost.org graph module
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Boost.org graph 模块的生产可用性为中等。它可以用于构
 | forks | 59/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 60/100 |
-| quality | 60/100 |
-| recency | 80/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 62/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

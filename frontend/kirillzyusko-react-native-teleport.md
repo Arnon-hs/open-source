@@ -1,6 +1,6 @@
 # kirillzyusko/react-native-teleport
 
-[![Stars](https://img.shields.io/github/stars/kirillzyusko/react-native-teleport?style=flat-square&color=yellow)](https://github.com/kirillzyusko/react-native-teleport/stargazers) [![Forks](https://img.shields.io/github/forks/kirillzyusko/react-native-teleport?style=flat-square&color=blue)](https://github.com/kirillzyusko/react-native-teleport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kirillzyusko/react-native-teleport?style=flat-square&color=yellow)](https://github.com/kirillzyusko/react-native-teleport/stargazers) [![Forks](https://img.shields.io/github/forks/kirillzyusko/react-native-teleport?style=flat-square&color=blue)](https://github.com/kirillzyusko/react-native-teleport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A missing native portal implementation for react-native 🛸
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 767 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Kirillzyusko/react-native-teleport 是一个开源项目，提供了 React Nativ
 | forks | 31/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

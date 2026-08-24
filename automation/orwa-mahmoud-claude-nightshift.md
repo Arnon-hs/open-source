@@ -1,6 +1,6 @@
 # orwa-mahmoud/claude-nightshift
 
-[![Stars](https://img.shields.io/github/stars/orwa-mahmoud/claude-nightshift?style=flat-square&color=yellow)](https://github.com/orwa-mahmoud/claude-nightshift/stargazers) [![Forks](https://img.shields.io/github/forks/orwa-mahmoud/claude-nightshift?style=flat-square&color=blue)](https://github.com/orwa-mahmoud/claude-nightshift/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orwa-mahmoud/claude-nightshift?style=flat-square&color=yellow)](https://github.com/orwa-mahmoud/claude-nightshift/stargazers) [![Forks](https://img.shields.io/github/forks/orwa-mahmoud/claude-nightshift?style=flat-square&color=blue)](https://github.com/orwa-mahmoud/claude-nightshift/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Give Claude a checklist before bed. It can't clock out until every box is ticked, never stalls on a question, and revives itself if the API dies at 3 AM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ orwa-mahmoud/claude-nightshift - это открытый исходный про
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

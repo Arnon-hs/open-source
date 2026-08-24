@@ -1,6 +1,6 @@
 # EvilFreelancer/openapi-to-cli
 
-[![Stars](https://img.shields.io/github/stars/EvilFreelancer/openapi-to-cli?style=flat-square&color=yellow)](https://github.com/EvilFreelancer/openapi-to-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EvilFreelancer/openapi-to-cli?style=flat-square&color=blue)](https://github.com/EvilFreelancer/openapi-to-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvilFreelancer/openapi-to-cli?style=flat-square&color=yellow)](https://github.com/EvilFreelancer/openapi-to-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EvilFreelancer/openapi-to-cli?style=flat-square&color=blue)](https://github.com/EvilFreelancer/openapi-to-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 255 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ EvilFreelancer/openapi-to-cli：EvilFreelancer/openapi-to-cli helps teams reuse 
 | forks | 29/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # joryeugene/dadbod-grip.nvim
 
-[![Stars](https://img.shields.io/github/stars/joryeugene/dadbod-grip.nvim?style=flat-square&color=yellow)](https://github.com/joryeugene/dadbod-grip.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/joryeugene/dadbod-grip.nvim?style=flat-square&color=blue)](https://github.com/joryeugene/dadbod-grip.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joryeugene/dadbod-grip.nvim?style=flat-square&color=yellow)](https://github.com/joryeugene/dadbod-grip.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/joryeugene/dadbod-grip.nvim?style=flat-square&color=blue)](https://github.com/joryeugene/dadbod-grip.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Edit database tables like Vim buffers. Staged mutations + live SQL preview, transaction undo, schema browser + ER diagrams + DDL, FK navigation, cross-database federation, data profiling, SQL notebooks, AI SQL via Anthropic/OpenAI/Gemini/Ollama, Parquet/CSV/remote files. PostgreSQL · SQLite · MySQL · DuckDB · MotherDuck
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ joryeugene/dadbod-grip.nvim 的主要价值在于，它可以帮助您在不从�
 | forks | 19/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

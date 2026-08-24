@@ -1,6 +1,6 @@
 # mbadolato/iTerm2-Color-Schemes
 
-[![Stars](https://img.shields.io/github/stars/mbadolato/iTerm2-Color-Schemes?style=flat-square&color=yellow)](https://github.com/mbadolato/iTerm2-Color-Schemes/stargazers) [![Forks](https://img.shields.io/github/forks/mbadolato/iTerm2-Color-Schemes?style=flat-square&color=blue)](https://github.com/mbadolato/iTerm2-Color-Schemes/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mbadolato/iTerm2-Color-Schemes?style=flat-square&color=yellow)](https://github.com/mbadolato/iTerm2-Color-Schemes/stargazers) [![Forks](https://img.shields.io/github/forks/mbadolato/iTerm2-Color-Schemes?style=flat-square&color=blue)](https://github.com/mbadolato/iTerm2-Color-Schemes/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27k |
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ mbadolato/iTerm2-Color-Schemes 是一个开源项目，提供超过 450 个终�
 | forks | 95/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

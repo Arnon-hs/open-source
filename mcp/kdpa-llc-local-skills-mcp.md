@@ -1,6 +1,6 @@
 # kdpa-llc/local-skills-mcp
 
-[![Stars](https://img.shields.io/github/stars/kdpa-llc/local-skills-mcp?style=flat-square&color=yellow)](https://github.com/kdpa-llc/local-skills-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kdpa-llc/local-skills-mcp?style=flat-square&color=blue)](https://github.com/kdpa-llc/local-skills-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kdpa-llc/local-skills-mcp?style=flat-square&color=yellow)](https://github.com/kdpa-llc/local-skills-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kdpa-llc/local-skills-mcp?style=flat-square&color=blue)](https://github.com/kdpa-llc/local-skills-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Universal MCP server enabling any LLM or AI agent to utilize expert skills from your local filesystem. Reduces context consumption through lazy loading. Works with Claude, Cline, and any MCP-compatible client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ kdpa-llc/local-skills-mcp：kdpa-llc/local-skills-mcp helps connect AI assistant
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rafmacalaba/armada
 
-[![Stars](https://img.shields.io/github/stars/rafmacalaba/armada?style=flat-square&color=yellow)](https://github.com/rafmacalaba/armada/stargazers) [![Forks](https://img.shields.io/github/forks/rafmacalaba/armada?style=flat-square&color=blue)](https://github.com/rafmacalaba/armada/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafmacalaba/armada?style=flat-square&color=yellow)](https://github.com/rafmacalaba/armada/stargazers) [![Forks](https://img.shields.io/github/forks/rafmacalaba/armada?style=flat-square&color=blue)](https://github.com/rafmacalaba/armada/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Loop engineering for software development. Turn any repository into a self-organizing AI engineering team — 8 specialists, contract-driven, evidence-gated, parallel feature voyages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ rafmacalaba/armada 通过将仓库转化为由 8 位 AI 专家组成的自组织
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # JuneYaooo/social-account-doctor
 
-[![Stars](https://img.shields.io/github/stars/JuneYaooo/social-account-doctor?style=flat-square&color=yellow)](https://github.com/JuneYaooo/social-account-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/social-account-doctor?style=flat-square&color=blue)](https://github.com/JuneYaooo/social-account-doctor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuneYaooo/social-account-doctor?style=flat-square&color=yellow)](https://github.com/JuneYaooo/social-account-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/social-account-doctor?style=flat-square&color=blue)](https://github.com/JuneYaooo/social-account-doctor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 小红书/抖音/快手/视频号/B站 自媒体账号体检+爆款拆解工具。扫同赛道找对标、拆爆款为什么爆、诊断为什么没人看，顺手出可粘贴仿写初稿。支持带货电商模式。支持codex, claude code, workbuddy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ JuneYaooo/social-account-doctor 的价值在于它可以帮助用户快速添加
 | forks | 38/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

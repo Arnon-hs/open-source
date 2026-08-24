@@ -1,6 +1,6 @@
 # jeff-nasseri/mikrotik-mcp
 
-[![Stars](https://img.shields.io/github/stars/jeff-nasseri/mikrotik-mcp?style=flat-square&color=yellow)](https://github.com/jeff-nasseri/mikrotik-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jeff-nasseri/mikrotik-mcp?style=flat-square&color=blue)](https://github.com/jeff-nasseri/mikrotik-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeff-nasseri/mikrotik-mcp?style=flat-square&color=yellow)](https://github.com/jeff-nasseri/mikrotik-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jeff-nasseri/mikrotik-mcp?style=flat-square&color=blue)](https://github.com/jeff-nasseri/mikrotik-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Mikrotik
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ To adopt this project, developers can follow these steps:
 | forks | 42/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # n0an/VivaDicta
 
-[![Stars](https://img.shields.io/github/stars/n0an/VivaDicta?style=flat-square&color=yellow)](https://github.com/n0an/VivaDicta/stargazers) [![Forks](https://img.shields.io/github/forks/n0an/VivaDicta?style=flat-square&color=blue)](https://github.com/n0an/VivaDicta/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n0an/VivaDicta?style=flat-square&color=yellow)](https://github.com/n0an/VivaDicta/stargazers) [![Forks](https://img.shields.io/github/forks/n0an/VivaDicta?style=flat-square&color=blue)](https://github.com/n0an/VivaDicta/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > iOS & watchOS speech-to-text app with AI voice keyboard, on-device RAG, and chat with your notes - powered by Apple Foundation Models, WhisperKit, NVIDIA Parakeet, and 20+ AI providers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ n0an/VivaDicta的生产可用性为中等，适合用于原型或内部工作流
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

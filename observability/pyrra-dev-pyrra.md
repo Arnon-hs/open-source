@@ -1,6 +1,6 @@
 # pyrra-dev/pyrra
 
-[![Stars](https://img.shields.io/github/stars/pyrra-dev/pyrra?style=flat-square&color=yellow)](https://github.com/pyrra-dev/pyrra/stargazers) [![Forks](https://img.shields.io/github/forks/pyrra-dev/pyrra?style=flat-square&color=blue)](https://github.com/pyrra-dev/pyrra/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyrra-dev/pyrra?style=flat-square&color=yellow)](https://github.com/pyrra-dev/pyrra/stargazers) [![Forks](https://img.shields.io/github/forks/pyrra-dev/pyrra?style=flat-square&color=blue)](https://github.com/pyrra-dev/pyrra/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Pyrra 的生产可用性较高，主要语言是 Go，更新频率较高，GitHu
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # RhythmicWave/NovelForge
 
-[![Stars](https://img.shields.io/github/stars/RhythmicWave/NovelForge?style=flat-square&color=yellow)](https://github.com/RhythmicWave/NovelForge/stargazers) [![Forks](https://img.shields.io/github/forks/RhythmicWave/NovelForge?style=flat-square&color=blue)](https://github.com/RhythmicWave/NovelForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RhythmicWave/NovelForge?style=flat-square&color=yellow)](https://github.com/RhythmicWave/NovelForge/stargazers) [![Forks](https://img.shields.io/github/forks/RhythmicWave/NovelForge?style=flat-square&color=blue)](https://github.com/RhythmicWave/NovelForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI辅助长篇小说创作，卡片式创作，支持基于 JSON Schema的结构化 AI 生成与上下文引用，可扩展性强。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ RhythmicWave/NovelForge 的生产可用性很高，主要原因是：
 | forks | 58/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

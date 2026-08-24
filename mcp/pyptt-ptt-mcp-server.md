@@ -1,6 +1,6 @@
 # PyPtt/ptt_mcp_server
 
-[![Stars](https://img.shields.io/github/stars/PyPtt/ptt_mcp_server?style=flat-square&color=yellow)](https://github.com/PyPtt/ptt_mcp_server/stargazers) [![Forks](https://img.shields.io/github/forks/PyPtt/ptt_mcp_server?style=flat-square&color=blue)](https://github.com/PyPtt/ptt_mcp_server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PyPtt/ptt_mcp_server?style=flat-square&color=yellow)](https://github.com/PyPtt/ptt_mcp_server/stargazers) [![Forks](https://img.shields.io/github/forks/PyPtt/ptt_mcp_server?style=flat-square&color=blue)](https://github.com/PyPtt/ptt_mcp_server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The best PTT MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ PyPtt/ptt_mcp_server 是一款基于 Python 实现的 PTT MCP（Model Context Pr
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

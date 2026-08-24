@@ -1,6 +1,6 @@
 # microsoft/fluentui
 
-[![Stars](https://img.shields.io/github/stars/microsoft/fluentui?style=flat-square&color=yellow)](https://github.com/microsoft/fluentui/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fluentui?style=flat-square&color=blue)](https://github.com/microsoft/fluentui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/fluentui?style=flat-square&color=yellow)](https://github.com/microsoft/fluentui/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fluentui?style=flat-square&color=blue)](https://github.com/microsoft/fluentui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.2k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Microsoft Fluent UI 的生产可用性很高，主要原因是：
 | forks | 87/100 |
 | stars | 92/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

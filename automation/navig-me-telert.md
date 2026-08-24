@@ -1,6 +1,6 @@
 # navig-me/telert
 
-[![Stars](https://img.shields.io/github/stars/navig-me/telert?style=flat-square&color=yellow)](https://github.com/navig-me/telert/stargazers) [![Forks](https://img.shields.io/github/forks/navig-me/telert?style=flat-square&color=blue)](https://github.com/navig-me/telert/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/navig-me/telert?style=flat-square&color=yellow)](https://github.com/navig-me/telert/stargazers) [![Forks](https://img.shields.io/github/forks/navig-me/telert?style=flat-square&color=blue)](https://github.com/navig-me/telert/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Command‑line and Python utility that alerts on command completion, code execution and system monitoring events
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools · Observability
+Automation · Backend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ navig-me/telert 的生产可用性较高，主要原因是：
 | forks | 30/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 79/100 |
-| usefulness | 90/100 |
+| production | 66/100 |
+| usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Sateezg/codex-bridge
 
-[![Stars](https://img.shields.io/github/stars/Sateezg/codex-bridge?style=flat-square&color=yellow)](https://github.com/Sateezg/codex-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/Sateezg/codex-bridge?style=flat-square&color=blue)](https://github.com/Sateezg/codex-bridge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sateezg/codex-bridge?style=flat-square&color=yellow)](https://github.com/Sateezg/codex-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/Sateezg/codex-bridge?style=flat-square&color=blue)](https://github.com/Sateezg/codex-bridge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Sateezg/codex-bridge 的生产可用性较高，主要是因为：
 | forks | 15/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

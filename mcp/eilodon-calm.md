@@ -1,6 +1,6 @@
 # Eilodon/CALM
 
-[![Stars](https://img.shields.io/github/stars/Eilodon/CALM?style=flat-square&color=yellow)](https://github.com/Eilodon/CALM/stargazers) [![Forks](https://img.shields.io/github/forks/Eilodon/CALM?style=flat-square&color=blue)](https://github.com/Eilodon/CALM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Eilodon/CALM?style=flat-square&color=yellow)](https://github.com/Eilodon/CALM/stargazers) [![Forks](https://img.shields.io/github/forks/Eilodon/CALM?style=flat-square&color=blue)](https://github.com/Eilodon/CALM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A live, graph-verified map of your codebase for AI coding agents — real call graphs, compiler-verified edges, and hard safety gates on the write path.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Eilodon/CALM：Eilodon/CALM helps connect AI assistants to real tools and data t
 | forks | 8/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

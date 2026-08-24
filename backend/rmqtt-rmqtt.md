@@ -1,6 +1,6 @@
 # rmqtt/rmqtt
 
-[![Stars](https://img.shields.io/github/stars/rmqtt/rmqtt?style=flat-square&color=yellow)](https://github.com/rmqtt/rmqtt/stargazers) [![Forks](https://img.shields.io/github/forks/rmqtt/rmqtt?style=flat-square&color=blue)](https://github.com/rmqtt/rmqtt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rmqtt/rmqtt?style=flat-square&color=yellow)](https://github.com/rmqtt/rmqtt/stargazers) [![Forks](https://img.shields.io/github/forks/rmqtt/rmqtt?style=flat-square&color=blue)](https://github.com/rmqtt/rmqtt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 965 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ rmqtt/rmqtt 的生产可用性为中等。它适合用于原型开发
 | forks | 52/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

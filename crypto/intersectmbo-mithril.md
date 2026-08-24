@@ -1,6 +1,6 @@
 # IntersectMBO/mithril
 
-[![Stars](https://img.shields.io/github/stars/IntersectMBO/mithril?style=flat-square&color=yellow)](https://github.com/IntersectMBO/mithril/stargazers) [![Forks](https://img.shields.io/github/forks/IntersectMBO/mithril?style=flat-square&color=blue)](https://github.com/IntersectMBO/mithril/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IntersectMBO/mithril?style=flat-square&color=yellow)](https://github.com/IntersectMBO/mithril/stargazers) [![Forks](https://img.shields.io/github/forks/IntersectMBO/mithril?style=flat-square&color=blue)](https://github.com/IntersectMBO/mithril/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Stake-based threshold multi-signatures protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ IntersectMBO/mithril 的价值在于它可以帮助开发者：
 | forks | 43/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

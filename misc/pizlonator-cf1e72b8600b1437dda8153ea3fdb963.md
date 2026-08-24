@@ -1,6 +1,6 @@
 # pizlonator/cf1e72b8600b1437dda8153ea3fdb963
 
-[![Stars](https://img.shields.io/github/stars/pizlonator/cf1e72b8600b1437dda8153ea3fdb963?style=flat-square&color=yellow)](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963/stargazers) [![Forks](https://img.shields.io/github/forks/pizlonator/cf1e72b8600b1437dda8153ea3fdb963?style=flat-square&color=blue)](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pizlonator/cf1e72b8600b1437dda8153ea3fdb963?style=flat-square&color=yellow)](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963/stargazers) [![Forks](https://img.shields.io/github/forks/pizlonator/cf1e72b8600b1437dda8153ea3fdb963?style=flat-square&color=blue)](https://gist.github.com/pizlonator/cf1e72b8600b1437dda8153ea3fdb963/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 35/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ The project's production readiness is rated as medium, indicating that it is sui
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 31/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

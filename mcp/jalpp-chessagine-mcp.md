@@ -1,6 +1,6 @@
 # jalpp/chessagine-mcp
 
-[![Stars](https://img.shields.io/github/stars/jalpp/chessagine-mcp?style=flat-square&color=yellow)](https://github.com/jalpp/chessagine-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jalpp/chessagine-mcp?style=flat-square&color=blue)](https://github.com/jalpp/chessagine-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jalpp/chessagine-mcp?style=flat-square&color=yellow)](https://github.com/jalpp/chessagine-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jalpp/chessagine-mcp?style=flat-square&color=blue)](https://github.com/jalpp/chessagine-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ChessAgine MCP is a MCP server that gives AI agents access to chess domain knowledge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ ChessAgine MCP 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 27/100 |
 | stars | 31/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

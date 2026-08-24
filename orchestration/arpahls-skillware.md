@@ -1,6 +1,6 @@
 # ARPAHLS/skillware
 
-[![Stars](https://img.shields.io/github/stars/ARPAHLS/skillware?style=flat-square&color=yellow)](https://github.com/ARPAHLS/skillware/stargazers) [![Forks](https://img.shields.io/github/forks/ARPAHLS/skillware?style=flat-square&color=blue)](https://github.com/ARPAHLS/skillware/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ARPAHLS/skillware?style=flat-square&color=yellow)](https://github.com/ARPAHLS/skillware/stargazers) [![Forks](https://img.shields.io/github/forks/ARPAHLS/skillware?style=flat-square&color=blue)](https://github.com/ARPAHLS/skillware/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Python framework for modular, self-contained skill management for machines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ ARPAHLS/skillware 是一个基于 Python 的框架，提供模块化、独立的
 | forks | 38/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

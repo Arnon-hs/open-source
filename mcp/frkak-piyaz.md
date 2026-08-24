@@ -1,6 +1,6 @@
 # FrkAk/piyaz
 
-[![Stars](https://img.shields.io/github/stars/FrkAk/piyaz?style=flat-square&color=yellow)](https://github.com/FrkAk/piyaz/stargazers) [![Forks](https://img.shields.io/github/forks/FrkAk/piyaz?style=flat-square&color=blue)](https://github.com/FrkAk/piyaz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FrkAk/piyaz?style=flat-square&color=yellow)](https://github.com/FrkAk/piyaz/stargazers) [![Forks](https://img.shields.io/github/forks/FrkAk/piyaz?style=flat-square&color=blue)](https://github.com/FrkAk/piyaz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The agentic workspace where people and AI coding agents work together on every project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ FrkAk/piyaz 为 AI 与真实工具的交互提供了标准化、可扩展的桥�
 | forks | 21/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

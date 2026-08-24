@@ -1,6 +1,6 @@
 # gensecaihq/pfsense-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/gensecaihq/pfsense-mcp-server?style=flat-square&color=yellow)](https://github.com/gensecaihq/pfsense-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/pfsense-mcp-server?style=flat-square&color=blue)](https://github.com/gensecaihq/pfsense-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gensecaihq/pfsense-mcp-server?style=flat-square&color=yellow)](https://github.com/gensecaihq/pfsense-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/pfsense-mcp-server?style=flat-square&color=blue)](https://github.com/gensecaihq/pfsense-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > pfSense MCP Server enables security administrators to manage their pfSense firewalls using natural language through AI assistants like Claude Desktop. Simply ask "Show me blocked IPs" or "Run a PCI compliance check" instead of navigating complex interfaces. Supports REST/XML-RPC/SSH connections, and includes built-in compliance and guardrail
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Security
+MCP · Backend · Security
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ gensecaihq/pfsense‑mcp‑server 为 pfSense 防火墙提供了统一的 Model�
 | forks | 29/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

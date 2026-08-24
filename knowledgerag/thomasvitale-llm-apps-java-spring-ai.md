@@ -1,6 +1,6 @@
 # ThomasVitale/llm-apps-java-spring-ai
 
-[![Stars](https://img.shields.io/github/stars/ThomasVitale/llm-apps-java-spring-ai?style=flat-square&color=yellow)](https://github.com/ThomasVitale/llm-apps-java-spring-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ThomasVitale/llm-apps-java-spring-ai?style=flat-square&color=blue)](https://github.com/ThomasVitale/llm-apps-java-spring-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThomasVitale/llm-apps-java-spring-ai?style=flat-square&color=yellow)](https://github.com/ThomasVitale/llm-apps-java-spring-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ThomasVitale/llm-apps-java-spring-ai?style=flat-square&color=blue)](https://github.com/ThomasVitale/llm-apps-java-spring-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 756 |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ ThomasVitale/llm-apps-java-spring-ai 是一个开源项目，展示了如何使�
 | forks | 57/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

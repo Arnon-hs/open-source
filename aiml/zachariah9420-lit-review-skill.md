@@ -1,6 +1,6 @@
 # Zachariah9420/lit-review-skill
 
-[![Stars](https://img.shields.io/github/stars/Zachariah9420/lit-review-skill?style=flat-square&color=yellow)](https://github.com/Zachariah9420/lit-review-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Zachariah9420/lit-review-skill?style=flat-square&color=blue)](https://github.com/Zachariah9420/lit-review-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zachariah9420/lit-review-skill?style=flat-square&color=yellow)](https://github.com/Zachariah9420/lit-review-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Zachariah9420/lit-review-skill?style=flat-square&color=blue)](https://github.com/Zachariah9420/lit-review-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Literature-fetching & citation-auditing skill for LLM agents (Claude/Codex) — 讓 AI 引用經得起追問:找文獻、查核引用真偽與支持度、文獻支撐寫作,防幻覺引用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Zachariah9420/lit-review-skill 为 LLM 代理（如 Claude、Codex）提供文�
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

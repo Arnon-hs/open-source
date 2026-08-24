@@ -1,6 +1,6 @@
 # noemica-io/open-claude-in-chrome
 
-[![Stars](https://img.shields.io/github/stars/noemica-io/open-claude-in-chrome?style=flat-square&color=yellow)](https://github.com/noemica-io/open-claude-in-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/noemica-io/open-claude-in-chrome?style=flat-square&color=blue)](https://github.com/noemica-io/open-claude-in-chrome/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noemica-io/open-claude-in-chrome?style=flat-square&color=yellow)](https://github.com/noemica-io/open-claude-in-chrome/stargazers) [![Forks](https://img.shields.io/github/forks/noemica-io/open-claude-in-chrome?style=flat-square&color=blue)](https://github.com/noemica-io/open-claude-in-chrome/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Claude in Chrome, reverse-engineered and open-source. No domain blocklist. Any Chromium browser. Same 18 MCP tools, same performance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Noemica-io/open-claude-in-chrome 是一个开源项目，基于 Chromium 浏览�
 | forks | 42/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

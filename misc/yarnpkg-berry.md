@@ -1,6 +1,6 @@
 # yarnpkg/berry
 
-[![Stars](https://img.shields.io/github/stars/yarnpkg/berry?style=flat-square&color=yellow)](https://github.com/yarnpkg/berry/stargazers) [![Forks](https://img.shields.io/github/forks/yarnpkg/berry?style=flat-square&color=blue)](https://github.com/yarnpkg/berry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yarnpkg/berry?style=flat-square&color=yellow)](https://github.com/yarnpkg/berry/stargazers) [![Forks](https://img.shields.io/github/forks/yarnpkg/berry?style=flat-square&color=blue)](https://github.com/yarnpkg/berry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 📦🐈 Active development trunk for Yarn ⚒
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ yarnpkg/berry 的价值在于其可以满足特定工作流程的需求。通过
 | forks | 78/100 |
 | stars | 83/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

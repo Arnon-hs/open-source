@@ -1,6 +1,6 @@
 # huangjia2019/agent-design-patterns
 
-[![Stars](https://img.shields.io/github/stars/huangjia2019/agent-design-patterns?style=flat-square&color=yellow)](https://github.com/huangjia2019/agent-design-patterns/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/agent-design-patterns?style=flat-square&color=blue)](https://github.com/huangjia2019/agent-design-patterns/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangjia2019/agent-design-patterns?style=flat-square&color=yellow)](https://github.com/huangjia2019/agent-design-patterns/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/agent-design-patterns?style=flat-square&color=blue)](https://github.com/huangjia2019/agent-design-patterns/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A 7×6 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified engineering slices from Claude Code, Aider, OpenHands, DeerFlow. Companion to Designing AI Agents (Manning) by Jia Huang.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Design
+Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ huangjia2019/agent-design-patterns 是一个面向“设计可复用 Agent”而
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

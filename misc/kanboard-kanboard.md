@@ -1,6 +1,6 @@
 # kanboard/kanboard
 
-[![Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=flat-square&color=yellow)](https://github.com/kanboard/kanboard/stargazers) [![Forks](https://img.shields.io/github/forks/kanboard/kanboard?style=flat-square&color=blue)](https://github.com/kanboard/kanboard/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=flat-square&color=yellow)](https://github.com/kanboard/kanboard/stargazers) [![Forks](https://img.shields.io/github/forks/kanboard/kanboard?style=flat-square&color=blue)](https://github.com/kanboard/kanboard/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Kanban project management software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Kanboard 是一款基于 PHP 的开源看板（Kanban）项目管理工具，提
 | forks | 82/100 |
 | stars | 85/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

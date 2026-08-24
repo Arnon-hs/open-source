@@ -1,6 +1,6 @@
 # angristan/netclode
 
-[![Stars](https://img.shields.io/github/stars/angristan/netclode?style=flat-square&color=yellow)](https://github.com/angristan/netclode/stargazers) [![Forks](https://img.shields.io/github/forks/angristan/netclode?style=flat-square&color=blue)](https://github.com/angristan/netclode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angristan/netclode?style=flat-square&color=yellow)](https://github.com/angristan/netclode/stargazers) [![Forks](https://img.shields.io/github/forks/angristan/netclode?style=flat-square&color=blue)](https://github.com/angristan/netclode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + any harness + a nice iOS app
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 198 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ angristan/netclode 将 k3s、Kata 容器、Cloud‑Hypervisor 微 VM、Tailscale
 | forks | 30/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

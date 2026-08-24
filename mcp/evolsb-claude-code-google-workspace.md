@@ -1,6 +1,6 @@
 # evolsb/claude-code-google-workspace
 
-[![Stars](https://img.shields.io/github/stars/evolsb/claude-code-google-workspace?style=flat-square&color=yellow)](https://github.com/evolsb/claude-code-google-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/evolsb/claude-code-google-workspace?style=flat-square&color=blue)](https://github.com/evolsb/claude-code-google-workspace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evolsb/claude-code-google-workspace?style=flat-square&color=yellow)](https://github.com/evolsb/claude-code-google-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/evolsb/claude-code-google-workspace?style=flat-square&color=blue)](https://github.com/evolsb/claude-code-google-workspace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-account Google Workspace (Gmail, Drive, Calendar, Sheets, Docs) + Slack MCP servers for Claude Code. Setup guide with CLAUDE.md for AI-guided installation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ evolsb/claude-code-google-workspace 的生产可用性较高，主要原因是�
 | forks | 27/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

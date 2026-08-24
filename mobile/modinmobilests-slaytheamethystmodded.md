@@ -1,6 +1,6 @@
 # ModinMobileSTS/SlayTheAmethystModded
 
-[![Stars](https://img.shields.io/github/stars/ModinMobileSTS/SlayTheAmethystModded?style=flat-square&color=yellow)](https://github.com/ModinMobileSTS/SlayTheAmethystModded/stargazers) [![Forks](https://img.shields.io/github/forks/ModinMobileSTS/SlayTheAmethystModded?style=flat-square&color=blue)](https://github.com/ModinMobileSTS/SlayTheAmethystModded/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ModinMobileSTS/SlayTheAmethystModded?style=flat-square&color=yellow)](https://github.com/ModinMobileSTS/SlayTheAmethystModded/stargazers) [![Forks](https://img.shields.io/github/forks/ModinMobileSTS/SlayTheAmethystModded?style=flat-square&color=blue)](https://github.com/ModinMobileSTS/SlayTheAmethystModded/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A modded Slay the Spire experience on Android.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ ModinMobileSTS/SlayTheAmethystModded 是一款开源项目，提供了一个在 
 | forks | 24/100 |
 | stars | 53/100 |
 | topics | 13/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

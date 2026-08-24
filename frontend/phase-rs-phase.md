@@ -1,6 +1,6 @@
 # phase-rs/phase
 
-[![Stars](https://img.shields.io/github/stars/phase-rs/phase?style=flat-square&color=yellow)](https://github.com/phase-rs/phase/stargazers) [![Forks](https://img.shields.io/github/forks/phase-rs/phase?style=flat-square&color=blue)](https://github.com/phase-rs/phase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phase-rs/phase?style=flat-square&color=yellow)](https://github.com/phase-rs/phase/stargazers) [![Forks](https://img.shields.io/github/forks/phase-rs/phase?style=flat-square&color=blue)](https://github.com/phase-rs/phase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A rules engine and game client — Rust + WASM + React
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ phase‑rs/phase 是一个基于 Rust、WebAssembly 与 React 的规则引擎 + 
 | forks | 49/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # web-infra-dev/rsbuild
 
-[![Stars](https://img.shields.io/github/stars/web-infra-dev/rsbuild?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rsbuild/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rsbuild?style=flat-square&color=blue)](https://github.com/web-infra-dev/rsbuild/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-infra-dev/rsbuild?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rsbuild/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rsbuild?style=flat-square&color=blue)](https://github.com/web-infra-dev/rsbuild/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, extensible build tool for modern web development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 270 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Rsbuild scores high on readiness: it has recent commits (last updated 2026‑06�
 | forks | 61/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # microclaw/microclaw
 
-[![Stars](https://img.shields.io/github/stars/microclaw/microclaw?style=flat-square&color=yellow)](https://github.com/microclaw/microclaw/stargazers) [![Forks](https://img.shields.io/github/forks/microclaw/microclaw?style=flat-square&color=blue)](https://github.com/microclaw/microclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microclaw/microclaw?style=flat-square&color=yellow)](https://github.com/microclaw/microclaw/stargazers) [![Forks](https://img.shields.io/github/forks/microclaw/microclaw?style=flat-square&color=blue)](https://github.com/microclaw/microclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 729 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Design
+Automation · Design
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ microclaw/microclaw的生产可用性为中等（Medium），适合用于原型�
 | forks | 53/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hsusul/lore
 
-[![Stars](https://img.shields.io/github/stars/hsusul/lore?style=flat-square&color=yellow)](https://github.com/hsusul/lore/stargazers) [![Forks](https://img.shields.io/github/forks/hsusul/lore?style=flat-square&color=blue)](https://github.com/hsusul/lore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hsusul/lore?style=flat-square&color=yellow)](https://github.com/hsusul/lore/stargazers) [![Forks](https://img.shields.io/github/forks/hsusul/lore?style=flat-square&color=blue)](https://github.com/hsusul/lore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ hsusul/lore是一个开源项目，主要用于特定工作流程的辅助工具
 | forks | 42/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 65/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

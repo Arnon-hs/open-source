@@ -1,6 +1,6 @@
 # jedisct1/libsodium
 
-[![Stars](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&color=yellow)](https://github.com/jedisct1/libsodium/stargazers) [![Forks](https://img.shields.io/github/forks/jedisct1/libsodium?style=flat-square&color=blue)](https://github.com/jedisct1/libsodium/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&color=yellow)](https://github.com/jedisct1/libsodium/stargazers) [![Forks](https://img.shields.io/github/forks/jedisct1/libsodium?style=flat-square&color=blue)](https://github.com/jedisct1/libsodium/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, portable, easy to use crypto library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.8k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ jedisct1/libsodium 是一套现代、跨平台且易于使用的密码学库，�
 | forks | 82/100 |
 | stars | 88/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

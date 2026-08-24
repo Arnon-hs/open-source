@@ -1,6 +1,6 @@
 # AmazingAng/old-coder
 
-[![Stars](https://img.shields.io/github/stars/AmazingAng/old-coder?style=flat-square&color=yellow)](https://github.com/AmazingAng/old-coder/stargazers) [![Forks](https://img.shields.io/github/forks/AmazingAng/old-coder?style=flat-square&color=blue)](https://github.com/AmazingAng/old-coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmazingAng/old-coder?style=flat-square&color=yellow)](https://github.com/AmazingAng/old-coder/stargazers) [![Forks](https://img.shields.io/github/forks/AmazingAng/old-coder?style=flat-square&color=blue)](https://github.com/AmazingAng/old-coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ AmazingAng/old-coder 已经被评估为高生产可用度的开源项目。项�
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

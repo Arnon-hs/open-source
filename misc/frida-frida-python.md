@@ -1,6 +1,6 @@
 # frida/frida-python
 
-[![Stars](https://img.shields.io/github/stars/frida/frida-python?style=flat-square&color=yellow)](https://github.com/frida/frida-python/stargazers) [![Forks](https://img.shields.io/github/forks/frida/frida-python?style=flat-square&color=blue)](https://github.com/frida/frida-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frida/frida-python?style=flat-square&color=yellow)](https://github.com/frida/frida-python/stargazers) [![Forks](https://img.shields.io/github/forks/frida/frida-python?style=flat-square&color=blue)](https://github.com/frida/frida-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Frida Python bindings
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ frida/frida-python：frida/frida-python may be useful when its README and activi
 | forks | 56/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

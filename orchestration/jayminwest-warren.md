@@ -1,6 +1,6 @@
 # jayminwest/warren
 
-[![Stars](https://img.shields.io/github/stars/jayminwest/warren?style=flat-square&color=yellow)](https://github.com/jayminwest/warren/stargazers) [![Forks](https://img.shields.io/github/forks/jayminwest/warren?style=flat-square&color=blue)](https://github.com/jayminwest/warren/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jayminwest/warren?style=flat-square&color=yellow)](https://github.com/jayminwest/warren/stargazers) [![Forks](https://img.shields.io/github/forks/jayminwest/warren?style=flat-square&color=blue)](https://github.com/jayminwest/warren/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Coolify for coding agents. Control plane for your agents that operate in isolation, self-manage, self-repair, and self-improve all on your infrastructure.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ Warren 的风险包括:
 | forks | 40/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

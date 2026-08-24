@@ -1,6 +1,6 @@
 # eylandoo/openvpn_webpanel_manager
 
-[![Stars](https://img.shields.io/github/stars/eylandoo/openvpn_webpanel_manager?style=flat-square&color=yellow)](https://github.com/eylandoo/openvpn_webpanel_manager/stargazers) [![Forks](https://img.shields.io/github/forks/eylandoo/openvpn_webpanel_manager?style=flat-square&color=blue)](https://github.com/eylandoo/openvpn_webpanel_manager/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eylandoo/openvpn_webpanel_manager?style=flat-square&color=yellow)](https://github.com/eylandoo/openvpn_webpanel_manager/stargazers) [![Forks](https://img.shields.io/github/forks/eylandoo/openvpn_webpanel_manager?style=flat-square&color=blue)](https://github.com/eylandoo/openvpn_webpanel_manager/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful, self-hosted web panel for managing OpenVPN servers, users, resellers (sub-admins), and multi-node deployments with a feature-rich UI and full API support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ eylandoo/openvpn_webpanel_manager 的生产可用性非常高，项目有活跃�
 | forks | 44/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

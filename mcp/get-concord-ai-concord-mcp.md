@@ -1,6 +1,6 @@
 # Get-Concord-AI/concord-mcp
 
-[![Stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=flat-square&color=yellow)](https://github.com/Get-Concord-AI/concord-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Get-Concord-AI/concord-mcp?style=flat-square&color=blue)](https://github.com/Get-Concord-AI/concord-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=flat-square&color=yellow)](https://github.com/Get-Concord-AI/concord-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Get-Concord-AI/concord-mcp?style=flat-square&color=blue)](https://github.com/Get-Concord-AI/concord-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Shared work-state for coding agents: claim work, leave handoffs, and generate review packets before PRs, over MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Get-Concord-AI/concord-mcp的价值在于，它帮助连接人工智能助手到
 | forks | 17/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

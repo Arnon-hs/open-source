@@ -1,6 +1,6 @@
 # Vanilagy/mediabunny
 
-[![Stars](https://img.shields.io/github/stars/Vanilagy/mediabunny?style=flat-square&color=yellow)](https://github.com/Vanilagy/mediabunny/stargazers) [![Forks](https://img.shields.io/github/forks/Vanilagy/mediabunny?style=flat-square&color=blue)](https://github.com/Vanilagy/mediabunny/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vanilagy/mediabunny?style=flat-square&color=yellow)](https://github.com/Vanilagy/mediabunny/stargazers) [![Forks](https://img.shields.io/github/forks/Vanilagy/mediabunny?style=flat-square&color=blue)](https://github.com/Vanilagy/mediabunny/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Vanilagy/mediabunny 的生产可用性非常高，主要原因是：
 | forks | 61/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

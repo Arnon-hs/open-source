@@ -1,6 +1,6 @@
 # laravel/boost
 
-[![Stars](https://img.shields.io/github/stars/laravel/boost?style=flat-square&color=yellow)](https://github.com/laravel/boost/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/boost?style=flat-square&color=blue)](https://github.com/laravel/boost/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/boost?style=flat-square&color=yellow)](https://github.com/laravel/boost/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/boost?style=flat-square&color=blue)](https://github.com/laravel/boost/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Laravel-focused MCP server for augmenting your AI powered local development experience.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Laravel/Boost 在生产环境中具有较高的可用性。考虑到其最近的
 | forks | 63/100 |
 | stars | 76/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

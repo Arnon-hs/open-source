@@ -1,6 +1,6 @@
 # decaporg/decap-cms
 
-[![Stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=flat-square&color=yellow)](https://github.com/decaporg/decap-cms/stargazers) [![Forks](https://img.shields.io/github/forks/decaporg/decap-cms?style=flat-square&color=blue)](https://github.com/decaporg/decap-cms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=flat-square&color=yellow)](https://github.com/decaporg/decap-cms/stargazers) [![Forks](https://img.shields.io/github/forks/decaporg/decap-cms?style=flat-square&color=blue)](https://github.com/decaporg/decap-cms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Git-based CMS for Static Site Generators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.2k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ decaporg/decap‑cms 是一款基于 Git 的内容管理系统（CMS），专为
 | forks | 87/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

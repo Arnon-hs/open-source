@@ -1,6 +1,6 @@
 # mavam/pi-mcporter
 
-[![Stars](https://img.shields.io/github/stars/mavam/pi-mcporter?style=flat-square&color=yellow)](https://github.com/mavam/pi-mcporter/stargazers) [![Forks](https://img.shields.io/github/forks/mavam/pi-mcporter?style=flat-square&color=blue)](https://github.com/mavam/pi-mcporter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mavam/pi-mcporter?style=flat-square&color=yellow)](https://github.com/mavam/pi-mcporter/stargazers) [![Forks](https://img.shields.io/github/forks/mavam/pi-mcporter?style=flat-square&color=blue)](https://github.com/mavam/pi-mcporter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Single-tool MCPorter bridge extension for pi and Model Context Protocol (MCP) servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ mavam/pi-mcporter 的主要价值在于帮助连接 AI 代理到工具和数据�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

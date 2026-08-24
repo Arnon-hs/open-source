@@ -1,6 +1,6 @@
 # solkin/appteka-android
 
-[![Stars](https://img.shields.io/github/stars/solkin/appteka-android?style=flat-square&color=yellow)](https://github.com/solkin/appteka-android/stargazers) [![Forks](https://img.shields.io/github/forks/solkin/appteka-android?style=flat-square&color=blue)](https://github.com/solkin/appteka-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solkin/appteka-android?style=flat-square&color=yellow)](https://github.com/solkin/appteka-android/stargazers) [![Forks](https://img.shields.io/github/forks/solkin/appteka-android?style=flat-square&color=blue)](https://github.com/solkin/appteka-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 💊 Appteka is an alternative store for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 991 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Appteka 的生产可用性为中等。它可以用于原型验证
 | forks | 43/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

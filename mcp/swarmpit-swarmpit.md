@@ -1,6 +1,6 @@
 # swarmpit/swarmpit
 
-[![Stars](https://img.shields.io/github/stars/swarmpit/swarmpit?style=flat-square&color=yellow)](https://github.com/swarmpit/swarmpit/stargazers) [![Forks](https://img.shields.io/github/forks/swarmpit/swarmpit?style=flat-square&color=blue)](https://github.com/swarmpit/swarmpit/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swarmpit/swarmpit?style=flat-square&color=yellow)](https://github.com/swarmpit/swarmpit/stargazers) [![Forks](https://img.shields.io/github/forks/swarmpit/swarmpit?style=flat-square&color=blue)](https://github.com/swarmpit/swarmpit/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight AI-friendly Docker Swarm management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 312 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ swarmpit 是一款轻量级、AI 友好的 Docker Swarm 可视化管理平台，
 | forks | 62/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

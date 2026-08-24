@@ -1,6 +1,6 @@
 # VueTorrent/VueTorrent
 
-[![Stars](https://img.shields.io/github/stars/VueTorrent/VueTorrent?style=flat-square&color=yellow)](https://github.com/VueTorrent/VueTorrent/stargazers) [![Forks](https://img.shields.io/github/forks/VueTorrent/VueTorrent?style=flat-square&color=blue)](https://github.com/VueTorrent/VueTorrent/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VueTorrent/VueTorrent?style=flat-square&color=yellow)](https://github.com/VueTorrent/VueTorrent/stargazers) [![Forks](https://img.shields.io/github/forks/VueTorrent/VueTorrent?style=flat-square&color=blue)](https://github.com/VueTorrent/VueTorrent/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The sleekest looking WEBUI for qBittorrent made with Vuejs!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ VueTorrent 是基于 Vue.js 打造的 qBittorrent WebUI，界面简洁时尚、�
 | forks | 63/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

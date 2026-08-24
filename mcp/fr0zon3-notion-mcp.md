@@ -1,6 +1,6 @@
 # FR0ZON3/notion-mcp
 
-[![Stars](https://img.shields.io/github/stars/FR0ZON3/notion-mcp?style=flat-square&color=yellow)](https://github.com/FR0ZON3/notion-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/FR0ZON3/notion-mcp?style=flat-square&color=blue)](https://github.com/FR0ZON3/notion-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FR0ZON3/notion-mcp?style=flat-square&color=yellow)](https://github.com/FR0ZON3/notion-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/FR0ZON3/notion-mcp?style=flat-square&color=blue)](https://github.com/FR0ZON3/notion-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Notion mcp to connect AI agents to notion through markdown | Read and write notion markdown
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ FR0ZON3/notion-mcp 是一个基于 Model Context Protocol（MCP）的开源工�
 | forks | 76/100 |
 | stars | 42/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

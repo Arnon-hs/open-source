@@ -1,6 +1,6 @@
 # wevm/wagmi
 
-[![Stars](https://img.shields.io/github/stars/wevm/wagmi?style=flat-square&color=yellow)](https://github.com/wevm/wagmi/stargazers) [![Forks](https://img.shields.io/github/forks/wevm/wagmi?style=flat-square&color=blue)](https://github.com/wevm/wagmi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wevm/wagmi?style=flat-square&color=yellow)](https://github.com/wevm/wagmi/stargazers) [![Forks](https://img.shields.io/github/forks/wevm/wagmi?style=flat-square&color=blue)](https://github.com/wevm/wagmi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Reactive primitives for Ethereum apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ wevm/wagmi 的生产可用性很高，理由如下：
 | forks | 79/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 81/100 |
-| production | 81/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

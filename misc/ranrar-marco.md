@@ -1,6 +1,6 @@
 # Ranrar/Marco
 
-[![Stars](https://img.shields.io/github/stars/Ranrar/Marco?style=flat-square&color=yellow)](https://github.com/Ranrar/Marco/stargazers) [![Forks](https://img.shields.io/github/forks/Ranrar/Marco?style=flat-square&color=blue)](https://github.com/Ranrar/Marco/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ranrar/Marco?style=flat-square&color=yellow)](https://github.com/Ranrar/Marco/stargazers) [![Forks](https://img.shields.io/github/forks/Ranrar/Marco?style=flat-square&color=blue)](https://github.com/Ranrar/Marco/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Marco — a lightweight Markdown Composer and Viewer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Marco 是一款基于 Rust 的轻量级 Markdown 编写与预览工具，适合�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

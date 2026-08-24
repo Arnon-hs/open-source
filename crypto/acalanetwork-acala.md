@@ -1,6 +1,6 @@
 # AcalaNetwork/Acala
 
-[![Stars](https://img.shields.io/github/stars/AcalaNetwork/Acala?style=flat-square&color=yellow)](https://github.com/AcalaNetwork/Acala/stargazers) [![Forks](https://img.shields.io/github/forks/AcalaNetwork/Acala?style=flat-square&color=blue)](https://github.com/AcalaNetwork/Acala/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AcalaNetwork/Acala?style=flat-square&color=yellow)](https://github.com/AcalaNetwork/Acala/stargazers) [![Forks](https://img.shields.io/github/forks/AcalaNetwork/Acala?style=flat-square&color=blue)](https://github.com/AcalaNetwork/Acala/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 761 |
 | 🍴 **Forks** | 760 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Acala Network/Acala 的生产可用性为中等（Medium）。它适合用于原
 | forks | 72/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

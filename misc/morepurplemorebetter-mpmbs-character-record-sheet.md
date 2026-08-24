@@ -1,6 +1,6 @@
 # morepurplemorebetter/MPMBs-Character-Record-Sheet
 
-[![Stars](https://img.shields.io/github/stars/morepurplemorebetter/MPMBs-Character-Record-Sheet?style=flat-square&color=yellow)](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/stargazers) [![Forks](https://img.shields.io/github/forks/morepurplemorebetter/MPMBs-Character-Record-Sheet?style=flat-square&color=blue)](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morepurplemorebetter/MPMBs-Character-Record-Sheet?style=flat-square&color=yellow)](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/stargazers) [![Forks](https://img.shields.io/github/forks/morepurplemorebetter/MPMBs-Character-Record-Sheet?style=flat-square&color=blue)](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > MorePurpleMoreBetter's D&D 5e (2014) Character Record Sheet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ MorePurpleMoreBetter 的 *MPMBs-Character-Record-Sheet* 是一套基于 JavaScri
 | forks | 64/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

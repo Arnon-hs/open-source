@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/portfolio-optimization
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-AI-Blueprints/portfolio-optimization?style=flat-square&color=yellow)](https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-AI-Blueprints/portfolio-optimization?style=flat-square&color=blue)](https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-AI-Blueprints/portfolio-optimization?style=flat-square&color=yellow)](https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-AI-Blueprints/portfolio-optimization?style=flat-square&color=blue)](https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Powered by NVIDIA cuOpt: a GPU-accelerated portfolio optimization toolkit for building, backtesting, and scaling Mean-CVaR and Mean-Variance investment workflows with CUDA-X Data Science.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · AI/ML · Frontend · DevTools
+Trading
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ NVIDIA-AI-Blueprints/portfolio-optimization 是一个开源项目，使用 NVIDI
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

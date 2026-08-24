@@ -1,6 +1,6 @@
 # toss/react-simplikit
 
-[![Stars](https://img.shields.io/github/stars/toss/react-simplikit?style=flat-square&color=yellow)](https://github.com/toss/react-simplikit/stargazers) [![Forks](https://img.shields.io/github/forks/toss/react-simplikit?style=flat-square&color=blue)](https://github.com/toss/react-simplikit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toss/react-simplikit?style=flat-square&color=yellow)](https://github.com/toss/react-simplikit/stargazers) [![Forks](https://img.shields.io/github/forks/toss/react-simplikit?style=flat-square&color=blue)](https://github.com/toss/react-simplikit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight yet powerful library that provides various useful tools in React environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ toss/react-simplikit 的生产可用性为中等。它适合用于 prototyping �
 | forks | 46/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

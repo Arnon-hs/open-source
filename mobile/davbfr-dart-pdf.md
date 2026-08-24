@@ -1,6 +1,6 @@
 # DavBfr/dart_pdf
 
-[![Stars](https://img.shields.io/github/stars/DavBfr/dart_pdf?style=flat-square&color=yellow)](https://github.com/DavBfr/dart_pdf/stargazers) [![Forks](https://img.shields.io/github/forks/DavBfr/dart_pdf?style=flat-square&color=blue)](https://github.com/DavBfr/dart_pdf/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DavBfr/dart_pdf?style=flat-square&color=yellow)](https://github.com/DavBfr/dart_pdf/stargazers) [![Forks](https://img.shields.io/github/forks/DavBfr/dart_pdf?style=flat-square&color=blue)](https://github.com/DavBfr/dart_pdf/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Pdf creation module for dart/flutter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 755 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ DavBfr/dart_pdf 的生产可用性很高，因为它有活跃的维护者，最�
 | forks | 72/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

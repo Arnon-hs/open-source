@@ -1,6 +1,6 @@
 # romgrk/node-gtk
 
-[![Stars](https://img.shields.io/github/stars/romgrk/node-gtk?style=flat-square&color=yellow)](https://github.com/romgrk/node-gtk/stargazers) [![Forks](https://img.shields.io/github/forks/romgrk/node-gtk?style=flat-square&color=blue)](https://github.com/romgrk/node-gtk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/romgrk/node-gtk?style=flat-square&color=yellow)](https://github.com/romgrk/node-gtk/stargazers) [![Forks](https://img.shields.io/github/forks/romgrk/node-gtk?style=flat-square&color=blue)](https://github.com/romgrk/node-gtk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > GTK bindings for NodeJS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 555 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ romgrk/node-gtk 为 Node.js 提供了 GTK（GIMP Toolkit）绑定，使得 JavaS
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # diegomura/react-pdf
 
-[![Stars](https://img.shields.io/github/stars/diegomura/react-pdf?style=flat-square&color=yellow)](https://github.com/diegomura/react-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/diegomura/react-pdf?style=flat-square&color=blue)](https://github.com/diegomura/react-pdf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diegomura/react-pdf?style=flat-square&color=yellow)](https://github.com/diegomura/react-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/diegomura/react-pdf?style=flat-square&color=blue)](https://github.com/diegomura/react-pdf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 📄  Create PDF files using React
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.7k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ diegomura/react-pdf 在生产环境中具有较高的可用性：
 | forks | 78/100 |
 | stars | 90/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 87/100 |
-| production | 81/100 |
-| usefulness | 42/100 |
+| production | 68/100 |
+| usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

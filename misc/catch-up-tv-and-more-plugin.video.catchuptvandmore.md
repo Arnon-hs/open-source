@@ -1,6 +1,6 @@
 # Catch-up-TV-and-More/plugin.video.catchuptvandmore
 
-[![Stars](https://img.shields.io/github/stars/Catch-up-TV-and-More/plugin.video.catchuptvandmore?style=flat-square&color=yellow)](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore/stargazers) [![Forks](https://img.shields.io/github/forks/Catch-up-TV-and-More/plugin.video.catchuptvandmore?style=flat-square&color=blue)](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Catch-up-TV-and-More/plugin.video.catchuptvandmore?style=flat-square&color=yellow)](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore/stargazers) [![Forks](https://img.shields.io/github/forks/Catch-up-TV-and-More/plugin.video.catchuptvandmore?style=flat-square&color=blue)](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Replay, Live TV and websites videos addon for Kodi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ Catch-up-TV-and-More/plugin.video.catchuptvandmore 是一个开源项目，提�
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

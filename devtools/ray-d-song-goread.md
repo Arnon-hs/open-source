@@ -1,6 +1,6 @@
 # Ray-D-Song/goread
 
-[![Stars](https://img.shields.io/github/stars/Ray-D-Song/goread?style=flat-square&color=yellow)](https://github.com/Ray-D-Song/goread/stargazers) [![Forks](https://img.shields.io/github/forks/Ray-D-Song/goread?style=flat-square&color=blue)](https://github.com/Ray-D-Song/goread/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ray-D-Song/goread?style=flat-square&color=yellow)](https://github.com/Ray-D-Song/goread/stargazers) [![Forks](https://img.shields.io/github/forks/Ray-D-Song/goread?style=flat-square&color=blue)](https://github.com/Ray-D-Song/goread/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > cli epub reader written in Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 230 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Ray‑D‑Song/goread 是一款用 Go 编写的命令行 EPUB 阅读器，体积
 | forks | 24/100 |
 | stars | 50/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

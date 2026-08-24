@@ -1,6 +1,6 @@
 # GeminiLight/awesome-ai-llm4education
 
-[![Stars](https://img.shields.io/github/stars/GeminiLight/awesome-ai-llm4education?style=flat-square&color=yellow)](https://github.com/GeminiLight/awesome-ai-llm4education/stargazers) [![Forks](https://img.shields.io/github/forks/GeminiLight/awesome-ai-llm4education?style=flat-square&color=blue)](https://github.com/GeminiLight/awesome-ai-llm4education/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GeminiLight/awesome-ai-llm4education?style=flat-square&color=yellow)](https://github.com/GeminiLight/awesome-ai-llm4education/stargazers) [![Forks](https://img.shields.io/github/forks/GeminiLight/awesome-ai-llm4education?style=flat-square&color=blue)](https://github.com/GeminiLight/awesome-ai-llm4education/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome artificial intelligence (AI) and large language model (LLM) for education papers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ GeminiLight/awesome-ai-
 | forks | 36/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

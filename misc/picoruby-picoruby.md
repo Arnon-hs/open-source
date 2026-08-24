@@ -1,6 +1,6 @@
 # picoruby/picoruby
 
-[![Stars](https://img.shields.io/github/stars/picoruby/picoruby?style=flat-square&color=yellow)](https://github.com/picoruby/picoruby/stargazers) [![Forks](https://img.shields.io/github/forks/picoruby/picoruby?style=flat-square&color=blue)](https://github.com/picoruby/picoruby/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/picoruby/picoruby?style=flat-square&color=yellow)](https://github.com/picoruby/picoruby/stargazers) [![Forks](https://img.shields.io/github/forks/picoruby/picoruby?style=flat-square&color=blue)](https://github.com/picoruby/picoruby/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > PicoRuby is the smallest Ruby implementation for one-chip microcontrollers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ PicoRuby 是面向单片机的极简 Ruby 解释器，核心代码用 C 实现�
 | forks | 46/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

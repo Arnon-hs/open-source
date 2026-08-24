@@ -1,6 +1,6 @@
 # FocusPointsLrC/Focus-Points
 
-[![Stars](https://img.shields.io/github/stars/FocusPointsLrC/Focus-Points?style=flat-square&color=yellow)](https://github.com/FocusPointsLrC/Focus-Points/stargazers) [![Forks](https://img.shields.io/github/forks/FocusPointsLrC/Focus-Points?style=flat-square&color=blue)](https://github.com/FocusPointsLrC/Focus-Points/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FocusPointsLrC/Focus-Points?style=flat-square&color=yellow)](https://github.com/FocusPointsLrC/Focus-Points/stargazers) [![Forks](https://img.shields.io/github/forks/FocusPointsLrC/Focus-Points?style=flat-square&color=blue)](https://github.com/FocusPointsLrC/Focus-Points/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Plugin for Lightroom to show which focus point was active in the camera when a photo was taken
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ FocusPointsLrC/Focus-Points 是一款 Lightroom 插件，能够在导入照片�
 | forks | 43/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

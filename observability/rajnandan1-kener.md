@@ -1,6 +1,6 @@
 # rajnandan1/kener
 
-[![Stars](https://img.shields.io/github/stars/rajnandan1/kener?style=flat-square&color=yellow)](https://github.com/rajnandan1/kener/stargazers) [![Forks](https://img.shields.io/github/forks/rajnandan1/kener?style=flat-square&color=blue)](https://github.com/rajnandan1/kener/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rajnandan1/kener?style=flat-square&color=yellow)](https://github.com/rajnandan1/kener/stargazers) [![Forks](https://img.shields.io/github/forks/rajnandan1/kener?style=flat-square&color=blue)](https://github.com/rajnandan1/kener/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Stunning status pages, batteries included!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ rajnandan1/kener的生产可用性较高，主要原因包括：
 | forks | 61/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

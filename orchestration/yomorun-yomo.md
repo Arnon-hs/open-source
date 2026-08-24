@@ -1,6 +1,6 @@
 # yomorun/yomo
 
-[![Stars](https://img.shields.io/github/stars/yomorun/yomo?style=flat-square&color=yellow)](https://github.com/yomorun/yomo/stargazers) [![Forks](https://img.shields.io/github/forks/yomorun/yomo?style=flat-square&color=blue)](https://github.com/yomorun/yomo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yomorun/yomo?style=flat-square&color=yellow)](https://github.com/yomorun/yomo/stargazers) [![Forks](https://img.shields.io/github/forks/yomorun/yomo?style=flat-square&color=blue)](https://github.com/yomorun/yomo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ yomorun/yomo 是一款基于 Rust 的 Serverless AI Agent 框架，提供 Geo‑
 | forks | 54/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

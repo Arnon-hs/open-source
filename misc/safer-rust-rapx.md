@@ -1,6 +1,6 @@
 # safer-rust/RAPx
 
-[![Stars](https://img.shields.io/github/stars/safer-rust/RAPx?style=flat-square&color=yellow)](https://github.com/safer-rust/RAPx/stargazers) [![Forks](https://img.shields.io/github/forks/safer-rust/RAPx?style=flat-square&color=blue)](https://github.com/safer-rust/RAPx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/safer-rust/RAPx?style=flat-square&color=yellow)](https://github.com/safer-rust/RAPx/stargazers) [![Forks](https://img.shields.io/github/forks/safer-rust/RAPx?style=flat-square&color=blue)](https://github.com/safer-rust/RAPx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A static analysis tool for Rust programs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ safer-rust/RAPx 是一个面向 Rust 代码的静态分析工具，旨在帮助�
 | forks | 37/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 67/100 |
+| production | 40/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

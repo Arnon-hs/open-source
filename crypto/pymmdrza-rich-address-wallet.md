@@ -1,6 +1,6 @@
 # Pymmdrza/Rich-Address-Wallet
 
-[![Stars](https://img.shields.io/github/stars/Pymmdrza/Rich-Address-Wallet?style=flat-square&color=yellow)](https://github.com/Pymmdrza/Rich-Address-Wallet/stargazers) [![Forks](https://img.shields.io/github/forks/Pymmdrza/Rich-Address-Wallet?style=flat-square&color=blue)](https://github.com/Pymmdrza/Rich-Address-Wallet/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pymmdrza/Rich-Address-Wallet?style=flat-square&color=yellow)](https://github.com/Pymmdrza/Rich-Address-Wallet/stargazers) [![Forks](https://img.shields.io/github/forks/Pymmdrza/Rich-Address-Wallet?style=flat-square&color=blue)](https://github.com/Pymmdrza/Rich-Address-Wallet/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > All Rich Address Wallet Cryptocurrency [Bitcoin , Ethereum , Dogecoin, Dash, Litecoin, Polkadot, TRON, ZCASH, BCH]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Pymmdrza/Rich-Address-Wallet 的价值在于：
 | forks | 60/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

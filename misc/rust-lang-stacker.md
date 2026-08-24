@@ -1,6 +1,6 @@
 # rust-lang/stacker
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/stacker?style=flat-square&color=yellow)](https://github.com/rust-lang/stacker/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/stacker?style=flat-square&color=blue)](https://github.com/rust-lang/stacker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/stacker?style=flat-square&color=yellow)](https://github.com/rust-lang/stacker/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/stacker?style=flat-square&color=blue)](https://github.com/rust-lang/stacker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Manual segmented stacks for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ rust-lang/stacker 的生产可用性为中等。它适合于原型开发或内�
 | forks | 47/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

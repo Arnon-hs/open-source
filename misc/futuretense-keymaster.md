@@ -1,6 +1,6 @@
 # FutureTense/keymaster
 
-[![Stars](https://img.shields.io/github/stars/FutureTense/keymaster?style=flat-square&color=yellow)](https://github.com/FutureTense/keymaster/stargazers) [![Forks](https://img.shields.io/github/forks/FutureTense/keymaster?style=flat-square&color=blue)](https://github.com/FutureTense/keymaster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FutureTense/keymaster?style=flat-square&color=yellow)](https://github.com/FutureTense/keymaster/stargazers) [![Forks](https://img.shields.io/github/forks/FutureTense/keymaster?style=flat-square&color=blue)](https://github.com/FutureTense/keymaster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant integration for managing Z-Wave enabled locks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ FutureTense/keymaster 的生产可用性为中等。它适合用于原型或内�
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

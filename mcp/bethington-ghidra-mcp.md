@@ -1,6 +1,6 @@
 # bethington/ghidra-mcp
 
-[![Stars](https://img.shields.io/github/stars/bethington/ghidra-mcp?style=flat-square&color=yellow)](https://github.com/bethington/ghidra-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bethington/ghidra-mcp?style=flat-square&color=blue)](https://github.com/bethington/ghidra-mcp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bethington/ghidra-mcp?style=flat-square&color=yellow)](https://github.com/bethington/ghidra-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bethington/ghidra-mcp?style=flat-square&color=blue)](https://github.com/bethington/ghidra-mcp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevOps/Infra
+MCP · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Ghidra MCP Server（bethington/ghidra-mcp）在 Ghidra 上实现了 200+ Mod
 | forks | 41/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 84/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

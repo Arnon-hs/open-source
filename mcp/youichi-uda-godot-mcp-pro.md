@@ -1,6 +1,6 @@
 # youichi-uda/godot-mcp-pro
 
-[![Stars](https://img.shields.io/github/stars/youichi-uda/godot-mcp-pro?style=flat-square&color=yellow)](https://github.com/youichi-uda/godot-mcp-pro/stargazers) [![Forks](https://img.shields.io/github/forks/youichi-uda/godot-mcp-pro?style=flat-square&color=blue)](https://github.com/youichi-uda/godot-mcp-pro/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youichi-uda/godot-mcp-pro?style=flat-square&color=yellow)](https://github.com/youichi-uda/godot-mcp-pro/stargazers) [![Forks](https://img.shields.io/github/forks/youichi-uda/godot-mcp-pro?style=flat-square&color=blue)](https://github.com/youichi-uda/godot-mcp-pro/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 162 MCP tools for AI-powered Godot 4 development. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, navigation, testing & more. $15 one-time.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | GDScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ youichi-uda/godot‑mcp‑pro 提供 162 种面向 Godot 4 的 MCP（Model C
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

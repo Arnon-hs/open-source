@@ -1,6 +1,6 @@
 # aligrudi/neatvi
 
-[![Stars](https://img.shields.io/github/stars/aligrudi/neatvi?style=flat-square&color=yellow)](https://github.com/aligrudi/neatvi/stargazers) [![Forks](https://img.shields.io/github/forks/aligrudi/neatvi?style=flat-square&color=blue)](https://github.com/aligrudi/neatvi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aligrudi/neatvi?style=flat-square&color=yellow)](https://github.com/aligrudi/neatvi/stargazers) [![Forks](https://img.shields.io/github/forks/aligrudi/neatvi?style=flat-square&color=blue)](https://github.com/aligrudi/neatvi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A vi/ex editor for editing UTF-8 text
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ aligrudi/neatvi 的生产可用性为中等，适合用于原型开发或内部�
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

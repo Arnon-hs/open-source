@@ -1,6 +1,6 @@
 # loadingalias/cargo-rail
 
-[![Stars](https://img.shields.io/github/stars/loadingalias/cargo-rail?style=flat-square&color=yellow)](https://github.com/loadingalias/cargo-rail/stargazers) [![Forks](https://img.shields.io/github/forks/loadingalias/cargo-rail?style=flat-square&color=blue)](https://github.com/loadingalias/cargo-rail/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/loadingalias/cargo-rail?style=flat-square&color=yellow)](https://github.com/loadingalias/cargo-rail/stargazers) [![Forks](https://img.shields.io/github/forks/loadingalias/cargo-rail?style=flat-square&color=blue)](https://github.com/loadingalias/cargo-rail/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Graph-aware monorepo orchestration for Rust workspaces
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ loadingalias/cargo-rail 的生产可用性是非常高的，因为它有强大�
 | forks | 17/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

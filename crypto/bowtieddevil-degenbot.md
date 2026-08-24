@@ -1,6 +1,6 @@
 # BowTiedDevil/degenbot
 
-[![Stars](https://img.shields.io/github/stars/BowTiedDevil/degenbot?style=flat-square&color=yellow)](https://github.com/BowTiedDevil/degenbot/stargazers) [![Forks](https://img.shields.io/github/forks/BowTiedDevil/degenbot?style=flat-square&color=blue)](https://github.com/BowTiedDevil/degenbot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BowTiedDevil/degenbot?style=flat-square&color=yellow)](https://github.com/BowTiedDevil/degenbot/stargazers) [![Forks](https://img.shields.io/github/forks/BowTiedDevil/degenbot?style=flat-square&color=blue)](https://github.com/BowTiedDevil/degenbot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Python + Rust building blocks for Uniswap (V2, V3, V4), Curve V1, Solidly V2, Balancer V2 & Aave V3 arbitrage and liquidation bots on EVM-compatible blockchains
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 556 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ BowTiedDevil/degenbot 的接入方式包括：
 | forks | 57/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

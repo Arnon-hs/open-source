@@ -1,6 +1,6 @@
 # contentful/rich-text
 
-[![Stars](https://img.shields.io/github/stars/contentful/rich-text?style=flat-square&color=yellow)](https://github.com/contentful/rich-text/stargazers) [![Forks](https://img.shields.io/github/forks/contentful/rich-text?style=flat-square&color=blue)](https://github.com/contentful/rich-text/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/contentful/rich-text?style=flat-square&color=yellow)](https://github.com/contentful/rich-text/stargazers) [![Forks](https://img.shields.io/github/forks/contentful/rich-text?style=flat-square&color=blue)](https://github.com/contentful/rich-text/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Libraries for handling and rendering Rich Text 📄
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ contentful/rich-text 的生产可用性为中等（Medium）。虽然它可以�
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 72/100 |
-| usefulness | 42/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vintasoftware/django-ai-boost
 
-[![Stars](https://img.shields.io/github/stars/vintasoftware/django-ai-boost?style=flat-square&color=yellow)](https://github.com/vintasoftware/django-ai-boost/stargazers) [![Forks](https://img.shields.io/github/forks/vintasoftware/django-ai-boost?style=flat-square&color=blue)](https://github.com/vintasoftware/django-ai-boost/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vintasoftware/django-ai-boost?style=flat-square&color=yellow)](https://github.com/vintasoftware/django-ai-boost/stargazers) [![Forks](https://img.shields.io/github/forks/vintasoftware/django-ai-boost?style=flat-square&color=blue)](https://github.com/vintasoftware/django-ai-boost/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A MCP server for Django applications, inspired by Laravel Boost.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ vintasoftware/django-ai-boost 的价值在于，它连接 AI 代理到工具，�
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

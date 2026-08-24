@@ -1,6 +1,6 @@
 # daiemon12/catia-v5-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/daiemon12/catia-v5-mcp-server?style=flat-square&color=yellow)](https://github.com/daiemon12/catia-v5-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/daiemon12/catia-v5-mcp-server?style=flat-square&color=blue)](https://github.com/daiemon12/catia-v5-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daiemon12/catia-v5-mcp-server?style=flat-square&color=yellow)](https://github.com/daiemon12/catia-v5-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/daiemon12/catia-v5-mcp-server?style=flat-square&color=blue)](https://github.com/daiemon12/catia-v5-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CATIA V5 MCP Server - Control CATIA V5 with AI via Model Context Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ daiemon12/catia-v5-mcp-server 是一个开源项目，用于连接人工智能�
 | forks | 32/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

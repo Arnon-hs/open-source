@@ -1,6 +1,6 @@
 # pantalytics/odoo-mcp-pro
 
-[![Stars](https://img.shields.io/github/stars/pantalytics/odoo-mcp-pro?style=flat-square&color=yellow)](https://github.com/pantalytics/odoo-mcp-pro/stargazers) [![Forks](https://img.shields.io/github/forks/pantalytics/odoo-mcp-pro?style=flat-square&color=blue)](https://github.com/pantalytics/odoo-mcp-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pantalytics/odoo-mcp-pro?style=flat-square&color=yellow)](https://github.com/pantalytics/odoo-mcp-pro/stargazers) [![Forks](https://img.shields.io/github/forks/pantalytics/odoo-mcp-pro?style=flat-square&color=blue)](https://github.com/pantalytics/odoo-mcp-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI connector for Odoo ERP | Connect Claude, ChatGPT, Cursor and other AI tools to Odoo via MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Security · Product
+MCP · AI/ML · Product
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ pantalytics/odoo-mcp-pro 是一个开源项目，旨在连接 Odoo ERP 与 AI �
 | forks | 35/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

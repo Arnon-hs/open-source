@@ -1,6 +1,6 @@
 # ArthurBrussee/brush
 
-[![Stars](https://img.shields.io/github/stars/ArthurBrussee/brush?style=flat-square&color=yellow)](https://github.com/ArthurBrussee/brush/stargazers) [![Forks](https://img.shields.io/github/forks/ArthurBrussee/brush?style=flat-square&color=blue)](https://github.com/ArthurBrussee/brush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArthurBrussee/brush?style=flat-square&color=yellow)](https://github.com/ArthurBrussee/brush/stargazers) [![Forks](https://img.shields.io/github/forks/ArthurBrussee/brush?style=flat-square&color=blue)](https://github.com/ArthurBrussee/brush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 3D Reconstruction for all
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ ArthurBrussee/brush 是一款用 Rust 编写的 3D 重建工具，旨在让任�
 | forks | 58/100 |
 | stars | 77/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

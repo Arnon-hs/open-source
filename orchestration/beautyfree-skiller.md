@@ -1,6 +1,6 @@
 # beautyfree/skiller
 
-[![Stars](https://img.shields.io/github/stars/beautyfree/skiller?style=flat-square&color=yellow)](https://github.com/beautyfree/skiller/stargazers) [![Forks](https://img.shields.io/github/forks/beautyfree/skiller?style=flat-square&color=blue)](https://github.com/beautyfree/skiller/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beautyfree/skiller?style=flat-square&color=yellow)](https://github.com/beautyfree/skiller/stargazers) [![Forks](https://img.shields.io/github/forks/beautyfree/skiller?style=flat-square&color=blue)](https://github.com/beautyfree/skiller/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills manager for Claude Code, Cursor, Codex and more — install, sync, and manage skills from one desktop app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Database · Product
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ beautyfree/skiller 的生产可用性为中等。它适合用于原型或内部�
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

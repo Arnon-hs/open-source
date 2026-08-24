@@ -1,6 +1,6 @@
 # fancyboi999/open-tag
 
-[![Stars](https://img.shields.io/github/stars/fancyboi999/open-tag?style=flat-square&color=yellow)](https://github.com/fancyboi999/open-tag/stargazers) [![Forks](https://img.shields.io/github/forks/fancyboi999/open-tag?style=flat-square&color=blue)](https://github.com/fancyboi999/open-tag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fancyboi999/open-tag?style=flat-square&color=yellow)](https://github.com/fancyboi999/open-tag/stargazers) [![Forks](https://img.shields.io/github/forks/fancyboi999/open-tag?style=flat-square&color=blue)](https://github.com/fancyboi999/open-tag/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hostable alternative to Claude Tag — a Slack-style workspace where your team and its AI agents (Claude Code, Codex, GitHub Copilot, and more) work as teammates in channels, threads, DMs, and shared tasks. Your data stays on your machines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data · Marketing
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ fancyboi999/open-tag 是一个开源、可自托管的 “Claude Tag” 替代�
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

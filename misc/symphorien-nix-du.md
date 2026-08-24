@@ -1,6 +1,6 @@
 # symphorien/nix-du
 
-[![Stars](https://img.shields.io/github/stars/symphorien/nix-du?style=flat-square&color=yellow)](https://github.com/symphorien/nix-du/stargazers) [![Forks](https://img.shields.io/github/forks/symphorien/nix-du?style=flat-square&color=blue)](https://github.com/symphorien/nix-du/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symphorien/nix-du?style=flat-square&color=yellow)](https://github.com/symphorien/nix-du/stargazers) [![Forks](https://img.shields.io/github/forks/symphorien/nix-du?style=flat-square&color=blue)](https://github.com/symphorien/nix-du/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Visualise which gc-roots to delete to free some space in your nix store
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ symphorien/nix-du 的生产可用性为中等。它适合用于 Prototypes 或�
 | forks | 24/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

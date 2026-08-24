@@ -1,6 +1,6 @@
 # pypy/pypy
 
-[![Stars](https://img.shields.io/github/stars/pypy/pypy?style=flat-square&color=yellow)](https://github.com/pypy/pypy/stargazers) [![Forks](https://img.shields.io/github/forks/pypy/pypy?style=flat-square&color=blue)](https://github.com/pypy/pypy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pypy/pypy?style=flat-square&color=yellow)](https://github.com/pypy/pypy/stargazers) [![Forks](https://img.shields.io/github/forks/pypy/pypy?style=flat-square&color=blue)](https://github.com/pypy/pypy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > PyPy is a very fast and compliant implementation of the Python language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ PyPy 提供了比 CPython 更快的执行速度，同时保持了对 Python 语�
 | forks | 52/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

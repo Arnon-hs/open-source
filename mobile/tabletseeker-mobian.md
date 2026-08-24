@@ -1,6 +1,6 @@
 # tabletseeker/mobian
 
-[![Stars](https://img.shields.io/github/stars/tabletseeker/mobian?style=flat-square&color=yellow)](https://github.com/tabletseeker/mobian/stargazers) [![Forks](https://img.shields.io/github/forks/tabletseeker/mobian?style=flat-square&color=blue)](https://github.com/tabletseeker/mobian/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tabletseeker/mobian?style=flat-square&color=yellow)](https://github.com/tabletseeker/mobian/stargazers) [![Forks](https://img.shields.io/github/forks/tabletseeker/mobian?style=flat-square&color=blue)](https://github.com/tabletseeker/mobian/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Android like OS using 100% Debian FOSS and 0% Google or 3rd Party Services, for touch devices such as Surface Pro, Zenbook, Thinkpad, Pinephone etc, offering a truly free and private touch experience.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ tabletseeker/mobian 的生产可用性为中等（Medium）。它适合用于原
 | forks | 19/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

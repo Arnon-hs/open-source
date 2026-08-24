@@ -1,6 +1,6 @@
 # skynetcmd/m3-memory
 
-[![Stars](https://img.shields.io/github/stars/skynetcmd/m3-memory?style=flat-square&color=yellow)](https://github.com/skynetcmd/m3-memory/stargazers) [![Forks](https://img.shields.io/github/forks/skynetcmd/m3-memory?style=flat-square&color=blue)](https://github.com/skynetcmd/m3-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skynetcmd/m3-memory?style=flat-square&color=yellow)](https://github.com/skynetcmd/m3-memory/stargazers) [![Forks](https://img.shields.io/github/forks/skynetcmd/m3-memory?style=flat-square&color=blue)](https://github.com/skynetcmd/m3-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first Memory Framework for AI Agents · 99.2% LongMemEval-S retrieval @ k=10 · Supports Claude · Antigravity · LangChain · Hermes · Gemini · OpenCode · OpenClaw · MCP-native and plugins · Hybrid search (FTS5 + vector + MMR) · GDPR · FIPS 140-3 ready · 100% local (fully offline) or cloud capable
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ skynetcmd/m3‑memory 是一个本地优先的 AI Agent 记忆框架，能够将
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

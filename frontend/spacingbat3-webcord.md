@@ -1,6 +1,6 @@
 # SpacingBat3/WebCord
 
-[![Stars](https://img.shields.io/github/stars/SpacingBat3/WebCord?style=flat-square&color=yellow)](https://github.com/SpacingBat3/WebCord/stargazers) [![Forks](https://img.shields.io/github/forks/SpacingBat3/WebCord?style=flat-square&color=blue)](https://github.com/SpacingBat3/WebCord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SpacingBat3/WebCord?style=flat-square&color=yellow)](https://github.com/SpacingBat3/WebCord/stargazers) [![Forks](https://img.shields.io/github/forks/SpacingBat3/WebCord?style=flat-square&color=blue)](https://github.com/SpacingBat3/WebCord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A Discord and SpaceBar :electron:-based client implemented without Discord API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ SpacingBat3/WebCord 的生产可用性高，因为它拥有强大的 GitHub star
 | forks | 51/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 83/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

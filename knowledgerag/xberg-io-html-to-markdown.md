@@ -1,6 +1,6 @@
 # xberg-io/html-to-markdown
 
-[![Stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown?style=flat-square&color=yellow)](https://github.com/xberg-io/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/html-to-markdown?style=flat-square&color=blue)](https://github.com/xberg-io/html-to-markdown/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown?style=flat-square&color=yellow)](https://github.com/xberg-io/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/html-to-markdown?style=flat-square&color=blue)](https://github.com/xberg-io/html-to-markdown/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 784 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Data · Database
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ xberg-io/html-to-markdown 是由 Kreuzberg 团队维护的高性能、完全符�
 | forks | 45/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

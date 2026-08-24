@@ -1,6 +1,6 @@
 # QVerisAI/qveris-agent-toolkit
 
-[![Stars](https://img.shields.io/github/stars/QVerisAI/qveris-agent-toolkit?style=flat-square&color=yellow)](https://github.com/QVerisAI/qveris-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/QVerisAI/qveris-agent-toolkit?style=flat-square&color=blue)](https://github.com/QVerisAI/qveris-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QVerisAI/qveris-agent-toolkit?style=flat-square&color=yellow)](https://github.com/QVerisAI/qveris-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/QVerisAI/qveris-agent-toolkit?style=flat-square&color=blue)](https://github.com/QVerisAI/qveris-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source toolkit for the QVeris capability routing network: CLI, MCP server, Python SDK, skills, and REST API docs for agents to discover, inspect, call, and audit real-world tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ QVerisAI/qveris-agent-toolkit 已具备较高的生产可用性，适合作为�
 | forks | 34/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

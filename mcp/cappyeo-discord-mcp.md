@@ -1,6 +1,6 @@
 # cappyeo/discord-mcp
 
-[![Stars](https://img.shields.io/github/stars/cappyeo/discord-mcp?style=flat-square&color=yellow)](https://github.com/cappyeo/discord-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cappyeo/discord-mcp?style=flat-square&color=blue)](https://github.com/cappyeo/discord-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cappyeo/discord-mcp?style=flat-square&color=yellow)](https://github.com/cappyeo/discord-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cappyeo/discord-mcp?style=flat-square&color=blue)](https://github.com/cappyeo/discord-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Local, typed Model Context Protocol server for Discord bots - 192 tools for AI clients with safety controls and observability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Backend · Observability
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ cappyeo/discord-mcp 是一个开源项目，提供了一个本地、类型安全
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

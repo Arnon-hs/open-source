@@ -1,6 +1,6 @@
 # just-every/mcp-read-website-fast
 
-[![Stars](https://img.shields.io/github/stars/just-every/mcp-read-website-fast?style=flat-square&color=yellow)](https://github.com/just-every/mcp-read-website-fast/stargazers) [![Forks](https://img.shields.io/github/forks/just-every/mcp-read-website-fast?style=flat-square&color=blue)](https://github.com/just-every/mcp-read-website-fast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/just-every/mcp-read-website-fast?style=flat-square&color=yellow)](https://github.com/just-every/mcp-read-website-fast/stargazers) [![Forks](https://img.shields.io/github/forks/just-every/mcp-read-website-fast?style=flat-square&color=blue)](https://github.com/just-every/mcp-read-website-fast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Quickly reads webpages and converts to markdown for fast, token efficient web scraping
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · Marketing
+MCP · Backend
 
 ## 📝 Summary
 
@@ -88,14 +88,15 @@ just-every/mcp-read-website-fast 是一个快速读取网页并将其转换为 M
 | forks | 36/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

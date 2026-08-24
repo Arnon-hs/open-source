@@ -1,6 +1,6 @@
 # software-mansion/react-native-screens
 
-[![Stars](https://img.shields.io/github/stars/software-mansion/react-native-screens?style=flat-square&color=yellow)](https://github.com/software-mansion/react-native-screens/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/react-native-screens?style=flat-square&color=blue)](https://github.com/software-mansion/react-native-screens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion/react-native-screens?style=flat-square&color=yellow)](https://github.com/software-mansion/react-native-screens/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/react-native-screens?style=flat-square&color=blue)](https://github.com/software-mansion/react-native-screens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Native navigation primitives for your React Native app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 646 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ software‑mansion/react-native-screens 为 React Native 提供原生的页面
 | forks | 70/100 |
 | stars | 76/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 74/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

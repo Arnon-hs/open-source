@@ -1,6 +1,6 @@
 # codeofaxel/Kiln
 
-[![Stars](https://img.shields.io/github/stars/codeofaxel/Kiln?style=flat-square&color=yellow)](https://github.com/codeofaxel/Kiln/stargazers) [![Forks](https://img.shields.io/github/forks/codeofaxel/Kiln?style=flat-square&color=blue)](https://github.com/codeofaxel/Kiln/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codeofaxel/Kiln?style=flat-square&color=yellow)](https://github.com/codeofaxel/Kiln/stargazers) [![Forks](https://img.shields.io/github/forks/codeofaxel/Kiln?style=flat-square&color=blue)](https://github.com/codeofaxel/Kiln/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Describe it or draw it — Kiln makes it real. Open-source MCP server + CLI that lets AI agents (Claude, GPT, any MCP client) design, generate, slice & 3D print — Bambu Lab, Prusa, Creality, Klipper/Moonraker, OctoPrint, Elegoo & any Marlin printer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Design
+MCP · AI/ML · Backend · Design
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Kiln 是一个开源的 MCP（Model Context Protocol）服务器 + CLI 工具，
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

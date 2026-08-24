@@ -1,6 +1,6 @@
 # pion/ice
 
-[![Stars](https://img.shields.io/github/stars/pion/ice?style=flat-square&color=yellow)](https://github.com/pion/ice/stargazers) [![Forks](https://img.shields.io/github/forks/pion/ice?style=flat-square&color=blue)](https://github.com/pion/ice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pion/ice?style=flat-square&color=yellow)](https://github.com/pion/ice/stargazers) [![Forks](https://img.shields.io/github/forks/pion/ice?style=flat-square&color=blue)](https://github.com/pion/ice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A Go implementation of ICE
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ pion/ice 的生产可用性高，因为它有活跃的社区支持，更新频�
 | forks | 58/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

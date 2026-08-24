@@ -1,6 +1,6 @@
 # sublay-io/monorepo
 
-[![Stars](https://img.shields.io/github/stars/sublay-io/monorepo?style=flat-square&color=yellow)](https://github.com/sublay-io/monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/sublay-io/monorepo?style=flat-square&color=blue)](https://github.com/sublay-io/monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sublay-io/monorepo?style=flat-square&color=yellow)](https://github.com/sublay-io/monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/sublay-io/monorepo?style=flat-square&color=blue)](https://github.com/sublay-io/monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Replyke: An Open-Source Framework for Social Features. Build social apps faster with powerful API and SDKs for JavaScript, React, and React Native.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ sublay-io/monorepo：sublay-io/monorepo helps ship user-facing interfaces with l
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

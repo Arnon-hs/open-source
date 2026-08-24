@@ -1,6 +1,6 @@
 # fluxcd/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/fluxcd/agent-skills?style=flat-square&color=yellow)](https://github.com/fluxcd/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/fluxcd/agent-skills?style=flat-square&color=blue)](https://github.com/fluxcd/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluxcd/agent-skills?style=flat-square&color=yellow)](https://github.com/fluxcd/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/fluxcd/agent-skills?style=flat-square&color=blue)](https://github.com/fluxcd/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Skills to transform AI Agents into GitOps Engineers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ fluxcd/agent‑skills 为 AI Agent 提供一套可复用的 “技能库”，�
 | forks | 21/100 |
 | stars | 46/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

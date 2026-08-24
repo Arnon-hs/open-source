@@ -1,6 +1,6 @@
 # horizontalsystems/unstoppable-wallet-android
 
-[![Stars](https://img.shields.io/github/stars/horizontalsystems/unstoppable-wallet-android?style=flat-square&color=yellow)](https://github.com/horizontalsystems/unstoppable-wallet-android/stargazers) [![Forks](https://img.shields.io/github/forks/horizontalsystems/unstoppable-wallet-android?style=flat-square&color=blue)](https://github.com/horizontalsystems/unstoppable-wallet-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horizontalsystems/unstoppable-wallet-android?style=flat-square&color=yellow)](https://github.com/horizontalsystems/unstoppable-wallet-android/stargazers) [![Forks](https://img.shields.io/github/forks/horizontalsystems/unstoppable-wallet-android?style=flat-square&color=blue)](https://github.com/horizontalsystems/unstoppable-wallet-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design. Implemented on Kotlin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · AI/ML · Data
+Crypto · Trading · Mobile · Design
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Horizontalsystems 的 *Unstoppable Wallet* 是一款基于 Kotlin 实现的非�
 | forks | 67/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

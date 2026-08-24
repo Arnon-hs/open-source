@@ -1,6 +1,6 @@
 # cassidoo/todometer
 
-[![Stars](https://img.shields.io/github/stars/cassidoo/todometer?style=flat-square&color=yellow)](https://github.com/cassidoo/todometer/stargazers) [![Forks](https://img.shields.io/github/forks/cassidoo/todometer?style=flat-square&color=blue)](https://github.com/cassidoo/todometer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cassidoo/todometer?style=flat-square&color=yellow)](https://github.com/cassidoo/todometer/stargazers) [![Forks](https://img.shields.io/github/forks/cassidoo/todometer?style=flat-square&color=blue)](https://github.com/cassidoo/todometer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A simple task app with a progress bar
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 305 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Product
+Frontend
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ cassidoo/todometer 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 62/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

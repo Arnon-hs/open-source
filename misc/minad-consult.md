@@ -1,6 +1,6 @@
 # minad/consult
 
-[![Stars](https://img.shields.io/github/stars/minad/consult?style=flat-square&color=yellow)](https://github.com/minad/consult/stargazers) [![Forks](https://img.shields.io/github/forks/minad/consult?style=flat-square&color=blue)](https://github.com/minad/consult/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minad/consult?style=flat-square&color=yellow)](https://github.com/minad/consult/stargazers) [![Forks](https://img.shields.io/github/forks/minad/consult?style=flat-square&color=blue)](https://github.com/minad/consult/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > :mag: consult.el - Search and navigate via completing-read
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Consult is medium‑ready for production: it is widely used, well‑documented, 
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

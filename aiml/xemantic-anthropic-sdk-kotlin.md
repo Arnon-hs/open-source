@@ -1,6 +1,6 @@
 # xemantic/anthropic-sdk-kotlin
 
-[![Stars](https://img.shields.io/github/stars/xemantic/anthropic-sdk-kotlin?style=flat-square&color=yellow)](https://github.com/xemantic/anthropic-sdk-kotlin/stargazers) [![Forks](https://img.shields.io/github/forks/xemantic/anthropic-sdk-kotlin?style=flat-square&color=blue)](https://github.com/xemantic/anthropic-sdk-kotlin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xemantic/anthropic-sdk-kotlin?style=flat-square&color=yellow)](https://github.com/xemantic/anthropic-sdk-kotlin/stargazers) [![Forks](https://img.shields.io/github/forks/xemantic/anthropic-sdk-kotlin?style=flat-square&color=blue)](https://github.com/xemantic/anthropic-sdk-kotlin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Kotlin multiplatform variant of the Anthropic SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Database · Education
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ xemantic/anthropic-sdk-kotlin 是一套非官方的 Kotlin 多平台实现，封
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

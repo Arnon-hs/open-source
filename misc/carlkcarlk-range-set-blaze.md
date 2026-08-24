@@ -1,6 +1,6 @@
 # CarlKCarlK/range-set-blaze
 
-[![Stars](https://img.shields.io/github/stars/CarlKCarlK/range-set-blaze?style=flat-square&color=yellow)](https://github.com/CarlKCarlK/range-set-blaze/stargazers) [![Forks](https://img.shields.io/github/forks/CarlKCarlK/range-set-blaze?style=flat-square&color=blue)](https://github.com/CarlKCarlK/range-set-blaze/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CarlKCarlK/range-set-blaze?style=flat-square&color=yellow)](https://github.com/CarlKCarlK/range-set-blaze/stargazers) [![Forks](https://img.shields.io/github/forks/CarlKCarlK/range-set-blaze?style=flat-square&color=blue)](https://github.com/CarlKCarlK/range-set-blaze/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Integer sets as fast, sorted, integer ranges with full set operations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,14 +122,15 @@ Misc
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

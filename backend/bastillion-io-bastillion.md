@@ -1,6 +1,6 @@
 # bastillion-io/Bastillion
 
-[![Stars](https://img.shields.io/github/stars/bastillion-io/Bastillion?style=flat-square&color=yellow)](https://github.com/bastillion-io/Bastillion/stargazers) [![Forks](https://img.shields.io/github/forks/bastillion-io/Bastillion?style=flat-square&color=blue)](https://github.com/bastillion-io/Bastillion/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bastillion-io/Bastillion?style=flat-square&color=yellow)](https://github.com/bastillion-io/Bastillion/stargazers) [![Forks](https://img.shields.io/github/forks/bastillion-io/Bastillion?style=flat-square&color=blue)](https://github.com/bastillion-io/Bastillion/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Bastillion 的生产可用性较高，主要原因是：
 | forks | 65/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

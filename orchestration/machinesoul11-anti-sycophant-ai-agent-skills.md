@@ -1,6 +1,6 @@
 # machinesoul11/anti-sycophant-ai-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/machinesoul11/anti-sycophant-ai-agent-skills?style=flat-square&color=yellow)](https://github.com/machinesoul11/anti-sycophant-ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/machinesoul11/anti-sycophant-ai-agent-skills?style=flat-square&color=blue)](https://github.com/machinesoul11/anti-sycophant-ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/machinesoul11/anti-sycophant-ai-agent-skills?style=flat-square&color=yellow)](https://github.com/machinesoul11/anti-sycophant-ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/machinesoul11/anti-sycophant-ai-agent-skills?style=flat-square&color=blue)](https://github.com/machinesoul11/anti-sycophant-ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Skills that get AI assistants to stop agreeing with bad product ideas by default — pressure-test premises, separate hobbies from businesses, and refuse validation theater.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ machinesoul11/anti-sycophant-ai-agent-skills 是一个开源项目，旨在帮�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

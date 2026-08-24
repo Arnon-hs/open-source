@@ -1,6 +1,6 @@
 # GSTJ/react-native-magic-modal
 
-[![Stars](https://img.shields.io/github/stars/GSTJ/react-native-magic-modal?style=flat-square&color=yellow)](https://github.com/GSTJ/react-native-magic-modal/stargazers) [![Forks](https://img.shields.io/github/forks/GSTJ/react-native-magic-modal?style=flat-square&color=blue)](https://github.com/GSTJ/react-native-magic-modal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GSTJ/react-native-magic-modal?style=flat-square&color=yellow)](https://github.com/GSTJ/react-native-magic-modal/stargazers) [![Forks](https://img.shields.io/github/forks/GSTJ/react-native-magic-modal?style=flat-square&color=blue)](https://github.com/GSTJ/react-native-magic-modal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🦄 A modal library that can be called imperatively from anywhere!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 619 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ GSTJ/react-native-magic-modal 的生产可用性为中等（Medium）。它适�
 | forks | 31/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

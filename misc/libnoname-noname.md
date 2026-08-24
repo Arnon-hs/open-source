@@ -1,6 +1,6 @@
 # libnoname/noname
 
-[![Stars](https://img.shields.io/github/stars/libnoname/noname?style=flat-square&color=yellow)](https://github.com/libnoname/noname/stargazers) [![Forks](https://img.shields.io/github/forks/libnoname/noname?style=flat-square&color=blue)](https://github.com/libnoname/noname/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libnoname/noname?style=flat-square&color=yellow)](https://github.com/libnoname/noname/stargazers) [![Forks](https://img.shields.io/github/forks/libnoname/noname?style=flat-square&color=blue)](https://github.com/libnoname/noname/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 882 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -77,14 +77,15 @@ libnoname/noname 是一个开源项目，值得注意的是它的README和活动
 | forks | 74/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

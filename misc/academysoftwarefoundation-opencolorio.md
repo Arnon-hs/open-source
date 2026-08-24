@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/OpenColorIO
 
-[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenColorIO/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenColorIO?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenColorIO/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A color management framework for visual effects and animation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 493 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ OpenColorIO 的生产可用性为中等水平。这意味着它可以用于内�
 | forks | 67/100 |
 | stars | 71/100 |
 | topics | 13/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

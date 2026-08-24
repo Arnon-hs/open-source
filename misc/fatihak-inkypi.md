@@ -1,6 +1,6 @@
 # fatihak/InkyPi
 
-[![Stars](https://img.shields.io/github/stars/fatihak/InkyPi?style=flat-square&color=yellow)](https://github.com/fatihak/InkyPi/stargazers) [![Forks](https://img.shields.io/github/forks/fatihak/InkyPi?style=flat-square&color=blue)](https://github.com/fatihak/InkyPi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fatihak/InkyPi?style=flat-square&color=yellow)](https://github.com/fatihak/InkyPi/stargazers) [![Forks](https://img.shields.io/github/forks/fatihak/InkyPi?style=flat-square&color=blue)](https://github.com/fatihak/InkyPi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 564 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ fatihak/InkyPi：fatihak/InkyPi may be useful when its README and activity match
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

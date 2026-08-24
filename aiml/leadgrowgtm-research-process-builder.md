@@ -1,6 +1,6 @@
 # LeadGrowGTM/research-process-builder
 
-[![Stars](https://img.shields.io/github/stars/LeadGrowGTM/research-process-builder?style=flat-square&color=yellow)](https://github.com/LeadGrowGTM/research-process-builder/stargazers) [![Forks](https://img.shields.io/github/forks/LeadGrowGTM/research-process-builder?style=flat-square&color=blue)](https://github.com/LeadGrowGTM/research-process-builder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeadGrowGTM/research-process-builder?style=flat-square&color=yellow)](https://github.com/LeadGrowGTM/research-process-builder/stargazers) [![Forks](https://img.shields.io/github/forks/LeadGrowGTM/research-process-builder?style=flat-square&color=blue)](https://github.com/LeadGrowGTM/research-process-builder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Build validated web research processes through self-annealing loops. 138 patterns tested, 90%+ accuracy. Works with Claude Code, Clay, any AI agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ LeadGrowGTM/research-process-builder：LeadGrowGTM/research-process-builder help
 | forks | 30/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

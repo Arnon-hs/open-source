@@ -1,6 +1,6 @@
 # zapier/AutomationBench
 
-[![Stars](https://img.shields.io/github/stars/zapier/AutomationBench?style=flat-square&color=yellow)](https://github.com/zapier/AutomationBench/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/AutomationBench?style=flat-square&color=blue)](https://github.com/zapier/AutomationBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zapier/AutomationBench?style=flat-square&color=yellow)](https://github.com/zapier/AutomationBench/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/AutomationBench?style=flat-square&color=blue)](https://github.com/zapier/AutomationBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A benchmark for evaluating AI agents on realistic business workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ zapier/AutomationBench 的生产可用性为中等（Medium）。它适合用于
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

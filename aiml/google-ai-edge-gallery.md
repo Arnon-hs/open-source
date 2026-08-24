@@ -1,6 +1,6 @@
 # google-ai-edge/gallery
 
-[![Stars](https://img.shields.io/github/stars/google-ai-edge/gallery?style=flat-square&color=yellow)](https://github.com/google-ai-edge/gallery/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/gallery?style=flat-square&color=blue)](https://github.com/google-ai-edge/gallery/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-ai-edge/gallery?style=flat-square&color=yellow)](https://github.com/google-ai-edge/gallery/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/gallery?style=flat-square&color=blue)](https://github.com/google-ai-edge/gallery/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24.5k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ google‑ai‑edge/gallery 提供了一套即插即用的设备端机器学习/�
 | forks | 86/100 |
 | stars | 93/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # crystalidea/qt6windows7
 
-[![Stars](https://img.shields.io/github/stars/crystalidea/qt6windows7?style=flat-square&color=yellow)](https://github.com/crystalidea/qt6windows7/stargazers) [![Forks](https://img.shields.io/github/forks/crystalidea/qt6windows7?style=flat-square&color=blue)](https://github.com/crystalidea/qt6windows7/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crystalidea/qt6windows7?style=flat-square&color=yellow)](https://github.com/crystalidea/qt6windows7/stargazers) [![Forks](https://img.shields.io/github/forks/crystalidea/qt6windows7?style=flat-square&color=blue)](https://github.com/crystalidea/qt6windows7/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Run your Qt 6 apps on Windows 7/8
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ crystalidea/qt6windows7 是一个开源项目，允许在 Windows 7/8 上运行 
 | forks | 40/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

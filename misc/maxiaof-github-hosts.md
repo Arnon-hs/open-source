@@ -1,6 +1,6 @@
 # maxiaof/github-hosts
 
-[![Stars](https://img.shields.io/github/stars/maxiaof/github-hosts?style=flat-square&color=yellow)](https://github.com/maxiaof/github-hosts/stargazers) [![Forks](https://img.shields.io/github/forks/maxiaof/github-hosts?style=flat-square&color=blue)](https://github.com/maxiaof/github-hosts/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxiaof/github-hosts?style=flat-square&color=yellow)](https://github.com/maxiaof/github-hosts/stargazers) [![Forks](https://img.shields.io/github/forks/maxiaof/github-hosts?style=flat-square&color=blue)](https://github.com/maxiaof/github-hosts/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,14 +123,15 @@ Overall, `maxiaof/github-hosts` is a practical, low‑cost solution for improvin
 | forks | 57/100 |
 | stars | 73/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # KryptosAI/mcp-observatory
 
-[![Stars](https://img.shields.io/github/stars/KryptosAI/mcp-observatory?style=flat-square&color=yellow)](https://github.com/KryptosAI/mcp-observatory/stargazers) [![Forks](https://img.shields.io/github/forks/KryptosAI/mcp-observatory?style=flat-square&color=blue)](https://github.com/KryptosAI/mcp-observatory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KryptosAI/mcp-observatory?style=flat-square&color=yellow)](https://github.com/KryptosAI/mcp-observatory/stargazers) [![Forks](https://img.shields.io/github/forks/KryptosAI/mcp-observatory?style=flat-square&color=blue)](https://github.com/KryptosAI/mcp-observatory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Test, secure, and monitor MCP servers before agents depend on them.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ KryptosAI 的 **mcp‑observatory** 是一套用于在 AI 代理接入前，�
 | forks | 32/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

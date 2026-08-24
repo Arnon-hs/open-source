@@ -1,6 +1,6 @@
 # velane-sh/velane
 
-[![Stars](https://img.shields.io/github/stars/velane-sh/velane?style=flat-square&color=yellow)](https://github.com/velane-sh/velane/stargazers) [![Forks](https://img.shields.io/github/forks/velane-sh/velane?style=flat-square&color=blue)](https://github.com/velane-sh/velane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/velane-sh/velane?style=flat-square&color=yellow)](https://github.com/velane-sh/velane/stargazers) [![Forks](https://img.shields.io/github/forks/velane-sh/velane?style=flat-square&color=blue)](https://github.com/velane-sh/velane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Velane is agentic cloud for deploying your basic workflows, agents and sub-agents. 800+ OAuth integrations, sandboxed Bun and Python execution, and a full deployment pipeline managed via MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Security
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Velane 的生产可用性较高，拥有强烈的活跃度、采用度和生态�
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

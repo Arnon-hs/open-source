@@ -1,6 +1,6 @@
 # allgpt-co/QuickVoice
 
-[![Stars](https://img.shields.io/github/stars/allgpt-co/QuickVoice?style=flat-square&color=yellow)](https://github.com/allgpt-co/QuickVoice/stargazers) [![Forks](https://img.shields.io/github/forks/allgpt-co/QuickVoice?style=flat-square&color=blue)](https://github.com/allgpt-co/QuickVoice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allgpt-co/QuickVoice?style=flat-square&color=yellow)](https://github.com/allgpt-co/QuickVoice/stargazers) [![Forks](https://img.shields.io/github/forks/allgpt-co/QuickVoice?style=flat-square&color=blue)](https://github.com/allgpt-co/QuickVoice/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hostable platform for building and operating AI phone agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 288 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ QuickVoice 的生产可用性非常高，最近有活跃的更新和采用，Git
 | forks | 62/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

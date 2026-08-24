@@ -1,6 +1,6 @@
 # google/docsy
 
-[![Stars](https://img.shields.io/github/stars/google/docsy?style=flat-square&color=yellow)](https://github.com/google/docsy/stargazers) [![Forks](https://img.shields.io/github/forks/google/docsy?style=flat-square&color=blue)](https://github.com/google/docsy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/docsy?style=flat-square&color=yellow)](https://github.com/google/docsy/stargazers) [![Forks](https://img.shields.io/github/forks/google/docsy?style=flat-square&color=blue)](https://github.com/google/docsy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Hugo theme for open source documentation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 978 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,14 +74,15 @@ google/docsy 的生产可用性较高，因为它有较强的活跃度、采纳�
 | forks | 75/100 |
 | stars | 74/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # asciinema/asciinema
 
-[![Stars](https://img.shields.io/github/stars/asciinema/asciinema?style=flat-square&color=yellow)](https://github.com/asciinema/asciinema/stargazers) [![Forks](https://img.shields.io/github/forks/asciinema/asciinema?style=flat-square&color=blue)](https://github.com/asciinema/asciinema/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asciinema/asciinema?style=flat-square&color=yellow)](https://github.com/asciinema/asciinema/stargazers) [![Forks](https://img.shields.io/github/forks/asciinema/asciinema?style=flat-square&color=blue)](https://github.com/asciinema/asciinema/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal session recorder, streamer and player 📹
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.7k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ asciinema/asciinema 在生产环境中非常可靠和稳定。它有强大的社
 | forks | 75/100 |
 | stars | 90/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 86/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

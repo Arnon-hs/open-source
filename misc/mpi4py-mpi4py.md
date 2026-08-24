@@ -1,6 +1,6 @@
 # mpi4py/mpi4py
 
-[![Stars](https://img.shields.io/github/stars/mpi4py/mpi4py?style=flat-square&color=yellow)](https://github.com/mpi4py/mpi4py/stargazers) [![Forks](https://img.shields.io/github/forks/mpi4py/mpi4py?style=flat-square&color=blue)](https://github.com/mpi4py/mpi4py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpi4py/mpi4py?style=flat-square&color=yellow)](https://github.com/mpi4py/mpi4py/stargazers) [![Forks](https://img.shields.io/github/forks/mpi4py/mpi4py?style=flat-square&color=blue)](https://github.com/mpi4py/mpi4py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Python bindings for MPI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 919 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ mpi4py/mpi4py 的生产可用性很高，主要原因是：
 | forks | 53/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

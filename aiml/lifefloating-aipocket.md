@@ -1,6 +1,6 @@
 # lifefloating/aipocket
 
-[![Stars](https://img.shields.io/github/stars/lifefloating/aipocket?style=flat-square&color=yellow)](https://github.com/lifefloating/aipocket/stargazers) [![Forks](https://img.shields.io/github/forks/lifefloating/aipocket?style=flat-square&color=blue)](https://github.com/lifefloating/aipocket/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lifefloating/aipocket?style=flat-square&color=yellow)](https://github.com/lifefloating/aipocket/stargazers) [![Forks](https://img.shields.io/github/forks/lifefloating/aipocket?style=flat-square&color=blue)](https://github.com/lifefloating/aipocket/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 一起打野！基于 FOFA、Shodan 与 GitHub Artifact Hunter，自动发现 AI 基础设施暴露面与泄露凭证，并完成归因、验证、余额查询和持久化。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ lifefloating/aipocket 的生产可用性为中等（Medium），适合用于原�
 | forks | 43/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

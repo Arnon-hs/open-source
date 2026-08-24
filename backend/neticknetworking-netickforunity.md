@@ -1,6 +1,6 @@
 # NetickNetworking/NetickForUnity
 
-[![Stars](https://img.shields.io/github/stars/NetickNetworking/NetickForUnity?style=flat-square&color=yellow)](https://github.com/NetickNetworking/NetickForUnity/stargazers) [![Forks](https://img.shields.io/github/forks/NetickNetworking/NetickForUnity?style=flat-square&color=blue)](https://github.com/NetickNetworking/NetickForUnity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NetickNetworking/NetickForUnity?style=flat-square&color=yellow)](https://github.com/NetickNetworking/NetickForUnity/stargazers) [![Forks](https://img.shields.io/github/forks/NetickNetworking/NetickForUnity?style=flat-square&color=blue)](https://github.com/NetickNetworking/NetickForUnity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Netick is a C# networking solution for Unity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Netick的生产可用性很高，最近有活动，采用率和生态系统信�
 | forks | 41/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

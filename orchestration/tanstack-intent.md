@@ -1,6 +1,6 @@
 # TanStack/intent
 
-[![Stars](https://img.shields.io/github/stars/TanStack/intent?style=flat-square&color=yellow)](https://github.com/TanStack/intent/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/intent?style=flat-square&color=blue)](https://github.com/TanStack/intent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TanStack/intent?style=flat-square&color=yellow)](https://github.com/TanStack/intent/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/intent?style=flat-square&color=blue)](https://github.com/TanStack/intent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI for library maintainers to generate, validate, and ship Agent Skills alongside their npm packages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ TanStack/intent 是面向库维护者的 CLI 工具，能够在 npm 包发布时
 | forks | 32/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

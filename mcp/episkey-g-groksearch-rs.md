@@ -1,6 +1,6 @@
 # Episkey-G/GrokSearch-rs
 
-[![Stars](https://img.shields.io/github/stars/Episkey-G/GrokSearch-rs?style=flat-square&color=yellow)](https://github.com/Episkey-G/GrokSearch-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Episkey-G/GrokSearch-rs?style=flat-square&color=blue)](https://github.com/Episkey-G/GrokSearch-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Episkey-G/GrokSearch-rs?style=flat-square&color=yellow)](https://github.com/Episkey-G/GrokSearch-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Episkey-G/GrokSearch-rs?style=flat-square&color=blue)](https://github.com/Episkey-G/GrokSearch-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust MCP server for Grok web search and Tavily-backed source retrieval
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Backend
+MCP · Knowledge/RAG
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ Episkey-G/GrokSearch-rs 的价值在于，它帮助连接 AI 助手到真实工�
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

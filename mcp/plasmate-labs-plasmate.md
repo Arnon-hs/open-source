@@ -1,6 +1,6 @@
 # plasmate-labs/plasmate
 
-[![Stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=flat-square&color=yellow)](https://github.com/plasmate-labs/plasmate/stargazers) [![Forks](https://img.shields.io/github/forks/plasmate-labs/plasmate?style=flat-square&color=blue)](https://github.com/plasmate-labs/plasmate/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=flat-square&color=yellow)](https://github.com/plasmate-labs/plasmate/stargazers) [![Forks](https://img.shields.io/github/forks/plasmate-labs/plasmate?style=flat-square&color=blue)](https://github.com/plasmate-labs/plasmate/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The browser engine for agents. HTML in, Semantic Object Model out. 10x token compression, V8 JS rendering, CDP compatible. Apache-2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ plasmate‑labs/plasmate 是一款为 AI 代理提供的浏览器引擎，能够
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

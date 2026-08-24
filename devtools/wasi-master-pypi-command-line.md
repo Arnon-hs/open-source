@@ -1,6 +1,6 @@
 # wasi-master/pypi-command-line
 
-[![Stars](https://img.shields.io/github/stars/wasi-master/pypi-command-line?style=flat-square&color=yellow)](https://github.com/wasi-master/pypi-command-line/stargazers) [![Forks](https://img.shields.io/github/forks/wasi-master/pypi-command-line?style=flat-square&color=blue)](https://github.com/wasi-master/pypi-command-line/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasi-master/pypi-command-line?style=flat-square&color=yellow)](https://github.com/wasi-master/pypi-command-line/stargazers) [![Forks](https://img.shields.io/github/forks/wasi-master/pypi-command-line?style=flat-square&color=blue)](https://github.com/wasi-master/pypi-command-line/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful, colorful, beautiful command-line-interface for pypi.org
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ wasi‑master/pypi‑command‑line 是一款为 pypi.org 打造的 **功能强�
 | forks | 21/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

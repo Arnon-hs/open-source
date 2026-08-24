@@ -1,6 +1,6 @@
 # wanmol/goal-flow
 
-[![Stars](https://img.shields.io/github/stars/wanmol/goal-flow?style=flat-square&color=yellow)](https://github.com/wanmol/goal-flow/stargazers) [![Forks](https://img.shields.io/github/forks/wanmol/goal-flow?style=flat-square&color=blue)](https://github.com/wanmol/goal-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanmol/goal-flow?style=flat-square&color=yellow)](https://github.com/wanmol/goal-flow/stargazers) [![Forks](https://img.shields.io/github/forks/wanmol/goal-flow?style=flat-square&color=blue)](https://github.com/wanmol/goal-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Product
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ wanmol/goal-flow 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 8/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

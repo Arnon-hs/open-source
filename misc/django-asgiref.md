@@ -1,6 +1,6 @@
 # django/asgiref
 
-[![Stars](https://img.shields.io/github/stars/django/asgiref?style=flat-square&color=yellow)](https://github.com/django/asgiref/stargazers) [![Forks](https://img.shields.io/github/forks/django/asgiref?style=flat-square&color=blue)](https://github.com/django/asgiref/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/django/asgiref?style=flat-square&color=yellow)](https://github.com/django/asgiref/stargazers) [![Forks](https://img.shields.io/github/forks/django/asgiref?style=flat-square&color=blue)](https://github.com/django/asgiref/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ASGI specification and utilities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ django/asgiref 的生产可用性是中等的。它已经有 1623 个 GitHub Sta
 | forks | 60/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # alphagov/govuk-design-system
 
-[![Stars](https://img.shields.io/github/stars/alphagov/govuk-design-system?style=flat-square&color=yellow)](https://github.com/alphagov/govuk-design-system/stargazers) [![Forks](https://img.shields.io/github/forks/alphagov/govuk-design-system?style=flat-square&color=blue)](https://github.com/alphagov/govuk-design-system/network) [![Language](https://img.shields.io/badge/lang-Nunjucks-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alphagov/govuk-design-system?style=flat-square&color=yellow)](https://github.com/alphagov/govuk-design-system/stargazers) [![Forks](https://img.shields.io/github/forks/alphagov/govuk-design-system?style=flat-square&color=blue)](https://github.com/alphagov/govuk-design-system/network) [![Language](https://img.shields.io/badge/lang-Nunjucks-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > One place for service teams to find styles, components and patterns for designing government services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 652 |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Nunjucks |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ alphagov/govuk-design-system 的生产可用性很高，因为它有 recent 活�
 | forks | 61/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

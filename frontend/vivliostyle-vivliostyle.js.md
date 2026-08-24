@@ -1,6 +1,6 @@
 # vivliostyle/vivliostyle.js
 
-[![Stars](https://img.shields.io/github/stars/vivliostyle/vivliostyle.js?style=flat-square&color=yellow)](https://github.com/vivliostyle/vivliostyle.js/stargazers) [![Forks](https://img.shields.io/github/forks/vivliostyle/vivliostyle.js?style=flat-square&color=blue)](https://github.com/vivliostyle/vivliostyle.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vivliostyle/vivliostyle.js?style=flat-square&color=yellow)](https://github.com/vivliostyle/vivliostyle.js/stargazers) [![Forks](https://img.shields.io/github/forks/vivliostyle/vivliostyle.js?style=flat-square&color=blue)](https://github.com/vivliostyle/vivliostyle.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 📖 The power of CSS typesetting, right at your fingertips.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Mobile
+Frontend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ viviostyle/vivliostyle.js 是一款基于 CSS 的排版引擎，能够在浏览�
 | forks | 46/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

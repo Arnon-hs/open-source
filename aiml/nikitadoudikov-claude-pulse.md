@@ -1,6 +1,6 @@
 # nikitadoudikov/claude-pulse
 
-[![Stars](https://img.shields.io/github/stars/nikitadoudikov/claude-pulse?style=flat-square&color=yellow)](https://github.com/nikitadoudikov/claude-pulse/stargazers) [![Forks](https://img.shields.io/github/forks/nikitadoudikov/claude-pulse?style=flat-square&color=blue)](https://github.com/nikitadoudikov/claude-pulse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikitadoudikov/claude-pulse?style=flat-square&color=yellow)](https://github.com/nikitadoudikov/claude-pulse/stargazers) [![Forks](https://img.shields.io/github/forks/nikitadoudikov/claude-pulse?style=flat-square&color=blue)](https://github.com/nikitadoudikov/claude-pulse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Claude Pulse 的生产可用性为中等（Medium）。它适用于快速原型�
 | forks | 24/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

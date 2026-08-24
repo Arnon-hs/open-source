@@ -1,6 +1,6 @@
 # etalab-ia/OpenGateLLM
 
-[![Stars](https://img.shields.io/github/stars/etalab-ia/OpenGateLLM?style=flat-square&color=yellow)](https://github.com/etalab-ia/OpenGateLLM/stargazers) [![Forks](https://img.shields.io/github/forks/etalab-ia/OpenGateLLM?style=flat-square&color=blue)](https://github.com/etalab-ia/OpenGateLLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/etalab-ia/OpenGateLLM?style=flat-square&color=yellow)](https://github.com/etalab-ia/OpenGateLLM/stargazers) [![Forks](https://img.shields.io/github/forks/etalab-ia/OpenGateLLM?style=flat-square&color=blue)](https://github.com/etalab-ia/OpenGateLLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, unified interface for running and managing self-hosted LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ etalab-ia/OpenGateLLM 是一个开源的统一入口，提供统一的 API 与 C
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

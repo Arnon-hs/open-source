@@ -1,6 +1,6 @@
 # sangrokjung/claude-forge
 
-[![Stars](https://img.shields.io/github/stars/sangrokjung/claude-forge?style=flat-square&color=yellow)](https://github.com/sangrokjung/claude-forge/stargazers) [![Forks](https://img.shields.io/github/forks/sangrokjung/claude-forge?style=flat-square&color=blue)](https://github.com/sangrokjung/claude-forge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sangrokjung/claude-forge?style=flat-square&color=yellow)](https://github.com/sangrokjung/claude-forge/stargazers) [![Forks](https://img.shields.io/github/forks/sangrokjung/claude-forge?style=flat-square&color=blue)](https://github.com/sangrokjung/claude-forge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 699 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Security · Product
+Automation · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Overall, Claude‑Forge meets the criteria for a serious pilot in production env
 | forks | 55/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

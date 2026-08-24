@@ -1,6 +1,6 @@
 # lancekrogers/claude-code-go
 
-[![Stars](https://img.shields.io/github/stars/lancekrogers/claude-code-go?style=flat-square&color=yellow)](https://github.com/lancekrogers/claude-code-go/stargazers) [![Forks](https://img.shields.io/github/forks/lancekrogers/claude-code-go?style=flat-square&color=blue)](https://github.com/lancekrogers/claude-code-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lancekrogers/claude-code-go?style=flat-square&color=yellow)](https://github.com/lancekrogers/claude-code-go/stargazers) [![Forks](https://img.shields.io/github/forks/lancekrogers/claude-code-go?style=flat-square&color=blue)](https://github.com/lancekrogers/claude-code-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Go SDK for Anthropic Claude Code CLI – unofficial Claude Code Go agent SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ lancekrogers/claude-code-go 是一套非官方的 Go 语言 SDK，实现了 Anth
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

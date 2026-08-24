@@ -1,6 +1,6 @@
 # Benexl/lib-x
 
-[![Stars](https://img.shields.io/github/stars/Benexl/lib-x?style=flat-square&color=yellow)](https://github.com/Benexl/lib-x/stargazers) [![Forks](https://img.shields.io/github/forks/Benexl/lib-x?style=flat-square&color=blue)](https://github.com/Benexl/lib-x/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benexl/lib-x?style=flat-square&color=yellow)](https://github.com/Benexl/lib-x/stargazers) [![Forks](https://img.shields.io/github/forks/Benexl/lib-x?style=flat-square&color=blue)](https://github.com/Benexl/lib-x/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Posix script to browse your calibre library from the terminal(fzf) or app launcher(rofi)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Benexl/lib-x 可以在生产环境中使用，但需要注意以下几点：
 | forks | 15/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

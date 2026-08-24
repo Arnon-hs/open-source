@@ -1,6 +1,6 @@
 # termio-sh/termio
 
-[![Stars](https://img.shields.io/github/stars/termio-sh/termio?style=flat-square&color=yellow)](https://github.com/termio-sh/termio/stargazers) [![Forks](https://img.shields.io/github/forks/termio-sh/termio?style=flat-square&color=blue)](https://github.com/termio-sh/termio/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/termio-sh/termio?style=flat-square&color=yellow)](https://github.com/termio-sh/termio/stargazers) [![Forks](https://img.shields.io/github/forks/termio-sh/termio?style=flat-square&color=blue)](https://github.com/termio-sh/termio/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal-first agentic development environment for macOS. Build for Claude Code, Codex, OpenCode and any TUI agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ termio-sh/termio 的生产可用性为中等，适用于以下场景：
 | forks | 23/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

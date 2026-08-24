@@ -1,6 +1,6 @@
 # amazon-science/chronos-forecasting
 
-[![Stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=flat-square&color=yellow)](https://github.com/amazon-science/chronos-forecasting/stargazers) [![Forks](https://img.shields.io/github/forks/amazon-science/chronos-forecasting?style=flat-square&color=blue)](https://github.com/amazon-science/chronos-forecasting/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=flat-square&color=yellow)](https://github.com/amazon-science/chronos-forecasting/stargazers) [![Forks](https://img.shields.io/github/forks/amazon-science/chronos-forecasting?style=flat-square&color=blue)](https://github.com/amazon-science/chronos-forecasting/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Chronos: Pretrained Models for Time Series Forecasting
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 687 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Chronos 项目的生产可用性很高，主要原因是：
 | forks | 71/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

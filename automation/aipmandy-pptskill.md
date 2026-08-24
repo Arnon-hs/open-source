@@ -1,6 +1,6 @@
 # AIPMAndy/PPTskill
 
-[![Stars](https://img.shields.io/github/stars/AIPMAndy/PPTskill?style=flat-square&color=yellow)](https://github.com/AIPMAndy/PPTskill/stargazers) [![Forks](https://img.shields.io/github/forks/AIPMAndy/PPTskill?style=flat-square&color=blue)](https://github.com/AIPMAndy/PPTskill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIPMAndy/PPTskill?style=flat-square&color=yellow)](https://github.com/AIPMAndy/PPTskill/stargazers) [![Forks](https://img.shields.io/github/forks/AIPMAndy/PPTskill?style=flat-square&color=blue)](https://github.com/AIPMAndy/PPTskill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 AI 生成原生可编辑 PPTX — 无需设计技能 | AI-powered native editable PowerPoint generation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Product
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ AIPMAndy/PPTskill 的生产可用性为中等（Medium），适合用于原型�
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

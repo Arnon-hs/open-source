@@ -1,6 +1,6 @@
 # GreatV/oar-ocr
 
-[![Stars](https://img.shields.io/github/stars/GreatV/oar-ocr?style=flat-square&color=yellow)](https://github.com/GreatV/oar-ocr/stargazers) [![Forks](https://img.shields.io/github/forks/GreatV/oar-ocr?style=flat-square&color=blue)](https://github.com/GreatV/oar-ocr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GreatV/oar-ocr?style=flat-square&color=yellow)](https://github.com/GreatV/oar-ocr/stargazers) [![Forks](https://img.shields.io/github/forks/GreatV/oar-ocr?style=flat-square&color=blue)](https://github.com/GreatV/oar-ocr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > An Optical Character Recognition (OCR) and Document Layout Analysis library written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ GreatV/oar-ocr 的生产可用性为中等。它可以用于原型开发和内�
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

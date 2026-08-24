@@ -1,6 +1,6 @@
 # nat-n/poethepoet
 
-[![Stars](https://img.shields.io/github/stars/nat-n/poethepoet?style=flat-square&color=yellow)](https://github.com/nat-n/poethepoet/stargazers) [![Forks](https://img.shields.io/github/forks/nat-n/poethepoet?style=flat-square&color=blue)](https://github.com/nat-n/poethepoet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nat-n/poethepoet?style=flat-square&color=yellow)](https://github.com/nat-n/poethepoet/stargazers) [![Forks](https://img.shields.io/github/forks/nat-n/poethepoet?style=flat-square&color=blue)](https://github.com/nat-n/poethepoet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A task runner that works well with poetry or uv.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ nat‑n/poethepoet 通过把常见的构建、测试、发布等操作抽象为�
 | forks | 47/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

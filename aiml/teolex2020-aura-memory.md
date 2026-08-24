@@ -1,6 +1,6 @@
 # teolex2020/aura-memory
 
-[![Stars](https://img.shields.io/github/stars/teolex2020/aura-memory?style=flat-square&color=yellow)](https://github.com/teolex2020/aura-memory/stargazers) [![Forks](https://img.shields.io/github/forks/teolex2020/aura-memory?style=flat-square&color=blue)](https://github.com/teolex2020/aura-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teolex2020/aura-memory?style=flat-square&color=yellow)](https://github.com/teolex2020/aura-memory/stargazers) [![Forks](https://img.shields.io/github/forks/teolex2020/aura-memory?style=flat-square&color=blue)](https://github.com/teolex2020/aura-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cognitive memory for AI agents. Pure Rust, <1ms recall, 2.7MB, zero cloud. Patent Pending.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ teolex2020/aura-memory 的生产可用性为中等（Medium）。它适合用于
 | forks | 23/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

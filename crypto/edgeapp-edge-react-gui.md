@@ -1,6 +1,6 @@
 # EdgeApp/edge-react-gui
 
-[![Stars](https://img.shields.io/github/stars/EdgeApp/edge-react-gui?style=flat-square&color=yellow)](https://github.com/EdgeApp/edge-react-gui/stargazers) [![Forks](https://img.shields.io/github/forks/EdgeApp/edge-react-gui?style=flat-square&color=blue)](https://github.com/EdgeApp/edge-react-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EdgeApp/edge-react-gui?style=flat-square&color=yellow)](https://github.com/EdgeApp/edge-react-gui/stargazers) [![Forks](https://img.shields.io/github/forks/EdgeApp/edge-react-gui?style=flat-square&color=blue)](https://github.com/EdgeApp/edge-react-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Edge React Native GUI for iOS and Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 517 |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ EdgeApp/edge-react-gui 是一个基于 React Native 的开源 GUI，专为 iOS
 | forks | 62/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

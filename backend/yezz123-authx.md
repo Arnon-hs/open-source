@@ -1,6 +1,6 @@
 # yezz123/authx
 
-[![Stars](https://img.shields.io/github/stars/yezz123/authx?style=flat-square&color=yellow)](https://github.com/yezz123/authx/stargazers) [![Forks](https://img.shields.io/github/forks/yezz123/authx?style=flat-square&color=blue)](https://github.com/yezz123/authx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yezz123/authx?style=flat-square&color=yellow)](https://github.com/yezz123/authx/stargazers) [![Forks](https://img.shields.io/github/forks/yezz123/authx?style=flat-square&color=blue)](https://github.com/yezz123/authx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Security
+Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ yezz123/authx 提供了即插即用且可自定义的 FastAPI 认证与 OAuth2 �
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

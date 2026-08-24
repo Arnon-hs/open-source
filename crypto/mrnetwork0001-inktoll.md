@@ -1,6 +1,6 @@
 # mrnetwork0001/Inktoll
 
-[![Stars](https://img.shields.io/github/stars/mrnetwork0001/Inktoll?style=flat-square&color=yellow)](https://github.com/mrnetwork0001/Inktoll/stargazers) [![Forks](https://img.shields.io/github/forks/mrnetwork0001/Inktoll?style=flat-square&color=blue)](https://github.com/mrnetwork0001/Inktoll/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrnetwork0001/Inktoll?style=flat-square&color=yellow)](https://github.com/mrnetwork0001/Inktoll/stargazers) [![Forks](https://img.shields.io/github/forks/mrnetwork0001/Inktoll?style=flat-square&color=blue)](https://github.com/mrnetwork0001/Inktoll/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A decentralized micro-settlement protocol enabling autonomous AI agents to pay publishers for premium content via Circle Programmable Wallets and x402 nanopayments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Automation · AI/ML · Product
+Crypto · Automation · AI/ML · Product
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Inktoll 的生产可用性为中等（Medium），适合用于 prototyping 或�
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

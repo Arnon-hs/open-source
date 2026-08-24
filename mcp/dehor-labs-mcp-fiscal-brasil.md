@@ -1,6 +1,6 @@
 # DeHor-Labs/mcp-fiscal-brasil
 
-[![Stars](https://img.shields.io/github/stars/DeHor-Labs/mcp-fiscal-brasil?style=flat-square&color=yellow)](https://github.com/DeHor-Labs/mcp-fiscal-brasil/stargazers) [![Forks](https://img.shields.io/github/forks/DeHor-Labs/mcp-fiscal-brasil?style=flat-square&color=blue)](https://github.com/DeHor-Labs/mcp-fiscal-brasil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeHor-Labs/mcp-fiscal-brasil?style=flat-square&color=yellow)](https://github.com/DeHor-Labs/mcp-fiscal-brasil/stargazers) [![Forks](https://img.shields.io/github/forks/DeHor-Labs/mcp-fiscal-brasil?style=flat-square&color=blue)](https://github.com/DeHor-Labs/mcp-fiscal-brasil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Servidor MCP fiscal brasileiro: CNPJ, NF-e, NFS-e, CT-e, SPED, eSocial, Simples Nacional, Reforma 2026. 44 tools, zero-cadastro, tabelas offline. Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ DeHor‑Labs / mcp‑fiscal‑brasil 是一套基于 Python 的巴西税务�
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

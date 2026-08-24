@@ -1,6 +1,6 @@
 # Electricitysheep/dsh-handbook
 
-[![Stars](https://img.shields.io/github/stars/Electricitysheep/dsh-handbook?style=flat-square&color=yellow)](https://github.com/Electricitysheep/dsh-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/Electricitysheep/dsh-handbook?style=flat-square&color=blue)](https://github.com/Electricitysheep/dsh-handbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Electricitysheep/dsh-handbook?style=flat-square&color=yellow)](https://github.com/Electricitysheep/dsh-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/Electricitysheep/dsh-handbook?style=flat-square&color=blue)](https://github.com/Electricitysheep/dsh-handbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Education
+Orchestration · AI/ML · Education
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Electricitysheep/dsh-handbook 的生产可用性为中等（Medium）。它适�
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

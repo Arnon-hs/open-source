@@ -1,6 +1,6 @@
 # lacymorrow/album-art
 
-[![Stars](https://img.shields.io/github/stars/lacymorrow/album-art?style=flat-square&color=yellow)](https://github.com/lacymorrow/album-art/stargazers) [![Forks](https://img.shields.io/github/forks/lacymorrow/album-art?style=flat-square&color=blue)](https://github.com/lacymorrow/album-art/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lacymorrow/album-art?style=flat-square&color=yellow)](https://github.com/lacymorrow/album-art/stargazers) [![Forks](https://img.shields.io/github/forks/lacymorrow/album-art?style=flat-square&color=blue)](https://github.com/lacymorrow/album-art/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Fetch album or artist cover art — "The Beatles" → http://path/to/beatles.jpg
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ lacymorrow/album-art 是一个轻量级的 JavaScript 库，提供统一的 API 
 | forks | 31/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

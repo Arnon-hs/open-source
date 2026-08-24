@@ -1,6 +1,6 @@
 # sindresorhus/globby
 
-[![Stars](https://img.shields.io/github/stars/sindresorhus/globby?style=flat-square&color=yellow)](https://github.com/sindresorhus/globby/stargazers) [![Forks](https://img.shields.io/github/forks/sindresorhus/globby?style=flat-square&color=blue)](https://github.com/sindresorhus/globby/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sindresorhus/globby?style=flat-square&color=yellow)](https://github.com/sindresorhus/globby/stargazers) [![Forks](https://img.shields.io/github/forks/sindresorhus/globby?style=flat-square&color=blue)](https://github.com/sindresorhus/globby/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > User-friendly glob matching
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ sindresorhus/globby 是一个开源项目，提供了友好的 glob 匹配功能
 | forks | 54/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # linmy666/madcop
 
-[![Stars](https://img.shields.io/github/stars/linmy666/madcop?style=flat-square&color=yellow)](https://github.com/linmy666/madcop/stargazers) [![Forks](https://img.shields.io/github/forks/linmy666/madcop?style=flat-square&color=blue)](https://github.com/linmy666/madcop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linmy666/madcop?style=flat-square&color=yellow)](https://github.com/linmy666/madcop/stargazers) [![Forks](https://img.shields.io/github/forks/linmy666/madcop?style=flat-square&color=blue)](https://github.com/linmy666/madcop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > MadCop — local-first AI agent desktop workstation (v0.9). Multi-model chat, tool-use, MCP servers, 12 workflow modes, knowledge base, AI design tool, persistent workspace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ MadCop 的生产可用性很高，尤其是考虑到它是一个开源项目。�
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

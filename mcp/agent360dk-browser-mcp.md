@@ -1,6 +1,6 @@
 # Agent360dk/browser-mcp
 
-[![Stars](https://img.shields.io/github/stars/Agent360dk/browser-mcp?style=flat-square&color=yellow)](https://github.com/Agent360dk/browser-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Agent360dk/browser-mcp?style=flat-square&color=blue)](https://github.com/Agent360dk/browser-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agent360dk/browser-mcp?style=flat-square&color=yellow)](https://github.com/Agent360dk/browser-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Agent360dk/browser-mcp?style=flat-square&color=blue)](https://github.com/Agent360dk/browser-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Drive your real, logged-in Chrome from any AI agent (Claude Code, Cursor, VS Code) — works where headless dies. Reads emailed login codes from your Gmail, solves CAPTCHAs, 34 tools. MIT, local-only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Marketing
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Agent360dk/browser-m
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

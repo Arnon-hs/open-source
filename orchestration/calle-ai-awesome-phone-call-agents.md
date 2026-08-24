@@ -1,6 +1,6 @@
 # CALLE-AI/awesome-phone-call-agents
 
-[![Stars](https://img.shields.io/github/stars/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=yellow)](https://github.com/CALLE-AI/awesome-phone-call-agents/stargazers) [![Forks](https://img.shields.io/github/forks/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=blue)](https://github.com/CALLE-AI/awesome-phone-call-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=yellow)](https://github.com/CALLE-AI/awesome-phone-call-agents/stargazers) [![Forks](https://img.shields.io/github/forks/CALLE-AI/awesome-phone-call-agents?style=flat-square&color=blue)](https://github.com/CALLE-AI/awesome-phone-call-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Portable phone-call Agent Skills, apps, examples, adapters, and scheduler recipes for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Education
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ CALLE-AI/awesome-phone-call-agents 的价值在于，它可以帮助开发者协
 | forks | 30/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

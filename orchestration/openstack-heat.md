@@ -1,6 +1,6 @@
 # openstack/heat
 
-[![Stars](https://img.shields.io/github/stars/openstack/heat?style=flat-square&color=yellow)](https://github.com/openstack/heat/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/heat?style=flat-square&color=blue)](https://github.com/openstack/heat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstack/heat?style=flat-square&color=yellow)](https://github.com/openstack/heat/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/heat?style=flat-square&color=blue)](https://github.com/openstack/heat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OpenStack Orchestration (Heat). Mirror of code maintained at opendev.org.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 345 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ OpenStack Orchestration (Heat) 的生产可用性为中等（Medium）。它适�
 | forks | 63/100 |
 | stars | 56/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

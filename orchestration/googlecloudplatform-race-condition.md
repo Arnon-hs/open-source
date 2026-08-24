@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/race-condition
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/race-condition?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/race-condition/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/race-condition?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/race-condition/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/race-condition?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/race-condition/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/race-condition?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/race-condition/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The open source multi-agent simulation from the Developer Keynote at Google Cloud Next '26. A deployable reference architecture for autonomous AI agents using Gemini and ADK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Database
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ GoogleCloudPlatform/race-condition 通过将孤立的提示和工具转化为可
 | forks | 46/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # gazorby/fifc
 
-[![Stars](https://img.shields.io/github/stars/gazorby/fifc?style=flat-square&color=yellow)](https://github.com/gazorby/fifc/stargazers) [![Forks](https://img.shields.io/github/forks/gazorby/fifc?style=flat-square&color=blue)](https://github.com/gazorby/fifc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gazorby/fifc?style=flat-square&color=yellow)](https://github.com/gazorby/fifc/stargazers) [![Forks](https://img.shields.io/github/forks/gazorby/fifc?style=flat-square&color=blue)](https://github.com/gazorby/fifc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🐠 Configurable fzf completions for fish shell
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ gazorby/fifc 的生产可用性很高，理由如下：
 | forks | 38/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

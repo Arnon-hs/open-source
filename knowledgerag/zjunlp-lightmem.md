@@ -1,6 +1,6 @@
 # zjunlp/LightMem
 
-[![Stars](https://img.shields.io/github/stars/zjunlp/LightMem?style=flat-square&color=yellow)](https://github.com/zjunlp/LightMem/stargazers) [![Forks](https://img.shields.io/github/forks/zjunlp/LightMem?style=flat-square&color=blue)](https://github.com/zjunlp/LightMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zjunlp/LightMem?style=flat-square&color=yellow)](https://github.com/zjunlp/LightMem/stargazers) [![Forks](https://img.shields.io/github/forks/zjunlp/LightMem?style=flat-square&color=blue)](https://github.com/zjunlp/LightMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 949 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ LightMem（zjunlp/LightMem）是一个在 ICLR 2026 上发表的轻量级记�
 | forks | 49/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

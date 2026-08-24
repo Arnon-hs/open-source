@@ -1,6 +1,6 @@
 # pgbouncer/pgbouncer
 
-[![Stars](https://img.shields.io/github/stars/pgbouncer/pgbouncer?style=flat-square&color=yellow)](https://github.com/pgbouncer/pgbouncer/stargazers) [![Forks](https://img.shields.io/github/forks/pgbouncer/pgbouncer?style=flat-square&color=blue)](https://github.com/pgbouncer/pgbouncer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgbouncer/pgbouncer?style=flat-square&color=yellow)](https://github.com/pgbouncer/pgbouncer/stargazers) [![Forks](https://img.shields.io/github/forks/pgbouncer/pgbouncer?style=flat-square&color=blue)](https://github.com/pgbouncer/pgbouncer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > lightweight connection pooler for PostgreSQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 573 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ pgbouncer/pgbouncer 的生产可用性为中等。它适合用于原型开发或
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 13/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # noah-nuebling/mac-mouse-fix
 
-[![Stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix?style=flat-square&color=yellow)](https://github.com/noah-nuebling/mac-mouse-fix/stargazers) [![Forks](https://img.shields.io/github/forks/noah-nuebling/mac-mouse-fix?style=flat-square&color=blue)](https://github.com/noah-nuebling/mac-mouse-fix/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix?style=flat-square&color=yellow)](https://github.com/noah-nuebling/mac-mouse-fix/stargazers) [![Forks](https://img.shields.io/github/forks/noah-nuebling/mac-mouse-fix?style=flat-square&color=blue)](https://github.com/noah-nuebling/mac-mouse-fix/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ The project shows strong community signals: 10 k+ stars, 319 forks, frequent c
 | forks | 63/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
 | adoption | 79/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

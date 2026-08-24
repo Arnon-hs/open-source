@@ -1,6 +1,6 @@
 # Gerharddc/Litterbox
 
-[![Stars](https://img.shields.io/github/stars/Gerharddc/Litterbox?style=flat-square&color=yellow)](https://github.com/Gerharddc/Litterbox/stargazers) [![Forks](https://img.shields.io/github/forks/Gerharddc/Litterbox?style=flat-square&color=blue)](https://github.com/Gerharddc/Litterbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gerharddc/Litterbox?style=flat-square&color=yellow)](https://github.com/Gerharddc/Litterbox/stargazers) [![Forks](https://img.shields.io/github/forks/Gerharddc/Litterbox?style=flat-square&color=blue)](https://github.com/Gerharddc/Litterbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Somewhat Isolated Development Environments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Gerharddc/Litterbox 的生产可用性为中等。它可以用于 prototyping �
 | forks | 24/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

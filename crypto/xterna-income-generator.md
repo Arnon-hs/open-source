@@ -1,6 +1,6 @@
 # XternA/income-generator
 
-[![Stars](https://img.shields.io/github/stars/XternA/income-generator?style=flat-square&color=yellow)](https://github.com/XternA/income-generator/stargazers) [![Forks](https://img.shields.io/github/forks/XternA/income-generator?style=flat-square&color=blue)](https://github.com/XternA/income-generator/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XternA/income-generator?style=flat-square&color=yellow)](https://github.com/XternA/income-generator/stargazers) [![Forks](https://img.shields.io/github/forks/XternA/income-generator?style=flat-square&color=blue)](https://github.com/XternA/income-generator/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A set & forget, super-lightweight passive income manager. Deploy once and scale with multi-proxy support. Earn anywhere. Orchestrate via CLI, TUI or WebUI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · DevTools · Database
+Crypto · Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ XternA/income-generator 是一款「部署即忘」的超轻量被动收入管�
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

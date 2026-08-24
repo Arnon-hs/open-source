@@ -1,6 +1,6 @@
 # microsoft/AL-Go
 
-[![Stars](https://img.shields.io/github/stars/microsoft/AL-Go?style=flat-square&color=yellow)](https://github.com/microsoft/AL-Go/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/AL-Go?style=flat-square&color=blue)](https://github.com/microsoft/AL-Go/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/AL-Go?style=flat-square&color=yellow)](https://github.com/microsoft/AL-Go/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/AL-Go?style=flat-square&color=blue)](https://github.com/microsoft/AL-Go/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The plug-and-play DevOps solution for Business Central app development on GitHub
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ microsoft/AL-Go 的生产可用性较高，因为它有最近的活动、强大�
 | forks | 58/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

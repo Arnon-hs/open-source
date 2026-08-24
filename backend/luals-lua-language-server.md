@@ -1,6 +1,6 @@
 # LuaLS/lua-language-server
 
-[![Stars](https://img.shields.io/github/stars/LuaLS/lua-language-server?style=flat-square&color=yellow)](https://github.com/LuaLS/lua-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/LuaLS/lua-language-server?style=flat-square&color=blue)](https://github.com/LuaLS/lua-language-server/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LuaLS/lua-language-server?style=flat-square&color=yellow)](https://github.com/LuaLS/lua-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/LuaLS/lua-language-server?style=flat-square&color=blue)](https://github.com/LuaLS/lua-language-server/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A language server that offers Lua language support - programmed in Lua
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 439 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ LuaLS/lua-language-server 的生产可用性很高，尤其是在开源社区中
 | forks | 66/100 |
 | stars | 77/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

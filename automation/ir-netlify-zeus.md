@@ -1,6 +1,6 @@
 # IR-NETLIFY/zeus
 
-[![Stars](https://img.shields.io/github/stars/IR-NETLIFY/zeus?style=flat-square&color=yellow)](https://github.com/IR-NETLIFY/zeus/stargazers) [![Forks](https://img.shields.io/github/forks/IR-NETLIFY/zeus?style=flat-square&color=blue)](https://github.com/IR-NETLIFY/zeus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IR-NETLIFY/zeus?style=flat-square&color=yellow)](https://github.com/IR-NETLIFY/zeus/stargazers) [![Forks](https://img.shields.io/github/forks/IR-NETLIFY/zeus?style=flat-square&color=blue)](https://github.com/IR-NETLIFY/zeus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️ پنل کلودفلر زئوس (Zeus Panel) https://t.me/ZEUS_PANEL_BOT
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · Data
+Automation
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ IR-NETLIFY/zeus 在生产环境中的可用性为中等。它可以用于原型�
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

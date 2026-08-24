@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Backend
+Orchestration · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ RapidaAI/voice‑ai 是一个开源的端到端语音 AI 编排平台，能够�
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kirbah/mcp-youtube
 
-[![Stars](https://img.shields.io/github/stars/kirbah/mcp-youtube?style=flat-square&color=yellow)](https://github.com/kirbah/mcp-youtube/stargazers) [![Forks](https://img.shields.io/github/forks/kirbah/mcp-youtube?style=flat-square&color=blue)](https://github.com/kirbah/mcp-youtube/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kirbah/mcp-youtube?style=flat-square&color=yellow)](https://github.com/kirbah/mcp-youtube/stargazers) [![Forks](https://img.shields.io/github/forks/kirbah/mcp-youtube?style=flat-square&color=blue)](https://github.com/kirbah/mcp-youtube/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > High-efficiency YouTube MCP server: Get token-optimized, structured data for your LLMs using the YouTube Data API v3.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP · Backend
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ kirbah/mcp-youtube 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 29/100 |
 | stars | 30/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

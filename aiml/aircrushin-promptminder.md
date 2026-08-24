@@ -1,6 +1,6 @@
 # aircrushin/promptMinder
 
-[![Stars](https://img.shields.io/github/stars/aircrushin/promptMinder?style=flat-square&color=yellow)](https://github.com/aircrushin/promptMinder/stargazers) [![Forks](https://img.shields.io/github/forks/aircrushin/promptMinder?style=flat-square&color=blue)](https://github.com/aircrushin/promptMinder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aircrushin/promptMinder?style=flat-square&color=yellow)](https://github.com/aircrushin/promptMinder/stargazers) [![Forks](https://img.shields.io/github/forks/aircrushin/promptMinder?style=flat-square&color=blue)](https://github.com/aircrushin/promptMinder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ aircrushin/promptMinder 的生产可用性为中等
 | forks | 44/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

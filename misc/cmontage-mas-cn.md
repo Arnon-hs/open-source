@@ -1,6 +1,6 @@
 # cmontage/mas-cn
 
-[![Stars](https://img.shields.io/github/stars/cmontage/mas-cn?style=flat-square&color=yellow)](https://github.com/cmontage/mas-cn/stargazers) [![Forks](https://img.shields.io/github/forks/cmontage/mas-cn?style=flat-square&color=blue)](https://github.com/cmontage/mas-cn/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cmontage/mas-cn?style=flat-square&color=yellow)](https://github.com/cmontage/mas-cn/stargazers) [![Forks](https://img.shields.io/github/forks/cmontage/mas-cn?style=flat-square&color=blue)](https://github.com/cmontage/mas-cn/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Windows 和 Office 激活工具 MAS (Microsoft-Activation-Scripts) 的汉化版
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ cmontage/mas-cn 的生产可用性为中等。它适合用于以下场景：
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hyperledger/fabric
 
-[![Stars](https://img.shields.io/github/stars/hyperledger/fabric?style=flat-square&color=yellow)](https://github.com/hyperledger/fabric/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger/fabric?style=flat-square&color=blue)](https://github.com/hyperledger/fabric/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperledger/fabric?style=flat-square&color=yellow)](https://github.com/hyperledger/fabric/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger/fabric?style=flat-square&color=blue)](https://github.com/hyperledger/fabric/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.7k |
 | 🍴 **Forks** | 9.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Database · Design
+Crypto · Design
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Hyperledger Fabric 在生产环境中具有较高的可用性，理由如下：
 | forks | 99/100 |
 | stars | 90/100 |
 | topics | 75/100 |
-| outlook | 87/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

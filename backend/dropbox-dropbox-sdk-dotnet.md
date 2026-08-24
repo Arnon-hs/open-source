@@ -1,6 +1,6 @@
 # dropbox/dropbox-sdk-dotnet
 
-[![Stars](https://img.shields.io/github/stars/dropbox/dropbox-sdk-dotnet?style=flat-square&color=yellow)](https://github.com/dropbox/dropbox-sdk-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/dropbox/dropbox-sdk-dotnet?style=flat-square&color=blue)](https://github.com/dropbox/dropbox-sdk-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dropbox/dropbox-sdk-dotnet?style=flat-square&color=yellow)](https://github.com/dropbox/dropbox-sdk-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/dropbox/dropbox-sdk-dotnet?style=flat-square&color=blue)](https://github.com/dropbox/dropbox-sdk-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Official Dropbox API V2 SDK for .NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 437 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Dropbox/dropbox-sdk-dotnet 是 Dropbox 的官方 .NET SDK，用于快速开发�
 | forks | 66/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

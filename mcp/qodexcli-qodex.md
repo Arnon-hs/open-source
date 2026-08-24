@@ -1,6 +1,6 @@
 # QodeXcli/QodeX
 
-[![Stars](https://img.shields.io/github/stars/QodeXcli/QodeX?style=flat-square&color=yellow)](https://github.com/QodeXcli/QodeX/stargazers) [![Forks](https://img.shields.io/github/forks/QodeXcli/QodeX?style=flat-square&color=blue)](https://github.com/QodeXcli/QodeX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QodeXcli/QodeX?style=flat-square&color=yellow)](https://github.com/QodeXcli/QodeX/stargazers) [![Forks](https://img.shields.io/github/forks/QodeXcli/QodeX?style=flat-square&color=blue)](https://github.com/QodeXcli/QodeX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM Studio) with deterministic guardrails, 100+ tools, a real browser, smart vision & shareable live artifacts. Open source, Apache-2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ QodeX（QodeXcli）把本地大模型（如 Qwen‑3‑Coder）直接嵌入终�
 | forks | 28/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

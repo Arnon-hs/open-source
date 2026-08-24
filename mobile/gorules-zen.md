@@ -1,6 +1,6 @@
 # gorules/zen
 
-[![Stars](https://img.shields.io/github/stars/gorules/zen?style=flat-square&color=yellow)](https://github.com/gorules/zen/stargazers) [![Forks](https://img.shields.io/github/forks/gorules/zen?style=flat-square&color=blue)](https://github.com/gorules/zen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gorules/zen?style=flat-square&color=yellow)](https://github.com/gorules/zen/stargazers) [![Forks](https://img.shields.io/github/forks/gorules/zen?style=flat-square&color=blue)](https://github.com/gorules/zen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ gorules/zen 是一款开源业务规则引擎，核心实现基于 Rust，提供
 | forks | 57/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

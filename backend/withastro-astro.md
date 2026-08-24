@@ -1,6 +1,6 @@
 # withastro/astro
 
-[![Stars](https://img.shields.io/github/stars/withastro/astro?style=flat-square&color=yellow)](https://github.com/withastro/astro/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/astro?style=flat-square&color=blue)](https://github.com/withastro/astro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withastro/astro?style=flat-square&color=yellow)](https://github.com/withastro/astro/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/astro?style=flat-square&color=blue)](https://github.com/withastro/astro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The web framework for content-driven websites. ⭐️ Star to support our work!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59.3k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Astro（仓库 withastro/astro）是一款面向内容驱动网站的前端框
 | forks | 88/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 79/100 |
+| recency | 20/100 |
 | adoption | 97/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

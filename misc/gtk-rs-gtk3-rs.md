@@ -1,6 +1,6 @@
 # gtk-rs/gtk3-rs
 
-[![Stars](https://img.shields.io/github/stars/gtk-rs/gtk3-rs?style=flat-square&color=yellow)](https://github.com/gtk-rs/gtk3-rs/stargazers) [![Forks](https://img.shields.io/github/forks/gtk-rs/gtk3-rs?style=flat-square&color=blue)](https://github.com/gtk-rs/gtk3-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gtk-rs/gtk3-rs?style=flat-square&color=yellow)](https://github.com/gtk-rs/gtk3-rs/stargazers) [![Forks](https://img.shields.io/github/forks/gtk-rs/gtk3-rs?style=flat-square&color=blue)](https://github.com/gtk-rs/gtk3-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings for GTK 3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ gtk-rs/gtk3-rs：gtk-rs/gtk3-rs may be useful when its README and activity match
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

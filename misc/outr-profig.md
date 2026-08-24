@@ -1,6 +1,6 @@
 # outr/profig
 
-[![Stars](https://img.shields.io/github/stars/outr/profig?style=flat-square&color=yellow)](https://github.com/outr/profig/stargazers) [![Forks](https://img.shields.io/github/forks/outr/profig?style=flat-square&color=blue)](https://github.com/outr/profig/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/outr/profig?style=flat-square&color=yellow)](https://github.com/outr/profig/stargazers) [![Forks](https://img.shields.io/github/forks/outr/profig?style=flat-square&color=blue)](https://github.com/outr/profig/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful configuration management for Scala (JSON, properties, command-line arguments, and environment variables)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ outr/profig 的生产可用性为中等。它适用于内部工具和小规模�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 69/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

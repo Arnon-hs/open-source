@@ -1,6 +1,6 @@
 # microsoft/mcp-gateway
 
-[![Stars](https://img.shields.io/github/stars/microsoft/mcp-gateway?style=flat-square&color=yellow)](https://github.com/microsoft/mcp-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp-gateway?style=flat-square&color=blue)](https://github.com/microsoft/mcp-gateway/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/mcp-gateway?style=flat-square&color=yellow)](https://github.com/microsoft/mcp-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp-gateway?style=flat-square&color=blue)](https://github.com/microsoft/mcp-gateway/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ Microsoft MCP Gateway 在生产环境中的可用性非常高，理由包括：
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

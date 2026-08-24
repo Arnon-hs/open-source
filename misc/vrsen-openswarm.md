@@ -1,6 +1,6 @@
 # VRSEN/OpenSwarm
 
-[![Stars](https://img.shields.io/github/stars/VRSEN/OpenSwarm?style=flat-square&color=yellow)](https://github.com/VRSEN/OpenSwarm/stargazers) [![Forks](https://img.shields.io/github/forks/VRSEN/OpenSwarm?style=flat-square&color=blue)](https://github.com/VRSEN/OpenSwarm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VRSEN/OpenSwarm?style=flat-square&color=yellow)](https://github.com/VRSEN/OpenSwarm/stargazers) [![Forks](https://img.shields.io/github/forks/VRSEN/OpenSwarm?style=flat-square&color=blue)](https://github.com/VRSEN/OpenSwarm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Claude code for everything except coding
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 666 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,14 +130,15 @@ VRSEN/OpenSwarm 是一个基于 Claude 大模型的通用工具箱，提供“�
 | forks | 71/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

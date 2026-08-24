@@ -1,6 +1,6 @@
 # roboflow/trackers
 
-[![Stars](https://img.shields.io/github/stars/roboflow/trackers?style=flat-square&color=yellow)](https://github.com/roboflow/trackers/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/trackers?style=flat-square&color=blue)](https://github.com/roboflow/trackers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roboflow/trackers?style=flat-square&color=yellow)](https://github.com/roboflow/trackers/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/trackers?style=flat-square&color=blue)](https://github.com/roboflow/trackers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ roboflow/trackers：roboflow/trackers helps remove repetitive manual operations 
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

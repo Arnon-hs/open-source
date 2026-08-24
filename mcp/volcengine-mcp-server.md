@@ -1,6 +1,6 @@
 # volcengine/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/volcengine/mcp-server?style=flat-square&color=yellow)](https://github.com/volcengine/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/mcp-server?style=flat-square&color=blue)](https://github.com/volcengine/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volcengine/mcp-server?style=flat-square&color=yellow)](https://github.com/volcengine/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/mcp-server?style=flat-square&color=blue)](https://github.com/volcengine/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Volcengine MCP Servers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Volcengine MCP Servers 的生产可用性为中等（Medium）。它适合用于
 | forks | 55/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

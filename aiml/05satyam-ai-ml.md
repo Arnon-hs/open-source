@@ -1,6 +1,6 @@
 # 05satyam/AI-ML
 
-[![Stars](https://img.shields.io/github/stars/05satyam/AI-ML?style=flat-square&color=yellow)](https://github.com/05satyam/AI-ML/stargazers) [![Forks](https://img.shields.io/github/forks/05satyam/AI-ML?style=flat-square&color=blue)](https://github.com/05satyam/AI-ML/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/05satyam/AI-ML?style=flat-square&color=yellow)](https://github.com/05satyam/AI-ML/stargazers) [![Forks](https://img.shields.io/github/forks/05satyam/AI-ML?style=flat-square&color=blue)](https://github.com/05satyam/AI-ML/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A curated, hands-on library of notebooks, demos, and resources for AI/ML, Deep Learning, Generative AI, AI-Agents, fine-tuning, and modern tooling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Design · Education
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ The project has a medium level of production readiness, making it suitable for p
 | forks | 33/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

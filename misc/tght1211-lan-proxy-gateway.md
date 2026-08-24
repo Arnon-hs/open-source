@@ -1,6 +1,6 @@
 # Tght1211/lan-proxy-gateway
 
-[![Stars](https://img.shields.io/github/stars/Tght1211/lan-proxy-gateway?style=flat-square&color=yellow)](https://github.com/Tght1211/lan-proxy-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Tght1211/lan-proxy-gateway?style=flat-square&color=blue)](https://github.com/Tght1211/lan-proxy-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tght1211/lan-proxy-gateway?style=flat-square&color=yellow)](https://github.com/Tght1211/lan-proxy-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Tght1211/lan-proxy-gateway?style=flat-square&color=blue)](https://github.com/Tght1211/lan-proxy-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 把你的电脑变成全屋科学上网网关，Switch / PS5 / Apple TV / 智能电视改个网关就能用。支持 macOS / Linux / Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Tght1211/lan-proxy-gateway 能把一台普通电脑（macOS、Linux、Windows）
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

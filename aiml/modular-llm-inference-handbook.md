@@ -1,6 +1,6 @@
 # modular/llm-inference-handbook
 
-[![Stars](https://img.shields.io/github/stars/modular/llm-inference-handbook?style=flat-square&color=yellow)](https://github.com/modular/llm-inference-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/modular/llm-inference-handbook?style=flat-square&color=blue)](https://github.com/modular/llm-inference-handbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modular/llm-inference-handbook?style=flat-square&color=yellow)](https://github.com/modular/llm-inference-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/modular/llm-inference-handbook?style=flat-square&color=blue)](https://github.com/modular/llm-inference-handbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Everything you need to know about LLM inference
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ modular/llm-inference-handbook 提供了一套即插即用的 LLM 推理工具�
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

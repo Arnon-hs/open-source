@@ -1,6 +1,6 @@
 # mrsladoje/sweet-search
 
-[![Stars](https://img.shields.io/github/stars/mrsladoje/sweet-search?style=flat-square&color=yellow)](https://github.com/mrsladoje/sweet-search/stargazers) [![Forks](https://img.shields.io/github/forks/mrsladoje/sweet-search?style=flat-square&color=blue)](https://github.com/mrsladoje/sweet-search/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrsladoje/sweet-search?style=flat-square&color=yellow)](https://github.com/mrsladoje/sweet-search/stargazers) [![Forks](https://img.shields.io/github/forks/mrsladoje/sweet-search?style=flat-square&color=blue)](https://github.com/mrsladoje/sweet-search/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Local code search for AI agents: six fast, purpose-built tools that return ranked answers, not raw grep. Because maybe grep isn't all you need... 🍬
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · DevTools
+MCP · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ mrsladoje/sweet-search 的生产可用性为中等。它适合用于原型开发
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

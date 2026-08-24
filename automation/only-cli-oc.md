@@ -1,6 +1,6 @@
 # only-cli/oc
 
-[![Stars](https://img.shields.io/github/stars/only-cli/oc?style=flat-square&color=yellow)](https://github.com/only-cli/oc/stargazers) [![Forks](https://img.shields.io/github/forks/only-cli/oc?style=flat-square&color=blue)](https://github.com/only-cli/oc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/only-cli/oc?style=flat-square&color=yellow)](https://github.com/only-cli/oc/stargazers) [![Forks](https://img.shields.io/github/forks/only-cli/oc?style=flat-square&color=blue)](https://github.com/only-cli/oc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ only-cli/oc：only-cli/oc helps remove repetitive manual operations from a workf
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

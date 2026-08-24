@@ -1,6 +1,6 @@
 # stackql/stackql
 
-[![Stars](https://img.shields.io/github/stars/stackql/stackql?style=flat-square&color=yellow)](https://github.com/stackql/stackql/stargazers) [![Forks](https://img.shields.io/github/forks/stackql/stackql?style=flat-square&color=blue)](https://github.com/stackql/stackql/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackql/stackql?style=flat-square&color=yellow)](https://github.com/stackql/stackql/stargazers) [![Forks](https://img.shields.io/github/forks/stackql/stackql?style=flat-square&color=blue)](https://github.com/stackql/stackql/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Query, provision and operate Cloud, SaaS, API and Model Context Protocol (MCP) resources through a unified SQL-based framework for humans and AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 861 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevOps/Infra
+MCP · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ StackQL 通过统一的 SQL 接口，让人类和 AI 代理能够直接查询、
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

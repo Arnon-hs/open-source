@@ -1,6 +1,6 @@
 # oboshto/mexc-futures-sdk
 
-[![Stars](https://img.shields.io/github/stars/oboshto/mexc-futures-sdk?style=flat-square&color=yellow)](https://github.com/oboshto/mexc-futures-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/oboshto/mexc-futures-sdk?style=flat-square&color=blue)](https://github.com/oboshto/mexc-futures-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oboshto/mexc-futures-sdk?style=flat-square&color=yellow)](https://github.com/oboshto/mexc-futures-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/oboshto/mexc-futures-sdk?style=flat-square&color=blue)](https://github.com/oboshto/mexc-futures-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial MEXC Futures SDK for automated trading — REST + WebSocket via browser session tokens. Works with zero-fee (0% commission) futures pairs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Backend
+Crypto · Trading · Automation · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ oboshto/mexc-futures-sdk：oboshto/mexc-futures-sdk helps prototype or inspect b
 | forks | 33/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

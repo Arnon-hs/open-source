@@ -1,6 +1,6 @@
 # vuejs/vitepress
 
-[![Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=flat-square&color=yellow)](https://github.com/vuejs/vitepress/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs/vitepress?style=flat-square&color=blue)](https://github.com/vuejs/vitepress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=flat-square&color=yellow)](https://github.com/vuejs/vitepress/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs/vitepress?style=flat-square&color=blue)](https://github.com/vuejs/vitepress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Vite & Vue powered static site generator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ VuePress / VitePress 是基于 Vite 与 Vue 的静态站点生成器，能�
 | forks | 86/100 |
 | stars | 91/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 89/100 |
-| production | 81/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

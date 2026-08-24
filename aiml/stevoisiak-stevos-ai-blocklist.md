@@ -1,6 +1,6 @@
 # Stevoisiak/Stevos-AI-Blocklist
 
-[![Stars](https://img.shields.io/github/stars/Stevoisiak/Stevos-AI-Blocklist?style=flat-square&color=yellow)](https://github.com/Stevoisiak/Stevos-AI-Blocklist/stargazers) [![Forks](https://img.shields.io/github/forks/Stevoisiak/Stevos-AI-Blocklist?style=flat-square&color=blue)](https://github.com/Stevoisiak/Stevos-AI-Blocklist/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Stevoisiak/Stevos-AI-Blocklist?style=flat-square&color=yellow)](https://github.com/Stevoisiak/Stevos-AI-Blocklist/stargazers) [![Forks](https://img.shields.io/github/forks/Stevoisiak/Stevos-AI-Blocklist?style=flat-square&color=blue)](https://github.com/Stevoisiak/Stevos-AI-Blocklist/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A filter list that hides website features & content that uses Generative AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 793 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Adblock Filter List |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Stevoisiak/Stevos‑AI‑Blocklist 是一个基于 Adblock 过滤规则的列表
 | forks | 30/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

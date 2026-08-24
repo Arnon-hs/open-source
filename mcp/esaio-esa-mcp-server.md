@@ -1,6 +1,6 @@
 # esaio/esa-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/esaio/esa-mcp-server?style=flat-square&color=yellow)](https://github.com/esaio/esa-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/esaio/esa-mcp-server?style=flat-square&color=blue)](https://github.com/esaio/esa-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esaio/esa-mcp-server?style=flat-square&color=yellow)](https://github.com/esaio/esa-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/esaio/esa-mcp-server?style=flat-square&color=blue)](https://github.com/esaio/esa-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ esaio/esa-mcp-server 的生产可用性为中等（Medium）。它适合用于�
 | forks | 25/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # blokadaorg/blokada
 
-[![Stars](https://img.shields.io/github/stars/blokadaorg/blokada?style=flat-square&color=yellow)](https://github.com/blokadaorg/blokada/stargazers) [![Forks](https://img.shields.io/github/forks/blokadaorg/blokada?style=flat-square&color=blue)](https://github.com/blokadaorg/blokada/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blokadaorg/blokada?style=flat-square&color=yellow)](https://github.com/blokadaorg/blokada/stargazers) [![Forks](https://img.shields.io/github/forks/blokadaorg/blokada?style=flat-square&color=blue)](https://github.com/blokadaorg/blokada/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The official repo for Blokada apps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Blokada 的生产可用性较高，因为它具有以下特点：
 | forks | 59/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

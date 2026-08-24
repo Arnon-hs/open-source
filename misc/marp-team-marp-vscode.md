@@ -1,6 +1,6 @@
 # marp-team/marp-vscode
 
-[![Stars](https://img.shields.io/github/stars/marp-team/marp-vscode?style=flat-square&color=yellow)](https://github.com/marp-team/marp-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/marp-team/marp-vscode?style=flat-square&color=blue)](https://github.com/marp-team/marp-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marp-team/marp-vscode?style=flat-square&color=yellow)](https://github.com/marp-team/marp-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/marp-team/marp-vscode?style=flat-square&color=blue)](https://github.com/marp-team/marp-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Marp for VS Code 的生产可用性较高。它有 2072 个 GitHub 星星，144 
 | forks | 54/100 |
 | stars | 71/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

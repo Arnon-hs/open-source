@@ -1,6 +1,6 @@
 # ahmedkhaleel2004/gitdiagram
 
-[![Stars](https://img.shields.io/github/stars/ahmedkhaleel2004/gitdiagram?style=flat-square&color=yellow)](https://github.com/ahmedkhaleel2004/gitdiagram/stargazers) [![Forks](https://img.shields.io/github/forks/ahmedkhaleel2004/gitdiagram?style=flat-square&color=blue)](https://github.com/ahmedkhaleel2004/gitdiagram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahmedkhaleel2004/gitdiagram?style=flat-square&color=yellow)](https://github.com/ahmedkhaleel2004/gitdiagram/stargazers) [![Forks](https://img.shields.io/github/forks/ahmedkhaleel2004/gitdiagram?style=flat-square&color=blue)](https://github.com/ahmedkhaleel2004/gitdiagram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Free, simple, fast interactive diagrams for any GitHub repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ ahmedkhaleel2004/gitdiagram 的生产可用性非常高，主要是因为其活�
 | forks | 77/100 |
 | stars | 89/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

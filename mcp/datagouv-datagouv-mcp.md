@@ -1,6 +1,6 @@
 # datagouv/datagouv-mcp
 
-[![Stars](https://img.shields.io/github/stars/datagouv/datagouv-mcp?style=flat-square&color=yellow)](https://github.com/datagouv/datagouv-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/datagouv/datagouv-mcp?style=flat-square&color=blue)](https://github.com/datagouv/datagouv-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datagouv/datagouv-mcp?style=flat-square&color=yellow)](https://github.com/datagouv/datagouv-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/datagouv/datagouv-mcp?style=flat-square&color=blue)](https://github.com/datagouv/datagouv-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Data
+MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ datagouv/datagouv‑mcp 是官方的 data.gouv.fr Model Context Protocol（MCP�
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

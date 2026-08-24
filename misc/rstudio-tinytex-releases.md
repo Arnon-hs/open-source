@@ -1,6 +1,6 @@
 # rstudio/tinytex-releases
 
-[![Stars](https://img.shields.io/github/stars/rstudio/tinytex-releases?style=flat-square&color=yellow)](https://github.com/rstudio/tinytex-releases/stargazers) [![Forks](https://img.shields.io/github/forks/rstudio/tinytex-releases?style=flat-square&color=blue)](https://github.com/rstudio/tinytex-releases/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rstudio/tinytex-releases?style=flat-square&color=yellow)](https://github.com/rstudio/tinytex-releases/stargazers) [![Forks](https://img.shields.io/github/forks/rstudio/tinytex-releases?style=flat-square&color=blue)](https://github.com/rstudio/tinytex-releases/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Windows/macOS/Linux binaries and installation methods of TinyTeX
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 397 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ rstudio/tinytex-releases 的生产可用性为中等。这个项目适合用于�
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

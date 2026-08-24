@@ -1,6 +1,6 @@
 # TOMOSIA-VIETNAM/open-pr
 
-[![Stars](https://img.shields.io/github/stars/TOMOSIA-VIETNAM/open-pr?style=flat-square&color=yellow)](https://github.com/TOMOSIA-VIETNAM/open-pr/stargazers) [![Forks](https://img.shields.io/github/forks/TOMOSIA-VIETNAM/open-pr?style=flat-square&color=blue)](https://github.com/TOMOSIA-VIETNAM/open-pr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TOMOSIA-VIETNAM/open-pr?style=flat-square&color=yellow)](https://github.com/TOMOSIA-VIETNAM/open-pr/stargazers) [![Forks](https://img.shields.io/github/forks/TOMOSIA-VIETNAM/open-pr?style=flat-square&color=blue)](https://github.com/TOMOSIA-VIETNAM/open-pr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AI code review that lands on the PR, not in your terminal — GitHub, GitLab, Bitbucket. Learns each repo's conventions: 1 review, 1 fix commit, replies in thread. Claude Code · Cursor · Codex · Gemini CLI · Antigravity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ TOMOSIA-VIETNAM/open-pr：TOMOSIA-VIETNAM/open-pr helps add AI capability withou
 | forks | 27/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

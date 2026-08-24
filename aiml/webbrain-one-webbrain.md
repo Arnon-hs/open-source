@@ -1,6 +1,6 @@
 # webbrain-one/webbrain
 
-[![Stars](https://img.shields.io/github/stars/webbrain-one/webbrain?style=flat-square&color=yellow)](https://github.com/webbrain-one/webbrain/stargazers) [![Forks](https://img.shields.io/github/forks/webbrain-one/webbrain?style=flat-square&color=blue)](https://github.com/webbrain-one/webbrain/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webbrain-one/webbrain?style=flat-square&color=yellow)](https://github.com/webbrain-one/webbrain/stargazers) [![Forks](https://img.shields.io/github/forks/webbrain-one/webbrain?style=flat-square&color=blue)](https://github.com/webbrain-one/webbrain/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ webbrain-one/webbrain 的生产可用性为中等（Medium）。它适用于 pro
 | forks | 40/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

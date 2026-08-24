@@ -1,6 +1,6 @@
 # codelibs/fess
 
-[![Stars](https://img.shields.io/github/stars/codelibs/fess?style=flat-square&color=yellow)](https://github.com/codelibs/fess/stargazers) [![Forks](https://img.shields.io/github/forks/codelibs/fess?style=flat-square&color=blue)](https://github.com/codelibs/fess/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codelibs/fess?style=flat-square&color=yellow)](https://github.com/codelibs/fess/stargazers) [![Forks](https://img.shields.io/github/forks/codelibs/fess?style=flat-square&color=blue)](https://github.com/codelibs/fess/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted enterprise & site search server built on OpenSearch. Crawls web / file / DB / cloud sources, 20+ languages, REST API, and AI/RAG & semantic search. Apache-2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ codelibs/fess 的生产可用性非常高，具有以下特点：
 | forks | 56/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

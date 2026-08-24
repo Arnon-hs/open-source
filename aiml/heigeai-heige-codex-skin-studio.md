@@ -1,6 +1,6 @@
 # HeiGeAi/heige-codex-skin-studio
 
-[![Stars](https://img.shields.io/github/stars/HeiGeAi/heige-codex-skin-studio?style=flat-square&color=yellow)](https://github.com/HeiGeAi/heige-codex-skin-studio/stargazers) [![Forks](https://img.shields.io/github/forks/HeiGeAi/heige-codex-skin-studio?style=flat-square&color=blue)](https://github.com/HeiGeAi/heige-codex-skin-studio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HeiGeAi/heige-codex-skin-studio?style=flat-square&color=yellow)](https://github.com/HeiGeAi/heige-codex-skin-studio/stargazers) [![Forks](https://img.shields.io/github/forks/HeiGeAi/heige-codex-skin-studio?style=flat-square&color=blue)](https://github.com/HeiGeAi/heige-codex-skin-studio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ HeiGeAi/heige-codex-skin-studio 的生产可用性较高，理由如下：
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # CQMHV/ALCOMD3
 
-[![Stars](https://img.shields.io/github/stars/CQMHV/ALCOMD3?style=flat-square&color=yellow)](https://github.com/CQMHV/ALCOMD3/stargazers) [![Forks](https://img.shields.io/github/forks/CQMHV/ALCOMD3?style=flat-square&color=blue)](https://github.com/CQMHV/ALCOMD3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CQMHV/ALCOMD3?style=flat-square&color=yellow)](https://github.com/CQMHV/ALCOMD3/stargazers) [![Forks](https://img.shields.io/github/forks/CQMHV/ALCOMD3?style=flat-square&color=blue)](https://github.com/CQMHV/ALCOMD3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ALCOMD3 是一款支持 MCP 的 VRChat 包管理器客户端，采用 Material Design 3 设计风格。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Design
+MCP · Backend · Design
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ ALCOMD3 是一款基于 Material Design 3 风格的 VRChat 包管理器客户�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

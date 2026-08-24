@@ -1,6 +1,6 @@
 # k3s-io/kine
 
-[![Stars](https://img.shields.io/github/stars/k3s-io/kine?style=flat-square&color=yellow)](https://github.com/k3s-io/kine/stargazers) [![Forks](https://img.shields.io/github/forks/k3s-io/kine?style=flat-square&color=blue)](https://github.com/k3s-io/kine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k3s-io/kine?style=flat-square&color=yellow)](https://github.com/k3s-io/kine/stargazers) [![Forks](https://img.shields.io/github/forks/k3s-io/kine?style=flat-square&color=blue)](https://github.com/k3s-io/kine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ k3s-io/kine 是一个用 Go 编写的轻量级存储层，能够让 Kubernetes �
 | forks | 62/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

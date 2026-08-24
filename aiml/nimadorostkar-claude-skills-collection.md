@@ -1,6 +1,6 @@
 # nimadorostkar/Claude-Skills-collection
 
-[![Stars](https://img.shields.io/github/stars/nimadorostkar/Claude-Skills-collection?style=flat-square&color=yellow)](https://github.com/nimadorostkar/Claude-Skills-collection/stargazers) [![Forks](https://img.shields.io/github/forks/nimadorostkar/Claude-Skills-collection?style=flat-square&color=blue)](https://github.com/nimadorostkar/Claude-Skills-collection/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nimadorostkar/Claude-Skills-collection?style=flat-square&color=yellow)](https://github.com/nimadorostkar/Claude-Skills-collection/stargazers) [![Forks](https://img.shields.io/github/forks/nimadorostkar/Claude-Skills-collection?style=flat-square&color=blue)](https://github.com/nimadorostkar/Claude-Skills-collection/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated library of 137 production-grade skills for Claude and other AI coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ nimadorostkar/Claude-Skills-collection：nimadorostkar/Claude-Skills-collection 
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

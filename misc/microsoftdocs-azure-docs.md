@@ -1,6 +1,6 @@
 # MicrosoftDocs/azure-docs
 
-[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/azure-docs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/azure-docs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/azure-docs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/azure-docs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/azure-docs?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/azure-docs/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/azure-docs?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/azure-docs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open source documentation of Microsoft Azure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 21.8k |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ MicrosoftDocs/azure‑docs 是 Microsoft 官方维护的 Azure 公开文档仓�
 | forks | 100/100 |
 | stars | 86/100 |
 | topics | 13/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 90/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

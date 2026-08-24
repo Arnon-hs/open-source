@@ -1,6 +1,6 @@
 # KatrielMoses/voidaccess
 
-[![Stars](https://img.shields.io/github/stars/KatrielMoses/voidaccess?style=flat-square&color=yellow)](https://github.com/KatrielMoses/voidaccess/stargazers) [![Forks](https://img.shields.io/github/forks/KatrielMoses/voidaccess?style=flat-square&color=blue)](https://github.com/KatrielMoses/voidaccess/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KatrielMoses/voidaccess?style=flat-square&color=yellow)](https://github.com/KatrielMoses/voidaccess/stargazers) [![Forks](https://img.shields.io/github/forks/KatrielMoses/voidaccess?style=flat-square&color=blue)](https://github.com/KatrielMoses/voidaccess/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ KatrielMoses/voidaccess 是一套自托管的暗网 OSINT 平台，能够在 13 
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

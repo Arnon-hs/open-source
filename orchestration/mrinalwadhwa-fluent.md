@@ -1,6 +1,6 @@
 # mrinalwadhwa/fluent
 
-[![Stars](https://img.shields.io/github/stars/mrinalwadhwa/fluent?style=flat-square&color=yellow)](https://github.com/mrinalwadhwa/fluent/stargazers) [![Forks](https://img.shields.io/github/forks/mrinalwadhwa/fluent?style=flat-square&color=blue)](https://github.com/mrinalwadhwa/fluent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrinalwadhwa/fluent?style=flat-square&color=yellow)](https://github.com/mrinalwadhwa/fluent/stargazers) [![Forks](https://img.shields.io/github/forks/mrinalwadhwa/fluent?style=flat-square&color=blue)](https://github.com/mrinalwadhwa/fluent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fluent is a self-improving software factory. It autonomously turns your team's vision, ideas, bug reports, user feedback, production logs, and agent traces into working software.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Observability · Product
+Orchestration · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Fluent 的生产可用性为中等（Medium），适合用于原型或内部工�
 | forks | 8/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

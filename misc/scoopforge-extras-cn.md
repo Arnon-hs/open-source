@@ -1,6 +1,6 @@
 # Scoopforge/Extras-CN
 
-[![Stars](https://img.shields.io/github/stars/Scoopforge/Extras-CN?style=flat-square&color=yellow)](https://github.com/Scoopforge/Extras-CN/stargazers) [![Forks](https://img.shields.io/github/forks/Scoopforge/Extras-CN?style=flat-square&color=blue)](https://github.com/Scoopforge/Extras-CN/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Scoopforge/Extras-CN?style=flat-square&color=yellow)](https://github.com/Scoopforge/Extras-CN/stargazers) [![Forks](https://img.shields.io/github/forks/Scoopforge/Extras-CN?style=flat-square&color=blue)](https://github.com/Scoopforge/Extras-CN/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🍨 专注于服务国人的 Scoop 扩展库 🍨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Scoopforge/Extras‑CN 是一个专为国内用户打造的 Scoop 扩展库，�
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

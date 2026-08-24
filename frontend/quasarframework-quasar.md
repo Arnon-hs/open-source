@@ -1,6 +1,6 @@
 # quasarframework/quasar
 
-[![Stars](https://img.shields.io/github/stars/quasarframework/quasar?style=flat-square&color=yellow)](https://github.com/quasarframework/quasar/stargazers) [![Forks](https://img.shields.io/github/forks/quasarframework/quasar?style=flat-square&color=blue)](https://github.com/quasarframework/quasar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quasarframework/quasar?style=flat-square&color=yellow)](https://github.com/quasarframework/quasar/stargazers) [![Forks](https://img.shields.io/github/forks/quasarframework/quasar?style=flat-square&color=blue)](https://github.com/quasarframework/quasar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Quasar Framework - Build high-performance VueJS user interfaces in record time
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.1k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Database · Mobile · Design
+Frontend · Backend · Mobile · Design
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Quasar Framework（quasarframework/quasar）是一套基于 Vue 3 的高性能
 | forks | 89/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
 | adoption | 93/100 |
-| production | 80/100 |
-| usefulness | 58/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

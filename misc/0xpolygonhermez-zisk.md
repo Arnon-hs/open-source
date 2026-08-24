@@ -1,6 +1,6 @@
 # 0xPolygonHermez/zisk
 
-[![Stars](https://img.shields.io/github/stars/0xPolygonHermez/zisk?style=flat-square&color=yellow)](https://github.com/0xPolygonHermez/zisk/stargazers) [![Forks](https://img.shields.io/github/forks/0xPolygonHermez/zisk?style=flat-square&color=blue)](https://github.com/0xPolygonHermez/zisk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xPolygonHermez/zisk?style=flat-square&color=yellow)](https://github.com/0xPolygonHermez/zisk/stargazers) [![Forks](https://img.shields.io/github/forks/0xPolygonHermez/zisk?style=flat-square&color=blue)](https://github.com/0xPolygonHermez/zisk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,14 +81,15 @@ Production readiness is classified as medium, indicating that the project is not
 | forks | 46/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

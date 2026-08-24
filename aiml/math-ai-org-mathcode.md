@@ -1,6 +1,6 @@
 # math-ai-org/mathcode
 
-[![Stars](https://img.shields.io/github/stars/math-ai-org/mathcode?style=flat-square&color=yellow)](https://github.com/math-ai-org/mathcode/stargazers) [![Forks](https://img.shields.io/github/forks/math-ai-org/mathcode?style=flat-square&color=blue)](https://github.com/math-ai-org/mathcode/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/math-ai-org/mathcode?style=flat-square&color=yellow)](https://github.com/math-ai-org/mathcode/stargazers) [![Forks](https://img.shields.io/github/forks/math-ai-org/mathcode?style=flat-square&color=blue)](https://github.com/math-ai-org/mathcode/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > MathCode: A Frontier Mathematical Coding Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 702 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ math-ai-org/mathcode：math-ai-org/mathcode helps add AI capability without star
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

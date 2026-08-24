@@ -1,6 +1,6 @@
 # bakiraa/qyvaria-hardlogic-kernel-engine
 
-[![Stars](https://img.shields.io/github/stars/bakiraa/qyvaria-hardlogic-kernel-engine?style=flat-square&color=yellow)](https://github.com/bakiraa/qyvaria-hardlogic-kernel-engine/stargazers) [![Forks](https://img.shields.io/github/forks/bakiraa/qyvaria-hardlogic-kernel-engine?style=flat-square&color=blue)](https://github.com/bakiraa/qyvaria-hardlogic-kernel-engine/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bakiraa/qyvaria-hardlogic-kernel-engine?style=flat-square&color=yellow)](https://github.com/bakiraa/qyvaria-hardlogic-kernel-engine/stargazers) [![Forks](https://img.shields.io/github/forks/bakiraa/qyvaria-hardlogic-kernel-engine?style=flat-square&color=blue)](https://github.com/bakiraa/qyvaria-hardlogic-kernel-engine/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Top Open-Source AI Engineering Platform 2026 Qyvaria Kernel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Database
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ bakiraa/qyvaria‑hardlogic‑kernel‑engine 是 2026 年度排名靠前的开�
 | forks | 0/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

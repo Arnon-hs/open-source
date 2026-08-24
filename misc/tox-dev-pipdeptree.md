@@ -1,6 +1,6 @@
 # tox-dev/pipdeptree
 
-[![Stars](https://img.shields.io/github/stars/tox-dev/pipdeptree?style=flat-square&color=yellow)](https://github.com/tox-dev/pipdeptree/stargazers) [![Forks](https://img.shields.io/github/forks/tox-dev/pipdeptree?style=flat-square&color=blue)](https://github.com/tox-dev/pipdeptree/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tox-dev/pipdeptree?style=flat-square&color=yellow)](https://github.com/tox-dev/pipdeptree/stargazers) [![Forks](https://img.shields.io/github/forks/tox-dev/pipdeptree?style=flat-square&color=blue)](https://github.com/tox-dev/pipdeptree/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A command line utility to display dependency tree of the installed Python packages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ tox-dev/pipdeptree 的生产可用性很高，因为它有：
 | forks | 55/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

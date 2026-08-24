@@ -1,6 +1,6 @@
 # chaitin/OctoBus
 
-[![Stars](https://img.shields.io/github/stars/chaitin/OctoBus?style=flat-square&color=yellow)](https://github.com/chaitin/OctoBus/stargazers) [![Forks](https://img.shields.io/github/forks/chaitin/OctoBus?style=flat-square&color=blue)](https://github.com/chaitin/OctoBus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chaitin/OctoBus?style=flat-square&color=yellow)](https://github.com/chaitin/OctoBus/stargazers) [![Forks](https://img.shields.io/github/forks/chaitin/OctoBus?style=flat-square&color=blue)](https://github.com/chaitin/OctoBus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A platform that enables agents to securely, reliably, and controllably invoke internal enterprise capabilities, execute only authorized business actions, and fully record invocation activity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database · Security
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ OctoBus（chaitin/OctoBus）是一个基于 JavaScript 的企业内部总线平�
 | forks | 42/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

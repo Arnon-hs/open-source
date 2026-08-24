@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-dms-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-dms-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-dms-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-dms-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-dms-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-dms-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-dms-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-dms-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-dms-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A universal multi-cloud data MCP Server supporting over 40 types of data source connections, providing secure, unified data access in a single platform. Supports full range of Alibaba Cloud services and Mainstream databases/data warehouses.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ aliyun/alibabacloud-dms-mcp-server 的生产可用性较高，具有以下特点
 | forks | 31/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 81/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

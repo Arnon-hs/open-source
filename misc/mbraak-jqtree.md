@@ -1,6 +1,6 @@
 # mbraak/jqTree
 
-[![Stars](https://img.shields.io/github/stars/mbraak/jqTree?style=flat-square&color=yellow)](https://github.com/mbraak/jqTree/stargazers) [![Forks](https://img.shields.io/github/forks/mbraak/jqTree?style=flat-square&color=blue)](https://github.com/mbraak/jqTree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mbraak/jqTree?style=flat-square&color=yellow)](https://github.com/mbraak/jqTree/stargazers) [![Forks](https://img.shields.io/github/forks/mbraak/jqTree?style=flat-square&color=blue)](https://github.com/mbraak/jqTree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Tree widget for jQuery
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ mbraak/jqTree 的生产可用性非常高。它有近 1000 个 GitHub 星星，1
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

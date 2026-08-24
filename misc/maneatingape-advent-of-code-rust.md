@@ -1,6 +1,6 @@
 # maneatingape/advent-of-code-rust
 
-[![Stars](https://img.shields.io/github/stars/maneatingape/advent-of-code-rust?style=flat-square&color=yellow)](https://github.com/maneatingape/advent-of-code-rust/stargazers) [![Forks](https://img.shields.io/github/forks/maneatingape/advent-of-code-rust?style=flat-square&color=blue)](https://github.com/maneatingape/advent-of-code-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maneatingape/advent-of-code-rust?style=flat-square&color=yellow)](https://github.com/maneatingape/advent-of-code-rust/stargazers) [![Forks](https://img.shields.io/github/forks/maneatingape/advent-of-code-rust?style=flat-square&color=blue)](https://github.com/maneatingape/advent-of-code-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Blazing fast Rust solutions for every Advent of Code puzzle from 2015 to 2025, solving 524 stars in less than 1 second.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 538 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ In short, the project offers high‑performance, well‑written Rust code that c
 | forks | 39/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

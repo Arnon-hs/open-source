@@ -1,6 +1,6 @@
 # sugarlabs/musicblocks
 
-[![Stars](https://img.shields.io/github/stars/sugarlabs/musicblocks?style=flat-square&color=yellow)](https://github.com/sugarlabs/musicblocks/stargazers) [![Forks](https://img.shields.io/github/forks/sugarlabs/musicblocks?style=flat-square&color=blue)](https://github.com/sugarlabs/musicblocks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sugarlabs/musicblocks?style=flat-square&color=yellow)](https://github.com/sugarlabs/musicblocks/stargazers) [![Forks](https://img.shields.io/github/forks/sugarlabs/musicblocks?style=flat-square&color=blue)](https://github.com/sugarlabs/musicblocks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Music Blocks -- A musical microworld
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ Music Blocks 的生产可用性为中等，适合用于原型或内部工作流�
 | forks | 81/100 |
 | stars | 62/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

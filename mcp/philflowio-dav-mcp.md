@@ -1,6 +1,6 @@
 # PhilflowIO/dav-mcp
 
-[![Stars](https://img.shields.io/github/stars/PhilflowIO/dav-mcp?style=flat-square&color=yellow)](https://github.com/PhilflowIO/dav-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PhilflowIO/dav-mcp?style=flat-square&color=blue)](https://github.com/PhilflowIO/dav-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PhilflowIO/dav-mcp?style=flat-square&color=yellow)](https://github.com/PhilflowIO/dav-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PhilflowIO/dav-mcp?style=flat-square&color=blue)](https://github.com/PhilflowIO/dav-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Transform AI agents into orchestrating assistants managing calendars, contacts, and tasks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Database
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ PhilflowIO/dav-mcp 的
 | forks | 27/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

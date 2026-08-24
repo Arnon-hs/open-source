@@ -1,6 +1,6 @@
 # wasserth/TotalSegmentator
 
-[![Stars](https://img.shields.io/github/stars/wasserth/TotalSegmentator?style=flat-square&color=yellow)](https://github.com/wasserth/TotalSegmentator/stargazers) [![Forks](https://img.shields.io/github/forks/wasserth/TotalSegmentator?style=flat-square&color=blue)](https://github.com/wasserth/TotalSegmentator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasserth/TotalSegmentator?style=flat-square&color=yellow)](https://github.com/wasserth/TotalSegmentator/stargazers) [![Forks](https://img.shields.io/github/forks/wasserth/TotalSegmentator?style=flat-square&color=blue)](https://github.com/wasserth/TotalSegmentator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Tool for robust segmentation of >100 important anatomical structures in CT and MR images
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 449 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ TotalSegmentator 已具备中等生产就绪度，适合在原型验证、内部
 | forks | 66/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

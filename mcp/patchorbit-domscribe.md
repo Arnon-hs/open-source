@@ -1,6 +1,6 @@
 # patchorbit/domscribe
 
-[![Stars](https://img.shields.io/github/stars/patchorbit/domscribe?style=flat-square&color=yellow)](https://github.com/patchorbit/domscribe/stargazers) [![Forks](https://img.shields.io/github/forks/patchorbit/domscribe?style=flat-square&color=blue)](https://github.com/patchorbit/domscribe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patchorbit/domscribe?style=flat-square&color=yellow)](https://github.com/patchorbit/domscribe/stargazers) [![Forks](https://img.shields.io/github/forks/patchorbit/domscribe?style=flat-square&color=blue)](https://github.com/patchorbit/domscribe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Domscribe 的生产可用性较高，因为它有活跃的维护者，最近的�
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

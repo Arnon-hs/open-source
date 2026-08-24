@@ -1,6 +1,6 @@
 # vulkano-rs/vulkano
 
-[![Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano?style=flat-square&color=yellow)](https://github.com/vulkano-rs/vulkano/stargazers) [![Forks](https://img.shields.io/github/forks/vulkano-rs/vulkano?style=flat-square&color=blue)](https://github.com/vulkano-rs/vulkano/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vulkano-rs/vulkano?style=flat-square&color=yellow)](https://github.com/vulkano-rs/vulkano/stargazers) [![Forks](https://img.shields.io/github/forks/vulkano-rs/vulkano?style=flat-square&color=blue)](https://github.com/vulkano-rs/vulkano/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Safe and rich Rust wrapper around the Vulkan API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 470 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ vulkano‑rs/vulkano 是一个安全且功能丰富的 Rust 封装库，为 Vulk
 | forks | 67/100 |
 | stars | 79/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

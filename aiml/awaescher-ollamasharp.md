@@ -1,6 +1,6 @@
 # awaescher/OllamaSharp
 
-[![Stars](https://img.shields.io/github/stars/awaescher/OllamaSharp?style=flat-square&color=yellow)](https://github.com/awaescher/OllamaSharp/stargazers) [![Forks](https://img.shields.io/github/forks/awaescher/OllamaSharp?style=flat-square&color=blue)](https://github.com/awaescher/OllamaSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awaescher/OllamaSharp?style=flat-square&color=yellow)](https://github.com/awaescher/OllamaSharp/stargazers) [![Forks](https://img.shields.io/github/forks/awaescher/OllamaSharp?style=flat-square&color=blue)](https://github.com/awaescher/OllamaSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The easiest way to use Ollama in .NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Awaescher/OllamaSharp 已经有较强的生产可用性，主要原因是以下�
 | forks | 57/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

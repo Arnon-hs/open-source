@@ -1,6 +1,6 @@
 # hacksider/Deep-Live-Cam
 
-[![Stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=flat-square&color=yellow)](https://github.com/hacksider/Deep-Live-Cam/stargazers) [![Forks](https://img.shields.io/github/forks/hacksider/Deep-Live-Cam?style=flat-square&color=blue)](https://github.com/hacksider/Deep-Live-Cam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=flat-square&color=yellow)](https://github.com/hacksider/Deep-Live-Cam/stargazers) [![Forks](https://img.shields.io/github/forks/hacksider/Deep-Live-Cam?style=flat-square&color=blue)](https://github.com/hacksider/Deep-Live-Cam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > real time face swap and one-click video deepfake with only a single image
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94.7k |
 | 🍴 **Forks** | 13.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ hacksider/Deep-Live-Cam是一个开源项目，提供实时面部替换和一键
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 86/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

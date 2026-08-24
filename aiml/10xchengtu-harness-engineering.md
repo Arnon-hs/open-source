@@ -1,6 +1,6 @@
 # 10xChengTu/harness-engineering
 
-[![Stars](https://img.shields.io/github/stars/10xChengTu/harness-engineering?style=flat-square&color=yellow)](https://github.com/10xChengTu/harness-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/10xChengTu/harness-engineering?style=flat-square&color=blue)](https://github.com/10xChengTu/harness-engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/10xChengTu/harness-engineering?style=flat-square&color=yellow)](https://github.com/10xChengTu/harness-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/10xChengTu/harness-engineering?style=flat-square&color=blue)](https://github.com/10xChengTu/harness-engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Set up and improve harness engineering (AGENTS.md, docs/, lint rules, eval systems, project-level prompt engineering) for AI-agent-friendly codebases. Triggers on: new/empty project setup for AI agents, AGENTS.md or CLAUDE.md creation, harness engineering questions, making agents work better on a codebase.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ The production readiness of the 10xChengTu/harness
 | forks | 25/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 47/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 66/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

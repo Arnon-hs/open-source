@@ -1,6 +1,6 @@
 # SigNoz/signoz-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/SigNoz/signoz-mcp-server?style=flat-square&color=yellow)](https://github.com/SigNoz/signoz-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/SigNoz/signoz-mcp-server?style=flat-square&color=blue)](https://github.com/SigNoz/signoz-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SigNoz/signoz-mcp-server?style=flat-square&color=yellow)](https://github.com/SigNoz/signoz-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/SigNoz/signoz-mcp-server?style=flat-square&color=blue)](https://github.com/SigNoz/signoz-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for SigNoz
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ SigNoz / signoz-mcp-server 是 SigNoz 的 Model Context Protocol（MCP�
 | forks | 38/100 |
 | stars | 42/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

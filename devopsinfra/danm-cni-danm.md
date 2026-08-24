@@ -1,6 +1,6 @@
 # danm-cni/danm
 
-[![Stars](https://img.shields.io/github/stars/danm-cni/danm?style=flat-square&color=yellow)](https://github.com/danm-cni/danm/stargazers) [![Forks](https://img.shields.io/github/forks/danm-cni/danm?style=flat-square&color=blue)](https://github.com/danm-cni/danm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danm-cni/danm?style=flat-square&color=yellow)](https://github.com/danm-cni/danm/stargazers) [![Forks](https://img.shields.io/github/forks/danm-cni/danm?style=flat-square&color=blue)](https://github.com/danm-cni/danm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > TelCo grade network management in a Kubernetes cluster
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ danm-cni/danm 的生产可用性非常高，主要原因是：
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

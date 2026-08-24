@@ -1,6 +1,6 @@
 # AmoyLab/Unla
 
-[![Stars](https://img.shields.io/github/stars/AmoyLab/Unla?style=flat-square&color=yellow)](https://github.com/AmoyLab/Unla/stargazers) [![Forks](https://img.shields.io/github/forks/AmoyLab/Unla?style=flat-square&color=blue)](https://github.com/AmoyLab/Unla/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmoyLab/Unla?style=flat-square&color=yellow)](https://github.com/AmoyLab/Unla/stargazers) [![Forks](https://img.shields.io/github/forks/AmoyLab/Unla?style=flat-square&color=blue)](https://github.com/AmoyLab/Unla/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · Database · DevOps/Infra
+MCP · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ AmoyLab/Unla 的生产可用性非常高。它有近 2000 个 GitHub 星星，17
 | forks | 56/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 84/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

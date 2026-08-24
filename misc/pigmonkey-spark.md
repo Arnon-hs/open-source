@@ -1,6 +1,6 @@
 # pigmonkey/spark
 
-[![Stars](https://img.shields.io/github/stars/pigmonkey/spark?style=flat-square&color=yellow)](https://github.com/pigmonkey/spark/stargazers) [![Forks](https://img.shields.io/github/forks/pigmonkey/spark?style=flat-square&color=blue)](https://github.com/pigmonkey/spark/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pigmonkey/spark?style=flat-square&color=yellow)](https://github.com/pigmonkey/spark/stargazers) [![Forks](https://img.shields.io/github/forks/pigmonkey/spark?style=flat-square&color=blue)](https://github.com/pigmonkey/spark/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Arch Linux Provisioning with Ansible
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 397 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ pigmonkey/spark 是一个基于 Ansible 的 Arch Linux 自动化部署工具，�
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

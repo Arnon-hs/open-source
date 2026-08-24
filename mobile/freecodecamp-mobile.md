@@ -1,6 +1,6 @@
 # freeCodeCamp/mobile
 
-[![Stars](https://img.shields.io/github/stars/freeCodeCamp/mobile?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/mobile/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/mobile?style=flat-square&color=blue)](https://github.com/freeCodeCamp/mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freeCodeCamp/mobile?style=flat-square&color=yellow)](https://github.com/freeCodeCamp/mobile/stargazers) [![Forks](https://img.shields.io/github/forks/freeCodeCamp/mobile?style=flat-square&color=blue)](https://github.com/freeCodeCamp/mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > freeCodeCamp's open-source mobile app - Learn to code from your mobile phone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 566 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Education
+Mobile
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ freeCodeCamp/mobile 的生产可用性为中等。它适合用于原型或内部
 | forks | 57/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

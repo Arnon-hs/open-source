@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-python
 
-[![Stars](https://img.shields.io/github/stars/elevenlabs/elevenlabs-python?style=flat-square&color=yellow)](https://github.com/elevenlabs/elevenlabs-python/stargazers) [![Forks](https://img.shields.io/github/forks/elevenlabs/elevenlabs-python?style=flat-square&color=blue)](https://github.com/elevenlabs/elevenlabs-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elevenlabs/elevenlabs-python?style=flat-square&color=yellow)](https://github.com/elevenlabs/elevenlabs-python/stargazers) [![Forks](https://img.shields.io/github/forks/elevenlabs/elevenlabs-python?style=flat-square&color=blue)](https://github.com/elevenlabs/elevenlabs-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The official Python SDK for the ElevenLabs API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 422 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ ElevenLabs/elevenlabs-python 是 ElevenLabs API 的官方 Python SDK，帮助开
 | forks | 66/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 81/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

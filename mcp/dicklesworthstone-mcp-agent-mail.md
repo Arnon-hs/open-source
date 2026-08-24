@@ -1,6 +1,6 @@
 # Dicklesworthstone/mcp_agent_mail
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/mcp_agent_mail/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/mcp_agent_mail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/mcp_agent_mail/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/mcp_agent_mail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database · Marketing
+MCP · AI/ML · Database
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Dicklesworthstone/mcp_agent_mail 帮助连接 AI 助手到真实工具和数据�
 | forks | 59/100 |
 | stars | 71/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

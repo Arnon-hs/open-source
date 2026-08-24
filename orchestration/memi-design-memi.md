@@ -1,6 +1,6 @@
 # memi-design/memi
 
-[![Stars](https://img.shields.io/github/stars/memi-design/memi?style=flat-square&color=yellow)](https://github.com/memi-design/memi/stargazers) [![Forks](https://img.shields.io/github/forks/memi-design/memi?style=flat-square&color=blue)](https://github.com/memi-design/memi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memi-design/memi?style=flat-square&color=yellow)](https://github.com/memi-design/memi/stargazers) [![Forks](https://img.shields.io/github/forks/memi-design/memi?style=flat-square&color=blue)](https://github.com/memi-design/memi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Memi is the read-only design engineering audit and skill layer for coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ MemI 的生产可用性非常高，因为它具有以下特点：
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

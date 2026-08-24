@@ -1,6 +1,6 @@
 # ramnes/notion-sdk-py
 
-[![Stars](https://img.shields.io/github/stars/ramnes/notion-sdk-py?style=flat-square&color=yellow)](https://github.com/ramnes/notion-sdk-py/stargazers) [![Forks](https://img.shields.io/github/forks/ramnes/notion-sdk-py?style=flat-square&color=blue)](https://github.com/ramnes/notion-sdk-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ramnes/notion-sdk-py?style=flat-square&color=yellow)](https://github.com/ramnes/notion-sdk-py/stargazers) [![Forks](https://img.shields.io/github/forks/ramnes/notion-sdk-py?style=flat-square&color=blue)](https://github.com/ramnes/notion-sdk-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Notion API client SDK, rewritten in Python! (sync + async)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ramnes/notion-sdk-py 是一个同步/异步兼容的 Python Notion API 客户端
 | forks | 56/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 85/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

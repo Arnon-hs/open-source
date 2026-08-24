@@ -1,6 +1,6 @@
 # usedotai/dot-loom
 
-[![Stars](https://img.shields.io/github/stars/usedotai/dot-loom?style=flat-square&color=yellow)](https://github.com/usedotai/dot-loom/stargazers) [![Forks](https://img.shields.io/github/forks/usedotai/dot-loom?style=flat-square&color=blue)](https://github.com/usedotai/dot-loom/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usedotai/dot-loom?style=flat-square&color=yellow)](https://github.com/usedotai/dot-loom/stargazers) [![Forks](https://img.shields.io/github/forks/usedotai/dot-loom?style=flat-square&color=blue)](https://github.com/usedotai/dot-loom/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Provider-pluggable orchestration runtime for multi-model AI inference. ( Sakana Fugu style )
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ usedotai/dot-loom 是一个开源项目，提供了一个可插拔的调度运�
 | forks | 0/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

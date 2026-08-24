@@ -1,6 +1,6 @@
 # OptimNow/cloud-finops-skills
 
-[![Stars](https://img.shields.io/github/stars/OptimNow/cloud-finops-skills?style=flat-square&color=yellow)](https://github.com/OptimNow/cloud-finops-skills/stargazers) [![Forks](https://img.shields.io/github/forks/OptimNow/cloud-finops-skills?style=flat-square&color=blue)](https://github.com/OptimNow/cloud-finops-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OptimNow/cloud-finops-skills?style=flat-square&color=yellow)](https://github.com/OptimNow/cloud-finops-skills/stargazers) [![Forks](https://img.shields.io/github/forks/OptimNow/cloud-finops-skills?style=flat-square&color=blue)](https://github.com/OptimNow/cloud-finops-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, FinOps Foundation aligned FinOps knowledge skill and mcp for AI coding assistants. 28 reference files spanning cloud cost (AWS/Azure/GCP/OCI), AI inference economics, Kubernetes, data platforms, allocation, chargeback, anomaly management, waste detection, GreenOps. Installs into 11 AI tools. Refreshed monthly. Built by OptimNow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Data
+Orchestration · MCP · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ OptimNow/cloud-finops-skills 帮助将孤立的提示和工具转换为可重复
 | forks | 30/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

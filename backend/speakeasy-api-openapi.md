@@ -1,6 +1,6 @@
 # speakeasy-api/openapi
 
-[![Stars](https://img.shields.io/github/stars/speakeasy-api/openapi?style=flat-square&color=yellow)](https://github.com/speakeasy-api/openapi/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/openapi?style=flat-square&color=blue)](https://github.com/speakeasy-api/openapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/speakeasy-api/openapi?style=flat-square&color=yellow)](https://github.com/speakeasy-api/openapi/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/openapi?style=flat-square&color=blue)](https://github.com/speakeasy-api/openapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A set of packages and tools for working with OpenAPI, Swagger, Arazzo and Overlay Specification documents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ speakeasy-api/openapi 在生产环境中的可用性较高，主要原因是：
 | forks | 31/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

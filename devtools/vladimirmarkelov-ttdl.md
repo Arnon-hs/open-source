@@ -1,6 +1,6 @@
 # VladimirMarkelov/ttdl
 
-[![Stars](https://img.shields.io/github/stars/VladimirMarkelov/ttdl?style=flat-square&color=yellow)](https://github.com/VladimirMarkelov/ttdl/stargazers) [![Forks](https://img.shields.io/github/forks/VladimirMarkelov/ttdl?style=flat-square&color=blue)](https://github.com/VladimirMarkelov/ttdl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VladimirMarkelov/ttdl?style=flat-square&color=yellow)](https://github.com/VladimirMarkelov/ttdl/stargazers) [![Forks](https://img.shields.io/github/forks/VladimirMarkelov/ttdl?style=flat-square&color=blue)](https://github.com/VladimirMarkelov/ttdl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > TTDL - Terminal Todo List Manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 260 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ TTDL（Terminal Todo List Manager）是一个基于 Rust 编写的命令行待�
 | forks | 34/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

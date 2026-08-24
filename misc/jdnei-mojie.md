@@ -1,6 +1,6 @@
 # jdnei/mojie
 
-[![Stars](https://img.shields.io/github/stars/jdnei/mojie?style=flat-square&color=yellow)](https://github.com/jdnei/mojie/stargazers) [![Forks](https://img.shields.io/github/forks/jdnei/mojie?style=flat-square&color=blue)](https://github.com/jdnei/mojie/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jdnei/mojie?style=flat-square&color=yellow)](https://github.com/jdnei/mojie/stargazers) [![Forks](https://img.shields.io/github/forks/jdnei/mojie?style=flat-square&color=blue)](https://github.com/jdnei/mojie/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > mojie魔戒机场官方地址
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 601 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -79,14 +79,15 @@ jdnei/mojie是mojie魔戒机场官方地址的开源项目，提供了一个方�
 | forks | 33/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

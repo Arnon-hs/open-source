@@ -1,6 +1,6 @@
 # Marssssss/OneAI
 
-[![Stars](https://img.shields.io/github/stars/Marssssss/OneAI?style=flat-square&color=yellow)](https://github.com/Marssssss/OneAI/stargazers) [![Forks](https://img.shields.io/github/forks/Marssssss/OneAI?style=flat-square&color=blue)](https://github.com/Marssssss/OneAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Marssssss/OneAI?style=flat-square&color=yellow)](https://github.com/Marssssss/OneAI/stargazers) [![Forks](https://img.shields.io/github/forks/Marssssss/OneAI?style=flat-square&color=blue)](https://github.com/Marssssss/OneAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database · Mobile
+Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Marssssss/OneAI 的生产可用性为中等（Medium）。它在原型开发或�
 | forks | 26/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

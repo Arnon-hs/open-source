@@ -1,6 +1,6 @@
 # sina2266/Gozar
 
-[![Stars](https://img.shields.io/github/stars/sina2266/Gozar?style=flat-square&color=yellow)](https://github.com/sina2266/Gozar/stargazers) [![Forks](https://img.shields.io/github/forks/sina2266/Gozar?style=flat-square&color=blue)](https://github.com/sina2266/Gozar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sina2266/Gozar?style=flat-square&color=yellow)](https://github.com/sina2266/Gozar/stargazers) [![Forks](https://img.shields.io/github/forks/sina2266/Gozar?style=flat-square&color=blue)](https://github.com/sina2266/Gozar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, Docker-first OpenAI-compatible LLM gateway with provider routing, fallbacks, API keys, and usage controls.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ sina2266/Gozar 的生产可用性很高。它有一个活跃的社区，最近�
 | forks | 0/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

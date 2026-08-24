@@ -1,6 +1,6 @@
 # Baelfyre/Orchestra
 
-[![Stars](https://img.shields.io/github/stars/Baelfyre/Orchestra?style=flat-square&color=yellow)](https://github.com/Baelfyre/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Baelfyre/Orchestra?style=flat-square&color=blue)](https://github.com/Baelfyre/Orchestra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Baelfyre/Orchestra?style=flat-square&color=yellow)](https://github.com/Baelfyre/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Baelfyre/Orchestra?style=flat-square&color=blue)](https://github.com/Baelfyre/Orchestra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Installable AI workflow plugin that routes complex software tasks through focused specialist skills for architecture, UI/UX, docs, diagrams, databases, QA, security, and resilience review.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Data · Database
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -83,14 +83,15 @@ Baelfyre/Orchestra 是一个可安装的 AI 流程插件，旨在通过专注于
 | forks | 0/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

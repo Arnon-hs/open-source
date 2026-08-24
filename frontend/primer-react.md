@@ -1,6 +1,6 @@
 # primer/react
 
-[![Stars](https://img.shields.io/github/stars/primer/react?style=flat-square&color=yellow)](https://github.com/primer/react/stargazers) [![Forks](https://img.shields.io/github/forks/primer/react?style=flat-square&color=blue)](https://github.com/primer/react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/primer/react?style=flat-square&color=yellow)](https://github.com/primer/react/stargazers) [![Forks](https://img.shields.io/github/forks/primer/react?style=flat-square&color=blue)](https://github.com/primer/react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of GitHub's Primer Design System using React
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 662 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ primer/react 是 GitHub Primer Design System 的 React 实现，提供一套完�
 | forks | 71/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

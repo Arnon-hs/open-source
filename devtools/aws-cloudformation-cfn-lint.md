@@ -1,6 +1,6 @@
 # aws-cloudformation/cfn-lint
 
-[![Stars](https://img.shields.io/github/stars/aws-cloudformation/cfn-lint?style=flat-square&color=yellow)](https://github.com/aws-cloudformation/cfn-lint/stargazers) [![Forks](https://img.shields.io/github/forks/aws-cloudformation/cfn-lint?style=flat-square&color=blue)](https://github.com/aws-cloudformation/cfn-lint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-cloudformation/cfn-lint?style=flat-square&color=yellow)](https://github.com/aws-cloudformation/cfn-lint/stargazers) [![Forks](https://img.shields.io/github/forks/aws-cloudformation/cfn-lint?style=flat-square&color=blue)](https://github.com/aws-cloudformation/cfn-lint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > CloudFormation Linter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 639 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ CloudFormation Lint具有较高的生产可用性，主要原因是：
 | forks | 70/100 |
 | stars | 73/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

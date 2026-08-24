@@ -1,6 +1,6 @@
 # sumatrapdfreader/sumatrapdf
 
-[![Stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat-square&color=yellow)](https://github.com/sumatrapdfreader/sumatrapdf/stargazers) [![Forks](https://img.shields.io/github/forks/sumatrapdfreader/sumatrapdf?style=flat-square&color=blue)](https://github.com/sumatrapdfreader/sumatrapdf/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat-square&color=yellow)](https://github.com/sumatrapdfreader/sumatrapdf/stargazers) [![Forks](https://img.shields.io/github/forks/sumatrapdfreader/sumatrapdf?style=flat-square&color=blue)](https://github.com/sumatrapdfreader/sumatrapdf/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SumatraPDF reader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.9k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ SumatraPDF（仓库 sumatrapdfreader/sumatrapdf）是一款轻量、快速的�
 | forks | 82/100 |
 | stars | 90/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

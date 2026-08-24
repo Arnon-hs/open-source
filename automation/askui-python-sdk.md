@@ -1,6 +1,6 @@
 # askui/python-sdk
 
-[![Stars](https://img.shields.io/github/stars/askui/python-sdk?style=flat-square&color=yellow)](https://github.com/askui/python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/askui/python-sdk?style=flat-square&color=blue)](https://github.com/askui/python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/askui/python-sdk?style=flat-square&color=yellow)](https://github.com/askui/python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/askui/python-sdk?style=flat-square&color=blue)](https://github.com/askui/python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Enable AI to control your desktop, mobile and HMI devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 551 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ askui/python-sdk 的生产可用性高，主要原因包括：
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

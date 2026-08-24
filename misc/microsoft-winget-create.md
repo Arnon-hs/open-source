@@ -1,6 +1,6 @@
 # microsoft/winget-create
 
-[![Stars](https://img.shields.io/github/stars/microsoft/winget-create?style=flat-square&color=yellow)](https://github.com/microsoft/winget-create/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/winget-create?style=flat-square&color=blue)](https://github.com/microsoft/winget-create/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/winget-create?style=flat-square&color=yellow)](https://github.com/microsoft/winget-create/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/winget-create?style=flat-square&color=blue)](https://github.com/microsoft/winget-create/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 636 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Microsoft Winget-Create 是一个命令行工具，用于创建 Windows 包管�
 | forks | 51/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

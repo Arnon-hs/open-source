@@ -1,6 +1,6 @@
 # helmfile/helmfile
 
-[![Stars](https://img.shields.io/github/stars/helmfile/helmfile?style=flat-square&color=yellow)](https://github.com/helmfile/helmfile/stargazers) [![Forks](https://img.shields.io/github/forks/helmfile/helmfile?style=flat-square&color=blue)](https://github.com/helmfile/helmfile/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helmfile/helmfile?style=flat-square&color=yellow)](https://github.com/helmfile/helmfile/stargazers) [![Forks](https://img.shields.io/github/forks/helmfile/helmfile?style=flat-square&color=blue)](https://github.com/helmfile/helmfile/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 353 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ helmfile/helmfile 具有高生产可用性，主要原因是：
 | forks | 64/100 |
 | stars | 79/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

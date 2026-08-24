@@ -1,6 +1,6 @@
 # faucetdb/faucet
 
-[![Stars](https://img.shields.io/github/stars/faucetdb/faucet?style=flat-square&color=yellow)](https://github.com/faucetdb/faucet/stargazers) [![Forks](https://img.shields.io/github/forks/faucetdb/faucet?style=flat-square&color=blue)](https://github.com/faucetdb/faucet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faucetdb/faucet?style=flat-square&color=yellow)](https://github.com/faucetdb/faucet/stargazers) [![Forks](https://img.shields.io/github/forks/faucetdb/faucet?style=flat-square&color=blue)](https://github.com/faucetdb/faucet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Faucet is an open-source, single-binary server that turns any SQL database into a secure, governed REST API with role-based access control and native MCP support for applications and AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ FaucetDB/Faucet 的生产可用性非常高，尤其是考虑到其最近的活�
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

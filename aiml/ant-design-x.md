@@ -1,6 +1,6 @@
 # ant-design/x
 
-[![Stars](https://img.shields.io/github/stars/ant-design/x?style=flat-square&color=yellow)](https://github.com/ant-design/x/stargazers) [![Forks](https://img.shields.io/github/forks/ant-design/x?style=flat-square&color=blue)](https://github.com/ant-design/x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ant-design/x?style=flat-square&color=yellow)](https://github.com/ant-design/x/stargazers) [![Forks](https://img.shields.io/github/forks/ant-design/x?style=flat-square&color=blue)](https://github.com/ant-design/x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Craft AI-driven interface effortlessly🤖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ ant-design/x 的生产可用性非常高，主要原因包括：
 | forks | 76/100 |
 | stars | 78/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

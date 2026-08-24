@@ -1,6 +1,6 @@
 # ccch1mneyyy/dsh-cc-tui
 
-[![Stars](https://img.shields.io/github/stars/ccch1mneyyy/dsh-cc-tui?style=flat-square&color=yellow)](https://github.com/ccch1mneyyy/dsh-cc-tui/stargazers) [![Forks](https://img.shields.io/github/forks/ccch1mneyyy/dsh-cc-tui?style=flat-square&color=blue)](https://github.com/ccch1mneyyy/dsh-cc-tui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccch1mneyyy/dsh-cc-tui?style=flat-square&color=yellow)](https://github.com/ccch1mneyyy/dsh-cc-tui/stargazers) [![Forks](https://img.shields.io/github/forks/ccch1mneyyy/dsh-cc-tui?style=flat-square&color=blue)](https://github.com/ccch1mneyyy/dsh-cc-tui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code 风格全屏交互终端插件：像素鲸鱼顶栏、流光大字、思考流式展开、双击 Esc 回滚、蓝白上下文进度条 + TPS 仪表
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ccch1mneyyy/dsh-cc-tui 的主要价值在于，它可以帮助用户快速添加
 | forks | 15/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

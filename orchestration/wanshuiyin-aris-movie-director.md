@@ -1,6 +1,6 @@
 # wanshuiyin/ARIS-Movie-Director
 
-[![Stars](https://img.shields.io/github/stars/wanshuiyin/ARIS-Movie-Director?style=flat-square&color=yellow)](https://github.com/wanshuiyin/ARIS-Movie-Director/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/ARIS-Movie-Director?style=flat-square&color=blue)](https://github.com/wanshuiyin/ARIS-Movie-Director/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanshuiyin/ARIS-Movie-Director?style=flat-square&color=yellow)](https://github.com/wanshuiyin/ARIS-Movie-Director/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/ARIS-Movie-Director?style=flat-square&color=blue)](https://github.com/wanshuiyin/ARIS-Movie-Director/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic, long-horizon visual generation: a fuzzy story → a cross-model-audited image-based movie. Brings ARIS's research-wiki + multi-agent debate to multimodal generation (intelligence lives in the agent; the diffusion model just renders). Image-based today, video next.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ wanshuiyin/ARIS-Movie-Director 帮助将孤立的提示和工具转化为可重�
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 72/100 |
-| usefulness | 58/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # LmeSzinc/AzurLaneAutoScript
 
-[![Stars](https://img.shields.io/github/stars/LmeSzinc/AzurLaneAutoScript?style=flat-square&color=yellow)](https://github.com/LmeSzinc/AzurLaneAutoScript/stargazers) [![Forks](https://img.shields.io/github/forks/LmeSzinc/AzurLaneAutoScript?style=flat-square&color=blue)](https://github.com/LmeSzinc/AzurLaneAutoScript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LmeSzinc/AzurLaneAutoScript?style=flat-square&color=yellow)](https://github.com/LmeSzinc/AzurLaneAutoScript/stargazers) [![Forks](https://img.shields.io/github/forks/LmeSzinc/AzurLaneAutoScript?style=flat-square&color=blue)](https://github.com/LmeSzinc/AzurLaneAutoScript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ LmeSzinc/AzurLaneAutoScript 是一款基于 Python 的全自动化脚本，支�
 | forks | 76/100 |
 | stars | 84/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 82/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

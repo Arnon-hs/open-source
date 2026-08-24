@@ -1,6 +1,6 @@
 # drogonframework/drogon
 
-[![Stars](https://img.shields.io/github/stars/drogonframework/drogon?style=flat-square&color=yellow)](https://github.com/drogonframework/drogon/stargazers) [![Forks](https://img.shields.io/github/forks/drogonframework/drogon?style=flat-square&color=blue)](https://github.com/drogonframework/drogon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drogonframework/drogon?style=flat-square&color=yellow)](https://github.com/drogonframework/drogon/stargazers) [![Forks](https://img.shields.io/github/forks/drogonframework/drogon?style=flat-square&color=blue)](https://github.com/drogonframework/drogon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Drogon 是一个基于 C++14/17/20 的高性能 HTTP Web 应用框架，支持 L
 | forks | 78/100 |
 | stars | 88/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 85/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

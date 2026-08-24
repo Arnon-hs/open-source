@@ -1,6 +1,6 @@
 # MiniMax-AI/cli
 
-[![Stars](https://img.shields.io/github/stars/MiniMax-AI/cli?style=flat-square&color=yellow)](https://github.com/MiniMax-AI/cli/stargazers) [![Forks](https://img.shields.io/github/forks/MiniMax-AI/cli?style=flat-square&color=blue)](https://github.com/MiniMax-AI/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MiniMax-AI/cli?style=flat-square&color=yellow)](https://github.com/MiniMax-AI/cli/stargazers) [![Forks](https://img.shields.io/github/forks/MiniMax-AI/cli?style=flat-square&color=blue)](https://github.com/MiniMax-AI/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Generate text, images, video, speech, and music by MiniMax.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ MiniMax‑AI/cli 是一款基于 TypeScript 的开源命令行工具，能够一
 | forks | 52/100 |
 | stars | 69/100 |
 | topics | 13/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

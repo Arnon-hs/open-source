@@ -1,6 +1,6 @@
 # nutstore/obsidian-nutstore-sync
 
-[![Stars](https://img.shields.io/github/stars/nutstore/obsidian-nutstore-sync?style=flat-square&color=yellow)](https://github.com/nutstore/obsidian-nutstore-sync/stargazers) [![Forks](https://img.shields.io/github/forks/nutstore/obsidian-nutstore-sync?style=flat-square&color=blue)](https://github.com/nutstore/obsidian-nutstore-sync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nutstore/obsidian-nutstore-sync?style=flat-square&color=yellow)](https://github.com/nutstore/obsidian-nutstore-sync/stargazers) [![Forks](https://img.shields.io/github/forks/nutstore/obsidian-nutstore-sync?style=flat-square&color=blue)](https://github.com/nutstore/obsidian-nutstore-sync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 574 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Obsidian 与 Nutstore 的同步插件（nutstore/obsidian-nutstore-sync）是一
 | forks | 35/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

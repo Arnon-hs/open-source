@@ -1,6 +1,6 @@
 # Maciek-roboblog/Claude-Code-Usage-Monitor
 
-[![Stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=flat-square&color=yellow)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/Maciek-roboblog/Claude-Code-Usage-Monitor?style=flat-square&color=blue)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=flat-square&color=yellow)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/Maciek-roboblog/Claude-Code-Usage-Monitor?style=flat-square&color=blue)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time Claude Code usage monitor with predictions and warnings
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Maciek‑roboblog/Claude‑Code‑Usage‑Monitor 是一款实时监控 Claude �
 | forks | 66/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

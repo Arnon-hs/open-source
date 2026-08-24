@@ -1,6 +1,6 @@
 # zkmopro/mopro
 
-[![Stars](https://img.shields.io/github/stars/zkmopro/mopro?style=flat-square&color=yellow)](https://github.com/zkmopro/mopro/stargazers) [![Forks](https://img.shields.io/github/forks/zkmopro/mopro?style=flat-square&color=blue)](https://github.com/zkmopro/mopro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zkmopro/mopro?style=flat-square&color=yellow)](https://github.com/zkmopro/mopro/stargazers) [![Forks](https://img.shields.io/github/forks/zkmopro/mopro?style=flat-square&color=blue)](https://github.com/zkmopro/mopro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Making client-side ZK proving on mobile simple.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ zkmopro/mopro 的生产可用性较高，原因如下：
 | forks | 51/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

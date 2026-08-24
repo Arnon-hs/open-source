@@ -1,6 +1,6 @@
 # ningzimu/image-to-editable-ppt-skill
 
-[![Stars](https://img.shields.io/github/stars/ningzimu/image-to-editable-ppt-skill?style=flat-square&color=yellow)](https://github.com/ningzimu/image-to-editable-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/ningzimu/image-to-editable-ppt-skill?style=flat-square&color=blue)](https://github.com/ningzimu/image-to-editable-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ningzimu/image-to-editable-ppt-skill?style=flat-square&color=yellow)](https://github.com/ningzimu/image-to-editable-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/ningzimu/image-to-editable-ppt-skill?style=flat-square&color=blue)](https://github.com/ningzimu/image-to-editable-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ The practical adoption path for this project involves a few steps:
 | forks | 48/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

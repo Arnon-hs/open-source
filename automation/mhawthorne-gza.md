@@ -1,6 +1,6 @@
 # mhawthorne/gza
 
-[![Stars](https://img.shields.io/github/stars/mhawthorne/gza?style=flat-square&color=yellow)](https://github.com/mhawthorne/gza/stargazers) [![Forks](https://img.shields.io/github/forks/mhawthorne/gza?style=flat-square&color=blue)](https://github.com/mhawthorne/gza/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mhawthorne/gza?style=flat-square&color=yellow)](https://github.com/mhawthorne/gza/stargazers) [![Forks](https://img.shields.io/github/forks/mhawthorne/gza?style=flat-square&color=blue)](https://github.com/mhawthorne/gza/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding assistant task and workflow manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ mhawthorne/gza 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 8/100 |
 | stars | 23/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 19/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

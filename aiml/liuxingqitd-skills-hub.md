@@ -1,6 +1,6 @@
 # liuxingqitd/skills-hub
 
-[![Stars](https://img.shields.io/github/stars/liuxingqitd/skills-hub?style=flat-square&color=yellow)](https://github.com/liuxingqitd/skills-hub/stargazers) [![Forks](https://img.shields.io/github/forks/liuxingqitd/skills-hub?style=flat-square&color=blue)](https://github.com/liuxingqitd/skills-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liuxingqitd/skills-hub?style=flat-square&color=yellow)](https://github.com/liuxingqitd/skills-hub/stargazers) [![Forks](https://img.shields.io/github/forks/liuxingqitd/skills-hub?style=flat-square&color=blue)](https://github.com/liuxingqitd/skills-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 本地 AI coding agent 技能（skills）管理仪表盘，一站式查看、同步与安装多个 agent 的技能文件。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ Overall, `skills-hub` is a solid starting point for internal AI‑agent workflow
 | forks | 29/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

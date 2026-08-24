@@ -1,6 +1,6 @@
 # arukaraz/synthseek
 
-[![Stars](https://img.shields.io/github/stars/arukaraz/synthseek?style=flat-square&color=yellow)](https://github.com/arukaraz/synthseek/stargazers) [![Forks](https://img.shields.io/github/forks/arukaraz/synthseek?style=flat-square&color=blue)](https://github.com/arukaraz/synthseek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arukaraz/synthseek?style=flat-square&color=yellow)](https://github.com/arukaraz/synthseek/stargazers) [![Forks](https://img.shields.io/github/forks/arukaraz/synthseek?style=flat-square&color=blue)](https://github.com/arukaraz/synthseek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted music discovery library manager with modern web UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ arukaraz/synthseek 是一款自托管的音乐发现库管理器，配备现代�
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

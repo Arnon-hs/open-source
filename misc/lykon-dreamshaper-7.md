@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
 | 📈 **Score** | 35/100 |
-| 🗓️ **Last push** | 2023-12-07 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -112,6 +112,7 @@ Lykon/dreamshaper-7 的价值在于，它可能适用于那些README和活动与
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

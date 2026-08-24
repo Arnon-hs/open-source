@@ -1,6 +1,6 @@
 # oxylabs/chatgpt-scraper
 
-[![Stars](https://img.shields.io/github/stars/oxylabs/chatgpt-scraper?style=flat-square&color=yellow)](https://github.com/oxylabs/chatgpt-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/oxylabs/chatgpt-scraper?style=flat-square&color=blue)](https://github.com/oxylabs/chatgpt-scraper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxylabs/chatgpt-scraper?style=flat-square&color=yellow)](https://github.com/oxylabs/chatgpt-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/oxylabs/chatgpt-scraper?style=flat-square&color=blue)](https://github.com/oxylabs/chatgpt-scraper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ oxylabs/chatgpt-scraper 的生产可用性较高，原因如下：
 | forks | 28/100 |
 | stars | 75/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

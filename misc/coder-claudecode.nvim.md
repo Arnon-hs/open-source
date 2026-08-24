@@ -1,6 +1,6 @@
 # coder/claudecode.nvim
 
-[![Stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=flat-square&color=yellow)](https://github.com/coder/claudecode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/coder/claudecode.nvim?style=flat-square&color=blue)](https://github.com/coder/claudecode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=flat-square&color=yellow)](https://github.com/coder/claudecode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/coder/claudecode.nvim?style=flat-square&color=blue)](https://github.com/coder/claudecode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🧩 Claude Code Neovim IDE Extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ If those checks pass, the extension can be promoted to broader internal use, but
 | forks | 58/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

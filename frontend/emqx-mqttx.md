@@ -1,6 +1,6 @@
 # emqx/MQTTX
 
-[![Stars](https://img.shields.io/github/stars/emqx/MQTTX?style=flat-square&color=yellow)](https://github.com/emqx/MQTTX/stargazers) [![Forks](https://img.shields.io/github/forks/emqx/MQTTX?style=flat-square&color=blue)](https://github.com/emqx/MQTTX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emqx/MQTTX?style=flat-square&color=yellow)](https://github.com/emqx/MQTTX/stargazers) [![Forks](https://img.shields.io/github/forks/emqx/MQTTX?style=flat-square&color=blue)](https://github.com/emqx/MQTTX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 546 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Database
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ emqx/MQTTX 的生产可用性非常高。它有 5016 个 GitHub star，546 个 f
 | forks | 68/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

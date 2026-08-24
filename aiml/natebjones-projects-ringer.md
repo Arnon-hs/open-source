@@ -1,6 +1,6 @@
 # NateBJones-Projects/ringer
 
-[![Stars](https://img.shields.io/github/stars/NateBJones-Projects/ringer?style=flat-square&color=yellow)](https://github.com/NateBJones-Projects/ringer/stargazers) [![Forks](https://img.shields.io/github/forks/NateBJones-Projects/ringer?style=flat-square&color=blue)](https://github.com/NateBJones-Projects/ringer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NateBJones-Projects/ringer?style=flat-square&color=yellow)](https://github.com/NateBJones-Projects/ringer/stargazers) [![Forks](https://img.shields.io/github/forks/NateBJones-Projects/ringer?style=flat-square&color=blue)](https://github.com/NateBJones-Projects/ringer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Ringer — parallel AI-agent swarm orchestrator. Ringside — its native mission-control HUD. Fable-quality output without Fable-level burn.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ NateBJones-Projects/ringer是一个开源项目，旨在为开发者提供一个
 | forks | 39/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

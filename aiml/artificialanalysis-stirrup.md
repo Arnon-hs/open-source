@@ -1,6 +1,6 @@
 # ArtificialAnalysis/Stirrup
 
-[![Stars](https://img.shields.io/github/stars/ArtificialAnalysis/Stirrup?style=flat-square&color=yellow)](https://github.com/ArtificialAnalysis/Stirrup/stargazers) [![Forks](https://img.shields.io/github/forks/ArtificialAnalysis/Stirrup?style=flat-square&color=blue)](https://github.com/ArtificialAnalysis/Stirrup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArtificialAnalysis/Stirrup?style=flat-square&color=yellow)](https://github.com/ArtificialAnalysis/Stirrup/stargazers) [![Forks](https://img.shields.io/github/forks/ArtificialAnalysis/Stirrup?style=flat-square&color=blue)](https://github.com/ArtificialAnalysis/Stirrup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The lightweight framework for building agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ Stirrup 的生产可用性评级为中等（Medium）。它适合用于以下场
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

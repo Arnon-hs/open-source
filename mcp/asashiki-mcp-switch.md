@@ -1,6 +1,6 @@
 # asashiki/mcp-switch
 
-[![Stars](https://img.shields.io/github/stars/asashiki/mcp-switch?style=flat-square&color=yellow)](https://github.com/asashiki/mcp-switch/stargazers) [![Forks](https://img.shields.io/github/forks/asashiki/mcp-switch?style=flat-square&color=blue)](https://github.com/asashiki/mcp-switch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asashiki/mcp-switch?style=flat-square&color=yellow)](https://github.com/asashiki/mcp-switch/stargazers) [![Forks](https://img.shields.io/github/forks/asashiki/mcp-switch?style=flat-square&color=blue)](https://github.com/asashiki/mcp-switch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted gateway that aggregates local stdio and remote HTTP MCP servers behind one OAuth endpoint — connect once, reach all your tools from any AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ asashiki/mcp-switch 的生产可用性为中等（Medium），适合用于原型
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

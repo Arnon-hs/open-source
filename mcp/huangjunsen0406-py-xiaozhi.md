@@ -1,6 +1,6 @@
 # huangjunsen0406/py-xiaozhi
 
-[![Stars](https://img.shields.io/github/stars/huangjunsen0406/py-xiaozhi?style=flat-square&color=yellow)](https://github.com/huangjunsen0406/py-xiaozhi/stargazers) [![Forks](https://img.shields.io/github/forks/huangjunsen0406/py-xiaozhi?style=flat-square&color=blue)](https://github.com/huangjunsen0406/py-xiaozhi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangjunsen0406/py-xiaozhi?style=flat-square&color=yellow)](https://github.com/huangjunsen0406/py-xiaozhi/stargazers) [![Forks](https://img.shields.io/github/forks/huangjunsen0406/py-xiaozhi?style=flat-square&color=blue)](https://github.com/huangjunsen0406/py-xiaozhi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 710 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ huangjunsen0406/py-xiaozhi 帮助连接 AI 助手到现有工具和数据，标�
 | forks | 71/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

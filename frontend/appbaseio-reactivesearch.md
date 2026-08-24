@@ -1,6 +1,6 @@
 # appbaseio/reactivesearch
 
-[![Stars](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&color=yellow)](https://github.com/appbaseio/reactivesearch/stargazers) [![Forks](https://img.shields.io/github/forks/appbaseio/reactivesearch?style=flat-square&color=blue)](https://github.com/appbaseio/reactivesearch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&color=yellow)](https://github.com/appbaseio/reactivesearch/stargazers) [![Forks](https://img.shields.io/github/forks/appbaseio/reactivesearch?style=flat-square&color=blue)](https://github.com/appbaseio/reactivesearch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Search UI components for React and Vue
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ appbaseio/reactivesearch 的生产可用性较高，主要原因是：
 | forks | 67/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

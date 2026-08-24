@@ -1,6 +1,6 @@
 # utensils/nxv
 
-[![Stars](https://img.shields.io/github/stars/utensils/nxv?style=flat-square&color=yellow)](https://github.com/utensils/nxv/stargazers) [![Forks](https://img.shields.io/github/forks/utensils/nxv?style=flat-square&color=blue)](https://github.com/utensils/nxv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/utensils/nxv?style=flat-square&color=yellow)](https://github.com/utensils/nxv/stargazers) [![Forks](https://img.shields.io/github/forks/utensils/nxv?style=flat-square&color=blue)](https://github.com/utensils/nxv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ utensils/nxv（Nix Version Index）是一款基于 Rust 实现的超高速 CLI �
 | forks | 8/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

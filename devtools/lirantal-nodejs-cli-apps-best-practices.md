@@ -1,6 +1,6 @@
 # lirantal/nodejs-cli-apps-best-practices
 
-[![Stars](https://img.shields.io/github/stars/lirantal/nodejs-cli-apps-best-practices?style=flat-square&color=yellow)](https://github.com/lirantal/nodejs-cli-apps-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/nodejs-cli-apps-best-practices?style=flat-square&color=blue)](https://github.com/lirantal/nodejs-cli-apps-best-practices/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lirantal/nodejs-cli-apps-best-practices?style=flat-square&color=yellow)](https://github.com/lirantal/nodejs-cli-apps-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/nodejs-cli-apps-best-practices?style=flat-square&color=blue)](https://github.com/lirantal/nodejs-cli-apps-best-practices/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The largest Node.js CLI Apps best practices list ✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ lirantal/nodejs-cli-apps-best-practices 是一个 Node.js CLI 应用最佳实践
 | forks | 55/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

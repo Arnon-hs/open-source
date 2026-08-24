@@ -1,6 +1,6 @@
 # wppconnect-team/wa-js
 
-[![Stars](https://img.shields.io/github/stars/wppconnect-team/wa-js?style=flat-square&color=yellow)](https://github.com/wppconnect-team/wa-js/stargazers) [![Forks](https://img.shields.io/github/forks/wppconnect-team/wa-js?style=flat-square&color=blue)](https://github.com/wppconnect-team/wa-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wppconnect-team/wa-js?style=flat-square&color=yellow)](https://github.com/wppconnect-team/wa-js/stargazers) [![Forks](https://img.shields.io/github/forks/wppconnect-team/wa-js?style=flat-square&color=blue)](https://github.com/wppconnect-team/wa-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > WPPConnect/WA-JS is an open-source project with the aim of exporting functions from WhatsApp Web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 783 |
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend
+Automation · Backend
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ WPPConnect/WA-JS 是一个开源项目，旨在从 WhatsApp Web 导出功能，�
 | forks | 60/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 83/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

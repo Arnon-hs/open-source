@@ -1,6 +1,6 @@
 # ninemindai/agentback
 
-[![Stars](https://img.shields.io/github/stars/ninemindai/agentback?style=flat-square&color=yellow)](https://github.com/ninemindai/agentback/stargazers) [![Forks](https://img.shields.io/github/forks/ninemindai/agentback?style=flat-square&color=blue)](https://github.com/ninemindai/agentback/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ninemindai/agentback?style=flat-square&color=yellow)](https://github.com/ninemindai/agentback/stargazers) [![Forks](https://img.shields.io/github/forks/ninemindai/agentback?style=flat-square&color=blue)](https://github.com/ninemindai/agentback/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI native API/MCP framework for the agent era. Built with agents, for agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ninemindai/agentback 已经具有较高的生产可用性，原因包括：
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

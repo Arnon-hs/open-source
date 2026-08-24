@@ -1,6 +1,6 @@
 # travisjneuman/.claude
 
-[![Stars](https://img.shields.io/github/stars/travisjneuman/.claude?style=flat-square&color=yellow)](https://github.com/travisjneuman/.claude/stargazers) [![Forks](https://img.shields.io/github/forks/travisjneuman/.claude?style=flat-square&color=blue)](https://github.com/travisjneuman/.claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/travisjneuman/.claude?style=flat-square&color=yellow)](https://github.com/travisjneuman/.claude/stargazers) [![Forks](https://img.shields.io/github/forks/travisjneuman/.claude?style=flat-square&color=blue)](https://github.com/travisjneuman/.claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The Ultimate Claude Code Toolkit — 127 skills, 86 agents, 109 marketplace repos (11,700+ community skills), 30 commands, 8 hooks, GSD framework. Drop-in ~/.claude config that auto-activates the right resources from your prompt. Zero config required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Product
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ travisjneuman/.claude：travisjneuman/.claude helps remove repetitive manual ope
 | forks | 32/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

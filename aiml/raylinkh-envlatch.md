@@ -1,6 +1,6 @@
 # Raylinkh/envlatch
 
-[![Stars](https://img.shields.io/github/stars/Raylinkh/envlatch?style=flat-square&color=yellow)](https://github.com/Raylinkh/envlatch/stargazers) [![Forks](https://img.shields.io/github/forks/Raylinkh/envlatch?style=flat-square&color=blue)](https://github.com/Raylinkh/envlatch/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Raylinkh/envlatch?style=flat-square&color=yellow)](https://github.com/Raylinkh/envlatch/stargazers) [![Forks](https://img.shields.io/github/forks/Raylinkh/envlatch?style=flat-square&color=blue)](https://github.com/Raylinkh/envlatch/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A native macOS Keychain launcher for API keys used by local agents, SDKs, scripts, and backends.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Raylinkh/envlatch 在生产环境中有中等的可用性（Medium），适合�
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

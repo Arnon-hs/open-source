@@ -1,6 +1,6 @@
 # stablyai/agent-slack
 
-[![Stars](https://img.shields.io/github/stars/stablyai/agent-slack?style=flat-square&color=yellow)](https://github.com/stablyai/agent-slack/stargazers) [![Forks](https://img.shields.io/github/forks/stablyai/agent-slack?style=flat-square&color=blue)](https://github.com/stablyai/agent-slack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stablyai/agent-slack?style=flat-square&color=yellow)](https://github.com/stablyai/agent-slack/stargazers) [![Forks](https://img.shields.io/github/forks/stablyai/agent-slack?style=flat-square&color=blue)](https://github.com/stablyai/agent-slack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Slack automation CLI for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ stablyai/agent‑slack 是一个基于 TypeScript 的 Slack 自动化 CLI，能�
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

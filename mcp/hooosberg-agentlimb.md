@@ -1,6 +1,6 @@
 # hooosberg/AgentLimb
 
-[![Stars](https://img.shields.io/github/stars/hooosberg/AgentLimb?style=flat-square&color=yellow)](https://github.com/hooosberg/AgentLimb/stargazers) [![Forks](https://img.shields.io/github/forks/hooosberg/AgentLimb?style=flat-square&color=blue)](https://github.com/hooosberg/AgentLimb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hooosberg/AgentLimb?style=flat-square&color=yellow)](https://github.com/hooosberg/AgentLimb/stargazers) [![Forks](https://img.shields.io/github/forks/hooosberg/AgentLimb?style=flat-square&color=blue)](https://github.com/hooosberg/AgentLimb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Let any AI coding tool — Claude Code, Cursor, Codex — drive your real Chrome. One-prompt setup, muscle memory, local-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ hooosberg/AgentLimb 帮助连接 AI 助手到真实工具和数据中，提供�
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

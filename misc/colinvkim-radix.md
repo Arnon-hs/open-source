@@ -1,6 +1,6 @@
 # colinvkim/Radix
 
-[![Stars](https://img.shields.io/github/stars/colinvkim/Radix?style=flat-square&color=yellow)](https://github.com/colinvkim/Radix/stargazers) [![Forks](https://img.shields.io/github/forks/colinvkim/Radix?style=flat-square&color=blue)](https://github.com/colinvkim/Radix/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/colinvkim/Radix?style=flat-square&color=yellow)](https://github.com/colinvkim/Radix/stargazers) [![Forks](https://img.shields.io/github/forks/colinvkim/Radix?style=flat-square&color=blue)](https://github.com/colinvkim/Radix/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Modern, extremely fast macOS disk space analyzer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 559 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ colinvkim/Radix 是一款基于 Swift 开发的 macOS 磁盘空间分析工具�
 | forks | 29/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

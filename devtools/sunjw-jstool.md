@@ -1,6 +1,6 @@
 # sunjw/jstool
 
-[![Stars](https://img.shields.io/github/stars/sunjw/jstool?style=flat-square&color=yellow)](https://github.com/sunjw/jstool/stargazers) [![Forks](https://img.shields.io/github/forks/sunjw/jstool?style=flat-square&color=blue)](https://github.com/sunjw/jstool/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunjw/jstool?style=flat-square&color=yellow)](https://github.com/sunjw/jstool/stargazers) [![Forks](https://img.shields.io/github/forks/sunjw/jstool?style=flat-square&color=blue)](https://github.com/sunjw/jstool/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript (JSON) tool for Visual Studio Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ sunjw/jstool 是一款面向 Visual Studio Code 的 JavaScript/JSON 开发�
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

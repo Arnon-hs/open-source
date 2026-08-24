@@ -1,6 +1,6 @@
 # ytp101/kilovolt
 
-[![Stars](https://img.shields.io/github/stars/ytp101/kilovolt?style=flat-square&color=yellow)](https://github.com/ytp101/kilovolt/stargazers) [![Forks](https://img.shields.io/github/forks/ytp101/kilovolt?style=flat-square&color=blue)](https://github.com/ytp101/kilovolt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ytp101/kilovolt?style=flat-square&color=yellow)](https://github.com/ytp101/kilovolt/stargazers) [![Forks](https://img.shields.io/github/forks/ytp101/kilovolt?style=flat-square&color=blue)](https://github.com/ytp101/kilovolt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): How I Built a Zero-Copy Rust Proxy to Stop Runaway LLM API Bills (and Survived the Docker Loopback Trap)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevOps/Infra
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ The project is considered medium-ready for production. While it is useful for pr
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 53/100 |
-| quality | 40/100 |
-| recency | 80/100 |
+| outlook | 39/100 |
+| quality | 30/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 43/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

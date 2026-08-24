@@ -1,6 +1,6 @@
 # tink-crypto/tink-go
 
-[![Stars](https://img.shields.io/github/stars/tink-crypto/tink-go?style=flat-square&color=yellow)](https://github.com/tink-crypto/tink-go/stargazers) [![Forks](https://img.shields.io/github/forks/tink-crypto/tink-go?style=flat-square&color=blue)](https://github.com/tink-crypto/tink-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tink-crypto/tink-go?style=flat-square&color=yellow)](https://github.com/tink-crypto/tink-go/stargazers) [![Forks](https://img.shields.io/github/forks/tink-crypto/tink-go?style=flat-square&color=blue)](https://github.com/tink-crypto/tink-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Go implementation of Tink
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 272 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ tink-crypto/tink-go 的生产可用性为中等。它适合用于 prototyping �
 | forks | 36/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

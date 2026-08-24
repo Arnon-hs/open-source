@@ -1,6 +1,6 @@
 # inclusionAI/AReno
 
-[![Stars](https://img.shields.io/github/stars/inclusionAI/AReno?style=flat-square&color=yellow)](https://github.com/inclusionAI/AReno/stargazers) [![Forks](https://img.shields.io/github/forks/inclusionAI/AReno?style=flat-square&color=blue)](https://github.com/inclusionAI/AReno/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inclusionAI/AReno?style=flat-square&color=yellow)](https://github.com/inclusionAI/AReno/stargazers) [![Forks](https://img.shields.io/github/forks/inclusionAI/AReno?style=flat-square&color=blue)](https://github.com/inclusionAI/AReno/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An easy-to-use, fast toolkit to scale up RL post-training on a single node.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ inclusionAI/AReno 的生产可用性为中等。它适合用于 prototype 或内
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

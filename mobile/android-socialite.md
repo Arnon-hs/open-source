@@ -1,6 +1,6 @@
 # android/socialite
 
-[![Stars](https://img.shields.io/github/stars/android/socialite?style=flat-square&color=yellow)](https://github.com/android/socialite/stargazers) [![Forks](https://img.shields.io/github/forks/android/socialite?style=flat-square&color=blue)](https://github.com/android/socialite/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/android/socialite?style=flat-square&color=yellow)](https://github.com/android/socialite/stargazers) [![Forks](https://img.shields.io/github/forks/android/socialite?style=flat-square&color=blue)](https://github.com/android/socialite/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 707 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ android/socialite 是一个用 Kotlin 编写的 Android 库，旨在提供轻量
 | forks | 55/100 |
 | stars | 61/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

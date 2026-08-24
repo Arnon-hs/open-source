@@ -1,6 +1,6 @@
 # linear/linear
 
-[![Stars](https://img.shields.io/github/stars/linear/linear?style=flat-square&color=yellow)](https://github.com/linear/linear/stargazers) [![Forks](https://img.shields.io/github/forks/linear/linear?style=flat-square&color=blue)](https://github.com/linear/linear/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linear/linear?style=flat-square&color=yellow)](https://github.com/linear/linear/stargazers) [![Forks](https://img.shields.io/github/forks/linear/linear?style=flat-square&color=blue)](https://github.com/linear/linear/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Tools, SDK's and plugins for Linear
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ linear/linear 是为 Linear（项目管理与工单系统）提供的工具集�
 | forks | 60/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

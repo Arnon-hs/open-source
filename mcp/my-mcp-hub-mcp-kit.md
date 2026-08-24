@@ -1,6 +1,6 @@
 # my-mcp-hub/mcp-kit
 
-[![Stars](https://img.shields.io/github/stars/my-mcp-hub/mcp-kit?style=flat-square&color=yellow)](https://github.com/my-mcp-hub/mcp-kit/stargazers) [![Forks](https://img.shields.io/github/forks/my-mcp-hub/mcp-kit?style=flat-square&color=blue)](https://github.com/my-mcp-hub/mcp-kit/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/my-mcp-hub/mcp-kit?style=flat-square&color=yellow)](https://github.com/my-mcp-hub/mcp-kit/stargazers) [![Forks](https://img.shields.io/github/forks/my-mcp-hub/mcp-kit?style=flat-square&color=blue)](https://github.com/my-mcp-hub/mcp-kit/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool to create MCP (Model Context Protocol) applications with ease.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Handlebars |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ my-mcp-hub/mcp-kit是一个开源 CLI 工具，帮助开发人员轻松创建 Mo
 | forks | 12/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

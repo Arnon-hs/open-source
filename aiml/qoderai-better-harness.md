@@ -1,6 +1,6 @@
 # QoderAI/better-harness
 
-[![Stars](https://img.shields.io/github/stars/QoderAI/better-harness?style=flat-square&color=yellow)](https://github.com/QoderAI/better-harness/stargazers) [![Forks](https://img.shields.io/github/forks/QoderAI/better-harness?style=flat-square&color=blue)](https://github.com/QoderAI/better-harness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QoderAI/better-harness?style=flat-square&color=yellow)](https://github.com/QoderAI/better-harness/stargazers) [![Forks](https://img.shields.io/github/forks/QoderAI/better-harness?style=flat-square&color=blue)](https://github.com/QoderAI/better-harness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Help your coding agents (Claude Code, Codex, Qoder, Cursor, and other coding agents) get better at getting better.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ QoderAI/better-harness 的价值在于，它可以帮助开发者快速构建和
 | forks | 50/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ningbainb/deepseek-harness-desktop
 
-[![Stars](https://img.shields.io/github/stars/ningbainb/deepseek-harness-desktop?style=flat-square&color=yellow)](https://github.com/ningbainb/deepseek-harness-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/ningbainb/deepseek-harness-desktop?style=flat-square&color=blue)](https://github.com/ningbainb/deepseek-harness-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ningbainb/deepseek-harness-desktop?style=flat-square&color=yellow)](https://github.com/ningbainb/deepseek-harness-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/ningbainb/deepseek-harness-desktop?style=flat-square&color=blue)](https://github.com/ningbainb/deepseek-harness-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ DeepSeek Harness Desktop 在生产环境中已经证明了其可靠性和高效�
 | forks | 17/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # NovaCode37/Prism-platform
 
-[![Stars](https://img.shields.io/github/stars/NovaCode37/Prism-platform?style=flat-square&color=yellow)](https://github.com/NovaCode37/Prism-platform/stargazers) [![Forks](https://img.shields.io/github/forks/NovaCode37/Prism-platform?style=flat-square&color=blue)](https://github.com/NovaCode37/Prism-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NovaCode37/Prism-platform?style=flat-square&color=yellow)](https://github.com/NovaCode37/Prism-platform/stargazers) [![Forks](https://img.shields.io/github/forks/NovaCode37/Prism-platform?style=flat-square&color=blue)](https://github.com/NovaCode37/Prism-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one OSINT platform — 22+ modules, AI analysis, real-time dashboard, OPSEC scoring. Scan domains, IPs, emails, phones, usernames.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Database · DevOps/Infra
+AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ NovaCode37/Prism-platform 的生产可用性较高，最近有活动，采用度
 | forks | 45/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

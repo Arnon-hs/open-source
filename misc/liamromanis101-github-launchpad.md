@@ -1,6 +1,6 @@
 # liamromanis101/github-launchpad
 
-[![Stars](https://img.shields.io/github/stars/liamromanis101/github-launchpad?style=flat-square&color=yellow)](https://github.com/liamromanis101/github-launchpad/stargazers) [![Forks](https://img.shields.io/github/forks/liamromanis101/github-launchpad?style=flat-square&color=blue)](https://github.com/liamromanis101/github-launchpad/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liamromanis101/github-launchpad?style=flat-square&color=yellow)](https://github.com/liamromanis101/github-launchpad/stargazers) [![Forks](https://img.shields.io/github/forks/liamromanis101/github-launchpad?style=flat-square&color=blue)](https://github.com/liamromanis101/github-launchpad/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag github): GitHub Already Has More Engagement Than LinkedIn. It Should Do Something About It.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-05-18 |
+| 📈 **Score** | 30/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ GitHub 已经拥有比 LinkedIn 更高的用户互动度，但目前缺乏相应
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 29/100 |
+| quality | 25/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 32/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

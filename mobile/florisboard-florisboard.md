@@ -1,6 +1,6 @@
 # florisboard/florisboard
 
-[![Stars](https://img.shields.io/github/stars/florisboard/florisboard?style=flat-square&color=yellow)](https://github.com/florisboard/florisboard/stargazers) [![Forks](https://img.shields.io/github/forks/florisboard/florisboard?style=flat-square&color=blue)](https://github.com/florisboard/florisboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/florisboard/florisboard?style=flat-square&color=yellow)](https://github.com/florisboard/florisboard/stargazers) [![Forks](https://img.shields.io/github/forks/florisboard/florisboard?style=flat-square&color=blue)](https://github.com/florisboard/florisboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source keyboard for Android which respects your privacy. Currently in beta.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 670 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ Florisboard对于一个开源项目而言具有较高的生产可用性。它最
 | forks | 71/100 |
 | stars | 84/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

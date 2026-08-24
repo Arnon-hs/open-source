@@ -1,6 +1,6 @@
 # wikeeyang/Flux2-Klein-9B-True-V2
 
-[![Stars](https://img.shields.io/github/stars/wikeeyang/Flux2-Klein-9B-True-V2?style=flat-square&color=yellow)](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2/stargazers) [![Forks](https://img.shields.io/github/forks/wikeeyang/Flux2-Klein-9B-True-V2?style=flat-square&color=blue)](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wikeeyang/Flux2-Klein-9B-True-V2?style=flat-square&color=yellow)](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2/stargazers) [![Forks](https://img.shields.io/github/forks/wikeeyang/Flux2-Klein-9B-True-V2?style=flat-square&color=blue)](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2/network) [![Language](https://img.shields.io/badge/lang-diffusers-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Popular open model for Image generation (text-to-image) on Hugging Face.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ The project is currently considered "Early or unclear" in terms of production re
 | forks | 0/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 49/100 |
-| quality | 47/100 |
-| recency | 60/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 50/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

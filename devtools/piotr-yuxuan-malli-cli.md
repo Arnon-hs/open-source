@@ -1,6 +1,6 @@
 # piotr-yuxuan/malli-cli
 
-[![Stars](https://img.shields.io/github/stars/piotr-yuxuan/malli-cli?style=flat-square&color=yellow)](https://github.com/piotr-yuxuan/malli-cli/stargazers) [![Forks](https://img.shields.io/github/forks/piotr-yuxuan/malli-cli?style=flat-square&color=blue)](https://github.com/piotr-yuxuan/malli-cli/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/piotr-yuxuan/malli-cli?style=flat-square&color=yellow)](https://github.com/piotr-yuxuan/malli-cli/stargazers) [![Forks](https://img.shields.io/github/forks/piotr-yuxuan/malli-cli?style=flat-square&color=blue)](https://github.com/piotr-yuxuan/malli-cli/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Configuration powertool with `metosin/malli`
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Overall, Malli‑CLI can be adopted quickly to boost developer productivity, pro
 | forks | 17/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

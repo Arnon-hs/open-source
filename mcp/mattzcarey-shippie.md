@@ -1,6 +1,6 @@
 # mattzcarey/shippie
 
-[![Stars](https://img.shields.io/github/stars/mattzcarey/shippie?style=flat-square&color=yellow)](https://github.com/mattzcarey/shippie/stargazers) [![Forks](https://img.shields.io/github/forks/mattzcarey/shippie?style=flat-square&color=blue)](https://github.com/mattzcarey/shippie/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattzcarey/shippie?style=flat-square&color=yellow)](https://github.com/mattzcarey/shippie/stargazers) [![Forks](https://img.shields.io/github/forks/mattzcarey/shippie?style=flat-square&color=blue)](https://github.com/mattzcarey/shippie/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > extendable code review and QA agent 🚢
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ mattzcarey/shippie：mattzcarey/shippie helps connect AI assistants to real tool
 | forks | 60/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lingyuanli/MultiGen
 
-[![Stars](https://img.shields.io/github/stars/lingyuanli/MultiGen?style=flat-square&color=yellow)](https://github.com/lingyuanli/MultiGen/stargazers) [![Forks](https://img.shields.io/github/forks/lingyuanli/MultiGen?style=flat-square&color=blue)](https://github.com/lingyuanli/MultiGen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lingyuanli/MultiGen?style=flat-square&color=yellow)](https://github.com/lingyuanli/MultiGen/stargazers) [![Forks](https://img.shields.io/github/forks/lingyuanli/MultiGen?style=flat-square&color=blue)](https://github.com/lingyuanli/MultiGen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent end-to-end application - General-purpose artificial intelligence agent for multimodal agent collaboration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 465 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevOps/Infra
+Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ MultiGen 的生产可用性很高，受到了强烈的采用和生态系统支�
 | forks | 8/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

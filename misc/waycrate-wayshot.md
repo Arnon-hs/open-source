@@ -1,6 +1,6 @@
 # waycrate/wayshot
 
-[![Stars](https://img.shields.io/github/stars/waycrate/wayshot?style=flat-square&color=yellow)](https://github.com/waycrate/wayshot/stargazers) [![Forks](https://img.shields.io/github/forks/waycrate/wayshot?style=flat-square&color=blue)](https://github.com/waycrate/wayshot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waycrate/wayshot?style=flat-square&color=yellow)](https://github.com/waycrate/wayshot/stargazers) [![Forks](https://img.shields.io/github/forks/waycrate/wayshot?style=flat-square&color=blue)](https://github.com/waycrate/wayshot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > screenshot tool for wayland compositors.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Waycrate/wayshot 是一款基于 Rust 开发的 Wayland 截图工具，专为 Wa
 | forks | 42/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

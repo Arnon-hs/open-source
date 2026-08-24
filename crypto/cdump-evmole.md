@@ -1,6 +1,6 @@
 # cdump/evmole
 
-[![Stars](https://img.shields.io/github/stars/cdump/evmole?style=flat-square&color=yellow)](https://github.com/cdump/evmole/stargazers) [![Forks](https://img.shields.io/github/forks/cdump/evmole?style=flat-square&color=blue)](https://github.com/cdump/evmole/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cdump/evmole?style=flat-square&color=yellow)](https://github.com/cdump/evmole/stargazers) [![Forks](https://img.shields.io/github/forks/cdump/evmole?style=flat-square&color=blue)](https://github.com/cdump/evmole/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 451 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Knowledge/RAG · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ cdump/evmole 的生产可用性评估为中等（Medium）。它适合用于原�
 | forks | 37/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

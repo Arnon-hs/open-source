@@ -1,6 +1,6 @@
 # Bomx/distribb-skill
 
-[![Stars](https://img.shields.io/github/stars/Bomx/distribb-skill?style=flat-square&color=yellow)](https://github.com/Bomx/distribb-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Bomx/distribb-skill?style=flat-square&color=blue)](https://github.com/Bomx/distribb-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bomx/distribb-skill?style=flat-square&color=yellow)](https://github.com/Bomx/distribb-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Bomx/distribb-skill?style=flat-square&color=blue)](https://github.com/Bomx/distribb-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Distribb CLI, Claude, Codex, Hermes, OpenClaw skill for AI-powered SEO. Write content with your own AI, publish through Distribb's backlink network.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Bomx/distribb-skill 的生产可用性很高，因为它有：
 | forks | 32/100 |
 | stars | 45/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

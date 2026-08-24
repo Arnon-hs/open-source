@@ -1,6 +1,6 @@
 # psyb0t/docker-stealthy-auto-browse
 
-[![Stars](https://img.shields.io/github/stars/psyb0t/docker-stealthy-auto-browse?style=flat-square&color=yellow)](https://github.com/psyb0t/docker-stealthy-auto-browse/stargazers) [![Forks](https://img.shields.io/github/forks/psyb0t/docker-stealthy-auto-browse?style=flat-square&color=blue)](https://github.com/psyb0t/docker-stealthy-auto-browse/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psyb0t/docker-stealthy-auto-browse?style=flat-square&color=yellow)](https://github.com/psyb0t/docker-stealthy-auto-browse/stargazers) [![Forks](https://img.shields.io/github/forks/psyb0t/docker-stealthy-auto-browse?style=flat-square&color=blue)](https://github.com/psyb0t/docker-stealthy-auto-browse/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ psyb0t/docker‑stealthy‑auto‑browse 是一款可在 Docker 中运行的“�
 | forks | 26/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

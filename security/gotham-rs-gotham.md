@@ -1,6 +1,6 @@
 # gotham-rs/gotham
 
-[![Stars](https://img.shields.io/github/stars/gotham-rs/gotham?style=flat-square&color=yellow)](https://github.com/gotham-rs/gotham/stargazers) [![Forks](https://img.shields.io/github/forks/gotham-rs/gotham?style=flat-square&color=blue)](https://github.com/gotham-rs/gotham/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gotham-rs/gotham?style=flat-square&color=yellow)](https://github.com/gotham-rs/gotham/stargazers) [![Forks](https://img.shields.io/github/forks/gotham-rs/gotham?style=flat-square&color=blue)](https://github.com/gotham-rs/gotham/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A flexible web framework that promotes stability, safety, security and speed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Security · Education
+Security
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ gotham-rs/gotham 的生产可用性评分为高（High），主要是因为:
 | forks | 53/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

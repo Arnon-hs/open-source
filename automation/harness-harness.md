@@ -1,6 +1,6 @@
 # harness/harness
 
-[![Stars](https://img.shields.io/github/stars/harness/harness?style=flat-square&color=yellow)](https://github.com/harness/harness/stargazers) [![Forks](https://img.shields.io/github/forks/harness/harness?style=flat-square&color=blue)](https://github.com/harness/harness/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harness/harness?style=flat-square&color=yellow)](https://github.com/harness/harness/stargazers) [![Forks](https://img.shields.io/github/forks/harness/harness?style=flat-square&color=blue)](https://github.com/harness/harness/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37.3k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevTools · Database · DevOps/Infra
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ Harness Open Source具有高生产可用性，主要原因包括：
 | forks | 88/100 |
 | stars | 97/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

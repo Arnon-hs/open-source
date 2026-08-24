@@ -1,6 +1,6 @@
 # patsnap/patent-literature-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/patsnap/patent-literature-search-mcp?style=flat-square&color=yellow)](https://github.com/patsnap/patent-literature-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patsnap/patent-literature-search-mcp?style=flat-square&color=blue)](https://github.com/patsnap/patent-literature-search-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patsnap/patent-literature-search-mcp?style=flat-square&color=yellow)](https://github.com/patsnap/patent-literature-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patsnap/patent-literature-search-mcp?style=flat-square&color=blue)](https://github.com/patsnap/patent-literature-search-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Data
+MCP · Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ patsnap/patent-literature-search-mcp 的主要价值在于，它可以连接 AI 
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

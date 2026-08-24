@@ -1,6 +1,6 @@
 # heyman/heynote
 
-[![Stars](https://img.shields.io/github/stars/heyman/heynote?style=flat-square&color=yellow)](https://github.com/heyman/heynote/stargazers) [![Forks](https://img.shields.io/github/forks/heyman/heynote?style=flat-square&color=blue)](https://github.com/heyman/heynote/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heyman/heynote?style=flat-square&color=yellow)](https://github.com/heyman/heynote/stargazers) [![Forks](https://img.shields.io/github/forks/heyman/heynote?style=flat-square&color=blue)](https://github.com/heyman/heynote/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A dedicated scratchpad for power users
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Heyman/heynote 是面向技术大牛的本地速记本（scratchpad），帮助�
 | forks | 61/100 |
 | stars | 79/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

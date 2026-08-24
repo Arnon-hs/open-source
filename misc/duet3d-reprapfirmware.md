@@ -1,6 +1,6 @@
 # Duet3D/RepRapFirmware
 
-[![Stars](https://img.shields.io/github/stars/Duet3D/RepRapFirmware?style=flat-square&color=yellow)](https://github.com/Duet3D/RepRapFirmware/stargazers) [![Forks](https://img.shields.io/github/forks/Duet3D/RepRapFirmware?style=flat-square&color=blue)](https://github.com/Duet3D/RepRapFirmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Duet3D/RepRapFirmware?style=flat-square&color=yellow)](https://github.com/Duet3D/RepRapFirmware/stargazers) [![Forks](https://img.shields.io/github/forks/Duet3D/RepRapFirmware?style=flat-square&color=blue)](https://github.com/Duet3D/RepRapFirmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > OO C++ RepRap Firmware
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 584 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Duet3D/RepRapFirmware 是一个开源的 C++ 印刷机固件，主要用于 RepR
 | forks | 69/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

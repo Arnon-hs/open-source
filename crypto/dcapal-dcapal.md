@@ -1,6 +1,6 @@
 # dcapal/dcapal
 
-[![Stars](https://img.shields.io/github/stars/dcapal/dcapal?style=flat-square&color=yellow)](https://github.com/dcapal/dcapal/stargazers) [![Forks](https://img.shields.io/github/forks/dcapal/dcapal?style=flat-square&color=blue)](https://github.com/dcapal/dcapal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dcapal/dcapal?style=flat-square&color=yellow)](https://github.com/dcapal/dcapal/stargazers) [![Forks](https://img.shields.io/github/forks/dcapal/dcapal?style=flat-square&color=blue)](https://github.com/dcapal/dcapal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Knowledge/RAG · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ dcapal/dcapal：dcapal/dcapal helps prototype or inspect blockchain workflows wi
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

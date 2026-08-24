@@ -1,6 +1,6 @@
 # ngrok/ngrok-python
 
-[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-python?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-python/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-python?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-python/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-python?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-python/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-python?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-python/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Embed ngrok secure ingress into your Python apps with a single line of code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ ngrok.kill()
 | forks | 41/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bleak-ai/gcontext
 
-[![Stars](https://img.shields.io/github/stars/bleak-ai/gcontext?style=flat-square&color=yellow)](https://github.com/bleak-ai/gcontext/stargazers) [![Forks](https://img.shields.io/github/forks/bleak-ai/gcontext?style=flat-square&color=blue)](https://github.com/bleak-ai/gcontext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bleak-ai/gcontext?style=flat-square&color=yellow)](https://github.com/bleak-ai/gcontext/stargazers) [![Forks](https://img.shields.io/github/forks/bleak-ai/gcontext?style=flat-square&color=blue)](https://github.com/bleak-ai/gcontext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The framework for building stateful agents. Your agent is a folder of state, served over MCP, used from any runtime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ bleak-ai/gcontext 具有高生产可用性，尤其是考虑到其最近的活�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

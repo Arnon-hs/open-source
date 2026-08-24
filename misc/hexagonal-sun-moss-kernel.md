@@ -1,6 +1,6 @@
 # hexagonal-sun/moss-kernel
 
-[![Stars](https://img.shields.io/github/stars/hexagonal-sun/moss-kernel?style=flat-square&color=yellow)](https://github.com/hexagonal-sun/moss-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/hexagonal-sun/moss-kernel?style=flat-square&color=blue)](https://github.com/hexagonal-sun/moss-kernel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexagonal-sun/moss-kernel?style=flat-square&color=yellow)](https://github.com/hexagonal-sun/moss-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/hexagonal-sun/moss-kernel?style=flat-square&color=blue)](https://github.com/hexagonal-sun/moss-kernel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Linux-compatible kernel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ hexagonal‑sun/moss‑kernel 是用 Rust 编写的、兼容 Linux 的实验性�
 | forks | 48/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tugcantopaloglu/godot-mcp
 
-[![Stars](https://img.shields.io/github/stars/tugcantopaloglu/godot-mcp?style=flat-square&color=yellow)](https://github.com/tugcantopaloglu/godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tugcantopaloglu/godot-mcp?style=flat-square&color=blue)](https://github.com/tugcantopaloglu/godot-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tugcantopaloglu/godot-mcp?style=flat-square&color=yellow)](https://github.com/tugcantopaloglu/godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tugcantopaloglu/godot-mcp?style=flat-square&color=blue)](https://github.com/tugcantopaloglu/godot-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for full Godot 4.x engine control — 149 tools for AI-driven game development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ tugcantopaloglu/godot-mcp 帮助连接AI助手到实体工具和数据，通过�
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

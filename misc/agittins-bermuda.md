@@ -1,6 +1,6 @@
 # agittins/bermuda
 
-[![Stars](https://img.shields.io/github/stars/agittins/bermuda?style=flat-square&color=yellow)](https://github.com/agittins/bermuda/stargazers) [![Forks](https://img.shields.io/github/forks/agittins/bermuda?style=flat-square&color=blue)](https://github.com/agittins/bermuda/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agittins/bermuda?style=flat-square&color=yellow)](https://github.com/agittins/bermuda/stargazers) [![Forks](https://img.shields.io/github/forks/agittins/bermuda?style=flat-square&color=blue)](https://github.com/agittins/bermuda/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Bermuda（agittins/bermuda）是一款基于 Python 的开源库，提供 Blueto
 | forks | 44/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

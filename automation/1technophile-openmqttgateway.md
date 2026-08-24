@@ -1,6 +1,6 @@
 # 1technophile/OpenMQTTGateway
 
-[![Stars](https://img.shields.io/github/stars/1technophile/OpenMQTTGateway?style=flat-square&color=yellow)](https://github.com/1technophile/OpenMQTTGateway/stargazers) [![Forks](https://img.shields.io/github/forks/1technophile/OpenMQTTGateway?style=flat-square&color=blue)](https://github.com/1technophile/OpenMQTTGateway/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1technophile/OpenMQTTGateway?style=flat-square&color=yellow)](https://github.com/1technophile/OpenMQTTGateway/stargazers) [![Forks](https://img.shields.io/github/forks/1technophile/OpenMQTTGateway?style=flat-square&color=blue)](https://github.com/1technophile/OpenMQTTGateway/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility & LoRa.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 895 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Database · DevOps/Infra
+Automation
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Automation · Frontend · Database · DevOps/Infra
 | forks | 74/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ethereum-lists/chains
 
-[![Stars](https://img.shields.io/github/stars/ethereum-lists/chains?style=flat-square&color=yellow)](https://github.com/ethereum-lists/chains/stargazers) [![Forks](https://img.shields.io/github/forks/ethereum-lists/chains?style=flat-square&color=blue)](https://github.com/ethereum-lists/chains/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethereum-lists/chains?style=flat-square&color=yellow)](https://github.com/ethereum-lists/chains/stargazers) [![Forks](https://img.shields.io/github/forks/ethereum-lists/chains?style=flat-square&color=blue)](https://github.com/ethereum-lists/chains/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > provides metadata for chains
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 8.1k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Data
+Crypto
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ ethereum-lists/chains 是一个开源项目，提供链条的元数据。它帮�
 | forks | 98/100 |
 | stars | 85/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 89/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

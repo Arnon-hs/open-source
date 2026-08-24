@@ -1,6 +1,6 @@
 # VioletCranberry/coco-search
 
-[![Stars](https://img.shields.io/github/stars/VioletCranberry/coco-search?style=flat-square&color=yellow)](https://github.com/VioletCranberry/coco-search/stargazers) [![Forks](https://img.shields.io/github/forks/VioletCranberry/coco-search?style=flat-square&color=blue)](https://github.com/VioletCranberry/coco-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VioletCranberry/coco-search?style=flat-square&color=yellow)](https://github.com/VioletCranberry/coco-search/stargazers) [![Forks](https://img.shields.io/github/forks/VioletCranberry/coco-search?style=flat-square&color=blue)](https://github.com/VioletCranberry/coco-search/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first hybrid semantic code search tool. Indexes codebases into PostgreSQL with pgvector embeddings via Ollama, combines vector similarity + keyword   search with RRF fusion. Supports 30+ languages. Features CLI, MCP server, WEB dashboard and interactive REPL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ VioletCranberry/coco-search 帮助连接 AI 代理到真实的工具和数据通
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

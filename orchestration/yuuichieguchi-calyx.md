@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ yuuichieguchi/Calyx：yuuichieguchi/Calyx helps turn isolated prompts and tools 
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

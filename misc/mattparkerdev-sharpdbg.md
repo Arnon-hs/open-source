@@ -1,6 +1,6 @@
 # MattParkerDev/sharpdbg
 
-[![Stars](https://img.shields.io/github/stars/MattParkerDev/sharpdbg?style=flat-square&color=yellow)](https://github.com/MattParkerDev/sharpdbg/stargazers) [![Forks](https://img.shields.io/github/forks/MattParkerDev/sharpdbg?style=flat-square&color=blue)](https://github.com/MattParkerDev/sharpdbg/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MattParkerDev/sharpdbg?style=flat-square&color=yellow)](https://github.com/MattParkerDev/sharpdbg/stargazers) [![Forks](https://img.shields.io/github/forks/MattParkerDev/sharpdbg?style=flat-square&color=blue)](https://github.com/MattParkerDev/sharpdbg/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > SharpDbg is a .NET managed code debugger supporting the Debug Adapter Protocol, implemented completely in C#/.NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ SharpDbg 的生产可用性为中等。虽然它可以用于内部工作流和�
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

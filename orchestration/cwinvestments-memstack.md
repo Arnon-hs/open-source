@@ -1,6 +1,6 @@
 # cwinvestments/memstack
 
-[![Stars](https://img.shields.io/github/stars/cwinvestments/memstack?style=flat-square&color=yellow)](https://github.com/cwinvestments/memstack/stargazers) [![Forks](https://img.shields.io/github/forks/cwinvestments/memstack?style=flat-square&color=blue)](https://github.com/cwinvestments/memstack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cwinvestments/memstack?style=flat-square&color=yellow)](https://github.com/cwinvestments/memstack/stargazers) [![Forks](https://img.shields.io/github/forks/cwinvestments/memstack?style=flat-square&color=blue)](https://github.com/cwinvestments/memstack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Structured skill framework for Claude Code | 128 skills, localhost dashboard with 3-agent orchestration, real-time streaming, MCP tools management, session memory, and project handoffs via markdown-based skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ cwinvestments/memstack：cwinvestments/memstack helps turn isolated prompts and 
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

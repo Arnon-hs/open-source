@@ -1,6 +1,6 @@
 # ThatOneCalculator/NerdFetch
 
-[![Stars](https://img.shields.io/github/stars/ThatOneCalculator/NerdFetch?style=flat-square&color=yellow)](https://github.com/ThatOneCalculator/NerdFetch/stargazers) [![Forks](https://img.shields.io/github/forks/ThatOneCalculator/NerdFetch?style=flat-square&color=blue)](https://github.com/ThatOneCalculator/NerdFetch/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThatOneCalculator/NerdFetch?style=flat-square&color=yellow)](https://github.com/ThatOneCalculator/NerdFetch/stargazers) [![Forks](https://img.shields.io/github/forks/ThatOneCalculator/NerdFetch?style=flat-square&color=blue)](https://github.com/ThatOneCalculator/NerdFetch/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A POSIX *nix fetch script using Nerdfonts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 644 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database · Mobile
+DevTools · Mobile
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ ThatOneCalculator/NerdFetch 的生产可用性较高，理由如下：
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

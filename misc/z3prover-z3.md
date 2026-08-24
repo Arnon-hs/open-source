@@ -1,6 +1,6 @@
 # Z3Prover/z3
 
-[![Stars](https://img.shields.io/github/stars/Z3Prover/z3?style=flat-square&color=yellow)](https://github.com/Z3Prover/z3/stargazers) [![Forks](https://img.shields.io/github/forks/Z3Prover/z3?style=flat-square&color=blue)](https://github.com/Z3Prover/z3/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Z3Prover/z3?style=flat-square&color=yellow)](https://github.com/Z3Prover/z3/stargazers) [![Forks](https://img.shields.io/github/forks/Z3Prover/z3?style=flat-square&color=blue)](https://github.com/Z3Prover/z3/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Z3 Theorem Prover
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Z3 的生产可用性为中等。它可以用于快速原型开发和内部流�
 | forks | 81/100 |
 | stars | 87/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 85/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

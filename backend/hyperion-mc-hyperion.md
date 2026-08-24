@@ -1,6 +1,6 @@
 # hyperion-mc/hyperion
 
-[![Stars](https://img.shields.io/github/stars/hyperion-mc/hyperion?style=flat-square&color=yellow)](https://github.com/hyperion-mc/hyperion/stargazers) [![Forks](https://img.shields.io/github/forks/hyperion-mc/hyperion?style=flat-square&color=blue)](https://github.com/hyperion-mc/hyperion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperion-mc/hyperion?style=flat-square&color=yellow)](https://github.com/hyperion-mc/hyperion/stargazers) [![Forks](https://img.shields.io/github/forks/hyperion-mc/hyperion?style=flat-square&color=blue)](https://github.com/hyperion-mc/hyperion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Minecraft game engine for massive custom events
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ hyperion-mc/hyperion的生产可用性为中等（Medium）。它适合用于原
 | forks | 39/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

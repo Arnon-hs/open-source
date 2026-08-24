@@ -1,6 +1,6 @@
 # soulfiremc-com/SoulFire
 
-[![Stars](https://img.shields.io/github/stars/soulfiremc-com/SoulFire?style=flat-square&color=yellow)](https://github.com/soulfiremc-com/SoulFire/stargazers) [![Forks](https://img.shields.io/github/forks/soulfiremc-com/SoulFire?style=flat-square&color=blue)](https://github.com/soulfiremc-com/SoulFire/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soulfiremc-com/SoulFire?style=flat-square&color=yellow)](https://github.com/soulfiremc-com/SoulFire/stargazers) [![Forks](https://img.shields.io/github/forks/soulfiremc-com/SoulFire?style=flat-square&color=blue)](https://github.com/soulfiremc-com/SoulFire/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🧙 Advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ SoulFire（soulfiremc-com/SoulFire）是一款基于 Java 的高级 Minecraft �
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

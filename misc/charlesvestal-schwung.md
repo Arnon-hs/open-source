@@ -1,6 +1,6 @@
 # charlesvestal/schwung
 
-[![Stars](https://img.shields.io/github/stars/charlesvestal/schwung?style=flat-square&color=yellow)](https://github.com/charlesvestal/schwung/stargazers) [![Forks](https://img.shields.io/github/forks/charlesvestal/schwung?style=flat-square&color=blue)](https://github.com/charlesvestal/schwung/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charlesvestal/schwung?style=flat-square&color=yellow)](https://github.com/charlesvestal/schwung/stargazers) [![Forks](https://img.shields.io/github/forks/charlesvestal/schwung?style=flat-square&color=blue)](https://github.com/charlesvestal/schwung/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An open framework for additional synths, FX and tools for the Ableton Move
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Misc
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 68/100 |
+| production | 41/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # yoda-digital/mcp-gitlab-server
 
-[![Stars](https://img.shields.io/github/stars/yoda-digital/mcp-gitlab-server?style=flat-square&color=yellow)](https://github.com/yoda-digital/mcp-gitlab-server/stargazers) [![Forks](https://img.shields.io/github/forks/yoda-digital/mcp-gitlab-server?style=flat-square&color=blue)](https://github.com/yoda-digital/mcp-gitlab-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yoda-digital/mcp-gitlab-server?style=flat-square&color=yellow)](https://github.com/yoda-digital/mcp-gitlab-server/stargazers) [![Forks](https://img.shields.io/github/forks/yoda-digital/mcp-gitlab-server?style=flat-square&color=blue)](https://github.com/yoda-digital/mcp-gitlab-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade GitLab MCP server with 86 tools — full GitLab control from any AI agent (Claude, Cursor, Zed).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Product
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -85,14 +85,15 @@ yoda-digital/mcp-gitlab-server 是一个开源项目，提供了一个生产级�
 | forks | 34/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

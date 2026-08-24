@@ -1,6 +1,6 @@
 # olemeyer/rocketplaneIO
 
-[![Stars](https://img.shields.io/github/stars/olemeyer/rocketplaneIO?style=flat-square&color=yellow)](https://github.com/olemeyer/rocketplaneIO/stargazers) [![Forks](https://img.shields.io/github/forks/olemeyer/rocketplaneIO?style=flat-square&color=blue)](https://github.com/olemeyer/rocketplaneIO/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olemeyer/rocketplaneIO?style=flat-square&color=yellow)](https://github.com/olemeyer/rocketplaneIO/stargazers) [![Forks](https://img.shields.io/github/forks/olemeyer/rocketplaneIO?style=flat-square&color=blue)](https://github.com/olemeyer/rocketplaneIO/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Observability · DevOps/Infra
+AI/ML · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ olemeyer/rocketplaneIO 的价值在于，它可以帮助开发者在不从零开
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

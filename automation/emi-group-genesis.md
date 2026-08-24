@@ -1,6 +1,6 @@
 # EMI-Group/genesis
 
-[![Stars](https://img.shields.io/github/stars/EMI-Group/genesis?style=flat-square&color=yellow)](https://github.com/EMI-Group/genesis/stargazers) [![Forks](https://img.shields.io/github/forks/EMI-Group/genesis?style=flat-square&color=blue)](https://github.com/EMI-Group/genesis/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EMI-Group/genesis?style=flat-square&color=yellow)](https://github.com/EMI-Group/genesis/stargazers) [![Forks](https://img.shields.io/github/forks/EMI-Group/genesis?style=flat-square&color=blue)](https://github.com/EMI-Group/genesis/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > EvoX Genesis is an autonomous system for long-horizon software evolution that recursively builds, continues, and transforms complex software from high-level objectives.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Database
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ EvoX Genesis 的生产可用性为中等，适合用于原型或内部工作流�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

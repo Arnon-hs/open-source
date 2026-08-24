@@ -1,6 +1,6 @@
 # Smaug6739/Alexandrie
 
-[![Stars](https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=flat-square&color=yellow)](https://github.com/Smaug6739/Alexandrie/stargazers) [![Forks](https://img.shields.io/github/forks/Smaug6739/Alexandrie?style=flat-square&color=blue)](https://github.com/Smaug6739/Alexandrie/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=flat-square&color=yellow)](https://github.com/Smaug6739/Alexandrie/stargazers) [![Forks](https://img.shields.io/github/forks/Smaug6739/Alexandrie?style=flat-square&color=blue)](https://github.com/Smaug6739/Alexandrie/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Alexandrie 已经获得了 1909 个 GitHub 星和 117 个分支，最近更新�
 | forks | 52/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

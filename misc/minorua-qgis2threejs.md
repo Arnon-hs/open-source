@@ -1,6 +1,6 @@
 # minorua/Qgis2threejs
 
-[![Stars](https://img.shields.io/github/stars/minorua/Qgis2threejs?style=flat-square&color=yellow)](https://github.com/minorua/Qgis2threejs/stargazers) [![Forks](https://img.shields.io/github/forks/minorua/Qgis2threejs?style=flat-square&color=blue)](https://github.com/minorua/Qgis2threejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minorua/Qgis2threejs?style=flat-square&color=yellow)](https://github.com/minorua/Qgis2threejs/stargazers) [![Forks](https://img.shields.io/github/forks/minorua/Qgis2threejs?style=flat-square&color=blue)](https://github.com/minorua/Qgis2threejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 3D map visualization and web export plugin for QGIS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 591 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Qgis2threejs is an open‑source QGIS plugin that transforms vector and raster l
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

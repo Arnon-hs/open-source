@@ -1,6 +1,6 @@
 # LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator
 
-[![Stars](https://img.shields.io/github/stars/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator?style=flat-square&color=yellow)](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator?style=flat-square&color=blue)](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator?style=flat-square&color=yellow)](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator/stargazers) [![Forks](https://img.shields.io/github/forks/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator?style=flat-square&color=blue)](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Character Generator based on Universal-LPC-Spritesheet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 561 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator 基于 Universal
 | forks | 69/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

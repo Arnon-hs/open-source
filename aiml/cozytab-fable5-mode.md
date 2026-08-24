@@ -1,6 +1,6 @@
 # cozytab/fable5-mode
 
-[![Stars](https://img.shields.io/github/stars/cozytab/fable5-mode?style=flat-square&color=yellow)](https://github.com/cozytab/fable5-mode/stargazers) [![Forks](https://img.shields.io/github/forks/cozytab/fable5-mode?style=flat-square&color=blue)](https://github.com/cozytab/fable5-mode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cozytab/fable5-mode?style=flat-square&color=yellow)](https://github.com/cozytab/fable5-mode/stargazers) [![Forks](https://img.shields.io/github/forks/cozytab/fable5-mode?style=flat-square&color=blue)](https://github.com/cozytab/fable5-mode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ cozytab/fable5-mode 帮助添加 AI 能力而不需要从零开始构建模型�
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

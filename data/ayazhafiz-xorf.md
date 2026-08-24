@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ayazhafiz/xorf：ayazhafiz/xorf helps convert raw data into searchable, analyzab
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xianyu-sheng/Xenon
 
-[![Stars](https://img.shields.io/github/stars/xianyu-sheng/Xenon?style=flat-square&color=yellow)](https://github.com/xianyu-sheng/Xenon/stargazers) [![Forks](https://img.shields.io/github/forks/xianyu-sheng/Xenon?style=flat-square&color=blue)](https://github.com/xianyu-sheng/Xenon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xianyu-sheng/Xenon?style=flat-square&color=yellow)](https://github.com/xianyu-sheng/Xenon/stargazers) [![Forks](https://img.shields.io/github/forks/xianyu-sheng/Xenon?style=flat-square&color=blue)](https://github.com/xianyu-sheng/Xenon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心，SWE-bench_Lite 官方评测 36.7% 实例级通过率（可复现报告）。支持 7 种推理范式、MCP 工具、多模型。Python。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Xenon 的生产可用性非常高，具有以下特点：
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

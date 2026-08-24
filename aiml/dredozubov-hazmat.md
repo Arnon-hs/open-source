@@ -1,6 +1,6 @@
 # dredozubov/hazmat
 
-[![Stars](https://img.shields.io/github/stars/dredozubov/hazmat?style=flat-square&color=yellow)](https://github.com/dredozubov/hazmat/stargazers) [![Forks](https://img.shields.io/github/forks/dredozubov/hazmat?style=flat-square&color=blue)](https://github.com/dredozubov/hazmat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dredozubov/hazmat?style=flat-square&color=yellow)](https://github.com/dredozubov/hazmat/stargazers) [![Forks](https://img.shields.io/github/forks/dredozubov/hazmat?style=flat-square&color=blue)](https://github.com/dredozubov/hazmat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > macOS containment for AI agents — user isolation, kernel sandbox, pf firewall, DNS blocklist, backup/rollback. TLA+ verified.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database · Security
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ dredozubov/hazmat 是一套在 macOS 上为 AI 代理提供完整隔离的安全
 | forks | 15/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

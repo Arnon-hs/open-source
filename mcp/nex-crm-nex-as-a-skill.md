@@ -1,6 +1,6 @@
 # nex-crm/nex-as-a-skill
 
-[![Stars](https://img.shields.io/github/stars/nex-crm/nex-as-a-skill?style=flat-square&color=yellow)](https://github.com/nex-crm/nex-as-a-skill/stargazers) [![Forks](https://img.shields.io/github/forks/nex-crm/nex-as-a-skill?style=flat-square&color=blue)](https://github.com/nex-crm/nex-as-a-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nex-crm/nex-as-a-skill?style=flat-square&color=yellow)](https://github.com/nex-crm/nex-as-a-skill/stargazers) [![Forks](https://img.shields.io/github/forks/nex-crm/nex-as-a-skill?style=flat-square&color=blue)](https://github.com/nex-crm/nex-as-a-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Turn every AI agent session  into company intelligence. Nex silently unifies every AI agent conversation with your email, Slack, CRM, and 100+ tools into one knowledge graph. The more your team works, the smarter every agent gets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ nex‑crm/nex‑as‑a‑skill 将所有 AI 代理的会话自动映射为公司
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

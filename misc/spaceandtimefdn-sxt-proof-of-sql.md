@@ -1,6 +1,6 @@
 # spaceandtimefdn/sxt-proof-of-sql
 
-[![Stars](https://img.shields.io/github/stars/spaceandtimefdn/sxt-proof-of-sql?style=flat-square&color=yellow)](https://github.com/spaceandtimefdn/sxt-proof-of-sql/stargazers) [![Forks](https://img.shields.io/github/forks/spaceandtimefdn/sxt-proof-of-sql?style=flat-square&color=blue)](https://github.com/spaceandtimefdn/sxt-proof-of-sql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spaceandtimefdn/sxt-proof-of-sql?style=flat-square&color=yellow)](https://github.com/spaceandtimefdn/sxt-proof-of-sql/stargazers) [![Forks](https://img.shields.io/github/forks/spaceandtimefdn/sxt-proof-of-sql?style=flat-square&color=blue)](https://github.com/spaceandtimefdn/sxt-proof-of-sql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Space and Time | Proof of SQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 606 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ spaceandtimefdn/sxt‑proof‑of‑sql 是一个用 Rust 编写的开源库，�
 | forks | 70/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

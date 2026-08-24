@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/SonarSource/sonarqube-mcp-server?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarqube-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarqube-mcp-server?style=flat-square&color=blue)](https://github.com/SonarSource/sonarqube-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SonarSource/sonarqube-mcp-server?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarqube-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarqube-mcp-server?style=flat-square&color=blue)](https://github.com/SonarSource/sonarqube-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > SonarQube MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 550 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ SonarSource/sonarqube-mcp-server 是一款基于 Model Context Protocol（MC
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

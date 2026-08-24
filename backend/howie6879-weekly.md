@@ -1,6 +1,6 @@
 # howie6879/weekly
 
-[![Stars](https://img.shields.io/github/stars/howie6879/weekly?style=flat-square&color=yellow)](https://github.com/howie6879/weekly/stargazers) [![Forks](https://img.shields.io/github/forks/howie6879/weekly?style=flat-square&color=blue)](https://github.com/howie6879/weekly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/howie6879/weekly?style=flat-square&color=yellow)](https://github.com/howie6879/weekly/stargazers) [![Forks](https://img.shields.io/github/forks/howie6879/weekly?style=flat-square&color=blue)](https://github.com/howie6879/weekly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ The project exhibits strong production-readiness signals, including:
 | forks | 36/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AliKarami/MikroMCP
 
-[![Stars](https://img.shields.io/github/stars/AliKarami/MikroMCP?style=flat-square&color=yellow)](https://github.com/AliKarami/MikroMCP/stargazers) [![Forks](https://img.shields.io/github/forks/AliKarami/MikroMCP?style=flat-square&color=blue)](https://github.com/AliKarami/MikroMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AliKarami/MikroMCP?style=flat-square&color=yellow)](https://github.com/AliKarami/MikroMCP/stargazers) [![Forks](https://img.shields.io/github/forks/AliKarami/MikroMCP?style=flat-square&color=blue)](https://github.com/AliKarami/MikroMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade MCP server for MikroTik RouterOS with secure AI-native network automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevOps/Infra
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ AliKarami/MikroMCP 的价值在于，它帮助连接AI助手和真实工具和�
 | forks | 0/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

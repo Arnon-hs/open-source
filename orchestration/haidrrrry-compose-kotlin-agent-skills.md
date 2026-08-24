@@ -1,6 +1,6 @@
 # haidrrrry/compose-kotlin-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/haidrrrry/compose-kotlin-agent-skills?style=flat-square&color=yellow)](https://github.com/haidrrrry/compose-kotlin-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/haidrrrry/compose-kotlin-agent-skills?style=flat-square&color=blue)](https://github.com/haidrrrry/compose-kotlin-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haidrrrry/compose-kotlin-agent-skills?style=flat-square&color=yellow)](https://github.com/haidrrrry/compose-kotlin-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/haidrrrry/compose-kotlin-agent-skills?style=flat-square&color=blue)](https://github.com/haidrrrry/compose-kotlin-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Jetpack Compose & Kotlin AI agent skills for Cursor, Claude Code, Codex, Gemini & 27+ agents. Strict MVI · Kotlin 2.x K2 · Compose 2026 · CI-validated.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database · Mobile
+Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ The project is considered to be at a medium level of production readiness. While
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

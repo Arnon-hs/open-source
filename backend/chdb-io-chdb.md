@@ -1,6 +1,6 @@
 # chdb-io/chdb
 
-[![Stars](https://img.shields.io/github/stars/chdb-io/chdb?style=flat-square&color=yellow)](https://github.com/chdb-io/chdb/stargazers) [![Forks](https://img.shields.io/github/forks/chdb-io/chdb?style=flat-square&color=blue)](https://github.com/chdb-io/chdb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chdb-io/chdb?style=flat-square&color=yellow)](https://github.com/chdb-io/chdb/stargazers) [![Forks](https://img.shields.io/github/forks/chdb-io/chdb?style=flat-square&color=blue)](https://github.com/chdb-io/chdb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data · Database
+Backend · Data · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ chDB（chdb-io/chdb）是一款在进程内运行的 OLAP SQL 引擎 🚀，基�
 | forks | 53/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

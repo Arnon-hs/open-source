@@ -1,6 +1,6 @@
 # AnotiaWang/deep-research-web-ui
 
-[![Stars](https://img.shields.io/github/stars/AnotiaWang/deep-research-web-ui?style=flat-square&color=yellow)](https://github.com/AnotiaWang/deep-research-web-ui/stargazers) [![Forks](https://img.shields.io/github/forks/AnotiaWang/deep-research-web-ui?style=flat-square&color=blue)](https://github.com/AnotiaWang/deep-research-web-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnotiaWang/deep-research-web-ui?style=flat-square&color=yellow)](https://github.com/AnotiaWang/deep-research-web-ui/stargazers) [![Forks](https://img.shields.io/github/forks/AnotiaWang/deep-research-web-ui?style=flat-square&color=blue)](https://github.com/AnotiaWang/deep-research-web-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 299 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ AnotiaWang/deep-research-web-ui 是一款基于 DeepSeek R1 的 AI 驱动研究�
 | forks | 62/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

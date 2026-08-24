@@ -1,6 +1,6 @@
 # iliyami/MacSai
 
-[![Stars](https://img.shields.io/github/stars/iliyami/MacSai?style=flat-square&color=yellow)](https://github.com/iliyami/MacSai/stargazers) [![Forks](https://img.shields.io/github/forks/iliyami/MacSai?style=flat-square&color=blue)](https://github.com/iliyami/MacSai/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iliyami/MacSai?style=flat-square&color=yellow)](https://github.com/iliyami/MacSai/stargazers) [![Forks](https://img.shields.io/github/forks/iliyami/MacSai?style=flat-square&color=blue)](https://github.com/iliyami/MacSai/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 944 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend
+Payments
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Mac Sai 的生产可用性为中等（Medium），适合用于原型或内部流
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

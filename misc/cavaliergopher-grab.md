@@ -1,6 +1,6 @@
 # cavaliergopher/grab
 
-[![Stars](https://img.shields.io/github/stars/cavaliergopher/grab?style=flat-square&color=yellow)](https://github.com/cavaliergopher/grab/stargazers) [![Forks](https://img.shields.io/github/forks/cavaliergopher/grab?style=flat-square&color=blue)](https://github.com/cavaliergopher/grab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cavaliergopher/grab?style=flat-square&color=yellow)](https://github.com/cavaliergopher/grab/stargazers) [![Forks](https://img.shields.io/github/forks/cavaliergopher/grab?style=flat-square&color=blue)](https://github.com/cavaliergopher/grab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A download manager package for Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ cavaliergopher/grab 的生产可用性为中等。它适合用于内部开发和
 | forks | 54/100 |
 | stars | 67/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

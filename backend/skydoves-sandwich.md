@@ -1,6 +1,6 @@
 # skydoves/sandwich
 
-[![Stars](https://img.shields.io/github/stars/skydoves/sandwich?style=flat-square&color=yellow)](https://github.com/skydoves/sandwich/stargazers) [![Forks](https://img.shields.io/github/forks/skydoves/sandwich?style=flat-square&color=blue)](https://github.com/skydoves/sandwich/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skydoves/sandwich?style=flat-square&color=yellow)](https://github.com/skydoves/sandwich/stargazers) [![Forks](https://img.shields.io/github/forks/skydoves/sandwich?style=flat-square&color=blue)](https://github.com/skydoves/sandwich/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🥪  Sandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Database · Mobile · Design
+Backend · Mobile
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Sandwich 的生产可用性很高，因为它有活跃的维护者、强大的�
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kubernetes-client/python
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-client/python?style=flat-square&color=yellow)](https://github.com/kubernetes-client/python/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-client/python?style=flat-square&color=blue)](https://github.com/kubernetes-client/python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-client/python?style=flat-square&color=yellow)](https://github.com/kubernetes-client/python/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-client/python?style=flat-square&color=blue)](https://github.com/kubernetes-client/python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Official Python client library for kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · DevOps/Infra
+Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ kubernetes-client/python 是 Kubernetes 的官方 Python 客户端库，帮助�
 | forks | 89/100 |
 | stars | 83/100 |
 | topics | 63/100 |
-| outlook | 87/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 86/100 |
+| production | 79/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

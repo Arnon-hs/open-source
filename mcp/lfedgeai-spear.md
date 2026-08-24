@@ -1,6 +1,6 @@
 # lfedgeai/SPEAR
 
-[![Stars](https://img.shields.io/github/stars/lfedgeai/SPEAR?style=flat-square&color=yellow)](https://github.com/lfedgeai/SPEAR/stargazers) [![Forks](https://img.shields.io/github/forks/lfedgeai/SPEAR?style=flat-square&color=blue)](https://github.com/lfedgeai/SPEAR/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lfedgeai/SPEAR?style=flat-square&color=yellow)](https://github.com/lfedgeai/SPEAR/stargazers) [![Forks](https://img.shields.io/github/forks/lfedgeai/SPEAR?style=flat-square&color=blue)](https://github.com/lfedgeai/SPEAR/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed Cloud-Edge Collaborative AI Agent Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ SPEAR 是一个面向云‑边协同的开源 AI 代理平台，提供统一的 
 | forks | 26/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

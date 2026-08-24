@@ -1,6 +1,6 @@
 # wise-vision/ros2_mcp
 
-[![Stars](https://img.shields.io/github/stars/wise-vision/ros2_mcp?style=flat-square&color=yellow)](https://github.com/wise-vision/ros2_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wise-vision/ros2_mcp?style=flat-square&color=blue)](https://github.com/wise-vision/ros2_mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wise-vision/ros2_mcp?style=flat-square&color=yellow)](https://github.com/wise-vision/ros2_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wise-vision/ros2_mcp?style=flat-square&color=blue)](https://github.com/wise-vision/ros2_mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced MCP Server ROS 2 bridging AI agents straight into robotics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ wise-vision/ros2_mcp 是一个基于 ROS 2 的 Model Context Protocol（MCP）
 | forks | 28/100 |
 | stars | 41/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

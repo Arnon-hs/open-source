@@ -1,6 +1,6 @@
 # simonw/simonw
 
-[![Stars](https://img.shields.io/github/stars/simonw/simonw?style=flat-square&color=yellow)](https://github.com/simonw/simonw/stargazers) [![Forks](https://img.shields.io/github/forks/simonw/simonw?style=flat-square&color=blue)](https://github.com/simonw/simonw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonw/simonw?style=flat-square&color=yellow)](https://github.com/simonw/simonw/stargazers) [![Forks](https://img.shields.io/github/forks/simonw/simonw?style=flat-square&color=blue)](https://github.com/simonw/simonw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ simonw/simonw 的生产可用性很高，主要原因是其最近的活动、采
 | forks | 54/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

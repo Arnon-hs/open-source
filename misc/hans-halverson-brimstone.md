@@ -1,6 +1,6 @@
 # Hans-Halverson/brimstone
 
-[![Stars](https://img.shields.io/github/stars/Hans-Halverson/brimstone?style=flat-square&color=yellow)](https://github.com/Hans-Halverson/brimstone/stargazers) [![Forks](https://img.shields.io/github/forks/Hans-Halverson/brimstone?style=flat-square&color=blue)](https://github.com/Hans-Halverson/brimstone/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hans-Halverson/brimstone?style=flat-square&color=yellow)](https://github.com/Hans-Halverson/brimstone/stargazers) [![Forks](https://img.shields.io/github/forks/Hans-Halverson/brimstone?style=flat-square&color=blue)](https://github.com/Hans-Halverson/brimstone/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > New JavaScript engine written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Hans‑Halverson/brimstone 是用 Rust 编写的全新 JavaScript 引擎，拥�
 | forks | 38/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # argoproj-labs/mcp-for-argocd
 
-[![Stars](https://img.shields.io/github/stars/argoproj-labs/mcp-for-argocd?style=flat-square&color=yellow)](https://github.com/argoproj-labs/mcp-for-argocd/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj-labs/mcp-for-argocd?style=flat-square&color=blue)](https://github.com/argoproj-labs/mcp-for-argocd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argoproj-labs/mcp-for-argocd?style=flat-square&color=yellow)](https://github.com/argoproj-labs/mcp-for-argocd/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj-labs/mcp-for-argocd?style=flat-square&color=blue)](https://github.com/argoproj-labs/mcp-for-argocd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of Model Context Protocol (MCP) server for Argo CD.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 556 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ argoproj-labs/mcp-for-argocd 的生产可用性较高，主要是因为：
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

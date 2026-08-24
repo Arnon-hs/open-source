@@ -1,6 +1,6 @@
 # localdesktop/localdesktop.github.io
 
-[![Stars](https://img.shields.io/github/stars/localdesktop/localdesktop.github.io?style=flat-square&color=yellow)](https://github.com/localdesktop/localdesktop.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/localdesktop/localdesktop.github.io?style=flat-square&color=blue)](https://github.com/localdesktop/localdesktop.github.io/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/localdesktop/localdesktop.github.io?style=flat-square&color=yellow)](https://github.com/localdesktop/localdesktop.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/localdesktop/localdesktop.github.io?style=flat-square&color=blue)](https://github.com/localdesktop/localdesktop.github.io/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Local Desktop helps you run a desktop Linux environment on your Android device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Local Desktop（[localdesktop/localdesktop.github.io](https://github.com/localde
 | forks | 46/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # duckdb/duckdb
 
-[![Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=flat-square&color=yellow)](https://github.com/duckdb/duckdb/stargazers) [![Forks](https://img.shields.io/github/forks/duckdb/duckdb?style=flat-square&color=blue)](https://github.com/duckdb/duckdb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=flat-square&color=yellow)](https://github.com/duckdb/duckdb/stargazers) [![Forks](https://img.shields.io/github/forks/duckdb/duckdb?style=flat-square&color=blue)](https://github.com/duckdb/duckdb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > DuckDB is an analytical in-process SQL database management system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39.2k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ DuckDB 的生产可用性较高，因为它具有以下特点：
 | forks | 88/100 |
 | stars | 98/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

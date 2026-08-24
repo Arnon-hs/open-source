@@ -1,6 +1,6 @@
 # NVIDIA/infra-controller
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/infra-controller?style=flat-square&color=yellow)](https://github.com/NVIDIA/infra-controller/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/infra-controller?style=flat-square&color=blue)](https://github.com/NVIDIA/infra-controller/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/infra-controller?style=flat-square&color=yellow)](https://github.com/NVIDIA/infra-controller/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/infra-controller?style=flat-square&color=blue)](https://github.com/NVIDIA/infra-controller/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ NVIDIA Infra Controller 是一款基于 Rust 实现的硬件生命周期管�
 | forks | 53/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

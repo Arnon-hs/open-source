@@ -1,6 +1,6 @@
 # pluk-inc/markdown-preview
 
-[![Stars](https://img.shields.io/github/stars/pluk-inc/markdown-preview?style=flat-square&color=yellow)](https://github.com/pluk-inc/markdown-preview/stargazers) [![Forks](https://img.shields.io/github/forks/pluk-inc/markdown-preview?style=flat-square&color=blue)](https://github.com/pluk-inc/markdown-preview/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pluk-inc/markdown-preview?style=flat-square&color=yellow)](https://github.com/pluk-inc/markdown-preview/stargazers) [![Forks](https://img.shields.io/github/forks/pluk-inc/markdown-preview?style=flat-square&color=blue)](https://github.com/pluk-inc/markdown-preview/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A simple Markdown viewer for reading .md files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ pluk-inc/markdown-preview 是一个简单的Markdown查看器，用于阅读.md�
 | forks | 43/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

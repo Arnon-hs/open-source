@@ -1,6 +1,6 @@
 # spmallick/learnopencv
 
-[![Stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=flat-square&color=yellow)](https://github.com/spmallick/learnopencv/stargazers) [![Forks](https://img.shields.io/github/forks/spmallick/learnopencv?style=flat-square&color=blue)](https://github.com/spmallick/learnopencv/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spmallick/learnopencv?style=flat-square&color=yellow)](https://github.com/spmallick/learnopencv/stargazers) [![Forks](https://img.shields.io/github/forks/spmallick/learnopencv?style=flat-square&color=blue)](https://github.com/spmallick/learnopencv/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Learn OpenCV  : C++ and Python Examples
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23k |
 | 🍴 **Forks** | 11.7k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ spmallick/learnopencv 是一个开源项目，旨在帮助开发者学习使用 
 | forks | 100/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ Show HN: K8s-audit – 30-second Kubernetes security check (kubectl and jq only)
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

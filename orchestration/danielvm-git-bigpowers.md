@@ -1,6 +1,6 @@
 # danielvm-git/bigpowers
 
-[![Stars](https://img.shields.io/github/stars/danielvm-git/bigpowers?style=flat-square&color=yellow)](https://github.com/danielvm-git/bigpowers/stargazers) [![Forks](https://img.shields.io/github/forks/danielvm-git/bigpowers?style=flat-square&color=blue)](https://github.com/danielvm-git/bigpowers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielvm-git/bigpowers?style=flat-square&color=yellow)](https://github.com/danielvm-git/bigpowers/stargazers) [![Forks](https://img.shields.io/github/forks/danielvm-git/bigpowers?style=flat-square&color=blue)](https://github.com/danielvm-git/bigpowers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Product
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ danielvm-git/bigpowers 的生产可用性为中等（Medium），适合用于内
 | forks | 23/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

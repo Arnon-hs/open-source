@@ -1,6 +1,6 @@
 # ravahn/FFXIV_ACT_Plugin
 
-[![Stars](https://img.shields.io/github/stars/ravahn/FFXIV_ACT_Plugin?style=flat-square&color=yellow)](https://github.com/ravahn/FFXIV_ACT_Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/ravahn/FFXIV_ACT_Plugin?style=flat-square&color=blue)](https://github.com/ravahn/FFXIV_ACT_Plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ravahn/FFXIV_ACT_Plugin?style=flat-square&color=yellow)](https://github.com/ravahn/FFXIV_ACT_Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/ravahn/FFXIV_ACT_Plugin?style=flat-square&color=blue)](https://github.com/ravahn/FFXIV_ACT_Plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > FFXIV Plugin for Advanced Combat Tracker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 762 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -64,14 +64,15 @@ ravahn/FFXIV_ACT_Plugin 是一款面向《最终幻想 XIV》的 Advanced Combat
 | forks | 44/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

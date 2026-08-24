@@ -1,6 +1,6 @@
 # Chorus-AIDLC/Chorus
 
-[![Stars](https://img.shields.io/github/stars/Chorus-AIDLC/Chorus?style=flat-square&color=yellow)](https://github.com/Chorus-AIDLC/Chorus/stargazers) [![Forks](https://img.shields.io/github/forks/Chorus-AIDLC/Chorus?style=flat-square&color=blue)](https://github.com/Chorus-AIDLC/Chorus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chorus-AIDLC/Chorus?style=flat-square&color=yellow)](https://github.com/Chorus-AIDLC/Chorus/stargazers) [![Forks](https://img.shields.io/github/forks/Chorus-AIDLC/Chorus?style=flat-square&color=blue)](https://github.com/Chorus-AIDLC/Chorus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 819 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Chorus（Chorus‑AIDLC）是面向 AI‑Human 协作的 Agent 框架，借鉴 A
 | forks | 47/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

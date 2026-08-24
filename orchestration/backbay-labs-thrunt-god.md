@@ -1,6 +1,6 @@
 # backbay-labs/thrunt-god
 
-[![Stars](https://img.shields.io/github/stars/backbay-labs/thrunt-god?style=flat-square&color=yellow)](https://github.com/backbay-labs/thrunt-god/stargazers) [![Forks](https://img.shields.io/github/forks/backbay-labs/thrunt-god?style=flat-square&color=blue)](https://github.com/backbay-labs/thrunt-god/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backbay-labs/thrunt-god?style=flat-square&color=yellow)](https://github.com/backbay-labs/thrunt-god/stargazers) [![Forks](https://img.shields.io/github/forks/backbay-labs/thrunt-god?style=flat-square&color=blue)](https://github.com/backbay-labs/thrunt-god/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Threat hunting command system for agentic IDEs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ backbay-labs/thrunt-god 是一个针对 agent 工具的威胁猎手命令系统�
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

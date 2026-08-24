@@ -1,6 +1,6 @@
 # iflytek/astron-rpa
 
-[![Stars](https://img.shields.io/github/stars/iflytek/astron-rpa?style=flat-square&color=yellow)](https://github.com/iflytek/astron-rpa/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/astron-rpa?style=flat-square&color=blue)](https://github.com/iflytek/astron-rpa/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iflytek/astron-rpa?style=flat-square&color=yellow)](https://github.com/iflytek/astron-rpa/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/astron-rpa?style=flat-square&color=blue)](https://github.com/iflytek/astron-rpa/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 583 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Data
+MCP · Automation · AI/ML · Data · Security
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ iflytek/astron-rpa 具有很高的生产可用性，拥有近 5,200 个 GitHub �
 | forks | 69/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Neargye/hello_tf_c_api
 
-[![Stars](https://img.shields.io/github/stars/Neargye/hello_tf_c_api?style=flat-square&color=yellow)](https://github.com/Neargye/hello_tf_c_api/stargazers) [![Forks](https://img.shields.io/github/forks/Neargye/hello_tf_c_api?style=flat-square&color=blue)](https://github.com/Neargye/hello_tf_c_api/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Neargye/hello_tf_c_api?style=flat-square&color=yellow)](https://github.com/Neargye/hello_tf_c_api/stargazers) [![Forks](https://img.shields.io/github/forks/Neargye/hello_tf_c_api?style=flat-square&color=blue)](https://github.com/Neargye/hello_tf_c_api/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Neural Network TensorFlow C API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Education
+Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Neargye/hello_tf_c_api 是一个开源项目，提供了TensorFlow C API，帮�
 | forks | 53/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

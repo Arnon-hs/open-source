@@ -1,6 +1,6 @@
 # itgoyo/TelegramGroup
 
-[![Stars](https://img.shields.io/github/stars/itgoyo/TelegramGroup?style=flat-square&color=yellow)](https://github.com/itgoyo/TelegramGroup/stargazers) [![Forks](https://img.shields.io/github/forks/itgoyo/TelegramGroup?style=flat-square&color=blue)](https://github.com/itgoyo/TelegramGroup/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itgoyo/TelegramGroup?style=flat-square&color=yellow)](https://github.com/itgoyo/TelegramGroup/stargazers) [![Forks](https://img.shields.io/github/forks/itgoyo/TelegramGroup?style=flat-square&color=blue)](https://github.com/itgoyo/TelegramGroup/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 2026最新悄咪咪收集的10000+个Telegram群合集、tg导航、电报导航、telegram导航，附全网最有趣好用的机器人BOT🤖【tg10000.com】
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ itgoyo/TelegramGroup 是一个开源项目，提供了 10,000+ 个 Telegram 群�
 | forks | 64/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # awesomemotive/easy-digital-downloads
 
-[![Stars](https://img.shields.io/github/stars/awesomemotive/easy-digital-downloads?style=flat-square&color=yellow)](https://github.com/awesomemotive/easy-digital-downloads/stargazers) [![Forks](https://img.shields.io/github/forks/awesomemotive/easy-digital-downloads?style=flat-square&color=blue)](https://github.com/awesomemotive/easy-digital-downloads/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awesomemotive/easy-digital-downloads?style=flat-square&color=yellow)](https://github.com/awesomemotive/easy-digital-downloads/stargazers) [![Forks](https://img.shields.io/github/forks/awesomemotive/easy-digital-downloads?style=flat-square&color=blue)](https://github.com/awesomemotive/easy-digital-downloads/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Sell digital downloads through WordPress
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 893 |
 | 🍴 **Forks** | 466 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Marketing
+Payments
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Easy Digital Downloads 的生产可用性是高的，其 GitHubstar 数量（893
 | forks | 67/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

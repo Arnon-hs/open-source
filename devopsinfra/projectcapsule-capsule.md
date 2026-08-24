@@ -1,6 +1,6 @@
 # projectcapsule/capsule
 
-[![Stars](https://img.shields.io/github/stars/projectcapsule/capsule?style=flat-square&color=yellow)](https://github.com/projectcapsule/capsule/stargazers) [![Forks](https://img.shields.io/github/forks/projectcapsule/capsule?style=flat-square&color=blue)](https://github.com/projectcapsule/capsule/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectcapsule/capsule?style=flat-square&color=yellow)](https://github.com/projectcapsule/capsule/stargazers) [![Forks](https://img.shields.io/github/forks/projectcapsule/capsule?style=flat-square&color=blue)](https://github.com/projectcapsule/capsule/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-tenancy and policy-based framework for Kubernetes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ projectcapsule/capsule 的价值在于：
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 81/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

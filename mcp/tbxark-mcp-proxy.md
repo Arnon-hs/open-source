@@ -1,6 +1,6 @@
 # tbxark/mcp-proxy
 
-[![Stars](https://img.shields.io/github/stars/tbxark/mcp-proxy?style=flat-square&color=yellow)](https://github.com/tbxark/mcp-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/tbxark/mcp-proxy?style=flat-square&color=blue)](https://github.com/tbxark/mcp-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tbxark/mcp-proxy?style=flat-square&color=yellow)](https://github.com/tbxark/mcp-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/tbxark/mcp-proxy?style=flat-square&color=blue)](https://github.com/tbxark/mcp-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 703 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -88,14 +88,15 @@ tbxark/mcp‑proxy 是一个基于 Go 的 MCP 代理服务器，能够通过单�
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

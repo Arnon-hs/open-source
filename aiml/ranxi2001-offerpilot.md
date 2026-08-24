@@ -1,6 +1,6 @@
 # ranxi2001/OfferPilot
 
-[![Stars](https://img.shields.io/github/stars/ranxi2001/OfferPilot?style=flat-square&color=yellow)](https://github.com/ranxi2001/OfferPilot/stargazers) [![Forks](https://img.shields.io/github/forks/ranxi2001/OfferPilot?style=flat-square&color=blue)](https://github.com/ranxi2001/OfferPilot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ranxi2001/OfferPilot?style=flat-square&color=yellow)](https://github.com/ranxi2001/OfferPilot/stargazers) [![Forks](https://img.shields.io/github/forks/ranxi2001/OfferPilot?style=flat-square&color=blue)](https://github.com/ranxi2001/OfferPilot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 AI Agent / LLM 工程面试的智能诊断 Agent，也能模拟面试、改简历
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ OfferPilot 的生产可用性为 Medium，适合用于原型或内部工作流�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

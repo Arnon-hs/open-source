@@ -1,6 +1,6 @@
 # apache/ofbiz-framework
 
-[![Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=flat-square&color=yellow)](https://github.com/apache/ofbiz-framework/stargazers) [![Forks](https://img.shields.io/github/forks/apache/ofbiz-framework?style=flat-square&color=blue)](https://github.com/apache/ofbiz-framework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=flat-square&color=yellow)](https://github.com/apache/ofbiz-framework/stargazers) [![Forks](https://img.shields.io/github/forks/apache/ofbiz-framework?style=flat-square&color=blue)](https://github.com/apache/ofbiz-framework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Management and Manufacturing Resource Planning. OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 669 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Data · Database
+Automation · Backend · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Apache OFBiz 是一套完整的开源企业级平台，提供 ERP、CRM、电子
 | forks | 71/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

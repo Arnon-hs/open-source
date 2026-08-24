@@ -1,6 +1,6 @@
 # jackc/pgx
 
-[![Stars](https://img.shields.io/github/stars/jackc/pgx?style=flat-square&color=yellow)](https://github.com/jackc/pgx/stargazers) [![Forks](https://img.shields.io/github/forks/jackc/pgx?style=flat-square&color=blue)](https://github.com/jackc/pgx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jackc/pgx?style=flat-square&color=yellow)](https://github.com/jackc/pgx/stargazers) [![Forks](https://img.shields.io/github/forks/jackc/pgx?style=flat-square&color=blue)](https://github.com/jackc/pgx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > PostgreSQL driver and toolkit for Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ jackc/pgx 的生产可用性非常高。它有大量的 GitHub 星星（13975）
 | forks | 76/100 |
 | stars | 88/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

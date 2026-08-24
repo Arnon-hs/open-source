@@ -1,6 +1,6 @@
 # aqua5230/usage
 
-[![Stars](https://img.shields.io/github/stars/aqua5230/usage?style=flat-square&color=yellow)](https://github.com/aqua5230/usage/stargazers) [![Forks](https://img.shields.io/github/forks/aqua5230/usage?style=flat-square&color=blue)](https://github.com/aqua5230/usage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aqua5230/usage?style=flat-square&color=yellow)](https://github.com/aqua5230/usage/stargazers) [![Forks](https://img.shields.io/github/forks/aqua5230/usage?style=flat-square&color=blue)](https://github.com/aqua5230/usage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > macOS menu bar app pinning Claude Code & Codex quota, tokens, and cost to your screen. Local-only, zero API calls. HTML reports, 9 themes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ aqua5230/usage 是一款 macOS 菜单栏工具，能够在屏幕上实时显示 
 | forks | 40/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

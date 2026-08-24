@@ -1,6 +1,6 @@
 # rgreinho/trauma
 
-[![Stars](https://img.shields.io/github/stars/rgreinho/trauma?style=flat-square&color=yellow)](https://github.com/rgreinho/trauma/stargazers) [![Forks](https://img.shields.io/github/forks/rgreinho/trauma?style=flat-square&color=blue)](https://github.com/rgreinho/trauma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rgreinho/trauma?style=flat-square&color=yellow)](https://github.com/rgreinho/trauma/stargazers) [![Forks](https://img.shields.io/github/forks/rgreinho/trauma?style=flat-square&color=blue)](https://github.com/rgreinho/trauma/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Tokio Rust Asynchronous Universal download MAnager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ rgreinho/trauma 是一个 Tokio Rust 异步的通用下载管理器。它通过�
 | forks | 32/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

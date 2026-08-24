@@ -1,6 +1,6 @@
 # datawhalechina/easy-vecdb
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vecdb?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vecdb/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vecdb?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vecdb/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vecdb?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vecdb/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vecdb?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vecdb/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 从零开始的向量数据库原理与实践教程，在线阅读地址：https://easy-vecdb.datawhale.cc/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 285 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ easy-vecdb 是一个学习向量检索与 RAG 的优秀起点，能够帮助团�
 | forks | 42/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

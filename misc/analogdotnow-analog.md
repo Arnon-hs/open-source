@@ -1,6 +1,6 @@
 # analogdotnow/Analog
 
-[![Stars](https://img.shields.io/github/stars/analogdotnow/Analog?style=flat-square&color=yellow)](https://github.com/analogdotnow/Analog/stargazers) [![Forks](https://img.shields.io/github/forks/analogdotnow/Analog?style=flat-square&color=blue)](https://github.com/analogdotnow/Analog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/analogdotnow/Analog?style=flat-square&color=yellow)](https://github.com/analogdotnow/Analog/stargazers) [![Forks](https://img.shields.io/github/forks/analogdotnow/Analog?style=flat-square&color=blue)](https://github.com/analogdotnow/Analog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Meet the calendar that changes everything
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Analog的生产可用性为中等。它可以用于原型或内部工作流，�
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

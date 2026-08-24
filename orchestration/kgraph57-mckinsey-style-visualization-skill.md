@@ -1,6 +1,6 @@
 # kgraph57/mckinsey-style-visualization-skill
 
-[![Stars](https://img.shields.io/github/stars/kgraph57/mckinsey-style-visualization-skill?style=flat-square&color=yellow)](https://github.com/kgraph57/mckinsey-style-visualization-skill/stargazers) [![Forks](https://img.shields.io/github/forks/kgraph57/mckinsey-style-visualization-skill?style=flat-square&color=blue)](https://github.com/kgraph57/mckinsey-style-visualization-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kgraph57/mckinsey-style-visualization-skill?style=flat-square&color=yellow)](https://github.com/kgraph57/mckinsey-style-visualization-skill/stargazers) [![Forks](https://img.shields.io/github/forks/kgraph57/mckinsey-style-visualization-skill?style=flat-square&color=blue)](https://github.com/kgraph57/mckinsey-style-visualization-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Education
+Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ kgraph57/mckinsey-style-visualization-skill 是一个开源项目，旨在将杂
 | forks | 30/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 73/100 |
-| usefulness | 74/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

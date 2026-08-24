@@ -1,6 +1,6 @@
 # microsoft/powerbi-modeling-mcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/powerbi-modeling-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/powerbi-modeling-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/powerbi-modeling-mcp?style=flat-square&color=blue)](https://github.com/microsoft/powerbi-modeling-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/powerbi-modeling-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/powerbi-modeling-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/powerbi-modeling-mcp?style=flat-square&color=blue)](https://github.com/microsoft/powerbi-modeling-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -66,14 +66,15 @@ microsoft/powerbi-modeling-mcp：microsoft/powerbi-modeling-mcp helps connect AI
 | forks | 57/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

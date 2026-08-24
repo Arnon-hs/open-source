@@ -1,6 +1,6 @@
 # ZipCPU/sdspi
 
-[![Stars](https://img.shields.io/github/stars/ZipCPU/sdspi?style=flat-square&color=yellow)](https://github.com/ZipCPU/sdspi/stargazers) [![Forks](https://img.shields.io/github/forks/ZipCPU/sdspi?style=flat-square&color=blue)](https://github.com/ZipCPU/sdspi/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZipCPU/sdspi?style=flat-square&color=yellow)](https://github.com/ZipCPU/sdspi/stargazers) [![Forks](https://img.shields.io/github/forks/ZipCPU/sdspi?style=flat-square&color=blue)](https://github.com/ZipCPU/sdspi/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SD-Card controller, using either SPI, SDIO, or eMMC interfaces
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ ZipCPU/s
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

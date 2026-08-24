@@ -1,6 +1,6 @@
 # cordiverse/cordis
 
-[![Stars](https://img.shields.io/github/stars/cordiverse/cordis?style=flat-square&color=yellow)](https://github.com/cordiverse/cordis/stargazers) [![Forks](https://img.shields.io/github/forks/cordiverse/cordis?style=flat-square&color=blue)](https://github.com/cordiverse/cordis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cordiverse/cordis?style=flat-square&color=yellow)](https://github.com/cordiverse/cordis/stargazers) [![Forks](https://img.shields.io/github/forks/cordiverse/cordis?style=flat-square&color=blue)](https://github.com/cordiverse/cordis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Meta-Framework of Spatiotemporal Composability
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Cordiverse/Cordis 的生产可用性为中等。它适合用于原型开发和�
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vuski/admdongkor
 
-[![Stars](https://img.shields.io/github/stars/vuski/admdongkor?style=flat-square&color=yellow)](https://github.com/vuski/admdongkor/stargazers) [![Forks](https://img.shields.io/github/forks/vuski/admdongkor?style=flat-square&color=blue)](https://github.com/vuski/admdongkor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vuski/admdongkor?style=flat-square&color=yellow)](https://github.com/vuski/admdongkor/stargazers) [![Forks](https://img.shields.io/github/forks/vuski/admdongkor?style=flat-square&color=blue)](https://github.com/vuski/admdongkor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 대한민국 행정동 경계 파일
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 517 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ vuski/admdongkor 是一个开源项目，提供了关于韩国行政区划的边
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

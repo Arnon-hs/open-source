@@ -1,6 +1,6 @@
 # apache/teaclave-trustzone-sdk
 
-[![Stars](https://img.shields.io/github/stars/apache/teaclave-trustzone-sdk?style=flat-square&color=yellow)](https://github.com/apache/teaclave-trustzone-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/apache/teaclave-trustzone-sdk?style=flat-square&color=blue)](https://github.com/apache/teaclave-trustzone-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/teaclave-trustzone-sdk?style=flat-square&color=yellow)](https://github.com/apache/teaclave-trustzone-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/apache/teaclave-trustzone-sdk?style=flat-square&color=blue)](https://github.com/apache/teaclave-trustzone-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Teaclave TrustZone SDK enables safe, functional, and ergonomic development of trustlets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Teaclave TrustZone SDK 的生产可用性较高，主要原因是：
 | forks | 48/100 |
 | stars | 52/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # chipsalliance/chisel
 
-[![Stars](https://img.shields.io/github/stars/chipsalliance/chisel?style=flat-square&color=yellow)](https://github.com/chipsalliance/chisel/stargazers) [![Forks](https://img.shields.io/github/forks/chipsalliance/chisel?style=flat-square&color=blue)](https://github.com/chipsalliance/chisel/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chipsalliance/chisel?style=flat-square&color=yellow)](https://github.com/chipsalliance/chisel/stargazers) [![Forks](https://img.shields.io/github/forks/chipsalliance/chisel?style=flat-square&color=blue)](https://github.com/chipsalliance/chisel/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Chisel: A Modern Hardware Design Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 649 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,14 +80,15 @@ Chisel是一个现代的硬件设计语言，其价值在于能够高效地设�
 | forks | 70/100 |
 | stars | 78/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

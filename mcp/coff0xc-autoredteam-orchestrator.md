@@ -1,6 +1,6 @@
 # Coff0xc/AutoRedTeam-Orchestrator
 
-[![Stars](https://img.shields.io/github/stars/Coff0xc/AutoRedTeam-Orchestrator?style=flat-square&color=yellow)](https://github.com/Coff0xc/AutoRedTeam-Orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Coff0xc/AutoRedTeam-Orchestrator?style=flat-square&color=blue)](https://github.com/Coff0xc/AutoRedTeam-Orchestrator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coff0xc/AutoRedTeam-Orchestrator?style=flat-square&color=yellow)](https://github.com/Coff0xc/AutoRedTeam-Orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Coff0xc/AutoRedTeam-Orchestrator?style=flat-square&color=blue)](https://github.com/Coff0xc/AutoRedTeam-Orchestrator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise AI Red Team Platform | 企业级AI红队平台 | 132 MCP Tools | Pure Python Engines | SDK+CLI+MCP | Auto-Download sqlmap/nuclei/ffuf | Production C2 | LLM Enhanced | Docker Sandbox | SARIF CI/CD | 1980 Tests
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · Database
+MCP · Automation · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ Coff0xc/AutoRedTeam-Orchestrator 的接入方式包括：
 | forks | 43/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

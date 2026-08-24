@@ -1,6 +1,6 @@
 # cap-js/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cap-js/mcp-server?style=flat-square&color=yellow)](https://github.com/cap-js/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cap-js/mcp-server?style=flat-square&color=blue)](https://github.com/cap-js/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cap-js/mcp-server?style=flat-square&color=yellow)](https://github.com/cap-js/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cap-js/mcp-server?style=flat-square&color=blue)](https://github.com/cap-js/mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI-assisted development of CAP applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ cap-js/mcp-server 的主要价值在于帮助连接 AI 助手与真实工具和�
 | forks | 32/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

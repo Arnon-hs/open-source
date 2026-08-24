@@ -1,6 +1,6 @@
 # Ewwii-sh/ewwii
 
-[![Stars](https://img.shields.io/github/stars/Ewwii-sh/ewwii?style=flat-square&color=yellow)](https://github.com/Ewwii-sh/ewwii/stargazers) [![Forks](https://img.shields.io/github/forks/Ewwii-sh/ewwii?style=flat-square&color=blue)](https://github.com/Ewwii-sh/ewwii/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ewwii-sh/ewwii?style=flat-square&color=yellow)](https://github.com/Ewwii-sh/ewwii/stargazers) [![Forks](https://img.shields.io/github/forks/Ewwii-sh/ewwii?style=flat-square&color=blue)](https://github.com/Ewwii-sh/ewwii/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Eww rewrite with focus on extensibility, simplicity, and power.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Ewwii（Eww rewrite）是用 Rust 重写的 Eww 桌面小部件框架，强调�
 | forks | 19/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xmanrui/dsh-im
 
-[![Stars](https://img.shields.io/github/stars/xmanrui/dsh-im?style=flat-square&color=yellow)](https://github.com/xmanrui/dsh-im/stargazers) [![Forks](https://img.shields.io/github/forks/xmanrui/dsh-im?style=flat-square&color=blue)](https://github.com/xmanrui/dsh-im/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xmanrui/dsh-im?style=flat-square&color=yellow)](https://github.com/xmanrui/dsh-im/stargazers) [![Forks](https://img.shields.io/github/forks/xmanrui/dsh-im?style=flat-square&color=blue)](https://github.com/xmanrui/dsh-im/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 397 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ xmanrui/dsh-im：xmanrui/dsh-im helps remove repetitive manual operations from a
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

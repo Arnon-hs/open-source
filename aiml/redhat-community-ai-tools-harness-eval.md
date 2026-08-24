@@ -1,6 +1,6 @@
 # redhat-community-ai-tools/harness-eval
 
-[![Stars](https://img.shields.io/github/stars/redhat-community-ai-tools/harness-eval?style=flat-square&color=yellow)](https://github.com/redhat-community-ai-tools/harness-eval/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-community-ai-tools/harness-eval?style=flat-square&color=blue)](https://github.com/redhat-community-ai-tools/harness-eval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redhat-community-ai-tools/harness-eval?style=flat-square&color=yellow)](https://github.com/redhat-community-ai-tools/harness-eval/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-community-ai-tools/harness-eval?style=flat-square&color=blue)](https://github.com/redhat-community-ai-tools/harness-eval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Evaluate (lint, review, and security-audit) your AI coding agent harness.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Redhat-community-ai-tools/harness-eval - это набор инструмент�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ TooAngel/screeps：TooAngel/screeps helps remove repetitive manual operations fr
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # joamag/boytacean
 
-[![Stars](https://img.shields.io/github/stars/joamag/boytacean?style=flat-square&color=yellow)](https://github.com/joamag/boytacean/stargazers) [![Forks](https://img.shields.io/github/forks/joamag/boytacean?style=flat-square&color=blue)](https://github.com/joamag/boytacean/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joamag/boytacean?style=flat-square&color=yellow)](https://github.com/joamag/boytacean/stargazers) [![Forks](https://img.shields.io/github/forks/joamag/boytacean?style=flat-square&color=blue)](https://github.com/joamag/boytacean/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A GB emulator that is written in Rust 🦀!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 676 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ In short, boytacean offers a promising, Rust‑native GB emulator that can be ad
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

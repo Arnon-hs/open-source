@@ -1,6 +1,6 @@
 # rasinmuhammed/misata
 
-[![Stars](https://img.shields.io/github/stars/rasinmuhammed/misata?style=flat-square&color=yellow)](https://github.com/rasinmuhammed/misata/stargazers) [![Forks](https://img.shields.io/github/forks/rasinmuhammed/misata?style=flat-square&color=blue)](https://github.com/rasinmuhammed/misata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rasinmuhammed/misata?style=flat-square&color=yellow)](https://github.com/rasinmuhammed/misata/stargazers) [![Forks](https://img.shields.io/github/forks/rasinmuhammed/misata?style=flat-square&color=blue)](https://github.com/rasinmuhammed/misata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance open-source synthetic data engine. Uses LLMs for schema design and vectorized NumPy for deterministic, scalable generation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Rasinmuhammed/misata 帮助连接AI助手到真实工具和数据，标准化集
 | forks | 17/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

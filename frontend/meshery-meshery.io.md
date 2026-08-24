@@ -1,6 +1,6 @@
 # meshery/meshery.io
 
-[![Stars](https://img.shields.io/github/stars/meshery/meshery.io?style=flat-square&color=yellow)](https://github.com/meshery/meshery.io/stargazers) [![Forks](https://img.shields.io/github/forks/meshery/meshery.io?style=flat-square&color=blue)](https://github.com/meshery/meshery.io/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshery/meshery.io?style=flat-square&color=yellow)](https://github.com/meshery/meshery.io/stargazers) [![Forks](https://img.shields.io/github/forks/meshery/meshery.io?style=flat-square&color=blue)](https://github.com/meshery/meshery.io/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Website for Meshery
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 757 |
 | 🍴 **Forks** | 784 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Meshery.io 是 Meshery 项目的官方站点，提供面向用户的 UI 界面�
 | forks | 72/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

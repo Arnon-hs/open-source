@@ -1,6 +1,6 @@
 # mehrandvd/skunit
 
-[![Stars](https://img.shields.io/github/stars/mehrandvd/skunit?style=flat-square&color=yellow)](https://github.com/mehrandvd/skunit/stargazers) [![Forks](https://img.shields.io/github/forks/mehrandvd/skunit?style=flat-square&color=blue)](https://github.com/mehrandvd/skunit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mehrandvd/skunit?style=flat-square&color=yellow)](https://github.com/mehrandvd/skunit/stargazers) [![Forks](https://img.shields.io/github/forks/mehrandvd/skunit?style=flat-square&color=blue)](https://github.com/mehrandvd/skunit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > skUnit is a testing tool for AI units, such as IChatClient, MCP Servers and agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ mehrandvd/skunit 的生产可用性很高，主要语言是 C#，有近 180 个 
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # getsigit/sigit
 
-[![Stars](https://img.shields.io/github/stars/getsigit/sigit?style=flat-square&color=yellow)](https://github.com/getsigit/sigit/stargazers) [![Forks](https://img.shields.io/github/forks/getsigit/sigit?style=flat-square&color=blue)](https://github.com/getsigit/sigit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsigit/sigit?style=flat-square&color=yellow)](https://github.com/getsigit/sigit/stargazers) [![Forks](https://img.shields.io/github/forks/getsigit/sigit?style=flat-square&color=blue)](https://github.com/getsigit/sigit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A local-Llm-first coding agent. Runs Qwen 2.5 and Qwen 3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ getsigit/sigit 的生产可用性为中等（Medium），适用于以下场景�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

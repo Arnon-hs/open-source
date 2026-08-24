@@ -1,6 +1,6 @@
 # RMA-MUN/RAGNotebook
 
-[![Stars](https://img.shields.io/github/stars/RMA-MUN/RAGNotebook?style=flat-square&color=yellow)](https://github.com/RMA-MUN/RAGNotebook/stargazers) [![Forks](https://img.shields.io/github/forks/RMA-MUN/RAGNotebook?style=flat-square&color=blue)](https://github.com/RMA-MUN/RAGNotebook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RMA-MUN/RAGNotebook?style=flat-square&color=yellow)](https://github.com/RMA-MUN/RAGNotebook/stargazers) [![Forks](https://img.shields.io/github/forks/RMA-MUN/RAGNotebook?style=flat-square&color=blue)](https://github.com/RMA-MUN/RAGNotebook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 基于LangChain、FastAPI和React的RAG项目，主分支为基于RAG的智能笔记助手，base-rag分支为开箱即用的基础RAG项目供学习使用
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · Backend
+Orchestration · Knowledge/RAG · AI/ML · Frontend · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ RMA-MUN/RAGNotebook：RMA-MUN/RAGNotebook helps turn isolated prompts and tools 
 | forks | 48/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

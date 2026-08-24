@@ -1,6 +1,6 @@
 # twilight-rs/twilight
 
-[![Stars](https://img.shields.io/github/stars/twilight-rs/twilight?style=flat-square&color=yellow)](https://github.com/twilight-rs/twilight/stargazers) [![Forks](https://img.shields.io/github/forks/twilight-rs/twilight?style=flat-square&color=blue)](https://github.com/twilight-rs/twilight/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twilight-rs/twilight?style=flat-square&color=yellow)](https://github.com/twilight-rs/twilight/stargazers) [![Forks](https://img.shields.io/github/forks/twilight-rs/twilight?style=flat-square&color=blue)](https://github.com/twilight-rs/twilight/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful, flexible, and scalable ecosystem of Rust libraries for the Discord API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Twilight-RS/Twilight 的生产可用性很高，主要原因是：
 | forks | 55/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

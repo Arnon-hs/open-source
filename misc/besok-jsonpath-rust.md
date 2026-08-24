@@ -1,6 +1,6 @@
 # besok/jsonpath-rust
 
-[![Stars](https://img.shields.io/github/stars/besok/jsonpath-rust?style=flat-square&color=yellow)](https://github.com/besok/jsonpath-rust/stargazers) [![Forks](https://img.shields.io/github/forks/besok/jsonpath-rust?style=flat-square&color=blue)](https://github.com/besok/jsonpath-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/besok/jsonpath-rust?style=flat-square&color=yellow)](https://github.com/besok/jsonpath-rust/stargazers) [![Forks](https://img.shields.io/github/forks/besok/jsonpath-rust?style=flat-square&color=blue)](https://github.com/besok/jsonpath-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Support for json-path in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ besok/jsonpath-rust 的生产可用性为中等。它可以在一些特定场景
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

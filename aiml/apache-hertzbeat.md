@@ -1,6 +1,6 @@
 # apache/hertzbeat
 
-[![Stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat-square&color=yellow)](https://github.com/apache/hertzbeat/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hertzbeat?style=flat-square&color=blue)](https://github.com/apache/hertzbeat/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat-square&color=yellow)](https://github.com/apache/hertzbeat/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hertzbeat?style=flat-square&color=blue)](https://github.com/apache/hertzbeat/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-powered next-generation open source real-time observability system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data · Database · Observability
+AI/ML · Backend · Database · Observability
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Apache HertzBeat 将 AI 能力直接嵌入实时可观测性平台，用户无
 | forks | 78/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

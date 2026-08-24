@@ -1,6 +1,6 @@
 # tinyfish-io/agentql-mcp
 
-[![Stars](https://img.shields.io/github/stars/tinyfish-io/agentql-mcp?style=flat-square&color=yellow)](https://github.com/tinyfish-io/agentql-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfish-io/agentql-mcp?style=flat-square&color=blue)](https://github.com/tinyfish-io/agentql-mcp/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyfish-io/agentql-mcp?style=flat-square&color=yellow)](https://github.com/tinyfish-io/agentql-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfish-io/agentql-mcp?style=flat-square&color=blue)](https://github.com/tinyfish-io/agentql-mcp/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol server that integrates AgentQL's data extraction capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ tinyfish-io/agentql-mcp 是一个 Model Context Protocol（MCP）服务器，内
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

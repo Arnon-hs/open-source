@@ -1,6 +1,6 @@
 # andy-portmen/external-application-button
 
-[![Stars](https://img.shields.io/github/stars/andy-portmen/external-application-button?style=flat-square&color=yellow)](https://github.com/andy-portmen/external-application-button/stargazers) [![Forks](https://img.shields.io/github/forks/andy-portmen/external-application-button?style=flat-square&color=blue)](https://github.com/andy-portmen/external-application-button/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andy-portmen/external-application-button?style=flat-square&color=yellow)](https://github.com/andy-portmen/external-application-button/stargazers) [![Forks](https://img.shields.io/github/forks/andy-portmen/external-application-button?style=flat-square&color=blue)](https://github.com/andy-portmen/external-application-button/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Communicate with external applications of your OS through a toolbar button or context menu item.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ andy-portmen/external-application-button 的生产可用性为Medium，适合用
 | forks | 44/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

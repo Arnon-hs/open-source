@@ -1,6 +1,6 @@
 # cosmicstack-labs/mercury-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent-skills?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Design
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -129,14 +129,15 @@ cosmicstack‑labs/mercury-agent-skills 提供了一套经过精选、可直接�
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 69/100 |
+| production | 42/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

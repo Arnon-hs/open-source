@@ -1,6 +1,6 @@
 # deepset-ai/haystack-tutorials
 
-[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-tutorials?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-tutorials?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-tutorials?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-tutorials?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-tutorials/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Here you can find all the Tutorials for Haystack 📓
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ deepset-ai/haystack-tutorials 是一个开源项目，提供了 Haystack 的教�
 | forks | 53/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

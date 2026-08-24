@@ -1,6 +1,6 @@
 # torvalds/linux
 
-[![Stars](https://img.shields.io/github/stars/torvalds/linux?style=flat-square&color=yellow)](https://github.com/torvalds/linux/stargazers) [![Forks](https://img.shields.io/github/forks/torvalds/linux?style=flat-square&color=blue)](https://github.com/torvalds/linux/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/torvalds/linux?style=flat-square&color=yellow)](https://github.com/torvalds/linux/stargazers) [![Forks](https://img.shields.io/github/forks/torvalds/linux?style=flat-square&color=blue)](https://github.com/torvalds/linux/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Linux kernel source tree
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 237.7k |
 | 🍴 **Forks** | 62.9k |
 | 💻 **Language** | C |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ torvalds/linux 是 Linux 内核的官方源码仓库，包含了数十年的操�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

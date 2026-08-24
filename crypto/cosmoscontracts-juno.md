@@ -1,6 +1,6 @@
 # CosmosContracts/juno
 
-[![Stars](https://img.shields.io/github/stars/CosmosContracts/juno?style=flat-square&color=yellow)](https://github.com/CosmosContracts/juno/stargazers) [![Forks](https://img.shields.io/github/forks/CosmosContracts/juno?style=flat-square&color=blue)](https://github.com/CosmosContracts/juno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CosmosContracts/juno?style=flat-square&color=yellow)](https://github.com/CosmosContracts/juno/stargazers) [![Forks](https://img.shields.io/github/forks/CosmosContracts/juno?style=flat-square&color=blue)](https://github.com/CosmosContracts/juno/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Platform for Interoperable Smart Contracts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Database
+Crypto
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ CosmosContracts/juno 的生产可用性较高，主要原因是：
 | forks | 57/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # fleschutz/PowerShell
 
-[![Stars](https://img.shields.io/github/stars/fleschutz/PowerShell?style=flat-square&color=yellow)](https://github.com/fleschutz/PowerShell/stargazers) [![Forks](https://img.shields.io/github/forks/fleschutz/PowerShell?style=flat-square&color=blue)](https://github.com/fleschutz/PowerShell/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fleschutz/PowerShell?style=flat-square&color=yellow)](https://github.com/fleschutz/PowerShell/stargazers) [![Forks](https://img.shields.io/github/forks/fleschutz/PowerShell?style=flat-square&color=blue)](https://github.com/fleschutz/PowerShell/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 547 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database
+Automation
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ fleschutz/PowerShell 是一个开源仓库，收录了 600 多个可直接使用
 | forks | 68/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

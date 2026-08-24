@@ -1,6 +1,6 @@
 # handsontable/handsontable
 
-[![Stars](https://img.shields.io/github/stars/handsontable/handsontable?style=flat-square&color=yellow)](https://github.com/handsontable/handsontable/stargazers) [![Forks](https://img.shields.io/github/forks/handsontable/handsontable?style=flat-square&color=blue)](https://github.com/handsontable/handsontable/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/handsontable/handsontable?style=flat-square&color=yellow)](https://github.com/handsontable/handsontable/stargazers) [![Forks](https://img.shields.io/github/forks/handsontable/handsontable?style=flat-square&color=blue)](https://github.com/handsontable/handsontable/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · Marketing
+Frontend · Data
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Handsontable/handsontable 在生产环境中具有较高的可用性，主要原
 | forks | 88/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

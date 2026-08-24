@@ -1,6 +1,6 @@
 # saeedkolivand/ai-job-hunter-app
 
-[![Stars](https://img.shields.io/github/stars/saeedkolivand/ai-job-hunter-app?style=flat-square&color=yellow)](https://github.com/saeedkolivand/ai-job-hunter-app/stargazers) [![Forks](https://img.shields.io/github/forks/saeedkolivand/ai-job-hunter-app?style=flat-square&color=blue)](https://github.com/saeedkolivand/ai-job-hunter-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saeedkolivand/ai-job-hunter-app?style=flat-square&color=yellow)](https://github.com/saeedkolivand/ai-job-hunter-app/stargazers) [![Forks](https://img.shields.io/github/forks/saeedkolivand/ai-job-hunter-app?style=flat-square&color=blue)](https://github.com/saeedkolivand/ai-job-hunter-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI desktop assistant that scrapes job boards, matches roles to your resume, and auto-generates resumes & cover letters. Offline with Ollama, BYO API key, or route it through an AI CLI agent (Claude Code, Codex, Gemini CLI).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ saeedkolivand/ai-job-hunter-app：saeedkolivand/ai-job-hunter-app helps add AI c
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

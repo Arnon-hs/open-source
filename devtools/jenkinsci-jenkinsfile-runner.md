@@ -1,6 +1,6 @@
 # jenkinsci/jenkinsfile-runner
 
-[![Stars](https://img.shields.io/github/stars/jenkinsci/jenkinsfile-runner?style=flat-square&color=yellow)](https://github.com/jenkinsci/jenkinsfile-runner/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/jenkinsfile-runner?style=flat-square&color=blue)](https://github.com/jenkinsci/jenkinsfile-runner/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkinsci/jenkinsfile-runner?style=flat-square&color=yellow)](https://github.com/jenkinsci/jenkinsfile-runner/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/jenkinsfile-runner?style=flat-square&color=blue)](https://github.com/jenkinsci/jenkinsfile-runner/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A command line tool to run Jenkinsfile as a function
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 306 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Jenkinsfile‑Runner 是一个轻量级的命令行工具，能够在本地或 C
 | forks | 62/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

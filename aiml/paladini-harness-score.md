@@ -1,6 +1,6 @@
 # paladini/harness-score
 
-[![Stars](https://img.shields.io/github/stars/paladini/harness-score?style=flat-square&color=yellow)](https://github.com/paladini/harness-score/stargazers) [![Forks](https://img.shields.io/github/forks/paladini/harness-score?style=flat-square&color=blue)](https://github.com/paladini/harness-score/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paladini/harness-score?style=flat-square&color=yellow)](https://github.com/paladini/harness-score/stargazers) [![Forks](https://img.shields.io/github/forks/paladini/harness-score?style=flat-square&color=blue)](https://github.com/paladini/harness-score/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI coding agent is only as reliable as the harness around it. Measure that harness in seconds with harness-score.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ paladini/harness-score 的生产可用性很高，因为它有以下优势：
 | forks | 30/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

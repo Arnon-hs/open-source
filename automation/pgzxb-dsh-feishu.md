@@ -1,6 +1,6 @@
 # PGZXB/dsh-feishu
 
-[![Stars](https://img.shields.io/github/stars/PGZXB/dsh-feishu?style=flat-square&color=yellow)](https://github.com/PGZXB/dsh-feishu/stargazers) [![Forks](https://img.shields.io/github/forks/PGZXB/dsh-feishu?style=flat-square&color=blue)](https://github.com/PGZXB/dsh-feishu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PGZXB/dsh-feishu?style=flat-square&color=yellow)](https://github.com/PGZXB/dsh-feishu/stargazers) [![Forks](https://img.shields.io/github/forks/PGZXB/dsh-feishu?style=flat-square&color=blue)](https://github.com/PGZXB/dsh-feishu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The Feishu UI for DeepSeek Harness  — a panel-driven control console: every slash command a button on the ⚙️ control-panel card, in-card approvals & questions, live streaming cards, one-QR setup. | DeepSeek Harness 的飞书 UI：面板驱动控制台——每个命令都是卡片按钮，卡内审批与提问，流式卡片，扫码一键配置。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ PGZXB/dsh-feishu：PGZXB/dsh-feishu helps remove repetitive manual operations fr
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

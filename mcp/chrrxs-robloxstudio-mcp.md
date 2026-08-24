@@ -1,6 +1,6 @@
 # Chrrxs/robloxstudio-mcp
 
-[![Stars](https://img.shields.io/github/stars/Chrrxs/robloxstudio-mcp?style=flat-square&color=yellow)](https://github.com/Chrrxs/robloxstudio-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Chrrxs/robloxstudio-mcp?style=flat-square&color=blue)](https://github.com/Chrrxs/robloxstudio-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chrrxs/robloxstudio-mcp?style=flat-square&color=yellow)](https://github.com/Chrrxs/robloxstudio-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Chrrxs/robloxstudio-mcp?style=flat-square&color=blue)](https://github.com/Chrrxs/robloxstudio-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Roblox Studio runtime debugging, playtest control, screenshots/input, multiplayer testing, and per-peer server/client eval from AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Chrrxs/robloxstudio‑mcp 是一个基于 Model Context Protocol（MCP）的服�
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

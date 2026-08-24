@@ -1,6 +1,6 @@
 # CogniPilot/rumoca
 
-[![Stars](https://img.shields.io/github/stars/CogniPilot/rumoca?style=flat-square&color=yellow)](https://github.com/CogniPilot/rumoca/stargazers) [![Forks](https://img.shields.io/github/forks/CogniPilot/rumoca?style=flat-square&color=blue)](https://github.com/CogniPilot/rumoca/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CogniPilot/rumoca?style=flat-square&color=yellow)](https://github.com/CogniPilot/rumoca/stargazers) [![Forks](https://img.shields.io/github/forks/CogniPilot/rumoca?style=flat-square&color=blue)](https://github.com/CogniPilot/rumoca/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > a rust-native Modelica compiler for fast, composable, scientific computing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ CogniPilot/rumoca 的生产可用性为中等。它可以用于 prototyping 和�
 | forks | 33/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

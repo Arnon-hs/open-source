@@ -1,6 +1,6 @@
 # cltk/cltk
 
-[![Stars](https://img.shields.io/github/stars/cltk/cltk?style=flat-square&color=yellow)](https://github.com/cltk/cltk/stargazers) [![Forks](https://img.shields.io/github/forks/cltk/cltk?style=flat-square&color=blue)](https://github.com/cltk/cltk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cltk/cltk?style=flat-square&color=yellow)](https://github.com/cltk/cltk/stargazers) [![Forks](https://img.shields.io/github/forks/cltk/cltk?style=flat-square&color=blue)](https://github.com/cltk/cltk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The Classical Language Toolkit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 914 |
 | 🍴 **Forks** | 341 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ CLTK 的生产可用性很高，因为它是一个活跃的开源项目，具有
 | forks | 63/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

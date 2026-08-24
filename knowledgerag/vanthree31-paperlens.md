@@ -1,6 +1,6 @@
 # vanthree31/PaperLens
 
-[![Stars](https://img.shields.io/github/stars/vanthree31/PaperLens?style=flat-square&color=yellow)](https://github.com/vanthree31/PaperLens/stargazers) [![Forks](https://img.shields.io/github/forks/vanthree31/PaperLens?style=flat-square&color=blue)](https://github.com/vanthree31/PaperLens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vanthree31/PaperLens?style=flat-square&color=yellow)](https://github.com/vanthree31/PaperLens/stargazers) [![Forks](https://img.shields.io/github/forks/vanthree31/PaperLens?style=flat-square&color=blue)](https://github.com/vanthree31/PaperLens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Powered Research Assistant for Academic Paper Discovery, Analysis, and Citation Intelligence
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ PaperLens 的生产可用性为中等（Medium）。它适合用于原型或内�
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

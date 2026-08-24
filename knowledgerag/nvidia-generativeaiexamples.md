@@ -1,6 +1,6 @@
 # NVIDIA/GenerativeAIExamples
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/GenerativeAIExamples?style=flat-square&color=yellow)](https://github.com/NVIDIA/GenerativeAIExamples/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/GenerativeAIExamples?style=flat-square&color=blue)](https://github.com/NVIDIA/GenerativeAIExamples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/GenerativeAIExamples?style=flat-square&color=yellow)](https://github.com/NVIDIA/GenerativeAIExamples/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/GenerativeAIExamples?style=flat-square&color=blue)](https://github.com/NVIDIA/GenerativeAIExamples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Backend · DevOps/Infra
+Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -84,14 +84,15 @@ Knowledge/RAG · Automation · AI/ML · Backend · DevOps/Infra
 | forks | 76/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Carol42/Carol42
 
-[![Stars](https://img.shields.io/github/stars/Carol42/Carol42?style=flat-square&color=yellow)](https://github.com/Carol42/Carol42/stargazers) [![Forks](https://img.shields.io/github/forks/Carol42/Carol42?style=flat-square&color=blue)](https://github.com/Carol42/Carol42/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Carol42/Carol42?style=flat-square&color=yellow)](https://github.com/Carol42/Carol42/stargazers) [![Forks](https://img.shields.io/github/forks/Carol42/Carol42?style=flat-square&color=blue)](https://github.com/Carol42/Carol42/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > :octocat: Config files for my GitHub profile!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Carol42/Carol42 是作者为个人 GitHub 主页准备的一套配置文件仓�
 | forks | 50/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

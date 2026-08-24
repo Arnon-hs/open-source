@@ -1,6 +1,6 @@
 # prose-intelligence-ltd/Telepathy-Community
 
-[![Stars](https://img.shields.io/github/stars/prose-intelligence-ltd/Telepathy-Community?style=flat-square&color=yellow)](https://github.com/prose-intelligence-ltd/Telepathy-Community/stargazers) [![Forks](https://img.shields.io/github/forks/prose-intelligence-ltd/Telepathy-Community?style=flat-square&color=blue)](https://github.com/prose-intelligence-ltd/Telepathy-Community/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prose-intelligence-ltd/Telepathy-Community?style=flat-square&color=yellow)](https://github.com/prose-intelligence-ltd/Telepathy-Community/stargazers) [![Forks](https://img.shields.io/github/forks/prose-intelligence-ltd/Telepathy-Community?style=flat-square&color=blue)](https://github.com/prose-intelligence-ltd/Telepathy-Community/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Telepathy-Community 在生产环境中具有中等可用性。虽然它提供了
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 13/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

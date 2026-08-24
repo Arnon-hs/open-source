@@ -1,6 +1,6 @@
 # qntx/erc8004
 
-[![Stars](https://img.shields.io/github/stars/qntx/erc8004?style=flat-square&color=yellow)](https://github.com/qntx/erc8004/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/erc8004?style=flat-square&color=blue)](https://github.com/qntx/erc8004/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qntx/erc8004?style=flat-square&color=yellow)](https://github.com/qntx/erc8004/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/erc8004?style=flat-square&color=blue)](https://github.com/qntx/erc8004/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Rust SDK for ERC-8004: Onchain AI agent execution registry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ qntx/erc8004 是一个 Rust SDK，提供 ERC‑8004 链上 AI 代理执行注册
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

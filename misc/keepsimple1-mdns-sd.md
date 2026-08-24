@@ -1,6 +1,6 @@
 # keepsimple1/mdns-sd
 
-[![Stars](https://img.shields.io/github/stars/keepsimple1/mdns-sd?style=flat-square&color=yellow)](https://github.com/keepsimple1/mdns-sd/stargazers) [![Forks](https://img.shields.io/github/forks/keepsimple1/mdns-sd?style=flat-square&color=blue)](https://github.com/keepsimple1/mdns-sd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keepsimple1/mdns-sd?style=flat-square&color=yellow)](https://github.com/keepsimple1/mdns-sd/stargazers) [![Forks](https://img.shields.io/github/forks/keepsimple1/mdns-sd?style=flat-square&color=blue)](https://github.com/keepsimple1/mdns-sd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Rust library for mDNS based Service Discovery
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -138,14 +138,15 @@ keepsimple1/mdns-sd 是一个用 Rust 编写的 mDNS（Multicast DNS）服务发
 | forks | 46/100 |
 | stars | 49/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

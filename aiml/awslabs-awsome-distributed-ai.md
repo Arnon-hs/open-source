@@ -1,6 +1,6 @@
 # awslabs/awsome-distributed-ai
 
-[![Stars](https://img.shields.io/github/stars/awslabs/awsome-distributed-ai?style=flat-square&color=yellow)](https://github.com/awslabs/awsome-distributed-ai/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/awsome-distributed-ai?style=flat-square&color=blue)](https://github.com/awslabs/awsome-distributed-ai/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/awsome-distributed-ai?style=flat-square&color=yellow)](https://github.com/awslabs/awsome-distributed-ai/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/awsome-distributed-ai?style=flat-square&color=blue)](https://github.com/awslabs/awsome-distributed-ai/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 461 |
 | 🍴 **Forks** | 198 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Education
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ awslabs/awsome-distributed-ai 提供了在 AWS 上训练大规模模型的最佳
 | forks | 57/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xing5/mcp-google-sheets
 
-[![Stars](https://img.shields.io/github/stars/xing5/mcp-google-sheets?style=flat-square&color=yellow)](https://github.com/xing5/mcp-google-sheets/stargazers) [![Forks](https://img.shields.io/github/forks/xing5/mcp-google-sheets?style=flat-square&color=blue)](https://github.com/xing5/mcp-google-sheets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xing5/mcp-google-sheets?style=flat-square&color=yellow)](https://github.com/xing5/mcp-google-sheets/stargazers) [![Forks](https://img.shields.io/github/forks/xing5/mcp-google-sheets?style=flat-square&color=blue)](https://github.com/xing5/mcp-google-sheets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 859 |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Marketing
+MCP · Backend
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ xing5/mcp-google-sheets 是一个基于 Model Context Protocol（MCP）的后端
 | forks | 58/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dotnet/orleans
 
-[![Stars](https://img.shields.io/github/stars/dotnet/orleans?style=flat-square&color=yellow)](https://github.com/dotnet/orleans/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/orleans?style=flat-square&color=blue)](https://github.com/dotnet/orleans/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/orleans?style=flat-square&color=yellow)](https://github.com/dotnet/orleans/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/orleans?style=flat-square&color=blue)](https://github.com/dotnet/orleans/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud Native application framework for .NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ dotnet/orleans 的生产可用性非常高，主要是因为它的
 | forks | 83/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 60/100 |
 | adoption | 85/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

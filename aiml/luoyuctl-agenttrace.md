@@ -1,6 +1,6 @@
 # luoyuctl/agenttrace
 
-[![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square&color=yellow)](https://github.com/luoyuctl/agenttrace/stargazers) [![Forks](https://img.shields.io/github/forks/luoyuctl/agenttrace?style=flat-square&color=blue)](https://github.com/luoyuctl/agenttrace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square&color=yellow)](https://github.com/luoyuctl/agenttrace/stargazers) [![Forks](https://img.shields.io/github/forks/luoyuctl/agenttrace?style=flat-square&color=blue)](https://github.com/luoyuctl/agenttrace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first TUI for AI coding-agent session history: trace cost, tokens, time, tool failures, latency, health, diffs, reports, and CI gates across local agent logs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Observability
+AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ luoyuctl/agenttrace 是一款本地优先的 TUI 工具，能够实时追踪 AI 
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

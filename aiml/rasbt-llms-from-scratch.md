@@ -1,6 +1,6 @@
 # rasbt/LLMs-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=flat-square&color=yellow)](https://github.com/rasbt/LLMs-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rasbt/LLMs-from-scratch?style=flat-square&color=blue)](https://github.com/rasbt/LLMs-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=flat-square&color=yellow)](https://github.com/rasbt/LLMs-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rasbt/LLMs-from-scratch?style=flat-square&color=blue)](https://github.com/rasbt/LLMs-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98.9k |
 | 🍴 **Forks** | 15.2k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ rasbt/LLMs-from-scratch 是一个开源项目，旨在从零开始实现一个�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

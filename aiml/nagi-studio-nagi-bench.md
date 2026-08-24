@@ -1,6 +1,6 @@
 # nagi-studio/nagi-bench
 
-[![Stars](https://img.shields.io/github/stars/nagi-studio/nagi-bench?style=flat-square&color=yellow)](https://github.com/nagi-studio/nagi-bench/stargazers) [![Forks](https://img.shields.io/github/forks/nagi-studio/nagi-bench?style=flat-square&color=blue)](https://github.com/nagi-studio/nagi-bench/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nagi-studio/nagi-bench?style=flat-square&color=yellow)](https://github.com/nagi-studio/nagi-bench/stargazers) [![Forks](https://img.shields.io/github/forks/nagi-studio/nagi-bench?style=flat-square&color=blue)](https://github.com/nagi-studio/nagi-bench/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > One-shot LLM eval cases by NAGI STUDIO - same prompt, different agents (model + harness), runnable artifacts side by side.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ nagi-studio/nagi-bench 是一个开源项目，用于评估 One-shot LLM（大�
 | forks | 30/100 |
 | stars | 35/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

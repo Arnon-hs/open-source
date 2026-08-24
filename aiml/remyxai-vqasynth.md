@@ -1,6 +1,6 @@
 # remyxai/VQASynth
 
-[![Stars](https://img.shields.io/github/stars/remyxai/VQASynth?style=flat-square&color=yellow)](https://github.com/remyxai/VQASynth/stargazers) [![Forks](https://img.shields.io/github/forks/remyxai/VQASynth?style=flat-square&color=blue)](https://github.com/remyxai/VQASynth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remyxai/VQASynth?style=flat-square&color=yellow)](https://github.com/remyxai/VQASynth/stargazers) [![Forks](https://img.shields.io/github/forks/remyxai/VQASynth?style=flat-square&color=blue)](https://github.com/remyxai/VQASynth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Compose multimodal datasets 🎹
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 586 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ remyxai/VQASynth 通过提供即插即用的多模态数据集合成功帮助团
 | forks | 37/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

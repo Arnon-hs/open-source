@@ -1,6 +1,6 @@
 # 0xzr/freellmpool
 
-[![Stars](https://img.shields.io/github/stars/0xzr/freellmpool?style=flat-square&color=yellow)](https://github.com/0xzr/freellmpool/stargazers) [![Forks](https://img.shields.io/github/forks/0xzr/freellmpool?style=flat-square&color=blue)](https://github.com/0xzr/freellmpool/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xzr/freellmpool?style=flat-square&color=yellow)](https://github.com/0xzr/freellmpool/stargazers) [![Forks](https://img.shields.io/github/forks/0xzr/freellmpool?style=flat-square&color=blue)](https://github.com/0xzr/freellmpool/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Free LLM API pool: 19 LLM providers cataloged, 235 routes, 355 cataloged chat models, keyless start when available.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Overall, freellmpool offers a high‑readiness, low‑friction way to standardiz
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

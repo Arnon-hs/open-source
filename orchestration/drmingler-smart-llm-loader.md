@@ -1,6 +1,6 @@
 # drmingler/smart-llm-loader
 
-[![Stars](https://img.shields.io/github/stars/drmingler/smart-llm-loader?style=flat-square&color=yellow)](https://github.com/drmingler/smart-llm-loader/stargazers) [![Forks](https://img.shields.io/github/forks/drmingler/smart-llm-loader?style=flat-square&color=blue)](https://github.com/drmingler/smart-llm-loader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drmingler/smart-llm-loader?style=flat-square&color=yellow)](https://github.com/drmingler/smart-llm-loader/stargazers) [![Forks](https://img.shields.io/github/forks/drmingler/smart-llm-loader?style=flat-square&color=blue)](https://github.com/drmingler/smart-llm-loader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > smart-llm-loader is a lightweight yet powerful Python package that transforms any document into LLM-ready chunks. Spend less time on preprocessing headaches and more time building what matters. From RAG systems to chatbots to document Q&A, SmartLLMLoader handles the heavy lifting so you can focus on creating exceptional AI applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ drmingler/smart-llm-loader 是一个轻量级、强大的 Python 包，能将任
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

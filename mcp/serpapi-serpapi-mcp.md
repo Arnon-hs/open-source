@@ -1,6 +1,6 @@
 # serpapi/serpapi-mcp
 
-[![Stars](https://img.shields.io/github/stars/serpapi/serpapi-mcp?style=flat-square&color=yellow)](https://github.com/serpapi/serpapi-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/serpapi/serpapi-mcp?style=flat-square&color=blue)](https://github.com/serpapi/serpapi-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serpapi/serpapi-mcp?style=flat-square&color=yellow)](https://github.com/serpapi/serpapi-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/serpapi/serpapi-mcp?style=flat-square&color=blue)](https://github.com/serpapi/serpapi-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > SerpApi MCP Server for Google and other search engine results
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Automation · Backend
+MCP
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ SerpApi MCP 是一个开源项目，用于连接 AI 助手和真实的工具和�
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

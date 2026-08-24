@@ -1,6 +1,6 @@
 # FGBLH/HKL
 
-[![Stars](https://img.shields.io/github/stars/FGBLH/HKL?style=flat-square&color=yellow)](https://github.com/FGBLH/HKL/stargazers) [![Forks](https://img.shields.io/github/forks/FGBLH/HKL?style=flat-square&color=blue)](https://github.com/FGBLH/HKL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FGBLH/HKL?style=flat-square&color=yellow)](https://github.com/FGBLH/HKL/stargazers) [![Forks](https://img.shields.io/github/forks/FGBLH/HKL?style=flat-square&color=blue)](https://github.com/FGBLH/HKL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 免费更新直播源给大家
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ FGBLH/HKL的生产可用性为中等（Medium）。它可以用于prototype或�
 | forks | 52/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

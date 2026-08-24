@@ -1,6 +1,6 @@
 # pocolov/vinyl-to-essence
 
-[![Stars](https://img.shields.io/github/stars/pocolov/vinyl-to-essence?style=flat-square&color=yellow)](https://github.com/pocolov/vinyl-to-essence/stargazers) [![Forks](https://img.shields.io/github/forks/pocolov/vinyl-to-essence?style=flat-square&color=blue)](https://github.com/pocolov/vinyl-to-essence/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pocolov/vinyl-to-essence?style=flat-square&color=yellow)](https://github.com/pocolov/vinyl-to-essence/stargazers) [![Forks](https://img.shields.io/github/forks/pocolov/vinyl-to-essence?style=flat-square&color=blue)](https://github.com/pocolov/vinyl-to-essence/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Save Spotify Playlists Directly to Local Library 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ pocolov/vinyl-to-essence 是一款开源工具，能够把 Spotify 播放列表�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

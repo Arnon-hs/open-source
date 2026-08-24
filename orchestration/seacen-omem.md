@@ -1,6 +1,6 @@
 # seacen/omem
 
-[![Stars](https://img.shields.io/github/stars/seacen/omem?style=flat-square&color=yellow)](https://github.com/seacen/omem/stargazers) [![Forks](https://img.shields.io/github/forks/seacen/omem?style=flat-square&color=blue)](https://github.com/seacen/omem/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seacen/omem?style=flat-square&color=yellow)](https://github.com/seacen/omem/stargazers) [![Forks](https://img.shields.io/github/forks/seacen/omem?style=flat-square&color=blue)](https://github.com/seacen/omem/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > OMem (Office Memory) — local-first memory that automatically ingests your real work (mail, calendar, notes, files) from where it already lives, into a Markdown wiki any AI agent can query. macOS today; Windows coming.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ OMemb 的生产可用性为中等，适合用于原型验证或内部工作流�
 | forks | 0/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

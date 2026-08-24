@@ -1,6 +1,6 @@
 # ACEmulator/ACE
 
-[![Stars](https://img.shields.io/github/stars/ACEmulator/ACE?style=flat-square&color=yellow)](https://github.com/ACEmulator/ACE/stargazers) [![Forks](https://img.shields.io/github/forks/ACEmulator/ACE?style=flat-square&color=blue)](https://github.com/ACEmulator/ACE/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ACEmulator/ACE?style=flat-square&color=yellow)](https://github.com/ACEmulator/ACE/stargazers) [![Forks](https://img.shields.io/github/forks/ACEmulator/ACE?style=flat-square&color=blue)](https://github.com/ACEmulator/ACE/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Asheron's Call server emulator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ ACEmulator/ACE 的生产可用性为中等。它适合用于快速原型或内�
 | forks | 61/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

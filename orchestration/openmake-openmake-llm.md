@@ -1,6 +1,6 @@
 # openmake/openmake_llm
 
-[![Stars](https://img.shields.io/github/stars/openmake/openmake_llm?style=flat-square&color=yellow)](https://github.com/openmake/openmake_llm/stargazers) [![Forks](https://img.shields.io/github/forks/openmake/openmake_llm?style=flat-square&color=blue)](https://github.com/openmake/openmake_llm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openmake/openmake_llm?style=flat-square&color=yellow)](https://github.com/openmake/openmake_llm/stargazers) [![Forks](https://img.shields.io/github/forks/openmake/openmake_llm?style=flat-square&color=blue)](https://github.com/openmake/openmake_llm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifacts, and BYOK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ openmake/openmake_llm 的生产可用性较高，它具有强烈的活跃度、�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

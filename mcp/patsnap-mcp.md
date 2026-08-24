@@ -1,6 +1,6 @@
 # patsnap/mcp
 
-[![Stars](https://img.shields.io/github/stars/patsnap/mcp?style=flat-square&color=yellow)](https://github.com/patsnap/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patsnap/mcp?style=flat-square&color=blue)](https://github.com/patsnap/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patsnap/mcp?style=flat-square&color=yellow)](https://github.com/patsnap/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/patsnap/mcp?style=flat-square&color=blue)](https://github.com/patsnap/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for 200M+ patents, scientific literature, chemistry and pharma records. Search prior art and R&D intelligence powered by PatSnap's proprietary databases via Claude, Cursor and MCP-compatible clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Data · Database
+MCP · Backend · Database
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ patsnap/mcp：patsnap/mcp helps connect AI assistants to real tools and data thr
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

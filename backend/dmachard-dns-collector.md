@@ -1,6 +1,6 @@
 # dmachard/DNS-collector
 
-[![Stars](https://img.shields.io/github/stars/dmachard/DNS-collector?style=flat-square&color=yellow)](https://github.com/dmachard/DNS-collector/stargazers) [![Forks](https://img.shields.io/github/forks/dmachard/DNS-collector?style=flat-square&color=blue)](https://github.com/dmachard/DNS-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmachard/DNS-collector?style=flat-square&color=yellow)](https://github.com/dmachard/DNS-collector/stargazers) [![Forks](https://img.shields.io/github/forks/dmachard/DNS-collector?style=flat-square&color=blue)](https://github.com/dmachard/DNS-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Grab your DNS logs, detect anomalies, and finally understand what's happening on your network. The missing piece between DNS servers and your data stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Observability · Security
+Backend · Observability · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ dmachard/DNS-collector 的生产可用性很高，原因如下：
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

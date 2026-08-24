@@ -1,6 +1,6 @@
 # c9s/bbgo
 
-[![Stars](https://img.shields.io/github/stars/c9s/bbgo?style=flat-square&color=yellow)](https://github.com/c9s/bbgo/stargazers) [![Forks](https://img.shields.io/github/forks/c9s/bbgo?style=flat-square&color=blue)](https://github.com/c9s/bbgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/c9s/bbgo?style=flat-square&color=yellow)](https://github.com/c9s/bbgo/stargazers) [![Forks](https://img.shields.io/github/forks/c9s/bbgo?style=flat-square&color=blue)](https://github.com/c9s/bbgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The modern cryptocurrency trading bot framework written in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ c9s/bbgo 在生产环境中具有很高的可用性，主要原因是：
 | forks | 64/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

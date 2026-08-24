@@ -1,6 +1,6 @@
 # vilmire/adhdev
 
-[![Stars](https://img.shields.io/github/stars/vilmire/adhdev?style=flat-square&color=yellow)](https://github.com/vilmire/adhdev/stargazers) [![Forks](https://img.shields.io/github/forks/vilmire/adhdev?style=flat-square&color=blue)](https://github.com/vilmire/adhdev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vilmire/adhdev?style=flat-square&color=yellow)](https://github.com/vilmire/adhdev/stargazers) [![Forks](https://img.shields.io/github/forks/vilmire/adhdev?style=flat-square&color=blue)](https://github.com/vilmire/adhdev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ ADHDev 已经获得了较高的生产可用性评分（76/100），因为它具�
 | forks | 27/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

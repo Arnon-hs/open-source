@@ -1,6 +1,6 @@
 # dunglas/prompt-mac
 
-[![Stars](https://img.shields.io/github/stars/dunglas/prompt-mac?style=flat-square&color=yellow)](https://github.com/dunglas/prompt-mac/stargazers) [![Forks](https://img.shields.io/github/forks/dunglas/prompt-mac?style=flat-square&color=blue)](https://github.com/dunglas/prompt-mac/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dunglas/prompt-mac?style=flat-square&color=yellow)](https://github.com/dunglas/prompt-mac/stargazers) [![Forks](https://img.shields.io/github/forks/dunglas/prompt-mac?style=flat-square&color=blue)](https://github.com/dunglas/prompt-mac/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > one-shot, AI-first macOS setup for Apple Silicon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Design · Education
+AI/ML · DevOps/Infra · Education
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ dunglas/prompt-mac 的生产可用性为中等（Medium），适合用于内部�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

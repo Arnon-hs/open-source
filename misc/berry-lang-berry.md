@@ -1,6 +1,6 @@
 # berry-lang/berry
 
-[![Stars](https://img.shields.io/github/stars/berry-lang/berry?style=flat-square&color=yellow)](https://github.com/berry-lang/berry/stargazers) [![Forks](https://img.shields.io/github/forks/berry-lang/berry?style=flat-square&color=blue)](https://github.com/berry-lang/berry/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/berry-lang/berry?style=flat-square&color=yellow)](https://github.com/berry-lang/berry/stargazers) [![Forks](https://img.shields.io/github/forks/berry-lang/berry?style=flat-square&color=blue)](https://github.com/berry-lang/berry/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A ultra-lightweight embedded scripting language optimized for microcontrollers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ Berry‑lang/berry 是一款超轻量级的嵌入式脚本语言，专为资源�
 | forks | 53/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

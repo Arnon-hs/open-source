@@ -1,6 +1,6 @@
 # junmo-kim/mac-local-vision
 
-[![Stars](https://img.shields.io/github/stars/junmo-kim/mac-local-vision?style=flat-square&color=yellow)](https://github.com/junmo-kim/mac-local-vision/stargazers) [![Forks](https://img.shields.io/github/forks/junmo-kim/mac-local-vision?style=flat-square&color=blue)](https://github.com/junmo-kim/mac-local-vision/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junmo-kim/mac-local-vision?style=flat-square&color=yellow)](https://github.com/junmo-kim/mac-local-vision/stargazers) [![Forks](https://img.shields.io/github/forks/junmo-kim/mac-local-vision?style=flat-square&color=blue)](https://github.com/junmo-kim/mac-local-vision/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-token, on-device vision for AI agents — OCR, pixel-exact UI targeting, and face grouping on Apple Vision. Pure Swift, single binary, no dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Design
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ junmo-kim/mac-local-vision 帮助连接 AI 代理到真实工具和数据通过�
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

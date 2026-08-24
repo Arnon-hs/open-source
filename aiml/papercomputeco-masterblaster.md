@@ -1,6 +1,6 @@
 # papercomputeco/masterblaster
 
-[![Stars](https://img.shields.io/github/stars/papercomputeco/masterblaster?style=flat-square&color=yellow)](https://github.com/papercomputeco/masterblaster/stargazers) [![Forks](https://img.shields.io/github/forks/papercomputeco/masterblaster?style=flat-square&color=blue)](https://github.com/papercomputeco/masterblaster/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/papercomputeco/masterblaster?style=flat-square&color=yellow)](https://github.com/papercomputeco/masterblaster/stargazers) [![Forks](https://img.shields.io/github/forks/papercomputeco/masterblaster?style=flat-square&color=blue)](https://github.com/papercomputeco/masterblaster/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Create, manage, and orchestrate stereOS AI agent sandboxes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ papercomputeco/masterblaster 的生产可用性为中等（Medium）。虽然它
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

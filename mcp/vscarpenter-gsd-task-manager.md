@@ -1,6 +1,6 @@
 # vscarpenter/gsd-task-manager
 
-[![Stars](https://img.shields.io/github/stars/vscarpenter/gsd-task-manager?style=flat-square&color=yellow)](https://github.com/vscarpenter/gsd-task-manager/stargazers) [![Forks](https://img.shields.io/github/forks/vscarpenter/gsd-task-manager?style=flat-square&color=blue)](https://github.com/vscarpenter/gsd-task-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vscarpenter/gsd-task-manager?style=flat-square&color=yellow)](https://github.com/vscarpenter/gsd-task-manager/stargazers) [![Forks](https://img.shields.io/github/forks/vscarpenter/gsd-task-manager?style=flat-square&color=blue)](https://github.com/vscarpenter/gsd-task-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Stop juggling, start finishing. GSD Task Manager makes it easy to sort your to-dos into what’s urgent and what’s important, so you can finally get stuff done without burning out. It’s simple, visual, and works entirely offline.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ vscarpenter/gsd-task-manager 的生产可用性为中等（Medium），适合用
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

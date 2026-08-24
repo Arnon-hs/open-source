@@ -1,6 +1,6 @@
 # nexu-io/html-anything
 
-[![Stars](https://img.shields.io/github/stars/nexu-io/html-anything?style=flat-square&color=yellow)](https://github.com/nexu-io/html-anything/stargazers) [![Forks](https://img.shields.io/github/forks/nexu-io/html-anything?style=flat-square&color=blue)](https://github.com/nexu-io/html-anything/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexu-io/html-anything?style=flat-square&color=yellow)](https://github.com/nexu-io/html-anything/stargazers) [![Forks](https://img.shields.io/github/forks/nexu-io/html-anything?style=flat-square&color=blue)](https://github.com/nexu-io/html-anything/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · DevTools · Data
+Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ nexu-io/html‑anything 是一款「agentic」HTML 编辑器，利用本地 AI �
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

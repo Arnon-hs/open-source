@@ -1,6 +1,6 @@
 # epam/ai-dial-sdk
 
-[![Stars](https://img.shields.io/github/stars/epam/ai-dial-sdk?style=flat-square&color=yellow)](https://github.com/epam/ai-dial-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/epam/ai-dial-sdk?style=flat-square&color=blue)](https://github.com/epam/ai-dial-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epam/ai-dial-sdk?style=flat-square&color=yellow)](https://github.com/epam/ai-dial-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/epam/ai-dial-sdk?style=flat-square&color=blue)](https://github.com/epam/ai-dial-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Framework to create applications and model adapters for AI DIAL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ The *epam/ai-dial-sdk* is a Python framework that lets developers quickly asse
 | forks | 30/100 |
 | stars | 49/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

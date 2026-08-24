@@ -1,6 +1,6 @@
 # Payum/PayumBundle
 
-[![Stars](https://img.shields.io/github/stars/Payum/PayumBundle?style=flat-square&color=yellow)](https://github.com/Payum/PayumBundle/stargazers) [![Forks](https://img.shields.io/github/forks/Payum/PayumBundle?style=flat-square&color=blue)](https://github.com/Payum/PayumBundle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Payum/PayumBundle?style=flat-square&color=yellow)](https://github.com/Payum/PayumBundle/stargazers) [![Forks](https://img.shields.io/github/forks/Payum/PayumBundle?style=flat-square&color=blue)](https://github.com/Payum/PayumBundle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Payum offers everything you need to work with payments. From simplest use cases to very advanced ones.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Payum/PayumBundle 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 54/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

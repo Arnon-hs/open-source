@@ -1,6 +1,6 @@
 # davidmosiah/google-health-mcp
 
-[![Stars](https://img.shields.io/github/stars/davidmosiah/google-health-mcp?style=flat-square&color=yellow)](https://github.com/davidmosiah/google-health-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/davidmosiah/google-health-mcp?style=flat-square&color=blue)](https://github.com/davidmosiah/google-health-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidmosiah/google-health-mcp?style=flat-square&color=yellow)](https://github.com/davidmosiah/google-health-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/davidmosiah/google-health-mcp?style=flat-square&color=blue)](https://github.com/davidmosiah/google-health-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first MCP server for Google Health API v4 (Fitbit + Pixel Watch) — Claude/Cursor/Hermes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Security
+MCP · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Overall, the project is a solid OSS candidate for pilots that need trustworthy, 
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

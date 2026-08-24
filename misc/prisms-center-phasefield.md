@@ -1,6 +1,6 @@
 # prisms-center/phaseField
 
-[![Stars](https://img.shields.io/github/stars/prisms-center/phaseField?style=flat-square&color=yellow)](https://github.com/prisms-center/phaseField/stargazers) [![Forks](https://img.shields.io/github/forks/prisms-center/phaseField?style=flat-square&color=blue)](https://github.com/prisms-center/phaseField/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prisms-center/phaseField?style=flat-square&color=yellow)](https://github.com/prisms-center/phaseField/stargazers) [![Forks](https://img.shields.io/github/forks/prisms-center/phaseField?style=flat-square&color=blue)](https://github.com/prisms-center/phaseField/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > PRISMS-PF: An Open-Source Phase-Field Modeling Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ PRISMS‑PF 是一个功能完整、社区活跃的相场建模工具，适合�
 | forks | 54/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # deerwork-ai/deer-workflow
 
-[![Stars](https://img.shields.io/github/stars/deerwork-ai/deer-workflow?style=flat-square&color=yellow)](https://github.com/deerwork-ai/deer-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/deerwork-ai/deer-workflow?style=flat-square&color=blue)](https://github.com/deerwork-ai/deer-workflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deerwork-ai/deer-workflow?style=flat-square&color=yellow)](https://github.com/deerwork-ai/deer-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/deerwork-ai/deer-workflow?style=flat-square&color=blue)](https://github.com/deerwork-ai/deer-workflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ deerwork-ai/deer-workflow 的生产可用性为中等（Medium）。它适合用
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

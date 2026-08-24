@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2023-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -105,6 +105,7 @@ CompVis/stable-diffusion-v1-4 是一个流行的开源模型，用于生成图�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # roryclear/clearcam
 
-[![Stars](https://img.shields.io/github/stars/roryclear/clearcam?style=flat-square&color=yellow)](https://github.com/roryclear/clearcam/stargazers) [![Forks](https://img.shields.io/github/forks/roryclear/clearcam?style=flat-square&color=blue)](https://github.com/roryclear/clearcam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roryclear/clearcam?style=flat-square&color=yellow)](https://github.com/roryclear/clearcam/stargazers) [![Forks](https://img.shields.io/github/forks/roryclear/clearcam?style=flat-square&color=blue)](https://github.com/roryclear/clearcam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Add object detection, tracking, mobile notifications, and search to any security camera.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 836 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ roryclear/clearcam 为任意监控摄像头快速加入目标检测、目标跟�
 | forks | 41/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

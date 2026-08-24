@@ -1,6 +1,6 @@
 # rafae-ops/polymarket-trading-bot
 
-[![Stars](https://img.shields.io/github/stars/rafae-ops/polymarket-trading-bot?style=flat-square&color=yellow)](https://github.com/rafae-ops/polymarket-trading-bot/stargazers) [![Forks](https://img.shields.io/github/forks/rafae-ops/polymarket-trading-bot?style=flat-square&color=blue)](https://github.com/rafae-ops/polymarket-trading-bot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafae-ops/polymarket-trading-bot?style=flat-square&color=yellow)](https://github.com/rafae-ops/polymarket-trading-bot/stargazers) [![Forks](https://img.shields.io/github/forks/rafae-ops/polymarket-trading-bot?style=flat-square&color=blue)](https://github.com/rafae-ops/polymarket-trading-bot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Knowledge/RAG · Automation · AI/ML
+Trading · Automation
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ rafae-ops/polymarket-trading-bot 是一个开源项目，用于研究和自动�
 | forks | 78/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

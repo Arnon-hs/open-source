@@ -1,6 +1,6 @@
 # shadcn-labs/termcn
 
-[![Stars](https://img.shields.io/github/stars/shadcn-labs/termcn?style=flat-square&color=yellow)](https://github.com/shadcn-labs/termcn/stargazers) [![Forks](https://img.shields.io/github/forks/shadcn-labs/termcn?style=flat-square&color=blue)](https://github.com/shadcn-labs/termcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shadcn-labs/termcn?style=flat-square&color=yellow)](https://github.com/shadcn-labs/termcn/stargazers) [![Forks](https://img.shields.io/github/forks/shadcn-labs/termcn?style=flat-square&color=blue)](https://github.com/shadcn-labs/termcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ shadcn-labs/termcn 的生产可用性很高，因为它有：
 | forks | 36/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

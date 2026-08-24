@@ -1,6 +1,6 @@
 # dcc-mcp/dcc-mcp-core
 
-[![Stars](https://img.shields.io/github/stars/dcc-mcp/dcc-mcp-core?style=flat-square&color=yellow)](https://github.com/dcc-mcp/dcc-mcp-core/stargazers) [![Forks](https://img.shields.io/github/forks/dcc-mcp/dcc-mcp-core?style=flat-square&color=blue)](https://github.com/dcc-mcp/dcc-mcp-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dcc-mcp/dcc-mcp-core?style=flat-square&color=yellow)](https://github.com/dcc-mcp/dcc-mcp-core/stargazers) [![Forks](https://img.shields.io/github/forks/dcc-mcp/dcc-mcp-core?style=flat-square&color=blue)](https://github.com/dcc-mcp/dcc-mcp-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Core runtime and shared tooling for DCC-MCP: safe, skill-first MCP integration across Maya, Blender, Houdini, Photoshop, and custom DCC hosts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ dcc-mcp/dcc-mcp-core 是 DCC‑MCP 的核心运行时与共享工具库，提供
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # TheBeastLT/torrentio-scraper
 
-[![Stars](https://img.shields.io/github/stars/TheBeastLT/torrentio-scraper?style=flat-square&color=yellow)](https://github.com/TheBeastLT/torrentio-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/TheBeastLT/torrentio-scraper?style=flat-square&color=blue)](https://github.com/TheBeastLT/torrentio-scraper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheBeastLT/torrentio-scraper?style=flat-square&color=yellow)](https://github.com/TheBeastLT/torrentio-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/TheBeastLT/torrentio-scraper?style=flat-square&color=blue)](https://github.com/TheBeastLT/torrentio-scraper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ TheBeastLT/torrentio-scraper：TheBeastLT/torrentio-scraper may be useful when i
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rohitg00/awesome-devops-mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/rohitg00/awesome-devops-mcp-servers?style=flat-square&color=yellow)](https://github.com/rohitg00/awesome-devops-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/awesome-devops-mcp-servers?style=flat-square&color=blue)](https://github.com/rohitg00/awesome-devops-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohitg00/awesome-devops-mcp-servers?style=flat-square&color=yellow)](https://github.com/rohitg00/awesome-devops-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/awesome-devops-mcp-servers?style=flat-square&color=blue)](https://github.com/rohitg00/awesome-devops-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome MCP servers focused on DevOps tools and capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 982 |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ The project scores high on readiness: recent commits, strong star/fork count, an
 | forks | 60/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # julep-ai/julep
 
-[![Stars](https://img.shields.io/github/stars/julep-ai/julep?style=flat-square&color=yellow)](https://github.com/julep-ai/julep/stargazers) [![Forks](https://img.shields.io/github/forks/julep-ai/julep?style=flat-square&color=blue)](https://github.com/julep-ai/julep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/julep-ai/julep?style=flat-square&color=yellow)](https://github.com/julep-ai/julep/stargazers) [![Forks](https://img.shields.io/github/forks/julep-ai/julep?style=flat-square&color=blue)](https://github.com/julep-ai/julep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 973 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Julep（julep-ai/julep）是一套面向 Python 的开源框架，用于构建 *
 | forks | 75/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

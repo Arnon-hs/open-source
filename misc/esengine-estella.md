@@ -1,6 +1,6 @@
 # esengine/estella
 
-[![Stars](https://img.shields.io/github/stars/esengine/estella?style=flat-square&color=yellow)](https://github.com/esengine/estella/stargazers) [![Forks](https://img.shields.io/github/forks/esengine/estella?style=flat-square&color=blue)](https://github.com/esengine/estella/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esengine/estella?style=flat-square&color=yellow)](https://github.com/esengine/estella/stargazers) [![Forks](https://img.shields.io/github/forks/esengine/estella?style=flat-square&color=blue)](https://github.com/esengine/estella/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight 2D game engine for WebAssembly and WeChat MiniGames
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ esengine/estella 是一个轻量级的 2D 游戏引擎，专为 WebAssembly 与�
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

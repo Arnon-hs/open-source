@@ -1,6 +1,6 @@
 # cypress-io/cypress
 
-[![Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&color=yellow)](https://github.com/cypress-io/cypress/stargazers) [![Forks](https://img.shields.io/github/forks/cypress-io/cypress?style=flat-square&color=blue)](https://github.com/cypress-io/cypress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&color=yellow)](https://github.com/cypress-io/cypress/stargazers) [![Forks](https://img.shields.io/github/forks/cypress-io/cypress?style=flat-square&color=blue)](https://github.com/cypress-io/cypress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, easy and reliable testing for anything that runs in a browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50.7k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Cypress 的生产可用性非常高，主要原因是：
 | forks | 89/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 89/100 |
+| recency | 60/100 |
 | adoption | 97/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

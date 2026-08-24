@@ -1,6 +1,6 @@
 # angrysky56/mcp-logic
 
-[![Stars](https://img.shields.io/github/stars/angrysky56/mcp-logic?style=flat-square&color=yellow)](https://github.com/angrysky56/mcp-logic/stargazers) [![Forks](https://img.shields.io/github/forks/angrysky56/mcp-logic?style=flat-square&color=blue)](https://github.com/angrysky56/mcp-logic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angrysky56/mcp-logic?style=flat-square&color=yellow)](https://github.com/angrysky56/mcp-logic/stargazers) [![Forks](https://img.shields.io/github/forks/angrysky56/mcp-logic?style=flat-square&color=blue)](https://github.com/angrysky56/mcp-logic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Fully functional AI Logic Calculator utilizing Prover9/Mace4 via Python based Model Context Protocol (MCP-Server)- tool for Windows, Linux, Claude App etc
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -72,14 +72,15 @@ angrysky56/mcp‑logic 是一个基于 Python 的 Model Context Protocol（MCP�
 | forks | 27/100 |
 | stars | 35/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

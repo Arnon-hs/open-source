@@ -1,6 +1,6 @@
 # hoyt-harness/davinci-mcp-professional
 
-[![Stars](https://img.shields.io/github/stars/hoyt-harness/davinci-mcp-professional?style=flat-square&color=yellow)](https://github.com/hoyt-harness/davinci-mcp-professional/stargazers) [![Forks](https://img.shields.io/github/forks/hoyt-harness/davinci-mcp-professional?style=flat-square&color=blue)](https://github.com/hoyt-harness/davinci-mcp-professional/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoyt-harness/davinci-mcp-professional?style=flat-square&color=yellow)](https://github.com/hoyt-harness/davinci-mcp-professional/stargazers) [![Forks](https://img.shields.io/github/forks/hoyt-harness/davinci-mcp-professional?style=flat-square&color=blue)](https://github.com/hoyt-harness/davinci-mcp-professional/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An enterprise-grade MCP server that exposes the full functionality of DaVinci Resolve and DaVinci Resolve Studio (through version 20) to either Claude Desktop or Cursor MCP clients. Fully configured and tested as a Claude Desktop Extension making installation as easy as clicking a button. Supports both Windows and Macintosh.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ hoyt-harness/davinci-mcp-professional 是一个企业级 MCP 服务器，提供�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

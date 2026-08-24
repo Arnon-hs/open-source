@@ -1,6 +1,6 @@
 # hesreallyhim/awesome-claude-code
 
-[![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square&color=yellow)](https://github.com/hesreallyhim/awesome-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/hesreallyhim/awesome-claude-code?style=flat-square&color=blue)](https://github.com/hesreallyhim/awesome-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square&color=yellow)](https://github.com/hesreallyhim/awesome-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/hesreallyhim/awesome-claude-code?style=flat-square&color=blue)](https://github.com/hesreallyhim/awesome-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47.6k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ hesreallyhim/awesome-claude-code 的价值在于，它能够帮助用户：
 | forks | 90/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 84/100 |
+| recency | 40/100 |
 | adoption | 97/100 |
-| production | 85/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

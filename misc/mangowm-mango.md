@@ -1,6 +1,6 @@
 # mangowm/mango
 
-[![Stars](https://img.shields.io/github/stars/mangowm/mango?style=flat-square&color=yellow)](https://github.com/mangowm/mango/stargazers) [![Forks](https://img.shields.io/github/forks/mangowm/mango?style=flat-square&color=blue)](https://github.com/mangowm/mango/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mangowm/mango?style=flat-square&color=yellow)](https://github.com/mangowm/mango/stargazers) [![Forks](https://img.shields.io/github/forks/mangowm/mango?style=flat-square&color=blue)](https://github.com/mangowm/mango/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Practical and Powerful wayland compositor (dwm but wayland)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ mangowm/mango 是一个实用且功能强大的 Wayland 合成器，灵感来源
 | forks | 56/100 |
 | stars | 73/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

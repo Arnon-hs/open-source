@@ -1,6 +1,6 @@
 # hrtsegv/gitcs
 
-[![Stars](https://img.shields.io/github/stars/hrtsegv/gitcs?style=flat-square&color=yellow)](https://github.com/hrtsegv/gitcs/stargazers) [![Forks](https://img.shields.io/github/forks/hrtsegv/gitcs?style=flat-square&color=blue)](https://github.com/hrtsegv/gitcs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hrtsegv/gitcs?style=flat-square&color=yellow)](https://github.com/hrtsegv/gitcs/stargazers) [![Forks](https://img.shields.io/github/forks/hrtsegv/gitcs?style=flat-square&color=blue)](https://github.com/hrtsegv/gitcs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ hrtsegv/gitcs 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 27/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # stackshy/cloudemu
 
-[![Stars](https://img.shields.io/github/stars/stackshy/cloudemu?style=flat-square&color=yellow)](https://github.com/stackshy/cloudemu/stargazers) [![Forks](https://img.shields.io/github/forks/stackshy/cloudemu?style=flat-square&color=blue)](https://github.com/stackshy/cloudemu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackshy/cloudemu?style=flat-square&color=yellow)](https://github.com/stackshy/cloudemu/stargazers) [![Forks](https://img.shields.io/github/forks/stackshy/cloudemu?style=flat-square&color=blue)](https://github.com/stackshy/cloudemu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A real cloud simulator. It simulates real cloud resources (AWS, Azure, GCP) entirely in-memory on your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Stackshy/cloudemu 的生产可用性为中等。它可以用于内部开发或�
 | forks | 26/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

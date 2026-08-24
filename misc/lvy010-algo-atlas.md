@@ -1,6 +1,6 @@
 # lvy010/Algo-Atlas
 
-[![Stars](https://img.shields.io/github/stars/lvy010/Algo-Atlas?style=flat-square&color=yellow)](https://github.com/lvy010/Algo-Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/lvy010/Algo-Atlas?style=flat-square&color=blue)](https://github.com/lvy010/Algo-Atlas/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lvy010/Algo-Atlas?style=flat-square&color=yellow)](https://github.com/lvy010/Algo-Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/lvy010/Algo-Atlas?style=flat-square&color=blue)](https://github.com/lvy010/Algo-Atlas/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Scientific Way - Solve 2000 LeetCode Problems in 8 Months
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Algo-Atlas 的生产可用性为中等。它可以用于内部开发和原型阶
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

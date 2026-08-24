@@ -1,6 +1,6 @@
 # Shaobin-Jiang/IceNvim
 
-[![Stars](https://img.shields.io/github/stars/Shaobin-Jiang/IceNvim?style=flat-square&color=yellow)](https://github.com/Shaobin-Jiang/IceNvim/stargazers) [![Forks](https://img.shields.io/github/forks/Shaobin-Jiang/IceNvim?style=flat-square&color=blue)](https://github.com/Shaobin-Jiang/IceNvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shaobin-Jiang/IceNvim?style=flat-square&color=yellow)](https://github.com/Shaobin-Jiang/IceNvim/stargazers) [![Forks](https://img.shields.io/github/forks/Shaobin-Jiang/IceNvim?style=flat-square&color=blue)](https://github.com/Shaobin-Jiang/IceNvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful, powerful and customizable neovim config that is blazing fast
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ IceNvim的生产可用性非常高。它的README和活动匹配了一个具体�
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

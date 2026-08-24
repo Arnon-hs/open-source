@@ -1,6 +1,6 @@
 # aspiers/git-config
 
-[![Stars](https://img.shields.io/github/stars/aspiers/git-config?style=flat-square&color=yellow)](https://github.com/aspiers/git-config/stargazers) [![Forks](https://img.shields.io/github/forks/aspiers/git-config?style=flat-square&color=blue)](https://github.com/aspiers/git-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aspiers/git-config?style=flat-square&color=yellow)](https://github.com/aspiers/git-config/stargazers) [![Forks](https://img.shields.io/github/forks/aspiers/git-config?style=flat-square&color=blue)](https://github.com/aspiers/git-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Adam's git shortcuts and environment.  Designed to be stowed to ~ using GNU Stow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Design
+DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ aspiers/git-config 的生产可用性为中等，适合用于原型或内部工�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

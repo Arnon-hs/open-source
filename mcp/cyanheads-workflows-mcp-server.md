@@ -1,6 +1,6 @@
 # cyanheads/workflows-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cyanheads/workflows-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/workflows-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/workflows-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/workflows-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyanheads/workflows-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/workflows-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/workflows-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/workflows-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Store, query, and create YAML workflow playbooks for LLM agents via MCP. STDIO or Streamable HTTP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Marketing
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -143,14 +143,15 @@ cyanheads/workflows-mcp-server 是一款基于 Model Context Protocol（MCP�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # skilld-dev/skilld
 
-[![Stars](https://img.shields.io/github/stars/skilld-dev/skilld?style=flat-square&color=yellow)](https://github.com/skilld-dev/skilld/stargazers) [![Forks](https://img.shields.io/github/forks/skilld-dev/skilld?style=flat-square&color=blue)](https://github.com/skilld-dev/skilld/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skilld-dev/skilld?style=flat-square&color=yellow)](https://github.com/skilld-dev/skilld/stargazers) [![Forks](https://img.shields.io/github/forks/skilld-dev/skilld?style=flat-square&color=blue)](https://github.com/skilld-dev/skilld/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Generate AI agent skills from your NPM / create dependencies. npx skilld
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ skilld-dev/skilld 的生产可用性为中等。它适合用于原型设计或�
 | forks | 24/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

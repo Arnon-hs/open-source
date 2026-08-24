@@ -1,6 +1,6 @@
 # jabrena/plinth
 
-[![Stars](https://img.shields.io/github/stars/jabrena/plinth?style=flat-square&color=yellow)](https://github.com/jabrena/plinth/stargazers) [![Forks](https://img.shields.io/github/forks/jabrena/plinth?style=flat-square&color=blue)](https://github.com/jabrena/plinth/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jabrena/plinth?style=flat-square&color=yellow)](https://github.com/jabrena/plinth/stargazers) [![Forks](https://img.shields.io/github/forks/jabrena/plinth?style=flat-square&color=blue)](https://github.com/jabrena/plinth/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An opinionated, AI-native development workflow for Java Enterprise — reusable Skills, Agents, Commands, and MCP servers combined with a human-in-the-loop model to modernize real-world SDLC practices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ jabrena/plinth 是面向 Java 企业级开发的 AI‑native 工作流框架，�
 | forks | 48/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

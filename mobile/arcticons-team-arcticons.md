@@ -1,6 +1,6 @@
 # Arcticons-Team/Arcticons
 
-[![Stars](https://img.shields.io/github/stars/Arcticons-Team/Arcticons?style=flat-square&color=yellow)](https://github.com/Arcticons-Team/Arcticons/stargazers) [![Forks](https://img.shields.io/github/forks/Arcticons-Team/Arcticons?style=flat-square&color=blue)](https://github.com/Arcticons-Team/Arcticons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arcticons-Team/Arcticons?style=flat-square&color=yellow)](https://github.com/Arcticons-Team/Arcticons/stargazers) [![Forks](https://img.shields.io/github/forks/Arcticons-Team/Arcticons?style=flat-square&color=blue)](https://github.com/Arcticons-Team/Arcticons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A monotone line-based icon pack for android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 443 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Arcticons 已经有强烈的生态信号，包括 1524 个 GitHub 星和 443 个
 | forks | 66/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

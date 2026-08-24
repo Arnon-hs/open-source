@@ -1,6 +1,6 @@
 # google/closure-compiler
 
-[![Stars](https://img.shields.io/github/stars/google/closure-compiler?style=flat-square&color=yellow)](https://github.com/google/closure-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/google/closure-compiler?style=flat-square&color=blue)](https://github.com/google/closure-compiler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/closure-compiler?style=flat-square&color=yellow)](https://github.com/google/closure-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/google/closure-compiler?style=flat-square&color=blue)](https://github.com/google/closure-compiler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript checker and optimizer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.7k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Google Closure Compiler 是一款用于检查、压缩和优化 JavaScript 代�
 | forks | 77/100 |
 | stars | 83/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 81/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

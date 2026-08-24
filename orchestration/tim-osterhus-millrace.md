@@ -1,6 +1,6 @@
 # tim-osterhus/millrace
 
-[![Stars](https://img.shields.io/github/stars/tim-osterhus/millrace?style=flat-square&color=yellow)](https://github.com/tim-osterhus/millrace/stargazers) [![Forks](https://img.shields.io/github/forks/tim-osterhus/millrace?style=flat-square&color=blue)](https://github.com/tim-osterhus/millrace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tim-osterhus/millrace?style=flat-square&color=yellow)](https://github.com/tim-osterhus/millrace/stargazers) [![Forks](https://img.shields.io/github/forks/tim-osterhus/millrace?style=flat-square&color=blue)](https://github.com/tim-osterhus/millrace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A local, domain-agnostic workflow runtime that compiles decision graphs into durable, governed execution for agents, with recovery, operator control, and evidence-backed completion.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ tim-osterhus/millrace 的价值在于：
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

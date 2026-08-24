@@ -1,6 +1,6 @@
 # josStorer/genshin-ts
 
-[![Stars](https://img.shields.io/github/stars/josStorer/genshin-ts?style=flat-square&color=yellow)](https://github.com/josStorer/genshin-ts/stargazers) [![Forks](https://img.shields.io/github/forks/josStorer/genshin-ts?style=flat-square&color=blue)](https://github.com/josStorer/genshin-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/josStorer/genshin-ts?style=flat-square&color=yellow)](https://github.com/josStorer/genshin-ts/stargazers) [![Forks](https://img.shields.io/github/forks/josStorer/genshin-ts?style=flat-square&color=blue)](https://github.com/josStorer/genshin-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Use Typescript to develop Genshin UGC - Miliastra Wonderland
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ josStorer/genshin-ts 的生产可用性为中等（Medium）。它适合用于�
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

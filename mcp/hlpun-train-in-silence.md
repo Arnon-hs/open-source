@@ -1,6 +1,6 @@
 # hlpun/Train-in-Silence
 
-[![Stars](https://img.shields.io/github/stars/hlpun/Train-in-Silence?style=flat-square&color=yellow)](https://github.com/hlpun/Train-in-Silence/stargazers) [![Forks](https://img.shields.io/github/forks/hlpun/Train-in-Silence?style=flat-square&color=blue)](https://github.com/hlpun/Train-in-Silence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hlpun/Train-in-Silence?style=flat-square&color=yellow)](https://github.com/hlpun/Train-in-Silence/stargazers) [![Forks](https://img.shields.io/github/forks/hlpun/Train-in-Silence?style=flat-square&color=blue)](https://github.com/hlpun/Train-in-Silence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The first Task-Aware MCP server and automated VRAM calculator for LLM fine-tuning. Instantly snipe the cheapest, fastest GPUs across 10+ cloud providers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ hlpun/Train-in-Silence 是首个面向任务的 MCP（Model Context Protocol）�
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

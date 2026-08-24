@@ -1,6 +1,6 @@
 # MCERQUA/OpenVoiceUI
 
-[![Stars](https://img.shields.io/github/stars/MCERQUA/OpenVoiceUI?style=flat-square&color=yellow)](https://github.com/MCERQUA/OpenVoiceUI/stargazers) [![Forks](https://img.shields.io/github/forks/MCERQUA/OpenVoiceUI?style=flat-square&color=blue)](https://github.com/MCERQUA/OpenVoiceUI/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MCERQUA/OpenVoiceUI?style=flat-square&color=yellow)](https://github.com/MCERQUA/OpenVoiceUI/stargazers) [![Forks](https://img.shields.io/github/forks/MCERQUA/OpenVoiceUI?style=flat-square&color=blue)](https://github.com/MCERQUA/OpenVoiceUI/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Voice-powered AI assistant platform — connect any LLM, any TTS, with a live web canvas, music generation, and agent orchestration using openclaw. Install: npx openvoiceui setup
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Database · DevOps/Infra
+Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ MCERQUA/OpenVoiceUI的生产可用性为中等（Medium），适合用于原型�
 | forks | 27/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

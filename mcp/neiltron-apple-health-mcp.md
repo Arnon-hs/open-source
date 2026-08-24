@@ -1,6 +1,6 @@
 # neiltron/apple-health-mcp
 
-[![Stars](https://img.shields.io/github/stars/neiltron/apple-health-mcp?style=flat-square&color=yellow)](https://github.com/neiltron/apple-health-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/neiltron/apple-health-mcp?style=flat-square&color=blue)](https://github.com/neiltron/apple-health-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neiltron/apple-health-mcp?style=flat-square&color=yellow)](https://github.com/neiltron/apple-health-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/neiltron/apple-health-mcp?style=flat-square&color=blue)](https://github.com/neiltron/apple-health-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for querying Apple Health data with natural language and SQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend · Data
+MCP
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ neiltron/apple-health-mcp 的生产可用性为中等（Medium）。它适合用
 | forks | 34/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

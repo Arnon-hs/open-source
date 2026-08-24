@@ -1,6 +1,6 @@
 # rustonbsd/iroh-ssh
 
-[![Stars](https://img.shields.io/github/stars/rustonbsd/iroh-ssh?style=flat-square&color=yellow)](https://github.com/rustonbsd/iroh-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/rustonbsd/iroh-ssh?style=flat-square&color=blue)](https://github.com/rustonbsd/iroh-ssh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustonbsd/iroh-ssh?style=flat-square&color=yellow)](https://github.com/rustonbsd/iroh-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/rustonbsd/iroh-ssh?style=flat-square&color=blue)](https://github.com/rustonbsd/iroh-ssh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > SSH to any machine without ip
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ The project sits at a medium readiness level: it has modest community interest (
 | forks | 25/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 69/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

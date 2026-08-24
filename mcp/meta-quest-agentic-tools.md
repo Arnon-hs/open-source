@@ -1,6 +1,6 @@
 # meta-quest/agentic-tools
 
-[![Stars](https://img.shields.io/github/stars/meta-quest/agentic-tools?style=flat-square&color=yellow)](https://github.com/meta-quest/agentic-tools/stargazers) [![Forks](https://img.shields.io/github/forks/meta-quest/agentic-tools?style=flat-square&color=blue)](https://github.com/meta-quest/agentic-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-quest/agentic-tools?style=flat-square&color=yellow)](https://github.com/meta-quest/agentic-tools/stargazers) [![Forks](https://img.shields.io/github/forks/meta-quest/agentic-tools?style=flat-square&color=blue)](https://github.com/meta-quest/agentic-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Tool and Skills for VR Development on Meta Quest
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ meta‑quest/agentic‑tools 为在 Meta Quest 上将 AI 代理与实际工具�
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

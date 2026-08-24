@@ -1,6 +1,6 @@
 # team-attention/tide
 
-[![Stars](https://img.shields.io/github/stars/team-attention/tide?style=flat-square&color=yellow)](https://github.com/team-attention/tide/stargazers) [![Forks](https://img.shields.io/github/forks/team-attention/tide?style=flat-square&color=blue)](https://github.com/team-attention/tide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/team-attention/tide?style=flat-square&color=yellow)](https://github.com/team-attention/tide/stargazers) [![Forks](https://img.shields.io/github/forks/team-attention/tide?style=flat-square&color=blue)](https://github.com/team-attention/tide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Opensource Codex app alternative
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,14 +130,15 @@ team‑attention/tide 是一个用 Rust 编写的开源 Codex 应用替代方案
 | forks | 17/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

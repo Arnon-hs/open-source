@@ -1,6 +1,6 @@
 # mitchellkrogza/nginx-ultimate-bad-bot-blocker
 
-[![Stars](https://img.shields.io/github/stars/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=yellow)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/stargazers) [![Forks](https://img.shields.io/github/forks/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=blue)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=yellow)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/stargazers) [![Forks](https://img.shields.io/github/forks/mitchellkrogza/nginx-ultimate-bad-bot-blocker?style=flat-square&color=blue)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 522 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Security
+Automation · Backend · Security
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ mitchellkrogza/nginx-ultimate-bad-bot-blocker 通过维护一套持续更新的�
 | forks | 68/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

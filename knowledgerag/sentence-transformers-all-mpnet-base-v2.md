@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
 | 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2025-08-19 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -118,6 +118,7 @@ sentence-transformers/all-mpnet-base-v2 的生产可用性为 Early 或 Unclear�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # juks/iso-8583-socket-queue
 
-[![Stars](https://img.shields.io/github/stars/juks/iso-8583-socket-queue?style=flat-square&color=yellow)](https://github.com/juks/iso-8583-socket-queue/stargazers) [![Forks](https://img.shields.io/github/forks/juks/iso-8583-socket-queue?style=flat-square&color=blue)](https://github.com/juks/iso-8583-socket-queue/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juks/iso-8583-socket-queue?style=flat-square&color=yellow)](https://github.com/juks/iso-8583-socket-queue/stargazers) [![Forks](https://img.shields.io/github/forks/juks/iso-8583-socket-queue?style=flat-square&color=blue)](https://github.com/juks/iso-8583-socket-queue/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ISO 8583 gateway
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend
+Payments
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ juks/iso-8583-socket-queue 的主要价值在于帮助开发者快速集成支�
 | forks | 52/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

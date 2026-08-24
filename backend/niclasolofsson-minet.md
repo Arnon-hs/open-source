@@ -1,6 +1,6 @@
 # NiclasOlofsson/MiNET
 
-[![Stars](https://img.shields.io/github/stars/NiclasOlofsson/MiNET?style=flat-square&color=yellow)](https://github.com/NiclasOlofsson/MiNET/stargazers) [![Forks](https://img.shields.io/github/forks/NiclasOlofsson/MiNET?style=flat-square&color=blue)](https://github.com/NiclasOlofsson/MiNET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NiclasOlofsson/MiNET?style=flat-square&color=yellow)](https://github.com/NiclasOlofsson/MiNET/stargazers) [![Forks](https://img.shields.io/github/forks/NiclasOlofsson/MiNET?style=flat-square&color=blue)](https://github.com/NiclasOlofsson/MiNET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A (not so) basic Minecraft Pocket Edition server written in C#
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 877 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ NiclasOlofsson/MiNET 的生产可用性为中等。它适合用于原型或内�
 | forks | 57/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

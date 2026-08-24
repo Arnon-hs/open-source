@@ -1,6 +1,6 @@
 # luckeyfaraday/athena-code
 
-[![Stars](https://img.shields.io/github/stars/luckeyfaraday/athena-code?style=flat-square&color=yellow)](https://github.com/luckeyfaraday/athena-code/stargazers) [![Forks](https://img.shields.io/github/forks/luckeyfaraday/athena-code?style=flat-square&color=blue)](https://github.com/luckeyfaraday/athena-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luckeyfaraday/athena-code?style=flat-square&color=yellow)](https://github.com/luckeyfaraday/athena-code/stargazers) [![Forks](https://img.shields.io/github/forks/luckeyfaraday/athena-code?style=flat-square&color=blue)](https://github.com/luckeyfaraday/athena-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source terminal AI coding agent with persistent local memory, automatic context recall, and searchable cross-session history.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Athena‑Code 能够把企业内部知识转化为可检索的向量记忆，为
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

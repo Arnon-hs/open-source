@@ -1,6 +1,6 @@
 # aidenybai/react-grab
 
-[![Stars](https://img.shields.io/github/stars/aidenybai/react-grab?style=flat-square&color=yellow)](https://github.com/aidenybai/react-grab/stargazers) [![Forks](https://img.shields.io/github/forks/aidenybai/react-grab?style=flat-square&color=blue)](https://github.com/aidenybai/react-grab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aidenybai/react-grab?style=flat-square&color=yellow)](https://github.com/aidenybai/react-grab/stargazers) [![Forks](https://img.shields.io/github/forks/aidenybai/react-grab?style=flat-square&color=blue)](https://github.com/aidenybai/react-grab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Copy any UI element for your agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ aidenybai/react‑grab 通过让开发者直接复制 UI 元素来快速为 AI �
 | forks | 63/100 |
 | stars | 82/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

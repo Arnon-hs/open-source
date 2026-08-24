@@ -1,6 +1,6 @@
 # FlowElement-xinliuyuansu/m_flow
 
-[![Stars](https://img.shields.io/github/stars/FlowElement-xinliuyuansu/m_flow?style=flat-square&color=yellow)](https://github.com/FlowElement-xinliuyuansu/m_flow/stargazers) [![Forks](https://img.shields.io/github/forks/FlowElement-xinliuyuansu/m_flow?style=flat-square&color=blue)](https://github.com/FlowElement-xinliuyuansu/m_flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlowElement-xinliuyuansu/m_flow?style=flat-square&color=yellow)](https://github.com/FlowElement-xinliuyuansu/m_flow/stargazers) [![Forks](https://img.shields.io/github/forks/FlowElement-xinliuyuansu/m_flow?style=flat-square&color=blue)](https://github.com/FlowElement-xinliuyuansu/m_flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Data
+Orchestration · MCP · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ FlowElement-xinliuyuansu/m_flow 有很高的生产可用性，最近有活动，
 | forks | 60/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

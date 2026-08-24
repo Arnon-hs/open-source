@@ -1,6 +1,6 @@
 # Desko77/claude-code-skills-1c
 
-[![Stars](https://img.shields.io/github/stars/Desko77/claude-code-skills-1c?style=flat-square&color=yellow)](https://github.com/Desko77/claude-code-skills-1c/stargazers) [![Forks](https://img.shields.io/github/forks/Desko77/claude-code-skills-1c?style=flat-square&color=blue)](https://github.com/Desko77/claude-code-skills-1c/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Desko77/claude-code-skills-1c?style=flat-square&color=yellow)](https://github.com/Desko77/claude-code-skills-1c/stargazers) [![Forks](https://img.shields.io/github/forks/Desko77/claude-code-skills-1c?style=flat-square&color=blue)](https://github.com/Desko77/claude-code-skills-1c/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 112 скилов и 35 правил для Claude Code: агент собирает исходники 1С (метаданные, формы, расширения, роли, СКД, обработки) из компактного JSON и разбирает обратно. Базовые операции - без Конфигуратора.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Desko77/claude-code-skills-1c 是一个开源项目，提供了 112 个技能和
 | forks | 27/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

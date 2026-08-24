@@ -1,6 +1,6 @@
 # stenzek/duckstation
 
-[![Stars](https://img.shields.io/github/stars/stenzek/duckstation?style=flat-square&color=yellow)](https://github.com/stenzek/duckstation/stargazers) [![Forks](https://img.shields.io/github/forks/stenzek/duckstation?style=flat-square&color=blue)](https://github.com/stenzek/duckstation/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stenzek/duckstation?style=flat-square&color=yellow)](https://github.com/stenzek/duckstation/stargazers) [![Forks](https://img.shields.io/github/forks/stenzek/duckstation?style=flat-square&color=blue)](https://github.com/stenzek/duckstation/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 931 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ DuckStation 在生产环境中有较高的可用性，因为它有最近的活�
 | forks | 74/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 79/100 |
-| usefulness | 42/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

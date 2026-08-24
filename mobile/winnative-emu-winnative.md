@@ -1,6 +1,6 @@
 # WinNative-Emu/WinNative
 
-[![Stars](https://img.shields.io/github/stars/WinNative-Emu/WinNative?style=flat-square&color=yellow)](https://github.com/WinNative-Emu/WinNative/stargazers) [![Forks](https://img.shields.io/github/forks/WinNative-Emu/WinNative?style=flat-square&color=blue)](https://github.com/WinNative-Emu/WinNative/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WinNative-Emu/WinNative?style=flat-square&color=yellow)](https://github.com/WinNative-Emu/WinNative/stargazers) [![Forks](https://img.shields.io/github/forks/WinNative-Emu/WinNative?style=flat-square&color=blue)](https://github.com/WinNative-Emu/WinNative/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 507 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ WinNative-Emu/WinNative：WinNative-Emu/WinNative may be useful when its README 
 | forks | 46/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

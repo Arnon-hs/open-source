@@ -1,6 +1,6 @@
 # steipete/macos-automator-mcp
 
-[![Stars](https://img.shields.io/github/stars/steipete/macos-automator-mcp?style=flat-square&color=yellow)](https://github.com/steipete/macos-automator-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/macos-automator-mcp?style=flat-square&color=blue)](https://github.com/steipete/macos-automator-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/macos-automator-mcp?style=flat-square&color=yellow)](https://github.com/steipete/macos-automator-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/macos-automator-mcp?style=flat-square&color=blue)](https://github.com/steipete/macos-automator-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 866 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Automation · Backend
+MCP · Automation
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ steipete/macos-automator-mcp 的生产可用性为中等。这意味着它
 | forks | 45/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

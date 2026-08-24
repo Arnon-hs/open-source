@@ -1,6 +1,6 @@
 # GrimAnticheat/Grim
 
-[![Stars](https://img.shields.io/github/stars/GrimAnticheat/Grim?style=flat-square&color=yellow)](https://github.com/GrimAnticheat/Grim/stargazers) [![Forks](https://img.shields.io/github/forks/GrimAnticheat/Grim?style=flat-square&color=blue)](https://github.com/GrimAnticheat/Grim/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GrimAnticheat/Grim?style=flat-square&color=yellow)](https://github.com/GrimAnticheat/Grim/stargazers) [![Forks](https://img.shields.io/github/forks/GrimAnticheat/Grim?style=flat-square&color=blue)](https://github.com/GrimAnticheat/Grim/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, "bypassable" 1.8-1.21 minecraft anticheat.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 618 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ GrimAnticheat/Grim 的生产可用性非常高，因为它有强大的社区支�
 | forks | 70/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

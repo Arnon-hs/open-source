@@ -1,6 +1,6 @@
 # thegeronimo/hyperopen
 
-[![Stars](https://img.shields.io/github/stars/thegeronimo/hyperopen?style=flat-square&color=yellow)](https://github.com/thegeronimo/hyperopen/stargazers) [![Forks](https://img.shields.io/github/forks/thegeronimo/hyperopen?style=flat-square&color=blue)](https://github.com/thegeronimo/hyperopen/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thegeronimo/hyperopen?style=flat-square&color=yellow)](https://github.com/thegeronimo/hyperopen/stargazers) [![Forks](https://img.shields.io/github/forks/thegeronimo/hyperopen?style=flat-square&color=blue)](https://github.com/thegeronimo/hyperopen/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Hyperliquid trading client with portfolio analytics and vault analytics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend · DevTools · Data
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ thegeronimo/hyperopen：thegeronimo/hyperopen helps prototype or inspect blockch
 | forks | 24/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

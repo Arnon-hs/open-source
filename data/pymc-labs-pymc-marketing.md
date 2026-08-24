@@ -1,6 +1,6 @@
 # pymc-labs/pymc-marketing
 
-[![Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing?style=flat-square&color=yellow)](https://github.com/pymc-labs/pymc-marketing/stargazers) [![Forks](https://img.shields.io/github/forks/pymc-labs/pymc-marketing?style=flat-square&color=blue)](https://github.com/pymc-labs/pymc-marketing/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing?style=flat-square&color=yellow)](https://github.com/pymc-labs/pymc-marketing/stargazers) [![Forks](https://img.shields.io/github/forks/pymc-labs/pymc-marketing?style=flat-square&color=blue)](https://github.com/pymc-labs/pymc-marketing/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 379 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ pymc‑labs/pymc‑marketing 是基于 PyMC 的贝叶斯营销工具箱，提供
 | forks | 64/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

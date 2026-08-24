@@ -1,6 +1,6 @@
 # OpenRunner/clash-freenode
 
-[![Stars](https://img.shields.io/github/stars/OpenRunner/clash-freenode?style=flat-square&color=yellow)](https://github.com/OpenRunner/clash-freenode/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRunner/clash-freenode?style=flat-square&color=blue)](https://github.com/OpenRunner/clash-freenode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRunner/clash-freenode?style=flat-square&color=yellow)](https://github.com/OpenRunner/clash-freenode/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRunner/clash-freenode?style=flat-square&color=blue)](https://github.com/OpenRunner/clash-freenode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 442 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ OpenRunner/clash-freenode 的生产可用性很高，原因如下：
 | forks | 66/100 |
 | stars | 81/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

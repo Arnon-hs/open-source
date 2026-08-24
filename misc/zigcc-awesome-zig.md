@@ -1,6 +1,6 @@
 # zigcc/awesome-zig
 
-[![Stars](https://img.shields.io/github/stars/zigcc/awesome-zig?style=flat-square&color=yellow)](https://github.com/zigcc/awesome-zig/stargazers) [![Forks](https://img.shields.io/github/forks/zigcc/awesome-zig?style=flat-square&color=blue)](https://github.com/zigcc/awesome-zig/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zigcc/awesome-zig?style=flat-square&color=yellow)](https://github.com/zigcc/awesome-zig/stargazers) [![Forks](https://img.shields.io/github/forks/zigcc/awesome-zig?style=flat-square&color=blue)](https://github.com/zigcc/awesome-zig/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A collaborative list of awesome Zig libraries and resources.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ However, developers should carefully consider the integration path and setup cos
 | forks | 56/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

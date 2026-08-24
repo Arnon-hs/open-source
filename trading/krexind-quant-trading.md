@@ -1,6 +1,6 @@
 # Krexind/quant-trading
 
-[![Stars](https://img.shields.io/github/stars/Krexind/quant-trading?style=flat-square&color=yellow)](https://github.com/Krexind/quant-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Krexind/quant-trading?style=flat-square&color=blue)](https://github.com/Krexind/quant-trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Krexind/quant-trading?style=flat-square&color=yellow)](https://github.com/Krexind/quant-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Krexind/quant-trading?style=flat-square&color=blue)](https://github.com/Krexind/quant-trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > quantitative trading strategies including VIX Calculator, Pattern Recognition, Monte Carlo, Heikin-Ashi, Pair Trading
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Knowledge/RAG · Automation · AI/ML
+Trading · Automation
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Krexind/quant-trading 的价值在于帮助研究和自动化市场工作流程�
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

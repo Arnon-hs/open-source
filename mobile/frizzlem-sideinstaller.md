@@ -1,6 +1,6 @@
 # FrizzleM/SideInstaller
 
-[![Stars](https://img.shields.io/github/stars/FrizzleM/SideInstaller?style=flat-square&color=yellow)](https://github.com/FrizzleM/SideInstaller/stargazers) [![Forks](https://img.shields.io/github/forks/FrizzleM/SideInstaller?style=flat-square&color=blue)](https://github.com/FrizzleM/SideInstaller/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FrizzleM/SideInstaller?style=flat-square&color=yellow)](https://github.com/FrizzleM/SideInstaller/stargazers) [![Forks](https://img.shields.io/github/forks/FrizzleM/SideInstaller?style=flat-square&color=blue)](https://github.com/FrizzleM/SideInstaller/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An an app that installs Sidestore on iOS 27, fully on-device
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ FrizzleM/SideInstaller 的生产可用性为中等。它适用于原型或内部
 | forks | 36/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

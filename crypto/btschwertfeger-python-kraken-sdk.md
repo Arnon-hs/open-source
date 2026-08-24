@@ -1,6 +1,6 @@
 # btschwertfeger/python-kraken-sdk
 
-[![Stars](https://img.shields.io/github/stars/btschwertfeger/python-kraken-sdk?style=flat-square&color=yellow)](https://github.com/btschwertfeger/python-kraken-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/btschwertfeger/python-kraken-sdk?style=flat-square&color=blue)](https://github.com/btschwertfeger/python-kraken-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/btschwertfeger/python-kraken-sdk?style=flat-square&color=yellow)](https://github.com/btschwertfeger/python-kraken-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/btschwertfeger/python-kraken-sdk?style=flat-square&color=blue)](https://github.com/btschwertfeger/python-kraken-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Backend · DevTools
+Crypto · Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ btschwertfeger/python-kraken-sdk 是一套基于 Python 的命令行工具和 SD
 | forks | 37/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # openfl/lime
 
-[![Stars](https://img.shields.io/github/stars/openfl/lime?style=flat-square&color=yellow)](https://github.com/openfl/lime/stargazers) [![Forks](https://img.shields.io/github/forks/openfl/lime?style=flat-square&color=blue)](https://github.com/openfl/lime/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openfl/lime?style=flat-square&color=yellow)](https://github.com/openfl/lime/stargazers) [![Forks](https://img.shields.io/github/forks/openfl/lime?style=flat-square&color=blue)](https://github.com/openfl/lime/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A foundational Haxe framework for cross-platform development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 847 |
 | 🍴 **Forks** | 452 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ openfl/lime：openfl/lime helps ship user-facing interfaces with less custom UI 
 | forks | 66/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

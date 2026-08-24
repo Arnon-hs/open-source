@@ -1,6 +1,6 @@
 # 0xsline/awesome-deepseek-harness
 
-[![Stars](https://img.shields.io/github/stars/0xsline/awesome-deepseek-harness?style=flat-square&color=yellow)](https://github.com/0xsline/awesome-deepseek-harness/stargazers) [![Forks](https://img.shields.io/github/forks/0xsline/awesome-deepseek-harness?style=flat-square&color=blue)](https://github.com/0xsline/awesome-deepseek-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xsline/awesome-deepseek-harness?style=flat-square&color=yellow)](https://github.com/0xsline/awesome-deepseek-harness/stargazers) [![Forks](https://img.shields.io/github/forks/0xsline/awesome-deepseek-harness?style=flat-square&color=blue)](https://github.com/0xsline/awesome-deepseek-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · DevOps/Infra
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ DeepSeek Harness (DSH) - это экосистема, которая помог�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

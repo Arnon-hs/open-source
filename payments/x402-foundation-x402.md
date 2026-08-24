@@ -1,6 +1,6 @@
 # x402-foundation/x402
 
-[![Stars](https://img.shields.io/github/stars/x402-foundation/x402?style=flat-square&color=yellow)](https://github.com/x402-foundation/x402/stargazers) [![Forks](https://img.shields.io/github/forks/x402-foundation/x402?style=flat-square&color=blue)](https://github.com/x402-foundation/x402/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x402-foundation/x402?style=flat-square&color=yellow)](https://github.com/x402-foundation/x402/stargazers) [![Forks](https://img.shields.io/github/forks/x402-foundation/x402?style=flat-square&color=blue)](https://github.com/x402-foundation/x402/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A payments protocol for the internet. Built on HTTP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Payments · Frontend
+Payments
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ x402-foundation/x402的生产可用性很高，受到了强烈的采用和生态
 | forks | 82/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 81/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # monotykamary/pi-fabric
 
-[![Stars](https://img.shields.io/github/stars/monotykamary/pi-fabric?style=flat-square&color=yellow)](https://github.com/monotykamary/pi-fabric/stargazers) [![Forks](https://img.shields.io/github/forks/monotykamary/pi-fabric?style=flat-square&color=blue)](https://github.com/monotykamary/pi-fabric/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monotykamary/pi-fabric?style=flat-square&color=yellow)](https://github.com/monotykamary/pi-fabric/stargazers) [![Forks](https://img.shields.io/github/forks/monotykamary/pi-fabric?style=flat-square&color=blue)](https://github.com/monotykamary/pi-fabric/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A programmable tool and agent runtime for Pi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ monotykamary/pi-fabric 的生产可用性为中等（Medium）。它适合用于
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

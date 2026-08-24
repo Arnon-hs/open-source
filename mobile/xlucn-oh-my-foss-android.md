@@ -1,6 +1,6 @@
 # xlucn/oh-my-foss-android
 
-[![Stars](https://img.shields.io/github/stars/xlucn/oh-my-foss-android?style=flat-square&color=yellow)](https://github.com/xlucn/oh-my-foss-android/stargazers) [![Forks](https://img.shields.io/github/forks/xlucn/oh-my-foss-android?style=flat-square&color=blue)](https://github.com/xlucn/oh-my-foss-android/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xlucn/oh-my-foss-android?style=flat-square&color=yellow)](https://github.com/xlucn/oh-my-foss-android/stargazers) [![Forks](https://img.shields.io/github/forks/xlucn/oh-my-foss-android?style=flat-square&color=blue)](https://github.com/xlucn/oh-my-foss-android/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 个人收集的实用、良心开源安卓软件
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ xlucn/oh-my-foss-android 的生产可用性较高，原因是：
 | forks | 58/100 |
 | stars | 79/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

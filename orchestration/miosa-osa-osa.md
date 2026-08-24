@@ -1,6 +1,6 @@
 # Miosa-osa/OSA
 
-[![Stars](https://img.shields.io/github/stars/Miosa-osa/OSA?style=flat-square&color=yellow)](https://github.com/Miosa-osa/OSA/stargazers) [![Forks](https://img.shields.io/github/forks/Miosa-osa/OSA?style=flat-square&color=blue)](https://github.com/Miosa-osa/OSA/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Miosa-osa/OSA?style=flat-square&color=yellow)](https://github.com/Miosa-osa/OSA/stargazers) [![Forks](https://img.shields.io/github/forks/Miosa-osa/OSA?style=flat-square&color=blue)](https://github.com/Miosa-osa/OSA/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent that lives on your computer and does the work you ask for, in plain words — from writing code to running your business busywork. Local, one command, any model.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Mobile
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Miosa-osa/OSA 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 31/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

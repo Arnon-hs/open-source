@@ -1,6 +1,6 @@
 # airmang/python-hwpx-automation
 
-[![Stars](https://img.shields.io/github/stars/airmang/python-hwpx-automation?style=flat-square&color=yellow)](https://github.com/airmang/python-hwpx-automation/stargazers) [![Forks](https://img.shields.io/github/forks/airmang/python-hwpx-automation?style=flat-square&color=blue)](https://github.com/airmang/python-hwpx-automation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/airmang/python-hwpx-automation?style=flat-square&color=yellow)](https://github.com/airmang/python-hwpx-automation/stargazers) [![Forks](https://img.shields.io/github/forks/airmang/python-hwpx-automation?style=flat-square&color=blue)](https://github.com/airmang/python-hwpx-automation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI agents to read, edit, inspect, and validate local HWPX documents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ airmang/python-hwpx-automation 是一个开源项目，提供了一个 MCP 服�
 | forks | 34/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

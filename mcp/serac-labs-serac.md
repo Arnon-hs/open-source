@@ -1,6 +1,6 @@
 # serac-labs/serac
 
-[![Stars](https://img.shields.io/github/stars/serac-labs/serac?style=flat-square&color=yellow)](https://github.com/serac-labs/serac/stargazers) [![Forks](https://img.shields.io/github/forks/serac-labs/serac?style=flat-square&color=blue)](https://github.com/serac-labs/serac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serac-labs/serac?style=flat-square&color=yellow)](https://github.com/serac-labs/serac/stargazers) [![Forks](https://img.shields.io/github/forks/serac-labs/serac?style=flat-square&color=blue)](https://github.com/serac-labs/serac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Serac — open-source AI build agent for ServiceNow. 400+ MCP tools, bring-your-own LLM keys (Claude/GPT/Gemini/Ollama). Read a story, ship the update set.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Serac 的价值在于，它帮助连接 AI 助手到实质工具和数据，通�
 | forks | 35/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

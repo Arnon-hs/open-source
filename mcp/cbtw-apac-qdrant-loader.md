@@ -1,6 +1,6 @@
 # cbtw-apac/qdrant-loader
 
-[![Stars](https://img.shields.io/github/stars/cbtw-apac/qdrant-loader?style=flat-square&color=yellow)](https://github.com/cbtw-apac/qdrant-loader/stargazers) [![Forks](https://img.shields.io/github/forks/cbtw-apac/qdrant-loader?style=flat-square&color=blue)](https://github.com/cbtw-apac/qdrant-loader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cbtw-apac/qdrant-loader?style=flat-square&color=yellow)](https://github.com/cbtw-apac/qdrant-loader/stargazers) [![Forks](https://img.shields.io/github/forks/cbtw-apac/qdrant-loader?style=flat-square&color=blue)](https://github.com/cbtw-apac/qdrant-loader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-ready vector database toolkit for building searchable knowledge bases from multiple data sources. Supports multi-project management, automatic ingestion from Confluence/JIRA/Git, intelligent file conversion (PDF/Office/images), and semantic search. Includes MCP server for seamless AI assistant integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ cbtw-apac/qdrant-loader 的价值在于，它能够连接 AI 助手到实用的�
 | forks | 37/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

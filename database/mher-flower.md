@@ -1,6 +1,6 @@
 # mher/flower
 
-[![Stars](https://img.shields.io/github/stars/mher/flower?style=flat-square&color=yellow)](https://github.com/mher/flower/stargazers) [![Forks](https://img.shields.io/github/forks/mher/flower?style=flat-square&color=blue)](https://github.com/mher/flower/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mher/flower?style=flat-square&color=yellow)](https://github.com/mher/flower/stargazers) [![Forks](https://img.shields.io/github/forks/mher/flower?style=flat-square&color=blue)](https://github.com/mher/flower/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time monitor and web admin for Celery distributed task queue
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ mher/flower 的生产可用性很高，因为它有：
 | forks | 77/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 81/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

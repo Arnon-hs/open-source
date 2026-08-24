@@ -1,6 +1,6 @@
 # Mesh2Motion/mesh2motion-app
 
-[![Stars](https://img.shields.io/github/stars/Mesh2Motion/mesh2motion-app?style=flat-square&color=yellow)](https://github.com/Mesh2Motion/mesh2motion-app/stargazers) [![Forks](https://img.shields.io/github/forks/Mesh2Motion/mesh2motion-app?style=flat-square&color=blue)](https://github.com/Mesh2Motion/mesh2motion-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mesh2Motion/mesh2motion-app?style=flat-square&color=yellow)](https://github.com/Mesh2Motion/mesh2motion-app/stargazers) [![Forks](https://img.shields.io/github/forks/Mesh2Motion/mesh2motion-app?style=flat-square&color=blue)](https://github.com/Mesh2Motion/mesh2motion-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Import a 3D Model and automatically assign and export animations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Mesh2Motion/mesh2motion-app 的生产可用性为中等。虽然它是一个开�
 | forks | 62/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 926 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile · Design
+Frontend · Mobile · Design
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ MetrolistGroup/Metrolist：MetrolistGroup/Metrolist helps ship user-facing inter
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

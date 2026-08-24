@@ -1,6 +1,6 @@
 # ahpxex/open-dictionary
 
-[![Stars](https://img.shields.io/github/stars/ahpxex/open-dictionary?style=flat-square&color=yellow)](https://github.com/ahpxex/open-dictionary/stargazers) [![Forks](https://img.shields.io/github/forks/ahpxex/open-dictionary?style=flat-square&color=blue)](https://github.com/ahpxex/open-dictionary/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahpxex/open-dictionary?style=flat-square&color=yellow)](https://github.com/ahpxex/open-dictionary/stargazers) [![Forks](https://img.shields.io/github/forks/ahpxex/open-dictionary?style=flat-square&color=blue)](https://github.com/ahpxex/open-dictionary/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The genuine open dictionary, grounded by Wikitionary and explained more with LLMs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ ahpxex/open-dictionary 的生产可用性为中等（Medium）。它适合用于
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

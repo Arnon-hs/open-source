@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | pyannote-audio |
 | 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2025-09-29 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -108,6 +108,7 @@ pyannote/speaker-diarization-community-1 是一个开源项目，提供了一个
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

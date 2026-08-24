@@ -1,6 +1,6 @@
 # beikeshop/beikeshop
 
-[![Stars](https://img.shields.io/github/stars/beikeshop/beikeshop?style=flat-square&color=yellow)](https://github.com/beikeshop/beikeshop/stargazers) [![Forks](https://img.shields.io/github/forks/beikeshop/beikeshop?style=flat-square&color=blue)](https://github.com/beikeshop/beikeshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beikeshop/beikeshop?style=flat-square&color=yellow)](https://github.com/beikeshop/beikeshop/stargazers) [![Forks](https://img.shields.io/github/forks/beikeshop/beikeshop?style=flat-square&color=blue)](https://github.com/beikeshop/beikeshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Free and Open-Source, Easy-to-Use Laravel eCommerce Platform,It supports multiple languages and currencies, Integrates AI agents and MCP.The platform features customizable visual design and a rich plugins on marketplace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 412 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database · Design
+MCP · Design
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ beikeshop/beikeshop 的生产可用性很高，最近有活动，采用率和生
 | forks | 65/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

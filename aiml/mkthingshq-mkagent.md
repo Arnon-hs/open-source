@@ -1,6 +1,6 @@
 # MkThingsHQ/mkagent
 
-[![Stars](https://img.shields.io/github/stars/MkThingsHQ/mkagent?style=flat-square&color=yellow)](https://github.com/MkThingsHQ/mkagent/stargazers) [![Forks](https://img.shields.io/github/forks/MkThingsHQ/mkagent?style=flat-square&color=blue)](https://github.com/MkThingsHQ/mkagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MkThingsHQ/mkagent?style=flat-square&color=yellow)](https://github.com/MkThingsHQ/mkagent/stargazers) [![Forks](https://img.shields.io/github/forks/MkThingsHQ/mkagent?style=flat-square&color=blue)](https://github.com/MkThingsHQ/mkagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first, Pi-powered AI agent workspace for Desktop, WebUI, and CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ MkThingsHQ/mkagent具有高生产可用性，主要原因包括：
 | forks | 36/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

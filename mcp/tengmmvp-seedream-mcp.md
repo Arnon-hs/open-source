@@ -1,6 +1,6 @@
 # tengmmvp/Seedream_MCP
 
-[![Stars](https://img.shields.io/github/stars/tengmmvp/Seedream_MCP?style=flat-square&color=yellow)](https://github.com/tengmmvp/Seedream_MCP/stargazers) [![Forks](https://img.shields.io/github/forks/tengmmvp/Seedream_MCP?style=flat-square&color=blue)](https://github.com/tengmmvp/Seedream_MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tengmmvp/Seedream_MCP?style=flat-square&color=yellow)](https://github.com/tengmmvp/Seedream_MCP/stargazers) [![Forks](https://img.shields.io/github/forks/tengmmvp/Seedream_MCP?style=flat-square&color=blue)](https://github.com/tengmmvp/Seedream_MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Doubao-Seedream生图MCP（即梦生图MCP）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ tengmmvp/Seedream_MCP 的生产
 | forks | 23/100 |
 | stars | 29/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

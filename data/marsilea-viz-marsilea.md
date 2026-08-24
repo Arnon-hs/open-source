@@ -1,6 +1,6 @@
 # Marsilea-viz/marsilea
 
-[![Stars](https://img.shields.io/github/stars/Marsilea-viz/marsilea?style=flat-square&color=yellow)](https://github.com/Marsilea-viz/marsilea/stargazers) [![Forks](https://img.shields.io/github/forks/Marsilea-viz/marsilea?style=flat-square&color=blue)](https://github.com/Marsilea-viz/marsilea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Marsilea-viz/marsilea?style=flat-square&color=yellow)](https://github.com/Marsilea-viz/marsilea/stargazers) [![Forks](https://img.shields.io/github/forks/Marsilea-viz/marsilea?style=flat-square&color=blue)](https://github.com/Marsilea-viz/marsilea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative creation of composable visualization for Python (Complex heatmap, Upset plot, Oncoprint and more~)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database
+Data
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Marsilea-viz/marsilea 的生产可用性为中等（Medium），适合用于原�
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

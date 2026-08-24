@@ -1,6 +1,6 @@
 # Pantheon-Security/medusa
 
-[![Stars](https://img.shields.io/github/stars/Pantheon-Security/medusa?style=flat-square&color=yellow)](https://github.com/Pantheon-Security/medusa/stargazers) [![Forks](https://img.shields.io/github/forks/Pantheon-Security/medusa?style=flat-square&color=blue)](https://github.com/Pantheon-Security/medusa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pantheon-Security/medusa?style=flat-square&color=yellow)](https://github.com/Pantheon-Security/medusa/stargazers) [![Forks](https://img.shields.io/github/forks/Pantheon-Security/medusa?style=flat-square&color=blue)](https://github.com/Pantheon-Security/medusa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI-first security scanner with 76 analyzers, 9,600+ detection rules, and repo poisoning detection for AI/ML, LLM agents, and MCP servers. Scan any GitHub repo with: medusa scan --git user/repo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Security
+MCP · AI/ML · Frontend · Security
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Pantheon‑Security/medusa 是一款 AI‑first 安全扫描器，内置 76 种�
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

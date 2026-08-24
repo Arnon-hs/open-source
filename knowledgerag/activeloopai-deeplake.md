@@ -1,6 +1,6 @@
 # activeloopai/deeplake
 
-[![Stars](https://img.shields.io/github/stars/activeloopai/deeplake?style=flat-square&color=yellow)](https://github.com/activeloopai/deeplake/stargazers) [![Forks](https://img.shields.io/github/forks/activeloopai/deeplake?style=flat-square&color=blue)](https://github.com/activeloopai/deeplake/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/activeloopai/deeplake?style=flat-square&color=yellow)](https://github.com/activeloopai/deeplake/stargazers) [![Forks](https://img.shields.io/github/forks/activeloopai/deeplake?style=flat-square&color=blue)](https://github.com/activeloopai/deeplake/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 709 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Backend · Data
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Deeplake（activeloopai/deeplake）是面向 AI 代理的「数据运行时」�
 | forks | 71/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 81/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # go-nunu/nunu
 
-[![Stars](https://img.shields.io/github/stars/go-nunu/nunu?style=flat-square&color=yellow)](https://github.com/go-nunu/nunu/stargazers) [![Forks](https://img.shields.io/github/forks/go-nunu/nunu?style=flat-square&color=blue)](https://github.com/go-nunu/nunu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-nunu/nunu?style=flat-square&color=yellow)](https://github.com/go-nunu/nunu/stargazers) [![Forks](https://img.shields.io/github/forks/go-nunu/nunu?style=flat-square&color=blue)](https://github.com/go-nunu/nunu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool for building Go applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · DevTools
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ go-nunu/nunu通过标准协议连接AI助手到真实工具和数据，帮助开
 | forks | 58/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 83/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 83/100 |
+| production | 76/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

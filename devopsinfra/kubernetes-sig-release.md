@@ -1,6 +1,6 @@
 # kubernetes/sig-release
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/sig-release?style=flat-square&color=yellow)](https://github.com/kubernetes/sig-release/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/sig-release?style=flat-square&color=blue)](https://github.com/kubernetes/sig-release/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/sig-release?style=flat-square&color=yellow)](https://github.com/kubernetes/sig-release/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/sig-release?style=flat-square&color=blue)](https://github.com/kubernetes/sig-release/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Repo for SIG release
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 633 |
 | 🍴 **Forks** | 451 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ kubernetes/sig-release 的生产可用性评分为高（High），因为：
 | forks | 66/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

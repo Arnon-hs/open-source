@@ -1,6 +1,6 @@
 # EliasOulkadi/shokunin
 
-[![Stars](https://img.shields.io/github/stars/EliasOulkadi/shokunin?style=flat-square&color=yellow)](https://github.com/EliasOulkadi/shokunin/stargazers) [![Forks](https://img.shields.io/github/forks/EliasOulkadi/shokunin?style=flat-square&color=blue)](https://github.com/EliasOulkadi/shokunin/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EliasOulkadi/shokunin?style=flat-square&color=yellow)](https://github.com/EliasOulkadi/shokunin/stargazers) [![Forks](https://img.shields.io/github/forks/EliasOulkadi/shokunin?style=flat-square&color=blue)](https://github.com/EliasOulkadi/shokunin/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 職人 Shokunin 62 AI agent skills for OpenCode, Claude Code, Cursor, Windsurf. ChromaDB memory, MCP servers, declarative self-updates. Multi-model, open source, zero cost.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ EliasOulkadi/shokunin 的生产可用性为中等。它适合用于原型或内�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

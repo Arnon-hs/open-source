@@ -1,6 +1,6 @@
 # titanwings/dsh-automation
 
-[![Stars](https://img.shields.io/github/stars/titanwings/dsh-automation?style=flat-square&color=yellow)](https://github.com/titanwings/dsh-automation/stargazers) [![Forks](https://img.shields.io/github/forks/titanwings/dsh-automation?style=flat-square&color=blue)](https://github.com/titanwings/dsh-automation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/titanwings/dsh-automation?style=flat-square&color=yellow)](https://github.com/titanwings/dsh-automation/stargazers) [![Forks](https://img.shields.io/github/forks/titanwings/dsh-automation?style=flat-square&color=blue)](https://github.com/titanwings/dsh-automation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ titanwings/dsh-automation 的价值在于，它可以帮助用户移除工作流
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

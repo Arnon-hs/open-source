@@ -1,6 +1,6 @@
 # paperboytm/spool
 
-[![Stars](https://img.shields.io/github/stars/paperboytm/spool?style=flat-square&color=yellow)](https://github.com/paperboytm/spool/stargazers) [![Forks](https://img.shields.io/github/forks/paperboytm/spool?style=flat-square&color=blue)](https://github.com/paperboytm/spool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paperboytm/spool?style=flat-square&color=yellow)](https://github.com/paperboytm/spool/stargazers) [![Forks](https://img.shields.io/github/forks/paperboytm/spool?style=flat-square&color=blue)](https://github.com/paperboytm/spool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Your local AI session library. Browse, pin, and ⌘K-search every Claude Code, Codex, Gemini & OpenCode session — and let the built-in scanner catch leaked secrets. Local-first, nothing leaves your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 567 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Security
+MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ paperboytm/spool 的生产可用性较高，主要原因是：
 | forks | 40/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

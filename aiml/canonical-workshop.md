@@ -1,6 +1,6 @@
 # canonical/workshop
 
-[![Stars](https://img.shields.io/github/stars/canonical/workshop?style=flat-square&color=yellow)](https://github.com/canonical/workshop/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/workshop?style=flat-square&color=blue)](https://github.com/canonical/workshop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canonical/workshop?style=flat-square&color=yellow)](https://github.com/canonical/workshop/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/workshop?style=flat-square&color=blue)](https://github.com/canonical/workshop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Workshops are secure, fast, and composable development environments that come agent-ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Workshop 的生产可用性为 中等（Medium）。它适用于内部工作流�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

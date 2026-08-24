@@ -1,6 +1,6 @@
 # Annyfee/agent-craft
 
-[![Stars](https://img.shields.io/github/stars/Annyfee/agent-craft?style=flat-square&color=yellow)](https://github.com/Annyfee/agent-craft/stargazers) [![Forks](https://img.shields.io/github/forks/Annyfee/agent-craft?style=flat-square&color=blue)](https://github.com/Annyfee/agent-craft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Annyfee/agent-craft?style=flat-square&color=yellow)](https://github.com/Annyfee/agent-craft/stargazers) [![Forks](https://img.shields.io/github/forks/Annyfee/agent-craft?style=flat-square&color=blue)](https://github.com/Annyfee/agent-craft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 教学仓库 | 系统化 LangChain、RAG、LangGraph、MCP 全栈实战代码 | 万字博客详解 | 开源可运行示例 | 从零构建智能体
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · Education
 
 ## 📝 Summary
 
@@ -80,14 +80,15 @@ Annyfee/agent-craft是一个开源项目，旨在帮助开发者将孤立的提�
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

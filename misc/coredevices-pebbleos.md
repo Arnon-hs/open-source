@@ -1,6 +1,6 @@
 # coredevices/PebbleOS
 
-[![Stars](https://img.shields.io/github/stars/coredevices/PebbleOS?style=flat-square&color=yellow)](https://github.com/coredevices/PebbleOS/stargazers) [![Forks](https://img.shields.io/github/forks/coredevices/PebbleOS?style=flat-square&color=blue)](https://github.com/coredevices/PebbleOS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coredevices/PebbleOS?style=flat-square&color=yellow)](https://github.com/coredevices/PebbleOS/stargazers) [![Forks](https://img.shields.io/github/forks/coredevices/PebbleOS?style=flat-square&color=blue)](https://github.com/coredevices/PebbleOS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -81,14 +81,15 @@ coredevices/PebbleOS 的生产可用性为中等。它适合用于原型开发�
 | forks | 59/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

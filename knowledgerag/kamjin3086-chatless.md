@@ -1,6 +1,6 @@
 # kamjin3086/chatless
 
-[![Stars](https://img.shields.io/github/stars/kamjin3086/chatless?style=flat-square&color=yellow)](https://github.com/kamjin3086/chatless/stargazers) [![Forks](https://img.shields.io/github/forks/kamjin3086/chatless?style=flat-square&color=blue)](https://github.com/kamjin3086/chatless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kamjin3086/chatless?style=flat-square&color=yellow)](https://github.com/kamjin3086/chatless/stargazers) [![Forks](https://img.shields.io/github/forks/kamjin3086/chatless?style=flat-square&color=blue)](https://github.com/kamjin3086/chatless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 277 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Frontend · DevTools
+Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ kamjin3086/chatless 已经得到广泛的采用和评估，具有以下生产可
 | forks | 40/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

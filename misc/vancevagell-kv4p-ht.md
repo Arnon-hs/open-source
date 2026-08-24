@@ -1,6 +1,6 @@
 # VanceVagell/kv4p-ht
 
-[![Stars](https://img.shields.io/github/stars/VanceVagell/kv4p-ht?style=flat-square&color=yellow)](https://github.com/VanceVagell/kv4p-ht/stargazers) [![Forks](https://img.shields.io/github/forks/VanceVagell/kv4p-ht?style=flat-square&color=blue)](https://github.com/VanceVagell/kv4p-ht/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VanceVagell/kv4p-ht?style=flat-square&color=yellow)](https://github.com/VanceVagell/kv4p-ht/stargazers) [![Forks](https://img.shields.io/github/forks/VanceVagell/kv4p-ht?style=flat-square&color=blue)](https://github.com/VanceVagell/kv4p-ht/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Open source handheld ham radio project KV4P-HT
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 791 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ VanceVagell/kv4p-ht 是一个开源的手持无线电项目 KV4P-HT，用于 Ham
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

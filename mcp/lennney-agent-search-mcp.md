@@ -1,6 +1,6 @@
 # lennney/agent-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/lennney/agent-search-mcp?style=flat-square&color=yellow)](https://github.com/lennney/agent-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/lennney/agent-search-mcp?style=flat-square&color=blue)](https://github.com/lennney/agent-search-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lennney/agent-search-mcp?style=flat-square&color=yellow)](https://github.com/lennney/agent-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/lennney/agent-search-mcp?style=flat-square&color=blue)](https://github.com/lennney/agent-search-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Free-first web search MCP with zero-key English and Chinese sources and compact evidence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ lennney/agent-search-mcp 的生产可用性较高
 | forks | 19/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

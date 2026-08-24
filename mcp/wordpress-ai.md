@@ -1,6 +1,6 @@
 # WordPress/ai
 
-[![Stars](https://img.shields.io/github/stars/WordPress/ai?style=flat-square&color=yellow)](https://github.com/WordPress/ai/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/ai?style=flat-square&color=blue)](https://github.com/WordPress/ai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordPress/ai?style=flat-square&color=yellow)](https://github.com/WordPress/ai/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/ai?style=flat-square&color=blue)](https://github.com/WordPress/ai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI features and experiments for WordPress. Modular framework for testing AI capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ WordPress/ai：WordPress/ai helps connect AI assistants to real tools and data t
 | forks | 56/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ItamarZand88/CLI-Anything-WEB
 
-[![Stars](https://img.shields.io/github/stars/ItamarZand88/CLI-Anything-WEB?style=flat-square&color=yellow)](https://github.com/ItamarZand88/CLI-Anything-WEB/stargazers) [![Forks](https://img.shields.io/github/forks/ItamarZand88/CLI-Anything-WEB?style=flat-square&color=blue)](https://github.com/ItamarZand88/CLI-Anything-WEB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ItamarZand88/CLI-Anything-WEB?style=flat-square&color=yellow)](https://github.com/ItamarZand88/CLI-Anything-WEB/stargazers) [![Forks](https://img.shields.io/github/forks/ItamarZand88/CLI-Anything-WEB?style=flat-square&color=blue)](https://github.com/ItamarZand88/CLI-Anything-WEB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin that generates production-grade Python CLIs for any web app. 20 CLIs and counting.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ItamarZand88/CLI-Anything-WEB 的价值在于，它可以帮助开发者快速�
 | forks | 41/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # JosefAlbers/vim-lm
 
-[![Stars](https://img.shields.io/github/stars/JosefAlbers/vim-lm?style=flat-square&color=yellow)](https://github.com/JosefAlbers/vim-lm/stargazers) [![Forks](https://img.shields.io/github/forks/JosefAlbers/vim-lm?style=flat-square&color=blue)](https://github.com/JosefAlbers/vim-lm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JosefAlbers/vim-lm?style=flat-square&color=yellow)](https://github.com/JosefAlbers/vim-lm/stargazers) [![Forks](https://img.shields.io/github/forks/JosefAlbers/vim-lm?style=flat-square&color=blue)](https://github.com/JosefAlbers/vim-lm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI Copilot for Vim/NeoVim
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ JosefAlbers/vim-lm 的生产可用性较高，因为它有活跃的社区支持�
 | forks | 24/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

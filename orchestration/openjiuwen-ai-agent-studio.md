@@ -1,6 +1,6 @@
 # openJiuwen-ai/agent-studio
 
-[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/agent-studio?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/agent-studio/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/agent-studio?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/agent-studio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/agent-studio?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/agent-studio/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/agent-studio?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/agent-studio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > openJiuwen agent-studio provides zero-code and low-code visual development, workflow orchestration, and unified management for models, knowledge bases, plugins, and other resources.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ openJiuwen agent-studio 的主要价值在于帮助开发者将孤立的提示�
 | forks | 37/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

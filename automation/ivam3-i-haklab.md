@@ -1,6 +1,6 @@
 # ivam3/i-Haklab
 
-[![Stars](https://img.shields.io/github/stars/ivam3/i-Haklab?style=flat-square&color=yellow)](https://github.com/ivam3/i-Haklab/stargazers) [![Forks](https://img.shields.io/github/forks/ivam3/i-Haklab?style=flat-square&color=blue)](https://github.com/ivam3/i-Haklab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivam3/i-Haklab?style=flat-square&color=yellow)](https://github.com/ivam3/i-Haklab/stargazers) [![Forks](https://img.shields.io/github/forks/ivam3/i-Haklab?style=flat-square&color=blue)](https://github.com/ivam3/i-Haklab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > i-Haklab is a hacking laboratory for Termux that contains open source tools for pentesting, scan/find vulnerabilities, explotation and post-explotation recommended by Ivam3 with automation hacking commands and many guides and tutorials to learn use it.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 610 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Education
+Automation
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ i-Haklab 的生产可用性为中等。虽然它已经有 610 个 GitHub 星和 
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

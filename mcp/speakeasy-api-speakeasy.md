@@ -1,6 +1,6 @@
 # speakeasy-api/speakeasy
 
-[![Stars](https://img.shields.io/github/stars/speakeasy-api/speakeasy?style=flat-square&color=yellow)](https://github.com/speakeasy-api/speakeasy/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/speakeasy?style=flat-square&color=blue)](https://github.com/speakeasy-api/speakeasy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/speakeasy-api/speakeasy?style=flat-square&color=yellow)](https://github.com/speakeasy-api/speakeasy/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/speakeasy?style=flat-square&color=blue)](https://github.com/speakeasy-api/speakeasy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers, MCP servers, CLIs and Contract Tests for your API. OpenAPI native.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Speakeasy（speakeasy-api/speakeasy）是一套基于 OpenAPI 的全栈开发工
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

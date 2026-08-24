@@ -1,6 +1,6 @@
 # swoole/swoole-cli
 
-[![Stars](https://img.shields.io/github/stars/swoole/swoole-cli?style=flat-square&color=yellow)](https://github.com/swoole/swoole-cli/stargazers) [![Forks](https://img.shields.io/github/forks/swoole/swoole-cli?style=flat-square&color=blue)](https://github.com/swoole/swoole-cli/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swoole/swoole-cli?style=flat-square&color=yellow)](https://github.com/swoole/swoole-cli/stargazers) [![Forks](https://img.shields.io/github/forks/swoole/swoole-cli?style=flat-square&color=blue)](https://github.com/swoole/swoole-cli/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & fpm and mostly of common extensions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ SWOOLE‑CLI 是一个打包好的 PHP 二进制发行版，内置 Swoole、PHP�
 | forks | 41/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

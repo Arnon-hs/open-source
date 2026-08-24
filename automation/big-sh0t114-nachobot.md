@@ -1,6 +1,6 @@
 # Big-Sh0t114/NachoBot
 
-[![Stars](https://img.shields.io/github/stars/Big-Sh0t114/NachoBot?style=flat-square&color=yellow)](https://github.com/Big-Sh0t114/NachoBot/stargazers) [![Forks](https://img.shields.io/github/forks/Big-Sh0t114/NachoBot?style=flat-square&color=blue)](https://github.com/Big-Sh0t114/NachoBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Big-Sh0t114/NachoBot?style=flat-square&color=yellow)](https://github.com/Big-Sh0t114/NachoBot/stargazers) [![Forks](https://img.shields.io/github/forks/Big-Sh0t114/NachoBot?style=flat-square&color=blue)](https://github.com/Big-Sh0t114/NachoBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 基于Maibot核心修改而成的笨蛋Nachoneko特制bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Big‑Sh0t114/NachoBot 是在 Maibot 核心上改造的专属 “笨蛋Nachoneko
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

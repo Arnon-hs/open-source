@@ -1,6 +1,6 @@
 # VKirill/claude-lane-stack
 
-[![Stars](https://img.shields.io/github/stars/VKirill/claude-lane-stack?style=flat-square&color=yellow)](https://github.com/VKirill/claude-lane-stack/stargazers) [![Forks](https://img.shields.io/github/forks/VKirill/claude-lane-stack?style=flat-square&color=blue)](https://github.com/VKirill/claude-lane-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VKirill/claude-lane-stack?style=flat-square&color=yellow)](https://github.com/VKirill/claude-lane-stack/stargazers) [![Forks](https://img.shields.io/github/forks/VKirill/claude-lane-stack?style=flat-square&color=blue)](https://github.com/VKirill/claude-lane-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent coding orchestration for Claude Code — AGY/Grok/Codex lanes, file contracts, auto-merge to main
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ VKirill/claude-lane-stack 通过将 Claude Code 的多代理编排（AGY/Grok/Co
 | forks | 0/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

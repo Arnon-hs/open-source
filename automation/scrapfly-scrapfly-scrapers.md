@@ -1,6 +1,6 @@
 # scrapfly/scrapfly-scrapers
 
-[![Stars](https://img.shields.io/github/stars/scrapfly/scrapfly-scrapers?style=flat-square&color=yellow)](https://github.com/scrapfly/scrapfly-scrapers/stargazers) [![Forks](https://img.shields.io/github/forks/scrapfly/scrapfly-scrapers?style=flat-square&color=blue)](https://github.com/scrapfly/scrapfly-scrapers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scrapfly/scrapfly-scrapers?style=flat-square&color=yellow)](https://github.com/scrapfly/scrapfly-scrapers/stargazers) [![Forks](https://img.shields.io/github/forks/scrapfly/scrapfly-scrapers?style=flat-square&color=blue)](https://github.com/scrapfly/scrapfly-scrapers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Scalable Python web scraping scripts for +40 popular domains
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 975 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Data
+Automation
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ scrapfly/scrapfly-scrapers — это набор масштабируемых 
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

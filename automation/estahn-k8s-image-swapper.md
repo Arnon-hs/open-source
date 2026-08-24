@@ -1,6 +1,6 @@
 # estahn/k8s-image-swapper
 
-[![Stars](https://img.shields.io/github/stars/estahn/k8s-image-swapper?style=flat-square&color=yellow)](https://github.com/estahn/k8s-image-swapper/stargazers) [![Forks](https://img.shields.io/github/forks/estahn/k8s-image-swapper?style=flat-square&color=blue)](https://github.com/estahn/k8s-image-swapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/estahn/k8s-image-swapper?style=flat-square&color=yellow)](https://github.com/estahn/k8s-image-swapper/stargazers) [![Forks](https://img.shields.io/github/forks/estahn/k8s-image-swapper?style=flat-square&color=blue)](https://github.com/estahn/k8s-image-swapper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror images into your own registry and swap image references automatically.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 631 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ estahn/k8s-image-swapper 是一个开源项目，用于镜像 Kubernetes 镜像�
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cookiy-ai/user-research-skill
 
-[![Stars](https://img.shields.io/github/stars/cookiy-ai/user-research-skill?style=flat-square&color=yellow)](https://github.com/cookiy-ai/user-research-skill/stargazers) [![Forks](https://img.shields.io/github/forks/cookiy-ai/user-research-skill?style=flat-square&color=blue)](https://github.com/cookiy-ai/user-research-skill/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cookiy-ai/user-research-skill?style=flat-square&color=yellow)](https://github.com/cookiy-ai/user-research-skill/stargazers) [![Forks](https://img.shields.io/github/forks/cookiy-ai/user-research-skill?style=flat-square&color=blue)](https://github.com/cookiy-ai/user-research-skill/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 829 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Frontend · DevTools
+Trading · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Cookiy AI 用户研究技能是一款开源项目，旨在为 AI 代理 (Claude,
 | forks | 43/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

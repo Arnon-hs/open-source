@@ -1,6 +1,6 @@
 # albumentations-team/AlbumentationsX
 
-[![Stars](https://img.shields.io/github/stars/albumentations-team/AlbumentationsX?style=flat-square&color=yellow)](https://github.com/albumentations-team/AlbumentationsX/stargazers) [![Forks](https://img.shields.io/github/forks/albumentations-team/AlbumentationsX?style=flat-square&color=blue)](https://github.com/albumentations-team/AlbumentationsX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/albumentations-team/AlbumentationsX?style=flat-square&color=yellow)](https://github.com/albumentations-team/AlbumentationsX/stargazers) [![Forks](https://img.shields.io/github/forks/albumentations-team/AlbumentationsX?style=flat-square&color=blue)](https://github.com/albumentations-team/AlbumentationsX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Next-generation Albumentations: dual-licensed for open-source and commercial use
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ AlbumentationsX 的生产可用性较高，因为它有活跃的维护人员、�
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

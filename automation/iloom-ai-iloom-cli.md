@@ -1,6 +1,6 @@
 # iloom-ai/iloom-cli
 
-[![Stars](https://img.shields.io/github/stars/iloom-ai/iloom-cli?style=flat-square&color=yellow)](https://github.com/iloom-ai/iloom-cli/stargazers) [![Forks](https://img.shields.io/github/forks/iloom-ai/iloom-cli?style=flat-square&color=blue)](https://github.com/iloom-ai/iloom-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iloom-ai/iloom-cli?style=flat-square&color=yellow)](https://github.com/iloom-ai/iloom-cli/stargazers) [![Forks](https://img.shields.io/github/forks/iloom-ai/iloom-cli?style=flat-square&color=blue)](https://github.com/iloom-ai/iloom-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > iloom: a developer workflow system delivered as a CLI and a VS Code extension for structured AI-assisted development. The CLI is the system of record, running tasks in isolated workflows and persisting analysis, plans, and decisions to your issue tracker, while the VS Code extension exposes insights, assumptions, risks, and decisions in real time.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ iloom‑cli 为开发团队提供了“一站式” AI 助手，能够显著削�
 | forks | 32/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # emacs-mirror/emacs
 
-[![Stars](https://img.shields.io/github/stars/emacs-mirror/emacs?style=flat-square&color=yellow)](https://github.com/emacs-mirror/emacs/stargazers) [![Forks](https://img.shields.io/github/forks/emacs-mirror/emacs?style=flat-square&color=blue)](https://github.com/emacs-mirror/emacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emacs-mirror/emacs?style=flat-square&color=yellow)](https://github.com/emacs-mirror/emacs/stargazers) [![Forks](https://img.shields.io/github/forks/emacs-mirror/emacs?style=flat-square&color=blue)](https://github.com/emacs-mirror/emacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of GNU Emacs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ emacs-mirror/emacs 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 79/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

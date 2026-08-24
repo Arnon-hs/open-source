@@ -1,6 +1,6 @@
 # sheawinkler/ContextLattice
 
-[![Stars](https://img.shields.io/github/stars/sheawinkler/ContextLattice?style=flat-square&color=yellow)](https://github.com/sheawinkler/ContextLattice/stargazers) [![Forks](https://img.shields.io/github/forks/sheawinkler/ContextLattice?style=flat-square&color=blue)](https://github.com/sheawinkler/ContextLattice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sheawinkler/ContextLattice?style=flat-square&color=yellow)](https://github.com/sheawinkler/ContextLattice/stargazers) [![Forks](https://img.shields.io/github/forks/sheawinkler/ContextLattice?style=flat-square&color=blue)](https://github.com/sheawinkler/ContextLattice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and verified learning across harnesses.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ sheawinkler/ContextLattice 的生产可用性较高，项目最近有活跃的�
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

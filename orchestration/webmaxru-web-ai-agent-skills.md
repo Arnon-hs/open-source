@@ -1,6 +1,6 @@
 # webmaxru/web-ai-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/webmaxru/web-ai-agent-skills?style=flat-square&color=yellow)](https://github.com/webmaxru/web-ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/webmaxru/web-ai-agent-skills?style=flat-square&color=blue)](https://github.com/webmaxru/web-ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webmaxru/web-ai-agent-skills?style=flat-square&color=yellow)](https://github.com/webmaxru/web-ai-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/webmaxru/web-ai-agent-skills?style=flat-square&color=blue)](https://github.com/webmaxru/web-ai-agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A high-quality, auto-updated (but manually reviewed) set of agent skills that covers key Web APIs supporting Web AI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ The project has a medium production readiness score, indicating that it's suitab
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

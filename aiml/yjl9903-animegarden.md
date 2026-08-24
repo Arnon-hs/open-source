@@ -1,6 +1,6 @@
 # yjl9903/AnimeGarden
 
-[![Stars](https://img.shields.io/github/stars/yjl9903/AnimeGarden?style=flat-square&color=yellow)](https://github.com/yjl9903/AnimeGarden/stargazers) [![Forks](https://img.shields.io/github/forks/yjl9903/AnimeGarden?style=flat-square&color=blue)](https://github.com/yjl9903/AnimeGarden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yjl9903/AnimeGarden?style=flat-square&color=yellow)](https://github.com/yjl9903/AnimeGarden/stargazers) [![Forks](https://img.shields.io/github/forks/yjl9903/AnimeGarden?style=flat-square&color=blue)](https://github.com/yjl9903/AnimeGarden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 動漫花園 镜像站 | 动画 BT 资源聚合站 | 动画 BT 资源开放接口
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ To adopt AnimeGarden, developers can follow these steps:
 | forks | 39/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pinkpixel-dev/MCPollinations
 
-[![Stars](https://img.shields.io/github/stars/pinkpixel-dev/MCPollinations?style=flat-square&color=yellow)](https://github.com/pinkpixel-dev/MCPollinations/stargazers) [![Forks](https://img.shields.io/github/forks/pinkpixel-dev/MCPollinations?style=flat-square&color=blue)](https://github.com/pinkpixel-dev/MCPollinations/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pinkpixel-dev/MCPollinations?style=flat-square&color=yellow)](https://github.com/pinkpixel-dev/MCPollinations/stargazers) [![Forks](https://img.shields.io/github/forks/pinkpixel-dev/MCPollinations?style=flat-square&color=blue)](https://github.com/pinkpixel-dev/MCPollinations/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Please see the newer MCP server, Nectar-MCP. Link below
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ pinkpixel-dev/MCPollinations 在生产环境中非常可靠，具有以下特点
 | forks | 29/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

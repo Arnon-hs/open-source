@@ -1,6 +1,6 @@
 # getsentry/sentry-dart
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-dart?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-dart/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-dart?style=flat-square&color=blue)](https://github.com/getsentry/sentry-dart/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-dart?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-dart/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-dart?style=flat-square&color=blue)](https://github.com/getsentry/sentry-dart/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Sentry SDK for Dart and Flutter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 871 |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Product
+Mobile
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ getsentry/sentry-dart 的生产可用性非常高。它有强大的社区支持�
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

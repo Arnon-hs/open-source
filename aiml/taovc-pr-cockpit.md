@@ -1,6 +1,6 @@
 # taovc/pr-cockpit
 
-[![Stars](https://img.shields.io/github/stars/taovc/pr-cockpit?style=flat-square&color=yellow)](https://github.com/taovc/pr-cockpit/stargazers) [![Forks](https://img.shields.io/github/forks/taovc/pr-cockpit?style=flat-square&color=blue)](https://github.com/taovc/pr-cockpit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taovc/pr-cockpit?style=flat-square&color=yellow)](https://github.com/taovc/pr-cockpit/stargazers) [![Forks](https://img.shields.io/github/forks/taovc/pr-cockpit?style=flat-square&color=blue)](https://github.com/taovc/pr-cockpit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI PR workbench — Claude/Codex review in isolated git worktrees, human-gated GitHub comments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ taovc/pr-cockpit 的生产可用性为中等。它适用于以下场景：
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

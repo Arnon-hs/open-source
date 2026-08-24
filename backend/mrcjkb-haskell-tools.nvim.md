@@ -1,6 +1,6 @@
 # mrcjkb/haskell-tools.nvim
 
-[![Stars](https://img.shields.io/github/stars/mrcjkb/haskell-tools.nvim?style=flat-square&color=yellow)](https://github.com/mrcjkb/haskell-tools.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/mrcjkb/haskell-tools.nvim?style=flat-square&color=blue)](https://github.com/mrcjkb/haskell-tools.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrcjkb/haskell-tools.nvim?style=flat-square&color=yellow)](https://github.com/mrcjkb/haskell-tools.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/mrcjkb/haskell-tools.nvim?style=flat-square&color=blue)](https://github.com/mrcjkb/haskell-tools.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🦥 Supercharge your Haskell experience in neovim!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ mrcjkb/haskell-tools.nvim 是一款专为 Neovim 打造的 Haskell 开发插件�
 | forks | 34/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Altinity/altinity-mcp
 
-[![Stars](https://img.shields.io/github/stars/Altinity/altinity-mcp?style=flat-square&color=yellow)](https://github.com/Altinity/altinity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Altinity/altinity-mcp?style=flat-square&color=blue)](https://github.com/Altinity/altinity-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Altinity/altinity-mcp?style=flat-square&color=yellow)](https://github.com/Altinity/altinity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Altinity/altinity-mcp?style=flat-square&color=blue)](https://github.com/Altinity/altinity-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol server to use ClickHouse®  databases in your AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Altinity/altinity-mcp 帮助连接 AI 助手与真实的工具和数据，提供
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

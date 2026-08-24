@@ -1,6 +1,6 @@
 # komadori/bevy_mod_outline
 
-[![Stars](https://img.shields.io/github/stars/komadori/bevy_mod_outline?style=flat-square&color=yellow)](https://github.com/komadori/bevy_mod_outline/stargazers) [![Forks](https://img.shields.io/github/forks/komadori/bevy_mod_outline?style=flat-square&color=blue)](https://github.com/komadori/bevy_mod_outline/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/komadori/bevy_mod_outline?style=flat-square&color=yellow)](https://github.com/komadori/bevy_mod_outline/stargazers) [![Forks](https://img.shields.io/github/forks/komadori/bevy_mod_outline?style=flat-square&color=blue)](https://github.com/komadori/bevy_mod_outline/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ komadori/bevy_mod_outline - это открытый исходный проек�
 | forks | 39/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

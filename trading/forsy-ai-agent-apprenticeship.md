@@ -1,6 +1,6 @@
 # Forsy-AI/agent-apprenticeship
 
-[![Stars](https://img.shields.io/github/stars/Forsy-AI/agent-apprenticeship?style=flat-square&color=yellow)](https://github.com/Forsy-AI/agent-apprenticeship/stargazers) [![Forks](https://img.shields.io/github/forks/Forsy-AI/agent-apprenticeship?style=flat-square&color=blue)](https://github.com/Forsy-AI/agent-apprenticeship/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Forsy-AI/agent-apprenticeship?style=flat-square&color=yellow)](https://github.com/Forsy-AI/agent-apprenticeship/stargazers) [![Forks](https://img.shields.io/github/forks/Forsy-AI/agent-apprenticeship?style=flat-square&color=blue)](https://github.com/Forsy-AI/agent-apprenticeship/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 802 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · AI/ML · Education
+Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Forsy‑AI/agent‑apprenticeship 是一个活跃的生态系统，AI 代理通�
 | forks | 42/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

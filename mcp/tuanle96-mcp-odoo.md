@@ -1,6 +1,6 @@
 # tuanle96/mcp-odoo
 
-[![Stars](https://img.shields.io/github/stars/tuanle96/mcp-odoo?style=flat-square&color=yellow)](https://github.com/tuanle96/mcp-odoo/stargazers) [![Forks](https://img.shields.io/github/forks/tuanle96/mcp-odoo?style=flat-square&color=blue)](https://github.com/tuanle96/mcp-odoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuanle96/mcp-odoo?style=flat-square&color=yellow)](https://github.com/tuanle96/mcp-odoo/stargazers) [![Forks](https://img.shields.io/github/forks/tuanle96/mcp-odoo?style=flat-square&color=blue)](https://github.com/tuanle96/mcp-odoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for Odoo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ The codebase shows strong community signals: recent activity, a healthy star/for
 | forks | 55/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

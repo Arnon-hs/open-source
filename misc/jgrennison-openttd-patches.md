@@ -1,6 +1,6 @@
 # JGRennison/OpenTTD-patches
 
-[![Stars](https://img.shields.io/github/stars/JGRennison/OpenTTD-patches?style=flat-square&color=yellow)](https://github.com/JGRennison/OpenTTD-patches/stargazers) [![Forks](https://img.shields.io/github/forks/JGRennison/OpenTTD-patches?style=flat-square&color=blue)](https://github.com/JGRennison/OpenTTD-patches/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JGRennison/OpenTTD-patches?style=flat-square&color=yellow)](https://github.com/JGRennison/OpenTTD-patches/stargazers) [![Forks](https://img.shields.io/github/forks/JGRennison/OpenTTD-patches?style=flat-square&color=blue)](https://github.com/JGRennison/OpenTTD-patches/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTTD - http://www.openttd.org/ - with additional patches
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 786 |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ OpenTTD-patches是一个开源项目，基于OpenTTD（http://www.openttd.org/�
 | forks | 56/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

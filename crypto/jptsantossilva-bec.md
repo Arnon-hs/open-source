@@ -1,6 +1,6 @@
 # jptsantossilva/BEC
 
-[![Stars](https://img.shields.io/github/stars/jptsantossilva/BEC?style=flat-square&color=yellow)](https://github.com/jptsantossilva/BEC/stargazers) [![Forks](https://img.shields.io/github/forks/jptsantossilva/BEC?style=flat-square&color=blue)](https://github.com/jptsantossilva/BEC/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jptsantossilva/BEC?style=flat-square&color=yellow)](https://github.com/jptsantossilva/BEC/stargazers) [![Forks](https://img.shields.io/github/forks/jptsantossilva/BEC?style=flat-square&color=blue)](https://github.com/jptsantossilva/BEC/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted spot trading platform for Binance, Kraken and OKX, with automated strategies, exchange-scoped backtesting, market-phase ranking, dashboards and Telegram alerts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · DevTools
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ jptsantossilva/BEC 的生产可用性较
 | forks | 31/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sanbir/evm-hack-registry
 
-[![Stars](https://img.shields.io/github/stars/sanbir/evm-hack-registry?style=flat-square&color=yellow)](https://github.com/sanbir/evm-hack-registry/stargazers) [![Forks](https://img.shields.io/github/forks/sanbir/evm-hack-registry?style=flat-square&color=blue)](https://github.com/sanbir/evm-hack-registry/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanbir/evm-hack-registry?style=flat-square&color=yellow)](https://github.com/sanbir/evm-hack-registry/stargazers) [![Forks](https://img.shields.io/github/forks/sanbir/evm-hack-registry?style=flat-square&color=blue)](https://github.com/sanbir/evm-hack-registry/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A self-contained, offline-runnable archive of DeFi exploit proof-of-concepts spanning the full history of EVM hacks (2017 → 2026)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ sanbir/evm-hack-registry 是一个开源项目，提供了 EVM 漏洞的证明�
 | forks | 27/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # PurCL/ASTRA
 
-[![Stars](https://img.shields.io/github/stars/PurCL/ASTRA?style=flat-square&color=yellow)](https://github.com/PurCL/ASTRA/stargazers) [![Forks](https://img.shields.io/github/forks/PurCL/ASTRA?style=flat-square&color=blue)](https://github.com/PurCL/ASTRA/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PurCL/ASTRA?style=flat-square&color=yellow)](https://github.com/PurCL/ASTRA/stargazers) [![Forks](https://img.shields.io/github/forks/PurCL/ASTRA?style=flat-square&color=blue)](https://github.com/PurCL/ASTRA/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🥇 Amazon Nova AI Challenge Winner - ASTRA emerged victorious as the top attacking team in Amazon's global AI safety competition, defeating elite defending teams from universities worldwide in live adversarial evaluation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ PurCL/ASTRA 是在 Amazon Nova AI Challenge 中夺冠的开源 AI 框架，凭�
 | forks | 17/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

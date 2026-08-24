@@ -1,6 +1,6 @@
 # MIV-XJTU/JanusVLN
 
-[![Stars](https://img.shields.io/github/stars/MIV-XJTU/JanusVLN?style=flat-square&color=yellow)](https://github.com/MIV-XJTU/JanusVLN/stargazers) [![Forks](https://img.shields.io/github/forks/MIV-XJTU/JanusVLN?style=flat-square&color=blue)](https://github.com/MIV-XJTU/JanusVLN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MIV-XJTU/JanusVLN?style=flat-square&color=yellow)](https://github.com/MIV-XJTU/JanusVLN/stargazers) [![Forks](https://img.shields.io/github/forks/MIV-XJTU/JanusVLN?style=flat-square&color=blue)](https://github.com/MIV-XJTU/JanusVLN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > [ICLR2026] Official implementation for "JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 579 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ MIV-XJTU/JanusVLN 的价值在于，它可以帮助开发者快速构建 AI 模�
 | forks | 40/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

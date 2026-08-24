@@ -1,6 +1,6 @@
 # pbreault/adb-idea
 
-[![Stars](https://img.shields.io/github/stars/pbreault/adb-idea?style=flat-square&color=yellow)](https://github.com/pbreault/adb-idea/stargazers) [![Forks](https://img.shields.io/github/forks/pbreault/adb-idea?style=flat-square&color=blue)](https://github.com/pbreault/adb-idea/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pbreault/adb-idea?style=flat-square&color=yellow)](https://github.com/pbreault/adb-idea/stargazers) [![Forks](https://img.shields.io/github/forks/pbreault/adb-idea?style=flat-square&color=blue)](https://github.com/pbreault/adb-idea/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ pbreault/adb-idea — это плагин для Android Studio и IntelliJ ID
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

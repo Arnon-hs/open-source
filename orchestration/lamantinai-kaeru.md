@@ -1,6 +1,6 @@
 # LamantinAI/kaeru
 
-[![Stars](https://img.shields.io/github/stars/LamantinAI/kaeru?style=flat-square&color=yellow)](https://github.com/LamantinAI/kaeru/stargazers) [![Forks](https://img.shields.io/github/forks/LamantinAI/kaeru?style=flat-square&color=blue)](https://github.com/LamantinAI/kaeru/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LamantinAI/kaeru?style=flat-square&color=yellow)](https://github.com/LamantinAI/kaeru/stargazers) [![Forks](https://img.shields.io/github/forks/LamantinAI/kaeru?style=flat-square&color=blue)](https://github.com/LamantinAI/kaeru/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Cognitive memory for LLM agents — local-first, and shareable across a team through the cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ LamantinAI/kaeru 的生产可用性为中等，适合用于原型或内部工作
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

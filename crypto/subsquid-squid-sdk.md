@@ -1,6 +1,6 @@
 # subsquid/squid-sdk
 
-[![Stars](https://img.shields.io/github/stars/subsquid/squid-sdk?style=flat-square&color=yellow)](https://github.com/subsquid/squid-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/subsquid/squid-sdk?style=flat-square&color=blue)](https://github.com/subsquid/squid-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/subsquid/squid-sdk?style=flat-square&color=yellow)](https://github.com/subsquid/squid-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/subsquid/squid-sdk?style=flat-square&color=blue)](https://github.com/subsquid/squid-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript ETL toolkit for indexing Ethereum, Solana, and Substrate data, sourced from SQD Network.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · Data
+Crypto · Data
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ subsquid/squid-sdk 帮助开发者快速 prototyping 或检查区块链工作流
 | forks | 57/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

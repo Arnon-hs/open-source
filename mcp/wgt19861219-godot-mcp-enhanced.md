@@ -1,6 +1,6 @@
 # wgt19861219/godot-mcp-enhanced
 
-[![Stars](https://img.shields.io/github/stars/wgt19861219/godot-mcp-enhanced?style=flat-square&color=yellow)](https://github.com/wgt19861219/godot-mcp-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/wgt19861219/godot-mcp-enhanced?style=flat-square&color=blue)](https://github.com/wgt19861219/godot-mcp-enhanced/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wgt19861219/godot-mcp-enhanced?style=flat-square&color=yellow)](https://github.com/wgt19861219/godot-mcp-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/wgt19861219/godot-mcp-enhanced?style=flat-square&color=blue)](https://github.com/wgt19861219/godot-mcp-enhanced/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Enhanced MCP server for Godot 4.5-4.7: 33 tools / 199 actions, 3-layer architecture (headless + editor + game bridge), secure sandbox, recording & frame-verify, cross-version CI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ The project's high production readiness is reflected in its recent activity, str
 | forks | 23/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

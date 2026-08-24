@@ -1,6 +1,6 @@
 # goincrypto/cryptocom-exchange
 
-[![Stars](https://img.shields.io/github/stars/goincrypto/cryptocom-exchange?style=flat-square&color=yellow)](https://github.com/goincrypto/cryptocom-exchange/stargazers) [![Forks](https://img.shields.io/github/forks/goincrypto/cryptocom-exchange?style=flat-square&color=blue)](https://github.com/goincrypto/cryptocom-exchange/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goincrypto/cryptocom-exchange?style=flat-square&color=yellow)](https://github.com/goincrypto/cryptocom-exchange/stargazers) [![Forks](https://img.shields.io/github/forks/goincrypto/cryptocom-exchange?style=flat-square&color=blue)](https://github.com/goincrypto/cryptocom-exchange/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Python 3.11+ library for https://crypto.com/exchange API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Backend
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ goincrypto/cryptocom-exchange 是一个基于 Python 3.11+ 的开源库，用于
 | forks | 38/100 |
 | stars | 39/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

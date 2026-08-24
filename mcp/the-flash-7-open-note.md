@@ -1,6 +1,6 @@
 # The-Flash-7/open-note
 
-[![Stars](https://img.shields.io/github/stars/The-Flash-7/open-note?style=flat-square&color=yellow)](https://github.com/The-Flash-7/open-note/stargazers) [![Forks](https://img.shields.io/github/forks/The-Flash-7/open-note?style=flat-square&color=blue)](https://github.com/The-Flash-7/open-note/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-Flash-7/open-note?style=flat-square&color=yellow)](https://github.com/The-Flash-7/open-note/stargazers) [![Forks](https://img.shields.io/github/forks/The-Flash-7/open-note?style=flat-square&color=blue)](https://github.com/The-Flash-7/open-note/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 一款跨平台智能笔记 Agent 应用，支持多格式笔记、本地知识库、AI 智能助手、向量语义检索 。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ The-Flash-7/open-note 的生产可用性为中等（Medium），适合用于原�
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

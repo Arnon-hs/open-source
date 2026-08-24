@@ -1,6 +1,6 @@
 # M507/RamiGPT
 
-[![Stars](https://img.shields.io/github/stars/M507/RamiGPT?style=flat-square&color=yellow)](https://github.com/M507/RamiGPT/stargazers) [![Forks](https://img.shields.io/github/forks/M507/RamiGPT?style=flat-square&color=blue)](https://github.com/M507/RamiGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/M507/RamiGPT?style=flat-square&color=yellow)](https://github.com/M507/RamiGPT/stargazers) [![Forks](https://img.shields.io/github/forks/M507/RamiGPT?style=flat-square&color=blue)](https://github.com/M507/RamiGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous Privilege Escalation using AI + Benchmarking models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 860 |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ M507/RamiGPT 的生产可用性较高，因为它有以下特点：
 | forks | 57/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rootflo/wavefront
 
-[![Stars](https://img.shields.io/github/stars/rootflo/wavefront?style=flat-square&color=yellow)](https://github.com/rootflo/wavefront/stargazers) [![Forks](https://img.shields.io/github/forks/rootflo/wavefront?style=flat-square&color=blue)](https://github.com/rootflo/wavefront/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rootflo/wavefront?style=flat-square&color=yellow)](https://github.com/rootflo/wavefront/stargazers) [![Forks](https://img.shields.io/github/forks/rootflo/wavefront?style=flat-square&color=blue)](https://github.com/rootflo/wavefront/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥🔥 Enterprise AI middleware, alternative to unifyapps, n8n, lyzr
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ rootflo/wavefront 的生产
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tianma-if/edgeever
 
-[![Stars](https://img.shields.io/github/stars/tianma-if/edgeever?style=flat-square&color=yellow)](https://github.com/tianma-if/edgeever/stargazers) [![Forks](https://img.shields.io/github/forks/tianma-if/edgeever?style=flat-square&color=blue)](https://github.com/tianma-if/edgeever/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tianma-if/edgeever?style=flat-square&color=yellow)](https://github.com/tianma-if/edgeever/stargazers) [![Forks](https://img.shields.io/github/forks/tianma-if/edgeever?style=flat-square&color=blue)](https://github.com/tianma-if/edgeever/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ tianma-if/edgeever 提供了以下接入方式：
 | forks | 19/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

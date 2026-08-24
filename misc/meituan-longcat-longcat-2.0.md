@@ -1,6 +1,6 @@
 # meituan-longcat/LongCat-2.0
 
-[![Stars](https://img.shields.io/github/stars/meituan-longcat/LongCat-2.0?style=flat-square&color=yellow)](https://github.com/meituan-longcat/LongCat-2.0/stargazers) [![Forks](https://img.shields.io/github/forks/meituan-longcat/LongCat-2.0?style=flat-square&color=blue)](https://github.com/meituan-longcat/LongCat-2.0/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meituan-longcat/LongCat-2.0?style=flat-square&color=yellow)](https://github.com/meituan-longcat/LongCat-2.0/stargazers) [![Forks](https://img.shields.io/github/forks/meituan-longcat/LongCat-2.0?style=flat-square&color=blue)](https://github.com/meituan-longcat/LongCat-2.0/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ LongCat-2.0 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 41/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

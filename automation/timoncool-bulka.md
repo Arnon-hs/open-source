@@ -1,6 +1,6 @@
 # timoncool/Bulka
 
-[![Stars](https://img.shields.io/github/stars/timoncool/Bulka?style=flat-square&color=yellow)](https://github.com/timoncool/Bulka/stargazers) [![Forks](https://img.shields.io/github/forks/timoncool/Bulka?style=flat-square&color=blue)](https://github.com/timoncool/Bulka/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timoncool/Bulka?style=flat-square&color=yellow)](https://github.com/timoncool/Bulka/stargazers) [![Forks](https://img.shields.io/github/forks/timoncool/Bulka?style=flat-square&color=blue)](https://github.com/timoncool/Bulka/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Live-coding music platform with AI agent — browser-based Strudel fork with Telegram bot and Russian community.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Bulka 的生产可用性为中等（Medium），适合用于原型或内部工�
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

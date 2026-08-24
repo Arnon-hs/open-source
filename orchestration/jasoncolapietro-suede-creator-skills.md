@@ -1,6 +1,6 @@
 # JasonColapietro/suede-creator-skills
 
-[![Stars](https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat-square&color=yellow)](https://github.com/JasonColapietro/suede-creator-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JasonColapietro/suede-creator-skills?style=flat-square&color=blue)](https://github.com/JasonColapietro/suede-creator-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat-square&color=yellow)](https://github.com/JasonColapietro/suede-creator-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JasonColapietro/suede-creator-skills?style=flat-square&color=blue)](https://github.com/JasonColapietro/suede-creator-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 25 open-source Agent Skills for Claude Code and Codex: multi-agent orchestration, A-F code review, AI evals, CI ship-gates, design, copy, SEO, iOS shipping, music rights, and consumer recovery (the Amazon negotiator that recovered $448.31).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ JasonColapietro/suede-creator-skills 提供 25 个开源 Agent Skill，能够将
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

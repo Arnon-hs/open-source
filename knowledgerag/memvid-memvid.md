@@ -1,6 +1,6 @@
 # memvid/memvid
 
-[![Stars](https://img.shields.io/github/stars/memvid/memvid?style=flat-square&color=yellow)](https://github.com/memvid/memvid/stargazers) [![Forks](https://img.shields.io/github/forks/memvid/memvid?style=flat-square&color=blue)](https://github.com/memvid/memvid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memvid/memvid?style=flat-square&color=yellow)](https://github.com/memvid/memvid/stargazers) [![Forks](https://img.shields.io/github/forks/memvid/memvid?style=flat-square&color=blue)](https://github.com/memvid/memvid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ memvid/memvid 拥有较高的生产可用性，主要原因是：
 | forks | 78/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

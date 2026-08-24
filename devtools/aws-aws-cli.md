@@ -1,6 +1,6 @@
 # aws/aws-cli
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-cli?style=flat-square&color=yellow)](https://github.com/aws/aws-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-cli?style=flat-square&color=blue)](https://github.com/aws/aws-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-cli?style=flat-square&color=yellow)](https://github.com/aws/aws-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-cli?style=flat-square&color=blue)](https://github.com/aws/aws-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Command Line Interface for Amazon Web Services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.1k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ aws/aws-cli 的生产可用性非常高，主要原因是：
 | forks | 92/100 |
 | stars | 90/100 |
 | topics | 50/100 |
-| outlook | 84/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

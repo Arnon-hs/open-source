@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ Zitann/HarmonyOS-Haps：Zitann/HarmonyOS-Haps may be useful when its README and 
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # alchaincyf/harness-engineering-orange-book
 
-[![Stars](https://img.shields.io/github/stars/alchaincyf/harness-engineering-orange-book?style=flat-square&color=yellow)](https://github.com/alchaincyf/harness-engineering-orange-book/stargazers) [![Forks](https://img.shields.io/github/forks/alchaincyf/harness-engineering-orange-book?style=flat-square&color=blue)](https://github.com/alchaincyf/harness-engineering-orange-book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alchaincyf/harness-engineering-orange-book?style=flat-square&color=yellow)](https://github.com/alchaincyf/harness-engineering-orange-book/stargazers) [![Forks](https://img.shields.io/github/forks/alchaincyf/harness-engineering-orange-book?style=flat-square&color=blue)](https://github.com/alchaincyf/harness-engineering-orange-book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Harness Engineering · 橙皮书系列 · AI Agent 缰绳工程学实战指南
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ alchaincyf/harness-engineering-orange-book：alchaincyf/harness-engineering-oran
 | forks | 35/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

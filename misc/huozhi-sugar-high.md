@@ -1,6 +1,6 @@
 # huozhi/sugar-high
 
-[![Stars](https://img.shields.io/github/stars/huozhi/sugar-high?style=flat-square&color=yellow)](https://github.com/huozhi/sugar-high/stargazers) [![Forks](https://img.shields.io/github/forks/huozhi/sugar-high?style=flat-square&color=blue)](https://github.com/huozhi/sugar-high/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huozhi/sugar-high?style=flat-square&color=yellow)](https://github.com/huozhi/sugar-high/stargazers) [![Forks](https://img.shields.io/github/forks/huozhi/sugar-high?style=flat-square&color=blue)](https://github.com/huozhi/sugar-high/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Super lightweight code syntax highlighter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ huozhi/sugar‑high 是一个基于 TypeScript 的超轻量代码语法高亮库
 | forks | 36/100 |
 | stars | 65/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

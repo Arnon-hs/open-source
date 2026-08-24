@@ -1,6 +1,6 @@
 # sodam-ai/SoDam-Persona
 
-[![Stars](https://img.shields.io/github/stars/sodam-ai/SoDam-Persona?style=flat-square&color=yellow)](https://github.com/sodam-ai/SoDam-Persona/stargazers) [![Forks](https://img.shields.io/github/forks/sodam-ai/SoDam-Persona?style=flat-square&color=blue)](https://github.com/sodam-ai/SoDam-Persona/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sodam-ai/SoDam-Persona?style=flat-square&color=yellow)](https://github.com/sodam-ai/SoDam-Persona/stargazers) [![Forks](https://img.shields.io/github/forks/sodam-ai/SoDam-Persona?style=flat-square&color=blue)](https://github.com/sodam-ai/SoDam-Persona/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code에 '15명 전문가 관점 + 자동 트리거' AI 개발 파트너 페르소나를 입히는 플러그인. 항상켜짐 hook + 조건부 skill + 인터뷰형 생성/편집 명령어, 세무·법률 면책 자동, 새 PC 이식형. Apache-2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ sodam-ai/SoDam-Persona：sodam-ai/SoDam-Persona helps add AI capability without 
 | forks | 17/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

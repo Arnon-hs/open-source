@@ -1,6 +1,6 @@
 # lux-db/lux
 
-[![Stars](https://img.shields.io/github/stars/lux-db/lux?style=flat-square&color=yellow)](https://github.com/lux-db/lux/stargazers) [![Forks](https://img.shields.io/github/forks/lux-db/lux?style=flat-square&color=blue)](https://github.com/lux-db/lux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lux-db/lux?style=flat-square&color=yellow)](https://github.com/lux-db/lux/stargazers) [![Forks](https://img.shields.io/github/forks/lux-db/lux?style=flat-square&color=blue)](https://github.com/lux-db/lux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A Redis-compatable key-value store. Up to 10x faster. Native vector support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · Database
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ lux-db/lux 是一款兼容 Redis 协议的键值存储，基于 Rust 实现，�
 | forks | 34/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

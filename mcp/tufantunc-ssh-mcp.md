@@ -1,6 +1,6 @@
 # tufantunc/ssh-mcp
 
-[![Stars](https://img.shields.io/github/stars/tufantunc/ssh-mcp?style=flat-square&color=yellow)](https://github.com/tufantunc/ssh-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tufantunc/ssh-mcp?style=flat-square&color=blue)](https://github.com/tufantunc/ssh-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tufantunc/ssh-mcp?style=flat-square&color=yellow)](https://github.com/tufantunc/ssh-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tufantunc/ssh-mcp?style=flat-square&color=blue)](https://github.com/tufantunc/ssh-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server exposing SSH control for Linux servers via Model Context Protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ tufantunc/ssh-mcp 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

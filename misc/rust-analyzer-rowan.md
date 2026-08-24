@@ -1,6 +1,6 @@
 # rust-analyzer/rowan
 
-[![Stars](https://img.shields.io/github/stars/rust-analyzer/rowan?style=flat-square&color=yellow)](https://github.com/rust-analyzer/rowan/stargazers) [![Forks](https://img.shields.io/github/forks/rust-analyzer/rowan?style=flat-square&color=blue)](https://github.com/rust-analyzer/rowan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-analyzer/rowan?style=flat-square&color=yellow)](https://github.com/rust-analyzer/rowan/stargazers) [![Forks](https://img.shields.io/github/forks/rust-analyzer/rowan?style=flat-square&color=blue)](https://github.com/rust-analyzer/rowan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 900 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ rust-analyzer/rowan 是一个开源项目，主要用于特定的工作流程。
 | forks | 48/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 68/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

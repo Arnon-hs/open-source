@@ -1,6 +1,6 @@
 # cornellius-gp/gpytorch
 
-[![Stars](https://img.shields.io/github/stars/cornellius-gp/gpytorch?style=flat-square&color=yellow)](https://github.com/cornellius-gp/gpytorch/stargazers) [![Forks](https://img.shields.io/github/forks/cornellius-gp/gpytorch?style=flat-square&color=blue)](https://github.com/cornellius-gp/gpytorch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cornellius-gp/gpytorch?style=flat-square&color=yellow)](https://github.com/cornellius-gp/gpytorch/stargazers) [![Forks](https://img.shields.io/github/forks/cornellius-gp/gpytorch?style=flat-square&color=blue)](https://github.com/cornellius-gp/gpytorch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A highly efficient implementation of Gaussian Processes in PyTorch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 597 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Gpytorch 的生产可用性很高，社区活跃度和采用率都很强。它�
 | forks | 69/100 |
 | stars | 76/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

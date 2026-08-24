@@ -1,6 +1,6 @@
 # zeriontech/zerion-ai
 
-[![Stars](https://img.shields.io/github/stars/zeriontech/zerion-ai?style=flat-square&color=yellow)](https://github.com/zeriontech/zerion-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zeriontech/zerion-ai?style=flat-square&color=blue)](https://github.com/zeriontech/zerion-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeriontech/zerion-ai?style=flat-square&color=yellow)](https://github.com/zeriontech/zerion-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zeriontech/zerion-ai?style=flat-square&color=blue)](https://github.com/zeriontech/zerion-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Zerion for AI agents and developers: hosted MCP docs, wallet-analysis skill, and a JSON-first CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · MCP · AI/ML · DevTools
+Crypto · MCP
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ zeriontech/zerion-ai 的生产可用性为中等（Medium）。它适用于开�
 | forks | 46/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

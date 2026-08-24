@@ -1,6 +1,6 @@
 # nahuelvivas/Polymarket-Arbitrage-Trading-Bot
 
-[![Stars](https://img.shields.io/github/stars/nahuelvivas/Polymarket-Arbitrage-Trading-Bot?style=flat-square&color=yellow)](https://github.com/nahuelvivas/Polymarket-Arbitrage-Trading-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/nahuelvivas/Polymarket-Arbitrage-Trading-Bot?style=flat-square&color=blue)](https://github.com/nahuelvivas/Polymarket-Arbitrage-Trading-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nahuelvivas/Polymarket-Arbitrage-Trading-Bot?style=flat-square&color=yellow)](https://github.com/nahuelvivas/Polymarket-Arbitrage-Trading-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/nahuelvivas/Polymarket-Arbitrage-Trading-Bot?style=flat-square&color=blue)](https://github.com/nahuelvivas/Polymarket-Arbitrage-Trading-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket Arbitrage Bot | Polymarket
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ nahuelvivas/Polymarket-Arbitrage-Trading-Bot 是一个开源项目，用于在 P
 | forks | 79/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

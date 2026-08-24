@@ -1,6 +1,6 @@
 # tomehq/tome
 
-[![Stars](https://img.shields.io/github/stars/tomehq/tome?style=flat-square&color=yellow)](https://github.com/tomehq/tome/stargazers) [![Forks](https://img.shields.io/github/forks/tomehq/tome?style=flat-square&color=blue)](https://github.com/tomehq/tome/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomehq/tome?style=flat-square&color=yellow)](https://github.com/tomehq/tome/stargazers) [![Forks](https://img.shields.io/github/forks/tomehq/tome?style=flat-square&color=blue)](https://github.com/tomehq/tome/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful documentation that doesn't cost a fortune. Open-source with all of your favorite features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Tome 的生产可用性较高，尽管它是开源项目，但最近有活动，
 | forks | 34/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

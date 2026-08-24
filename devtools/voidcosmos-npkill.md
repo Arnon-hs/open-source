@@ -1,6 +1,6 @@
 # voidcosmos/npkill
 
-[![Stars](https://img.shields.io/github/stars/voidcosmos/npkill?style=flat-square&color=yellow)](https://github.com/voidcosmos/npkill/stargazers) [![Forks](https://img.shields.io/github/forks/voidcosmos/npkill?style=flat-square&color=blue)](https://github.com/voidcosmos/npkill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voidcosmos/npkill?style=flat-square&color=yellow)](https://github.com/voidcosmos/npkill/stargazers) [![Forks](https://img.shields.io/github/forks/voidcosmos/npkill?style=flat-square&color=blue)](https://github.com/voidcosmos/npkill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ voidcosmos/npkill 已经获得了 9401 个 GitHubstar 和 252 个 fork，最近�
 | forks | 60/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

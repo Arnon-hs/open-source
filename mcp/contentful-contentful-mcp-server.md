@@ -1,6 +1,6 @@
 # contentful/contentful-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/contentful/contentful-mcp-server?style=flat-square&color=yellow)](https://github.com/contentful/contentful-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/contentful/contentful-mcp-server?style=flat-square&color=blue)](https://github.com/contentful/contentful-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/contentful/contentful-mcp-server?style=flat-square&color=yellow)](https://github.com/contentful/contentful-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/contentful/contentful-mcp-server?style=flat-square&color=blue)](https://github.com/contentful/contentful-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP (Model Context Protocol) server for the Contentful Management API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Contentful MCP Server 在生产环境中的可用性为中等。它适合用于�
 | forks | 37/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

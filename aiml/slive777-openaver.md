@@ -1,6 +1,6 @@
 # slive777/OpenAver
 
-[![Stars](https://img.shields.io/github/stars/slive777/OpenAver?style=flat-square&color=yellow)](https://github.com/slive777/OpenAver/stargazers) [![Forks](https://img.shields.io/github/forks/slive777/OpenAver?style=flat-square&color=blue)](https://github.com/slive777/OpenAver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slive777/OpenAver?style=flat-square&color=yellow)](https://github.com/slive777/OpenAver/stargazers) [![Forks](https://img.shields.io/github/forks/slive777/OpenAver?style=flat-square&color=blue)](https://github.com/slive777/OpenAver/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Free open-source desktop app that scrapes JAV metadata and generates NFO + cover art for Jellyfin, Emby & Kodi. No Docker, no CLI — one-click install on Windows & macOS. 8 built-in sources + optional Metatube federation (30+ providers), actress collections, cross-language tag aliases, and a REST API for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Data
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ slive777/OpenAver 的生产可用性较高，主要原因是：
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

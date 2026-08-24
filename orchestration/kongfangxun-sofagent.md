@@ -1,6 +1,6 @@
 # KongFangXun/sofagent
 
-[![Stars](https://img.shields.io/github/stars/KongFangXun/sofagent?style=flat-square&color=yellow)](https://github.com/KongFangXun/sofagent/stargazers) [![Forks](https://img.shields.io/github/forks/KongFangXun/sofagent?style=flat-square&color=blue)](https://github.com/KongFangXun/sofagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KongFangXun/sofagent?style=flat-square&color=yellow)](https://github.com/KongFangXun/sofagent/stargazers) [![Forks](https://img.shields.io/github/forks/KongFangXun/sofagent?style=flat-square&color=blue)](https://github.com/KongFangXun/sofagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > FDE Agent — 把 AI 装进企业的业务流程，离场后 7×24 自己跑。MIT 开源。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ KongFangXun/sofagent 是一个开源项目，旨在将 AI 技术整合到企业�
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

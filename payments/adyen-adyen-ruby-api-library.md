@@ -1,6 +1,6 @@
 # Adyen/adyen-ruby-api-library
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-ruby-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-ruby-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-ruby-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-ruby-api-library/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-ruby-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-ruby-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-ruby-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-ruby-api-library/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen API Library for Ruby
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-02 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · DevTools
+Payments · Backend
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ Adyen/adyen-ruby-api-library 是 Adyen 官方提供的 Ruby 语言 SDK，封装�
 | forks | 44/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 60/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 63/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

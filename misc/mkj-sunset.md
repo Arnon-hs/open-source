@@ -1,6 +1,6 @@
 # mkj/sunset
 
-[![Stars](https://img.shields.io/github/stars/mkj/sunset?style=flat-square&color=yellow)](https://github.com/mkj/sunset/stargazers) [![Forks](https://img.shields.io/github/forks/mkj/sunset?style=flat-square&color=blue)](https://github.com/mkj/sunset/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkj/sunset?style=flat-square&color=yellow)](https://github.com/mkj/sunset/stargazers) [![Forks](https://img.shields.io/github/forks/mkj/sunset?style=flat-square&color=blue)](https://github.com/mkj/sunset/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > SSH for Rust, no_std and elsewhere
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ In short, *mkj/sunset* can be a powerful component for constrained Rust projects
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

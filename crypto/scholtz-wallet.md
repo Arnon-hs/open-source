@@ -1,6 +1,6 @@
 # scholtz/wallet
 
-[![Stars](https://img.shields.io/github/stars/scholtz/wallet?style=flat-square&color=yellow)](https://github.com/scholtz/wallet/stargazers) [![Forks](https://img.shields.io/github/forks/scholtz/wallet?style=flat-square&color=blue)](https://github.com/scholtz/wallet/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scholtz/wallet?style=flat-square&color=yellow)](https://github.com/scholtz/wallet/stargazers) [![Forks](https://img.shields.io/github/forks/scholtz/wallet?style=flat-square&color=blue)](https://github.com/scholtz/wallet/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open source algorand wallet and algorand web tools - governors tools, payment gateway, ..
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Payments · Frontend
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ scholtz/wallet 的生产可用性为 Medium，因为它主要适用于原型开�
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

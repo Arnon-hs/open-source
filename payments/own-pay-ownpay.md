@@ -1,6 +1,6 @@
 # own-pay/OwnPay
 
-[![Stars](https://img.shields.io/github/stars/own-pay/OwnPay?style=flat-square&color=yellow)](https://github.com/own-pay/OwnPay/stargazers) [![Forks](https://img.shields.io/github/forks/own-pay/OwnPay?style=flat-square&color=blue)](https://github.com/own-pay/OwnPay/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/own-pay/OwnPay?style=flat-square&color=yellow)](https://github.com/own-pay/OwnPay/stargazers) [![Forks](https://img.shields.io/github/forks/own-pay/OwnPay?style=flat-square&color=blue)](https://github.com/own-pay/OwnPay/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, open-source payment gateway automation platform. Manage brands, gateways, and transactions on your own infrastructure.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Automation · Database · DevOps/Infra · Security
+Payments · Automation · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ OwnPay（own‑pay/OwnPay）是一款自托管、开源的支付网关自动化�
 | forks | 12/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

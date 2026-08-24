@@ -1,6 +1,6 @@
 # zostera/django-bootstrap5
 
-[![Stars](https://img.shields.io/github/stars/zostera/django-bootstrap5?style=flat-square&color=yellow)](https://github.com/zostera/django-bootstrap5/stargazers) [![Forks](https://img.shields.io/github/forks/zostera/django-bootstrap5?style=flat-square&color=blue)](https://github.com/zostera/django-bootstrap5/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zostera/django-bootstrap5?style=flat-square&color=yellow)](https://github.com/zostera/django-bootstrap5/stargazers) [![Forks](https://img.shields.io/github/forks/zostera/django-bootstrap5?style=flat-square&color=blue)](https://github.com/zostera/django-bootstrap5/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Bootstrap 5 for Django
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 450 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ zostera/django-bootstrap5 的生产可用性为中等。它适合用于原型或
 | forks | 50/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

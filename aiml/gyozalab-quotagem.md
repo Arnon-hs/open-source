@@ -1,6 +1,6 @@
 # gyozalab/QuotaGem
 
-[![Stars](https://img.shields.io/github/stars/gyozalab/QuotaGem?style=flat-square&color=yellow)](https://github.com/gyozalab/QuotaGem/stargazers) [![Forks](https://img.shields.io/github/forks/gyozalab/QuotaGem?style=flat-square&color=blue)](https://github.com/gyozalab/QuotaGem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gyozalab/QuotaGem?style=flat-square&color=yellow)](https://github.com/gyozalab/QuotaGem/stargazers) [![Forks](https://img.shields.io/github/forks/gyozalab/QuotaGem?style=flat-square&color=blue)](https://github.com/gyozalab/QuotaGem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Windows 桌面小工具：同時監控 Claude 與 Codex 的 API 用量
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ gyozalab/QuotaGem 是一款 Windows 桌面小工具，能够在同一界面实�
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

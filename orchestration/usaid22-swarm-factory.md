@@ -1,6 +1,6 @@
 # Usaid22/swarm-factory
 
-[![Stars](https://img.shields.io/github/stars/Usaid22/swarm-factory?style=flat-square&color=yellow)](https://github.com/Usaid22/swarm-factory/stargazers) [![Forks](https://img.shields.io/github/forks/Usaid22/swarm-factory?style=flat-square&color=blue)](https://github.com/Usaid22/swarm-factory/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Usaid22/swarm-factory?style=flat-square&color=yellow)](https://github.com/Usaid22/swarm-factory/stargazers) [![Forks](https://img.shields.io/github/forks/Usaid22/swarm-factory?style=flat-square&color=blue)](https://github.com/Usaid22/swarm-factory/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Top Autonomous Research Multi-Agent System for 2026 Lab Experiments
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Usaid22/swarm-factory 的生产可用性为中等（Medium）。它适用于原�
 | forks | 0/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # HearthSim/HSTracker
 
-[![Stars](https://img.shields.io/github/stars/HearthSim/HSTracker?style=flat-square&color=yellow)](https://github.com/HearthSim/HSTracker/stargazers) [![Forks](https://img.shields.io/github/forks/HearthSim/HSTracker?style=flat-square&color=blue)](https://github.com/HearthSim/HSTracker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HearthSim/HSTracker?style=flat-square&color=yellow)](https://github.com/HearthSim/HSTracker/stargazers) [![Forks](https://img.shields.io/github/forks/HearthSim/HSTracker?style=flat-square&color=blue)](https://github.com/HearthSim/HSTracker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A deck tracker and deck manager for Hearthstone on macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ HSTracker 是 macOS 上为《炉石传说》玩家打造的卡组追踪与管理
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

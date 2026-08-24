@@ -1,6 +1,6 @@
 # martinus/nanobench
 
-[![Stars](https://img.shields.io/github/stars/martinus/nanobench?style=flat-square&color=yellow)](https://github.com/martinus/nanobench/stargazers) [![Forks](https://img.shields.io/github/forks/martinus/nanobench?style=flat-square&color=blue)](https://github.com/martinus/nanobench/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martinus/nanobench?style=flat-square&color=yellow)](https://github.com/martinus/nanobench/stargazers) [![Forks](https://img.shields.io/github/forks/martinus/nanobench?style=flat-square&color=blue)](https://github.com/martinus/nanobench/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ martinus/nanobench的生产可用性很高，因为它有活跃的社区，更�
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

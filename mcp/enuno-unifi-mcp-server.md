@@ -1,6 +1,6 @@
 # enuno/unifi-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/enuno/unifi-mcp-server?style=flat-square&color=yellow)](https://github.com/enuno/unifi-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/enuno/unifi-mcp-server?style=flat-square&color=blue)](https://github.com/enuno/unifi-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enuno/unifi-mcp-server?style=flat-square&color=yellow)](https://github.com/enuno/unifi-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/enuno/unifi-mcp-server?style=flat-square&color=blue)](https://github.com/enuno/unifi-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that leverages official UniFi API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ enuno/unifi-mcp-server 的生产可用性为中等（Medium）。它适用于原
 | forks | 38/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

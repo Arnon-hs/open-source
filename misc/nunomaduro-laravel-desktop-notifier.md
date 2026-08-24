@@ -1,6 +1,6 @@
 # nunomaduro/laravel-desktop-notifier
 
-[![Stars](https://img.shields.io/github/stars/nunomaduro/laravel-desktop-notifier?style=flat-square&color=yellow)](https://github.com/nunomaduro/laravel-desktop-notifier/stargazers) [![Forks](https://img.shields.io/github/forks/nunomaduro/laravel-desktop-notifier?style=flat-square&color=blue)](https://github.com/nunomaduro/laravel-desktop-notifier/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nunomaduro/laravel-desktop-notifier?style=flat-square&color=yellow)](https://github.com/nunomaduro/laravel-desktop-notifier/stargazers) [![Forks](https://img.shields.io/github/forks/nunomaduro/laravel-desktop-notifier?style=flat-square&color=blue)](https://github.com/nunomaduro/laravel-desktop-notifier/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 💻 Send notifications to your desktop from your Laravel Artisan Commands. An JoliNotif wrapper for Laravel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ nunomaduro/laravel-desktop-notifier 是一个开源项目，允许通过 Laravel
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xuy/noah
 
-[![Stars](https://img.shields.io/github/stars/xuy/noah?style=flat-square&color=yellow)](https://github.com/xuy/noah/stargazers) [![Forks](https://img.shields.io/github/forks/xuy/noah?style=flat-square&color=blue)](https://github.com/xuy/noah/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xuy/noah?style=flat-square&color=yellow)](https://github.com/xuy/noah/stargazers) [![Forks](https://img.shields.io/github/forks/xuy/noah?style=flat-square&color=blue)](https://github.com/xuy/noah/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Noah -- fixing your computer issues
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Noah（xuy/noah）是一款用 Rust 编写的开源工具，旨在帮助用户�
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 66/100 |
+| production | 39/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

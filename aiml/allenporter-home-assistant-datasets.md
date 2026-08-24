@@ -1,6 +1,6 @@
 # allenporter/home-assistant-datasets
 
-[![Stars](https://img.shields.io/github/stars/allenporter/home-assistant-datasets?style=flat-square&color=yellow)](https://github.com/allenporter/home-assistant-datasets/stargazers) [![Forks](https://img.shields.io/github/forks/allenporter/home-assistant-datasets?style=flat-square&color=blue)](https://github.com/allenporter/home-assistant-datasets/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allenporter/home-assistant-datasets?style=flat-square&color=yellow)](https://github.com/allenporter/home-assistant-datasets/stargazers) [![Forks](https://img.shields.io/github/forks/allenporter/home-assistant-datasets?style=flat-square&color=blue)](https://github.com/allenporter/home-assistant-datasets/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > This package is a collection of datasets for evaluating AI Models in the context of Home Assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ With these steps, teams can safely leverage the datasets for rapid AI feature de
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 25/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

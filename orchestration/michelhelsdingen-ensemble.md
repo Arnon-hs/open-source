@@ -1,6 +1,6 @@
 # michelhelsdingen/ensemble
 
-[![Stars](https://img.shields.io/github/stars/michelhelsdingen/ensemble?style=flat-square&color=yellow)](https://github.com/michelhelsdingen/ensemble/stargazers) [![Forks](https://img.shields.io/github/forks/michelhelsdingen/ensemble?style=flat-square&color=blue)](https://github.com/michelhelsdingen/ensemble/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/michelhelsdingen/ensemble?style=flat-square&color=yellow)](https://github.com/michelhelsdingen/ensemble/stargazers) [![Forks](https://img.shields.io/github/forks/michelhelsdingen/ensemble?style=flat-square&color=blue)](https://github.com/michelhelsdingen/ensemble/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent collaboration engine — AI agents that work as one
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ michelhelsdingen/ensemble 的生产可用性为中等。它适合用于内部工
 | forks | 37/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

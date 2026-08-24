@@ -1,6 +1,6 @@
 # XiaomiMiMo/MiMo-Code
 
-[![Stars](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Code?style=flat-square&color=yellow)](https://github.com/XiaomiMiMo/MiMo-Code/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomiMiMo/MiMo-Code?style=flat-square&color=blue)](https://github.com/XiaomiMiMo/MiMo-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Code?style=flat-square&color=yellow)](https://github.com/XiaomiMiMo/MiMo-Code/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomiMiMo/MiMo-Code?style=flat-square&color=blue)](https://github.com/XiaomiMiMo/MiMo-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MiMo Code: Where Models and Agents Co-Evolve
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 969 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ MiMo Code（XiaomiMiMo/MiMo‑Code）是一个开源框架，旨在让模型�
 | forks | 75/100 |
 | stars | 85/100 |
 | topics | 63/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

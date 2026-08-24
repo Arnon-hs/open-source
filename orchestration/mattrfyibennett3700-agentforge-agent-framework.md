@@ -1,6 +1,6 @@
 # mattrfyibennett3700/agentforge-agent-framework
 
-[![Stars](https://img.shields.io/github/stars/mattrfyibennett3700/agentforge-agent-framework?style=flat-square&color=yellow)](https://github.com/mattrfyibennett3700/agentforge-agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/mattrfyibennett3700/agentforge-agent-framework?style=flat-square&color=blue)](https://github.com/mattrfyibennett3700/agentforge-agent-framework/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattrfyibennett3700/agentforge-agent-framework?style=flat-square&color=yellow)](https://github.com/mattrfyibennett3700/agentforge-agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/mattrfyibennett3700/agentforge-agent-framework?style=flat-square&color=blue)](https://github.com/mattrfyibennett3700/agentforge-agent-framework/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AgentForge v2.4.1 is an AI agent orchestration framework for coordinating autonomous agents across Web and Python software delivery, from planning and implementation through testing, review, and release.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ AgentForge 在生产环境中的可用性为 Medium，适合用于原型或内�
 | forks | 0/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 42/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 66/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

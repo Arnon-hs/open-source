@@ -1,6 +1,6 @@
 # alex-durango/pingfusi
 
-[![Stars](https://img.shields.io/github/stars/alex-durango/pingfusi?style=flat-square&color=yellow)](https://github.com/alex-durango/pingfusi/stargazers) [![Forks](https://img.shields.io/github/forks/alex-durango/pingfusi?style=flat-square&color=blue)](https://github.com/alex-durango/pingfusi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alex-durango/pingfusi?style=flat-square&color=yellow)](https://github.com/alex-durango/pingfusi/stargazers) [![Forks](https://img.shields.io/github/forks/alex-durango/pingfusi?style=flat-square&color=blue)](https://github.com/alex-durango/pingfusi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server + CLI that puts a real human in your coding agent's loop. It publishes work mid-task, a reviewer pins what's wrong and returns a verdict, and the agent iterates until approved.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ alex-durango/pingfusi 的生产可用性较高，因为它有以下特点：
 | forks | 26/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

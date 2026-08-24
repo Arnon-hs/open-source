@@ -1,6 +1,6 @@
 # tony19/logback-android
 
-[![Stars](https://img.shields.io/github/stars/tony19/logback-android?style=flat-square&color=yellow)](https://github.com/tony19/logback-android/stargazers) [![Forks](https://img.shields.io/github/forks/tony19/logback-android?style=flat-square&color=blue)](https://github.com/tony19/logback-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tony19/logback-android?style=flat-square&color=yellow)](https://github.com/tony19/logback-android/stargazers) [![Forks](https://img.shields.io/github/forks/tony19/logback-android?style=flat-square&color=blue)](https://github.com/tony19/logback-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 📄The reliable, generic, fast and flexible logging framework for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Tony19/logback-android 的生产可用性为中等（Medium）。它适合用于
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

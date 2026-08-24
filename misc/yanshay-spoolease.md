@@ -1,6 +1,6 @@
 # yanshay/SpoolEase
 
-[![Stars](https://img.shields.io/github/stars/yanshay/SpoolEase?style=flat-square&color=yellow)](https://github.com/yanshay/SpoolEase/stargazers) [![Forks](https://img.shields.io/github/forks/yanshay/SpoolEase?style=flat-square&color=blue)](https://github.com/yanshay/SpoolEase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yanshay/SpoolEase?style=flat-square&color=yellow)](https://github.com/yanshay/SpoolEase/stargazers) [![Forks](https://img.shields.io/github/forks/yanshay/SpoolEase?style=flat-square&color=blue)](https://github.com/yanshay/SpoolEase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 3d printing filament manager that brings weight and location tracking, slots configuration, slicer integration, NFC and more to your 3D printer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ yanshay/SpoolEase 的生产可用性为中等。它适合于用于原型或内�
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

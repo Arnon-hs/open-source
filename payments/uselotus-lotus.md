@@ -1,6 +1,6 @@
 # uselotus/lotus
 
-[![Stars](https://img.shields.io/github/stars/uselotus/lotus?style=flat-square&color=yellow)](https://github.com/uselotus/lotus/stargazers) [![Forks](https://img.shields.io/github/forks/uselotus/lotus?style=flat-square&color=blue)](https://github.com/uselotus/lotus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uselotus/lotus?style=flat-square&color=yellow)](https://github.com/uselotus/lotus/stargazers) [![Forks](https://img.shields.io/github/forks/uselotus/lotus?style=flat-square&color=blue)](https://github.com/uselotus/lotus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Pricing & Packaging Infrastructure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · Data · DevOps/Infra · Product
+Payments · Backend · Data · Product
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ uselotus/lotus 的生产可用性很高，最近有活跃的活动，采用率�
 | forks | 53/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 85/100 |
+| production | 78/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

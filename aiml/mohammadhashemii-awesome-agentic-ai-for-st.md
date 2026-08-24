@@ -1,6 +1,6 @@
 # mohammadhashemii/awesome-agentic-AI-for-ST
 
-[![Stars](https://img.shields.io/github/stars/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=yellow)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/stargazers) [![Forks](https://img.shields.io/github/forks/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=blue)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=yellow)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/stargazers) [![Forks](https://img.shields.io/github/forks/mohammadhashemii/awesome-agentic-AI-for-ST?style=flat-square&color=blue)](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Papers about agentic AI and AI agents for spatio-temporal data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ mohammadhashemii/awesome-agentic-AI-for-ST 是一个开源项目，聚集了关�
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

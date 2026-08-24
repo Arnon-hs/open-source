@@ -1,6 +1,6 @@
 # statelyai/agent
 
-[![Stars](https://img.shields.io/github/stars/statelyai/agent?style=flat-square&color=yellow)](https://github.com/statelyai/agent/stargazers) [![Forks](https://img.shields.io/github/forks/statelyai/agent?style=flat-square&color=blue)](https://github.com/statelyai/agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/statelyai/agent?style=flat-square&color=yellow)](https://github.com/statelyai/agent/stargazers) [![Forks](https://img.shields.io/github/forks/statelyai/agent?style=flat-square&color=blue)](https://github.com/statelyai/agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Create state-machine-powered LLM agents using XState
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ statelyai/agent 通过把大型语言模型（LLM）封装进 XState 状态机�
 | forks | 33/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ShuxinYang111/oysterworkflow
 
-[![Stars](https://img.shields.io/github/stars/ShuxinYang111/oysterworkflow?style=flat-square&color=yellow)](https://github.com/ShuxinYang111/oysterworkflow/stargazers) [![Forks](https://img.shields.io/github/forks/ShuxinYang111/oysterworkflow?style=flat-square&color=blue)](https://github.com/ShuxinYang111/oysterworkflow/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShuxinYang111/oysterworkflow?style=flat-square&color=yellow)](https://github.com/ShuxinYang111/oysterworkflow/stargazers) [![Forks](https://img.shields.io/github/forks/ShuxinYang111/oysterworkflow?style=flat-square&color=blue)](https://github.com/ShuxinYang111/oysterworkflow/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The work experience layer for autonomous agents. Open-source core: https://github.com/ShuxinYang111/oysterworkflow-core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Product
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ ShuxinYang111/oysterworkflow 的生产可用性为中等。它适合用于原型
 | forks | 26/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # abdolence/slack-morphism-rust
 
-[![Stars](https://img.shields.io/github/stars/abdolence/slack-morphism-rust?style=flat-square&color=yellow)](https://github.com/abdolence/slack-morphism-rust/stargazers) [![Forks](https://img.shields.io/github/forks/abdolence/slack-morphism-rust?style=flat-square&color=blue)](https://github.com/abdolence/slack-morphism-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abdolence/slack-morphism-rust?style=flat-square&color=yellow)](https://github.com/abdolence/slack-morphism-rust/stargazers) [![Forks](https://img.shields.io/github/forks/abdolence/slack-morphism-rust?style=flat-square&color=blue)](https://github.com/abdolence/slack-morphism-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A modern async client library for Rust, supports Slack Web / Events API/Socket Mode and Block Kit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ abdolence/slack-morphism-rust 帮助团队重用服务基础设施，减少重�
 | forks | 48/100 |
 | stars | 50/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

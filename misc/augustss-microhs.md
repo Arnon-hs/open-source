@@ -1,6 +1,6 @@
 # augustss/MicroHs
 
-[![Stars](https://img.shields.io/github/stars/augustss/MicroHs?style=flat-square&color=yellow)](https://github.com/augustss/MicroHs/stargazers) [![Forks](https://img.shields.io/github/forks/augustss/MicroHs?style=flat-square&color=blue)](https://github.com/augustss/MicroHs/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/augustss/MicroHs?style=flat-square&color=yellow)](https://github.com/augustss/MicroHs/stargazers) [![Forks](https://img.shields.io/github/forks/augustss/MicroHs?style=flat-square&color=blue)](https://github.com/augustss/MicroHs/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Haskell implemented with combinators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 716 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ MicroHs — это небольшая Haskell‑реализация на ос
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

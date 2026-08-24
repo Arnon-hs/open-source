@@ -1,6 +1,6 @@
 # LearnPrompt/cc-harness-skills
 
-[![Stars](https://img.shields.io/github/stars/LearnPrompt/cc-harness-skills?style=flat-square&color=yellow)](https://github.com/LearnPrompt/cc-harness-skills/stargazers) [![Forks](https://img.shields.io/github/forks/LearnPrompt/cc-harness-skills?style=flat-square&color=blue)](https://github.com/LearnPrompt/cc-harness-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LearnPrompt/cc-harness-skills?style=flat-square&color=yellow)](https://github.com/LearnPrompt/cc-harness-skills/stargazers) [![Forks](https://img.shields.io/github/forks/LearnPrompt/cc-harness-skills?style=flat-square&color=blue)](https://github.com/LearnPrompt/cc-harness-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 222 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Education
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ LearnPrompt/cc-harness-skills 的生产可用性非常高。该项目最近活�
 | forks | 45/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sgroy10/speclock
 
-[![Stars](https://img.shields.io/github/stars/sgroy10/speclock?style=flat-square&color=yellow)](https://github.com/sgroy10/speclock/stargazers) [![Forks](https://img.shields.io/github/forks/sgroy10/speclock?style=flat-square&color=blue)](https://github.com/sgroy10/speclock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgroy10/speclock?style=flat-square&color=yellow)](https://github.com/sgroy10/speclock/stargazers) [![Forks](https://img.shields.io/github/forks/sgroy10/speclock?style=flat-square&color=blue)](https://github.com/sgroy10/speclock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI Constraint Engine — enforces CLAUDE.md, .cursorrules, AGENTS.md rules as laws. 51 MCP tools, 991 tests. Official MCP Registry. npx speclock protect
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ sgroy10/speclock 在生产环境中的可用性为中等。它适合用于原型
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

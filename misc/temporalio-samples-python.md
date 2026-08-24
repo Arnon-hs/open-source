@@ -1,6 +1,6 @@
 # temporalio/samples-python
 
-[![Stars](https://img.shields.io/github/stars/temporalio/samples-python?style=flat-square&color=yellow)](https://github.com/temporalio/samples-python/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/samples-python?style=flat-square&color=blue)](https://github.com/temporalio/samples-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/temporalio/samples-python?style=flat-square&color=yellow)](https://github.com/temporalio/samples-python/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/samples-python?style=flat-square&color=blue)](https://github.com/temporalio/samples-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Samples for working with the Temporal Python SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 361 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ temporalio/samples-python 的生产可用性为中等。它可以用于内部工
 | forks | 52/100 |
 | stars | 54/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

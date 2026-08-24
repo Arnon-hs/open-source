@@ -1,6 +1,6 @@
 # supabase/supabase
 
-[![Stars](https://img.shields.io/github/stars/supabase/supabase?style=flat-square&color=yellow)](https://github.com/supabase/supabase/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/supabase?style=flat-square&color=blue)](https://github.com/supabase/supabase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/supabase?style=flat-square&color=yellow)](https://github.com/supabase/supabase/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/supabase?style=flat-square&color=blue)](https://github.com/supabase/supabase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104.9k |
 | 🍴 **Forks** | 12.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Data · Database
+Knowledge/RAG · AI/ML · Database · Security · Education
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Supabase 是基于 PostgreSQL 的全栈开发平台，为 Web、移动和 AI 应
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # raviqqe/hamt
 
-[![Stars](https://img.shields.io/github/stars/raviqqe/hamt?style=flat-square&color=yellow)](https://github.com/raviqqe/hamt/stargazers) [![Forks](https://img.shields.io/github/forks/raviqqe/hamt?style=flat-square&color=blue)](https://github.com/raviqqe/hamt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raviqqe/hamt?style=flat-square&color=yellow)](https://github.com/raviqqe/hamt/stargazers) [![Forks](https://img.shields.io/github/forks/raviqqe/hamt?style=flat-square&color=blue)](https://github.com/raviqqe/hamt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Immutable and Memory-Efficient Maps and Sets in Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 248 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ raviqqe/hamt：raviqqe/hamt may be useful when its README and activity match a c
 | forks | 29/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

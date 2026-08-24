@@ -1,6 +1,6 @@
 # jones2000/HQChart
 
-[![Stars](https://img.shields.io/github/stars/jones2000/HQChart?style=flat-square&color=yellow)](https://github.com/jones2000/HQChart/stargazers) [![Forks](https://img.shields.io/github/forks/jones2000/HQChart?style=flat-square&color=blue)](https://github.com/jones2000/HQChart/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jones2000/HQChart?style=flat-square&color=yellow)](https://github.com/jones2000/HQChart/stargazers) [![Forks](https://img.shields.io/github/forks/jones2000/HQChart?style=flat-square&color=blue)](https://github.com/jones2000/HQChart/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图. 分析家语法,通达信语法,(麦语法),第3方数据替换接口
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 823 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML
+Trading
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ HQChart 是一款基于 H5 与微信小程序的全功能金融行情图表库�
 | forks | 73/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # krisprice/ipnet
 
-[![Stars](https://img.shields.io/github/stars/krisprice/ipnet?style=flat-square&color=yellow)](https://github.com/krisprice/ipnet/stargazers) [![Forks](https://img.shields.io/github/forks/krisprice/ipnet?style=flat-square&color=blue)](https://github.com/krisprice/ipnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krisprice/ipnet?style=flat-square&color=yellow)](https://github.com/krisprice/ipnet/stargazers) [![Forks](https://img.shields.io/github/forks/krisprice/ipnet?style=flat-square&color=blue)](https://github.com/krisprice/ipnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > IpNet, Ipv4Net, and Ipv6Net types and methods for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ krisprice/ipnet 提供了 Rust 中的 IpNet、Ipv4Net 和 Ipv6Net 类型及相�
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

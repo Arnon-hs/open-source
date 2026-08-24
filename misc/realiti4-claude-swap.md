@@ -1,6 +1,6 @@
 # realiti4/claude-swap
 
-[![Stars](https://img.shields.io/github/stars/realiti4/claude-swap?style=flat-square&color=yellow)](https://github.com/realiti4/claude-swap/stargazers) [![Forks](https://img.shields.io/github/forks/realiti4/claude-swap?style=flat-square&color=blue)](https://github.com/realiti4/claude-swap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/realiti4/claude-swap?style=flat-square&color=yellow)](https://github.com/realiti4/claude-swap/stargazers) [![Forks](https://img.shields.io/github/forks/realiti4/claude-swap?style=flat-square&color=blue)](https://github.com/realiti4/claude-swap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Switch between multiple Claude Code accounts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 616 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,14 +127,15 @@ realiti4/claude‑swap 是一个 Python 小工具，可在同一台机器上快�
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

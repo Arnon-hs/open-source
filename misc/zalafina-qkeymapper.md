@@ -1,6 +1,6 @@
 # Zalafina/QKeyMapper
 
-[![Stars](https://img.shields.io/github/stars/Zalafina/QKeyMapper?style=flat-square&color=yellow)](https://github.com/Zalafina/QKeyMapper/stargazers) [![Forks](https://img.shields.io/github/forks/Zalafina/QKeyMapper?style=flat-square&color=blue)](https://github.com/Zalafina/QKeyMapper/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zalafina/QKeyMapper?style=flat-square&color=yellow)](https://github.com/Zalafina/QKeyMapper/stargazers) [![Forks](https://img.shields.io/github/forks/Zalafina/QKeyMapper?style=flat-square&color=blue)](https://github.com/Zalafina/QKeyMapper/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > [按键映射工具] QKeyMapper，Qt开发Win10&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ QKeyMapper的生产可用性为中等（Medium）。它适合用于原型或内�
 | forks | 37/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hhoppe/Mesh-processing-library
 
-[![Stars](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library?style=flat-square&color=yellow)](https://github.com/hhoppe/Mesh-processing-library/stargazers) [![Forks](https://img.shields.io/github/forks/hhoppe/Mesh-processing-library?style=flat-square&color=blue)](https://github.com/hhoppe/Mesh-processing-library/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hhoppe/Mesh-processing-library?style=flat-square&color=yellow)](https://github.com/hhoppe/Mesh-processing-library/stargazers) [![Forks](https://img.shields.io/github/forks/hhoppe/Mesh-processing-library?style=flat-square&color=blue)](https://github.com/hhoppe/Mesh-processing-library/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > C++ libraries and programs demonstrating mesh processing research published in ACM SIGGRAPH (1992-2003)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 972 |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ hhoppe/Mesh-processing-library 是一个开源项目，提供了 C++ 库和程�
 | forks | 54/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

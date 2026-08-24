@@ -1,6 +1,6 @@
 # edrlab/thorium-reader
 
-[![Stars](https://img.shields.io/github/stars/edrlab/thorium-reader?style=flat-square&color=yellow)](https://github.com/edrlab/thorium-reader/stargazers) [![Forks](https://img.shields.io/github/forks/edrlab/thorium-reader?style=flat-square&color=blue)](https://github.com/edrlab/thorium-reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edrlab/thorium-reader?style=flat-square&color=yellow)](https://github.com/edrlab/thorium-reader/stargazers) [![Forks](https://img.shields.io/github/forks/edrlab/thorium-reader?style=flat-square&color=blue)](https://github.com/edrlab/thorium-reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A cross platform desktop reading app, based on the Readium Desktop toolkit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ edrlab/thorium‑reader 是一款基于 Readium Desktop 工具箱的跨平台桌
 | forks | 59/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

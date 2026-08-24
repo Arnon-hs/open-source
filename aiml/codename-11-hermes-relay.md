@@ -1,6 +1,6 @@
 # Codename-11/hermes-relay
 
-[![Stars](https://img.shields.io/github/stars/Codename-11/hermes-relay?style=flat-square&color=yellow)](https://github.com/Codename-11/hermes-relay/stargazers) [![Forks](https://img.shields.io/github/forks/Codename-11/hermes-relay?style=flat-square&color=blue)](https://github.com/Codename-11/hermes-relay/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Codename-11/hermes-relay?style=flat-square&color=yellow)](https://github.com/Codename-11/hermes-relay/stargazers) [![Forks](https://img.shields.io/github/forks/Codename-11/hermes-relay?style=flat-square&color=blue)](https://github.com/Codename-11/hermes-relay/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Hermes Relay — Your Hermes AI agent, in your pocket — chat, voice, and control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Hermes Relay 的生产可用性为中等水平，适合于以下场景：
 | forks | 26/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 65/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

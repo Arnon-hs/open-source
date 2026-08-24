@@ -1,6 +1,6 @@
 # InternLM/WildClawBench
 
-[![Stars](https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&color=yellow)](https://github.com/InternLM/WildClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/InternLM/WildClawBench?style=flat-square&color=blue)](https://github.com/InternLM/WildClawBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InternLM/WildClawBench?style=flat-square&color=yellow)](https://github.com/InternLM/WildClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/InternLM/WildClawBench?style=flat-square&color=blue)](https://github.com/InternLM/WildClawBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An in-the-wild benchmark for AI agents in the OpenClaw Environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ InternLM/WildClawBench 的生产可用性为中等（Medium）。它适合用于
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

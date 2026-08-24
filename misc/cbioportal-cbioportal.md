@@ -1,6 +1,6 @@
 # cBioPortal/cbioportal
 
-[![Stars](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=flat-square&color=yellow)](https://github.com/cBioPortal/cbioportal/stargazers) [![Forks](https://img.shields.io/github/forks/cBioPortal/cbioportal?style=flat-square&color=blue)](https://github.com/cBioPortal/cbioportal/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=flat-square&color=yellow)](https://github.com/cBioPortal/cbioportal/stargazers) [![Forks](https://img.shields.io/github/forks/cBioPortal/cbioportal?style=flat-square&color=blue)](https://github.com/cBioPortal/cbioportal/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > cBioPortal for Cancer Genomics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 861 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ cBioPortal 是癌症基因组学领域的旗舰可视化与分析平台，能够
 | forks | 73/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

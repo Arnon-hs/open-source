@@ -1,6 +1,6 @@
 # godaddy/gasket
 
-[![Stars](https://img.shields.io/github/stars/godaddy/gasket?style=flat-square&color=yellow)](https://github.com/godaddy/gasket/stargazers) [![Forks](https://img.shields.io/github/forks/godaddy/gasket?style=flat-square&color=blue)](https://github.com/godaddy/gasket/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/godaddy/gasket?style=flat-square&color=yellow)](https://github.com/godaddy/gasket/stargazers) [![Forks](https://img.shields.io/github/forks/godaddy/gasket?style=flat-square&color=blue)](https://github.com/godaddy/gasket/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Framework Maker for JavaScript Applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ godaddy/gasket 是一个面向 JavaScript 应用的 **Framework Maker**，通过
 | forks | 48/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # max-ramas/rms-mail-public
 
-[![Stars](https://img.shields.io/github/stars/max-ramas/rms-mail-public?style=flat-square&color=yellow)](https://github.com/max-ramas/rms-mail-public/stargazers) [![Forks](https://img.shields.io/github/forks/max-ramas/rms-mail-public?style=flat-square&color=blue)](https://github.com/max-ramas/rms-mail-public/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/max-ramas/rms-mail-public?style=flat-square&color=yellow)](https://github.com/max-ramas/rms-mail-public/stargazers) [![Forks](https://img.shields.io/github/forks/max-ramas/rms-mail-public?style=flat-square&color=blue)](https://github.com/max-ramas/rms-mail-public/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > RMS Mail — High-performance self-hosted email built for large-scale, multi-account workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ RMS Mail 的生产可用性很高，因为它有活跃的社区，最近的更�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

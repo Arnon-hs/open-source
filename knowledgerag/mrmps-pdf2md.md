@@ -1,6 +1,6 @@
 # mrmps/pdf2md
 
-[![Stars](https://img.shields.io/github/stars/mrmps/pdf2md?style=flat-square&color=yellow)](https://github.com/mrmps/pdf2md/stargazers) [![Forks](https://img.shields.io/github/forks/mrmps/pdf2md?style=flat-square&color=blue)](https://github.com/mrmps/pdf2md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrmps/pdf2md?style=flat-square&color=yellow)](https://github.com/mrmps/pdf2md/stargazers) [![Forks](https://img.shields.io/github/forks/mrmps/pdf2md?style=flat-square&color=blue)](https://github.com/mrmps/pdf2md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Browser based tool to convert PDFs to Markdown
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ mrmps/pdf2md：mrmps/pdf2md helps make internal knowledge searchable and usable 
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

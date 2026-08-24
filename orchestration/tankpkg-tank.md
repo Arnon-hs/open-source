@@ -1,6 +1,6 @@
 # tankpkg/tank
 
-[![Stars](https://img.shields.io/github/stars/tankpkg/tank?style=flat-square&color=yellow)](https://github.com/tankpkg/tank/stargazers) [![Forks](https://img.shields.io/github/forks/tankpkg/tank?style=flat-square&color=blue)](https://github.com/tankpkg/tank/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tankpkg/tank?style=flat-square&color=yellow)](https://github.com/tankpkg/tank/stargazers) [![Forks](https://img.shields.io/github/forks/tankpkg/tank?style=flat-square&color=blue)](https://github.com/tankpkg/tank/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Security-first package manager for AI agent skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ tankpkg/tank 的生产可用性为中等。它适合用于原型开发或内部�
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xyaz1313/phoenix
 
-[![Stars](https://img.shields.io/github/stars/xyaz1313/phoenix?style=flat-square&color=yellow)](https://github.com/xyaz1313/phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/xyaz1313/phoenix?style=flat-square&color=blue)](https://github.com/xyaz1313/phoenix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xyaz1313/phoenix?style=flat-square&color=yellow)](https://github.com/xyaz1313/phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/xyaz1313/phoenix?style=flat-square&color=blue)](https://github.com/xyaz1313/phoenix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 不死鸟 Phoenix — Hermes Agent 插件：路由分档/风险防线/记忆/自愈，官方钩子接入，不改 Hermes 核心代码
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ To adopt xyaz1313/phoenix, users can start by:
 | forks | 24/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

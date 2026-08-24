@@ -1,6 +1,6 @@
 # punkpeye/fastmcp
 
-[![Stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=flat-square&color=yellow)](https://github.com/punkpeye/fastmcp/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/fastmcp?style=flat-square&color=blue)](https://github.com/punkpeye/fastmcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=flat-square&color=yellow)](https://github.com/punkpeye/fastmcp/stargazers) [![Forks](https://img.shields.io/github/forks/punkpeye/fastmcp?style=flat-square&color=blue)](https://github.com/punkpeye/fastmcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A TypeScript framework for building MCP servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 291 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend
+MCP
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ punkpeye/fastmcp 的生产可用性非常高，主要原因是：
 | forks | 62/100 |
 | stars | 75/100 |
 | topics | 25/100 |
-| outlook | 80/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

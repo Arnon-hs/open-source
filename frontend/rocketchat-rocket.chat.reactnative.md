@@ -1,6 +1,6 @@
 # RocketChat/Rocket.Chat.ReactNative
 
-[![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.ReactNative?style=flat-square&color=yellow)](https://github.com/RocketChat/Rocket.Chat.ReactNative/stargazers) [![Forks](https://img.shields.io/github/forks/RocketChat/Rocket.Chat.ReactNative?style=flat-square&color=blue)](https://github.com/RocketChat/Rocket.Chat.ReactNative/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.ReactNative?style=flat-square&color=yellow)](https://github.com/RocketChat/Rocket.Chat.ReactNative/stargazers) [![Forks](https://img.shields.io/github/forks/RocketChat/Rocket.Chat.ReactNative?style=flat-square&color=blue)](https://github.com/RocketChat/Rocket.Chat.ReactNative/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Secure CommsOS™ for mission-critical operations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ RocketChat/Rocket.Chat.ReactNative 是一款面向关键任务的安全通信操
 | forks | 79/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

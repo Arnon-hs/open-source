@@ -1,6 +1,6 @@
 # ssamba1/untell
 
-[![Stars](https://img.shields.io/github/stars/ssamba1/untell?style=flat-square&color=yellow)](https://github.com/ssamba1/untell/stargazers) [![Forks](https://img.shields.io/github/forks/ssamba1/untell?style=flat-square&color=blue)](https://github.com/ssamba1/untell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ssamba1/untell?style=flat-square&color=yellow)](https://github.com/ssamba1/untell/stargazers) [![Forks](https://img.shields.io/github/forks/ssamba1/untell?style=flat-square&color=blue)](https://github.com/ssamba1/untell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > untell — free, open-source AI humanizer that closes the loop: iteratively rewrites AI text against live detector scores (GPTZero, ZeroGPT, Originality.ai, Turnitin) while preserving meaning, citations & facts. Claude Code skill + CLI. Live-proven 100%→0% on ZeroGPT. MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ untell 的生产可用性为中等。它适合用于原型开发或内部工作�
 | forks | 12/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # chipsalliance/Cores-VeeR-EL2
 
-[![Stars](https://img.shields.io/github/stars/chipsalliance/Cores-VeeR-EL2?style=flat-square&color=yellow)](https://github.com/chipsalliance/Cores-VeeR-EL2/stargazers) [![Forks](https://img.shields.io/github/forks/chipsalliance/Cores-VeeR-EL2?style=flat-square&color=blue)](https://github.com/chipsalliance/Cores-VeeR-EL2/network) [![Language](https://img.shields.io/badge/lang-SystemVerilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chipsalliance/Cores-VeeR-EL2?style=flat-square&color=yellow)](https://github.com/chipsalliance/Cores-VeeR-EL2/stargazers) [![Forks](https://img.shields.io/github/forks/chipsalliance/Cores-VeeR-EL2?style=flat-square&color=blue)](https://github.com/chipsalliance/Cores-VeeR-EL2/network) [![Language](https://img.shields.io/badge/lang-SystemVerilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > VeeR EL2 Core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | SystemVerilog |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ chipsalliance/Cores-VeeR-EL2 是一个开源项目，提供了 VeeR EL2 核心�
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

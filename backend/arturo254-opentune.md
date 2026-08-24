@@ -1,6 +1,6 @@
 # Arturo254/OpenTune
 
-[![Stars](https://img.shields.io/github/stars/Arturo254/OpenTune?style=flat-square&color=yellow)](https://github.com/Arturo254/OpenTune/stargazers) [![Forks](https://img.shields.io/github/forks/Arturo254/OpenTune?style=flat-square&color=blue)](https://github.com/Arturo254/OpenTune/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arturo254/OpenTune?style=flat-square&color=yellow)](https://github.com/Arturo254/OpenTune/stargazers) [![Forks](https://img.shields.io/github/forks/Arturo254/OpenTune?style=flat-square&color=blue)](https://github.com/Arturo254/OpenTune/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Un cliente de YouTube Music con Material Design 3, para Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Mobile · Design
+Backend · Mobile · Design
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Arturo254/OpenTune 帮助团队重用服务基础设施，而不是重建常见�
 | forks | 54/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # apache/casbin-Casbin.NET
 
-[![Stars](https://img.shields.io/github/stars/apache/casbin-Casbin.NET?style=flat-square&color=yellow)](https://github.com/apache/casbin-Casbin.NET/stargazers) [![Forks](https://img.shields.io/github/forks/apache/casbin-Casbin.NET?style=flat-square&color=blue)](https://github.com/apache/casbin-Casbin.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/casbin-Casbin.NET?style=flat-square&color=yellow)](https://github.com/apache/casbin-Casbin.NET/stargazers) [![Forks](https://img.shields.io/github/forks/apache/casbin-Casbin.NET?style=flat-square&color=blue)](https://github.com/apache/casbin-Casbin.NET/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Apache Casbin-Casbin.NET 在生产环境中具有很高的可用性。最新的�
 | forks | 53/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

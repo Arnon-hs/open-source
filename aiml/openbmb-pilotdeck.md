@@ -1,6 +1,6 @@
 # OpenBMB/PilotDeck
 
-[![Stars](https://img.shields.io/github/stars/OpenBMB/PilotDeck?style=flat-square&color=yellow)](https://github.com/OpenBMB/PilotDeck/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/PilotDeck?style=flat-square&color=blue)](https://github.com/OpenBMB/PilotDeck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenBMB/PilotDeck?style=flat-square&color=yellow)](https://github.com/OpenBMB/PilotDeck/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/PilotDeck?style=flat-square&color=blue)](https://github.com/OpenBMB/PilotDeck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Task-oriented AI Agent productivity platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 375 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Database · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ OpenBMB/PilotDeck 是一个面向任务的 AI Agent 生产力平台，提供即�
 | forks | 64/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Sets88/sets88_telegram_bot
 
-[![Stars](https://img.shields.io/github/stars/Sets88/sets88_telegram_bot?style=flat-square&color=yellow)](https://github.com/Sets88/sets88_telegram_bot/stargazers) [![Forks](https://img.shields.io/github/forks/Sets88/sets88_telegram_bot?style=flat-square&color=blue)](https://github.com/Sets88/sets88_telegram_bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sets88/sets88_telegram_bot?style=flat-square&color=yellow)](https://github.com/Sets88/sets88_telegram_bot/stargazers) [![Forks](https://img.shields.io/github/forks/Sets88/sets88_telegram_bot?style=flat-square&color=blue)](https://github.com/Sets88/sets88_telegram_bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Personal Telegram bot with a wide range of capabilities, it stays in permanent proof of concept stage so don't blame me for quality of code )
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Sets88/sets88_telegram_bot 的主要价值在于帮助用户移除工作流程�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

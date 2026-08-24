@@ -1,6 +1,6 @@
 # sktime/sktime-mcp
 
-[![Stars](https://img.shields.io/github/stars/sktime/sktime-mcp?style=flat-square&color=yellow)](https://github.com/sktime/sktime-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sktime/sktime-mcp?style=flat-square&color=blue)](https://github.com/sktime/sktime-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sktime/sktime-mcp?style=flat-square&color=yellow)](https://github.com/sktime/sktime-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sktime/sktime-mcp?style=flat-square&color=blue)](https://github.com/sktime/sktime-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP (Model Context Protocol) layer that exposes sktime’s native registry and semantics to an LLM
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -139,14 +139,15 @@ MCP · AI/ML · Backend
 | forks | 51/100 |
 | stars | 29/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

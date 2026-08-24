@@ -1,6 +1,6 @@
 # rsuite/rsuite
 
-[![Stars](https://img.shields.io/github/stars/rsuite/rsuite?style=flat-square&color=yellow)](https://github.com/rsuite/rsuite/stargazers) [![Forks](https://img.shields.io/github/forks/rsuite/rsuite?style=flat-square&color=blue)](https://github.com/rsuite/rsuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsuite/rsuite?style=flat-square&color=yellow)](https://github.com/rsuite/rsuite/stargazers) [![Forks](https://img.shields.io/github/forks/rsuite/rsuite?style=flat-square&color=blue)](https://github.com/rsuite/rsuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🧱 A suite of React components .
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.7k |
 | 🍴 **Forks** | 960 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ rsuite/rsuite：rsuite/rsuite helps ship user-facing interfaces with less custom
 | forks | 75/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

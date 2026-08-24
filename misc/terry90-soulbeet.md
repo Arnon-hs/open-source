@@ -1,6 +1,6 @@
 # terry90/soulbeet
 
-[![Stars](https://img.shields.io/github/stars/terry90/soulbeet?style=flat-square&color=yellow)](https://github.com/terry90/soulbeet/stargazers) [![Forks](https://img.shields.io/github/forks/terry90/soulbeet?style=flat-square&color=blue)](https://github.com/terry90/soulbeet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terry90/soulbeet?style=flat-square&color=yellow)](https://github.com/terry90/soulbeet/stargazers) [![Forks](https://img.shields.io/github/forks/terry90/soulbeet?style=flat-square&color=blue)](https://github.com/terry90/soulbeet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Automated music downloader and manager integrating Slskd and Beets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 612 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Terry90/soulbeet 的生产可用性为中等。它适合于测试和内部工作
 | forks | 34/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # FEX-Emu/FEX
 
-[![Stars](https://img.shields.io/github/stars/FEX-Emu/FEX?style=flat-square&color=yellow)](https://github.com/FEX-Emu/FEX/stargazers) [![Forks](https://img.shields.io/github/forks/FEX-Emu/FEX?style=flat-square&color=blue)](https://github.com/FEX-Emu/FEX/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FEX-Emu/FEX?style=flat-square&color=yellow)](https://github.com/FEX-Emu/FEX/stargazers) [![Forks](https://img.shields.io/github/forks/FEX-Emu/FEX?style=flat-square&color=blue)](https://github.com/FEX-Emu/FEX/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 288 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ FEX‑Emu/FEX 是一款面向 Arm64 Linux 的高速用户态 x86/x86‑64 仿真
 | forks | 62/100 |
 | stars | 83/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # moinulmoin/voicetypr
 
-[![Stars](https://img.shields.io/github/stars/moinulmoin/voicetypr?style=flat-square&color=yellow)](https://github.com/moinulmoin/voicetypr/stargazers) [![Forks](https://img.shields.io/github/forks/moinulmoin/voicetypr?style=flat-square&color=blue)](https://github.com/moinulmoin/voicetypr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moinulmoin/voicetypr?style=flat-square&color=yellow)](https://github.com/moinulmoin/voicetypr/stargazers) [![Forks](https://img.shields.io/github/forks/moinulmoin/voicetypr?style=flat-square&color=blue)](https://github.com/moinulmoin/voicetypr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Voicetypr - AI powered offline voice to text dictation tool for busy founders, vibe coders, AI power users on macos, windows. Alternative to wispr flow and superwhisper.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Voicetypr 是一款基于离线 AI 的语音转文字工具，专为 macOS 与 W
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # npm/documentation
 
-[![Stars](https://img.shields.io/github/stars/npm/documentation?style=flat-square&color=yellow)](https://github.com/npm/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/npm/documentation?style=flat-square&color=blue)](https://github.com/npm/documentation/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/npm/documentation?style=flat-square&color=yellow)](https://github.com/npm/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/npm/documentation?style=flat-square&color=blue)](https://github.com/npm/documentation/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for the npm registry, website, and command-line interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ npm/documentation 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 90/100 |
 | stars | 60/100 |
 | topics | 13/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

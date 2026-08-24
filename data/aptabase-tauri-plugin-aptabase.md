@@ -1,6 +1,6 @@
 # aptabase/tauri-plugin-aptabase
 
-[![Stars](https://img.shields.io/github/stars/aptabase/tauri-plugin-aptabase?style=flat-square&color=yellow)](https://github.com/aptabase/tauri-plugin-aptabase/stargazers) [![Forks](https://img.shields.io/github/forks/aptabase/tauri-plugin-aptabase?style=flat-square&color=blue)](https://github.com/aptabase/tauri-plugin-aptabase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aptabase/tauri-plugin-aptabase?style=flat-square&color=yellow)](https://github.com/aptabase/tauri-plugin-aptabase/stargazers) [![Forks](https://img.shields.io/github/forks/aptabase/tauri-plugin-aptabase?style=flat-square&color=blue)](https://github.com/aptabase/tauri-plugin-aptabase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ aptabase/tauri-plugin-aptabase 是一个隐私优先的开源分析插件，能�
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # P3GLEG/tauri-plugin-mcp
 
-[![Stars](https://img.shields.io/github/stars/P3GLEG/tauri-plugin-mcp?style=flat-square&color=yellow)](https://github.com/P3GLEG/tauri-plugin-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/P3GLEG/tauri-plugin-mcp?style=flat-square&color=blue)](https://github.com/P3GLEG/tauri-plugin-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/P3GLEG/tauri-plugin-mcp?style=flat-square&color=yellow)](https://github.com/P3GLEG/tauri-plugin-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/P3GLEG/tauri-plugin-mcp?style=flat-square&color=blue)](https://github.com/P3GLEG/tauri-plugin-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Allows AI agents (e.g., Cursor, Claude Code) to debug within Tauri apps via screenshot capture, window management, DOM access, and simulated user inputs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ P3GLEG/tauri-plugin-mcp 帮助连接 AI 助手与实时工具和数据，通过�
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

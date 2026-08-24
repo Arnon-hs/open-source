@@ -1,6 +1,6 @@
 # anywhere-labs/deepseek-harness-desktop
 
-[![Stars](https://img.shields.io/github/stars/anywhere-labs/deepseek-harness-desktop?style=flat-square&color=yellow)](https://github.com/anywhere-labs/deepseek-harness-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/anywhere-labs/deepseek-harness-desktop?style=flat-square&color=blue)](https://github.com/anywhere-labs/deepseek-harness-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anywhere-labs/deepseek-harness-desktop?style=flat-square&color=yellow)](https://github.com/anywhere-labs/deepseek-harness-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/anywhere-labs/deepseek-harness-desktop?style=flat-square&color=blue)](https://github.com/anywhere-labs/deepseek-harness-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 300 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ DeepSeek Harness Desktop - современная桌товая решение д
 | forks | 62/100 |
 | stars | 82/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 76/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

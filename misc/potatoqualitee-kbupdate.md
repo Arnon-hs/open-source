@@ -1,6 +1,6 @@
 # potatoqualitee/kbupdate
 
-[![Stars](https://img.shields.io/github/stars/potatoqualitee/kbupdate?style=flat-square&color=yellow)](https://github.com/potatoqualitee/kbupdate/stargazers) [![Forks](https://img.shields.io/github/forks/potatoqualitee/kbupdate?style=flat-square&color=blue)](https://github.com/potatoqualitee/kbupdate/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/potatoqualitee/kbupdate?style=flat-square&color=yellow)](https://github.com/potatoqualitee/kbupdate/stargazers) [![Forks](https://img.shields.io/github/forks/potatoqualitee/kbupdate?style=flat-square&color=blue)](https://github.com/potatoqualitee/kbupdate/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡 KB Viewer, Saver, Installer and Uninstaller
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ potatoqualitee/kbupdate 是一个基于 PowerShell 的 KB 查看、保存、安�
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

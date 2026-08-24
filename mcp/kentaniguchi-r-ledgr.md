@@ -1,6 +1,6 @@
 # KenTaniguchi-R/ledgr
 
-[![Stars](https://img.shields.io/github/stars/KenTaniguchi-R/ledgr?style=flat-square&color=yellow)](https://github.com/KenTaniguchi-R/ledgr/stargazers) [![Forks](https://img.shields.io/github/forks/KenTaniguchi-R/ledgr?style=flat-square&color=blue)](https://github.com/KenTaniguchi-R/ledgr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KenTaniguchi-R/ledgr?style=flat-square&color=yellow)](https://github.com/KenTaniguchi-R/ledgr/stargazers) [![Forks](https://img.shields.io/github/forks/KenTaniguchi-R/ledgr?style=flat-square&color=blue)](https://github.com/KenTaniguchi-R/ledgr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Ledgr 为想让 AI 助手直接操作真实银行数据的团队提供了一个 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 32/100 |
+| quality | 21/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 34/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

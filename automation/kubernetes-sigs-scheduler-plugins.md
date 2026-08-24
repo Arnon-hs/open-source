@@ -1,6 +1,6 @@
 # kubernetes-sigs/scheduler-plugins
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/scheduler-plugins?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/scheduler-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/scheduler-plugins?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/scheduler-plugins/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/scheduler-plugins?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/scheduler-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/scheduler-plugins?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/scheduler-plugins/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for out-of-tree scheduler plugins based on scheduler framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 609 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ kubernetes-sigs/scheduler-plugins 在生产环境中具有较高的可用性。�
 | forks | 70/100 |
 | stars | 66/100 |
 | topics | 13/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SetsunaYukiOvO/x64dbg-mcp
 
-[![Stars](https://img.shields.io/github/stars/SetsunaYukiOvO/x64dbg-mcp?style=flat-square&color=yellow)](https://github.com/SetsunaYukiOvO/x64dbg-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SetsunaYukiOvO/x64dbg-mcp?style=flat-square&color=blue)](https://github.com/SetsunaYukiOvO/x64dbg-mcp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SetsunaYukiOvO/x64dbg-mcp?style=flat-square&color=yellow)](https://github.com/SetsunaYukiOvO/x64dbg-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SetsunaYukiOvO/x64dbg-mcp?style=flat-square&color=blue)](https://github.com/SetsunaYukiOvO/x64dbg-mcp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ SetsunaYukiOvO/x64dbg-mcp 的生产可用性为中等（Medium），适合用于
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Snowboard-Software/awesome-ai-analytics
 
-[![Stars](https://img.shields.io/github/stars/Snowboard-Software/awesome-ai-analytics?style=flat-square&color=yellow)](https://github.com/Snowboard-Software/awesome-ai-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/Snowboard-Software/awesome-ai-analytics?style=flat-square&color=blue)](https://github.com/Snowboard-Software/awesome-ai-analytics/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Snowboard-Software/awesome-ai-analytics?style=flat-square&color=yellow)](https://github.com/Snowboard-Software/awesome-ai-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/Snowboard-Software/awesome-ai-analytics?style=flat-square&color=blue)](https://github.com/Snowboard-Software/awesome-ai-analytics/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A list of AI analytics tools (assistants, chat with data, text-to-sql, benchmarks, etc.)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ Snowboard-Software/awesome-ai-analytics：Snowboard-Software/awesome-ai-analytic
 | forks | 34/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

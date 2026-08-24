@@ -1,6 +1,6 @@
 # albinotonnina/echos
 
-[![Stars](https://img.shields.io/github/stars/albinotonnina/echos?style=flat-square&color=yellow)](https://github.com/albinotonnina/echos/stargazers) [![Forks](https://img.shields.io/github/forks/albinotonnina/echos?style=flat-square&color=blue)](https://github.com/albinotonnina/echos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/albinotonnina/echos?style=flat-square&color=yellow)](https://github.com/albinotonnina/echos/stargazers) [![Forks](https://img.shields.io/github/forks/albinotonnina/echos?style=flat-square&color=blue)](https://github.com/albinotonnina/echos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Your personal AI knowledge system. Self-hosted, agent-driven, and always private.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Echoes 的生产可用性为中等（Medium），适用于以下场景：
 | forks | 23/100 |
 | stars | 38/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

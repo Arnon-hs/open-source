@@ -1,6 +1,6 @@
 # 0xtresser/OpenClaw-Book
 
-[![Stars](https://img.shields.io/github/stars/0xtresser/OpenClaw-Book?style=flat-square&color=yellow)](https://github.com/0xtresser/OpenClaw-Book/stargazers) [![Forks](https://img.shields.io/github/forks/0xtresser/OpenClaw-Book?style=flat-square&color=blue)](https://github.com/0xtresser/OpenClaw-Book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xtresser/OpenClaw-Book?style=flat-square&color=yellow)](https://github.com/0xtresser/OpenClaw-Book/stargazers) [![Forks](https://img.shields.io/github/forks/0xtresser/OpenClaw-Book?style=flat-square&color=blue)](https://github.com/0xtresser/OpenClaw-Book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 《深入 OpenClaw》。全网第一本介绍 OpenClaw 的书，用 OpenClaw + OpenCode + Opus 写成。A book introducing OpenClaw, written by OpenClaw + OpenCode + Opus
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 231 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ To adopt 0xtresser/OpenClaw-Book, developers should first review the book's cont
 | forks | 42/100 |
 | stars | 50/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

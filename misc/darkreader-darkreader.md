@@ -1,6 +1,6 @@
 # darkreader/darkreader
 
-[![Stars](https://img.shields.io/github/stars/darkreader/darkreader?style=flat-square&color=yellow)](https://github.com/darkreader/darkreader/stargazers) [![Forks](https://img.shields.io/github/forks/darkreader/darkreader?style=flat-square&color=blue)](https://github.com/darkreader/darkreader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darkreader/darkreader?style=flat-square&color=yellow)](https://github.com/darkreader/darkreader/stargazers) [![Forks](https://img.shields.io/github/forks/darkreader/darkreader?style=flat-square&color=blue)](https://github.com/darkreader/darkreader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Dark Reader Chrome and Firefox extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.3k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Dark Reader 的生产可用性很高，因为它有活跃的社区支持、良�
 | forks | 86/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 82/100 |
+| production | 76/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

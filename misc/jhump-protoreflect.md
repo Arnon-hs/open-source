@@ -1,6 +1,6 @@
 # jhump/protoreflect
 
-[![Stars](https://img.shields.io/github/stars/jhump/protoreflect?style=flat-square&color=yellow)](https://github.com/jhump/protoreflect/stargazers) [![Forks](https://img.shields.io/github/forks/jhump/protoreflect?style=flat-square&color=blue)](https://github.com/jhump/protoreflect/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhump/protoreflect?style=flat-square&color=yellow)](https://github.com/jhump/protoreflect/stargazers) [![Forks](https://img.shields.io/github/forks/jhump/protoreflect?style=flat-square&color=blue)](https://github.com/jhump/protoreflect/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Reflection (Rich Descriptors) for Go Protocol Buffers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ jhump/protoreflect 的生产可用性很高，因为它具有以下
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # justyns/silverbullet-ai
 
-[![Stars](https://img.shields.io/github/stars/justyns/silverbullet-ai?style=flat-square&color=yellow)](https://github.com/justyns/silverbullet-ai/stargazers) [![Forks](https://img.shields.io/github/forks/justyns/silverbullet-ai?style=flat-square&color=blue)](https://github.com/justyns/silverbullet-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justyns/silverbullet-ai?style=flat-square&color=yellow)](https://github.com/justyns/silverbullet-ai/stargazers) [![Forks](https://img.shields.io/github/forks/justyns/silverbullet-ai?style=flat-square&color=blue)](https://github.com/justyns/silverbullet-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Plug for SilverBullet to integrate LLM functionality
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ SilverBullet AI 在生产环境中的可用性为中等（Medium）。它适合�
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

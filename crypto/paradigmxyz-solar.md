@@ -1,6 +1,6 @@
 # paradigmxyz/solar
 
-[![Stars](https://img.shields.io/github/stars/paradigmxyz/solar?style=flat-square&color=yellow)](https://github.com/paradigmxyz/solar/stargazers) [![Forks](https://img.shields.io/github/forks/paradigmxyz/solar?style=flat-square&color=blue)](https://github.com/paradigmxyz/solar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paradigmxyz/solar?style=flat-square&color=yellow)](https://github.com/paradigmxyz/solar/stargazers) [![Forks](https://img.shields.io/github/forks/paradigmxyz/solar?style=flat-square&color=blue)](https://github.com/paradigmxyz/solar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 550 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Paradigmxyz/solar 的生产可用性为中等（Medium），因为它主要适�
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

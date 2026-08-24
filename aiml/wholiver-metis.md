@@ -1,6 +1,6 @@
 # Wholiver/metis
 
-[![Stars](https://img.shields.io/github/stars/Wholiver/metis?style=flat-square&color=yellow)](https://github.com/Wholiver/metis/stargazers) [![Forks](https://img.shields.io/github/forks/Wholiver/metis?style=flat-square&color=blue)](https://github.com/Wholiver/metis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wholiver/metis?style=flat-square&color=yellow)](https://github.com/Wholiver/metis/stargazers) [![Forks](https://img.shields.io/github/forks/Wholiver/metis?style=flat-square&color=blue)](https://github.com/Wholiver/metis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A coding agent that makes coding easier / 一个很强的 Coding agent， 可提升模型编程性能以及质量
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Wholiver/metis 是一个强大的 Coding Agent，能够显著提升模型的编�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

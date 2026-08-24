@@ -1,6 +1,6 @@
 # ccch1mneyyy/dsh-TUI
 
-[![Stars](https://img.shields.io/github/stars/ccch1mneyyy/dsh-TUI?style=flat-square&color=yellow)](https://github.com/ccch1mneyyy/dsh-TUI/stargazers) [![Forks](https://img.shields.io/github/forks/ccch1mneyyy/dsh-TUI?style=flat-square&color=blue)](https://github.com/ccch1mneyyy/dsh-TUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccch1mneyyy/dsh-TUI?style=flat-square&color=yellow)](https://github.com/ccch1mneyyy/dsh-TUI/stargazers) [![Forks](https://img.shields.io/github/forks/ccch1mneyyy/dsh-TUI?style=flat-square&color=blue)](https://github.com/ccch1mneyyy/dsh-TUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ccch1mneyyy/dsh‑TUI 为 DSH 官方缺失的终端 TUI 提供了全屏交互插
 | forks | 25/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

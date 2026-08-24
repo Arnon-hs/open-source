@@ -1,6 +1,6 @@
 # tang-vu/ContribAI
 
-[![Stars](https://img.shields.io/github/stars/tang-vu/ContribAI?style=flat-square&color=yellow)](https://github.com/tang-vu/ContribAI/stargazers) [![Forks](https://img.shields.io/github/forks/tang-vu/ContribAI?style=flat-square&color=blue)](https://github.com/tang-vu/ContribAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tang-vu/ContribAI?style=flat-square&color=yellow)](https://github.com/tang-vu/ContribAI/stargazers) [![Forks](https://img.shields.io/github/forks/tang-vu/ContribAI?style=flat-square&color=blue)](https://github.com/tang-vu/ContribAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ ContribAI 的生产可用性非常高，主要原因是：
 | forks | 49/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

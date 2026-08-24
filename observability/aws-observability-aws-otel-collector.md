@@ -1,6 +1,6 @@
 # aws-observability/aws-otel-collector
 
-[![Stars](https://img.shields.io/github/stars/aws-observability/aws-otel-collector?style=flat-square&color=yellow)](https://github.com/aws-observability/aws-otel-collector/stargazers) [![Forks](https://img.shields.io/github/forks/aws-observability/aws-otel-collector?style=flat-square&color=blue)](https://github.com/aws-observability/aws-otel-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-observability/aws-otel-collector?style=flat-square&color=yellow)](https://github.com/aws-observability/aws-otel-collector/stargazers) [![Forks](https://img.shields.io/github/forks/aws-observability/aws-otel-collector?style=flat-square&color=blue)](https://github.com/aws-observability/aws-otel-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AWS Distro for OpenTelemetry Collector (see ADOT Roadmap at https://github.com/orgs/aws-observability/projects/4)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 749 |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Observability · Product
+Observability
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ aws-observability/aws-otel-collector 的价值在于它可以帮助开发者更�
 | forks | 61/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

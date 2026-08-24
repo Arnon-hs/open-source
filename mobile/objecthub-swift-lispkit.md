@@ -1,6 +1,6 @@
 # objecthub/swift-lispkit
 
-[![Stars](https://img.shields.io/github/stars/objecthub/swift-lispkit?style=flat-square&color=yellow)](https://github.com/objecthub/swift-lispkit/stargazers) [![Forks](https://img.shields.io/github/forks/objecthub/swift-lispkit?style=flat-square&color=blue)](https://github.com/objecthub/swift-lispkit/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/objecthub/swift-lispkit?style=flat-square&color=yellow)](https://github.com/objecthub/swift-lispkit/stargazers) [![Forks](https://img.shields.io/github/forks/objecthub/swift-lispkit?style=flat-square&color=blue)](https://github.com/objecthub/swift-lispkit/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS standard for Scheme. Its compiler generates bytecode for a virtual machine. LispKit is fully implemented in Swift 5.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Scheme |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ objecthub/swift-lispkit 的生产可用性为中等（Medium）。它可以用�
 | forks | 32/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

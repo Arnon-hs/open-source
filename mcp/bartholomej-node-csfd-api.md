@@ -1,6 +1,6 @@
 # bartholomej/node-csfd-api
 
-[![Stars](https://img.shields.io/github/stars/bartholomej/node-csfd-api?style=flat-square&color=yellow)](https://github.com/bartholomej/node-csfd-api/stargazers) [![Forks](https://img.shields.io/github/forks/bartholomej/node-csfd-api?style=flat-square&color=blue)](https://github.com/bartholomej/node-csfd-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bartholomej/node-csfd-api?style=flat-square&color=yellow)](https://github.com/bartholomej/node-csfd-api/stargazers) [![Forks](https://img.shields.io/github/forks/bartholomej/node-csfd-api?style=flat-square&color=blue)](https://github.com/bartholomej/node-csfd-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ČSFD API in JavaScript. Amazing NPM library for scrapping csfd.cz. Now with MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ bartholomej/node-csfd-api 是一个用于连接人工智能助手和实际工具
 | forks | 29/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

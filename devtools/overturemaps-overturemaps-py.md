@@ -1,6 +1,6 @@
 # OvertureMaps/overturemaps-py
 
-[![Stars](https://img.shields.io/github/stars/OvertureMaps/overturemaps-py?style=flat-square&color=yellow)](https://github.com/OvertureMaps/overturemaps-py/stargazers) [![Forks](https://img.shields.io/github/forks/OvertureMaps/overturemaps-py?style=flat-square&color=blue)](https://github.com/OvertureMaps/overturemaps-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OvertureMaps/overturemaps-py?style=flat-square&color=yellow)](https://github.com/OvertureMaps/overturemaps-py/stargazers) [![Forks](https://img.shields.io/github/forks/OvertureMaps/overturemaps-py?style=flat-square&color=blue)](https://github.com/OvertureMaps/overturemaps-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Overture's Python CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ OvertureMaps/overturemaps-py 是一个开源 Python 命令行工具，旨在帮�
 | forks | 42/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

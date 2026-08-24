@@ -1,6 +1,6 @@
 # kalepail/passkey-kit
 
-[![Stars](https://img.shields.io/github/stars/kalepail/passkey-kit?style=flat-square&color=yellow)](https://github.com/kalepail/passkey-kit/stargazers) [![Forks](https://img.shields.io/github/forks/kalepail/passkey-kit?style=flat-square&color=blue)](https://github.com/kalepail/passkey-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kalepail/passkey-kit?style=flat-square&color=yellow)](https://github.com/kalepail/passkey-kit/stargazers) [![Forks](https://img.shields.io/github/forks/kalepail/passkey-kit?style=flat-square&color=blue)](https://github.com/kalepail/passkey-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript SDK for Stellar passkey smart wallets — WebAuthn/secp256r1, Ed25519 & policy signers, keyless relayer submission
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 467 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Security
+Crypto
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ kalepail/passkey-kit 在生产环境中可用性较高，主要原因是：
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

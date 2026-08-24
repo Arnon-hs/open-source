@@ -1,6 +1,6 @@
 # KeyValueSoftwareSystems/agent-opfor
 
-[![Stars](https://img.shields.io/github/stars/KeyValueSoftwareSystems/agent-opfor?style=flat-square&color=yellow)](https://github.com/KeyValueSoftwareSystems/agent-opfor/stargazers) [![Forks](https://img.shields.io/github/forks/KeyValueSoftwareSystems/agent-opfor?style=flat-square&color=blue)](https://github.com/KeyValueSoftwareSystems/agent-opfor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KeyValueSoftwareSystems/agent-opfor?style=flat-square&color=yellow)](https://github.com/KeyValueSoftwareSystems/agent-opfor/stargazers) [![Forks](https://img.shields.io/github/forks/KeyValueSoftwareSystems/agent-opfor?style=flat-square&color=blue)](https://github.com/KeyValueSoftwareSystems/agent-opfor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source adversary emulation for AI agents and MCP servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ KeyValueSoftwareSystems/agent-opfor 的生产可用性较高，理由如下：
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

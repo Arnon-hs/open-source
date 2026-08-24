@@ -1,6 +1,6 @@
 # pulldown-cmark/pulldown-cmark
 
-[![Stars](https://img.shields.io/github/stars/pulldown-cmark/pulldown-cmark?style=flat-square&color=yellow)](https://github.com/pulldown-cmark/pulldown-cmark/stargazers) [![Forks](https://img.shields.io/github/forks/pulldown-cmark/pulldown-cmark?style=flat-square&color=blue)](https://github.com/pulldown-cmark/pulldown-cmark/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pulldown-cmark/pulldown-cmark?style=flat-square&color=yellow)](https://github.com/pulldown-cmark/pulldown-cmark/stargazers) [![Forks](https://img.shields.io/github/forks/pulldown-cmark/pulldown-cmark?style=flat-square&color=blue)](https://github.com/pulldown-cmark/pulldown-cmark/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 299 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ pulldown-cmark/pulldown-cmark 的生产可用性为中等。它适合于 prototy
 | forks | 62/100 |
 | stars | 73/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

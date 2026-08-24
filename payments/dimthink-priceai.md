@@ -1,6 +1,6 @@
 # dimthink/PriceAI
 
-[![Stars](https://img.shields.io/github/stars/dimthink/PriceAI?style=flat-square&color=yellow)](https://github.com/dimthink/PriceAI/stargazers) [![Forks](https://img.shields.io/github/forks/dimthink/PriceAI?style=flat-square&color=blue)](https://github.com/dimthink/PriceAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimthink/PriceAI?style=flat-square&color=yellow)](https://github.com/dimthink/PriceAI/stargazers) [![Forks](https://img.shields.io/github/forks/dimthink/PriceAI?style=flat-square&color=blue)](https://github.com/dimthink/PriceAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ dimthink/PriceAI 已经具有较高的生产可用性，最新版本于 2026-07-
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

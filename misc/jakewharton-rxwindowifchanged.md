@@ -1,6 +1,6 @@
 # JakeWharton/RxWindowIfChanged
 
-[![Stars](https://img.shields.io/github/stars/JakeWharton/RxWindowIfChanged?style=flat-square&color=yellow)](https://github.com/JakeWharton/RxWindowIfChanged/stargazers) [![Forks](https://img.shields.io/github/forks/JakeWharton/RxWindowIfChanged?style=flat-square&color=blue)](https://github.com/JakeWharton/RxWindowIfChanged/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JakeWharton/RxWindowIfChanged?style=flat-square&color=yellow)](https://github.com/JakeWharton/RxWindowIfChanged/stargazers) [![Forks](https://img.shields.io/github/forks/JakeWharton/RxWindowIfChanged?style=flat-square&color=blue)](https://github.com/JakeWharton/RxWindowIfChanged/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An RxJava 2 operator which splits an observable into windows using a key selector.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ JakeWharton/RxWindowIfChanged：JakeWharton/RxWindowIfChanged may be useful when
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

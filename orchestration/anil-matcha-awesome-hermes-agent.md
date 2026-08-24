@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-hermes-agent
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/awesome-hermes-agent?style=flat-square&color=yellow)](https://github.com/Anil-matcha/awesome-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/awesome-hermes-agent?style=flat-square&color=blue)](https://github.com/Anil-matcha/awesome-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/awesome-hermes-agent?style=flat-square&color=yellow)](https://github.com/Anil-matcha/awesome-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/awesome-hermes-agent?style=flat-square&color=blue)](https://github.com/Anil-matcha/awesome-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Anil-matcha/awesome-hermes-agent 的生产可用性为中等（Medium）。它�
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

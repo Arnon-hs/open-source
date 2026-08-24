@@ -1,6 +1,6 @@
 # evolsb/claude-legal-skill
 
-[![Stars](https://img.shields.io/github/stars/evolsb/claude-legal-skill?style=flat-square&color=yellow)](https://github.com/evolsb/claude-legal-skill/stargazers) [![Forks](https://img.shields.io/github/forks/evolsb/claude-legal-skill?style=flat-square&color=blue)](https://github.com/evolsb/claude-legal-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evolsb/claude-legal-skill?style=flat-square&color=yellow)](https://github.com/evolsb/claude-legal-skill/stargazers) [![Forks](https://img.shields.io/github/forks/evolsb/claude-legal-skill?style=flat-square&color=blue)](https://github.com/evolsb/claude-legal-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered contract review skill with CUAD risk detection, market benchmarks, and lawyer-ready redlines. Works with Claude Code, Codex, Cursor, and 26+ tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ evolsb/claude-legal-skill 的价值在于它可以将孤立的提示和工具转
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

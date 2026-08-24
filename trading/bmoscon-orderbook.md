@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Data
+Trading
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ bmoscon/orderbook：bmoscon/orderbook helps research and automate market workflo
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

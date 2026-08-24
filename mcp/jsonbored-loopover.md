@@ -1,6 +1,6 @@
 # JSONbored/loopover
 
-[![Stars](https://img.shields.io/github/stars/JSONbored/loopover?style=flat-square&color=yellow)](https://github.com/JSONbored/loopover/stargazers) [![Forks](https://img.shields.io/github/forks/JSONbored/loopover?style=flat-square&color=blue)](https://github.com/JSONbored/loopover/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JSONbored/loopover?style=flat-square&color=yellow)](https://github.com/JSONbored/loopover/stargazers) [![Forks](https://img.shields.io/github/forks/JSONbored/loopover?style=flat-square&color=blue)](https://github.com/JSONbored/loopover/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Backend intelligence and MCP tooling for Gittensor contributors and maintainers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ JSONbored/loopover 在生产环境中具有高可用性，理由如下：
 | forks | 47/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

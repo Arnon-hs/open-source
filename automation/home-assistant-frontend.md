@@ -1,6 +1,6 @@
 # home-assistant/frontend
 
-[![Stars](https://img.shields.io/github/stars/home-assistant/frontend?style=flat-square&color=yellow)](https://github.com/home-assistant/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/frontend?style=flat-square&color=blue)](https://github.com/home-assistant/frontend/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-assistant/frontend?style=flat-square&color=yellow)](https://github.com/home-assistant/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/frontend?style=flat-square&color=blue)](https://github.com/home-assistant/frontend/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > :lollipop: Frontend for Home Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Home Assistant 前端具有高的生产可用性，因为它具有：
 | forks | 89/100 |
 | stars | 80/100 |
 | topics | 88/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 85/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 80/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

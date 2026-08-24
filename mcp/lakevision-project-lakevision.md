@@ -1,6 +1,6 @@
 # lakevision-project/lakevision
 
-[![Stars](https://img.shields.io/github/stars/lakevision-project/lakevision?style=flat-square&color=yellow)](https://github.com/lakevision-project/lakevision/stargazers) [![Forks](https://img.shields.io/github/forks/lakevision-project/lakevision?style=flat-square&color=blue)](https://github.com/lakevision-project/lakevision/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lakevision-project/lakevision?style=flat-square&color=yellow)](https://github.com/lakevision-project/lakevision/stargazers) [![Forks](https://img.shields.io/github/forks/lakevision-project/lakevision?style=flat-square&color=blue)](https://github.com/lakevision-project/lakevision/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Lakevision is a tool which provides insights into your Apache Iceberg based Data Lakehouse.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Data · Design
+MCP · Backend · Design
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ lakevision-project/lakevision 的生产可用性很高，特别是考虑到它�
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

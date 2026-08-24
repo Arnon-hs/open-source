@@ -1,6 +1,6 @@
 # dkron-io/dkron
 
-[![Stars](https://img.shields.io/github/stars/dkron-io/dkron?style=flat-square&color=yellow)](https://github.com/dkron-io/dkron/stargazers) [![Forks](https://img.shields.io/github/forks/dkron-io/dkron?style=flat-square&color=blue)](https://github.com/dkron-io/dkron/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dkron-io/dkron?style=flat-square&color=yellow)](https://github.com/dkron-io/dkron/stargazers) [![Forks](https://img.shields.io/github/forks/dkron-io/dkron?style=flat-square&color=blue)](https://github.com/dkron-io/dkron/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 417 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Dkron 在生产环境中有较高的可用性，主要原因包括：
 | forks | 66/100 |
 | stars | 78/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

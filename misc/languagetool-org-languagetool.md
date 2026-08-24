@@ -1,6 +1,6 @@
 # languagetool-org/languagetool
 
-[![Stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=flat-square&color=yellow)](https://github.com/languagetool-org/languagetool/stargazers) [![Forks](https://img.shields.io/github/forks/languagetool-org/languagetool?style=flat-square&color=blue)](https://github.com/languagetool-org/languagetool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=flat-square&color=yellow)](https://github.com/languagetool-org/languagetool/stargazers) [![Forks](https://img.shields.io/github/forks/languagetool-org/languagetool?style=flat-square&color=blue)](https://github.com/languagetool-org/languagetool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Style and Grammar Checker for 25+ Languages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.8k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Misc
 | forks | 80/100 |
 | stars | 89/100 |
 | topics | 75/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 86/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

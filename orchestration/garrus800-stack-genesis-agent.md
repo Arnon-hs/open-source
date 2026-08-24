@@ -1,6 +1,6 @@
 # Garrus800-stack/genesis-agent
 
-[![Stars](https://img.shields.io/github/stars/Garrus800-stack/genesis-agent?style=flat-square&color=yellow)](https://github.com/Garrus800-stack/genesis-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Garrus800-stack/genesis-agent?style=flat-square&color=blue)](https://github.com/Garrus800-stack/genesis-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Garrus800-stack/genesis-agent?style=flat-square&color=yellow)](https://github.com/Garrus800-stack/genesis-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Garrus800-stack/genesis-agent?style=flat-square&color=blue)](https://github.com/Garrus800-stack/genesis-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-aware cognitive AI agent that reads, modifies & verifies its own code. Autonomous planning, episodic memory, emotional state & MCP integration. Runs on Claude, GPT-4 or Ollama. Electron desktop app for Windows, macOS & Linux.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Marketing
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -157,14 +157,15 @@ console.log(agent.getMemory());   // 查看情境记忆
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

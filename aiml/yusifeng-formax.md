@@ -1,6 +1,6 @@
 # yusifeng/formax
 
-[![Stars](https://img.shields.io/github/stars/yusifeng/formax?style=flat-square&color=yellow)](https://github.com/yusifeng/formax/stargazers) [![Forks](https://img.shields.io/github/forks/yusifeng/formax?style=flat-square&color=blue)](https://github.com/yusifeng/formax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yusifeng/formax?style=flat-square&color=yellow)](https://github.com/yusifeng/formax/stargazers) [![Forks](https://img.shields.io/github/forks/yusifeng/formax?style=flat-square&color=blue)](https://github.com/yusifeng/formax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal-first AI assistant for software engineering tasks (inspired by Claude Code v2.0.67)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ yusifeng/formax 的生产可用
 | forks | 23/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

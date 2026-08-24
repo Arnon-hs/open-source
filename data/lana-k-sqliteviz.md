@@ -1,6 +1,6 @@
 # lana-k/sqliteviz
 
-[![Stars](https://img.shields.io/github/stars/lana-k/sqliteviz?style=flat-square&color=yellow)](https://github.com/lana-k/sqliteviz/stargazers) [![Forks](https://img.shields.io/github/forks/lana-k/sqliteviz?style=flat-square&color=blue)](https://github.com/lana-k/sqliteviz/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lana-k/sqliteviz?style=flat-square&color=yellow)](https://github.com/lana-k/sqliteviz/stargazers) [![Forks](https://img.shields.io/github/forks/lana-k/sqliteviz?style=flat-square&color=blue)](https://github.com/lana-k/sqliteviz/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Instant offline SQL-powered data visualisation in your browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ The repository shows strong community health (2 349 stars, 135 forks, recent c
 | forks | 53/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lingui/js-lingui
 
-[![Stars](https://img.shields.io/github/stars/lingui/js-lingui?style=flat-square&color=yellow)](https://github.com/lingui/js-lingui/stargazers) [![Forks](https://img.shields.io/github/forks/lingui/js-lingui?style=flat-square&color=blue)](https://github.com/lingui/js-lingui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lingui/js-lingui?style=flat-square&color=yellow)](https://github.com/lingui/js-lingui/stargazers) [![Forks](https://img.shields.io/github/forks/lingui/js-lingui?style=flat-square&color=blue)](https://github.com/lingui/js-lingui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 445 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ lingui/js‑lingui 是一个体积仅约 2 KB、可读性强、自动化且高
 | forks | 66/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

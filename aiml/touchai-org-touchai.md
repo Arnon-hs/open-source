@@ -1,6 +1,6 @@
 # TouchAI-org/TouchAI
 
-[![Stars](https://img.shields.io/github/stars/TouchAI-org/TouchAI?style=flat-square&color=yellow)](https://github.com/TouchAI-org/TouchAI/stargazers) [![Forks](https://img.shields.io/github/forks/TouchAI-org/TouchAI?style=flat-square&color=blue)](https://github.com/TouchAI-org/TouchAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TouchAI-org/TouchAI?style=flat-square&color=yellow)](https://github.com/TouchAI-org/TouchAI/stargazers) [![Forks](https://img.shields.io/github/forks/TouchAI-org/TouchAI?style=flat-square&color=blue)](https://github.com/TouchAI-org/TouchAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Your desktop AI agent, always ready
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ TouchAI的生产可用性为中等（Medium）。它适用于原型开发或内�
 | forks | 35/100 |
 | stars | 39/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

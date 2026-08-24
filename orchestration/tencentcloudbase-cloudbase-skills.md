@@ -1,6 +1,6 @@
 # TencentCloudBase/cloudbase-skills
 
-[![Stars](https://img.shields.io/github/stars/TencentCloudBase/cloudbase-skills?style=flat-square&color=yellow)](https://github.com/TencentCloudBase/cloudbase-skills/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloudBase/cloudbase-skills?style=flat-square&color=blue)](https://github.com/TencentCloudBase/cloudbase-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloudBase/cloudbase-skills?style=flat-square&color=yellow)](https://github.com/TencentCloudBase/cloudbase-skills/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloudBase/cloudbase-skills?style=flat-square&color=blue)](https://github.com/TencentCloudBase/cloudbase-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of AI agent skills for building full-stack applications with Tencent CloudBase. This skill gives your coding agent deep knowledge of CloudBase APIs, authentication patterns, database operations, cloud functions, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · Data
+Orchestration · AI/ML · Database
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ TencentCloudBase/cloudbase-skills 帮助将孤立的提示和工具转换为可�
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 51/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 41/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 66/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

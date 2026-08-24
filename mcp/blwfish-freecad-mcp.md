@@ -1,6 +1,6 @@
 # blwfish/freecad-mcp
 
-[![Stars](https://img.shields.io/github/stars/blwfish/freecad-mcp?style=flat-square&color=yellow)](https://github.com/blwfish/freecad-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/blwfish/freecad-mcp?style=flat-square&color=blue)](https://github.com/blwfish/freecad-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blwfish/freecad-mcp?style=flat-square&color=yellow)](https://github.com/blwfish/freecad-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/blwfish/freecad-mcp?style=flat-square&color=blue)](https://github.com/blwfish/freecad-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for FreeCAD — 32 tools for AI-assisted 3D CAD modeling
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ blwfish/freecad-mcp：blwfish/freecad-mcp helps connect AI assistants to real to
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

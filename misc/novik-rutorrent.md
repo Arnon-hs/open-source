@@ -1,6 +1,6 @@
 # Novik/ruTorrent
 
-[![Stars](https://img.shields.io/github/stars/Novik/ruTorrent?style=flat-square&color=yellow)](https://github.com/Novik/ruTorrent/stargazers) [![Forks](https://img.shields.io/github/forks/Novik/ruTorrent?style=flat-square&color=blue)](https://github.com/Novik/ruTorrent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Novik/ruTorrent?style=flat-square&color=yellow)](https://github.com/Novik/ruTorrent/stargazers) [![Forks](https://img.shields.io/github/forks/Novik/ruTorrent?style=flat-square&color=blue)](https://github.com/Novik/ruTorrent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another web front-end for rTorrent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Novik/ruTorrent 的生产可用性为中等。它可以用于内部工作流或�
 | forks | 66/100 |
 | stars | 71/100 |
 | topics | 13/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

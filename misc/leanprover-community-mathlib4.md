@@ -1,6 +1,6 @@
 # leanprover-community/mathlib4
 
-[![Stars](https://img.shields.io/github/stars/leanprover-community/mathlib4?style=flat-square&color=yellow)](https://github.com/leanprover-community/mathlib4/stargazers) [![Forks](https://img.shields.io/github/forks/leanprover-community/mathlib4?style=flat-square&color=blue)](https://github.com/leanprover-community/mathlib4/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leanprover-community/mathlib4?style=flat-square&color=yellow)](https://github.com/leanprover-community/mathlib4/stargazers) [![Forks](https://img.shields.io/github/forks/leanprover-community/mathlib4?style=flat-square&color=blue)](https://github.com/leanprover-community/mathlib4/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The math library of Lean 4
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Lean |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ In short, `mathlib4` offers a powerful, community‑validated foundation for any
 | forks | 79/100 |
 | stars | 75/100 |
 | topics | 13/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

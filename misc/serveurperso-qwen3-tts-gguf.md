@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | gguf |
 | 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -101,6 +101,7 @@ Serveurperso/Qwen3-TTS-GGUF 的主要价值在于其可用于文本到语音转�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

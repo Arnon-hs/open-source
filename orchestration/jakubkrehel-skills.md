@@ -1,6 +1,6 @@
 # jakubkrehel/skills
 
-[![Stars](https://img.shields.io/github/stars/jakubkrehel/skills?style=flat-square&color=yellow)](https://github.com/jakubkrehel/skills/stargazers) [![Forks](https://img.shields.io/github/forks/jakubkrehel/skills?style=flat-square&color=blue)](https://github.com/jakubkrehel/skills/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jakubkrehel/skills?style=flat-square&color=yellow)](https://github.com/jakubkrehel/skills/stargazers) [![Forks](https://img.shields.io/github/forks/jakubkrehel/skills?style=flat-square&color=blue)](https://github.com/jakubkrehel/skills/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of agent skills that help you build a great interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ jakubkrehel/skills 的主要价值在于，它可以帮助开发者协调多代�
 | forks | 52/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

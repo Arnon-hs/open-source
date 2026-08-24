@@ -1,6 +1,6 @@
 # luoguoxiong/aipack
 
-[![Stars](https://img.shields.io/github/stars/luoguoxiong/aipack?style=flat-square&color=yellow)](https://github.com/luoguoxiong/aipack/stargazers) [![Forks](https://img.shields.io/github/forks/luoguoxiong/aipack?style=flat-square&color=blue)](https://github.com/luoguoxiong/aipack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luoguoxiong/aipack?style=flat-square&color=yellow)](https://github.com/luoguoxiong/aipack/stargazers) [![Forks](https://img.shields.io/github/forks/luoguoxiong/aipack?style=flat-square&color=blue)](https://github.com/luoguoxiong/aipack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > aipack 是一个 TypeScript AI Agent 开发框架，自研运行时核心，集成记忆、压缩、可观测性等能力，开箱即用支持 13+ 主流大模型，并提供 CLI、桌面应用和示例应用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ aipack 的生产可用性为中等（Medium）。它适合用于原型开发或�
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

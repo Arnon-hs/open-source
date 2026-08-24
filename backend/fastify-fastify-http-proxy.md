@@ -1,6 +1,6 @@
 # fastify/fastify-http-proxy
 
-[![Stars](https://img.shields.io/github/stars/fastify/fastify-http-proxy?style=flat-square&color=yellow)](https://github.com/fastify/fastify-http-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/fastify/fastify-http-proxy?style=flat-square&color=blue)](https://github.com/fastify/fastify-http-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastify/fastify-http-proxy?style=flat-square&color=yellow)](https://github.com/fastify/fastify-http-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/fastify/fastify-http-proxy?style=flat-square&color=blue)](https://github.com/fastify/fastify-http-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Proxy your http requests to another server, with hooks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ fastify.listen(3000);
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

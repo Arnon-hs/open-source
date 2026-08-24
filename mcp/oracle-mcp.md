@@ -1,6 +1,6 @@
 # oracle/mcp
 
-[![Stars](https://img.shields.io/github/stars/oracle/mcp?style=flat-square&color=yellow)](https://github.com/oracle/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/mcp?style=flat-square&color=blue)](https://github.com/oracle/mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle/mcp?style=flat-square&color=yellow)](https://github.com/oracle/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/mcp?style=flat-square&color=blue)](https://github.com/oracle/mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Repository containing MCP (Model Context Protocol) servers that provides a suite of tools for managing and interacting with Oracle products.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Product
+MCP
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Oracle/MCP的生产可用性为中等。虽然它已经更新到2026年，但仍
 | forks | 53/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

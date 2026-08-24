@@ -1,6 +1,6 @@
 # rhel-lightspeed/linux-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/rhel-lightspeed/linux-mcp-server?style=flat-square&color=yellow)](https://github.com/rhel-lightspeed/linux-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rhel-lightspeed/linux-mcp-server?style=flat-square&color=blue)](https://github.com/rhel-lightspeed/linux-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rhel-lightspeed/linux-mcp-server?style=flat-square&color=yellow)](https://github.com/rhel-lightspeed/linux-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rhel-lightspeed/linux-mcp-server?style=flat-square&color=blue)](https://github.com/rhel-lightspeed/linux-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Tools to allow LLM clients to interact with Linux systems remotely
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ rhel‑lightspeed/linux‑mcp‑server 是一套基于 Model Context Protoco
 | forks | 44/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

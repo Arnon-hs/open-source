@@ -1,6 +1,6 @@
 # DanielXMoore/Civet
 
-[![Stars](https://img.shields.io/github/stars/DanielXMoore/Civet?style=flat-square&color=yellow)](https://github.com/DanielXMoore/Civet/stargazers) [![Forks](https://img.shields.io/github/forks/DanielXMoore/Civet?style=flat-square&color=blue)](https://github.com/DanielXMoore/Civet/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanielXMoore/Civet?style=flat-square&color=yellow)](https://github.com/DanielXMoore/Civet/stargazers) [![Forks](https://img.shields.io/github/forks/DanielXMoore/Civet?style=flat-square&color=blue)](https://github.com/DanielXMoore/Civet/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A TypeScript superset that favors more types and less typing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ DanielXMoore/Civet 是一个 TypeScript 超集语言，旨在通过更丰富的�
 | forks | 43/100 |
 | stars | 70/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

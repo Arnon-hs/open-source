@@ -1,6 +1,6 @@
 # GuyMannDude/mnemo-cortex
 
-[![Stars](https://img.shields.io/github/stars/GuyMannDude/mnemo-cortex?style=flat-square&color=yellow)](https://github.com/GuyMannDude/mnemo-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/GuyMannDude/mnemo-cortex?style=flat-square&color=blue)](https://github.com/GuyMannDude/mnemo-cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GuyMannDude/mnemo-cortex?style=flat-square&color=yellow)](https://github.com/GuyMannDude/mnemo-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/GuyMannDude/mnemo-cortex?style=flat-square&color=blue)](https://github.com/GuyMannDude/mnemo-cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source memory coprocessor for AI agents. Persistent recall, semantic search, crash-safe capture. No hooks required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · Database
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ GuyMannDude/mnemo-cortex 是一个开源的 AI 代理记忆协处理器，提供
 | forks | 33/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

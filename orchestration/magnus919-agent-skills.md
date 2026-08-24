@@ -1,6 +1,6 @@
 # magnus919/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/magnus919/agent-skills?style=flat-square&color=yellow)](https://github.com/magnus919/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/magnus919/agent-skills?style=flat-square&color=blue)](https://github.com/magnus919/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magnus919/agent-skills?style=flat-square&color=yellow)](https://github.com/magnus919/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/magnus919/agent-skills?style=flat-square&color=blue)](https://github.com/magnus919/agent-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Curated collection of AI agent skills for Hermes and other agent frameworks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ magnus919/agent-skills是一个开源项目，提供了一个AI代理技能集�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

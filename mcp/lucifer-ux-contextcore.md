@@ -1,6 +1,6 @@
 # lucifer-ux/Contextcore
 
-[![Stars](https://img.shields.io/github/stars/lucifer-ux/Contextcore?style=flat-square&color=yellow)](https://github.com/lucifer-ux/Contextcore/stargazers) [![Forks](https://img.shields.io/github/forks/lucifer-ux/Contextcore?style=flat-square&color=blue)](https://github.com/lucifer-ux/Contextcore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lucifer-ux/Contextcore?style=flat-square&color=yellow)](https://github.com/lucifer-ux/Contextcore/stargazers) [![Forks](https://img.shields.io/github/forks/lucifer-ux/Contextcore?style=flat-square&color=blue)](https://github.com/lucifer-ux/Contextcore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > ContextCore: An MCP server for Claude (or any AI tool) that enables massive token saving through hybrid search (BM25 + Embeddings)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ContextCore 的生产可用性高，原因如下：
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # deft-ui/deft
 
-[![Stars](https://img.shields.io/github/stars/deft-ui/deft?style=flat-square&color=yellow)](https://github.com/deft-ui/deft/stargazers) [![Forks](https://img.shields.io/github/forks/deft-ui/deft?style=flat-square&color=blue)](https://github.com/deft-ui/deft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deft-ui/deft?style=flat-square&color=yellow)](https://github.com/deft-ui/deft/stargazers) [![Forks](https://img.shields.io/github/forks/deft-ui/deft?style=flat-square&color=blue)](https://github.com/deft-ui/deft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Build cross-platform applications with Rust and JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ deft‑ui/deft 通过 Rust 与 JavaScript 的组合，让前端开发者能够�
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

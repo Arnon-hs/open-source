@@ -1,6 +1,6 @@
 # yiisoft/yii2
 
-[![Stars](https://img.shields.io/github/stars/yiisoft/yii2?style=flat-square&color=yellow)](https://github.com/yiisoft/yii2/stargazers) [![Forks](https://img.shields.io/github/forks/yiisoft/yii2?style=flat-square&color=blue)](https://github.com/yiisoft/yii2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yiisoft/yii2?style=flat-square&color=yellow)](https://github.com/yiisoft/yii2/stargazers) [![Forks](https://img.shields.io/github/forks/yiisoft/yii2?style=flat-square&color=blue)](https://github.com/yiisoft/yii2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Yii 2: The Fast, Secure and Professional PHP Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.3k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Yii 2 的生产可用性很高，主要原因是：
 | forks | 96/100 |
 | stars | 88/100 |
 | topics | 75/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 90/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Kaiwen0418/agent-benchmark
 
-[![Stars](https://img.shields.io/github/stars/Kaiwen0418/agent-benchmark?style=flat-square&color=yellow)](https://github.com/Kaiwen0418/agent-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/Kaiwen0418/agent-benchmark?style=flat-square&color=blue)](https://github.com/Kaiwen0418/agent-benchmark/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kaiwen0418/agent-benchmark?style=flat-square&color=yellow)](https://github.com/Kaiwen0418/agent-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/Kaiwen0418/agent-benchmark?style=flat-square&color=blue)](https://github.com/Kaiwen0418/agent-benchmark/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AgentBench is an interactive benchmarking platform for tool-using AI agents.  Connect your own agent, run practical tasks, and watch every action unfold in real time. With reproducible environments, full execution traces, and deterministic evaluation, AgentBench makes agent performance measurable, explainable, and comparable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -127,14 +127,15 @@ AgentBench 是一个交互式基准平台，专为具备工具使用能力的 AI
 | forks | 17/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # stardew-valley-dedicated-server/server
 
-[![Stars](https://img.shields.io/github/stars/stardew-valley-dedicated-server/server?style=flat-square&color=yellow)](https://github.com/stardew-valley-dedicated-server/server/stargazers) [![Forks](https://img.shields.io/github/forks/stardew-valley-dedicated-server/server?style=flat-square&color=blue)](https://github.com/stardew-valley-dedicated-server/server/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stardew-valley-dedicated-server/server?style=flat-square&color=yellow)](https://github.com/stardew-valley-dedicated-server/server/stargazers) [![Forks](https://img.shields.io/github/forks/stardew-valley-dedicated-server/server?style=flat-square&color=blue)](https://github.com/stardew-valley-dedicated-server/server/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Always-on Stardew Valley dedicated multiplayer server in Docker, with automatic backups and SMAPI mod support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ stardew-valley-dedicated-server/server 是一个开源项目，允许你在 Dock
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # LiveHelperChat/livehelperchat
 
-[![Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=flat-square&color=yellow)](https://github.com/LiveHelperChat/livehelperchat/stargazers) [![Forks](https://img.shields.io/github/forks/LiveHelperChat/livehelperchat?style=flat-square&color=blue)](https://github.com/LiveHelperChat/livehelperchat/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=flat-square&color=yellow)](https://github.com/LiveHelperChat/livehelperchat/stargazers) [![Forks](https://img.shields.io/github/forks/LiveHelperChat/livehelperchat?style=flat-square&color=blue)](https://github.com/LiveHelperChat/livehelperchat/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice & Video & ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 733 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Live Helper Chat 是一款开源的实时客服系统，提供网页、移动端
 | forks | 72/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

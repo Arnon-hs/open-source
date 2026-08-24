@@ -1,6 +1,6 @@
 # mindscale-noah/MindMemOS
 
-[![Stars](https://img.shields.io/github/stars/mindscale-noah/MindMemOS?style=flat-square&color=yellow)](https://github.com/mindscale-noah/MindMemOS/stargazers) [![Forks](https://img.shields.io/github/forks/mindscale-noah/MindMemOS?style=flat-square&color=blue)](https://github.com/mindscale-noah/MindMemOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindscale-noah/MindMemOS?style=flat-square&color=yellow)](https://github.com/mindscale-noah/MindMemOS/stargazers) [![Forks](https://img.shields.io/github/forks/mindscale-noah/MindMemOS?style=flat-square&color=blue)](https://github.com/mindscale-noah/MindMemOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 938 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ mindscale-noah/MindMemOS：mindscale-noah/MindMemOS helps turn isolated prompts 
 | forks | 49/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

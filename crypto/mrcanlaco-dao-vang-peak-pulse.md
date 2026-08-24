@@ -1,6 +1,6 @@
 # mrcanlaco/Dao-Vang-Peak-Pulse
 
-[![Stars](https://img.shields.io/github/stars/mrcanlaco/Dao-Vang-Peak-Pulse?style=flat-square&color=yellow)](https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse/stargazers) [![Forks](https://img.shields.io/github/forks/mrcanlaco/Dao-Vang-Peak-Pulse?style=flat-square&color=blue)](https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrcanlaco/Dao-Vang-Peak-Pulse?style=flat-square&color=yellow)](https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse/stargazers) [![Forks](https://img.shields.io/github/forks/mrcanlaco/Dao-Vang-Peak-Pulse?style=flat-square&color=blue)](https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > PeakPulse AI — Machine Learning Crypto Distribution & Top Formation Radar for Binance Futures
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Database
+Crypto · Trading · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ mrcanlaco/Dao-Vang-Peak-Pulse：mrcanlaco/Dao-Vang-Peak-Pulse helps prototype or
 | forks | 49/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

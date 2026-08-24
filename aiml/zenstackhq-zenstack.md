@@ -1,6 +1,6 @@
 # zenstackhq/zenstack
 
-[![Stars](https://img.shields.io/github/stars/zenstackhq/zenstack?style=flat-square&color=yellow)](https://github.com/zenstackhq/zenstack/stargazers) [![Forks](https://img.shields.io/github/forks/zenstackhq/zenstack?style=flat-square&color=blue)](https://github.com/zenstackhq/zenstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zenstackhq/zenstack?style=flat-square&color=yellow)](https://github.com/zenstackhq/zenstack/stargazers) [![Forks](https://img.shields.io/github/forks/zenstackhq/zenstack?style=flat-square&color=blue)](https://github.com/zenstackhq/zenstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Data · Database
+AI/ML · Backend · Database · Security · Product
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ZenStack 是一个面向 TypeScript 应用的现代数据层，提供类型安�
 | forks | 54/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

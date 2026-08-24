@@ -1,6 +1,6 @@
 # facebook/folly
 
-[![Stars](https://img.shields.io/github/stars/facebook/folly?style=flat-square&color=yellow)](https://github.com/facebook/folly/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/folly?style=flat-square&color=blue)](https://github.com/facebook/folly/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/folly?style=flat-square&color=yellow)](https://github.com/facebook/folly/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/folly?style=flat-square&color=blue)](https://github.com/facebook/folly/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source C++ library developed and used at Facebook.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30.4k |
 | 🍴 **Forks** | 5.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Folly 的生产可用性非常高。它的 GitHub 星数超过 30,000，更新�
 | forks | 94/100 |
 | stars | 95/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

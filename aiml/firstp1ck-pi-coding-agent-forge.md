@@ -1,6 +1,6 @@
 # Firstp1ck/pi-coding-agent-forge
 
-[![Stars](https://img.shields.io/github/stars/Firstp1ck/pi-coding-agent-forge?style=flat-square&color=yellow)](https://github.com/Firstp1ck/pi-coding-agent-forge/stargazers) [![Forks](https://img.shields.io/github/forks/Firstp1ck/pi-coding-agent-forge?style=flat-square&color=blue)](https://github.com/Firstp1ck/pi-coding-agent-forge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Firstp1ck/pi-coding-agent-forge?style=flat-square&color=yellow)](https://github.com/Firstp1ck/pi-coding-agent-forge/stargazers) [![Forks](https://img.shields.io/github/forks/Firstp1ck/pi-coding-agent-forge?style=flat-square&color=blue)](https://github.com/Firstp1ck/pi-coding-agent-forge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Extensions, skills, prompts, themes, and developer tools for the Pi coding agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Firstp1ck/pi-coding-agent-forge has a medium production readiness, making it sui
 | forks | 31/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

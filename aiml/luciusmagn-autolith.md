@@ -1,6 +1,6 @@
 # luciusmagn/autolith
 
-[![Stars](https://img.shields.io/github/stars/luciusmagn/autolith?style=flat-square&color=yellow)](https://github.com/luciusmagn/autolith/stargazers) [![Forks](https://img.shields.io/github/forks/luciusmagn/autolith?style=flat-square&color=blue)](https://github.com/luciusmagn/autolith/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luciusmagn/autolith?style=flat-square&color=yellow)](https://github.com/luciusmagn/autolith/stargazers) [![Forks](https://img.shields.io/github/forks/luciusmagn/autolith?style=flat-square&color=blue)](https://github.com/luciusmagn/autolith/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Autolith is a self-modifiable general purpose Lisp AI agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Common Lisp |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ luciusmagn/autolith 是一个可自行修改的通用 Lisp AI 代理，能够在
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 42/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 64/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

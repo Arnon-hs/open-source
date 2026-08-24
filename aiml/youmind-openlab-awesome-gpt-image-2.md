@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-gpt-image-2
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gpt-image-2?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-gpt-image-2?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gpt-image-2?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-gpt-image-2?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 853 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ YouMind-OpenLab/awesome-gpt-image-2 提供了全球最大的 GPT‑Image‑2 Pro
 | forks | 73/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 81/100 |
-| production | 81/100 |
-| usefulness | 42/100 |
+| production | 74/100 |
+| usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

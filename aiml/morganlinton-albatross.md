@@ -1,6 +1,6 @@
 # morganlinton/Albatross
 
-[![Stars](https://img.shields.io/github/stars/morganlinton/Albatross?style=flat-square&color=yellow)](https://github.com/morganlinton/Albatross/stargazers) [![Forks](https://img.shields.io/github/forks/morganlinton/Albatross?style=flat-square&color=blue)](https://github.com/morganlinton/Albatross/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morganlinton/Albatross?style=flat-square&color=yellow)](https://github.com/morganlinton/Albatross/stargazers) [![Forks](https://img.shields.io/github/forks/morganlinton/Albatross?style=flat-square&color=blue)](https://github.com/morganlinton/Albatross/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Albatross 是一个终端优先的开源 AI 编码代理，支持本地（Ollama
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # spidernet-io/spiderpool
 
-[![Stars](https://img.shields.io/github/stars/spidernet-io/spiderpool?style=flat-square&color=yellow)](https://github.com/spidernet-io/spiderpool/stargazers) [![Forks](https://img.shields.io/github/forks/spidernet-io/spiderpool?style=flat-square&color=blue)](https://github.com/spidernet-io/spiderpool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spidernet-io/spiderpool?style=flat-square&color=yellow)](https://github.com/spidernet-io/spiderpool/stargazers) [![Forks](https://img.shields.io/github/forks/spidernet-io/spiderpool?style=flat-square&color=blue)](https://github.com/spidernet-io/spiderpool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 669 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Spiderpool 是一种面向裸机、虚拟机及公共云的 Kubernetes Underlay 
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

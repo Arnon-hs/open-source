@@ -1,6 +1,6 @@
 # worldnine/scrapbox-cosense-mcp
 
-[![Stars](https://img.shields.io/github/stars/worldnine/scrapbox-cosense-mcp?style=flat-square&color=yellow)](https://github.com/worldnine/scrapbox-cosense-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/worldnine/scrapbox-cosense-mcp?style=flat-square&color=blue)](https://github.com/worldnine/scrapbox-cosense-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/worldnine/scrapbox-cosense-mcp?style=flat-square&color=yellow)](https://github.com/worldnine/scrapbox-cosense-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/worldnine/scrapbox-cosense-mcp?style=flat-square&color=blue)](https://github.com/worldnine/scrapbox-cosense-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Cosense (Scrapbox) — read, search, create, and edit wiki pages from Claude and other AI agents. Also works as a CLI and Claude Code plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ worldnine/scrapbox-cosense-mcp 在生产环境中具有较高的可用性，主�
 | forks | 32/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

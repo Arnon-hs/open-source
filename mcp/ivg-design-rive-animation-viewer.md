@@ -1,6 +1,6 @@
 # ivg-design/rive-animation-viewer
 
-[![Stars](https://img.shields.io/github/stars/ivg-design/rive-animation-viewer?style=flat-square&color=yellow)](https://github.com/ivg-design/rive-animation-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/ivg-design/rive-animation-viewer?style=flat-square&color=blue)](https://github.com/ivg-design/rive-animation-viewer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivg-design/rive-animation-viewer?style=flat-square&color=yellow)](https://github.com/ivg-design/rive-animation-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/ivg-design/rive-animation-viewer?style=flat-square&color=blue)](https://github.com/ivg-design/rive-animation-viewer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Rive animation viewer with web frontend (if desired), and desktop (Tauri) dual platform (Mac/PC) support. Features demo bundle generation for distributing self-contained animation executables to clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend · Design
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ ivg-design/rive-animation-viewer 帮助连接 AI 助手到实际工具和数据�
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

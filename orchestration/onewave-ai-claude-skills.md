@@ -1,6 +1,6 @@
 # OneWave-AI/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/OneWave-AI/claude-skills?style=flat-square&color=yellow)](https://github.com/OneWave-AI/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/OneWave-AI/claude-skills?style=flat-square&color=blue)](https://github.com/OneWave-AI/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OneWave-AI/claude-skills?style=flat-square&color=yellow)](https://github.com/OneWave-AI/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/OneWave-AI/claude-skills?style=flat-square&color=blue)](https://github.com/OneWave-AI/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 172 production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and maintained by OneWave AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools · Design
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ OneWave‑AI/claude‑skills 将零散的 Claude 提示和工具封装成 172 �
 | forks | 39/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

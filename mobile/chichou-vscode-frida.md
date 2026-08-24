@@ -1,6 +1,6 @@
 # ChiChou/vscode-frida
 
-[![Stars](https://img.shields.io/github/stars/ChiChou/vscode-frida?style=flat-square&color=yellow)](https://github.com/ChiChou/vscode-frida/stargazers) [![Forks](https://img.shields.io/github/forks/ChiChou/vscode-frida?style=flat-square&color=blue)](https://github.com/ChiChou/vscode-frida/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChiChou/vscode-frida?style=flat-square&color=yellow)](https://github.com/ChiChou/vscode-frida/stargazers) [![Forks](https://img.shields.io/github/forks/ChiChou/vscode-frida?style=flat-square&color=blue)](https://github.com/ChiChou/vscode-frida/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial frida extension for VSCode
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ ChiChou/vscode-frida 是一个 VSCode 的非官方 Frida 扩展，用于强化�
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

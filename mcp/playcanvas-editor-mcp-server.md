@@ -1,6 +1,6 @@
 # playcanvas/editor-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/playcanvas/editor-mcp-server?style=flat-square&color=yellow)](https://github.com/playcanvas/editor-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/editor-mcp-server?style=flat-square&color=blue)](https://github.com/playcanvas/editor-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/playcanvas/editor-mcp-server?style=flat-square&color=yellow)](https://github.com/playcanvas/editor-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/editor-mcp-server?style=flat-square&color=blue)](https://github.com/playcanvas/editor-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for AI automation of the PlayCanvas Editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ PlayCanvas 编辑器 MCP 服务器是一款开源项目，旨在通过标准协�
 | forks | 35/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

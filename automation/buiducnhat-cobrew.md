@@ -1,6 +1,6 @@
 # buiducnhat/cobrew
 
-[![Stars](https://img.shields.io/github/stars/buiducnhat/cobrew?style=flat-square&color=yellow)](https://github.com/buiducnhat/cobrew/stargazers) [![Forks](https://img.shields.io/github/forks/buiducnhat/cobrew?style=flat-square&color=blue)](https://github.com/buiducnhat/cobrew/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buiducnhat/cobrew?style=flat-square&color=yellow)](https://github.com/buiducnhat/cobrew/stargazers) [![Forks](https://img.shields.io/github/forks/buiducnhat/cobrew?style=flat-square&color=blue)](https://github.com/buiducnhat/cobrew/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Simple workflow for agent coding with skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ buiducnhat/cobrew 是一个面向「具备技能的智能体」的简易工作�
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Rizzo-AI-Academy/rizzo-pii
 
-[![Stars](https://img.shields.io/github/stars/Rizzo-AI-Academy/rizzo-pii?style=flat-square&color=yellow)](https://github.com/Rizzo-AI-Academy/rizzo-pii/stargazers) [![Forks](https://img.shields.io/github/forks/Rizzo-AI-Academy/rizzo-pii?style=flat-square&color=blue)](https://github.com/Rizzo-AI-Academy/rizzo-pii/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rizzo-AI-Academy/rizzo-pii?style=flat-square&color=yellow)](https://github.com/Rizzo-AI-Academy/rizzo-pii/stargazers) [![Forks](https://img.shields.io/github/forks/Rizzo-AI-Academy/rizzo-pii?style=flat-square&color=blue)](https://github.com/Rizzo-AI-Academy/rizzo-pii/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first privacy guard: anonymize your documents before sharing with LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ Rizzo-AI-Academy/rizzo-pii 帮助用户在不从零开始的情况下添加 AI �
 | forks | 36/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

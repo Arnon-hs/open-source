@@ -1,6 +1,6 @@
 # xaaha/hulak
 
-[![Stars](https://img.shields.io/github/stars/xaaha/hulak?style=flat-square&color=yellow)](https://github.com/xaaha/hulak/stargazers) [![Forks](https://img.shields.io/github/forks/xaaha/hulak?style=flat-square&color=blue)](https://github.com/xaaha/hulak/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xaaha/hulak?style=flat-square&color=yellow)](https://github.com/xaaha/hulak/stargazers) [![Forks](https://img.shields.io/github/forks/xaaha/hulak?style=flat-square&color=blue)](https://github.com/xaaha/hulak/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight file-based CLI API client with age-encrypted secrets and first-class GraphQL support built for humans and AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ xaaha/hulak 的生产可用性很高，主要原因是：
 | forks | 21/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

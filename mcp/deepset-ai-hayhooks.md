@@ -1,6 +1,6 @@
 # deepset-ai/hayhooks
 
-[![Stars](https://img.shields.io/github/stars/deepset-ai/hayhooks?style=flat-square&color=yellow)](https://github.com/deepset-ai/hayhooks/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/hayhooks?style=flat-square&color=blue)](https://github.com/deepset-ai/hayhooks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepset-ai/hayhooks?style=flat-square&color=yellow)](https://github.com/deepset-ai/hayhooks/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/hayhooks?style=flat-square&color=blue)](https://github.com/deepset-ai/hayhooks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Easily deploy Haystack pipelines as REST APIs and MCP Tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ deepset‑ai/hayhooks 是一个开源工具，能够把 Haystack 的检索/问�
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

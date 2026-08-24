@@ -1,6 +1,6 @@
 # MengMengCode/VoCat
 
-[![Stars](https://img.shields.io/github/stars/MengMengCode/VoCat?style=flat-square&color=yellow)](https://github.com/MengMengCode/VoCat/stargazers) [![Forks](https://img.shields.io/github/forks/MengMengCode/VoCat?style=flat-square&color=blue)](https://github.com/MengMengCode/VoCat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MengMengCode/VoCat?style=flat-square&color=yellow)](https://github.com/MengMengCode/VoCat/stargazers) [![Forks](https://img.shields.io/github/forks/MengMengCode/VoCat?style=flat-square&color=blue)](https://github.com/MengMengCode/VoCat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability
+Automation · Observability
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Vocat的生产可用性为中等水平，适合用于原型或内部工作流程
 | forks | 54/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

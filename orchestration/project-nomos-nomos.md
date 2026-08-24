@@ -1,6 +1,6 @@
 # project-nomos/nomos
 
-[![Stars](https://img.shields.io/github/stars/project-nomos/nomos?style=flat-square&color=yellow)](https://github.com/project-nomos/nomos/stargazers) [![Forks](https://img.shields.io/github/forks/project-nomos/nomos?style=flat-square&color=blue)](https://github.com/project-nomos/nomos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/project-nomos/nomos?style=flat-square&color=yellow)](https://github.com/project-nomos/nomos/stargazers) [![Forks](https://img.shields.io/github/forks/project-nomos/nomos?style=flat-square&color=blue)](https://github.com/project-nomos/nomos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI digital clone — learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-agent teams, 60+ skills, smart model routing. Self-hosted, encrypted, multi-provider (Claude/Ollama/OpenRouter). Deploy to Slack, Discord, Telegram, WhatsApp & more in minutes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Education
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ project‑nomos/nomos 是一个自托管的 AI 数字克隆平台，能够通过
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

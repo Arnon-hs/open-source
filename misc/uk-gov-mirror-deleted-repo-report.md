@@ -1,6 +1,6 @@
 # uk-gov-mirror/deleted-repo-report
 
-[![Stars](https://img.shields.io/github/stars/uk-gov-mirror/deleted-repo-report?style=flat-square&color=yellow)](https://github.com/uk-gov-mirror/deleted-repo-report/stargazers) [![Forks](https://img.shields.io/github/forks/uk-gov-mirror/deleted-repo-report?style=flat-square&color=blue)](https://github.com/uk-gov-mirror/deleted-repo-report/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uk-gov-mirror/deleted-repo-report?style=flat-square&color=yellow)](https://github.com/uk-gov-mirror/deleted-repo-report/stargazers) [![Forks](https://img.shields.io/github/forks/uk-gov-mirror/deleted-repo-report?style=flat-square&color=blue)](https://github.com/uk-gov-mirror/deleted-repo-report/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ This project has a medium production readiness score, indicating that it can be 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 31/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Leutenegger/book-to-skill
 
-[![Stars](https://img.shields.io/github/stars/Leutenegger/book-to-skill?style=flat-square&color=yellow)](https://github.com/Leutenegger/book-to-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Leutenegger/book-to-skill?style=flat-square&color=blue)](https://github.com/Leutenegger/book-to-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leutenegger/book-to-skill?style=flat-square&color=yellow)](https://github.com/Leutenegger/book-to-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Leutenegger/book-to-skill?style=flat-square&color=blue)](https://github.com/Leutenegger/book-to-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Leutenegger/book-to-skill 的价值在于它可以帮助将孤立的提示和工
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

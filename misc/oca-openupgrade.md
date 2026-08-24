@@ -1,6 +1,6 @@
 # OCA/OpenUpgrade
 
-[![Stars](https://img.shields.io/github/stars/OCA/OpenUpgrade?style=flat-square&color=yellow)](https://github.com/OCA/OpenUpgrade/stargazers) [![Forks](https://img.shields.io/github/forks/OCA/OpenUpgrade?style=flat-square&color=blue)](https://github.com/OCA/OpenUpgrade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OCA/OpenUpgrade?style=flat-square&color=yellow)](https://github.com/OCA/OpenUpgrade/stargazers) [![Forks](https://img.shields.io/github/forks/OCA/OpenUpgrade?style=flat-square&color=blue)](https://github.com/OCA/OpenUpgrade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open source upgrade path for Odoo/OpenERP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 971 |
 | 🍴 **Forks** | 821 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ OCA/OpenUpgrade 的生产可用性较高，主要因为它有最近的活动、�
 | forks | 73/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aovestdipaperino/plank
 
-[![Stars](https://img.shields.io/github/stars/aovestdipaperino/plank?style=flat-square&color=yellow)](https://github.com/aovestdipaperino/plank/stargazers) [![Forks](https://img.shields.io/github/forks/aovestdipaperino/plank?style=flat-square&color=blue)](https://github.com/aovestdipaperino/plank/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aovestdipaperino/plank?style=flat-square&color=yellow)](https://github.com/aovestdipaperino/plank/stargazers) [![Forks](https://img.shields.io/github/forks/aovestdipaperino/plank?style=flat-square&color=blue)](https://github.com/aovestdipaperino/plank/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive terminal coding agent in Rust — runs the DeepSeek V4 Flash model locally on macOS (Metal), with a Ratatui TUI, a full tool suite, MCP, and persistent sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ aovestdipaperino/plank 的生产可用性为中等（Medium）。它适合用于
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

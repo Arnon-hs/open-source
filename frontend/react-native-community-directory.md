@@ -1,6 +1,6 @@
 # react-native-community/directory
 
-[![Stars](https://img.shields.io/github/stars/react-native-community/directory?style=flat-square&color=yellow)](https://github.com/react-native-community/directory/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-community/directory?style=flat-square&color=blue)](https://github.com/react-native-community/directory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react-native-community/directory?style=flat-square&color=yellow)](https://github.com/react-native-community/directory/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-community/directory?style=flat-square&color=blue)](https://github.com/react-native-community/directory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A searchable and filterable directory of React Native libraries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 850 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ react-native-community/directory 的生产可用性较高，原因包括：
 | forks | 73/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

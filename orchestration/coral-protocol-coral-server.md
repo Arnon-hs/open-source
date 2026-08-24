@@ -1,6 +1,6 @@
 # Coral-Protocol/coral-server
 
-[![Stars](https://img.shields.io/github/stars/Coral-Protocol/coral-server?style=flat-square&color=yellow)](https://github.com/Coral-Protocol/coral-server/stargazers) [![Forks](https://img.shields.io/github/forks/Coral-Protocol/coral-server?style=flat-square&color=blue)](https://github.com/Coral-Protocol/coral-server/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coral-Protocol/coral-server?style=flat-square&color=yellow)](https://github.com/Coral-Protocol/coral-server/stargazers) [![Forks](https://img.shields.io/github/forks/Coral-Protocol/coral-server?style=flat-square&color=blue)](https://github.com/Coral-Protocol/coral-server/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes for AI agents: CoralOS is a platform for everything between your agents and production: registry, runtimes, security, and orchestration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · Database · DevOps/Infra
+Orchestration · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Coral-Protocol/coral-server 是面向 AI 代理的 “Kubernetes”，提供统�
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

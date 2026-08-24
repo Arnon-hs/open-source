@@ -1,6 +1,6 @@
 # joaoh82/rustunnel
 
-[![Stars](https://img.shields.io/github/stars/joaoh82/rustunnel?style=flat-square&color=yellow)](https://github.com/joaoh82/rustunnel/stargazers) [![Forks](https://img.shields.io/github/forks/joaoh82/rustunnel?style=flat-square&color=blue)](https://github.com/joaoh82/rustunnel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joaoh82/rustunnel?style=flat-square&color=yellow)](https://github.com/joaoh82/rustunnel/stargazers) [![Forks](https://img.shields.io/github/forks/joaoh82/rustunnel?style=flat-square&color=blue)](https://github.com/joaoh82/rustunnel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, secure tunnel server in Rust. Expose local HTTP/HTTPS/TCP/UDP services to the public internet via TLS-encrypted WebSocket. Open-source, pay-as-you-go managed option, MCP server for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 646 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ joaoh82/rustunnel 具有高生产可用性，因为它有：
 | forks | 42/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

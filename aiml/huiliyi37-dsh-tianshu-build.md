@@ -1,6 +1,6 @@
 # huiliyi37/dsh-tianshu-build
 
-[![Stars](https://img.shields.io/github/stars/huiliyi37/dsh-tianshu-build?style=flat-square&color=yellow)](https://github.com/huiliyi37/dsh-tianshu-build/stargazers) [![Forks](https://img.shields.io/github/forks/huiliyi37/dsh-tianshu-build?style=flat-square&color=blue)](https://github.com/huiliyi37/dsh-tianshu-build/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huiliyi37/dsh-tianshu-build?style=flat-square&color=yellow)](https://github.com/huiliyi37/dsh-tianshu-build/stargazers) [![Forks](https://img.shields.io/github/forks/huiliyi37/dsh-tianshu-build?style=flat-square&color=blue)](https://github.com/huiliyi37/dsh-tianshu-build/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek X Tianshu  Harness build 是一款完全体开源 coding agent:在 dsh harness 基础之上带视觉、跨会话记忆、验证门、agent 路由、语义 + 图谱代码检索、文件回滚和全屏终端 UI——全部以插件组合。  它是 DeepSeek Harness(dsh)的友好 MIT fork, 它保留了上游一切皆插件的架构，并将以harness最佳形态和架构往下演进。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ huiliyi37/dsh-tianshu-build 帮助开发者在不从头开始的基础上添加 
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

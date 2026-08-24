@@ -1,6 +1,6 @@
 # arshka/pykalshi
 
-[![Stars](https://img.shields.io/github/stars/arshka/pykalshi?style=flat-square&color=yellow)](https://github.com/arshka/pykalshi/stargazers) [![Forks](https://img.shields.io/github/forks/arshka/pykalshi?style=flat-square&color=blue)](https://github.com/arshka/pykalshi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arshka/pykalshi?style=flat-square&color=yellow)](https://github.com/arshka/pykalshi/stargazers) [![Forks](https://img.shields.io/github/forks/arshka/pykalshi?style=flat-square&color=blue)](https://github.com/arshka/pykalshi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Python client for Kalshi's prediction markets API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · Backend · DevTools · Data
+Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ arshka/pykalshi 的生产可用性很高，主要原因包括：
 | forks | 34/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

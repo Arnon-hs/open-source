@@ -1,6 +1,6 @@
 # ILoveBingLu/CipherTalk
 
-[![Stars](https://img.shields.io/github/stars/ILoveBingLu/CipherTalk?style=flat-square&color=yellow)](https://github.com/ILoveBingLu/CipherTalk/stargazers) [![Forks](https://img.shields.io/github/forks/ILoveBingLu/CipherTalk?style=flat-square&color=blue)](https://github.com/ILoveBingLu/CipherTalk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ILoveBingLu/CipherTalk?style=flat-square&color=yellow)](https://github.com/ILoveBingLu/CipherTalk/stargazers) [![Forks](https://img.shields.io/github/forks/ILoveBingLu/CipherTalk?style=flat-square&color=blue)](https://github.com/ILoveBingLu/CipherTalk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 查无此人？
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ ILoveBingLu/CipherTalk 的生产可用性为中等（Medium），意味着它可
 | forks | 67/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

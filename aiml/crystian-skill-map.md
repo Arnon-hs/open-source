@@ -1,6 +1,6 @@
 # crystian/skill-map
 
-[![Stars](https://img.shields.io/github/stars/crystian/skill-map?style=flat-square&color=yellow)](https://github.com/crystian/skill-map/stargazers) [![Forks](https://img.shields.io/github/forks/crystian/skill-map?style=flat-square&color=blue)](https://github.com/crystian/skill-map/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crystian/skill-map?style=flat-square&color=yellow)](https://github.com/crystian/skill-map/stargazers) [![Forks](https://img.shields.io/github/forks/crystian/skill-map?style=flat-square&color=blue)](https://github.com/crystian/skill-map/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Map, inspect, and audit AI-agent markdown ecosystems (skills, agents, commands, hooks) as a graph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ crystian/skill-map 的生产可用性为中等（Medium）。它适用于快速P
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ritchiecarroll/go2cs
 
-[![Stars](https://img.shields.io/github/stars/ritchiecarroll/go2cs?style=flat-square&color=yellow)](https://github.com/ritchiecarroll/go2cs/stargazers) [![Forks](https://img.shields.io/github/forks/ritchiecarroll/go2cs?style=flat-square&color=blue)](https://github.com/ritchiecarroll/go2cs/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ritchiecarroll/go2cs?style=flat-square&color=yellow)](https://github.com/ritchiecarroll/go2cs/stargazers) [![Forks](https://img.shields.io/github/forks/ritchiecarroll/go2cs?style=flat-square&color=blue)](https://github.com/ritchiecarroll/go2cs/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Golang to C# Converter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Ritchiecarroll/go2cs 的生产可用性被评估为中等。它可以用于原�
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

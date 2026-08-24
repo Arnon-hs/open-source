@@ -1,6 +1,6 @@
 # synthetic-recon/pi-fusion
 
-[![Stars](https://img.shields.io/github/stars/synthetic-recon/pi-fusion?style=flat-square&color=yellow)](https://github.com/synthetic-recon/pi-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/synthetic-recon/pi-fusion?style=flat-square&color=blue)](https://github.com/synthetic-recon/pi-fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/synthetic-recon/pi-fusion?style=flat-square&color=yellow)](https://github.com/synthetic-recon/pi-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/synthetic-recon/pi-fusion?style=flat-square&color=blue)](https://github.com/synthetic-recon/pi-fusion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-model deliberation for pi, inspired by OpenRouter Fusion
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ synthetic-recon/pi‑fusion 是一个基于 OpenRouter Fusion 思想实现的多
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

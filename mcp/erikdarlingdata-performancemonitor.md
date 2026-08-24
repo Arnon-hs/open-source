@@ -1,6 +1,6 @@
 # erikdarlingdata/PerformanceMonitor
 
-[![Stars](https://img.shields.io/github/stars/erikdarlingdata/PerformanceMonitor?style=flat-square&color=yellow)](https://github.com/erikdarlingdata/PerformanceMonitor/stargazers) [![Forks](https://img.shields.io/github/forks/erikdarlingdata/PerformanceMonitor?style=flat-square&color=blue)](https://github.com/erikdarlingdata/PerformanceMonitor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erikdarlingdata/PerformanceMonitor?style=flat-square&color=yellow)](https://github.com/erikdarlingdata/PerformanceMonitor/stargazers) [![Forks](https://img.shields.io/github/forks/erikdarlingdata/PerformanceMonitor?style=flat-square&color=blue)](https://github.com/erikdarlingdata/PerformanceMonitor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Database · Observability
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ erikdarlingdata/PerformanceMonitor 是一款免费开源的 SQL Server 性能监
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

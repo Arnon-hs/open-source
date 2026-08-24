@@ -1,6 +1,6 @@
 # iterative/gto
 
-[![Stars](https://img.shields.io/github/stars/iterative/gto?style=flat-square&color=yellow)](https://github.com/iterative/gto/stargazers) [![Forks](https://img.shields.io/github/forks/iterative/gto?style=flat-square&color=blue)](https://github.com/iterative/gto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iterative/gto?style=flat-square&color=yellow)](https://github.com/iterative/gto/stargazers) [![Forks](https://img.shields.io/github/forks/iterative/gto?style=flat-square&color=blue)](https://github.com/iterative/gto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🏷️ Git Tag Ops. Turn your Git repository into Artifact Registry or Model Registry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -72,14 +72,15 @@ iterative/gto 是一款轻量级的 Git Tag 操作工具，能够将 Git 仓库�
 | forks | 32/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

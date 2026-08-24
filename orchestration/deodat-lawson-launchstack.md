@@ -1,6 +1,6 @@
 # Deodat-Lawson/LaunchStack
 
-[![Stars](https://img.shields.io/github/stars/Deodat-Lawson/LaunchStack?style=flat-square&color=yellow)](https://github.com/Deodat-Lawson/LaunchStack/stargazers) [![Forks](https://img.shields.io/github/forks/Deodat-Lawson/LaunchStack?style=flat-square&color=blue)](https://github.com/Deodat-Lawson/LaunchStack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Deodat-Lawson/LaunchStack?style=flat-square&color=yellow)](https://github.com/Deodat-Lawson/LaunchStack/stargazers) [![Forks](https://img.shields.io/github/forks/Deodat-Lawson/LaunchStack?style=flat-square&color=blue)](https://github.com/Deodat-Lawson/LaunchStack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered StartUp Accelerator Engine built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ LaunchStack 具有很高的生产可用性，尤其是在开源社区中。它�
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

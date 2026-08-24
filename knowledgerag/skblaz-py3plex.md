@@ -1,6 +1,6 @@
 # SkBlaz/py3plex
 
-[![Stars](https://img.shields.io/github/stars/SkBlaz/py3plex?style=flat-square&color=yellow)](https://github.com/SkBlaz/py3plex/stargazers) [![Forks](https://img.shields.io/github/forks/SkBlaz/py3plex?style=flat-square&color=blue)](https://github.com/SkBlaz/py3plex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SkBlaz/py3plex?style=flat-square&color=yellow)](https://github.com/SkBlaz/py3plex/stargazers) [![Forks](https://img.shields.io/github/forks/SkBlaz/py3plex?style=flat-square&color=blue)](https://github.com/SkBlaz/py3plex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Py3plex - A multilayer complex network visualization and analysis library in python3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Data · Database · DevOps/Infra
+Knowledge/RAG · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ SkBlaz/py3plex 是一个基于 Python 3 的开源库，用于多层复杂网�
 | forks | 40/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # archivesspace/archivesspace
 
-[![Stars](https://img.shields.io/github/stars/archivesspace/archivesspace?style=flat-square&color=yellow)](https://github.com/archivesspace/archivesspace/stargazers) [![Forks](https://img.shields.io/github/forks/archivesspace/archivesspace?style=flat-square&color=blue)](https://github.com/archivesspace/archivesspace/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/archivesspace/archivesspace?style=flat-square&color=yellow)](https://github.com/archivesspace/archivesspace/stargazers) [![Forks](https://img.shields.io/github/forks/archivesspace/archivesspace?style=flat-square&color=blue)](https://github.com/archivesspace/archivesspace/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ArchivesSpace, the archives management tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ ArchivesSpace 是一套专为档案馆、图书馆和博物馆设计的开源档
 | forks | 60/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # redis/mcp-redis
 
-[![Stars](https://img.shields.io/github/stars/redis/mcp-redis?style=flat-square&color=yellow)](https://github.com/redis/mcp-redis/stargazers) [![Forks](https://img.shields.io/github/forks/redis/mcp-redis?style=flat-square&color=blue)](https://github.com/redis/mcp-redis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redis/mcp-redis?style=flat-square&color=yellow)](https://github.com/redis/mcp-redis/stargazers) [![Forks](https://img.shields.io/github/forks/redis/mcp-redis?style=flat-square&color=blue)](https://github.com/redis/mcp-redis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 507 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Redis MCP‑Redis – официальный сервер Model Context 
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

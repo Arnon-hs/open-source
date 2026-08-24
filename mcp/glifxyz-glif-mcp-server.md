@@ -1,6 +1,6 @@
 # glifxyz/glif-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/glifxyz/glif-mcp-server?style=flat-square&color=yellow)](https://github.com/glifxyz/glif-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/glifxyz/glif-mcp-server?style=flat-square&color=blue)](https://github.com/glifxyz/glif-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glifxyz/glif-mcp-server?style=flat-square&color=yellow)](https://github.com/glifxyz/glif-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/glifxyz/glif-mcp-server?style=flat-square&color=blue)](https://github.com/glifxyz/glif-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Deprecated — use the hosted Glif MCP server at https://glif.app/mcp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ glifxyz/glif-mcp
 | forks | 38/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # djtelicloud/grok-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/djtelicloud/grok-mcp-server?style=flat-square&color=yellow)](https://github.com/djtelicloud/grok-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/djtelicloud/grok-mcp-server?style=flat-square&color=blue)](https://github.com/djtelicloud/grok-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/djtelicloud/grok-mcp-server?style=flat-square&color=yellow)](https://github.com/djtelicloud/grok-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/djtelicloud/grok-mcp-server?style=flat-square&color=blue)](https://github.com/djtelicloud/grok-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first Grok MCP server & gateway. One shared Grok agent for Cursor, Claude Code, VS Code, Codex & Desktop. xAI API + CLI planes, Control Center.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ djtelicloud/grok-mcp-server 在生产环境中具有较高的可用性。它最�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

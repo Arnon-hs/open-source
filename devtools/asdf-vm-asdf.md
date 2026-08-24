@@ -1,6 +1,6 @@
 # asdf-vm/asdf
 
-[![Stars](https://img.shields.io/github/stars/asdf-vm/asdf?style=flat-square&color=yellow)](https://github.com/asdf-vm/asdf/stargazers) [![Forks](https://img.shields.io/github/forks/asdf-vm/asdf?style=flat-square&color=blue)](https://github.com/asdf-vm/asdf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asdf-vm/asdf?style=flat-square&color=yellow)](https://github.com/asdf-vm/asdf/stargazers) [![Forks](https://img.shields.io/github/forks/asdf-vm/asdf?style=flat-square&color=blue)](https://github.com/asdf-vm/asdf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.4k |
 | 🍴 **Forks** | 926 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ asdf-vm/asdf 是一个可扩展的版本管理工具，支持 Ruby、Node.js、E
 | forks | 74/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 80/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 86/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

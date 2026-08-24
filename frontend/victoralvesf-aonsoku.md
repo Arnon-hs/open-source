@@ -1,6 +1,6 @@
 # victoralvesf/aonsoku
 
-[![Stars](https://img.shields.io/github/stars/victoralvesf/aonsoku?style=flat-square&color=yellow)](https://github.com/victoralvesf/aonsoku/stargazers) [![Forks](https://img.shields.io/github/forks/victoralvesf/aonsoku?style=flat-square&color=blue)](https://github.com/victoralvesf/aonsoku/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/victoralvesf/aonsoku?style=flat-square&color=yellow)](https://github.com/victoralvesf/aonsoku/stargazers) [![Forks](https://img.shields.io/github/forks/victoralvesf/aonsoku?style=flat-square&color=blue)](https://github.com/victoralvesf/aonsoku/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 912 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ victoralvesf/aonsoku 是一款基于 React 与 Electron 开发的现代桌面客
 | forks | 48/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

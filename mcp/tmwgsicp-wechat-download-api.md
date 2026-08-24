@@ -1,6 +1,6 @@
 # tmwgsicp/wechat-download-api
 
-[![Stars](https://img.shields.io/github/stars/tmwgsicp/wechat-download-api?style=flat-square&color=yellow)](https://github.com/tmwgsicp/wechat-download-api/stargazers) [![Forks](https://img.shields.io/github/forks/tmwgsicp/wechat-download-api?style=flat-square&color=blue)](https://github.com/tmwgsicp/wechat-download-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tmwgsicp/wechat-download-api?style=flat-square&color=yellow)](https://github.com/tmwgsicp/wechat-download-api/stargazers) [![Forks](https://img.shields.io/github/forks/tmwgsicp/wechat-download-api?style=flat-square&color=blue)](https://github.com/tmwgsicp/wechat-download-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 一款完全开源的微信公众号文章获取、RSS 订阅 API 服务，支持整号文章一键导出 7 种格式（Markdown/HTML/Word/PDF/EPUB/Excel/JSON）、IP 代理池反风控、MCP 接入各种 AI Agent 工具。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 850 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ tmwgsicp/wechat-download-api 支持以下几种典型接入方式：
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 85/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # wilbeibi/catchup
 
-[![Stars](https://img.shields.io/github/stars/wilbeibi/catchup?style=flat-square&color=yellow)](https://github.com/wilbeibi/catchup/stargazers) [![Forks](https://img.shields.io/github/forks/wilbeibi/catchup?style=flat-square&color=blue)](https://github.com/wilbeibi/catchup/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wilbeibi/catchup?style=flat-square&color=yellow)](https://github.com/wilbeibi/catchup/stargazers) [![Forks](https://img.shields.io/github/forks/wilbeibi/catchup?style=flat-square&color=blue)](https://github.com/wilbeibi/catchup/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first CLI for coding-agent context handoff. Transfer and resume sessions across Claude Code, Codex, Cursor, Cline, Kimi, Antigravity, OpenCode, and Pi Agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ wilbeibi/catchup 的生产可用性为中等（Medium），适合用于内部工
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

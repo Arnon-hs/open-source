@@ -1,6 +1,6 @@
 # infinri/Writ
 
-[![Stars](https://img.shields.io/github/stars/infinri/Writ?style=flat-square&color=yellow)](https://github.com/infinri/Writ/stargazers) [![Forks](https://img.shields.io/github/forks/infinri/Writ?style=flat-square&color=blue)](https://github.com/infinri/Writ/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infinri/Writ?style=flat-square&color=yellow)](https://github.com/infinri/Writ/stargazers) [![Forks](https://img.shields.io/github/forks/infinri/Writ?style=flat-square&color=blue)](https://github.com/infinri/Writ/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code harness for AI coding agents. Hybrid-RAG librarian picks relevant rules in 0.59 ms p95 (BM25 + vector + graph traversal); process keeper blocks writes until plan + tests approved. 276 rules / 30 mandatory across 12 domains, 6 cross-language analyzers. Neo4j + Tantivy + hnswlib + ONNX.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend · DevTools
+Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ infinri/Writ 的价值在于，它帮助内部知识变得可搜索和可用，�
 | forks | 28/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

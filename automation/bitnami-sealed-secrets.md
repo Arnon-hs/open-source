@@ -1,6 +1,6 @@
 # bitnami/sealed-secrets
 
-[![Stars](https://img.shields.io/github/stars/bitnami/sealed-secrets?style=flat-square&color=yellow)](https://github.com/bitnami/sealed-secrets/stargazers) [![Forks](https://img.shields.io/github/forks/bitnami/sealed-secrets?style=flat-square&color=blue)](https://github.com/bitnami/sealed-secrets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitnami/sealed-secrets?style=flat-square&color=yellow)](https://github.com/bitnami/sealed-secrets/stargazers) [![Forks](https://img.shields.io/github/forks/bitnami/sealed-secrets?style=flat-square&color=blue)](https://github.com/bitnami/sealed-secrets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes controller and tool for one-way encrypted Secrets
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 774 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Bitnami Sealed Secrets is an open‑source Kubernetes controller and CLI tha
 | forks | 72/100 |
 | stars | 84/100 |
 | topics | 63/100 |
-| outlook | 86/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

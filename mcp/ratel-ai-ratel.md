@@ -1,6 +1,6 @@
 # ratel-ai/ratel
 
-[![Stars](https://img.shields.io/github/stars/ratel-ai/ratel?style=flat-square&color=yellow)](https://github.com/ratel-ai/ratel/stargazers) [![Forks](https://img.shields.io/github/forks/ratel-ai/ratel?style=flat-square&color=blue)](https://github.com/ratel-ai/ratel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ratel-ai/ratel?style=flat-square&color=yellow)](https://github.com/ratel-ai/ratel/stargazers) [![Forks](https://img.shields.io/github/forks/ratel-ai/ratel?style=flat-square&color=blue)](https://github.com/ratel-ai/ratel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Ratel 的生产可用性较高，原因如下：
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # gmickel/gno
 
-[![Stars](https://img.shields.io/github/stars/gmickel/gno?style=flat-square&color=yellow)](https://github.com/gmickel/gno/stargazers) [![Forks](https://img.shields.io/github/forks/gmickel/gno?style=flat-square&color=blue)](https://github.com/gmickel/gno/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gmickel/gno?style=flat-square&color=yellow)](https://github.com/gmickel/gno/stargazers) [![Forks](https://img.shields.io/github/forks/gmickel/gno?style=flat-square&color=blue)](https://github.com/gmickel/gno/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP support for AI clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ gmickel/gno 是一个基于混合检索和大语言模型的本地 AI 文档搜�
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

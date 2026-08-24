@@ -1,6 +1,6 @@
 # Sefaria/Sefaria-Project
 
-[![Stars](https://img.shields.io/github/stars/Sefaria/Sefaria-Project?style=flat-square&color=yellow)](https://github.com/Sefaria/Sefaria-Project/stargazers) [![Forks](https://img.shields.io/github/forks/Sefaria/Sefaria-Project?style=flat-square&color=blue)](https://github.com/Sefaria/Sefaria-Project/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sefaria/Sefaria-Project?style=flat-square&color=yellow)](https://github.com/Sefaria/Sefaria-Project/stargazers) [![Forks](https://img.shields.io/github/forks/Sefaria/Sefaria-Project?style=flat-square&color=blue)](https://github.com/Sefaria/Sefaria-Project/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > New Interfaces for Jewish Texts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Sefaria‑Project 为犹太经典文献提供全新交互界面，旨在让开�
 | forks | 62/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

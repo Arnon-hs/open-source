@@ -1,6 +1,6 @@
 # lvgl/lv_port_pc_vscode
 
-[![Stars](https://img.shields.io/github/stars/lvgl/lv_port_pc_vscode?style=flat-square&color=yellow)](https://github.com/lvgl/lv_port_pc_vscode/stargazers) [![Forks](https://img.shields.io/github/forks/lvgl/lv_port_pc_vscode?style=flat-square&color=blue)](https://github.com/lvgl/lv_port_pc_vscode/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lvgl/lv_port_pc_vscode?style=flat-square&color=yellow)](https://github.com/lvgl/lv_port_pc_vscode/stargazers) [![Forks](https://img.shields.io/github/forks/lvgl/lv_port_pc_vscode?style=flat-square&color=blue)](https://github.com/lvgl/lv_port_pc_vscode/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 517 |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ lvgl/lv_port_pc_vscode 提供了一个基于 VS Code 的 PC 端 LVGL 移植，�
 | forks | 64/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

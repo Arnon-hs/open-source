@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | depth-anything-3 |
 | 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2025-12-11 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -106,6 +106,7 @@ depth-anything/DA3NESTED-GIANT-LARGE-1.1 可能有助于您的深度估计任务
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

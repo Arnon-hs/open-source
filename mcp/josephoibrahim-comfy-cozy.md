@@ -1,6 +1,6 @@
 # JosephOIbrahim/Comfy-Cozy
 
-[![Stars](https://img.shields.io/github/stars/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=yellow)](https://github.com/JosephOIbrahim/Comfy-Cozy/stargazers) [![Forks](https://img.shields.io/github/forks/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=blue)](https://github.com/JosephOIbrahim/Comfy-Cozy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=yellow)](https://github.com/JosephOIbrahim/Comfy-Cozy/stargazers) [![Forks](https://img.shields.io/github/forks/JosephOIbrahim/Comfy-Cozy?style=flat-square&color=blue)](https://github.com/JosephOIbrahim/Comfy-Cozy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI co-pilot for ComfyUI. Talk to your workflow — load, patch, validate, run, learn. 133 MCP tools, zero-LLM artist recipes (dreamier/sharper/faster as instant undoable macros), sub-second re-validate, EXR-aware vision, workflow.lock provenance, five swappable LLM brains (Claude, GPT-4o, Gemini, Ollama, NVIDIA Nemotron), full undo, native sidebar.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Comfy-Cozy 的生产可用性为 Medium。它适合用于原型或内部工作�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

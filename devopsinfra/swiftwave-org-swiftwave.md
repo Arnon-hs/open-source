@@ -1,6 +1,6 @@
 # swiftwave-org/swiftwave
 
-[![Stars](https://img.shields.io/github/stars/swiftwave-org/swiftwave?style=flat-square&color=yellow)](https://github.com/swiftwave-org/swiftwave/stargazers) [![Forks](https://img.shields.io/github/forks/swiftwave-org/swiftwave?style=flat-square&color=blue)](https://github.com/swiftwave-org/swiftwave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swiftwave-org/swiftwave?style=flat-square&color=yellow)](https://github.com/swiftwave-org/swiftwave/stargazers) [![Forks](https://img.shields.io/github/forks/swiftwave-org/swiftwave?style=flat-square&color=blue)](https://github.com/swiftwave-org/swiftwave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 811 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ SwiftWave（swiftwave‑org/swiftwave）是一款基于 Go 的自托管轻量级
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

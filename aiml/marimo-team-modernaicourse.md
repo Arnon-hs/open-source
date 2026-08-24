@@ -1,6 +1,6 @@
 # marimo-team/modernaicourse
 
-[![Stars](https://img.shields.io/github/stars/marimo-team/modernaicourse?style=flat-square&color=yellow)](https://github.com/marimo-team/modernaicourse/stargazers) [![Forks](https://img.shields.io/github/forks/marimo-team/modernaicourse?style=flat-square&color=blue)](https://github.com/marimo-team/modernaicourse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marimo-team/modernaicourse?style=flat-square&color=yellow)](https://github.com/marimo-team/modernaicourse/stargazers) [![Forks](https://img.shields.io/github/forks/marimo-team/modernaicourse?style=flat-square&color=blue)](https://github.com/marimo-team/modernaicourse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A companion to CMU professor Zico Kolter's Intro to Modern AI. Learn the basics of machine learning, then train your own LLM from scratch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ marimo-team/modernaicourse 的生产可用性为中等。它适合用于原型�
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

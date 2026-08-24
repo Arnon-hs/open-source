@@ -1,6 +1,6 @@
 # emarco177/langchain-course
 
-[![Stars](https://img.shields.io/github/stars/emarco177/langchain-course?style=flat-square&color=yellow)](https://github.com/emarco177/langchain-course/stargazers) [![Forks](https://img.shields.io/github/forks/emarco177/langchain-course?style=flat-square&color=blue)](https://github.com/emarco177/langchain-course/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emarco177/langchain-course?style=flat-square&color=yellow)](https://github.com/emarco177/langchain-course/stargazers) [![Forks](https://img.shields.io/github/forks/emarco177/langchain-course?style=flat-square&color=blue)](https://github.com/emarco177/langchain-course/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A project-based course repository for developing AI agents using LangChain v1+ and LangGraph: search agents, RAG systems, reflection agents, and code interpreters.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Education
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ emarco177/langchain-course 是一个开源项目，用于开发使用 LangChain 
 | forks | 86/100 |
 | stars | 68/100 |
 | topics | 75/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

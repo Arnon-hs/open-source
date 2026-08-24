@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | timm |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | 2025-01-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -72,6 +72,7 @@ timm/resnet18.a3_in1k：timm/resnet18.a3_in1k may be useful when its README and 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

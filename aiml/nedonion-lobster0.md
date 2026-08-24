@@ -1,6 +1,6 @@
 # NEDONION/lobster0
 
-[![Stars](https://img.shields.io/github/stars/NEDONION/lobster0?style=flat-square&color=yellow)](https://github.com/NEDONION/lobster0/stargazers) [![Forks](https://img.shields.io/github/forks/NEDONION/lobster0?style=flat-square&color=blue)](https://github.com/NEDONION/lobster0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NEDONION/lobster0?style=flat-square&color=yellow)](https://github.com/NEDONION/lobster0/stargazers) [![Forks](https://img.shields.io/github/forks/NEDONION/lobster0?style=flat-square&color=blue)](https://github.com/NEDONION/lobster0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Lobster0 — a self-hosted OpenClaw-inspired AI agent with persistent memory, governed autonomy, and self-evolution. 受 OpenClaw 启发的自托管 AI Agent「Lobster0」，具备持久记忆、受控自治与自我进化能力
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Lobster0 的生产可用性为中等（Medium），适合用于快速原型开�
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

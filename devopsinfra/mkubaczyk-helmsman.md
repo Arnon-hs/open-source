@@ -1,6 +1,6 @@
 # mkubaczyk/helmsman
 
-[![Stars](https://img.shields.io/github/stars/mkubaczyk/helmsman?style=flat-square&color=yellow)](https://github.com/mkubaczyk/helmsman/stargazers) [![Forks](https://img.shields.io/github/forks/mkubaczyk/helmsman?style=flat-square&color=blue)](https://github.com/mkubaczyk/helmsman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkubaczyk/helmsman?style=flat-square&color=yellow)](https://github.com/mkubaczyk/helmsman/stargazers) [![Forks](https://img.shields.io/github/forks/mkubaczyk/helmsman?style=flat-square&color=blue)](https://github.com/mkubaczyk/helmsman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Helm Charts as Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ mkubaczyk/helmsman 的生产可用性较高，主要原因是：
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

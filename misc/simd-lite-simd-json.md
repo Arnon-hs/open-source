@@ -1,6 +1,6 @@
 # simd-lite/simd-json
 
-[![Stars](https://img.shields.io/github/stars/simd-lite/simd-json?style=flat-square&color=yellow)](https://github.com/simd-lite/simd-json/stargazers) [![Forks](https://img.shields.io/github/forks/simd-lite/simd-json?style=flat-square&color=blue)](https://github.com/simd-lite/simd-json/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simd-lite/simd-json?style=flat-square&color=yellow)](https://github.com/simd-lite/simd-json/stargazers) [![Forks](https://img.shields.io/github/forks/simd-lite/simd-json?style=flat-square&color=blue)](https://github.com/simd-lite/simd-json/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Rust port of simdjson
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ simd-lite/simd-json 的生产可用性为中等。它可以用于开发原型或
 | forks | 50/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

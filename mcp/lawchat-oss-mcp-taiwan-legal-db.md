@@ -1,6 +1,6 @@
 # lawchat-oss/mcp-taiwan-legal-db
 
-[![Stars](https://img.shields.io/github/stars/lawchat-oss/mcp-taiwan-legal-db?style=flat-square&color=yellow)](https://github.com/lawchat-oss/mcp-taiwan-legal-db/stargazers) [![Forks](https://img.shields.io/github/forks/lawchat-oss/mcp-taiwan-legal-db?style=flat-square&color=blue)](https://github.com/lawchat-oss/mcp-taiwan-legal-db/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lawchat-oss/mcp-taiwan-legal-db?style=flat-square&color=yellow)](https://github.com/lawchat-oss/mcp-taiwan-legal-db/stargazers) [![Forks](https://img.shields.io/github/forks/lawchat-oss/mcp-taiwan-legal-db?style=flat-square&color=blue)](https://github.com/lawchat-oss/mcp-taiwan-legal-db/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 台灣司法院判決 + 全國法規資料庫 MCP server · Query Taiwan legal data from any MCP AI agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ lawchat-oss/mcp-taiwan-legal-db 是一个基于 Model Context Protocol（MCP）�
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

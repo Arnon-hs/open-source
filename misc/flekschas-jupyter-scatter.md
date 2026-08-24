@@ -1,6 +1,6 @@
 # flekschas/jupyter-scatter
 
-[![Stars](https://img.shields.io/github/stars/flekschas/jupyter-scatter?style=flat-square&color=yellow)](https://github.com/flekschas/jupyter-scatter/stargazers) [![Forks](https://img.shields.io/github/forks/flekschas/jupyter-scatter?style=flat-square&color=blue)](https://github.com/flekschas/jupyter-scatter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flekschas/jupyter-scatter?style=flat-square&color=yellow)](https://github.com/flekschas/jupyter-scatter/stargazers) [![Forks](https://img.shields.io/github/forks/flekschas/jupyter-scatter?style=flat-square&color=blue)](https://github.com/flekschas/jupyter-scatter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive 2D scatter plot widget for Jupyter Lab and Notebook. Scales to millions of points!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 461 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ flekschas/jupyter‑scatter is an open‑source widget that brings fast, interac
 | forks | 37/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

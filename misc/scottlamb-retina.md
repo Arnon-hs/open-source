@@ -1,6 +1,6 @@
 # scottlamb/retina
 
-[![Stars](https://img.shields.io/github/stars/scottlamb/retina?style=flat-square&color=yellow)](https://github.com/scottlamb/retina/stargazers) [![Forks](https://img.shields.io/github/forks/scottlamb/retina?style=flat-square&color=blue)](https://github.com/scottlamb/retina/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scottlamb/retina?style=flat-square&color=yellow)](https://github.com/scottlamb/retina/stargazers) [![Forks](https://img.shields.io/github/forks/scottlamb/retina?style=flat-square&color=blue)](https://github.com/scottlamb/retina/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > High-level RTSP multimedia streaming library, in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ scottlamb/retina 的生产可用性为中等。由于其 README 和活动不够�
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

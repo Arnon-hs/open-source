@@ -1,6 +1,6 @@
 # caliber-ai-org/ai-setup
 
-[![Stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup?style=flat-square&color=yellow)](https://github.com/caliber-ai-org/ai-setup/stargazers) [![Forks](https://img.shields.io/github/forks/caliber-ai-org/ai-setup?style=flat-square&color=blue)](https://github.com/caliber-ai-org/ai-setup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup?style=flat-square&color=yellow)](https://github.com/caliber-ai-org/ai-setup/stargazers) [![Forks](https://img.shields.io/github/forks/caliber-ai-org/ai-setup?style=flat-square&color=blue)](https://github.com/caliber-ai-org/ai-setup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ caliber-ai-org/ai-setup 是一个开源项目，用于持续同步 AI 设备配�
 | forks | 52/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

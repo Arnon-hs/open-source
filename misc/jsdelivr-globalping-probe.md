@@ -1,6 +1,6 @@
 # jsdelivr/globalping-probe
 
-[![Stars](https://img.shields.io/github/stars/jsdelivr/globalping-probe?style=flat-square&color=yellow)](https://github.com/jsdelivr/globalping-probe/stargazers) [![Forks](https://img.shields.io/github/forks/jsdelivr/globalping-probe?style=flat-square&color=blue)](https://github.com/jsdelivr/globalping-probe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jsdelivr/globalping-probe?style=flat-square&color=yellow)](https://github.com/jsdelivr/globalping-probe/stargazers) [![Forks](https://img.shields.io/github/forks/jsdelivr/globalping-probe?style=flat-square&color=blue)](https://github.com/jsdelivr/globalping-probe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The globalping probe code that runs on your hardware and connects to the global community network of probes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ jsdelivr/globalping-probe 的生产可用性为中等。由于其依赖和维护
 | forks | 40/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

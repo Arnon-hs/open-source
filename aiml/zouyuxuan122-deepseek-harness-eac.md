@@ -1,6 +1,6 @@
 # zouyuxuan122/Deepseek-Harness-EAC
 
-[![Stars](https://img.shields.io/github/stars/zouyuxuan122/Deepseek-Harness-EAC?style=flat-square&color=yellow)](https://github.com/zouyuxuan122/Deepseek-Harness-EAC/stargazers) [![Forks](https://img.shields.io/github/forks/zouyuxuan122/Deepseek-Harness-EAC?style=flat-square&color=blue)](https://github.com/zouyuxuan122/Deepseek-Harness-EAC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zouyuxuan122/Deepseek-Harness-EAC?style=flat-square&color=yellow)](https://github.com/zouyuxuan122/Deepseek-Harness-EAC/stargazers) [![Forks](https://img.shields.io/github/forks/zouyuxuan122/Deepseek-Harness-EAC?style=flat-square&color=blue)](https://github.com/zouyuxuan122/Deepseek-Harness-EAC/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 831 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ zouyuxuan122/Deepseek-Harness-EAC：zouyuxuan122/Deepseek-Harness-EAC helps add 
 | forks | 35/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

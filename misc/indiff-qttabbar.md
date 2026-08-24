@@ -1,6 +1,6 @@
 # indiff/qttabbar
 
-[![Stars](https://img.shields.io/github/stars/indiff/qttabbar?style=flat-square&color=yellow)](https://github.com/indiff/qttabbar/stargazers) [![Forks](https://img.shields.io/github/forks/indiff/qttabbar?style=flat-square&color=blue)](https://github.com/indiff/qttabbar/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indiff/qttabbar?style=flat-square&color=yellow)](https://github.com/indiff/qttabbar/stargazers) [![Forks](https://img.shields.io/github/forks/indiff/qttabbar?style=flat-square&color=blue)](https://github.com/indiff/qttabbar/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 326 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ QTTabBar 的生产可用性很高，因为它有近 4.8 万个 GitHub 星星，3
 | forks | 63/100 |
 | stars | 78/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

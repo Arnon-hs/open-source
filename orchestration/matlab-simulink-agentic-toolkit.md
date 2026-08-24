@@ -1,6 +1,6 @@
 # matlab/simulink-agentic-toolkit
 
-[![Stars](https://img.shields.io/github/stars/matlab/simulink-agentic-toolkit?style=flat-square&color=yellow)](https://github.com/matlab/simulink-agentic-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/matlab/simulink-agentic-toolkit?style=flat-square&color=blue)](https://github.com/matlab/simulink-agentic-toolkit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matlab/simulink-agentic-toolkit?style=flat-square&color=yellow)](https://github.com/matlab/simulink-agentic-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/matlab/simulink-agentic-toolkit?style=flat-square&color=blue)](https://github.com/matlab/simulink-agentic-toolkit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 738 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend · Design
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Matlab/Simulink‑Agentic‑Toolkit 为 AI 代理提供了完整的 Simulink 与
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

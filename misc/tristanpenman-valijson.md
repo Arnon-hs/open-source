@@ -1,6 +1,6 @@
 # tristanpenman/valijson
 
-[![Stars](https://img.shields.io/github/stars/tristanpenman/valijson?style=flat-square&color=yellow)](https://github.com/tristanpenman/valijson/stargazers) [![Forks](https://img.shields.io/github/forks/tristanpenman/valijson?style=flat-square&color=blue)](https://github.com/tristanpenman/valijson/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tristanpenman/valijson?style=flat-square&color=yellow)](https://github.com/tristanpenman/valijson/stargazers) [![Forks](https://img.shields.io/github/forks/tristanpenman/valijson?style=flat-square&color=blue)](https://github.com/tristanpenman/valijson/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Header-only C++ library for JSON Schema validation, with support for many popular parsers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ tristanpenman/valijson 是一个开源项目，提供了一个只包含头文件
 | forks | 52/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

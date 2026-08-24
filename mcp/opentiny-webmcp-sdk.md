@@ -1,6 +1,6 @@
 # opentiny/webmcp-sdk
 
-[![Stars](https://img.shields.io/github/stars/opentiny/webmcp-sdk?style=flat-square&color=yellow)](https://github.com/opentiny/webmcp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/opentiny/webmcp-sdk?style=flat-square&color=blue)](https://github.com/opentiny/webmcp-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opentiny/webmcp-sdk?style=flat-square&color=yellow)](https://github.com/opentiny/webmcp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/opentiny/webmcp-sdk?style=flat-square&color=blue)](https://github.com/opentiny/webmcp-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTiny NEXT-SDKs is a front-end AI and browser automation toolkit. It implements WebMCP + WebSkills to build AI-native apps, and leverages webmcp-cli to enable LLM agents to remote-control any webpage without source code modifications. OpenTiny NEXT-SDKs 是一套前端 AI 与浏览器自动化工具包。它通过 WebMCP + WebSkills 协议构建 AI 原生应用，并利用 webmcp-cli 实现了无需修改源码即可让大模型代理自动控制任
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Frontend
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ OpenTiny WEBMCP-SDK 的典型接入方式包括：
 | forks | 34/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

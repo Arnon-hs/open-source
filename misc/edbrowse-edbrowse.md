@@ -1,6 +1,6 @@
 # edbrowse/edbrowse
 
-[![Stars](https://img.shields.io/github/stars/edbrowse/edbrowse?style=flat-square&color=yellow)](https://github.com/edbrowse/edbrowse/stargazers) [![Forks](https://img.shields.io/github/forks/edbrowse/edbrowse?style=flat-square&color=blue)](https://github.com/edbrowse/edbrowse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edbrowse/edbrowse?style=flat-square&color=yellow)](https://github.com/edbrowse/edbrowse/stargazers) [![Forks](https://img.shields.io/github/forks/edbrowse/edbrowse?style=flat-square&color=blue)](https://github.com/edbrowse/edbrowse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line editor and web browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ edbrowse/edbrowse 的生产可用性为中等（Medium）。它可以用于原�
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

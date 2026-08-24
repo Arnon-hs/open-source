@@ -1,6 +1,6 @@
 # akinncar/react-native-mask-text
 
-[![Stars](https://img.shields.io/github/stars/akinncar/react-native-mask-text?style=flat-square&color=yellow)](https://github.com/akinncar/react-native-mask-text/stargazers) [![Forks](https://img.shields.io/github/forks/akinncar/react-native-mask-text?style=flat-square&color=blue)](https://github.com/akinncar/react-native-mask-text/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akinncar/react-native-mask-text?style=flat-square&color=yellow)](https://github.com/akinncar/react-native-mask-text/stargazers) [![Forks](https://img.shields.io/github/forks/akinncar/react-native-mask-text?style=flat-square&color=blue)](https://github.com/akinncar/react-native-mask-text/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🎭 A React Native and Expo library to mask text and inputs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ akinncar/react-native-mask-text 的生产可用性为中等（Medium）。它适
 | forks | 42/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

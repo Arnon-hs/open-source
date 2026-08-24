@@ -1,6 +1,6 @@
 # rehan1020/MCP-India-Stack
 
-[![Stars](https://img.shields.io/github/stars/rehan1020/MCP-India-Stack?style=flat-square&color=yellow)](https://github.com/rehan1020/MCP-India-Stack/stargazers) [![Forks](https://img.shields.io/github/forks/rehan1020/MCP-India-Stack?style=flat-square&color=blue)](https://github.com/rehan1020/MCP-India-Stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rehan1020/MCP-India-Stack?style=flat-square&color=yellow)](https://github.com/rehan1020/MCP-India-Stack/stargazers) [![Forks](https://img.shields.io/github/forks/rehan1020/MCP-India-Stack?style=flat-square&color=blue)](https://github.com/rehan1020/MCP-India-Stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Indian APIs — GSTIN, IFSC, PAN, UPI, pincode, HSN/SAC. Zero auth. Offline-first. For AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ rehan1020/MCP-India-Stack 是一个基于 Model Context Protocol（MCP）的开�
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

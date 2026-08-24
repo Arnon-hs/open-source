@@ -1,6 +1,6 @@
 # DropsOfZut/awesome-security-weixin-official-accounts
 
-[![Stars](https://img.shields.io/github/stars/DropsOfZut/awesome-security-weixin-official-accounts?style=flat-square&color=yellow)](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts/stargazers) [![Forks](https://img.shields.io/github/forks/DropsOfZut/awesome-security-weixin-official-accounts?style=flat-square&color=blue)](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DropsOfZut/awesome-security-weixin-official-accounts?style=flat-square&color=yellow)](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts/stargazers) [![Forks](https://img.shields.io/github/forks/DropsOfZut/awesome-security-weixin-official-accounts?style=flat-square&color=blue)](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 网络安全类公众号推荐，欢迎大家推荐
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ DropsOfZut/awesome-security-weixin-official-accounts 是一份精选的网络安
 | forks | 62/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

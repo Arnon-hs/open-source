@@ -1,6 +1,6 @@
 # anote-ai/Panacea
 
-[![Stars](https://img.shields.io/github/stars/anote-ai/Panacea?style=flat-square&color=yellow)](https://github.com/anote-ai/Panacea/stargazers) [![Forks](https://img.shields.io/github/forks/anote-ai/Panacea?style=flat-square&color=blue)](https://github.com/anote-ai/Panacea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anote-ai/Panacea?style=flat-square&color=yellow)](https://github.com/anote-ai/Panacea/stargazers) [![Forks](https://img.shields.io/github/forks/anote-ai/Panacea?style=flat-square&color=blue)](https://github.com/anote-ai/Panacea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Panacea is a framework for building collaborative, intelligent multi agent AI systems. The framework provides a robust infrastructure for creating and managing multiple AI agents, and enables developers and organizations to build, deploy, and optimize AI agents that work well in dynamic, complex environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · Product
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Panacea 是一个用于构建协作式、智能多智能体 AI 系统的框架�
 | forks | 30/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

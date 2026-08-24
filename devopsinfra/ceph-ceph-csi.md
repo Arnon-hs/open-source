@@ -1,6 +1,6 @@
 # ceph/ceph-csi
 
-[![Stars](https://img.shields.io/github/stars/ceph/ceph-csi?style=flat-square&color=yellow)](https://github.com/ceph/ceph-csi/stargazers) [![Forks](https://img.shields.io/github/forks/ceph/ceph-csi?style=flat-square&color=blue)](https://github.com/ceph/ceph-csi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ceph/ceph-csi?style=flat-square&color=yellow)](https://github.com/ceph/ceph-csi/stargazers) [![Forks](https://img.shields.io/github/forks/ceph/ceph-csi?style=flat-square&color=blue)](https://github.com/ceph/ceph-csi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > CSI driver for Ceph
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 609 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Ceph CSI 的生产可用性很高，主要原因是：
 | forks | 70/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

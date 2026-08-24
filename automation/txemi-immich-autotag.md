@@ -1,6 +1,6 @@
 # txemi/immich-autotag
 
-[![Stars](https://img.shields.io/github/stars/txemi/immich-autotag?style=flat-square&color=yellow)](https://github.com/txemi/immich-autotag/stargazers) [![Forks](https://img.shields.io/github/forks/txemi/immich-autotag?style=flat-square&color=blue)](https://github.com/txemi/immich-autotag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/txemi/immich-autotag?style=flat-square&color=yellow)](https://github.com/txemi/immich-autotag/stargazers) [![Forks](https://img.shields.io/github/forks/txemi/immich-autotag?style=flat-square&color=blue)](https://github.com/txemi/immich-autotag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Rule engine to batch-organize an Immich photo & video library: auto-create albums, assign tags, fix dates — from a config file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ txemi/immich-autotag 的生产可用性高，理由如下：
 | forks | 15/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # horizontalsystems/unstoppable-wallet-ios
 
-[![Stars](https://img.shields.io/github/stars/horizontalsystems/unstoppable-wallet-ios?style=flat-square&color=yellow)](https://github.com/horizontalsystems/unstoppable-wallet-ios/stargazers) [![Forks](https://img.shields.io/github/forks/horizontalsystems/unstoppable-wallet-ios?style=flat-square&color=blue)](https://github.com/horizontalsystems/unstoppable-wallet-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horizontalsystems/unstoppable-wallet-ios?style=flat-square&color=yellow)](https://github.com/horizontalsystems/unstoppable-wallet-ios/stargazers) [![Forks](https://img.shields.io/github/forks/horizontalsystems/unstoppable-wallet-ios?style=flat-square&color=blue)](https://github.com/horizontalsystems/unstoppable-wallet-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. Non-custodial storage, decentralized exchange, and extensive analytics for thousands of tokens and NFTs. Implemented on Swift.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 892 |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · AI/ML · Data
+Crypto · Trading · Mobile
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ horizontalsystems/unstoppable-wallet-ios 是一个开源项目，提供多钱包
 | forks | 62/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

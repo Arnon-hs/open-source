@@ -1,6 +1,6 @@
 # op7418/CodePilot
 
-[![Stars](https://img.shields.io/github/stars/op7418/CodePilot?style=flat-square&color=yellow)](https://github.com/op7418/CodePilot/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/CodePilot?style=flat-square&color=blue)](https://github.com/op7418/CodePilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/op7418/CodePilot?style=flat-square&color=yellow)](https://github.com/op7418/CodePilot/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/CodePilot?style=flat-square&color=blue)](https://github.com/op7418/CodePilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 651 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ op7418/CodePilot 是一款基于 Electron 与 Next.js 的桌面客户端，支�
 | forks | 70/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 84/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

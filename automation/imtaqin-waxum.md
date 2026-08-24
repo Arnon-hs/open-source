@@ -1,6 +1,6 @@
 # imtaqin/waxum
 
-[![Stars](https://img.shields.io/github/stars/imtaqin/waxum?style=flat-square&color=yellow)](https://github.com/imtaqin/waxum/stargazers) [![Forks](https://img.shields.io/github/forks/imtaqin/waxum?style=flat-square&color=blue)](https://github.com/imtaqin/waxum/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imtaqin/waxum?style=flat-square&color=yellow)](https://github.com/imtaqin/waxum/stargazers) [![Forks](https://img.shields.io/github/forks/imtaqin/waxum?style=flat-square&color=blue)](https://github.com/imtaqin/waxum/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > WhatsApp REST API gateway in Rust. 110+ endpoints across 21 modules — messaging, voice calls (native MLOW + TTS), groups, webhooks + circuit breaker, fleet ops. Multi-session, multi-DB, single binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend
+Automation
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Waxum 的生产可用性被评估为中等（Medium），适合用于原型或�
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

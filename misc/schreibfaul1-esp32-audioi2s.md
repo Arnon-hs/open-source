@@ -1,6 +1,6 @@
 # schreibfaul1/ESP32-audioI2S
 
-[![Stars](https://img.shields.io/github/stars/schreibfaul1/ESP32-audioI2S?style=flat-square&color=yellow)](https://github.com/schreibfaul1/ESP32-audioI2S/stargazers) [![Forks](https://img.shields.io/github/forks/schreibfaul1/ESP32-audioI2S?style=flat-square&color=blue)](https://github.com/schreibfaul1/ESP32-audioI2S/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schreibfaul1/ESP32-audioI2S?style=flat-square&color=yellow)](https://github.com/schreibfaul1/ESP32-audioI2S/stargazers) [![Forks](https://img.shields.io/github/forks/schreibfaul1/ESP32-audioI2S?style=flat-square&color=blue)](https://github.com/schreibfaul1/ESP32-audioI2S/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Play mp3 files from SD via I2S
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 410 |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ schreibfaul1/ESP32-audioI2S 是一个开源项目，允许通过I2S播放SD卡�
 | forks | 65/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

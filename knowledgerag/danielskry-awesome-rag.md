@@ -1,6 +1,6 @@
 # Danielskry/Awesome-RAG
 
-[![Stars](https://img.shields.io/github/stars/Danielskry/Awesome-RAG?style=flat-square&color=yellow)](https://github.com/Danielskry/Awesome-RAG/stargazers) [![Forks](https://img.shields.io/github/forks/Danielskry/Awesome-RAG?style=flat-square&color=blue)](https://github.com/Danielskry/Awesome-RAG/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Danielskry/Awesome-RAG?style=flat-square&color=yellow)](https://github.com/Danielskry/Awesome-RAG/stargazers) [![Forks](https://img.shields.io/github/forks/Danielskry/Awesome-RAG?style=flat-square&color=blue)](https://github.com/Danielskry/Awesome-RAG/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Danielskry/Awesome‑RAG 是一个精选的 Retrieval‑Augmented Generation（R
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

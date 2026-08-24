@@ -1,6 +1,6 @@
 # avivsinai/agent-message-queue
 
-[![Stars](https://img.shields.io/github/stars/avivsinai/agent-message-queue?style=flat-square&color=yellow)](https://github.com/avivsinai/agent-message-queue/stargazers) [![Forks](https://img.shields.io/github/forks/avivsinai/agent-message-queue?style=flat-square&color=blue)](https://github.com/avivsinai/agent-message-queue/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avivsinai/agent-message-queue?style=flat-square&color=yellow)](https://github.com/avivsinai/agent-message-queue/stargazers) [![Forks](https://img.shields.io/github/forks/avivsinai/agent-message-queue?style=flat-square&color=blue)](https://github.com/avivsinai/agent-message-queue/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > File-based message queue for local agent-to-agent communication (Maildir-style)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ avivsinai/agent-message-queue is a Go‑based, file‑system (Maildir‑style) m
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # iamzifei/wechat-article-formatter-skill
 
-[![Stars](https://img.shields.io/github/stars/iamzifei/wechat-article-formatter-skill?style=flat-square&color=yellow)](https://github.com/iamzifei/wechat-article-formatter-skill/stargazers) [![Forks](https://img.shields.io/github/forks/iamzifei/wechat-article-formatter-skill?style=flat-square&color=blue)](https://github.com/iamzifei/wechat-article-formatter-skill/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamzifei/wechat-article-formatter-skill?style=flat-square&color=yellow)](https://github.com/iamzifei/wechat-article-formatter-skill/stargazers) [![Forks](https://img.shields.io/github/forks/iamzifei/wechat-article-formatter-skill?style=flat-square&color=blue)](https://github.com/iamzifei/wechat-article-formatter-skill/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Skill that format Wechat articles for 微信公众号 (微信公众号文章排版，支持自定义样式)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ iamzifei/wechat-article-formatter-skill 的生产可用性为中等。虽然它�
 | forks | 27/100 |
 | stars | 40/100 |
 | topics | 50/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

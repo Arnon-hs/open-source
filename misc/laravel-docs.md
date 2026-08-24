@@ -1,6 +1,6 @@
 # laravel/docs
 
-[![Stars](https://img.shields.io/github/stars/laravel/docs?style=flat-square&color=yellow)](https://github.com/laravel/docs/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/docs?style=flat-square&color=blue)](https://github.com/laravel/docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/docs?style=flat-square&color=yellow)](https://github.com/laravel/docs/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/docs?style=flat-square&color=blue)](https://github.com/laravel/docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The Laravel documentation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 4.9k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Laravel Docs（`laravel/docs`）是 Laravel 官方的文档仓库，提供框架
 | forks | 92/100 |
 | stars | 75/100 |
 | topics | 25/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 80/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

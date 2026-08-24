@@ -1,6 +1,6 @@
 # DaniAkash/agent-terminal
 
-[![Stars](https://img.shields.io/github/stars/DaniAkash/agent-terminal?style=flat-square&color=yellow)](https://github.com/DaniAkash/agent-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/DaniAkash/agent-terminal?style=flat-square&color=blue)](https://github.com/DaniAkash/agent-terminal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaniAkash/agent-terminal?style=flat-square&color=yellow)](https://github.com/DaniAkash/agent-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/DaniAkash/agent-terminal?style=flat-square&color=blue)](https://github.com/DaniAkash/agent-terminal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal that understands AI agents. Project workspaces, live process metrics, and native Claude Code + Codex support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Observability · Product
+AI/ML · Frontend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ DaniAkash/agent‑terminal 是一个基于 TypeScript 的终端工具，能够�
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

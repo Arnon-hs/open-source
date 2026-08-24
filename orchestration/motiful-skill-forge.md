@@ -1,6 +1,6 @@
 # motiful/skill-forge
 
-[![Stars](https://img.shields.io/github/stars/motiful/skill-forge?style=flat-square&color=yellow)](https://github.com/motiful/skill-forge/stargazers) [![Forks](https://img.shields.io/github/forks/motiful/skill-forge?style=flat-square&color=blue)](https://github.com/motiful/skill-forge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/motiful/skill-forge?style=flat-square&color=yellow)](https://github.com/motiful/skill-forge/stargazers) [![Forks](https://img.shields.io/github/forks/motiful/skill-forge?style=flat-square&color=blue)](https://github.com/motiful/skill-forge/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Skill engineering methodology and publishing pipeline for AI agent skills. Validates structure, scans for security, audits entire projects, and publishes to GitHub. Skills are code — engineer them like it.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ motiful/skill-forge：motiful/skill-forge helps turn isolated prompts and tools 
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

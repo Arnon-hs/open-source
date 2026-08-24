@@ -1,6 +1,6 @@
 # licensee/licensee
 
-[![Stars](https://img.shields.io/github/stars/licensee/licensee?style=flat-square&color=yellow)](https://github.com/licensee/licensee/stargazers) [![Forks](https://img.shields.io/github/forks/licensee/licensee?style=flat-square&color=blue)](https://github.com/licensee/licensee/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/licensee/licensee?style=flat-square&color=yellow)](https://github.com/licensee/licensee/stargazers) [![Forks](https://img.shields.io/github/forks/licensee/licensee?style=flat-square&color=blue)](https://github.com/licensee/licensee/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Ruby Gem to detect under what license a project is distributed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 902 |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ Misc
 | forks | 63/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

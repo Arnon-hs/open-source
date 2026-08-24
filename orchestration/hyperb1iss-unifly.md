@@ -1,6 +1,6 @@
 # hyperb1iss/unifly
 
-[![Stars](https://img.shields.io/github/stars/hyperb1iss/unifly?style=flat-square&color=yellow)](https://github.com/hyperb1iss/unifly/stargazers) [![Forks](https://img.shields.io/github/forks/hyperb1iss/unifly?style=flat-square&color=blue)](https://github.com/hyperb1iss/unifly/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperb1iss/unifly?style=flat-square&color=yellow)](https://github.com/hyperb1iss/unifly/stargazers) [![Forks](https://img.shields.io/github/forks/hyperb1iss/unifly?style=flat-square&color=blue)](https://github.com/hyperb1iss/unifly/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ hyperb1iss/unifly 是一款基于 Rust 实现的 UniFi 网络管理工具，提�
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

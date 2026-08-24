@@ -1,6 +1,6 @@
 # NovaSearch-Team/RAG-Retrieval
 
-[![Stars](https://img.shields.io/github/stars/NovaSearch-Team/RAG-Retrieval?style=flat-square&color=yellow)](https://github.com/NovaSearch-Team/RAG-Retrieval/stargazers) [![Forks](https://img.shields.io/github/forks/NovaSearch-Team/RAG-Retrieval?style=flat-square&color=blue)](https://github.com/NovaSearch-Team/RAG-Retrieval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NovaSearch-Team/RAG-Retrieval?style=flat-square&color=yellow)](https://github.com/NovaSearch-Team/RAG-Retrieval/stargazers) [![Forks](https://img.shields.io/github/forks/NovaSearch-Team/RAG-Retrieval?style=flat-square&color=blue)](https://github.com/NovaSearch-Team/RAG-Retrieval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ NovaSearch-Team/RAG‑Retrieval 是一套面向 Retrieval‑Augmented Generation
 | forks | 49/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

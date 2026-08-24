@@ -1,6 +1,6 @@
 # facioquo/stock-indicators-dotnet
 
-[![Stars](https://img.shields.io/github/stars/facioquo/stock-indicators-dotnet?style=flat-square&color=yellow)](https://github.com/facioquo/stock-indicators-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/facioquo/stock-indicators-dotnet?style=flat-square&color=blue)](https://github.com/facioquo/stock-indicators-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facioquo/stock-indicators-dotnet?style=flat-square&color=yellow)](https://github.com/facioquo/stock-indicators-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/facioquo/stock-indicators-dotnet?style=flat-square&color=blue)](https://github.com/facioquo/stock-indicators-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quotes into technical indicators and trading insights. You'll need this essential data in the investment tools that you're building for algorithmic trading, technical analysis, machine learning, or visual charting.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 271 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend · DevTools · Data
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Stock Indicators for .NET 的生产可用性评为高（High）。该包有活�
 | forks | 61/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # gluk-w/claworc
 
-[![Stars](https://img.shields.io/github/stars/gluk-w/claworc?style=flat-square&color=yellow)](https://github.com/gluk-w/claworc/stargazers) [![Forks](https://img.shields.io/github/forks/gluk-w/claworc?style=flat-square&color=blue)](https://github.com/gluk-w/claworc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gluk-w/claworc?style=flat-square&color=yellow)](https://github.com/gluk-w/claworc/stargazers) [![Forks](https://img.shields.io/github/forks/gluk-w/claworc?style=flat-square&color=blue)](https://github.com/gluk-w/claworc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > User-friendly orchestrator for OpenClaw
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 230 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ gluk-w/claworc 是一个面向 OpenClaw 的友好型编排器，帮助开发者�
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

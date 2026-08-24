@@ -1,6 +1,6 @@
 # procrastinate-org/procrastinate
 
-[![Stars](https://img.shields.io/github/stars/procrastinate-org/procrastinate?style=flat-square&color=yellow)](https://github.com/procrastinate-org/procrastinate/stargazers) [![Forks](https://img.shields.io/github/forks/procrastinate-org/procrastinate?style=flat-square&color=blue)](https://github.com/procrastinate-org/procrastinate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/procrastinate-org/procrastinate?style=flat-square&color=yellow)](https://github.com/procrastinate-org/procrastinate/stargazers) [![Forks](https://img.shields.io/github/forks/procrastinate-org/procrastinate?style=flat-square&color=blue)](https://github.com/procrastinate-org/procrastinate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > PostgreSQL-based Task Queue for Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ procrastinate-org/procrastinate 的价值在于，它提供了一个高效的任
 | forks | 51/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

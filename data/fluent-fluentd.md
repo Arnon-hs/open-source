@@ -1,6 +1,6 @@
 # fluent/fluentd
 
-[![Stars](https://img.shields.io/github/stars/fluent/fluentd?style=flat-square&color=yellow)](https://github.com/fluent/fluentd/stargazers) [![Forks](https://img.shields.io/github/forks/fluent/fluentd?style=flat-square&color=blue)](https://github.com/fluent/fluentd/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluent/fluentd?style=flat-square&color=yellow)](https://github.com/fluent/fluentd/stargazers) [![Forks](https://img.shields.io/github/forks/fluent/fluentd?style=flat-square&color=blue)](https://github.com/fluent/fluentd/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fluentd: Unified Logging Layer (project under CNCF)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Fluentd具有高生产可用性，其最近的活动、采用和生态系统信�
 | forks | 79/100 |
 | stars | 88/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 85/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

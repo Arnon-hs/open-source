@@ -1,6 +1,6 @@
 # aartiq/servicenow-mcp
 
-[![Stars](https://img.shields.io/github/stars/aartiq/servicenow-mcp?style=flat-square&color=yellow)](https://github.com/aartiq/servicenow-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aartiq/servicenow-mcp?style=flat-square&color=blue)](https://github.com/aartiq/servicenow-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aartiq/servicenow-mcp?style=flat-square&color=yellow)](https://github.com/aartiq/servicenow-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aartiq/servicenow-mcp?style=flat-square&color=blue)](https://github.com/aartiq/servicenow-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready ServiceNow MCP server — 400+ tools for ITSM, ITOM, CMDB, HRSD, CSM, Flow Designer & scripting. Connect Claude, ChatGPT, Gemini, Cursor & any AI. Part of the NowAIKit suite.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ aartiq/servicenow-mcp 是一套面向生产环境的 ServiceNow MCP（Model Cont
 | forks | 37/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

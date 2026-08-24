@@ -1,6 +1,6 @@
 # rockerBOO/awesome-neovim
 
-[![Stars](https://img.shields.io/github/stars/rockerBOO/awesome-neovim?style=flat-square&color=yellow)](https://github.com/rockerBOO/awesome-neovim/stargazers) [![Forks](https://img.shields.io/github/forks/rockerBOO/awesome-neovim?style=flat-square&color=blue)](https://github.com/rockerBOO/awesome-neovim/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rockerBOO/awesome-neovim?style=flat-square&color=yellow)](https://github.com/rockerBOO/awesome-neovim/stargazers) [![Forks](https://img.shields.io/github/forks/rockerBOO/awesome-neovim?style=flat-square&color=blue)](https://github.com/rockerBOO/awesome-neovim/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Collections of awesome neovim plugins.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.3k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ rockerBOO/awesome-neovim 的价值在于，它可以帮助开发者找到适合�
 | forks | 75/100 |
 | stars | 92/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 84/100 |
+| recency | 80/100 |
 | adoption | 87/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

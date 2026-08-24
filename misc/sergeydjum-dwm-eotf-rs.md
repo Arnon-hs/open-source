@@ -1,6 +1,6 @@
 # SERGEYDJUM/dwm_eotf_rs
 
-[![Stars](https://img.shields.io/github/stars/SERGEYDJUM/dwm_eotf_rs?style=flat-square&color=yellow)](https://github.com/SERGEYDJUM/dwm_eotf_rs/stargazers) [![Forks](https://img.shields.io/github/forks/SERGEYDJUM/dwm_eotf_rs?style=flat-square&color=blue)](https://github.com/SERGEYDJUM/dwm_eotf_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SERGEYDJUM/dwm_eotf_rs?style=flat-square&color=yellow)](https://github.com/SERGEYDJUM/dwm_eotf_rs/stargazers) [![Forks](https://img.shields.io/github/forks/SERGEYDJUM/dwm_eotf_rs?style=flat-square&color=blue)](https://github.com/SERGEYDJUM/dwm_eotf_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Utility that fixes Windows sRGB to scRGB "gamma" by patching DWM shaders
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ SERGEYDJUM/dwm_eotf_rs 的价值在于，它可以帮助开发者在 Windows 上
 | forks | 12/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 66/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

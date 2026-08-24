@@ -1,6 +1,6 @@
 # dokuwiki/dokuwiki
 
-[![Stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=flat-square&color=yellow)](https://github.com/dokuwiki/dokuwiki/stargazers) [![Forks](https://img.shields.io/github/forks/dokuwiki/dokuwiki?style=flat-square&color=blue)](https://github.com/dokuwiki/dokuwiki/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=flat-square&color=yellow)](https://github.com/dokuwiki/dokuwiki/stargazers) [![Forks](https://img.shields.io/github/forks/dokuwiki/dokuwiki?style=flat-square&color=blue)](https://github.com/dokuwiki/dokuwiki/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The DokuWiki Open Source Wiki Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 918 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ DokuWiki 是一款基于纯文本文件的开源 Wiki 引擎，使用 PHP 开发
 | forks | 74/100 |
 | stars | 78/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

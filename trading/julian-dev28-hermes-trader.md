@@ -1,6 +1,6 @@
 # Julian-dev28/hermes-trader
 
-[![Stars](https://img.shields.io/github/stars/Julian-dev28/hermes-trader?style=flat-square&color=yellow)](https://github.com/Julian-dev28/hermes-trader/stargazers) [![Forks](https://img.shields.io/github/forks/Julian-dev28/hermes-trader?style=flat-square&color=blue)](https://github.com/Julian-dev28/hermes-trader/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Julian-dev28/hermes-trader?style=flat-square&color=yellow)](https://github.com/Julian-dev28/hermes-trader/stargazers) [![Forks](https://img.shields.io/github/forks/Julian-dev28/hermes-trader?style=flat-square&color=blue)](https://github.com/Julian-dev28/hermes-trader/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ This open‑source project showcases the architecture that reduced the token con
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 35/100 |
+| quality | 25/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 32/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

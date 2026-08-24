@@ -1,6 +1,6 @@
 # kaythomas0/noisedash
 
-[![Stars](https://img.shields.io/github/stars/kaythomas0/noisedash?style=flat-square&color=yellow)](https://github.com/kaythomas0/noisedash/stargazers) [![Forks](https://img.shields.io/github/forks/kaythomas0/noisedash?style=flat-square&color=blue)](https://github.com/kaythomas0/noisedash/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaythomas0/noisedash?style=flat-square&color=yellow)](https://github.com/kaythomas0/noisedash/stargazers) [![Forks](https://img.shields.io/github/forks/kaythomas0/noisedash?style=flat-square&color=blue)](https://github.com/kaythomas0/noisedash/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable web tool for generating ambient noises
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 362 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ noisedash 能显著降低在产品 UI 中加入环境音的开发成本，尤其
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

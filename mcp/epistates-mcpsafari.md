@@ -1,6 +1,6 @@
 # Epistates/MCPSafari
 
-[![Stars](https://img.shields.io/github/stars/Epistates/MCPSafari?style=flat-square&color=yellow)](https://github.com/Epistates/MCPSafari/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/MCPSafari?style=flat-square&color=blue)](https://github.com/Epistates/MCPSafari/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epistates/MCPSafari?style=flat-square&color=yellow)](https://github.com/Epistates/MCPSafari/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/MCPSafari?style=flat-square&color=blue)](https://github.com/Epistates/MCPSafari/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MCPSafari: Native Safari MCP Server for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Epistates/MCPSafari 的生产可用性为中等（Medium）。它适用于原型
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

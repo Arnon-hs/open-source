@@ -1,6 +1,6 @@
 # EpicGames/lore
 
-[![Stars](https://img.shields.io/github/stars/EpicGames/lore?style=flat-square&color=yellow)](https://github.com/EpicGames/lore/stargazers) [![Forks](https://img.shields.io/github/forks/EpicGames/lore?style=flat-square&color=blue)](https://github.com/EpicGames/lore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EpicGames/lore?style=flat-square&color=yellow)](https://github.com/EpicGames/lore/stargazers) [![Forks](https://img.shields.io/github/forks/EpicGames/lore?style=flat-square&color=blue)](https://github.com/EpicGames/lore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Lore is a next-generation, open source version control system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Lore 是 EpicGames 开源的下一代分布式版本控制系统，使用 Rust �
 | forks | 60/100 |
 | stars | 81/100 |
 | topics | 13/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

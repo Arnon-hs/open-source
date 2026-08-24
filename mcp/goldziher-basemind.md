@@ -1,6 +1,6 @@
 # Goldziher/basemind
 
-[![Stars](https://img.shields.io/github/stars/Goldziher/basemind?style=flat-square&color=yellow)](https://github.com/Goldziher/basemind/stargazers) [![Forks](https://img.shields.io/github/forks/Goldziher/basemind?style=flat-square&color=blue)](https://github.com/Goldziher/basemind/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Goldziher/basemind?style=flat-square&color=yellow)](https://github.com/Goldziher/basemind/stargazers) [![Forks](https://img.shields.io/github/forks/Goldziher/basemind?style=flat-square&color=blue)](https://github.com/Goldziher/basemind/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Full AI context layer for coding agents — code-map, document RAG, shared memory, web crawl, git history. 300+ languages, one MCP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Goldziher/basemind 是一个面向代码智能体的全栈 AI 上下文层，提
 | forks | 19/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

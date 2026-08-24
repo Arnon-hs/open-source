@@ -1,6 +1,6 @@
 # Ibexoft/awesome-startup-tools-list
 
-[![Stars](https://img.shields.io/github/stars/Ibexoft/awesome-startup-tools-list?style=flat-square&color=yellow)](https://github.com/Ibexoft/awesome-startup-tools-list/stargazers) [![Forks](https://img.shields.io/github/forks/Ibexoft/awesome-startup-tools-list?style=flat-square&color=blue)](https://github.com/Ibexoft/awesome-startup-tools-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ibexoft/awesome-startup-tools-list?style=flat-square&color=yellow)](https://github.com/Ibexoft/awesome-startup-tools-list/stargazers) [![Forks](https://img.shields.io/github/forks/Ibexoft/awesome-startup-tools-list?style=flat-square&color=blue)](https://github.com/Ibexoft/awesome-startup-tools-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > List of all tools (apps, services) that startups should use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Design · Marketing · Product
+Design · Marketing
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Ibexoft/awesome-startup-tools-list 的价值在于，它可以帮助初创公司
 | forks | 61/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

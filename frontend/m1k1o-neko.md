@@ -1,6 +1,6 @@
 # m1k1o/neko
 
-[![Stars](https://img.shields.io/github/stars/m1k1o/neko?style=flat-square&color=yellow)](https://github.com/m1k1o/neko/stargazers) [![Forks](https://img.shields.io/github/forks/m1k1o/neko?style=flat-square&color=blue)](https://github.com/m1k1o/neko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/m1k1o/neko?style=flat-square&color=yellow)](https://github.com/m1k1o/neko/stargazers) [![Forks](https://img.shields.io/github/forks/m1k1o/neko?style=flat-square&color=blue)](https://github.com/m1k1o/neko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A self hosted virtual browser that runs in docker and uses WebRTC.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.8k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ m1k1o/neko 的生产可用性非常高。它有以下特点：
 | forks | 80/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 85/100 |
+| recency | 60/100 |
 | adoption | 89/100 |
-| production | 84/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # superdesigndev/tools-registry
 
-[![Stars](https://img.shields.io/github/stars/superdesigndev/tools-registry?style=flat-square&color=yellow)](https://github.com/superdesigndev/tools-registry/stargazers) [![Forks](https://img.shields.io/github/forks/superdesigndev/tools-registry?style=flat-square&color=blue)](https://github.com/superdesigndev/tools-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superdesigndev/tools-registry?style=flat-square&color=yellow)](https://github.com/superdesigndev/tools-registry/stargazers) [![Forks](https://img.shields.io/github/forks/superdesigndev/tools-registry?style=flat-square&color=blue)](https://github.com/superdesigndev/tools-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Shared Skill & Secret vault for your team and agents, without leaking keys. Join community here: https://discord.gg/6mQYYfFMAn
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Design
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ superdesigndev/tools-registry 的生产可用性很高，因为它有以下特�
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

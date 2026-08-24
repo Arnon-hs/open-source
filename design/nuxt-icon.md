@@ -1,6 +1,6 @@
 # nuxt/icon
 
-[![Stars](https://img.shields.io/github/stars/nuxt/icon?style=flat-square&color=yellow)](https://github.com/nuxt/icon/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/icon?style=flat-square&color=blue)](https://github.com/nuxt/icon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt/icon?style=flat-square&color=yellow)](https://github.com/nuxt/icon/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/icon?style=flat-square&color=blue)](https://github.com/nuxt/icon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The <Icon> component, supporting Iconify, Emojis and custom components.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ nuxt/icon 的生产可用性为中等。由于其依赖项和维护情况需要�
 | forks | 49/100 |
 | stars | 65/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

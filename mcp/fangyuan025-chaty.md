@@ -1,6 +1,6 @@
 # Fangyuan025/Chaty
 
-[![Stars](https://img.shields.io/github/stars/Fangyuan025/Chaty?style=flat-square&color=yellow)](https://github.com/Fangyuan025/Chaty/stargazers) [![Forks](https://img.shields.io/github/forks/Fangyuan025/Chaty?style=flat-square&color=blue)](https://github.com/Fangyuan025/Chaty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fangyuan025/Chaty?style=flat-square&color=yellow)](https://github.com/Fangyuan025/Chaty/stargazers) [![Forks](https://img.shields.io/github/forks/Fangyuan025/Chaty?style=flat-square&color=blue)](https://github.com/Fangyuan025/Chaty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Private, on-device AI desktop app — GGUF (llama.cpp) & MLX models, a local coding agent, RAG knowledge base, Deep Research, vision and voice. 100% offline, no account, no telemetry. Windows & macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Design
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Chaty 在生产环境中的可用性为中等（Medium）。它适合用于原�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

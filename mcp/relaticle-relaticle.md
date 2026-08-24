@@ -1,6 +1,6 @@
 # relaticle/relaticle
 
-[![Stars](https://img.shields.io/github/stars/relaticle/relaticle?style=flat-square&color=yellow)](https://github.com/relaticle/relaticle/stargazers) [![Forks](https://img.shields.io/github/forks/relaticle/relaticle?style=flat-square&color=blue)](https://github.com/relaticle/relaticle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/relaticle/relaticle?style=flat-square&color=yellow)](https://github.com/relaticle/relaticle/stargazers) [![Forks](https://img.shields.io/github/forks/relaticle/relaticle?style=flat-square&color=blue)](https://github.com/relaticle/relaticle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Product
+MCP · AI/ML · Product
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ relaticle/relaticle 是一款基于 Laravel 与 Filament 构建的开源 CRM 系
 | forks | 54/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

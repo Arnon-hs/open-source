@@ -1,6 +1,6 @@
 # epheterson/applemusic-mcp
 
-[![Stars](https://img.shields.io/github/stars/epheterson/applemusic-mcp?style=flat-square&color=yellow)](https://github.com/epheterson/applemusic-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/epheterson/applemusic-mcp?style=flat-square&color=blue)](https://github.com/epheterson/applemusic-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epheterson/applemusic-mcp?style=flat-square&color=yellow)](https://github.com/epheterson/applemusic-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/epheterson/applemusic-mcp?style=flat-square&color=blue)](https://github.com/epheterson/applemusic-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Apple Music MCP server: playlists, library, catalog, playback and the Up Next queue, on macOS, Windows and Linux. A Mac or an Apple Music subscription is all you need.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ epheterson/applemusic-mcp：epheterson/applemusic-mcp helps integrate monetizati
 | forks | 30/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kandada/fastclaw
 
-[![Stars](https://img.shields.io/github/stars/kandada/fastclaw?style=flat-square&color=yellow)](https://github.com/kandada/fastclaw/stargazers) [![Forks](https://img.shields.io/github/forks/kandada/fastclaw?style=flat-square&color=blue)](https://github.com/kandada/fastclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kandada/fastclaw?style=flat-square&color=yellow)](https://github.com/kandada/fastclaw/stargazers) [![Forks](https://img.shields.io/github/forks/kandada/fastclaw?style=flat-square&color=blue)](https://github.com/kandada/fastclaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A python-based light but strong lobster. A lightweight but powerful AI Agent framework in Python, with multi-channel support, tool calling, cron scheduling and streaming output
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ kandada/fastclaw 是一款基于 Python 的轻量级 AI Agent 框架，提供多
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

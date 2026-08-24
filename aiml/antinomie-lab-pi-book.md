@@ -1,6 +1,6 @@
 # antinomie-lab/pi-book
 
-[![Stars](https://img.shields.io/github/stars/antinomie-lab/pi-book?style=flat-square&color=yellow)](https://github.com/antinomie-lab/pi-book/stargazers) [![Forks](https://img.shields.io/github/forks/antinomie-lab/pi-book?style=flat-square&color=blue)](https://github.com/antinomie-lab/pi-book/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antinomie-lab/pi-book?style=flat-square&color=yellow)](https://github.com/antinomie-lab/pi-book/stargazers) [![Forks](https://img.shields.io/github/forks/antinomie-lab/pi-book?style=flat-square&color=blue)](https://github.com/antinomie-lab/pi-book/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Source-backed architecture notes on building an agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 253 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ antinomie-lab/pi-book 是一个开源项目，提供了基于源码的架构笔�
 | forks | 21/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

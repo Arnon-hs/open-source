@@ -1,6 +1,6 @@
 # thedaviddias/Front-End-Checklist
 
-[![Stars](https://img.shields.io/github/stars/thedaviddias/Front-End-Checklist?style=flat-square&color=yellow)](https://github.com/thedaviddias/Front-End-Checklist/stargazers) [![Forks](https://img.shields.io/github/forks/thedaviddias/Front-End-Checklist?style=flat-square&color=blue)](https://github.com/thedaviddias/Front-End-Checklist/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thedaviddias/Front-End-Checklist?style=flat-square&color=yellow)](https://github.com/thedaviddias/Front-End-Checklist/stargazers) [![Forks](https://img.shields.io/github/forks/thedaviddias/Front-End-Checklist?style=flat-square&color=blue)](https://github.com/thedaviddias/Front-End-Checklist/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 🗂 The essential checklist for modern web development, for humans and AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73.5k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ thedaviddias/Front-End-Checklist 是一个现代 web 开发的必备检查清单
 | forks | 96/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 87/100 |
+| quality | 94/100 |
+| recency | 80/100 |
 | adoption | 99/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

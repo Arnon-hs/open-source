@@ -1,6 +1,6 @@
 # Payum/Payum
 
-[![Stars](https://img.shields.io/github/stars/Payum/Payum?style=flat-square&color=yellow)](https://github.com/Payum/Payum/stargazers) [![Forks](https://img.shields.io/github/forks/Payum/Payum?style=flat-square&color=blue)](https://github.com/Payum/Payum/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Payum/Payum?style=flat-square&color=yellow)](https://github.com/Payum/Payum/stargazers) [![Forks](https://img.shields.io/github/forks/Payum/Payum?style=flat-square&color=blue)](https://github.com/Payum/Payum/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Security
+Payments
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Payum/Payum 的生产可用性较高，主要原因包括：
 | forks | 64/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

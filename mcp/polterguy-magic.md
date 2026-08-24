@@ -1,6 +1,6 @@
 # polterguy/magic
 
-[![Stars](https://img.shields.io/github/stars/polterguy/magic?style=flat-square&color=yellow)](https://github.com/polterguy/magic/stargazers) [![Forks](https://img.shields.io/github/forks/polterguy/magic?style=flat-square&color=blue)](https://github.com/polterguy/magic/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polterguy/magic?style=flat-square&color=yellow)](https://github.com/polterguy/magic/stargazers) [![Forks](https://img.shields.io/github/forks/polterguy/magic?style=flat-square&color=blue)](https://github.com/polterguy/magic/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Fully Autonomous AI-based Software Development Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ polterguy/magic 是一个 **全自动 AI 驱动的软件开发助理**，通过�
 | forks | 56/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

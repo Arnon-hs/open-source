@@ -1,6 +1,6 @@
 # delorenj/mcp-server-trello
 
-[![Stars](https://img.shields.io/github/stars/delorenj/mcp-server-trello?style=flat-square&color=yellow)](https://github.com/delorenj/mcp-server-trello/stargazers) [![Forks](https://img.shields.io/github/forks/delorenj/mcp-server-trello?style=flat-square&color=blue)](https://github.com/delorenj/mcp-server-trello/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/delorenj/mcp-server-trello?style=flat-square&color=yellow)](https://github.com/delorenj/mcp-server-trello/stargazers) [![Forks](https://img.shields.io/github/forks/delorenj/mcp-server-trello?style=flat-square&color=blue)](https://github.com/delorenj/mcp-server-trello/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides tools for interacting with Trello boards.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ delorenj/mcp-server-trello 的生产可用性为中等，适合用于原型或�
 | forks | 53/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

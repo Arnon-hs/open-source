@@ -1,6 +1,6 @@
 # joeynyc/Grok-UI
 
-[![Stars](https://img.shields.io/github/stars/joeynyc/Grok-UI?style=flat-square&color=yellow)](https://github.com/joeynyc/Grok-UI/stargazers) [![Forks](https://img.shields.io/github/forks/joeynyc/Grok-UI?style=flat-square&color=blue)](https://github.com/joeynyc/Grok-UI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joeynyc/Grok-UI?style=flat-square&color=yellow)](https://github.com/joeynyc/Grok-UI/stargazers) [![Forks](https://img.shields.io/github/forks/joeynyc/Grok-UI?style=flat-square&color=blue)](https://github.com/joeynyc/Grok-UI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first live command center for Grok Build — runtime, ACP control, session history, and Git changes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ joeynyc/Grok-UI 的生产可用性很高，原因如下：
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

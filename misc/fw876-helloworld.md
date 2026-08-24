@@ -1,6 +1,6 @@
 # fw876/helloworld
 
-[![Stars](https://img.shields.io/github/stars/fw876/helloworld?style=flat-square&color=yellow)](https://github.com/fw876/helloworld/stargazers) [![Forks](https://img.shields.io/github/forks/fw876/helloworld?style=flat-square&color=blue)](https://github.com/fw876/helloworld/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fw876/helloworld?style=flat-square&color=yellow)](https://github.com/fw876/helloworld/stargazers) [![Forks](https://img.shields.io/github/forks/fw876/helloworld?style=flat-square&color=blue)](https://github.com/fw876/helloworld/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ fw876/helloworld - это проект с открытым исходным ко
 | forks | 86/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

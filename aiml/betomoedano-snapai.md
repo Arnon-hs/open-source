@@ -1,6 +1,6 @@
 # betomoedano/snapai
 
-[![Stars](https://img.shields.io/github/stars/betomoedano/snapai?style=flat-square&color=yellow)](https://github.com/betomoedano/snapai/stargazers) [![Forks](https://img.shields.io/github/forks/betomoedano/snapai?style=flat-square&color=blue)](https://github.com/betomoedano/snapai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/betomoedano/snapai?style=flat-square&color=yellow)](https://github.com/betomoedano/snapai/stargazers) [![Forks](https://img.shields.io/github/forks/betomoedano/snapai?style=flat-square&color=blue)](https://github.com/betomoedano/snapai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ betomoedano/snapai 在生产环境中具有较高的可用性，主要原因是�
 | forks | 52/100 |
 | stars | 70/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

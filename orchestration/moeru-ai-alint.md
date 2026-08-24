@@ -1,6 +1,6 @@
 # moeru-ai/alint
 
-[![Stars](https://img.shields.io/github/stars/moeru-ai/alint?style=flat-square&color=yellow)](https://github.com/moeru-ai/alint/stargazers) [![Forks](https://img.shields.io/github/forks/moeru-ai/alint?style=flat-square&color=blue)](https://github.com/moeru-ai/alint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moeru-ai/alint?style=flat-square&color=yellow)](https://github.com/moeru-ai/alint/stargazers) [![Forks](https://img.shields.io/github/forks/moeru-ai/alint?style=flat-square&color=blue)](https://github.com/moeru-ai/alint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖🤮 Hate the yuck codes that agents generated? Try `alint`, a ESLint like toolchain for intent driven code check, freeze your skills, AGENTS.md to lint rules
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ moeru-ai/alint 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 48/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

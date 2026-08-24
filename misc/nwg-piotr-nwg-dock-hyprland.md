@@ -1,6 +1,6 @@
 # nwg-piotr/nwg-dock-hyprland
 
-[![Stars](https://img.shields.io/github/stars/nwg-piotr/nwg-dock-hyprland?style=flat-square&color=yellow)](https://github.com/nwg-piotr/nwg-dock-hyprland/stargazers) [![Forks](https://img.shields.io/github/forks/nwg-piotr/nwg-dock-hyprland?style=flat-square&color=blue)](https://github.com/nwg-piotr/nwg-dock-hyprland/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nwg-piotr/nwg-dock-hyprland?style=flat-square&color=yellow)](https://github.com/nwg-piotr/nwg-dock-hyprland/stargazers) [![Forks](https://img.shields.io/github/forks/nwg-piotr/nwg-dock-hyprland?style=flat-square&color=blue)](https://github.com/nwg-piotr/nwg-dock-hyprland/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > GTK3-based dock for Hyprland
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ nwg-piotr/nwg-dock-hyprland：nwg-piotr/nwg-dock-hyprland may be useful when its
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

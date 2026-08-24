@@ -1,6 +1,6 @@
 # vystartasv/ora
 
-[![Stars](https://img.shields.io/github/stars/vystartasv/ora?style=flat-square&color=yellow)](https://github.com/vystartasv/ora/stargazers) [![Forks](https://img.shields.io/github/forks/vystartasv/ora?style=flat-square&color=blue)](https://github.com/vystartasv/ora/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vystartasv/ora?style=flat-square&color=yellow)](https://github.com/vystartasv/ora/stargazers) [![Forks](https://img.shields.io/github/forks/vystartasv/ora?style=flat-square&color=blue)](https://github.com/vystartasv/ora/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): I Built a Task Orchestrator, Then Deleted Its Best Number
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ I Built a Task Orchestrator, Then Deleted Its Best Number 是一个开源项目�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 30/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 41/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

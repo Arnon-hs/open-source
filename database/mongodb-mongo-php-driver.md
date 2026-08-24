@@ -1,6 +1,6 @@
 # mongodb/mongo-php-driver
 
-[![Stars](https://img.shields.io/github/stars/mongodb/mongo-php-driver?style=flat-square&color=yellow)](https://github.com/mongodb/mongo-php-driver/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongo-php-driver?style=flat-square&color=blue)](https://github.com/mongodb/mongo-php-driver/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mongodb/mongo-php-driver?style=flat-square&color=yellow)](https://github.com/mongodb/mongo-php-driver/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongo-php-driver?style=flat-square&color=blue)](https://github.com/mongodb/mongo-php-driver/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Official MongoDB PHP driver
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 922 |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ MongoDB PHP 驱动（mongodb/mongo-php-driver）是 MongoDB 的官方 PHP 驱动
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

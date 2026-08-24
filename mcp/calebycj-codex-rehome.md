@@ -1,6 +1,6 @@
 # CalebYcj/codex-rehome
 
-[![Stars](https://img.shields.io/github/stars/CalebYcj/codex-rehome?style=flat-square&color=yellow)](https://github.com/CalebYcj/codex-rehome/stargazers) [![Forks](https://img.shields.io/github/forks/CalebYcj/codex-rehome?style=flat-square&color=blue)](https://github.com/CalebYcj/codex-rehome/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CalebYcj/codex-rehome?style=flat-square&color=yellow)](https://github.com/CalebYcj/codex-rehome/stargazers) [![Forks](https://img.shields.io/github/forks/CalebYcj/codex-rehome?style=flat-square&color=blue)](https://github.com/CalebYcj/codex-rehome/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Offline Codex Desktop migration for Windows and macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ CalebYcj/codex-rehome 的生产可用性很高，主要原因是：
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

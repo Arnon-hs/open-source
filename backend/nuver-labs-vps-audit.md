@@ -1,6 +1,6 @@
 # Nuver-Labs/vps-audit
 
-[![Stars](https://img.shields.io/github/stars/Nuver-Labs/vps-audit?style=flat-square&color=yellow)](https://github.com/Nuver-Labs/vps-audit/stargazers) [![Forks](https://img.shields.io/github/forks/Nuver-Labs/vps-audit?style=flat-square&color=blue)](https://github.com/Nuver-Labs/vps-audit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nuver-Labs/vps-audit?style=flat-square&color=yellow)](https://github.com/Nuver-Labs/vps-audit/stargazers) [![Forks](https://img.shields.io/github/forks/Nuver-Labs/vps-audit?style=flat-square&color=blue)](https://github.com/Nuver-Labs/vps-audit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · Observability · DevOps/Infra · Security
+Backend · Observability · Security
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Nuver-Labs/vps-audit 已经被广泛采用和更新，具有很高的生产可
 | forks | 59/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # GiovanniPasq/chunky
 
-[![Stars](https://img.shields.io/github/stars/GiovanniPasq/chunky?style=flat-square&color=yellow)](https://github.com/GiovanniPasq/chunky/stargazers) [![Forks](https://img.shields.io/github/forks/GiovanniPasq/chunky?style=flat-square&color=blue)](https://github.com/GiovanniPasq/chunky/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GiovanniPasq/chunky?style=flat-square&color=yellow)](https://github.com/GiovanniPasq/chunky/stargazers) [![Forks](https://img.shields.io/github/forks/GiovanniPasq/chunky?style=flat-square&color=blue)](https://github.com/GiovanniPasq/chunky/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source toolkit for reliable RAG pipelines: convert PDFs to Markdown, clean documents, inspect chunks, compare chunking strategies, and enrich metadata for LLM applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · DevTools · Data
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ GiovanniPasq/chunky 帮助将孤立的提示和工具转化为可重复的代理
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

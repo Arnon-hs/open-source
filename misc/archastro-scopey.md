@@ -1,6 +1,6 @@
 # ArchAstro/scopey
 
-[![Stars](https://img.shields.io/github/stars/ArchAstro/scopey?style=flat-square&color=yellow)](https://github.com/ArchAstro/scopey/stargazers) [![Forks](https://img.shields.io/github/forks/ArchAstro/scopey?style=flat-square&color=blue)](https://github.com/ArchAstro/scopey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArchAstro/scopey?style=flat-square&color=yellow)](https://github.com/ArchAstro/scopey/stargazers) [![Forks](https://img.shields.io/github/forks/ArchAstro/scopey?style=flat-square&color=blue)](https://github.com/ArchAstro/scopey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ ArchAstro/scopey 的生产可用性为中等。它适合用于原型开发或内
 | forks | 12/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 65/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

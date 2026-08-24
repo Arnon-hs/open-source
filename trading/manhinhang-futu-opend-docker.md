@@ -1,6 +1,6 @@
 # manhinhang/futu-opend-docker
 
-[![Stars](https://img.shields.io/github/stars/manhinhang/futu-opend-docker?style=flat-square&color=yellow)](https://github.com/manhinhang/futu-opend-docker/stargazers) [![Forks](https://img.shields.io/github/forks/manhinhang/futu-opend-docker?style=flat-square&color=blue)](https://github.com/manhinhang/futu-opend-docker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manhinhang/futu-opend-docker?style=flat-square&color=yellow)](https://github.com/manhinhang/futu-opend-docker/stargazers) [![Forks](https://img.shields.io/github/forks/manhinhang/futu-opend-docker?style=flat-square&color=blue)](https://github.com/manhinhang/futu-opend-docker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > lightweight futu opend docker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ manhinhang/futu-opend-docker：manhinhang/futu-opend-docker helps research and a
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

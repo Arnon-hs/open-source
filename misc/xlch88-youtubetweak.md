@@ -1,6 +1,6 @@
 # xlch88/YouTubeTweak
 
-[![Stars](https://img.shields.io/github/stars/xlch88/YouTubeTweak?style=flat-square&color=yellow)](https://github.com/xlch88/YouTubeTweak/stargazers) [![Forks](https://img.shields.io/github/forks/xlch88/YouTubeTweak?style=flat-square&color=blue)](https://github.com/xlch88/YouTubeTweak/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xlch88/YouTubeTweak?style=flat-square&color=yellow)](https://github.com/xlch88/YouTubeTweak/stargazers) [![Forks](https://img.shields.io/github/forks/xlch88/YouTubeTweak?style=flat-square&color=blue)](https://github.com/xlch88/YouTubeTweak/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Packed with all the features you want: lock video quality, speed buttons, show commenter names, auto-translate comments, hide distractions, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 405 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ xlch88/YouTubeTweak 是一个开源项目，提供了多种功能，包括锁定
 | forks | 34/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

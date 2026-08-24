@@ -1,6 +1,6 @@
 # session-foundation/session-desktop
 
-[![Stars](https://img.shields.io/github/stars/session-foundation/session-desktop?style=flat-square&color=yellow)](https://github.com/session-foundation/session-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/session-foundation/session-desktop?style=flat-square&color=blue)](https://github.com/session-foundation/session-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/session-foundation/session-desktop?style=flat-square&color=yellow)](https://github.com/session-foundation/session-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/session-foundation/session-desktop?style=flat-square&color=blue)](https://github.com/session-foundation/session-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Session Desktop - A Decentralized, Onion Routed, Private Messenger
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 532 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Session Desktop 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

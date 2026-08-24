@@ -1,6 +1,6 @@
 # stuinfla/ruvnet-brain
 
-[![Stars](https://img.shields.io/github/stars/stuinfla/ruvnet-brain?style=flat-square&color=yellow)](https://github.com/stuinfla/ruvnet-brain/stargazers) [![Forks](https://img.shields.io/github/forks/stuinfla/ruvnet-brain?style=flat-square&color=blue)](https://github.com/stuinfla/ruvnet-brain/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stuinfla/ruvnet-brain?style=flat-square&color=yellow)](https://github.com/stuinfla/ruvnet-brain/stargazers) [![Forks](https://img.shields.io/github/forks/stuinfla/ruvnet-brain?style=flat-square&color=blue)](https://github.com/stuinfla/ruvnet-brain/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > RuvNet Brain — a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/RVF, Ruflo, AgentDB, RuLake, SPARC + 21 building blocks. Grounds Claude in real source via one MCP tool (search_ruvnet), so it builds with the stack instead of drifting off it.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ stuinfla/ruvnet-brain：stuinfla/ruvnet-brain helps connect AI assistants to rea
 | forks | 31/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

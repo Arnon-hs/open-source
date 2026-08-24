@@ -1,6 +1,6 @@
 # rawsun007/claude-notch
 
-[![Stars](https://img.shields.io/github/stars/rawsun007/claude-notch?style=flat-square&color=yellow)](https://github.com/rawsun007/claude-notch/stargazers) [![Forks](https://img.shields.io/github/forks/rawsun007/claude-notch?style=flat-square&color=blue)](https://github.com/rawsun007/claude-notch/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rawsun007/claude-notch?style=flat-square&color=yellow)](https://github.com/rawsun007/claude-notch/stargazers) [![Forks](https://img.shields.io/github/forks/rawsun007/claude-notch?style=flat-square&color=blue)](https://github.com/rawsun007/claude-notch/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Approve Claude Code from your Mac's notch. A native SwiftUI menu-bar app that surfaces Claude Code permission prompts, questions, cost and context usage, no tabbing back to the terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ rawsun007/claude-notch 的生产可用性为中等（Medium）。它适用于以
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # symfony/ux
 
-[![Stars](https://img.shields.io/github/stars/symfony/ux?style=flat-square&color=yellow)](https://github.com/symfony/ux/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/ux?style=flat-square&color=blue)](https://github.com/symfony/ux/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symfony/ux?style=flat-square&color=yellow)](https://github.com/symfony/ux/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/ux?style=flat-square&color=blue)](https://github.com/symfony/ux/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Symfony UX initiative: a JavaScript ecosystem for Symfony
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 423 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Symfony UX 的生产可用性为中等（Medium）。它最适合用于快速原
 | forks | 66/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

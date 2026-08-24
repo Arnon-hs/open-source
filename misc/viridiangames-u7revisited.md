@@ -1,6 +1,6 @@
 # ViridianGames/U7Revisited
 
-[![Stars](https://img.shields.io/github/stars/ViridianGames/U7Revisited?style=flat-square&color=yellow)](https://github.com/ViridianGames/U7Revisited/stargazers) [![Forks](https://img.shields.io/github/forks/ViridianGames/U7Revisited?style=flat-square&color=blue)](https://github.com/ViridianGames/U7Revisited/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ViridianGames/U7Revisited?style=flat-square&color=yellow)](https://github.com/ViridianGames/U7Revisited/stargazers) [![Forks](https://img.shields.io/github/forks/ViridianGames/U7Revisited?style=flat-square&color=blue)](https://github.com/ViridianGames/U7Revisited/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A replacement engine for Ultima VII The Black Gate (and eventually Serpent Isle) that presents a new camera angle and other improvements.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 491 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ ViridianGames/U7Revisited 的生产可用性为中等。它适合用于 prototyp
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # KazumaProject/JapaneseKeyboard
 
-[![Stars](https://img.shields.io/github/stars/KazumaProject/JapaneseKeyboard?style=flat-square&color=yellow)](https://github.com/KazumaProject/JapaneseKeyboard/stargazers) [![Forks](https://img.shields.io/github/forks/KazumaProject/JapaneseKeyboard?style=flat-square&color=blue)](https://github.com/KazumaProject/JapaneseKeyboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KazumaProject/JapaneseKeyboard?style=flat-square&color=yellow)](https://github.com/KazumaProject/JapaneseKeyboard/stargazers) [![Forks](https://img.shields.io/github/forks/KazumaProject/JapaneseKeyboard?style=flat-square&color=blue)](https://github.com/KazumaProject/JapaneseKeyboard/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > スミレ - 完全オフラインの日本語キーボードアプリ
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ KazumaProject/JapaneseKeyboard 是一款完全离线的日语输入法 Android �
 | forks | 34/100 |
 | stars | 53/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

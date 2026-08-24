@@ -1,6 +1,6 @@
 # TwelveTake-Studios/reaper-mcp
 
-[![Stars](https://img.shields.io/github/stars/TwelveTake-Studios/reaper-mcp?style=flat-square&color=yellow)](https://github.com/TwelveTake-Studios/reaper-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/TwelveTake-Studios/reaper-mcp?style=flat-square&color=blue)](https://github.com/TwelveTake-Studios/reaper-mcp/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TwelveTake-Studios/reaper-mcp?style=flat-square&color=yellow)](https://github.com/TwelveTake-Studios/reaper-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/TwelveTake-Studios/reaper-mcp?style=flat-square&color=blue)](https://github.com/TwelveTake-Studios/reaper-mcp/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server to control REAPER DAW with AI — 158 tools for mixing, mastering, MIDI composition, and full music production.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Mobile · Product
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ TwelveTake‑Studios/reaper‑mcp 是一个基于 Model Context Protocol（MCP�
 | forks | 25/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

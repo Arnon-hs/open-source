@@ -1,6 +1,6 @@
 # isc-projects/kea
 
-[![Stars](https://img.shields.io/github/stars/isc-projects/kea?style=flat-square&color=yellow)](https://github.com/isc-projects/kea/stargazers) [![Forks](https://img.shields.io/github/forks/isc-projects/kea?style=flat-square&color=blue)](https://github.com/isc-projects/kea/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isc-projects/kea?style=flat-square&color=yellow)](https://github.com/isc-projects/kea/stargazers) [![Forks](https://img.shields.io/github/forks/isc-projects/kea?style=flat-square&color=blue)](https://github.com/isc-projects/kea/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, scalable, robust DHCPv4 and DHCPv6 server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 727 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ isc-projects/kea 的生产可用性为中等。它适合用于原型开发或内
 | forks | 56/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

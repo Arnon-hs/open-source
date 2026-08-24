@@ -1,6 +1,6 @@
 # jksalcedo/librefind
 
-[![Stars](https://img.shields.io/github/stars/jksalcedo/librefind?style=flat-square&color=yellow)](https://github.com/jksalcedo/librefind/stargazers) [![Forks](https://img.shields.io/github/forks/jksalcedo/librefind?style=flat-square&color=blue)](https://github.com/jksalcedo/librefind/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jksalcedo/librefind?style=flat-square&color=yellow)](https://github.com/jksalcedo/librefind/stargazers) [![Forks](https://img.shields.io/github/forks/jksalcedo/librefind?style=flat-square&color=blue)](https://github.com/jksalcedo/librefind/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Discover and replace proprietary apps with FOSS alternatives
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 652 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ jksalcedo/librefind 的主要价值在于，它可以帮助开发者找到和替
 | forks | 30/100 |
 | stars | 60/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

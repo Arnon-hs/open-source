@@ -1,6 +1,6 @@
 # chhoumann/MetaEdit
 
-[![Stars](https://img.shields.io/github/stars/chhoumann/MetaEdit?style=flat-square&color=yellow)](https://github.com/chhoumann/MetaEdit/stargazers) [![Forks](https://img.shields.io/github/forks/chhoumann/MetaEdit?style=flat-square&color=blue)](https://github.com/chhoumann/MetaEdit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chhoumann/MetaEdit?style=flat-square&color=yellow)](https://github.com/chhoumann/MetaEdit/stargazers) [![Forks](https://img.shields.io/github/forks/chhoumann/MetaEdit?style=flat-square&color=blue)](https://github.com/chhoumann/MetaEdit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MetaEdit for Obsidian
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ MetaEdit for Obsidian 的生产可用性为中等（Medium），适合用于：
 | forks | 33/100 |
 | stars | 57/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

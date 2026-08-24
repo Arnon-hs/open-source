@@ -1,6 +1,6 @@
 # logancyang/obsidian-copilot
 
-[![Stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=flat-square&color=yellow)](https://github.com/logancyang/obsidian-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/logancyang/obsidian-copilot?style=flat-square&color=blue)](https://github.com/logancyang/obsidian-copilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=flat-square&color=yellow)](https://github.com/logancyang/obsidian-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/logancyang/obsidian-copilot?style=flat-square&color=blue)](https://github.com/logancyang/obsidian-copilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > THE Copilot in Obsidian
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 648 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ logancyang/obsidian‑copilot 为 Obsidian 笔记软件提供了 AI Copilot 功�
 | forks | 70/100 |
 | stars | 82/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

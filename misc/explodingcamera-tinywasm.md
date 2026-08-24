@@ -1,6 +1,6 @@
 # explodingcamera/tinywasm
 
-[![Stars](https://img.shields.io/github/stars/explodingcamera/tinywasm?style=flat-square&color=yellow)](https://github.com/explodingcamera/tinywasm/stargazers) [![Forks](https://img.shields.io/github/forks/explodingcamera/tinywasm?style=flat-square&color=blue)](https://github.com/explodingcamera/tinywasm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/explodingcamera/tinywasm?style=flat-square&color=yellow)](https://github.com/explodingcamera/tinywasm/stargazers) [![Forks](https://img.shields.io/github/forks/explodingcamera/tinywasm?style=flat-square&color=blue)](https://github.com/explodingcamera/tinywasm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Tiny Webassembly Runtime Written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 568 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ explodingcamera/tinywasm 的生产可用性评估为中等（Medium）。它可�
 | forks | 36/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

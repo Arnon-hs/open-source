@@ -1,6 +1,6 @@
 # fockus/skill-memory-bank
 
-[![Stars](https://img.shields.io/github/stars/fockus/skill-memory-bank?style=flat-square&color=yellow)](https://github.com/fockus/skill-memory-bank/stargazers) [![Forks](https://img.shields.io/github/forks/fockus/skill-memory-bank?style=flat-square&color=blue)](https://github.com/fockus/skill-memory-bank/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fockus/skill-memory-bank?style=flat-square&color=yellow)](https://github.com/fockus/skill-memory-bank/stargazers) [![Forks](https://img.shields.io/github/forks/fockus/skill-memory-bank?style=flat-square&color=blue)](https://github.com/fockus/skill-memory-bank/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Universal long-term project memory for AI coding agents — Claude Code, Cursor, Windsurf, Cline + 4 more. TDD rules, code graph, spec-driven dev, cross-session recall.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ fockus/skill-memory-bank 的生产可用性为中等。它适用于原型或内�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 24/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

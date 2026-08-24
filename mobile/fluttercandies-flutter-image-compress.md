@@ -1,6 +1,6 @@
 # fluttercandies/flutter_image_compress
 
-[![Stars](https://img.shields.io/github/stars/fluttercandies/flutter_image_compress?style=flat-square&color=yellow)](https://github.com/fluttercandies/flutter_image_compress/stargazers) [![Forks](https://img.shields.io/github/forks/fluttercandies/flutter_image_compress?style=flat-square&color=blue)](https://github.com/fluttercandies/flutter_image_compress/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluttercandies/flutter_image_compress?style=flat-square&color=yellow)](https://github.com/fluttercandies/flutter_image_compress/stargazers) [![Forks](https://img.shields.io/github/forks/fluttercandies/flutter_image_compress?style=flat-square&color=blue)](https://github.com/fluttercandies/flutter_image_compress/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Compresses image with native plugin (ObjC/Kotlin) on Flutter. Works on Android, iOS, macOS, Web, OpenHarmony.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 688 |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ fluttercandies/flutter_image_compress 可能在以下场景中有用：
 | forks | 61/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # FLAIROx/JaxMARL
 
-[![Stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=flat-square&color=yellow)](https://github.com/FLAIROx/JaxMARL/stargazers) [![Forks](https://img.shields.io/github/forks/FLAIROx/JaxMARL?style=flat-square&color=blue)](https://github.com/FLAIROx/JaxMARL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=flat-square&color=yellow)](https://github.com/FLAIROx/JaxMARL/stargazers) [![Forks](https://img.shields.io/github/forks/FLAIROx/JaxMARL?style=flat-square&color=blue)](https://github.com/FLAIROx/JaxMARL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-Agent Reinforcement Learning with JAX
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 839 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Education
+Orchestration
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ FLAIROx/JaxMARL 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 55/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

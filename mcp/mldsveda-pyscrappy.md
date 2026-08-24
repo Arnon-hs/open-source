@@ -1,6 +1,6 @@
 # mldsveda/PyScrappy
 
-[![Stars](https://img.shields.io/github/stars/mldsveda/PyScrappy?style=flat-square&color=yellow)](https://github.com/mldsveda/PyScrappy/stargazers) [![Forks](https://img.shields.io/github/forks/mldsveda/PyScrappy?style=flat-square&color=blue)](https://github.com/mldsveda/PyScrappy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mldsveda/PyScrappy?style=flat-square&color=yellow)](https://github.com/mldsveda/PyScrappy/stargazers) [![Forks](https://img.shields.io/github/forks/mldsveda/PyScrappy?style=flat-square&color=blue)](https://github.com/mldsveda/PyScrappy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Python web scraping toolkit and MCP server that gives AI agents clean, structured web data from any URL or built-in scrapers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Data
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ mldsveda/PyScrappy 具有高生产就绪度，近期活动、采用和生态系�
 | forks | 38/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

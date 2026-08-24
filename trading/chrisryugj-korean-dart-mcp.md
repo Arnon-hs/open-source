@@ -1,6 +1,6 @@
 # chrisryugj/korean-dart-mcp
 
-[![Stars](https://img.shields.io/github/stars/chrisryugj/korean-dart-mcp?style=flat-square&color=yellow)](https://github.com/chrisryugj/korean-dart-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/korean-dart-mcp?style=flat-square&color=blue)](https://github.com/chrisryugj/korean-dart-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisryugj/korean-dart-mcp?style=flat-square&color=yellow)](https://github.com/chrisryugj/korean-dart-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/korean-dart-mcp?style=flat-square&color=blue)](https://github.com/chrisryugj/korean-dart-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > OpenDART 전자공시MCP | 83개 API → 15 MCP 도구. 공시·재무·지분·XBRL + 버핏급 애널리스트 프레임(내부자 시그널·회계 리스크·퀄리티 체크리스트) + HWP/PDF 첨부 마크다운화 | 83 Korean DART disclosure APIs → 15 MCP tools with Buffett-grade analyst frames
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ chrisryugj/korean-dart-mcp 是一个开源项目，提供了对韩国 OpenDART �
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

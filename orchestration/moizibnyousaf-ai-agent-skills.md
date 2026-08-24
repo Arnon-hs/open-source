@@ -1,6 +1,6 @@
 # MoizIbnYousaf/Ai-Agent-Skills
 
-[![Stars](https://img.shields.io/github/stars/MoizIbnYousaf/Ai-Agent-Skills?style=flat-square&color=yellow)](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/MoizIbnYousaf/Ai-Agent-Skills?style=flat-square&color=blue)](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MoizIbnYousaf/Ai-Agent-Skills?style=flat-square&color=yellow)](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/MoizIbnYousaf/Ai-Agent-Skills?style=flat-square&color=blue)](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · DevTools · Product
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ MoizIbnYousaf/Ai-Agent-Skills：MoizIbnYousaf/Ai-Agent-Skills helps turn isolate
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 83/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # leynier/alera
 
-[![Stars](https://img.shields.io/github/stars/leynier/alera?style=flat-square&color=yellow)](https://github.com/leynier/alera/stargazers) [![Forks](https://img.shields.io/github/forks/leynier/alera?style=flat-square&color=blue)](https://github.com/leynier/alera/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leynier/alera?style=flat-square&color=yellow)](https://github.com/leynier/alera/stargazers) [![Forks](https://img.shields.io/github/forks/leynier/alera?style=flat-square&color=blue)](https://github.com/leynier/alera/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The native, performance-first Agentic Development Environment (ADE). Run CLI coding agents (Claude Code, Aider, Copilot) in parallel using Git worktrees. Built with Flutter + Rust + Ghostty.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools · Database
+Orchestration · AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ leynier/alera 是一个面向性能的原生 Agentic Development Environment（A
 | forks | 19/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

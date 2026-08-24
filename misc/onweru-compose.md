@@ -1,6 +1,6 @@
 # onweru/compose
 
-[![Stars](https://img.shields.io/github/stars/onweru/compose?style=flat-square&color=yellow)](https://github.com/onweru/compose/stargazers) [![Forks](https://img.shields.io/github/forks/onweru/compose?style=flat-square&color=blue)](https://github.com/onweru/compose/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onweru/compose?style=flat-square&color=yellow)](https://github.com/onweru/compose/stargazers) [![Forks](https://img.shields.io/github/forks/onweru/compose?style=flat-square&color=blue)](https://github.com/onweru/compose/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Hugo theme for documentation sites.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ onweru/compose 的生产可用性为中等。它可以用于内部工作流或�
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

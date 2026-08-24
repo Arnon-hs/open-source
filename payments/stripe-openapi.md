@@ -1,6 +1,6 @@
 # stripe/openapi
 
-[![Stars](https://img.shields.io/github/stars/stripe/openapi?style=flat-square&color=yellow)](https://github.com/stripe/openapi/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/openapi?style=flat-square&color=blue)](https://github.com/stripe/openapi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/openapi?style=flat-square&color=yellow)](https://github.com/stripe/openapi/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/openapi?style=flat-square&color=blue)](https://github.com/stripe/openapi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An OpenAPI specification for the Stripe API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ stripe/openapi 提供了 Stripe API 的完整 OpenAPI 规范，开发者可以�
 | forks | 54/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # paradigmxyz/revm-inspectors
 
-[![Stars](https://img.shields.io/github/stars/paradigmxyz/revm-inspectors?style=flat-square&color=yellow)](https://github.com/paradigmxyz/revm-inspectors/stargazers) [![Forks](https://img.shields.io/github/forks/paradigmxyz/revm-inspectors?style=flat-square&color=blue)](https://github.com/paradigmxyz/revm-inspectors/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paradigmxyz/revm-inspectors?style=flat-square&color=yellow)](https://github.com/paradigmxyz/revm-inspectors/stargazers) [![Forks](https://img.shields.io/github/forks/paradigmxyz/revm-inspectors?style=flat-square&color=blue)](https://github.com/paradigmxyz/revm-inspectors/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > EVM Execution Hooks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 255 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ paradigmxyz/revm-inspectors的价值在于，可以帮助开发者在以太坊�
 | forks | 54/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

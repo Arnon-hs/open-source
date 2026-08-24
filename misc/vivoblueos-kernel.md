@@ -1,6 +1,6 @@
 # vivoblueos/kernel
 
-[![Stars](https://img.shields.io/github/stars/vivoblueos/kernel?style=flat-square&color=yellow)](https://github.com/vivoblueos/kernel/stargazers) [![Forks](https://img.shields.io/github/forks/vivoblueos/kernel?style=flat-square&color=blue)](https://github.com/vivoblueos/kernel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vivoblueos/kernel?style=flat-square&color=yellow)](https://github.com/vivoblueos/kernel/stargazers) [![Forks](https://img.shields.io/github/forks/vivoblueos/kernel?style=flat-square&color=blue)](https://github.com/vivoblueos/kernel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ vivoblueos/kernel 是一个用 Rust 编写的开源内核框架，拥有 1.3k+ �
 | forks | 48/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

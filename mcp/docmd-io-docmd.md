@@ -1,6 +1,6 @@
 # docmd-io/docmd
 
-[![Stars](https://img.shields.io/github/stars/docmd-io/docmd?style=flat-square&color=yellow)](https://github.com/docmd-io/docmd/stargazers) [![Forks](https://img.shields.io/github/forks/docmd-io/docmd?style=flat-square&color=blue)](https://github.com/docmd-io/docmd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docmd-io/docmd?style=flat-square&color=yellow)](https://github.com/docmd-io/docmd/stargazers) [![Forks](https://img.shields.io/github/forks/docmd-io/docmd?style=flat-square&color=blue)](https://github.com/docmd-io/docmd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Build production-ready documentation from Markdown in seconds. No React, no bloat, just content.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ docmd-io/docmd 的生产可用性非常高，理由如下：
 | forks | 52/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 86/100 |
+| production | 79/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # raystack/frontier
 
-[![Stars](https://img.shields.io/github/stars/raystack/frontier?style=flat-square&color=yellow)](https://github.com/raystack/frontier/stargazers) [![Forks](https://img.shields.io/github/forks/raystack/frontier?style=flat-square&color=blue)](https://github.com/raystack/frontier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raystack/frontier?style=flat-square&color=yellow)](https://github.com/raystack/frontier/stargazers) [![Forks](https://img.shields.io/github/forks/raystack/frontier?style=flat-square&color=blue)](https://github.com/raystack/frontier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Frontier is an all-in-one user management platform that provides identity, access and billing management to help organizations secure their systems and data. (Open source alternative to Clerk, WorkOS)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Data · Database · Security
+Payments
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Frontier 的生产可用性较高，主要原因包括：
 | forks | 41/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

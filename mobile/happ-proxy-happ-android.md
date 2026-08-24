@@ -1,6 +1,6 @@
 # Happ-proxy/happ-android
 
-[![Stars](https://img.shields.io/github/stars/Happ-proxy/happ-android?style=flat-square&color=yellow)](https://github.com/Happ-proxy/happ-android/stargazers) [![Forks](https://img.shields.io/github/forks/Happ-proxy/happ-android?style=flat-square&color=blue)](https://github.com/Happ-proxy/happ-android/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Happ-proxy/happ-android?style=flat-square&color=yellow)](https://github.com/Happ-proxy/happ-android/stargazers) [![Forks](https://img.shields.io/github/forks/Happ-proxy/happ-android?style=flat-square&color=blue)](https://github.com/Happ-proxy/happ-android/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 632 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Happ-proxy/happ-android 的生产可用性为中等，适合用于原型或内�
 | forks | 36/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # compose-miuix-ui/miuix
 
-[![Stars](https://img.shields.io/github/stars/compose-miuix-ui/miuix?style=flat-square&color=yellow)](https://github.com/compose-miuix-ui/miuix/stargazers) [![Forks](https://img.shields.io/github/forks/compose-miuix-ui/miuix?style=flat-square&color=blue)](https://github.com/compose-miuix-ui/miuix/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/compose-miuix-ui/miuix?style=flat-square&color=yellow)](https://github.com/compose-miuix-ui/miuix/stargazers) [![Forks](https://img.shields.io/github/forks/compose-miuix-ui/miuix?style=flat-square&color=blue)](https://github.com/compose-miuix-ui/miuix/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A UI library for Compose Multiplatform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ compose-miuix-ui/miuix 的生产可用性为 Medium。它适合用于原型开�
 | forks | 48/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

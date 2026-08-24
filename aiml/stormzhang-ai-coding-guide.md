@@ -1,6 +1,6 @@
 # stormzhang/ai-coding-guide
 
-[![Stars](https://img.shields.io/github/stars/stormzhang/ai-coding-guide?style=flat-square&color=yellow)](https://github.com/stormzhang/ai-coding-guide/stargazers) [![Forks](https://img.shields.io/github/forks/stormzhang/ai-coding-guide?style=flat-square&color=blue)](https://github.com/stormzhang/ai-coding-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stormzhang/ai-coding-guide?style=flat-square&color=yellow)](https://github.com/stormzhang/ai-coding-guide/stargazers) [![Forks](https://img.shields.io/github/forks/stormzhang/ai-coding-guide?style=flat-square&color=blue)](https://github.com/stormzhang/ai-coding-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 「可能是全网最全的」📘 面向小白的 AI 编程 CLI 中文教程：Claude Code + Codex 92 篇精修
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 371 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database · Education
+AI/ML · DevTools · Education
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ stormzhang/ai-coding-guide 是一套面向零基础开发者的 AI 编程中文 
 | forks | 64/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

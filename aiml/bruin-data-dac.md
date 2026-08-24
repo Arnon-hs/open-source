@@ -1,6 +1,6 @@
 # bruin-data/dac
 
-[![Stars](https://img.shields.io/github/stars/bruin-data/dac?style=flat-square&color=yellow)](https://github.com/bruin-data/dac/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/dac?style=flat-square&color=blue)](https://github.com/bruin-data/dac/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bruin-data/dac?style=flat-square&color=yellow)](https://github.com/bruin-data/dac/stargazers) [![Forks](https://img.shields.io/github/forks/bruin-data/dac?style=flat-square&color=blue)](https://github.com/bruin-data/dac/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 703 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ DaC 的生产可用性为中等（Medium），适合用于原型或内部工作�
 | forks | 38/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

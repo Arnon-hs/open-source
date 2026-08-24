@@ -1,6 +1,6 @@
 # CraterCrash/godot-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/CraterCrash/godot-orchestrator?style=flat-square&color=yellow)](https://github.com/CraterCrash/godot-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/CraterCrash/godot-orchestrator?style=flat-square&color=blue)](https://github.com/CraterCrash/godot-orchestrator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CraterCrash/godot-orchestrator?style=flat-square&color=yellow)](https://github.com/CraterCrash/godot-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/CraterCrash/godot-orchestrator?style=flat-square&color=blue)](https://github.com/CraterCrash/godot-orchestrator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrator: Unleashing Creativity with Visual Scripting
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ CraterCrash/godot-orchestrator 的生产可用性较高。它有以下特
 | forks | 48/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

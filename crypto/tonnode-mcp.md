@@ -1,6 +1,6 @@
 # tonnode/mcp
 
-[![Stars](https://img.shields.io/github/stars/tonnode/mcp?style=flat-square&color=yellow)](https://github.com/tonnode/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tonnode/mcp?style=flat-square&color=blue)](https://github.com/tonnode/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonnode/mcp?style=flat-square&color=yellow)](https://github.com/tonnode/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tonnode/mcp?style=flat-square&color=blue)](https://github.com/tonnode/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > TON MCP server for Claude, ChatGPT, Cursor, Codex and any MCP client — liteserver queries over native ADNL: balances, account state, transaction history, get-methods. Private & archive endpoints supported
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · MCP · AI/ML · Backend · DevTools
+Crypto · MCP · Backend
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ tonnode/mcp 的生产可用性评分为高（High），因为它有最近的活�
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

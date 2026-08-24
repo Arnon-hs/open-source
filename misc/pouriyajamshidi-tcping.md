@@ -1,6 +1,6 @@
 # pouriyajamshidi/tcping
 
-[![Stars](https://img.shields.io/github/stars/pouriyajamshidi/tcping?style=flat-square&color=yellow)](https://github.com/pouriyajamshidi/tcping/stargazers) [![Forks](https://img.shields.io/github/forks/pouriyajamshidi/tcping?style=flat-square&color=blue)](https://github.com/pouriyajamshidi/tcping/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pouriyajamshidi/tcping?style=flat-square&color=yellow)](https://github.com/pouriyajamshidi/tcping/stargazers) [![Forks](https://img.shields.io/github/forks/pouriyajamshidi/tcping?style=flat-square&color=blue)](https://github.com/pouriyajamshidi/tcping/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ pouriyajamshidi/tcping 的价值在于，它可以帮助用户检测 TCP 端口�
 | forks | 52/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # maestrojeong/browser-rs-mcp
 
-[![Stars](https://img.shields.io/github/stars/maestrojeong/browser-rs-mcp?style=flat-square&color=yellow)](https://github.com/maestrojeong/browser-rs-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/maestrojeong/browser-rs-mcp?style=flat-square&color=blue)](https://github.com/maestrojeong/browser-rs-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maestrojeong/browser-rs-mcp?style=flat-square&color=yellow)](https://github.com/maestrojeong/browser-rs-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/maestrojeong/browser-rs-mcp?style=flat-square&color=blue)](https://github.com/maestrojeong/browser-rs-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight stealth-oriented browser MCP server in Rust — one shared Chrome for many AI agents, 64+ Playwright-style tools, no Node.js runtime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ maestrojeong/browser-rs-mcp 的生产可用性为 中等。它适合用于protot
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

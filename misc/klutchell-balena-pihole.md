@@ -1,6 +1,6 @@
 # klutchell/balena-pihole
 
-[![Stars](https://img.shields.io/github/stars/klutchell/balena-pihole?style=flat-square&color=yellow)](https://github.com/klutchell/balena-pihole/stargazers) [![Forks](https://img.shields.io/github/forks/klutchell/balena-pihole?style=flat-square&color=blue)](https://github.com/klutchell/balena-pihole/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/klutchell/balena-pihole?style=flat-square&color=yellow)](https://github.com/klutchell/balena-pihole/stargazers) [![Forks](https://img.shields.io/github/forks/klutchell/balena-pihole?style=flat-square&color=blue)](https://github.com/klutchell/balena-pihole/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Pi-hole is a Linux network-level advertisement and Internet tracker blocking application.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ klutchell/balena-pihole 的生产可用性为中等（Medium）。它适合用�
 | forks | 50/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

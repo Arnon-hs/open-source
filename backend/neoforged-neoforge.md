@@ -1,6 +1,6 @@
 # neoforged/NeoForge
 
-[![Stars](https://img.shields.io/github/stars/neoforged/NeoForge?style=flat-square&color=yellow)](https://github.com/neoforged/NeoForge/stargazers) [![Forks](https://img.shields.io/github/forks/neoforged/NeoForge?style=flat-square&color=blue)](https://github.com/neoforged/NeoForge/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neoforged/NeoForge?style=flat-square&color=yellow)](https://github.com/neoforged/NeoForge/stargazers) [![Forks](https://img.shields.io/github/forks/neoforged/NeoForge?style=flat-square&color=blue)](https://github.com/neoforged/NeoForge/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Neo Modding API for Minecraft: Java Edition, based on Forge
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ NeoForge 的生产可用性很高。最近的活动、采用率和生态系统�
 | forks | 63/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

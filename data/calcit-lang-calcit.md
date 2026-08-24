@@ -1,6 +1,6 @@
 # calcit-lang/calcit
 
-[![Stars](https://img.shields.io/github/stars/calcit-lang/calcit?style=flat-square&color=yellow)](https://github.com/calcit-lang/calcit/stargazers) [![Forks](https://img.shields.io/github/forks/calcit-lang/calcit?style=flat-square&color=blue)](https://github.com/calcit-lang/calcit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calcit-lang/calcit?style=flat-square&color=yellow)](https://github.com/calcit-lang/calcit/stargazers) [![Forks](https://img.shields.io/github/forks/calcit-lang/calcit?style=flat-square&color=blue)](https://github.com/calcit-lang/calcit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Indentation-based ClojureScript dialect in Rust and compiling to JavaScript ES Modules
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ calcit-lang/calcit 是一款基于缩进的 ClojureScript 方言实现，使用 
 | forks | 15/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

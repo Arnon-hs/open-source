@@ -1,6 +1,6 @@
 # hardness1020/awesome-agent-architecture
 
-[![Stars](https://img.shields.io/github/stars/hardness1020/awesome-agent-architecture?style=flat-square&color=yellow)](https://github.com/hardness1020/awesome-agent-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/hardness1020/awesome-agent-architecture?style=flat-square&color=blue)](https://github.com/hardness1020/awesome-agent-architecture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hardness1020/awesome-agent-architecture?style=flat-square&color=yellow)](https://github.com/hardness1020/awesome-agent-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/hardness1020/awesome-agent-architecture?style=flat-square&color=blue)](https://github.com/hardness1020/awesome-agent-architecture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Curated architecture notes and system reviews of modern AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ hardness1020/awesome-agent-architecture是一个开源项目，收集了现代AI
 | forks | 32/100 |
 | stars | 44/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jinzcdev/markmap-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/jinzcdev/markmap-mcp-server?style=flat-square&color=yellow)](https://github.com/jinzcdev/markmap-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/jinzcdev/markmap-mcp-server?style=flat-square&color=blue)](https://github.com/jinzcdev/markmap-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jinzcdev/markmap-mcp-server?style=flat-square&color=yellow)](https://github.com/jinzcdev/markmap-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/jinzcdev/markmap-mcp-server?style=flat-square&color=blue)](https://github.com/jinzcdev/markmap-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server for converting Markdown to interactive mind maps with export support (PNG/JPG/SVG).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 277 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ jinzcdev/markmap-mcp-server 的生产可用性非常高，理由如下：
 | forks | 39/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 78/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

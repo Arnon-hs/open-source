@@ -1,6 +1,6 @@
 # VRSEN/agency-swarm
 
-[![Stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=flat-square&color=yellow)](https://github.com/VRSEN/agency-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/VRSEN/agency-swarm?style=flat-square&color=blue)](https://github.com/VRSEN/agency-swarm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=flat-square&color=yellow)](https://github.com/VRSEN/agency-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/VRSEN/agency-swarm?style=flat-square&color=blue)](https://github.com/VRSEN/agency-swarm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Reliable Multi-Agent Orchestration Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ VRSEN/agency-swarm 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 76/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 79/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

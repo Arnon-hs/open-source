@@ -1,6 +1,6 @@
 # Birfy/agentdescent
 
-[![Stars](https://img.shields.io/github/stars/Birfy/agentdescent?style=flat-square&color=yellow)](https://github.com/Birfy/agentdescent/stargazers) [![Forks](https://img.shields.io/github/forks/Birfy/agentdescent?style=flat-square&color=blue)](https://github.com/Birfy/agentdescent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Birfy/agentdescent?style=flat-square&color=yellow)](https://github.com/Birfy/agentdescent/stargazers) [![Forks](https://img.shields.io/github/forks/Birfy/agentdescent?style=flat-square&color=blue)](https://github.com/Birfy/agentdescent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Gradient descent, but the parameters are agents — a parallel, asynchronous framework for self-evolving agents (skills, prompts, harnesses). Diffs are the gradients; the aggregator is the optimizer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Birfy/agentdescent 是一个开源项目，它使用梯度下降算法，但将�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AaronGIG/pdf2zh-desktop
 
-[![Stars](https://img.shields.io/github/stars/AaronGIG/pdf2zh-desktop?style=flat-square&color=yellow)](https://github.com/AaronGIG/pdf2zh-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/AaronGIG/pdf2zh-desktop?style=flat-square&color=blue)](https://github.com/AaronGIG/pdf2zh-desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AaronGIG/pdf2zh-desktop?style=flat-square&color=yellow)](https://github.com/AaronGIG/pdf2zh-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/AaronGIG/pdf2zh-desktop?style=flat-square&color=blue)](https://github.com/AaronGIG/pdf2zh-desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 📖 开箱即用的 PDF 学术翻译神器 | Win + Mac 双平台 | 公式排版完美保留 · Zotero 深度联动 · 35 种语言 · 20+ AI 翻译引擎 · 表格/OCR/术语库 · 批量翻译 | 基于 PDFMathTranslate (EMNLP 2025)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ AaronGIG/pdf2zh-desktop 的生产可用性非常高，因为它有：
 | forks | 34/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

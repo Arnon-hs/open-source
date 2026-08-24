@@ -1,6 +1,6 @@
 # adminlove520/AI-Account-Toolkit
 
-[![Stars](https://img.shields.io/github/stars/adminlove520/AI-Account-Toolkit?style=flat-square&color=yellow)](https://github.com/adminlove520/AI-Account-Toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/adminlove520/AI-Account-Toolkit?style=flat-square&color=blue)](https://github.com/adminlove520/AI-Account-Toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adminlove520/AI-Account-Toolkit?style=flat-square&color=yellow)](https://github.com/adminlove520/AI-Account-Toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/adminlove520/AI-Account-Toolkit?style=flat-square&color=blue)](https://github.com/adminlove520/AI-Account-Toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI 账号注册与管理一站式工具集 | ChatGPT, Claude, Gemini, Codex, Cursor, Grok 批量注册、Token 管理、临时邮箱服务
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 574 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ adminlove520/AI-Account-Toolkit 是一套面向 ChatGPT、Claude、Gemini、Code
 | forks | 58/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

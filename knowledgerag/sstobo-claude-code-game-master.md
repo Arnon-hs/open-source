@@ -1,6 +1,6 @@
 # Sstobo/Claude-Code-Game-Master
 
-[![Stars](https://img.shields.io/github/stars/Sstobo/Claude-Code-Game-Master?style=flat-square&color=yellow)](https://github.com/Sstobo/Claude-Code-Game-Master/stargazers) [![Forks](https://img.shields.io/github/forks/Sstobo/Claude-Code-Game-Master?style=flat-square&color=blue)](https://github.com/Sstobo/Claude-Code-Game-Master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sstobo/Claude-Code-Game-Master?style=flat-square&color=yellow)](https://github.com/Sstobo/Claude-Code-Game-Master/stargazers) [![Forks](https://img.shields.io/github/forks/Sstobo/Claude-Code-Game-Master?style=flat-square&color=blue)](https://github.com/Sstobo/Claude-Code-Game-Master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Total conversion for Claude Code. Use RAG and the RPG ruleset apis to play a persistent adventure in any book or world of your choosing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Sstobo/Claude-Code-Game-Master 是一个用于 Claude Code 的总转换项目，
 | forks | 36/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

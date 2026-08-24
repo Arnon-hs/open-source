@@ -1,6 +1,6 @@
 # agents-universe/agents-universe
 
-[![Stars](https://img.shields.io/github/stars/agents-universe/agents-universe?style=flat-square&color=yellow)](https://github.com/agents-universe/agents-universe/stargazers) [![Forks](https://img.shields.io/github/forks/agents-universe/agents-universe?style=flat-square&color=blue)](https://github.com/agents-universe/agents-universe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agents-universe/agents-universe?style=flat-square&color=yellow)](https://github.com/agents-universe/agents-universe/stargazers) [![Forks](https://img.shields.io/github/forks/agents-universe/agents-universe?style=flat-square&color=blue)](https://github.com/agents-universe/agents-universe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 让智能体像人一样学习和工作
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ agents-universe/agents-universe的生产可用性为中等（Medium），适合�
 | forks | 8/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

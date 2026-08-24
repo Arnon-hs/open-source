@@ -1,6 +1,6 @@
 # lemma-work/lemma-platform
 
-[![Stars](https://img.shields.io/github/stars/lemma-work/lemma-platform?style=flat-square&color=yellow)](https://github.com/lemma-work/lemma-platform/stargazers) [![Forks](https://img.shields.io/github/forks/lemma-work/lemma-platform?style=flat-square&color=blue)](https://github.com/lemma-work/lemma-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lemma-work/lemma-platform?style=flat-square&color=yellow)](https://github.com/lemma-work/lemma-platform/stargazers) [![Forks](https://img.shields.io/github/forks/lemma-work/lemma-platform?style=flat-square&color=blue)](https://github.com/lemma-work/lemma-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source workspace where humans and AI agents work as one team.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ lemma‑work/lemma‑platform 是一个开源工作空间，旨在让人类与 A
 | forks | 33/100 |
 | stars | 41/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

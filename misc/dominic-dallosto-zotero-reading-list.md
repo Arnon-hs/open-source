@@ -1,6 +1,6 @@
 # Dominic-DallOsto/zotero-reading-list
 
-[![Stars](https://img.shields.io/github/stars/Dominic-DallOsto/zotero-reading-list?style=flat-square&color=yellow)](https://github.com/Dominic-DallOsto/zotero-reading-list/stargazers) [![Forks](https://img.shields.io/github/forks/Dominic-DallOsto/zotero-reading-list?style=flat-square&color=blue)](https://github.com/Dominic-DallOsto/zotero-reading-list/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dominic-DallOsto/zotero-reading-list?style=flat-square&color=yellow)](https://github.com/Dominic-DallOsto/zotero-reading-list/stargazers) [![Forks](https://img.shields.io/github/forks/Dominic-DallOsto/zotero-reading-list?style=flat-square&color=blue)](https://github.com/Dominic-DallOsto/zotero-reading-list/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Keep track of whether you've read items in Zotero
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 563 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ Dominic-DallOsto/zotero-reading-list：Dominic-DallOsto/zotero-reading-list may 
 | forks | 32/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

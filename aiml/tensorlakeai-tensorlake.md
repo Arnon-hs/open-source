@@ -1,6 +1,6 @@
 # tensorlakeai/tensorlake
 
-[![Stars](https://img.shields.io/github/stars/tensorlakeai/tensorlake?style=flat-square&color=yellow)](https://github.com/tensorlakeai/tensorlake/stargazers) [![Forks](https://img.shields.io/github/forks/tensorlakeai/tensorlake?style=flat-square&color=blue)](https://github.com/tensorlakeai/tensorlake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tensorlakeai/tensorlake?style=flat-square&color=yellow)](https://github.com/tensorlakeai/tensorlake/stargazers) [![Forks](https://img.shields.io/github/forks/tensorlakeai/tensorlake?style=flat-square&color=blue)](https://github.com/tensorlakeai/tensorlake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Tensorlake is a serverless runtime for sandboxes and deploying background agentic applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 950 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ tensorlakeai/tensorlake：tensorlakeai/tensorlake helps add AI capability withou
 | forks | 53/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

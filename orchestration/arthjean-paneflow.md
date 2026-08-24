@@ -1,6 +1,6 @@
 # arthjean/paneflow
 
-[![Stars](https://img.shields.io/github/stars/arthjean/paneflow?style=flat-square&color=yellow)](https://github.com/arthjean/paneflow/stargazers) [![Forks](https://img.shields.io/github/forks/arthjean/paneflow?style=flat-square&color=blue)](https://github.com/arthjean/paneflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arthjean/paneflow?style=flat-square&color=yellow)](https://github.com/arthjean/paneflow/stargazers) [![Forks](https://img.shields.io/github/forks/arthjean/paneflow?style=flat-square&color=blue)](https://github.com/arthjean/paneflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first Rust/GPUI workspace for running coding agents side by side: real terminal panes, live status, worktree review, read-only MCP, and local orchestration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ arthjean/paneflow 提供了 API、SDK 和 CLI 等接入方式，开发者可以�
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

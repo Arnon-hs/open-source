@@ -1,6 +1,6 @@
 # riffpad/riffpad
 
-[![Stars](https://img.shields.io/github/stars/riffpad/riffpad?style=flat-square&color=yellow)](https://github.com/riffpad/riffpad/stargazers) [![Forks](https://img.shields.io/github/forks/riffpad/riffpad?style=flat-square&color=blue)](https://github.com/riffpad/riffpad/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riffpad/riffpad?style=flat-square&color=yellow)](https://github.com/riffpad/riffpad/stargazers) [![Forks](https://img.shields.io/github/forks/riffpad/riffpad?style=flat-square&color=blue)](https://github.com/riffpad/riffpad/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Watch, approve and steer your coding agents from your phone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ riffpad/riffpad 的生产可用性非常高，尤其是考虑到它是一个开�
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

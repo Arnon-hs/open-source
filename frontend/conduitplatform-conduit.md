@@ -1,6 +1,6 @@
 # ConduitPlatform/Conduit
 
-[![Stars](https://img.shields.io/github/stars/ConduitPlatform/Conduit?style=flat-square&color=yellow)](https://github.com/ConduitPlatform/Conduit/stargazers) [![Forks](https://img.shields.io/github/forks/ConduitPlatform/Conduit?style=flat-square&color=blue)](https://github.com/ConduitPlatform/Conduit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ConduitPlatform/Conduit?style=flat-square&color=yellow)](https://github.com/ConduitPlatform/Conduit/stargazers) [![Forks](https://img.shields.io/github/forks/ConduitPlatform/Conduit?style=flat-square&color=blue)](https://github.com/ConduitPlatform/Conduit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Batteries-included backend that works with any stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 882 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Database · Security
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ ConduitPlatform/Conduit 是一个 “batteries‑included” 的后端框架，�
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

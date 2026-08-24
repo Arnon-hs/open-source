@@ -1,6 +1,6 @@
 # VoDaiLocz/kilo-kit-mcp
 
-[![Stars](https://img.shields.io/github/stars/VoDaiLocz/kilo-kit-mcp?style=flat-square&color=yellow)](https://github.com/VoDaiLocz/kilo-kit-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/VoDaiLocz/kilo-kit-mcp?style=flat-square&color=blue)](https://github.com/VoDaiLocz/kilo-kit-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoDaiLocz/kilo-kit-mcp?style=flat-square&color=yellow)](https://github.com/VoDaiLocz/kilo-kit-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/VoDaiLocz/kilo-kit-mcp?style=flat-square&color=blue)](https://github.com/VoDaiLocz/kilo-kit-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server for safer coding agents: skill routing, C4 workflow gates, memory checks, and verification before completion.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ VoDaiLocz/kilo-kit-mcp 是一个开源项目，提供了一种更安全的编码
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

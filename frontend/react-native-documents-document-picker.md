@@ -1,6 +1,6 @@
 # react-native-documents/document-picker
 
-[![Stars](https://img.shields.io/github/stars/react-native-documents/document-picker?style=flat-square&color=yellow)](https://github.com/react-native-documents/document-picker/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-documents/document-picker?style=flat-square&color=blue)](https://github.com/react-native-documents/document-picker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react-native-documents/document-picker?style=flat-square&color=yellow)](https://github.com/react-native-documents/document-picker/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-documents/document-picker?style=flat-square&color=blue)](https://github.com/react-native-documents/document-picker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Document Picker and Viewer for React Native
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 466 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ react-native-documents/document-picker 的生产可用性较高，主要原因�
 | forks | 67/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

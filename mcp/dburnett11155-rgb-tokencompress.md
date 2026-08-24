@@ -1,6 +1,6 @@
 # dburnett11155-rgb/Tokencompress
 
-[![Stars](https://img.shields.io/github/stars/dburnett11155-rgb/Tokencompress?style=flat-square&color=yellow)](https://github.com/dburnett11155-rgb/Tokencompress/stargazers) [![Forks](https://img.shields.io/github/forks/dburnett11155-rgb/Tokencompress?style=flat-square&color=blue)](https://github.com/dburnett11155-rgb/Tokencompress/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dburnett11155-rgb/Tokencompress?style=flat-square&color=yellow)](https://github.com/dburnett11155-rgb/Tokencompress/stargazers) [![Forks](https://img.shields.io/github/forks/dburnett11155-rgb/Tokencompress?style=flat-square&color=blue)](https://github.com/dburnett11155-rgb/Tokencompress/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Tokencompress 的生产可用性为中等（Medium）。它适用于内部开发
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 66/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

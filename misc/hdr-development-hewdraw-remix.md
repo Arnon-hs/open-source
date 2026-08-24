@@ -1,6 +1,6 @@
 # HDR-Development/HewDraw-Remix
 
-[![Stars](https://img.shields.io/github/stars/HDR-Development/HewDraw-Remix?style=flat-square&color=yellow)](https://github.com/HDR-Development/HewDraw-Remix/stargazers) [![Forks](https://img.shields.io/github/forks/HDR-Development/HewDraw-Remix?style=flat-square&color=blue)](https://github.com/HDR-Development/HewDraw-Remix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HDR-Development/HewDraw-Remix?style=flat-square&color=yellow)](https://github.com/HDR-Development/HewDraw-Remix/stargazers) [![Forks](https://img.shields.io/github/forks/HDR-Development/HewDraw-Remix?style=flat-square&color=blue)](https://github.com/HDR-Development/HewDraw-Remix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ HDR‑Development/HewDraw‑Remix 是一个基于 Rust 的绘图/渲染库，提
 | forks | 49/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 66/100 |
+| production | 39/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

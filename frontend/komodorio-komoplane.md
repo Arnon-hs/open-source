@@ -1,6 +1,6 @@
 # komodorio/komoplane
 
-[![Stars](https://img.shields.io/github/stars/komodorio/komoplane?style=flat-square&color=yellow)](https://github.com/komodorio/komoplane/stargazers) [![Forks](https://img.shields.io/github/forks/komodorio/komoplane?style=flat-square&color=blue)](https://github.com/komodorio/komoplane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/komodorio/komoplane?style=flat-square&color=yellow)](https://github.com/komodorio/komoplane/stargazers) [![Forks](https://img.shields.io/github/forks/komodorio/komoplane?style=flat-square&color=blue)](https://github.com/komodorio/komoplane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🍨 Crossplane Troubleshooting Tool by Komodor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ komodorio/komoplane 在生产环境中具有较高的可用性，主要原因是
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

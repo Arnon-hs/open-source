@@ -1,6 +1,6 @@
 # giantswarm/operatorkit
 
-[![Stars](https://img.shields.io/github/stars/giantswarm/operatorkit?style=flat-square&color=yellow)](https://github.com/giantswarm/operatorkit/stargazers) [![Forks](https://img.shields.io/github/forks/giantswarm/operatorkit?style=flat-square&color=blue)](https://github.com/giantswarm/operatorkit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giantswarm/operatorkit?style=flat-square&color=yellow)](https://github.com/giantswarm/operatorkit/stargazers) [![Forks](https://img.shields.io/github/forks/giantswarm/operatorkit?style=flat-square&color=blue)](https://github.com/giantswarm/operatorkit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An opinionated Go framework for developing Kubernetes operators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 198 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ giantswarm/operatorkit 的生产可用性为中等（Medium）。它适用于以
 | forks | 31/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

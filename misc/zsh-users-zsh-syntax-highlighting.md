@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ zsh-users/zsh-syntax-highlighting 为 Zsh 提供类似 Fish 的语法高亮，�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

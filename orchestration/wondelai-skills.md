@@ -1,6 +1,6 @@
 # wondelai/skills
 
-[![Stars](https://img.shields.io/github/stars/wondelai/skills?style=flat-square&color=yellow)](https://github.com/wondelai/skills/stargazers) [![Forks](https://img.shields.io/github/forks/wondelai/skills?style=flat-square&color=blue)](https://github.com/wondelai/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wondelai/skills?style=flat-square&color=yellow)](https://github.com/wondelai/skills/stargazers) [![Forks](https://img.shields.io/github/forks/wondelai/skills?style=flat-square&color=blue)](https://github.com/wondelai/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 62 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Marketing · Product
+Orchestration · AI/ML · Marketing · Product
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ Wondel.ai Agent Skills 是一个开源项目，提供了 62 个技能和 12 个�
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # prime-radiant-inc/stockyard
 
-[![Stars](https://img.shields.io/github/stars/prime-radiant-inc/stockyard?style=flat-square&color=yellow)](https://github.com/prime-radiant-inc/stockyard/stargazers) [![Forks](https://img.shields.io/github/forks/prime-radiant-inc/stockyard?style=flat-square&color=blue)](https://github.com/prime-radiant-inc/stockyard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prime-radiant-inc/stockyard?style=flat-square&color=yellow)](https://github.com/prime-radiant-inc/stockyard/stargazers) [![Forks](https://img.shields.io/github/forks/prime-radiant-inc/stockyard?style=flat-square&color=blue)](https://github.com/prime-radiant-inc/stockyard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Coding-agent VM orchestrator: runs coding agents in isolated VMs — Firecracker micro-VMs on Linux (with ZFS-based audit-trail snapshots) and Apple's container tool on macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ stockyard 的生产可用性为中等（Medium）。它适合用于原型开发�
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

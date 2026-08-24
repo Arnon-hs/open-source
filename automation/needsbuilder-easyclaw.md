@@ -1,6 +1,6 @@
 # needsbuilder/easyclaw
 
-[![Stars](https://img.shields.io/github/stars/needsbuilder/easyclaw?style=flat-square&color=yellow)](https://github.com/needsbuilder/easyclaw/stargazers) [![Forks](https://img.shields.io/github/forks/needsbuilder/easyclaw?style=flat-square&color=blue)](https://github.com/needsbuilder/easyclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/needsbuilder/easyclaw?style=flat-square&color=yellow)](https://github.com/needsbuilder/easyclaw/stargazers) [![Forks](https://img.shields.io/github/forks/needsbuilder/easyclaw?style=flat-square&color=blue)](https://github.com/needsbuilder/easyclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > One-click installer for OpenClaw AI agent. macOS & Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ needsbuilder/easyclaw：needsbuilder/easyclaw helps remove repetitive manual ope
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nicklockwood/ShapeScript
 
-[![Stars](https://img.shields.io/github/stars/nicklockwood/ShapeScript?style=flat-square&color=yellow)](https://github.com/nicklockwood/ShapeScript/stargazers) [![Forks](https://img.shields.io/github/forks/nicklockwood/ShapeScript?style=flat-square&color=blue)](https://github.com/nicklockwood/ShapeScript/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicklockwood/ShapeScript?style=flat-square&color=yellow)](https://github.com/nicklockwood/ShapeScript/stargazers) [![Forks](https://img.shields.io/github/forks/nicklockwood/ShapeScript?style=flat-square&color=blue)](https://github.com/nicklockwood/ShapeScript/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The ShapeScript 3D modeling app for macOS and iOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 437 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ ShapeScript 的生产可用性为中等。它可以用于 prototyping 或内部�
 | forks | 35/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

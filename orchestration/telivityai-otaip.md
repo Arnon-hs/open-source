@@ -1,6 +1,6 @@
 # TelivityAI/otaip
 
-[![Stars](https://img.shields.io/github/stars/TelivityAI/otaip?style=flat-square&color=yellow)](https://github.com/TelivityAI/otaip/stargazers) [![Forks](https://img.shields.io/github/forks/TelivityAI/otaip?style=flat-square&color=blue)](https://github.com/TelivityAI/otaip/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TelivityAI/otaip?style=flat-square&color=yellow)](https://github.com/TelivityAI/otaip/stargazers) [![Forks](https://img.shields.io/github/forks/TelivityAI/otaip?style=flat-square&color=blue)](https://github.com/TelivityAI/otaip/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open Travel AI Platform — domain-specific AI agent orchestration for the travel industry
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · Database
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ TelivityAI/otaip 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 27/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

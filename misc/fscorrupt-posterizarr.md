@@ -1,6 +1,6 @@
 # fscorrupt/posterizarr
 
-[![Stars](https://img.shields.io/github/stars/fscorrupt/posterizarr?style=flat-square&color=yellow)](https://github.com/fscorrupt/posterizarr/stargazers) [![Forks](https://img.shields.io/github/forks/fscorrupt/posterizarr?style=flat-square&color=blue)](https://github.com/fscorrupt/posterizarr/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fscorrupt/posterizarr?style=flat-square&color=yellow)](https://github.com/fscorrupt/posterizarr/stargazers) [![Forks](https://img.shields.io/github/forks/fscorrupt/posterizarr?style=flat-square&color=blue)](https://github.com/fscorrupt/posterizarr/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 857 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ fscorrupt/posterizarr 是一款基于 PowerShell 的自动化海报生成工具�
 | forks | 38/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

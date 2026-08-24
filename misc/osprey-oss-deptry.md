@@ -1,6 +1,6 @@
 # osprey-oss/deptry
 
-[![Stars](https://img.shields.io/github/stars/osprey-oss/deptry?style=flat-square&color=yellow)](https://github.com/osprey-oss/deptry/stargazers) [![Forks](https://img.shields.io/github/forks/osprey-oss/deptry?style=flat-square&color=blue)](https://github.com/osprey-oss/deptry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osprey-oss/deptry?style=flat-square&color=yellow)](https://github.com/osprey-oss/deptry/stargazers) [![Forks](https://img.shields.io/github/forks/osprey-oss/deptry?style=flat-square&color=blue)](https://github.com/osprey-oss/deptry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Find unused, missing and transitive dependencies in a Python project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Deptry 的生产可用性非常高，原因如下：
 | forks | 42/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

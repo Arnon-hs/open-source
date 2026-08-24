@@ -1,6 +1,6 @@
 # uarlouski/testrail-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/uarlouski/testrail-mcp-server?style=flat-square&color=yellow)](https://github.com/uarlouski/testrail-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/uarlouski/testrail-mcp-server?style=flat-square&color=blue)](https://github.com/uarlouski/testrail-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uarlouski/testrail-mcp-server?style=flat-square&color=yellow)](https://github.com/uarlouski/testrail-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/uarlouski/testrail-mcp-server?style=flat-square&color=blue)](https://github.com/uarlouski/testrail-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native MCP server connecting Claude, Cursor, Windsurf, and other AI assistants to TestRail — manage test cases, runs, and results through natural-language conversation, with typed schemas built for LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ uarlouski/testrail-mcp-server 的生产可用性为中等。它适合用于原�
 | forks | 19/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

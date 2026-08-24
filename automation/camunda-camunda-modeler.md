@@ -1,6 +1,6 @@
 # camunda/camunda-modeler
 
-[![Stars](https://img.shields.io/github/stars/camunda/camunda-modeler?style=flat-square&color=yellow)](https://github.com/camunda/camunda-modeler/stargazers) [![Forks](https://img.shields.io/github/forks/camunda/camunda-modeler?style=flat-square&color=blue)](https://github.com/camunda/camunda-modeler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/camunda/camunda-modeler?style=flat-square&color=yellow)](https://github.com/camunda/camunda-modeler/stargazers) [![Forks](https://img.shields.io/github/forks/camunda/camunda-modeler?style=flat-square&color=blue)](https://github.com/camunda/camunda-modeler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A modeling solution for BPMN, DMN, and Forms based on bpmn.io. As a companion tool to your favorite IDE it supports you in implementing solutions with Camunda.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database
+Automation
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Camunda Modeler 的生产可用性非常高。它有 1689 个 GitHub 星星，54
 | forks | 68/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

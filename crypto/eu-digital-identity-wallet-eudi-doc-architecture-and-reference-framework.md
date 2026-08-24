@@ -1,6 +1,6 @@
 # eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework
 
-[![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework?style=flat-square&color=yellow)](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/stargazers) [![Forks](https://img.shields.io/github/forks/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework?style=flat-square&color=blue)](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework?style=flat-square&color=yellow)](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/stargazers) [![Forks](https://img.shields.io/github/forks/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework?style=flat-square&color=blue)](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The European Digital Identity Wallet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 723 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework：eu-di
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

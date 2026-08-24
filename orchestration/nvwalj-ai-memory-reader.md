@@ -1,6 +1,6 @@
 # nvwalj/ai-memory-reader
 
-[![Stars](https://img.shields.io/github/stars/nvwalj/ai-memory-reader?style=flat-square&color=yellow)](https://github.com/nvwalj/ai-memory-reader/stargazers) [![Forks](https://img.shields.io/github/forks/nvwalj/ai-memory-reader?style=flat-square&color=blue)](https://github.com/nvwalj/ai-memory-reader/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nvwalj/ai-memory-reader?style=flat-square&color=yellow)](https://github.com/nvwalj/ai-memory-reader/stargazers) [![Forks](https://img.shields.io/github/forks/nvwalj/ai-memory-reader?style=flat-square&color=blue)](https://github.com/nvwalj/ai-memory-reader/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The native macOS & iOS app for browsing AI agent memory files — Claude Code, OpenClaw, Codex, Cursor, Gemini
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools · Mobile
+Orchestration · AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ nvwalj/ai-memory-reader 是一个开源项目，提供了一个原生 macOS 和 
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

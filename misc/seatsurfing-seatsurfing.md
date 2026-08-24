@@ -1,6 +1,6 @@
 # seatsurfing/seatsurfing
 
-[![Stars](https://img.shields.io/github/stars/seatsurfing/seatsurfing?style=flat-square&color=yellow)](https://github.com/seatsurfing/seatsurfing/stargazers) [![Forks](https://img.shields.io/github/forks/seatsurfing/seatsurfing?style=flat-square&color=blue)](https://github.com/seatsurfing/seatsurfing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seatsurfing/seatsurfing?style=flat-square&color=yellow)](https://github.com/seatsurfing/seatsurfing/stargazers) [![Forks](https://img.shields.io/github/forks/seatsurfing/seatsurfing?style=flat-square&color=blue)](https://github.com/seatsurfing/seatsurfing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Desk sharing, room reservation, free seating, and co-working for enterprises
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ seatsurfing/seatsurfing 的生产可用性较高。
 | forks | 49/100 |
 | stars | 53/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

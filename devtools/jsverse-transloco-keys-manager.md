@@ -1,6 +1,6 @@
 # jsverse/transloco-keys-manager
 
-[![Stars](https://img.shields.io/github/stars/jsverse/transloco-keys-manager?style=flat-square&color=yellow)](https://github.com/jsverse/transloco-keys-manager/stargazers) [![Forks](https://img.shields.io/github/forks/jsverse/transloco-keys-manager?style=flat-square&color=blue)](https://github.com/jsverse/transloco-keys-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jsverse/transloco-keys-manager?style=flat-square&color=yellow)](https://github.com/jsverse/transloco-keys-manager/stargazers) [![Forks](https://img.shields.io/github/forks/jsverse/transloco-keys-manager?style=flat-square&color=blue)](https://github.com/jsverse/transloco-keys-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🦄 The Key to a Better Translation Experience
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ jsverse/transloco-keys-manager 的主要价值在于：
 | forks | 45/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

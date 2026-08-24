@@ -1,6 +1,6 @@
 # fuzhengwei/ai-agent-guide
 
-[![Stars](https://img.shields.io/github/stars/fuzhengwei/ai-agent-guide?style=flat-square&color=yellow)](https://github.com/fuzhengwei/ai-agent-guide/stargazers) [![Forks](https://img.shields.io/github/forks/fuzhengwei/ai-agent-guide?style=flat-square&color=blue)](https://github.com/fuzhengwei/ai-agent-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fuzhengwei/ai-agent-guide?style=flat-square&color=yellow)](https://github.com/fuzhengwei/ai-agent-guide/stargazers) [![Forks](https://img.shields.io/github/forks/fuzhengwei/ai-agent-guide?style=flat-square&color=blue)](https://github.com/fuzhengwei/ai-agent-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Guide 通识教程
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ fuzhengwei/ai-agent-guide 的生产可用性为中等（Medium）。它适合用
 | forks | 21/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ariacom/Seal-Report
 
-[![Stars](https://img.shields.io/github/stars/ariacom/Seal-Report?style=flat-square&color=yellow)](https://github.com/ariacom/Seal-Report/stargazers) [![Forks](https://img.shields.io/github/forks/ariacom/Seal-Report?style=flat-square&color=blue)](https://github.com/ariacom/Seal-Report/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariacom/Seal-Report?style=flat-square&color=yellow)](https://github.com/ariacom/Seal-Report/stargazers) [![Forks](https://img.shields.io/github/forks/ariacom/Seal-Report?style=flat-square&color=blue)](https://github.com/ariacom/Seal-Report/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Database Reporting Tool and Tasks (.Net)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Data · Database
+Automation · AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ ariacom/Seal-Report具有高生产可用性，理由如下：
 | forks | 68/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

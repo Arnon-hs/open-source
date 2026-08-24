@@ -1,6 +1,6 @@
 # agigante80/actual-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/agigante80/actual-mcp-server?style=flat-square&color=yellow)](https://github.com/agigante80/actual-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/agigante80/actual-mcp-server?style=flat-square&color=blue)](https://github.com/agigante80/actual-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agigante80/actual-mcp-server?style=flat-square&color=yellow)](https://github.com/agigante80/actual-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/agigante80/actual-mcp-server?style=flat-square&color=blue)](https://github.com/agigante80/actual-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Docker MCP server connecting Claude Desktop/LibreChat/LobeChat to Actual Budget for natural-language budgeting, transaction management, and financial insights.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ agigante80/actual-mcp-server 是一个开源项目，旨在连接 Claude Desktop
 | forks | 27/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ndesv21/socialclaw
 
-[![Stars](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square&color=yellow)](https://github.com/ndesv21/socialclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ndesv21/socialclaw?style=flat-square&color=blue)](https://github.com/ndesv21/socialclaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square&color=yellow)](https://github.com/ndesv21/socialclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ndesv21/socialclaw?style=flat-square&color=blue)](https://github.com/ndesv21/socialclaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Social media scheduling CLI and OpenClaw skill for AI agents posting to X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, and Pinterest.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ ndesv21/socialclaw 的生产可用性较高，主要原因是：
 | forks | 30/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

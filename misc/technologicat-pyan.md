@@ -1,6 +1,6 @@
 # Technologicat/pyan
 
-[![Stars](https://img.shields.io/github/stars/Technologicat/pyan?style=flat-square&color=yellow)](https://github.com/Technologicat/pyan/stargazers) [![Forks](https://img.shields.io/github/forks/Technologicat/pyan?style=flat-square&color=blue)](https://github.com/Technologicat/pyan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Technologicat/pyan?style=flat-square&color=yellow)](https://github.com/Technologicat/pyan/stargazers) [![Forks](https://img.shields.io/github/forks/Technologicat/pyan?style=flat-square&color=blue)](https://github.com/Technologicat/pyan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The Python static call graph generator. pyan3 on PyPI. Official repo. Py3.10-3.14.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ Technologicat/pyan：Technologicat/pyan may be useful when its README and activi
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

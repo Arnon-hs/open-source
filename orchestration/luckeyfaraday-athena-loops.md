@@ -1,6 +1,6 @@
 # luckeyfaraday/athena-loops
 
-[![Stars](https://img.shields.io/github/stars/luckeyfaraday/athena-loops?style=flat-square&color=yellow)](https://github.com/luckeyfaraday/athena-loops/stargazers) [![Forks](https://img.shields.io/github/forks/luckeyfaraday/athena-loops?style=flat-square&color=blue)](https://github.com/luckeyfaraday/athena-loops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luckeyfaraday/athena-loops?style=flat-square&color=yellow)](https://github.com/luckeyfaraday/athena-loops/stargazers) [![Forks](https://img.shields.io/github/forks/luckeyfaraday/athena-loops?style=flat-square&color=blue)](https://github.com/luckeyfaraday/athena-loops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Backend-agnostic AI agent orchestration loop in Python — the orchestrator→worker→reviewer pattern as a deterministic harness. Drive any LLM backend (Claude, Codex, opencode, aider); ships as an MCP server + CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ luckeyfaraday/athena-loops：luckeyfaraday/athena-loops helps turn isolated prom
 | forks | 25/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

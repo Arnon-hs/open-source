@@ -1,6 +1,6 @@
 # Ontos-AI/knowhere
 
-[![Stars](https://img.shields.io/github/stars/Ontos-AI/knowhere?style=flat-square&color=yellow)](https://github.com/Ontos-AI/knowhere/stargazers) [![Forks](https://img.shields.io/github/forks/Ontos-AI/knowhere?style=flat-square&color=blue)](https://github.com/Ontos-AI/knowhere/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ontos-AI/knowhere?style=flat-square&color=yellow)](https://github.com/Ontos-AI/knowhere/stargazers) [![Forks](https://img.shields.io/github/forks/Ontos-AI/knowhere?style=flat-square&color=blue)](https://github.com/Ontos-AI/knowhere/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Ontos‑AI/knowhere 能把原始文本、API 返回或工具输出自动拆分�
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 25/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

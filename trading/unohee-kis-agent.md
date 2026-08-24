@@ -1,6 +1,6 @@
 # unohee/kis-agent
 
-[![Stars](https://img.shields.io/github/stars/unohee/kis-agent?style=flat-square&color=yellow)](https://github.com/unohee/kis-agent/stargazers) [![Forks](https://img.shields.io/github/forks/unohee/kis-agent?style=flat-square&color=blue)](https://github.com/unohee/kis-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unohee/kis-agent?style=flat-square&color=yellow)](https://github.com/unohee/kis-agent/stargazers) [![Forks](https://img.shields.io/github/forks/unohee/kis-agent?style=flat-square&color=blue)](https://github.com/unohee/kis-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 한국투자증권 OpenAPI Python 래퍼 — CLI · Python SDK · LLM Agent · 실시간 WebSocket. 문서: unohee.github.io/kis-agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ unohee/kis-agent 帮助研究和自动化市场工作流程。它适合用于研
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

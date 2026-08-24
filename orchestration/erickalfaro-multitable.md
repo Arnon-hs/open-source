@@ -1,6 +1,6 @@
 # erickalfaro/multitable
 
-[![Stars](https://img.shields.io/github/stars/erickalfaro/multitable?style=flat-square&color=yellow)](https://github.com/erickalfaro/multitable/stargazers) [![Forks](https://img.shields.io/github/forks/erickalfaro/multitable?style=flat-square&color=blue)](https://github.com/erickalfaro/multitable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erickalfaro/multitable?style=flat-square&color=yellow)](https://github.com/erickalfaro/multitable/stargazers) [![Forks](https://img.shields.io/github/forks/erickalfaro/multitable?style=flat-square&color=blue)](https://github.com/erickalfaro/multitable/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MultiTable is an open-source AI agent framework and meta-harness that gives you a common orchestration layer over LLM providers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ MultiTable 的生产可用性为中等。它适合用于原型或内部工作流
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 37/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

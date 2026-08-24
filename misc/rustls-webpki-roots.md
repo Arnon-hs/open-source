@@ -1,6 +1,6 @@
 # rustls/webpki-roots
 
-[![Stars](https://img.shields.io/github/stars/rustls/webpki-roots?style=flat-square&color=yellow)](https://github.com/rustls/webpki-roots/stargazers) [![Forks](https://img.shields.io/github/forks/rustls/webpki-roots?style=flat-square&color=blue)](https://github.com/rustls/webpki-roots/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustls/webpki-roots?style=flat-square&color=yellow)](https://github.com/rustls/webpki-roots/stargazers) [![Forks](https://img.shields.io/github/forks/rustls/webpki-roots?style=flat-square&color=blue)](https://github.com/rustls/webpki-roots/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > CA certificates for use with webpki
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ rustls/webpki-roots 的生产可用性为中等。它可以用于内部开发和
 | forks | 44/100 |
 | stars | 46/100 |
 | topics | 13/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

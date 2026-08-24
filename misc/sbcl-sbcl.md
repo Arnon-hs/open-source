@@ -1,6 +1,6 @@
 # sbcl/sbcl
 
-[![Stars](https://img.shields.io/github/stars/sbcl/sbcl?style=flat-square&color=yellow)](https://github.com/sbcl/sbcl/stargazers) [![Forks](https://img.shields.io/github/forks/sbcl/sbcl?style=flat-square&color=blue)](https://github.com/sbcl/sbcl/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbcl/sbcl?style=flat-square&color=yellow)](https://github.com/sbcl/sbcl/stargazers) [![Forks](https://img.shields.io/github/forks/sbcl/sbcl?style=flat-square&color=blue)](https://github.com/sbcl/sbcl/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | Common Lisp |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ sbcl/sbcl 是 Steel Bank Common Lisp（SBCL）的官方代码镜像，提供最�
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

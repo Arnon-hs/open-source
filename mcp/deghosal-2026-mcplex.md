@@ -1,6 +1,6 @@
 # deghosal-2026/mcplex
 
-[![Stars](https://img.shields.io/github/stars/deghosal-2026/mcplex?style=flat-square&color=yellow)](https://github.com/deghosal-2026/mcplex/stargazers) [![Forks](https://img.shields.io/github/forks/deghosal-2026/mcplex?style=flat-square&color=blue)](https://github.com/deghosal-2026/mcplex/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deghosal-2026/mcplex?style=flat-square&color=yellow)](https://github.com/deghosal-2026/mcplex/stargazers) [![Forks](https://img.shields.io/github/forks/deghosal-2026/mcplex?style=flat-square&color=blue)](https://github.com/deghosal-2026/mcplex/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): 4 Open-Source AI Tools, 1 MCP Server — What I Built and What I Learned
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Education
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ To adopt this project, developers can start by evaluating its feasibility throug
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 30/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 43/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

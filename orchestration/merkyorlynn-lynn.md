@@ -1,6 +1,6 @@
 # MerkyorLynn/Lynn
 
-[![Stars](https://img.shields.io/github/stars/MerkyorLynn/Lynn?style=flat-square&color=yellow)](https://github.com/MerkyorLynn/Lynn/stargazers) [![Forks](https://img.shields.io/github/forks/MerkyorLynn/Lynn?style=flat-square&color=blue)](https://github.com/MerkyorLynn/Lynn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MerkyorLynn/Lynn?style=flat-square&color=yellow)](https://github.com/MerkyorLynn/Lynn/stargazers) [![Forks](https://img.shields.io/github/forks/MerkyorLynn/Lynn?style=flat-square&color=blue)](https://github.com/MerkyorLynn/Lynn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 开源桌面 AI Agent & CLI· 长期记忆 · 多 Agent/CLI Fleet · 语音TTS/ASR · 0 API Key · Open-source desktop AI agent & CLI — long-term memory, multi-agent, voice & a CLI worker fleet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ MerkyorLynn/Lynn 的生产可用性评分为 81/100，主要是因为它有以�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

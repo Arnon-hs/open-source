@@ -1,6 +1,6 @@
 # gammagrid/gammagrid
 
-[![Stars](https://img.shields.io/github/stars/gammagrid/gammagrid?style=flat-square&color=yellow)](https://github.com/gammagrid/gammagrid/stargazers) [![Forks](https://img.shields.io/github/forks/gammagrid/gammagrid?style=flat-square&color=blue)](https://github.com/gammagrid/gammagrid/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gammagrid/gammagrid?style=flat-square&color=yellow)](https://github.com/gammagrid/gammagrid/stargazers) [![Forks](https://img.shields.io/github/forks/gammagrid/gammagrid?style=flat-square&color=blue)](https://github.com/gammagrid/gammagrid/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source options gamma exposure (GEX) & positioning dashboard — dealer GEX, max pain, open interest, IV surface. Self-hosted, Docker, no coding required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Frontend · DevOps/Infra
+Trading · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ gammagrid/gammagrid 帮助研究人员和自动化市场工作流程，提供以
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

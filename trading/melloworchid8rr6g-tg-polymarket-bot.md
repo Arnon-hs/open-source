@@ -1,6 +1,6 @@
 # melloworchid8rr6g/TG-Polymarket-bot
 
-[![Stars](https://img.shields.io/github/stars/melloworchid8rr6g/TG-Polymarket-bot?style=flat-square&color=yellow)](https://github.com/melloworchid8rr6g/TG-Polymarket-bot/stargazers) [![Forks](https://img.shields.io/github/forks/melloworchid8rr6g/TG-Polymarket-bot?style=flat-square&color=blue)](https://github.com/melloworchid8rr6g/TG-Polymarket-bot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/melloworchid8rr6g/TG-Polymarket-bot?style=flat-square&color=yellow)](https://github.com/melloworchid8rr6g/TG-Polymarket-bot/stargazers) [![Forks](https://img.shields.io/github/forks/melloworchid8rr6g/TG-Polymarket-bot?style=flat-square&color=blue)](https://github.com/melloworchid8rr6g/TG-Polymarket-bot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ melloworchid8rr6g/TG-Polymarket-bot 是一个 Telegram bot，实时捕捉 Polyma
 | forks | 57/100 |
 | stars | 53/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sehoon787/my-codex
 
-[![Stars](https://img.shields.io/github/stars/sehoon787/my-codex?style=flat-square&color=yellow)](https://github.com/sehoon787/my-codex/stargazers) [![Forks](https://img.shields.io/github/forks/sehoon787/my-codex?style=flat-square&color=blue)](https://github.com/sehoon787/my-codex/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sehoon787/my-codex?style=flat-square&color=yellow)](https://github.com/sehoon787/my-codex/stargazers) [![Forks](https://img.shields.io/github/forks/sehoon787/my-codex?style=flat-square&color=blue)](https://github.com/sehoon787/my-codex/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install once, get every specialist ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ sehoon787/my-codex 帮助将孤立的提示和工具转化为可重复的代理�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

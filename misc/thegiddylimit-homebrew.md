@@ -1,6 +1,6 @@
 # TheGiddyLimit/homebrew
 
-[![Stars](https://img.shields.io/github/stars/TheGiddyLimit/homebrew?style=flat-square&color=yellow)](https://github.com/TheGiddyLimit/homebrew/stargazers) [![Forks](https://img.shields.io/github/forks/TheGiddyLimit/homebrew?style=flat-square&color=blue)](https://github.com/TheGiddyLimit/homebrew/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheGiddyLimit/homebrew?style=flat-square&color=yellow)](https://github.com/TheGiddyLimit/homebrew/stargazers) [![Forks](https://img.shields.io/github/forks/TheGiddyLimit/homebrew?style=flat-square&color=blue)](https://github.com/TheGiddyLimit/homebrew/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Homebrew JSONs compatible with 5etools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 703 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ TheGiddyLimit/homebrew 提供一套与 5eTools 完全兼容的 Homebrew JSON 文
 | forks | 71/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

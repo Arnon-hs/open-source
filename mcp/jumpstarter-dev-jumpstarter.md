@@ -1,6 +1,6 @@
 # jumpstarter-dev/jumpstarter
 
-[![Stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter?style=flat-square&color=yellow)](https://github.com/jumpstarter-dev/jumpstarter/stargazers) [![Forks](https://img.shields.io/github/forks/jumpstarter-dev/jumpstarter?style=flat-square&color=blue)](https://github.com/jumpstarter-dev/jumpstarter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter?style=flat-square&color=yellow)](https://github.com/jumpstarter-dev/jumpstarter/stargazers) [![Forks](https://img.shields.io/github/forks/jumpstarter-dev/jumpstarter?style=flat-square&color=blue)](https://github.com/jumpstarter-dev/jumpstarter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · DevOps/Infra
+MCP · Automation · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Jumpstarter（jumpstarter-dev/jumpstarter）是一套面向软件世界的硬件
 | forks | 38/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

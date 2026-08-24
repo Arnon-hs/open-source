@@ -1,6 +1,6 @@
 # cstaelen/tidarr
 
-[![Stars](https://img.shields.io/github/stars/cstaelen/tidarr?style=flat-square&color=yellow)](https://github.com/cstaelen/tidarr/stargazers) [![Forks](https://img.shields.io/github/forks/cstaelen/tidarr?style=flat-square&color=blue)](https://github.com/cstaelen/tidarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cstaelen/tidarr?style=flat-square&color=yellow)](https://github.com/cstaelen/tidarr/stargazers) [![Forks](https://img.shields.io/github/forks/cstaelen/tidarr?style=flat-square&color=blue)](https://github.com/cstaelen/tidarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🎵 Self-hosted Tidal downloader with Docker • Multi-service integration • Lidarr-compatible provider.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 618 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ cstaelen/tidarr 是一个基于 Docker 的自托管 Tidal 下载器，能够与�
 | forks | 41/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

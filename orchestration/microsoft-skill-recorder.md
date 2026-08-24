@@ -1,6 +1,6 @@
 # microsoft/skill-recorder
 
-[![Stars](https://img.shields.io/github/stars/microsoft/skill-recorder?style=flat-square&color=yellow)](https://github.com/microsoft/skill-recorder/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/skill-recorder?style=flat-square&color=blue)](https://github.com/microsoft/skill-recorder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/skill-recorder?style=flat-square&color=yellow)](https://github.com/microsoft/skill-recorder/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/skill-recorder?style=flat-square&color=blue)](https://github.com/microsoft/skill-recorder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 672 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ microsoft/skill-recorder 是一个桌面应用程序，能够记录屏幕上的�
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

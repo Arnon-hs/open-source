@@ -1,6 +1,6 @@
 # WP-Autoplugin/wp-autoplugin
 
-[![Stars](https://img.shields.io/github/stars/WP-Autoplugin/wp-autoplugin?style=flat-square&color=yellow)](https://github.com/WP-Autoplugin/wp-autoplugin/stargazers) [![Forks](https://img.shields.io/github/forks/WP-Autoplugin/wp-autoplugin?style=flat-square&color=blue)](https://github.com/WP-Autoplugin/wp-autoplugin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WP-Autoplugin/wp-autoplugin?style=flat-square&color=yellow)](https://github.com/WP-Autoplugin/wp-autoplugin/stargazers) [![Forks](https://img.shields.io/github/forks/WP-Autoplugin/wp-autoplugin?style=flat-square&color=blue)](https://github.com/WP-Autoplugin/wp-autoplugin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ WP-Autoplugin/wp-autoplugin 的生产可用性较高，主要原因是：
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

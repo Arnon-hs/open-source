@@ -1,6 +1,6 @@
 # MasuRii/pi-image-tools
 
-[![Stars](https://img.shields.io/github/stars/MasuRii/pi-image-tools?style=flat-square&color=yellow)](https://github.com/MasuRii/pi-image-tools/stargazers) [![Forks](https://img.shields.io/github/forks/MasuRii/pi-image-tools?style=flat-square&color=blue)](https://github.com/MasuRii/pi-image-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MasuRii/pi-image-tools?style=flat-square&color=yellow)](https://github.com/MasuRii/pi-image-tools/stargazers) [![Forks](https://img.shields.io/github/forks/MasuRii/pi-image-tools?style=flat-square&color=blue)](https://github.com/MasuRii/pi-image-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Image attachment and rendering extension for Pi TUI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ MasuRii/pi-image-tools 是一款为 Pi TUI（终端用户界面）提供图片�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
-| usefulness | 90/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

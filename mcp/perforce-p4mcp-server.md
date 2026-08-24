@@ -1,6 +1,6 @@
 # perforce/p4mcp-server
 
-[![Stars](https://img.shields.io/github/stars/perforce/p4mcp-server?style=flat-square&color=yellow)](https://github.com/perforce/p4mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/perforce/p4mcp-server?style=flat-square&color=blue)](https://github.com/perforce/p4mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perforce/p4mcp-server?style=flat-square&color=yellow)](https://github.com/perforce/p4mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/perforce/p4mcp-server?style=flat-square&color=blue)](https://github.com/perforce/p4mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [Community Supported] Perforce P4 MCP Server is a Model Context Protocol (MCP) server that integrates with the Perforce P4 version control system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Adopting the Perforce P4 MCP Server involves the following steps:
 | forks | 33/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

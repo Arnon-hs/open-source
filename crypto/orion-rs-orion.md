@@ -1,6 +1,6 @@
 # orion-rs/orion
 
-[![Stars](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&color=yellow)](https://github.com/orion-rs/orion/stargazers) [![Forks](https://img.shields.io/github/forks/orion-rs/orion?style=flat-square&color=blue)](https://github.com/orion-rs/orion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&color=yellow)](https://github.com/orion-rs/orion/stargazers) [![Forks](https://img.shields.io/github/forks/orion-rs/orion?style=flat-square&color=blue)](https://github.com/orion-rs/orion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Usable, easy and safe pure-Rust crypto
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 723 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Orion 有较高的生产可用性，因为它最近有活动，采用率高，�
 | forks | 44/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

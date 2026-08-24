@@ -1,6 +1,6 @@
 # alex/rust-asn1
 
-[![Stars](https://img.shields.io/github/stars/alex/rust-asn1?style=flat-square&color=yellow)](https://github.com/alex/rust-asn1/stargazers) [![Forks](https://img.shields.io/github/forks/alex/rust-asn1?style=flat-square&color=blue)](https://github.com/alex/rust-asn1/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alex/rust-asn1?style=flat-square&color=yellow)](https://github.com/alex/rust-asn1/stargazers) [![Forks](https://img.shields.io/github/forks/alex/rust-asn1?style=flat-square&color=blue)](https://github.com/alex/rust-asn1/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust ASN.1 (DER) serializer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ alex/rust-asn1 的生产可用性为中等。虽然它是一个稳定和可靠�
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

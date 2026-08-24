@@ -1,6 +1,6 @@
 # Strategic-Automation/dspy-compounding-engineering
 
-[![Stars](https://img.shields.io/github/stars/Strategic-Automation/dspy-compounding-engineering?style=flat-square&color=yellow)](https://github.com/Strategic-Automation/dspy-compounding-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/Strategic-Automation/dspy-compounding-engineering?style=flat-square&color=blue)](https://github.com/Strategic-Automation/dspy-compounding-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Strategic-Automation/dspy-compounding-engineering?style=flat-square&color=yellow)](https://github.com/Strategic-Automation/dspy-compounding-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/Strategic-Automation/dspy-compounding-engineering?style=flat-square&color=blue)](https://github.com/Strategic-Automation/dspy-compounding-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first AI engineering agent that learns from your codebase using DSPy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Education
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Strategic-Automation/dspy-compounding-engineering：Strategic-Automation/dspy-co
 | forks | 23/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

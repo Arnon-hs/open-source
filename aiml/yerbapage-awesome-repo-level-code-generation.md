@@ -1,6 +1,6 @@
 # YerbaPage/Awesome-Repo-Level-Code-Generation
 
-[![Stars](https://img.shields.io/github/stars/YerbaPage/Awesome-Repo-Level-Code-Generation?style=flat-square&color=yellow)](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation/stargazers) [![Forks](https://img.shields.io/github/forks/YerbaPage/Awesome-Repo-Level-Code-Generation?style=flat-square&color=blue)](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YerbaPage/Awesome-Repo-Level-Code-Generation?style=flat-square&color=yellow)](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation/stargazers) [![Forks](https://img.shields.io/github/forks/YerbaPage/Awesome-Repo-Level-Code-Generation?style=flat-square&color=blue)](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Must-read papers on Repository-level Code Generation & Issue Resolution 🔥
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ YerbaPage/Awesome-Repo-Level-Code-Generation：YerbaPage/Awesome-Repo-Level-Code
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

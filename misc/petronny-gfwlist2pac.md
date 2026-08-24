@@ -1,6 +1,6 @@
 # petronny/gfwlist2pac
 
-[![Stars](https://img.shields.io/github/stars/petronny/gfwlist2pac?style=flat-square&color=yellow)](https://github.com/petronny/gfwlist2pac/stargazers) [![Forks](https://img.shields.io/github/forks/petronny/gfwlist2pac?style=flat-square&color=blue)](https://github.com/petronny/gfwlist2pac/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petronny/gfwlist2pac?style=flat-square&color=yellow)](https://github.com/petronny/gfwlist2pac/stargazers) [![Forks](https://img.shields.io/github/forks/petronny/gfwlist2pac?style=flat-square&color=blue)](https://github.com/petronny/gfwlist2pac/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically convert gfwlist to pac everyday
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 442 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ petronny/gfwlist2pac 是一个开源项目，自动将 gfwlist 转换为 pac 文
 | forks | 66/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

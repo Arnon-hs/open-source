@@ -1,6 +1,6 @@
 # ilanbenb/wa_llm
 
-[![Stars](https://img.shields.io/github/stars/ilanbenb/wa_llm?style=flat-square&color=yellow)](https://github.com/ilanbenb/wa_llm/stargazers) [![Forks](https://img.shields.io/github/forks/ilanbenb/wa_llm?style=flat-square&color=blue)](https://github.com/ilanbenb/wa_llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilanbenb/wa_llm?style=flat-square&color=yellow)](https://github.com/ilanbenb/wa_llm/stargazers) [![Forks](https://img.shields.io/github/forks/ilanbenb/wa_llm?style=flat-square&color=blue)](https://github.com/ilanbenb/wa_llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A WhatsApp bot that can participate in group conversations, powered by AI. The bot monitors group messages and responds when mentioned.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ ilanbenb/wa_llm 是一个基于 AI 的 WhatsApp 群聊机器人，能够实时�
 | forks | 44/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rust-lang/rfcbot-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rfcbot-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/rfcbot-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rfcbot-rs?style=flat-square&color=blue)](https://github.com/rust-lang/rfcbot-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rfcbot-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/rfcbot-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rfcbot-rs?style=flat-square&color=blue)](https://github.com/rust-lang/rfcbot-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Coordinates asynchronous decision making on Rust repositories. Status of tracked issues and PRs can be viewed at https://rfcbot.rs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ rust-lang/rfcbot-rs：rust-lang/rfcbot-rs helps remove repetitive manual operati
 | forks | 47/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kahliburke/Tachikoma.jl
 
-[![Stars](https://img.shields.io/github/stars/kahliburke/Tachikoma.jl?style=flat-square&color=yellow)](https://github.com/kahliburke/Tachikoma.jl/stargazers) [![Forks](https://img.shields.io/github/forks/kahliburke/Tachikoma.jl?style=flat-square&color=blue)](https://github.com/kahliburke/Tachikoma.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kahliburke/Tachikoma.jl?style=flat-square&color=yellow)](https://github.com/kahliburke/Tachikoma.jl/stargazers) [![Forks](https://img.shields.io/github/forks/kahliburke/Tachikoma.jl?style=flat-square&color=blue)](https://github.com/kahliburke/Tachikoma.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Build rich terminal apps in Julia — widgets, layouts, sixel graphics, Kitty graphics, animations, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Tachikoma.jl 的生产可用性为中等。它适合用于原型或内部工作�
 | forks | 21/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # akutishevsky/nutrition-mcp
 
-[![Stars](https://img.shields.io/github/stars/akutishevsky/nutrition-mcp?style=flat-square&color=yellow)](https://github.com/akutishevsky/nutrition-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/akutishevsky/nutrition-mcp?style=flat-square&color=blue)](https://github.com/akutishevsky/nutrition-mcp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akutishevsky/nutrition-mcp?style=flat-square&color=yellow)](https://github.com/akutishevsky/nutrition-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/akutishevsky/nutrition-mcp?style=flat-square&color=blue)](https://github.com/akutishevsky/nutrition-mcp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A remote MCP server for personal nutrition tracking — log meals, track macros, and review nutrition history through conversation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ akutishevsky/nutrition-mcp 的生产可用性为中等。它适合用于原型�
 | forks | 29/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

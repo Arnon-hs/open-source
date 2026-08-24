@@ -1,6 +1,6 @@
 # h5i-dev/h5i
 
-[![Stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=flat-square&color=yellow)](https://github.com/h5i-dev/h5i/stargazers) [![Forks](https://img.shields.io/github/forks/h5i-dev/h5i?style=flat-square&color=blue)](https://github.com/h5i-dev/h5i/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=flat-square&color=yellow)](https://github.com/h5i-dev/h5i/stargazers) [![Forks](https://img.shields.io/github/forks/h5i-dev/h5i?style=flat-square&color=blue)](https://github.com/h5i-dev/h5i/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Auditable workspaces for AI agent teams: sandboxed worktrees, multi-agent peer-review, 95% lower token waste, and persistent memory.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ h5i-dev/h5i：h5i-dev/h5i helps turn isolated prompts and tools into repeatable 
 | forks | 35/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

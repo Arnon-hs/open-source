@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-devops-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-devops-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-devops-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-devops-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-devops-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-devops-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-devops-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-devops-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-devops-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Yunxiao MCP Server provides AI assistants with the ability to interact with the Yunxiao platform. It provides a set of tools that interact with Yunxiao's API, allowing AI assistants to manage Codeup repository, Project, Pipeline, Packages etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ aliyun/alibabacloud-devops-mcp-server：aliyun/alibabacloud-devops-mcp-server he
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 25/100 |
-| outlook | 76/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hyperium/hyper
 
-[![Stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&color=yellow)](https://github.com/hyperium/hyper/stargazers) [![Forks](https://img.shields.io/github/forks/hyperium/hyper?style=flat-square&color=blue)](https://github.com/hyperium/hyper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&color=yellow)](https://github.com/hyperium/hyper/stargazers) [![Forks](https://img.shields.io/github/forks/hyperium/hyper?style=flat-square&color=blue)](https://github.com/hyperium/hyper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An HTTP library for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Hyperium/Hyper的生产可用性较高，因为它有着强大的生态系统支
 | forks | 81/100 |
 | stars | 90/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

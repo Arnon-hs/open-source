@@ -1,6 +1,6 @@
 # googleads/googleads-mobile-android-examples
 
-[![Stars](https://img.shields.io/github/stars/googleads/googleads-mobile-android-examples?style=flat-square&color=yellow)](https://github.com/googleads/googleads-mobile-android-examples/stargazers) [![Forks](https://img.shields.io/github/forks/googleads/googleads-mobile-android-examples?style=flat-square&color=blue)](https://github.com/googleads/googleads-mobile-android-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleads/googleads-mobile-android-examples?style=flat-square&color=yellow)](https://github.com/googleads/googleads-mobile-android-examples/stargazers) [![Forks](https://img.shields.io/github/forks/googleads/googleads-mobile-android-examples?style=flat-square&color=blue)](https://github.com/googleads/googleads-mobile-android-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > googleads-mobile-android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Mobile · Education · Marketing
+Mobile
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ googleads/googleads-mobile-android-examples 是一个开源项目，提供了 Go
 | forks | 82/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

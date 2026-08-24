@@ -1,6 +1,6 @@
 # bluesky-social/atproto-website
 
-[![Stars](https://img.shields.io/github/stars/bluesky-social/atproto-website?style=flat-square&color=yellow)](https://github.com/bluesky-social/atproto-website/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/atproto-website?style=flat-square&color=blue)](https://github.com/bluesky-social/atproto-website/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluesky-social/atproto-website?style=flat-square&color=yellow)](https://github.com/bluesky-social/atproto-website/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/atproto-website?style=flat-square&color=blue)](https://github.com/bluesky-social/atproto-website/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,14 +69,15 @@ bluesky-social/atproto-网站是一个开源项目，评分为51/100。它的价
 | forks | 59/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

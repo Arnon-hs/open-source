@@ -1,6 +1,6 @@
 # Haxxnet/Compose-Examples
 
-[![Stars](https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=flat-square&color=yellow)](https://github.com/Haxxnet/Compose-Examples/stargazers) [![Forks](https://img.shields.io/github/forks/Haxxnet/Compose-Examples?style=flat-square&color=blue)](https://github.com/Haxxnet/Compose-Examples/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=flat-square&color=yellow)](https://github.com/Haxxnet/Compose-Examples/stargazers) [![Forks](https://img.shields.io/github/forks/Haxxnet/Compose-Examples?style=flat-square&color=blue)](https://github.com/Haxxnet/Compose-Examples/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 345 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevOps/Infra · Education
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Haxxnet/Compose-Examples 是一个收集了多种自托管开源与商业软件 
 | forks | 63/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hydromatic/morel
 
-[![Stars](https://img.shields.io/github/stars/hydromatic/morel?style=flat-square&color=yellow)](https://github.com/hydromatic/morel/stargazers) [![Forks](https://img.shields.io/github/forks/hydromatic/morel?style=flat-square&color=blue)](https://github.com/hydromatic/morel/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hydromatic/morel?style=flat-square&color=yellow)](https://github.com/hydromatic/morel/stargazers) [![Forks](https://img.shields.io/github/forks/hydromatic/morel?style=flat-square&color=blue)](https://github.com/hydromatic/morel/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A functional query language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ hydromatic/morel 的生产可用性为中等。它可以在 prototyping 或内�
 | forks | 33/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

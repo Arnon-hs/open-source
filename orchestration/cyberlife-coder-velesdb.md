@@ -1,6 +1,6 @@
 # cyberlife-coder/VelesDB
 
-[![Stars](https://img.shields.io/github/stars/cyberlife-coder/VelesDB?style=flat-square&color=yellow)](https://github.com/cyberlife-coder/VelesDB/stargazers) [![Forks](https://img.shields.io/github/forks/cyberlife-coder/VelesDB?style=flat-square&color=blue)](https://github.com/cyberlife-coder/VelesDB/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyberlife-coder/VelesDB?style=flat-square&color=yellow)](https://github.com/cyberlife-coder/VelesDB/stargazers) [![Forks](https://img.shields.io/github/forks/cyberlife-coder/VelesDB?style=flat-square&color=blue)](https://github.com/cyberlife-coder/VelesDB/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL — remember / recall / why over the Model Context Protocol. why() reconnects a decision to its context across sessions, where pure vector recall (Mem0/Zep) goes blind. Runs on server, laptop, browser, edge. Zero cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ VelesDB 的生产可用性为中等。它适合用于原型或内部工作流的
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

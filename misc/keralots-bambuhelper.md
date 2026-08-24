@@ -1,6 +1,6 @@
 # Keralots/BambuHelper
 
-[![Stars](https://img.shields.io/github/stars/Keralots/BambuHelper?style=flat-square&color=yellow)](https://github.com/Keralots/BambuHelper/stargazers) [![Forks](https://img.shields.io/github/forks/Keralots/BambuHelper?style=flat-square&color=blue)](https://github.com/Keralots/BambuHelper/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Keralots/BambuHelper?style=flat-square&color=yellow)](https://github.com/Keralots/BambuHelper/stargazers) [![Forks](https://img.shields.io/github/forks/Keralots/BambuHelper?style=flat-square&color=blue)](https://github.com/Keralots/BambuHelper/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Keralots/BambuHelper 是一个开源项目，提供了一种有用的工具，�
 | forks | 42/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

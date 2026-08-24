@@ -1,6 +1,6 @@
 # senoldogann/LLM-Context-Manager
 
-[![Stars](https://img.shields.io/github/stars/senoldogann/LLM-Context-Manager?style=flat-square&color=yellow)](https://github.com/senoldogann/LLM-Context-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/senoldogann/LLM-Context-Manager?style=flat-square&color=blue)](https://github.com/senoldogann/LLM-Context-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/senoldogann/LLM-Context-Manager?style=flat-square&color=yellow)](https://github.com/senoldogann/LLM-Context-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/senoldogann/LLM-Context-Manager?style=flat-square&color=blue)](https://github.com/senoldogann/LLM-Context-Manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Bridge the gap between your codebase and your AI editor. CCM transforms static source code into a dynamic, queryable Knowledge Graph, enabling AI agents to navigate, understand, and reason about your project with surgical precision
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ senoldogann/LLM-Context-Manager 的生产可用性为中等（Medium）。它适
 | forks | 15/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 65/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

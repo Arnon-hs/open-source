@@ -1,6 +1,6 @@
 # Lethe044/hermes-life-os
 
-[![Stars](https://img.shields.io/github/stars/Lethe044/hermes-life-os?style=flat-square&color=yellow)](https://github.com/Lethe044/hermes-life-os/stargazers) [![Forks](https://img.shields.io/github/forks/Lethe044/hermes-life-os?style=flat-square&color=blue)](https://github.com/Lethe044/hermes-life-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lethe044/hermes-life-os?style=flat-square&color=yellow)](https://github.com/Lethe044/hermes-life-os/stargazers) [![Forks](https://img.shields.io/github/forks/Lethe044/hermes-life-os?style=flat-square&color=blue)](https://github.com/Lethe044/hermes-life-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Personal OS agent that learns who you are, detects life patterns, and grows smarter about you every day. Memory + Cron + Atropos RL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Education
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Hermes-life-os 的生产可用性为中等级别。它适
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

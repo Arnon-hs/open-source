@@ -1,6 +1,6 @@
 # tilework-tech/nori-skillsets
 
-[![Stars](https://img.shields.io/github/stars/tilework-tech/nori-skillsets?style=flat-square&color=yellow)](https://github.com/tilework-tech/nori-skillsets/stargazers) [![Forks](https://img.shields.io/github/forks/tilework-tech/nori-skillsets?style=flat-square&color=blue)](https://github.com/tilework-tech/nori-skillsets/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tilework-tech/nori-skillsets?style=flat-square&color=yellow)](https://github.com/tilework-tech/nori-skillsets/stargazers) [![Forks](https://img.shields.io/github/forks/tilework-tech/nori-skillsets?style=flat-square&color=blue)](https://github.com/tilework-tech/nori-skillsets/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > System for managing collections of agent skills. Switch between skillsets seamlessly!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ tilework-tech/nori‑skillsets 是一个用于管理和切换智能体技能集�
 | forks | 25/100 |
 | stars | 45/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

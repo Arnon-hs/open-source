@@ -1,6 +1,6 @@
 # bbruceyuan/LLMs-Zero-to-Hero
 
-[![Stars](https://img.shields.io/github/stars/bbruceyuan/LLMs-Zero-to-Hero?style=flat-square&color=yellow)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/stargazers) [![Forks](https://img.shields.io/github/forks/bbruceyuan/LLMs-Zero-to-Hero?style=flat-square&color=blue)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bbruceyuan/LLMs-Zero-to-Hero?style=flat-square&color=yellow)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/stargazers) [![Forks](https://img.shields.io/github/forks/bbruceyuan/LLMs-Zero-to-Hero?style=flat-square&color=blue)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ To adopt LLMs-Zero-to-Hero, developers can follow a step-by-step approach:
 | forks | 55/100 |
 | stars | 71/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

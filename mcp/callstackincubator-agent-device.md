@@ -1,6 +1,6 @@
 # callstackincubator/agent-device
 
-[![Stars](https://img.shields.io/github/stars/callstackincubator/agent-device?style=flat-square&color=yellow)](https://github.com/callstackincubator/agent-device/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/agent-device?style=flat-square&color=blue)](https://github.com/callstackincubator/agent-device/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/callstackincubator/agent-device?style=flat-square&color=yellow)](https://github.com/callstackincubator/agent-device/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/agent-device?style=flat-square&color=blue)](https://github.com/callstackincubator/agent-device/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > CLI to control iOS and Android devices for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ The project scores 86/100 and shows strong production signals: frequent commits 
 | forks | 52/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 82/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

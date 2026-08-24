@@ -1,6 +1,6 @@
 # elalish/manifold
 
-[![Stars](https://img.shields.io/github/stars/elalish/manifold?style=flat-square&color=yellow)](https://github.com/elalish/manifold/stargazers) [![Forks](https://img.shields.io/github/forks/elalish/manifold?style=flat-square&color=blue)](https://github.com/elalish/manifold/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elalish/manifold?style=flat-square&color=yellow)](https://github.com/elalish/manifold/stargazers) [![Forks](https://img.shields.io/github/forks/elalish/manifold?style=flat-square&color=blue)](https://github.com/elalish/manifold/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Geometry library for topological robustness
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Manifold is a C++ geometry library that focuses on topological robustness, offer
 | forks | 59/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

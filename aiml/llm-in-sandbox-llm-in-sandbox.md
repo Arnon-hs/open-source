@@ -1,6 +1,6 @@
 # llm-in-sandbox/llm-in-sandbox
 
-[![Stars](https://img.shields.io/github/stars/llm-in-sandbox/llm-in-sandbox?style=flat-square&color=yellow)](https://github.com/llm-in-sandbox/llm-in-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/llm-in-sandbox/llm-in-sandbox?style=flat-square&color=blue)](https://github.com/llm-in-sandbox/llm-in-sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm-in-sandbox/llm-in-sandbox?style=flat-square&color=yellow)](https://github.com/llm-in-sandbox/llm-in-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/llm-in-sandbox/llm-in-sandbox?style=flat-square&color=blue)](https://github.com/llm-in-sandbox/llm-in-sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Computer Environments Elicit General Agentic Intelligence in LLMs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 236 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Here's a brief summary of the project:
 | forks | 31/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

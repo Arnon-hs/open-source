@@ -1,6 +1,6 @@
 # NousResearch/Hermes-Bot-Mode
 
-[![Stars](https://img.shields.io/github/stars/NousResearch/Hermes-Bot-Mode?style=flat-square&color=yellow)](https://github.com/NousResearch/Hermes-Bot-Mode/stargazers) [![Forks](https://img.shields.io/github/forks/NousResearch/Hermes-Bot-Mode?style=flat-square&color=blue)](https://github.com/NousResearch/Hermes-Bot-Mode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NousResearch/Hermes-Bot-Mode?style=flat-square&color=yellow)](https://github.com/NousResearch/Hermes-Bot-Mode/stargazers) [![Forks](https://img.shields.io/github/forks/NousResearch/Hermes-Bot-Mode?style=flat-square&color=blue)](https://github.com/NousResearch/Hermes-Bot-Mode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ NousResearch/Hermes-Bot-Mode 是一款开源项目，提供 Bot 模式功能，�
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

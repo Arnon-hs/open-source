@@ -1,6 +1,6 @@
 # SVG-Edit/svgedit
 
-[![Stars](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=flat-square&color=yellow)](https://github.com/SVG-Edit/svgedit/stargazers) [![Forks](https://img.shields.io/github/forks/SVG-Edit/svgedit?style=flat-square&color=blue)](https://github.com/SVG-Edit/svgedit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=flat-square&color=yellow)](https://github.com/SVG-Edit/svgedit/stargazers) [![Forks](https://img.shields.io/github/forks/SVG-Edit/svgedit?style=flat-square&color=blue)](https://github.com/SVG-Edit/svgedit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful SVG-Editor for your browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.7k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ SVG‑Edit（svgedit）是一款基于浏览器的开源 SVG 编辑器，使用�
 | forks | 81/100 |
 | stars | 83/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

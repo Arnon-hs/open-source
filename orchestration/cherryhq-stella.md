@@ -1,6 +1,6 @@
 # CherryHQ/stella
 
-[![Stars](https://img.shields.io/github/stars/CherryHQ/stella?style=flat-square&color=yellow)](https://github.com/CherryHQ/stella/stargazers) [![Forks](https://img.shields.io/github/forks/CherryHQ/stella?style=flat-square&color=blue)](https://github.com/CherryHQ/stella/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CherryHQ/stella?style=flat-square&color=yellow)](https://github.com/CherryHQ/stella/stargazers) [![Forks](https://img.shields.io/github/forks/CherryHQ/stella?style=flat-square&color=blue)](https://github.com/CherryHQ/stella/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AI partners for every person: multi-user, multi-agent memory, trusted tools, schedules, sandboxed workspaces, and chat.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ CherryHQ/stella具有高生产可用性，具有最近的活动、广泛的采�
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

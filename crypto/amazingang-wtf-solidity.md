@@ -1,6 +1,6 @@
 # AmazingAng/WTF-Solidity
 
-[![Stars](https://img.shields.io/github/stars/AmazingAng/WTF-Solidity?style=flat-square&color=yellow)](https://github.com/AmazingAng/WTF-Solidity/stargazers) [![Forks](https://img.shields.io/github/forks/AmazingAng/WTF-Solidity?style=flat-square&color=blue)](https://github.com/AmazingAng/WTF-Solidity/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmazingAng/WTF-Solidity?style=flat-square&color=yellow)](https://github.com/AmazingAng/WTF-Solidity/stargazers) [![Forks](https://img.shields.io/github/forks/AmazingAng/WTF-Solidity?style=flat-square&color=blue)](https://github.com/AmazingAng/WTF-Solidity/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Education
+Crypto · Education
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ WTF Solidity 的生产可用性较高，主要原因是：
 | forks | 85/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 84/100 |
+| recency | 60/100 |
 | adoption | 87/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ddmoyu/javm
 
-[![Stars](https://img.shields.io/github/stars/ddmoyu/javm?style=flat-square&color=yellow)](https://github.com/ddmoyu/javm/stargazers) [![Forks](https://img.shields.io/github/forks/ddmoyu/javm?style=flat-square&color=blue)](https://github.com/ddmoyu/javm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ddmoyu/javm?style=flat-square&color=yellow)](https://github.com/ddmoyu/javm/stargazers) [![Forks](https://img.shields.io/github/forks/ddmoyu/javm?style=flat-square&color=blue)](https://github.com/ddmoyu/javm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Jav 视频管理工具，包含：刮削，下载，播放。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 279 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ ddmoyu/javm is an open-source video management tool written in Rust, offering fe
 | forks | 35/100 |
 | stars | 52/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

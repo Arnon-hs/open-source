@@ -1,6 +1,6 @@
 # OpenFeign/querydsl
 
-[![Stars](https://img.shields.io/github/stars/OpenFeign/querydsl?style=flat-square&color=yellow)](https://github.com/OpenFeign/querydsl/stargazers) [![Forks](https://img.shields.io/github/forks/OpenFeign/querydsl?style=flat-square&color=blue)](https://github.com/OpenFeign/querydsl/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenFeign/querydsl?style=flat-square&color=yellow)](https://github.com/OpenFeign/querydsl/stargazers) [![Forks](https://img.shields.io/github/forks/OpenFeign/querydsl?style=flat-square&color=blue)](https://github.com/OpenFeign/querydsl/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Unified Queries for Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 640 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ OpenFeign/querydsl：OpenFeign/querydsl may be useful when its README and activi
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

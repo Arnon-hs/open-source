@@ -1,6 +1,6 @@
 # icoretech/codex-pooler
 
-[![Stars](https://img.shields.io/github/stars/icoretech/codex-pooler?style=flat-square&color=yellow)](https://github.com/icoretech/codex-pooler/stargazers) [![Forks](https://img.shields.io/github/forks/icoretech/codex-pooler?style=flat-square&color=blue)](https://github.com/icoretech/codex-pooler/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icoretech/codex-pooler?style=flat-square&color=yellow)](https://github.com/icoretech/codex-pooler/stargazers) [![Forks](https://img.shields.io/github/forks/icoretech/codex-pooler?style=flat-square&color=blue)](https://github.com/icoretech/codex-pooler/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The full featured self-hosted Codex gateway, for teams, agents and you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ icoretech/codex-pooler 是一款功能完整的自托管 Codex 网关，旨在�
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

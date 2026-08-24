@@ -1,6 +1,6 @@
 # danmolitor/forme
 
-[![Stars](https://img.shields.io/github/stars/danmolitor/forme?style=flat-square&color=yellow)](https://github.com/danmolitor/forme/stargazers) [![Forks](https://img.shields.io/github/forks/danmolitor/forme?style=flat-square&color=blue)](https://github.com/danmolitor/forme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danmolitor/forme?style=flat-square&color=yellow)](https://github.com/danmolitor/forme/stargazers) [![Forks](https://img.shields.io/github/forks/danmolitor/forme?style=flat-square&color=blue)](https://github.com/danmolitor/forme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > PDF generation with JSX. Page breaks that actually work.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Database
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ danmolitor/forme 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

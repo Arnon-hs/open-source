@@ -1,6 +1,6 @@
 # found-cake/kali-mcp-go
 
-[![Stars](https://img.shields.io/github/stars/found-cake/kali-mcp-go?style=flat-square&color=yellow)](https://github.com/found-cake/kali-mcp-go/stargazers) [![Forks](https://img.shields.io/github/forks/found-cake/kali-mcp-go?style=flat-square&color=blue)](https://github.com/found-cake/kali-mcp-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/found-cake/kali-mcp-go?style=flat-square&color=yellow)](https://github.com/found-cake/kali-mcp-go/stargazers) [![Forks](https://img.shields.io/github/forks/found-cake/kali-mcp-go?style=flat-square&color=blue)](https://github.com/found-cake/kali-mcp-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Let AI agents run nmap, metasploit, sqlmap, hydra and more in parallel — MCP server built for pentesting and CTF
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ found-cake/kali-mcp-go 是一个基于 Go 实现的 Model Context Protocol（MCP
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

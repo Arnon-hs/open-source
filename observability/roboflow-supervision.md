@@ -1,6 +1,6 @@
 # roboflow/supervision
 
-[![Stars](https://img.shields.io/github/stars/roboflow/supervision?style=flat-square&color=yellow)](https://github.com/roboflow/supervision/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/supervision?style=flat-square&color=blue)](https://github.com/roboflow/supervision/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roboflow/supervision?style=flat-square&color=yellow)](https://github.com/roboflow/supervision/stargazers) [![Forks](https://img.shields.io/github/forks/roboflow/supervision?style=flat-square&color=blue)](https://github.com/roboflow/supervision/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > We write your reusable computer vision tools. 💜
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Observability · Education
+Observability
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Roboflow / Supervision 是一个面向计算机视觉任务的可复用工�
 | forks | 90/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 97/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

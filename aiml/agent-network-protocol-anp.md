@@ -1,6 +1,6 @@
 # agent-network-protocol/anp
 
-[![Stars](https://img.shields.io/github/stars/agent-network-protocol/anp?style=flat-square&color=yellow)](https://github.com/agent-network-protocol/anp/stargazers) [![Forks](https://img.shields.io/github/forks/agent-network-protocol/anp?style=flat-square&color=blue)](https://github.com/agent-network-protocol/anp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-network-protocol/anp?style=flat-square&color=yellow)](https://github.com/agent-network-protocol/anp/stargazers) [![Forks](https://img.shields.io/github/forks/agent-network-protocol/anp?style=flat-square&color=blue)](https://github.com/agent-network-protocol/anp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Our vision is to provide communication capabilities for intelligent agents, allowing them to connect with each other to form a collaborative network of intelligent agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ agent‑network‑protocol（ANP）致力于为智能体提供统一的通信能
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

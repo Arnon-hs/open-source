@@ -1,6 +1,6 @@
 # istio/ztunnel
 
-[![Stars](https://img.shields.io/github/stars/istio/ztunnel?style=flat-square&color=yellow)](https://github.com/istio/ztunnel/stargazers) [![Forks](https://img.shields.io/github/forks/istio/ztunnel?style=flat-square&color=blue)](https://github.com/istio/ztunnel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/istio/ztunnel?style=flat-square&color=yellow)](https://github.com/istio/ztunnel/stargazers) [![Forks](https://img.shields.io/github/forks/istio/ztunnel?style=flat-square&color=blue)](https://github.com/istio/ztunnel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The `ztunnel` component of ambient mesh
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Here's a brief summary and explanation of the `ztunnel` component:
 | forks | 57/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

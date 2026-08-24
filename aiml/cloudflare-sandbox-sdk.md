@@ -1,6 +1,6 @@
 # cloudflare/sandbox-sdk
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/sandbox-sdk?style=flat-square&color=yellow)](https://github.com/cloudflare/sandbox-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/sandbox-sdk?style=flat-square&color=blue)](https://github.com/cloudflare/sandbox-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/sandbox-sdk?style=flat-square&color=yellow)](https://github.com/cloudflare/sandbox-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/sandbox-sdk?style=flat-square&color=blue)](https://github.com/cloudflare/sandbox-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Run sandboxed code environments on Cloudflare's edge network
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ cloudflare/sandbox-sdk 是一套基于 Cloudflare 边缘网络的沙箱运行时
 | forks | 50/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

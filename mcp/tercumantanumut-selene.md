@@ -1,6 +1,6 @@
 # tercumantanumut/selene
 
-[![Stars](https://img.shields.io/github/stars/tercumantanumut/selene?style=flat-square&color=yellow)](https://github.com/tercumantanumut/selene/stargazers) [![Forks](https://img.shields.io/github/forks/tercumantanumut/selene?style=flat-square&color=blue)](https://github.com/tercumantanumut/selene/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tercumantanumut/selene?style=flat-square&color=yellow)](https://github.com/tercumantanumut/selene/stargazers) [![Forks](https://img.shields.io/github/forks/tercumantanumut/selene?style=flat-square&color=blue)](https://github.com/tercumantanumut/selene/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Selene is a desktop app that runs AI agents on your machine. Connect them to your WhatsApp, Telegram, Slack, or Discord. Write code, generate images, build personal assistants. All from one place. Your data stays on your device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Selene 具备较高的生产就绪度，适合作为企业或个人在本地快�
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

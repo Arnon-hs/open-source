@@ -1,6 +1,6 @@
 # nhibernate/nhibernate-core
 
-[![Stars](https://img.shields.io/github/stars/nhibernate/nhibernate-core?style=flat-square&color=yellow)](https://github.com/nhibernate/nhibernate-core/stargazers) [![Forks](https://img.shields.io/github/forks/nhibernate/nhibernate-core?style=flat-square&color=blue)](https://github.com/nhibernate/nhibernate-core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nhibernate/nhibernate-core?style=flat-square&color=yellow)](https://github.com/nhibernate/nhibernate-core/stargazers) [![Forks](https://img.shields.io/github/forks/nhibernate/nhibernate-core?style=flat-square&color=blue)](https://github.com/nhibernate/nhibernate-core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > NHibernate Object Relational Mapper
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 932 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database
+Backend · Database
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ NHibernate Core 的生产可用性很高，主要原因是：
 | forks | 74/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

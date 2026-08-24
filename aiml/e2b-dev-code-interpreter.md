@@ -1,6 +1,6 @@
 # e2b-dev/code-interpreter
 
-[![Stars](https://img.shields.io/github/stars/e2b-dev/code-interpreter?style=flat-square&color=yellow)](https://github.com/e2b-dev/code-interpreter/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/code-interpreter?style=flat-square&color=blue)](https://github.com/e2b-dev/code-interpreter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e2b-dev/code-interpreter?style=flat-square&color=yellow)](https://github.com/e2b-dev/code-interpreter/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/code-interpreter?style=flat-square&color=blue)](https://github.com/e2b-dev/code-interpreter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 219 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ e2b-dev/code-interpreter 是一个开源项目，提供了 Python 和 JS/TS SDK�
 | forks | 59/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

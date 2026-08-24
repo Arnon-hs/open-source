@@ -1,6 +1,6 @@
 # neo4j-labs/agent-memory
 
-[![Stars](https://img.shields.io/github/stars/neo4j-labs/agent-memory?style=flat-square&color=yellow)](https://github.com/neo4j-labs/agent-memory/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-labs/agent-memory?style=flat-square&color=blue)](https://github.com/neo4j-labs/agent-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neo4j-labs/agent-memory?style=flat-square&color=yellow)](https://github.com/neo4j-labs/agent-memory/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-labs/agent-memory?style=flat-square&color=blue)](https://github.com/neo4j-labs/agent-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A graph-native memory system for AI agents and context graphs. Store conversations, build knowledge graphs, and let your agents learn from their own reasoning — all backed by Neo4j.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 362 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ neo4j‑labs/agent‑memory 是一个面向图数据库的 AI 记忆系统，能
 | forks | 48/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

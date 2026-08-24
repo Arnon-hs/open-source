@@ -1,6 +1,6 @@
 # microsoft/UFO
 
-[![Stars](https://img.shields.io/github/stars/microsoft/UFO?style=flat-square&color=yellow)](https://github.com/microsoft/UFO/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/UFO?style=flat-square&color=blue)](https://github.com/microsoft/UFO/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/UFO?style=flat-square&color=yellow)](https://github.com/microsoft/UFO/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/UFO?style=flat-square&color=blue)](https://github.com/microsoft/UFO/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > UFO³: Weaving the Digital Agent Galaxy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Microsoft/UFO（UFO³）是一套面向数字代理的自动化框架，旨在�
 | forks | 75/100 |
 | stars | 84/100 |
 | topics | 75/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 81/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

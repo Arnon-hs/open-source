@@ -1,6 +1,6 @@
 # Bithack/principia
 
-[![Stars](https://img.shields.io/github/stars/Bithack/principia?style=flat-square&color=yellow)](https://github.com/Bithack/principia/stargazers) [![Forks](https://img.shields.io/github/forks/Bithack/principia?style=flat-square&color=blue)](https://github.com/Bithack/principia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bithack/principia?style=flat-square&color=yellow)](https://github.com/Bithack/principia/stargazers) [![Forks](https://img.shields.io/github/forks/Bithack/principia?style=flat-square&color=blue)](https://github.com/Bithack/principia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Open source physics-based sandbox game.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Bithack/principia 是一款基于物理引擎的开源沙盒游戏，使用 C++ 
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

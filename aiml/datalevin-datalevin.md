@@ -1,6 +1,6 @@
 # datalevin/datalevin
 
-[![Stars](https://img.shields.io/github/stars/datalevin/datalevin?style=flat-square&color=yellow)](https://github.com/datalevin/datalevin/stargazers) [![Forks](https://img.shields.io/github/forks/datalevin/datalevin?style=flat-square&color=blue)](https://github.com/datalevin/datalevin/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datalevin/datalevin?style=flat-square&color=yellow)](https://github.com/datalevin/datalevin/stargazers) [![Forks](https://img.shields.io/github/forks/datalevin/datalevin?style=flat-square&color=blue)](https://github.com/datalevin/datalevin/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, fast and versatile Datalog database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Data · Database
+AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ datalevin 是一款基于 Datalog 的轻量级、极致高效且功能丰富的�
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

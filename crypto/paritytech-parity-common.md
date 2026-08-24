@@ -1,6 +1,6 @@
 # paritytech/parity-common
 
-[![Stars](https://img.shields.io/github/stars/paritytech/parity-common?style=flat-square&color=yellow)](https://github.com/paritytech/parity-common/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/parity-common?style=flat-square&color=blue)](https://github.com/paritytech/parity-common/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paritytech/parity-common?style=flat-square&color=yellow)](https://github.com/paritytech/parity-common/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/parity-common?style=flat-square&color=blue)](https://github.com/paritytech/parity-common/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of crates used in Parity projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ paritytech/parity-common 的生产可用性为中等。它适合用于快速 pro
 | forks | 60/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

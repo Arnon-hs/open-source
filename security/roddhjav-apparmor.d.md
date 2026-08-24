@@ -1,6 +1,6 @@
 # roddhjav/apparmor.d
 
-[![Stars](https://img.shields.io/github/stars/roddhjav/apparmor.d?style=flat-square&color=yellow)](https://github.com/roddhjav/apparmor.d/stargazers) [![Forks](https://img.shields.io/github/forks/roddhjav/apparmor.d?style=flat-square&color=blue)](https://github.com/roddhjav/apparmor.d/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roddhjav/apparmor.d?style=flat-square&color=yellow)](https://github.com/roddhjav/apparmor.d/stargazers) [![Forks](https://img.shields.io/github/forks/roddhjav/apparmor.d?style=flat-square&color=blue)](https://github.com/roddhjav/apparmor.d/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Full set of AppArmor policies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 799 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ roddhjav/apparmor.d：roddhjav/apparmor.d helps catch security and privacy issue
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

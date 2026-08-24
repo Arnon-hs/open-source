@@ -1,6 +1,6 @@
 # npm/cli
 
-[![Stars](https://img.shields.io/github/stars/npm/cli?style=flat-square&color=yellow)](https://github.com/npm/cli/stargazers) [![Forks](https://img.shields.io/github/forks/npm/cli?style=flat-square&color=blue)](https://github.com/npm/cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/npm/cli?style=flat-square&color=yellow)](https://github.com/npm/cli/stargazers) [![Forks](https://img.shields.io/github/forks/npm/cli?style=flat-square&color=blue)](https://github.com/npm/cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > the package manager for JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ npm/cli 是 JavaScript 生态的官方包管理工具，提供统一的依赖安
 | forks | 91/100 |
 | stars | 85/100 |
 | topics | 75/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
 | adoption | 87/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

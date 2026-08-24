@@ -1,6 +1,6 @@
 # tesselode/kira
 
-[![Stars](https://img.shields.io/github/stars/tesselode/kira?style=flat-square&color=yellow)](https://github.com/tesselode/kira/stargazers) [![Forks](https://img.shields.io/github/forks/tesselode/kira?style=flat-square&color=blue)](https://github.com/tesselode/kira/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tesselode/kira?style=flat-square&color=yellow)](https://github.com/tesselode/kira/stargazers) [![Forks](https://img.shields.io/github/forks/tesselode/kira?style=flat-square&color=blue)](https://github.com/tesselode/kira/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Library for expressive game audio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ tesselode/kira 是一个用于创造性游戏音频的库。它可以在 README 
 | forks | 45/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

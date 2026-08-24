@@ -1,6 +1,6 @@
 # zhitongblog/unterm
 
-[![Stars](https://img.shields.io/github/stars/zhitongblog/unterm?style=flat-square&color=yellow)](https://github.com/zhitongblog/unterm/stargazers) [![Forks](https://img.shields.io/github/forks/zhitongblog/unterm?style=flat-square&color=blue)](https://github.com/zhitongblog/unterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhitongblog/unterm?style=flat-square&color=yellow)](https://github.com/zhitongblog/unterm/stargazers) [![Forks](https://img.shields.io/github/forks/zhitongblog/unterm?style=flat-square&color=blue)](https://github.com/zhitongblog/unterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The terminal AI agents can drive — and the cockpit to run them from. 99 MCP methods / 21 namespaces, agent Inbox, verified worktree fleets, diff review & rollback. macOS / Linux / Windows, local-first, $0, MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ zhitongblog/unterm 的生产可用性是中等的。它适合用于原型或内�
 | forks | 0/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

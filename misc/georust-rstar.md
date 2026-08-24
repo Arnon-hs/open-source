@@ -1,6 +1,6 @@
 # georust/rstar
 
-[![Stars](https://img.shields.io/github/stars/georust/rstar?style=flat-square&color=yellow)](https://github.com/georust/rstar/stargazers) [![Forks](https://img.shields.io/github/forks/georust/rstar?style=flat-square&color=blue)](https://github.com/georust/rstar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georust/rstar?style=flat-square&color=yellow)](https://github.com/georust/rstar/stargazers) [![Forks](https://img.shields.io/github/forks/georust/rstar?style=flat-square&color=blue)](https://github.com/georust/rstar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > R*-tree spatial index for the Rust ecosystem
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 551 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ georust/rstar 的生产可用性为中等。它可以用于快速原型开发或
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

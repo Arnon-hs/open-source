@@ -1,6 +1,6 @@
 # jenkinsci/JenkinsPipelineUnit
 
-[![Stars](https://img.shields.io/github/stars/jenkinsci/JenkinsPipelineUnit?style=flat-square&color=yellow)](https://github.com/jenkinsci/JenkinsPipelineUnit/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/JenkinsPipelineUnit?style=flat-square&color=blue)](https://github.com/jenkinsci/JenkinsPipelineUnit/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkinsci/JenkinsPipelineUnit?style=flat-square&color=yellow)](https://github.com/jenkinsci/JenkinsPipelineUnit/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/JenkinsPipelineUnit?style=flat-square&color=blue)](https://github.com/jenkinsci/JenkinsPipelineUnit/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for unit testing Jenkins pipelines
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Groovy |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ JenkinsPipelineUnit的生产可用性为中等（Medium）。它适合用于原�
 | forks | 65/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

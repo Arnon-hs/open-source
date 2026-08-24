@@ -1,6 +1,6 @@
 # NebulaServices/Nebula
 
-[![Stars](https://img.shields.io/github/stars/NebulaServices/Nebula?style=flat-square&color=yellow)](https://github.com/NebulaServices/Nebula/stargazers) [![Forks](https://img.shields.io/github/forks/NebulaServices/Nebula?style=flat-square&color=blue)](https://github.com/NebulaServices/Nebula/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NebulaServices/Nebula?style=flat-square&color=yellow)](https://github.com/NebulaServices/Nebula/stargazers) [![Forks](https://img.shields.io/github/forks/NebulaServices/Nebula?style=flat-square&color=blue)](https://github.com/NebulaServices/Nebula/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > a stunning and sleek web proxy with support for hundreds of popular sites.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Nebula 是一款外观炫酷、使用 Astro 构建的 Web 代理，内置对数�
 | forks | 91/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

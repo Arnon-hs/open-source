@@ -1,6 +1,6 @@
 # grafana/carbon-relay-ng
 
-[![Stars](https://img.shields.io/github/stars/grafana/carbon-relay-ng?style=flat-square&color=yellow)](https://github.com/grafana/carbon-relay-ng/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/carbon-relay-ng?style=flat-square&color=blue)](https://github.com/grafana/carbon-relay-ng/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/carbon-relay-ng?style=flat-square&color=yellow)](https://github.com/grafana/carbon-relay-ng/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/carbon-relay-ng?style=flat-square&color=blue)](https://github.com/grafana/carbon-relay-ng/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Fast carbon relay+aggregator with admin interfaces for making changes online - production ready
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Observability · Product
+Observability
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Grafana/carbon-relay-ng 的生产可用性为中等。它适合用于原型或�
 | forks | 55/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

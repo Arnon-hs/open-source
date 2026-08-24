@@ -1,6 +1,6 @@
 # tmy7533018/mugen-shell
 
-[![Stars](https://img.shields.io/github/stars/tmy7533018/mugen-shell?style=flat-square&color=yellow)](https://github.com/tmy7533018/mugen-shell/stargazers) [![Forks](https://img.shields.io/github/forks/tmy7533018/mugen-shell?style=flat-square&color=blue)](https://github.com/tmy7533018/mugen-shell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tmy7533018/mugen-shell?style=flat-square&color=yellow)](https://github.com/tmy7533018/mugen-shell/stargazers) [![Forks](https://img.shields.io/github/forks/tmy7533018/mugen-shell?style=flat-square&color=blue)](https://github.com/tmy7533018/mugen-shell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Hyprland + Quickshell desktop with Material You theming, video wallpapers, and Yura — an AI assistant that controls the shell via tool calls (Ollama / Claude / Gemini / OpenAI).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ tmy7533018/mugen-shell 帮助连接 AI 助手到实用工具和数据通过标�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

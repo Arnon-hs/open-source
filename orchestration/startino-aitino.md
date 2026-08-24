@@ -1,6 +1,6 @@
 # startino/aitino
 
-[![Stars](https://img.shields.io/github/stars/startino/aitino?style=flat-square&color=yellow)](https://github.com/startino/aitino/stargazers) [![Forks](https://img.shields.io/github/forks/startino/aitino?style=flat-square&color=blue)](https://github.com/startino/aitino/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/startino/aitino?style=flat-square&color=yellow)](https://github.com/startino/aitino/stargazers) [![Forks](https://img.shields.io/github/forks/startino/aitino?style=flat-square&color=blue)](https://github.com/startino/aitino/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Aitino is a platform that allows for the creation of crews of AI Agents to help you automate tasks and solve complex problems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Database · Education
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ Aitino 的生产可用性为 **中等**：适合用于原型或内部工作流�
 | forks | 29/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

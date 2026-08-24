@@ -1,6 +1,6 @@
 # firish/claude_code_vs
 
-[![Stars](https://img.shields.io/github/stars/firish/claude_code_vs?style=flat-square&color=yellow)](https://github.com/firish/claude_code_vs/stargazers) [![Forks](https://img.shields.io/github/forks/firish/claude_code_vs?style=flat-square&color=blue)](https://github.com/firish/claude_code_vs/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firish/claude_code_vs?style=flat-square&color=yellow)](https://github.com/firish/claude_code_vs/stargazers) [![Forks](https://img.shields.io/github/forks/firish/claude_code_vs?style=flat-square&color=blue)](https://github.com/firish/claude_code_vs/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Bring Claude Code to Visual Studio 2026: A native diff with accept/reject, a live debugger Claude can drive autonomously, Roslyn code navigation, and Test Explorer integration. The IDE half of Claude Code's integration protocol. Community-built, unofficial.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ firish/claude_code_vs 的生产可用性为中等（Medium），适合用于原�
 | forks | 25/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

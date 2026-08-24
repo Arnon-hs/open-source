@@ -1,6 +1,6 @@
 # MistRipple/magi-code
 
-[![Stars](https://img.shields.io/github/stars/MistRipple/magi-code?style=flat-square&color=yellow)](https://github.com/MistRipple/magi-code/stargazers) [![Forks](https://img.shields.io/github/forks/MistRipple/magi-code?style=flat-square&color=blue)](https://github.com/MistRipple/magi-code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MistRipple/magi-code?style=flat-square&color=yellow)](https://github.com/MistRipple/magi-code/stargazers) [![Forks](https://img.shields.io/github/forks/MistRipple/magi-code?style=flat-square&color=blue)](https://github.com/MistRipple/magi-code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 多智能体工程编排系统：在 VSCode 中将复杂开发任务自动拆解为可执行合同，调度异构 Worker 并行协作，完成从规划、执行、验收到知识沉淀的全流程闭环。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ MistRipple/magi-code 的生产可用性为中等（Medium）。它
 | forks | 34/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

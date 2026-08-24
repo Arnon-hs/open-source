@@ -1,6 +1,6 @@
 # krukah/robopoker
 
-[![Stars](https://img.shields.io/github/stars/krukah/robopoker?style=flat-square&color=yellow)](https://github.com/krukah/robopoker/stargazers) [![Forks](https://img.shields.io/github/forks/krukah/robopoker?style=flat-square&color=blue)](https://github.com/krukah/robopoker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krukah/robopoker?style=flat-square&color=yellow)](https://github.com/krukah/robopoker/stargazers) [![Forks](https://img.shields.io/github/forks/krukah/robopoker?style=flat-square&color=blue)](https://github.com/krukah/robopoker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Everything you could wish for in a library called RoboPoker. Full suite of data structures, algorithms, solvers, ML models, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ krukah/robopoker 是一套面向 Rust 生态的全功能 AI/ML 库，提供从�
 | forks | 40/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

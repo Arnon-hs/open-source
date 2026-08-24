@@ -1,6 +1,6 @@
 # mobbin/mobbin-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/mobbin/mobbin-mcp-server?style=flat-square&color=yellow)](https://github.com/mobbin/mobbin-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/mobbin/mobbin-mcp-server?style=flat-square&color=blue)](https://github.com/mobbin/mobbin-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mobbin/mobbin-mcp-server?style=flat-square&color=yellow)](https://github.com/mobbin/mobbin-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/mobbin/mobbin-mcp-server?style=flat-square&color=blue)](https://github.com/mobbin/mobbin-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Official Mobbin MCP server repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ mobbin/mobbin-mcp-server 是一个开源项目，提供了 Model Context Protoco
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 13/100 |
-| outlook | 64/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

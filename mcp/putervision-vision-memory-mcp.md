@@ -1,6 +1,6 @@
 # putervision/vision-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/putervision/vision-memory-mcp?style=flat-square&color=yellow)](https://github.com/putervision/vision-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/putervision/vision-memory-mcp?style=flat-square&color=blue)](https://github.com/putervision/vision-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/putervision/vision-memory-mcp?style=flat-square&color=yellow)](https://github.com/putervision/vision-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/putervision/vision-memory-mcp?style=flat-square&color=blue)](https://github.com/putervision/vision-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ putervision/vision-memory-mcp 是一个开源项目，提供了一个持久的�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # verygoodplugins/automem
 
-[![Stars](https://img.shields.io/github/stars/verygoodplugins/automem?style=flat-square&color=yellow)](https://github.com/verygoodplugins/automem/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/automem?style=flat-square&color=blue)](https://github.com/verygoodplugins/automem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verygoodplugins/automem?style=flat-square&color=yellow)](https://github.com/verygoodplugins/automem/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/automem?style=flat-square&color=blue)](https://github.com/verygoodplugins/automem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ AutoMem 是一个基于图‑向量的记忆服务，为 AI 助手提供持久�
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

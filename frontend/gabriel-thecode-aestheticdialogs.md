@@ -1,6 +1,6 @@
 # gabriel-TheCode/AestheticDialogs
 
-[![Stars](https://img.shields.io/github/stars/gabriel-TheCode/AestheticDialogs?style=flat-square&color=yellow)](https://github.com/gabriel-TheCode/AestheticDialogs/stargazers) [![Forks](https://img.shields.io/github/forks/gabriel-TheCode/AestheticDialogs?style=flat-square&color=blue)](https://github.com/gabriel-TheCode/AestheticDialogs/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gabriel-TheCode/AestheticDialogs?style=flat-square&color=yellow)](https://github.com/gabriel-TheCode/AestheticDialogs/stargazers) [![Forks](https://img.shields.io/github/forks/gabriel-TheCode/AestheticDialogs?style=flat-square&color=blue)](https://github.com/gabriel-TheCode/AestheticDialogs/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 📱 An Android Library built with Jetpack Compose for 💫 fluid, 😍 beautiful, 🎨 custom Dialogs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Observability · Mobile · Design
+Frontend · Mobile · Design
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ gabriel-TheCode/AestheticDialogs 是一款开源的 Android 库，使用 Jetpack
 | forks | 47/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # deepfates/cantrip
 
-[![Stars](https://img.shields.io/github/stars/deepfates/cantrip?style=flat-square&color=yellow)](https://github.com/deepfates/cantrip/stargazers) [![Forks](https://img.shields.io/github/forks/deepfates/cantrip?style=flat-square&color=blue)](https://github.com/deepfates/cantrip/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepfates/cantrip?style=flat-square&color=yellow)](https://github.com/deepfates/cantrip/stargazers) [![Forks](https://img.shields.io/github/forks/deepfates/cantrip?style=flat-square&color=blue)](https://github.com/deepfates/cantrip/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > the extensible, customizable, self-documenting, real-time multi-agent computing environment
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ deepfates/cantrip 是一个可扩展、可定制、自动生成文档的实时�
 | forks | 19/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

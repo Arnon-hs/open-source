@@ -1,6 +1,6 @@
 # edgehero/pi-dispatch
 
-[![Stars](https://img.shields.io/github/stars/edgehero/pi-dispatch?style=flat-square&color=yellow)](https://github.com/edgehero/pi-dispatch/stargazers) [![Forks](https://img.shields.io/github/forks/edgehero/pi-dispatch?style=flat-square&color=blue)](https://github.com/edgehero/pi-dispatch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edgehero/pi-dispatch?style=flat-square&color=yellow)](https://github.com/edgehero/pi-dispatch/stargazers) [![Forks](https://img.shields.io/github/forks/edgehero/pi-dispatch?style=flat-square&color=blue)](https://github.com/edgehero/pi-dispatch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Run the pi coding agent as a service — triggered on demand, on a cron schedule, or by a GitHub or GitLab issue, comment or pull/merge request — in a container you control, with a durable queue, a spend cap, and a live admin panel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ edgehero/pi-dispatch的生产可用性为中等（Medium），适合用于原型
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

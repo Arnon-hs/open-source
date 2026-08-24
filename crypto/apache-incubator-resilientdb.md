@@ -1,6 +1,6 @@
 # apache/incubator-resilientdb
 
-[![Stars](https://img.shields.io/github/stars/apache/incubator-resilientdb?style=flat-square&color=yellow)](https://github.com/apache/incubator-resilientdb/stargazers) [![Forks](https://img.shields.io/github/forks/apache/incubator-resilientdb?style=flat-square&color=blue)](https://github.com/apache/incubator-resilientdb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/incubator-resilientdb?style=flat-square&color=yellow)](https://github.com/apache/incubator-resilientdb/stargazers) [![Forks](https://img.shields.io/github/forks/apache/incubator-resilientdb?style=flat-square&color=blue)](https://github.com/apache/incubator-resilientdb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Global-Scale Sustainable Blockchain Fabric
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 277 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Data · Database
+Crypto · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ apache/incubator-resilientdb：apache/incubator-resilientdb helps prototype or i
 | forks | 61/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

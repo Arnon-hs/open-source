@@ -1,6 +1,6 @@
 # 3b1b/manim
 
-[![Stars](https://img.shields.io/github/stars/3b1b/manim?style=flat-square&color=yellow)](https://github.com/3b1b/manim/stargazers) [![Forks](https://img.shields.io/github/forks/3b1b/manim?style=flat-square&color=blue)](https://github.com/3b1b/manim/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/3b1b/manim?style=flat-square&color=yellow)](https://github.com/3b1b/manim/stargazers) [![Forks](https://img.shields.io/github/forks/3b1b/manim?style=flat-square&color=blue)](https://github.com/3b1b/manim/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Animation engine for explanatory math videos
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89.9k |
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Here's a brief summary and analysis of the 3b1b/manim project:
 | forks | 97/100 |
 | stars | 100/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 99/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

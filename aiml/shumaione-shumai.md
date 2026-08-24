@@ -1,6 +1,6 @@
 # shumaiOne/shumai
 
-[![Stars](https://img.shields.io/github/stars/shumaiOne/shumai?style=flat-square&color=yellow)](https://github.com/shumaiOne/shumai/stargazers) [![Forks](https://img.shields.io/github/forks/shumaiOne/shumai?style=flat-square&color=blue)](https://github.com/shumaiOne/shumai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shumaiOne/shumai?style=flat-square&color=yellow)](https://github.com/shumaiOne/shumai/stargazers) [![Forks](https://img.shields.io/github/forks/shumaiOne/shumai?style=flat-square&color=blue)](https://github.com/shumaiOne/shumai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Frame.io alternative with AI-assisted review, collaboration, and asset management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ shumaiOne/shumai 的生产可用性评估为中等（Medium）。它适合用于
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

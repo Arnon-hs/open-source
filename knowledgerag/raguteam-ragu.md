@@ -1,6 +1,6 @@
 # RaguTeam/RAGU
 
-[![Stars](https://img.shields.io/github/stars/RaguTeam/RAGU?style=flat-square&color=yellow)](https://github.com/RaguTeam/RAGU/stargazers) [![Forks](https://img.shields.io/github/forks/RaguTeam/RAGU?style=flat-square&color=blue)](https://github.com/RaguTeam/RAGU/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RaguTeam/RAGU?style=flat-square&color=yellow)](https://github.com/RaguTeam/RAGU/stargazers) [![Forks](https://img.shields.io/github/forks/RaguTeam/RAGU?style=flat-square&color=blue)](https://github.com/RaguTeam/RAGU/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Codebase for the implementaion of graph-rag system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ RaguTeam/RAGU是一个开源项目，提供了一个图结构的知识检索系�
 | forks | 33/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

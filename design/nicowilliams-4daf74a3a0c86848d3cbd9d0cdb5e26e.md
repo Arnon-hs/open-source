@@ -1,6 +1,6 @@
 # nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e
 
-[![Stars](https://img.shields.io/github/stars/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e?style=flat-square&color=yellow)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e/stargazers) [![Forks](https://img.shields.io/github/forks/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e?style=flat-square&color=blue)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e?style=flat-square&color=yellow)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e/stargazers) [![Forks](https://img.shields.io/github/forks/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e?style=flat-square&color=blue)](https://gist.github.com/nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Lobsters: Design flaws in issetugid() (2017)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 33/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | lobsters |
 
 ## 🏷️ Topics
@@ -74,14 +74,15 @@ This project, "Design flaws in issetugid() (2017)", identifies design flaws in a
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 13/100 |
-| outlook | 52/100 |
-| quality | 37/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 27/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 56/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

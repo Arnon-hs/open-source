@@ -1,6 +1,6 @@
 # nyroway/nyro
 
-[![Stars](https://img.shields.io/github/stars/nyroway/nyro?style=flat-square&color=yellow)](https://github.com/nyroway/nyro/stargazers) [![Forks](https://img.shields.io/github/forks/nyroway/nyro?style=flat-square&color=blue)](https://github.com/nyroway/nyro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nyroway/nyro?style=flat-square&color=yellow)](https://github.com/nyroway/nyro/stargazers) [![Forks](https://img.shields.io/github/forks/nyroway/nyro?style=flat-square&color=blue)](https://github.com/nyroway/nyro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI Gateway — connect Claude Code, Codex, Gemini CLI and any SDK to any model provider with protocol translation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ nyroway/nyro 是一个自托管的 AI Gateway，能够把 Claude Code、Codex�
 | forks | 30/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

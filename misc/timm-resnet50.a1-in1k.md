@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | timm |
 | 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2025-07-11 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -111,6 +111,7 @@ timm/resnet50.a1_in1k 的价值在于，它可以在特定工作流程中提供�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

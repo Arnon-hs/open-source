@@ -1,6 +1,6 @@
 # varunvasudeva1/llm-server-docs
 
-[![Stars](https://img.shields.io/github/stars/varunvasudeva1/llm-server-docs?style=flat-square&color=yellow)](https://github.com/varunvasudeva1/llm-server-docs/stargazers) [![Forks](https://img.shields.io/github/forks/varunvasudeva1/llm-server-docs?style=flat-square&color=blue)](https://github.com/varunvasudeva1/llm-server-docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/varunvasudeva1/llm-server-docs?style=flat-square&color=yellow)](https://github.com/varunvasudeva1/llm-server-docs/stargazers) [![Forks](https://img.shields.io/github/forks/varunvasudeva1/llm-server-docs?style=flat-square&color=blue)](https://github.com/varunvasudeva1/llm-server-docs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > End-to-end documentation to set up your own local & fully private LLM server on Debian. Equipped with chat, web search, RAG, model management, MCP servers, image generation, and TTS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 794 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Knowledge/RAG · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ varunvasudeva1/llm‑server‑docs 提供一套完整的文档与脚本，帮助
 | forks | 44/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

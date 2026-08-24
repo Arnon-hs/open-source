@@ -1,6 +1,6 @@
 # bragai/bRAG-langchain
 
-[![Stars](https://img.shields.io/github/stars/bragai/bRAG-langchain?style=flat-square&color=yellow)](https://github.com/bragai/bRAG-langchain/stargazers) [![Forks](https://img.shields.io/github/forks/bragai/bRAG-langchain?style=flat-square&color=blue)](https://github.com/bragai/bRAG-langchain/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bragai/bRAG-langchain?style=flat-square&color=yellow)](https://github.com/bragai/bRAG-langchain/stargazers) [![Forks](https://img.shields.io/github/forks/bragai/bRAG-langchain?style=flat-square&color=blue)](https://github.com/bragai/bRAG-langchain/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Everything you need to know to build your own RAG application
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 497 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ bragai/bRAG‑langchain 通过将零散的 Prompt 和工具封装成可重复的
 | forks | 67/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

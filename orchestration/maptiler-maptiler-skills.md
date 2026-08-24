@@ -1,6 +1,6 @@
 # maptiler/maptiler-skills
 
-[![Stars](https://img.shields.io/github/stars/maptiler/maptiler-skills?style=flat-square&color=yellow)](https://github.com/maptiler/maptiler-skills/stargazers) [![Forks](https://img.shields.io/github/forks/maptiler/maptiler-skills?style=flat-square&color=blue)](https://github.com/maptiler/maptiler-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maptiler/maptiler-skills?style=flat-square&color=yellow)](https://github.com/maptiler/maptiler-skills/stargazers) [![Forks](https://img.shields.io/github/forks/maptiler/maptiler-skills?style=flat-square&color=blue)](https://github.com/maptiler/maptiler-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Coding skill for building location-aware applications across the MapTiler platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ maptiler/maptiler-skills 是一个开源项目，用于帮助开发者在 MapTil
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

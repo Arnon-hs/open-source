@@ -1,6 +1,6 @@
 # manthanghasadiya/mcpsec
 
-[![Stars](https://img.shields.io/github/stars/manthanghasadiya/mcpsec?style=flat-square&color=yellow)](https://github.com/manthanghasadiya/mcpsec/stargazers) [![Forks](https://img.shields.io/github/forks/manthanghasadiya/mcpsec?style=flat-square&color=blue)](https://github.com/manthanghasadiya/mcpsec/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manthanghasadiya/mcpsec?style=flat-square&color=yellow)](https://github.com/manthanghasadiya/mcpsec/stargazers) [![Forks](https://img.shields.io/github/forks/manthanghasadiya/mcpsec?style=flat-square&color=blue)](https://github.com/manthanghasadiya/mcpsec/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-driven dynamic protocol fuzzer for the Model Context Protocol (MCP). Prove runtime exploitability by discovering state violations, transport crashes, and application-layer logic flaws (SSRF, LFI) before your AI agents do.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Security
+MCP · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ manthanghasadiya/mcpsec 是一款基于 AI 的动态协议模糊测试工具，�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

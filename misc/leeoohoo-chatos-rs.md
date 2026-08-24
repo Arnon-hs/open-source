@@ -1,6 +1,6 @@
 # leeoohoo/chatos_rs
 
-[![Stars](https://img.shields.io/github/stars/leeoohoo/chatos_rs?style=flat-square&color=yellow)](https://github.com/leeoohoo/chatos_rs/stargazers) [![Forks](https://img.shields.io/github/forks/leeoohoo/chatos_rs?style=flat-square&color=blue)](https://github.com/leeoohoo/chatos_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leeoohoo/chatos_rs?style=flat-square&color=yellow)](https://github.com/leeoohoo/chatos_rs/stargazers) [![Forks](https://img.shields.io/github/forks/leeoohoo/chatos_rs?style=flat-square&color=blue)](https://github.com/leeoohoo/chatos_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ Leeoohoo/chatos_rs 在生产环境中的可用性为中等（Medium）。它适�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 61/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 63/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

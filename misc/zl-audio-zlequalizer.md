@@ -1,6 +1,6 @@
 # ZL-Audio/ZLEqualizer
 
-[![Stars](https://img.shields.io/github/stars/ZL-Audio/ZLEqualizer?style=flat-square&color=yellow)](https://github.com/ZL-Audio/ZLEqualizer/stargazers) [![Forks](https://img.shields.io/github/forks/ZL-Audio/ZLEqualizer?style=flat-square&color=blue)](https://github.com/ZL-Audio/ZLEqualizer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZL-Audio/ZLEqualizer?style=flat-square&color=yellow)](https://github.com/ZL-Audio/ZLEqualizer/stargazers) [![Forks](https://img.shields.io/github/forks/ZL-Audio/ZLEqualizer?style=flat-square&color=blue)](https://github.com/ZL-Audio/ZLEqualizer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > dynamic equalizer plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 976 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ ZL‑Audio/ZLEqualizer 是一个基于 C++ 的动态均衡器插件，能够在�
 | forks | 41/100 |
 | stars | 64/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

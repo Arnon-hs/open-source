@@ -1,6 +1,6 @@
 # suitenumerique/docs
 
-[![Stars](https://img.shields.io/github/stars/suitenumerique/docs?style=flat-square&color=yellow)](https://github.com/suitenumerique/docs/stargazers) [![Forks](https://img.shields.io/github/forks/suitenumerique/docs?style=flat-square&color=blue)](https://github.com/suitenumerique/docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suitenumerique/docs?style=flat-square&color=yellow)](https://github.com/suitenumerique/docs/stargazers) [![Forks](https://img.shields.io/github/forks/suitenumerique/docs?style=flat-square&color=blue)](https://github.com/suitenumerique/docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.6k |
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ suitenumerique/docs：suitenumerique/docs helps make internal knowledge searchab
 | forks | 69/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 83/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

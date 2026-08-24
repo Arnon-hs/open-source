@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | depth-anything-3 |
 | 📈 **Score** | 33/100 |
-| 🗓️ **Last push** | 2025-11-19 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -103,6 +103,7 @@ depth-anything/DA3-LARGE 的价值在于它可能适用于某些具体的工作�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

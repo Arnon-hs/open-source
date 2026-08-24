@@ -1,6 +1,6 @@
 # hacan359/tonkatsu_box
 
-[![Stars](https://img.shields.io/github/stars/hacan359/tonkatsu_box?style=flat-square&color=yellow)](https://github.com/hacan359/tonkatsu_box/stargazers) [![Forks](https://img.shields.io/github/forks/hacan359/tonkatsu_box?style=flat-square&color=blue)](https://github.com/hacan359/tonkatsu_box/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hacan359/tonkatsu_box?style=flat-square&color=yellow)](https://github.com/hacan359/tonkatsu_box/stargazers) [![Forks](https://img.shields.io/github/forks/hacan359/tonkatsu_box?style=flat-square&color=blue)](https://github.com/hacan359/tonkatsu_box/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Free open-source app to organize collections of retro games, movies, TV shows & anime. Track progress, rate favorites, create visual boards, share with friends. Flutter · Windows · Android · Linux · MacOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ hacan359/tonkatsu_box 的生产可用性为中等（Medium）。它适用于原�
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

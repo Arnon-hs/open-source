@@ -1,6 +1,6 @@
 # pjsip/pjproject
 
-[![Stars](https://img.shields.io/github/stars/pjsip/pjproject?style=flat-square&color=yellow)](https://github.com/pjsip/pjproject/stargazers) [![Forks](https://img.shields.io/github/forks/pjsip/pjproject?style=flat-square&color=blue)](https://github.com/pjsip/pjproject/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pjsip/pjproject?style=flat-square&color=yellow)](https://github.com/pjsip/pjproject/stargazers) [![Forks](https://img.shields.io/github/forks/pjsip/pjproject?style=flat-square&color=blue)](https://github.com/pjsip/pjproject/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > PJSIP project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 991 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ PJSIP/PJProject 的生产可用性很高，主要原因是：
 | forks | 75/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aws/eks-charts
 
-[![Stars](https://img.shields.io/github/stars/aws/eks-charts?style=flat-square&color=yellow)](https://github.com/aws/eks-charts/stargazers) [![Forks](https://img.shields.io/github/forks/aws/eks-charts?style=flat-square&color=blue)](https://github.com/aws/eks-charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/eks-charts?style=flat-square&color=yellow)](https://github.com/aws/eks-charts/stargazers) [![Forks](https://img.shields.io/github/forks/aws/eks-charts?style=flat-square&color=blue)](https://github.com/aws/eks-charts/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Amazon EKS Helm chart repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ aws/eks-charts 的生产可用性为中等。它适合用于内部工作流或�
 | forks | 76/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # spree/storefront
 
-[![Stars](https://img.shields.io/github/stars/spree/storefront?style=flat-square&color=yellow)](https://github.com/spree/storefront/stargazers) [![Forks](https://img.shields.io/github/forks/spree/storefront?style=flat-square&color=blue)](https://github.com/spree/storefront/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spree/storefront?style=flat-square&color=yellow)](https://github.com/spree/storefront/stargazers) [![Forks](https://img.shields.io/github/forks/spree/storefront?style=flat-square&color=blue)](https://github.com/spree/storefront/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Next.js eCommerce storefront for @spree. DTC & B2B, Stripe/Adyen/PayPal payments, multi-region, one page checkout. MIT license.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend · Backend
+Payments · Frontend · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Spree Storefront 在生产环境中具有较高的可用性，理由如下：
 | forks | 42/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

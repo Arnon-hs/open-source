@@ -1,6 +1,6 @@
 # FullAgent/fulling
 
-[![Stars](https://img.shields.io/github/stars/FullAgent/fulling?style=flat-square&color=yellow)](https://github.com/FullAgent/fulling/stargazers) [![Forks](https://img.shields.io/github/forks/FullAgent/fulling?style=flat-square&color=blue)](https://github.com/FullAgent/fulling/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FullAgent/fulling?style=flat-square&color=yellow)](https://github.com/FullAgent/fulling/stargazers) [![Forks](https://img.shields.io/github/forks/FullAgent/fulling?style=flat-square&color=blue)](https://github.com/FullAgent/fulling/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ FullAgent/fulling 已经有较高的生产可用性，因为它有活跃的社�
 | forks | 59/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

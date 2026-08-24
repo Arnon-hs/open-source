@@ -1,6 +1,6 @@
 # cilangzzz/software-dev-ai-workflow
 
-[![Stars](https://img.shields.io/github/stars/cilangzzz/software-dev-ai-workflow?style=flat-square&color=yellow)](https://github.com/cilangzzz/software-dev-ai-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/cilangzzz/software-dev-ai-workflow?style=flat-square&color=blue)](https://github.com/cilangzzz/software-dev-ai-workflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cilangzzz/software-dev-ai-workflow?style=flat-square&color=yellow)](https://github.com/cilangzzz/software-dev-ai-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/cilangzzz/software-dev-ai-workflow?style=flat-square&color=blue)](https://github.com/cilangzzz/software-dev-ai-workflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent驱动的Claude code 软件开发工作流框架 — 让AI Agent协作完成软件全流程开发。自动生成PRD、架构设计、源码、教程，实现"描述即交付"。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ cilangzzz/software-dev-ai-workflow 是一个开源项目，利用 AI Agent 来�
 | forks | 27/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Comfy-Org/comfy-mcp
 
-[![Stars](https://img.shields.io/github/stars/Comfy-Org/comfy-mcp?style=flat-square&color=yellow)](https://github.com/Comfy-Org/comfy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/comfy-mcp?style=flat-square&color=blue)](https://github.com/Comfy-Org/comfy-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Comfy-Org/comfy-mcp?style=flat-square&color=yellow)](https://github.com/Comfy-Org/comfy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/comfy-mcp?style=flat-square&color=blue)](https://github.com/Comfy-Org/comfy-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Local MCP server for ComfyUI — run your local ComfyUI from AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Comfy-Org/comfy-mcp 是一个本地 MCP（Model Context Protocol）服务器，�
 | forks | 24/100 |
 | stars | 36/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lumpenspace/raft
 
-[![Stars](https://img.shields.io/github/stars/lumpenspace/raft?style=flat-square&color=yellow)](https://github.com/lumpenspace/raft/stargazers) [![Forks](https://img.shields.io/github/forks/lumpenspace/raft?style=flat-square&color=blue)](https://github.com/lumpenspace/raft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lumpenspace/raft?style=flat-square&color=yellow)](https://github.com/lumpenspace/raft/stargazers) [![Forks](https://img.shields.io/github/forks/lumpenspace/raft?style=flat-square&color=blue)](https://github.com/lumpenspace/raft/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > RAFT, or Retrieval-Augmented Fine-Tuning, is a method comprising of a fine-tuning and a RAG-based retrieval phase. It is particularly suited for the creation of agents that realistically emulate a specific human target.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ lumpenspace/raft：lumpenspace/raft helps make internal knowledge searchable and
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

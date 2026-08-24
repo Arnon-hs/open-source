@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ AgentReach 让你的代码 Agent 能够直接通过 SSH 连接到任意机器上
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

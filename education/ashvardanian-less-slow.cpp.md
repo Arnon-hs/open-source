@@ -1,6 +1,6 @@
 # ashvardanian/less_slow.cpp
 
-[![Stars](https://img.shields.io/github/stars/ashvardanian/less_slow.cpp?style=flat-square&color=yellow)](https://github.com/ashvardanian/less_slow.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ashvardanian/less_slow.cpp?style=flat-square&color=blue)](https://github.com/ashvardanian/less_slow.cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashvardanian/less_slow.cpp?style=flat-square&color=yellow)](https://github.com/ashvardanian/less_slow.cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ashvardanian/less_slow.cpp?style=flat-square&color=blue)](https://github.com/ashvardanian/less_slow.cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ashvardanian/less_slow.cpp 通过展示 C++20、C、CUDA、PTX 及汇编等层�
 | forks | 48/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

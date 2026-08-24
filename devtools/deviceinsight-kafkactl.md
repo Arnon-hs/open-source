@@ -1,6 +1,6 @@
 # deviceinsight/kafkactl
 
-[![Stars](https://img.shields.io/github/stars/deviceinsight/kafkactl?style=flat-square&color=yellow)](https://github.com/deviceinsight/kafkactl/stargazers) [![Forks](https://img.shields.io/github/forks/deviceinsight/kafkactl?style=flat-square&color=blue)](https://github.com/deviceinsight/kafkactl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deviceinsight/kafkactl?style=flat-square&color=yellow)](https://github.com/deviceinsight/kafkactl/stargazers) [![Forks](https://img.shields.io/github/forks/deviceinsight/kafkactl?style=flat-square&color=blue)](https://github.com/deviceinsight/kafkactl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Command Line Tool for managing Apache Kafka
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ deviceinsight/kafkactl 是一款用 Go 编写的开源 CLI 工具，专注于简
 | forks | 50/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

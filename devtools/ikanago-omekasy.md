@@ -1,6 +1,6 @@
 # ikanago/omekasy
 
-[![Stars](https://img.shields.io/github/stars/ikanago/omekasy?style=flat-square&color=yellow)](https://github.com/ikanago/omekasy/stargazers) [![Forks](https://img.shields.io/github/forks/ikanago/omekasy?style=flat-square&color=blue)](https://github.com/ikanago/omekasy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ikanago/omekasy?style=flat-square&color=yellow)](https://github.com/ikanago/omekasy/stargazers) [![Forks](https://img.shields.io/github/forks/ikanago/omekasy?style=flat-square&color=blue)](https://github.com/ikanago/omekasy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙣𝙚 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝕥𝕙𝕒𝕥 𝕔𝕠𝕟𝕧𝕖𝕣𝕥𝕤 𝕒𝕝𝕡𝕙𝕒𝕟𝕦𝕞𝕖𝕣𝕚𝕔 𝕔𝕙𝕒𝕣𝕒𝕔𝕥𝕖𝕣𝕤 𝒕𝒐 𝒗𝒂𝒓𝒊𝒐𝒖𝒔 𝒔𝒕𝒚𝒍𝒆𝒔 𝚍𝚎𝚏𝚒𝚗𝚎𝚍 𝚒𝚗 𝚄𝚗𝚒𝚌𝚘𝚍𝚎.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ ikanago/omekasy的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 19/100 |
 | stars | 47/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

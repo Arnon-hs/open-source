@@ -1,6 +1,6 @@
 # kusoroadeolu/Clique
 
-[![Stars](https://img.shields.io/github/stars/kusoroadeolu/Clique?style=flat-square&color=yellow)](https://github.com/kusoroadeolu/Clique/stargazers) [![Forks](https://img.shields.io/github/forks/kusoroadeolu/Clique?style=flat-square&color=blue)](https://github.com/kusoroadeolu/Clique/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kusoroadeolu/Clique?style=flat-square&color=yellow)](https://github.com/kusoroadeolu/Clique/stargazers) [![Forks](https://img.shields.io/github/forks/kusoroadeolu/Clique?style=flat-square&color=blue)](https://github.com/kusoroadeolu/Clique/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A dependency free and extensible Java library for styling and beautifying terminal output
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ kusoroadeolu/Clique 的生产可用性为中等（Medium）。它适合用于原
 | forks | 19/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

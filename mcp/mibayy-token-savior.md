@@ -1,6 +1,6 @@
 # Mibayy/token-savior
 
-[![Stars](https://img.shields.io/github/stars/Mibayy/token-savior?style=flat-square&color=yellow)](https://github.com/Mibayy/token-savior/stargazers) [![Forks](https://img.shields.io/github/forks/Mibayy/token-savior?style=flat-square&color=blue)](https://github.com/Mibayy/token-savior/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mibayy/token-savior?style=flat-square&color=yellow)](https://github.com/Mibayy/token-savior/stargazers) [![Forks](https://img.shields.io/github/forks/Mibayy/token-savior?style=flat-square&color=blue)](https://github.com/Mibayy/token-savior/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that gets Claude to 97.9% (188/192) on a real coding benchmark at -80% active tokens and -83% wall time, vs 78.3% plain. Structural code navigation + persistent memory engine. Works with every MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Mibayy/token-savior 的生产可用性很高，因为它有一个活跃的社区
 | forks | 49/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

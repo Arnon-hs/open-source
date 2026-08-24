@@ -1,6 +1,6 @@
 # tonywu71/colpali-cookbooks
 
-[![Stars](https://img.shields.io/github/stars/tonywu71/colpali-cookbooks?style=flat-square&color=yellow)](https://github.com/tonywu71/colpali-cookbooks/stargazers) [![Forks](https://img.shields.io/github/forks/tonywu71/colpali-cookbooks?style=flat-square&color=blue)](https://github.com/tonywu71/colpali-cookbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonywu71/colpali-cookbooks?style=flat-square&color=yellow)](https://github.com/tonywu71/colpali-cookbooks/stargazers) [![Forks](https://img.shields.io/github/forks/tonywu71/colpali-cookbooks?style=flat-square&color=blue)](https://github.com/tonywu71/colpali-cookbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Recipes for learning, fine-tuning, and adapting ColPali to your multimodal RAG use cases. 👨🏻‍🍳
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 358 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ tonywu71/colpali-cookbooks 是一个开源项目，提供了学习、微调和�
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

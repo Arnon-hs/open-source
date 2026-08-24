@@ -1,6 +1,6 @@
 # zmactep/patinae
 
-[![Stars](https://img.shields.io/github/stars/zmactep/patinae?style=flat-square&color=yellow)](https://github.com/zmactep/patinae/stargazers) [![Forks](https://img.shields.io/github/forks/zmactep/patinae?style=flat-square&color=blue)](https://github.com/zmactep/patinae/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zmactep/patinae?style=flat-square&color=yellow)](https://github.com/zmactep/patinae/stargazers) [![Forks](https://img.shields.io/github/forks/zmactep/patinae?style=flat-square&color=blue)](https://github.com/zmactep/patinae/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, programmable molecular viewer for research, scripting, and the web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Patinae 提供了高性能、可编程的分子可视化能力，适合科研原
 | forks | 28/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

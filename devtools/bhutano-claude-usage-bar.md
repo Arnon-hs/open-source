@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ bhutano/claude-usage-bar：bhutano/claude-usage-bar helps engineers save time in
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

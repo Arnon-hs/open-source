@@ -1,6 +1,6 @@
 # rime/weasel
 
-[![Stars](https://img.shields.io/github/stars/rime/weasel?style=flat-square&color=yellow)](https://github.com/rime/weasel/stargazers) [![Forks](https://img.shields.io/github/forks/rime/weasel?style=flat-square&color=blue)](https://github.com/rime/weasel/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rime/weasel?style=flat-square&color=yellow)](https://github.com/rime/weasel/stargazers) [![Forks](https://img.shields.io/github/forks/rime/weasel?style=flat-square&color=blue)](https://github.com/rime/weasel/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 【小狼毫】Rime for Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 769 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ rime/weasel：rime/weasel may be useful when its README and activity match a con
 | forks | 72/100 |
 | stars | 83/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 80/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

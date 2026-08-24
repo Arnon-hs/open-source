@@ -1,6 +1,6 @@
 # xiaotonng/pikiloom
 
-[![Stars](https://img.shields.io/github/stars/xiaotonng/pikiloom?style=flat-square&color=yellow)](https://github.com/xiaotonng/pikiloom/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotonng/pikiloom?style=flat-square&color=blue)](https://github.com/xiaotonng/pikiloom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaotonng/pikiloom?style=flat-square&color=yellow)](https://github.com/xiaotonng/pikiloom/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotonng/pikiloom?style=flat-square&color=blue)](https://github.com/xiaotonng/pikiloom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Put the world's smartest AI agents & plugins in your pocket
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ xiaotonng/pikiloom 是一款基于 TypeScript 的开源工具箱，能够把最�
 | forks | 38/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

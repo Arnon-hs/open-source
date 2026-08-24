@@ -1,6 +1,6 @@
 # KDE/breeze
 
-[![Stars](https://img.shields.io/github/stars/KDE/breeze?style=flat-square&color=yellow)](https://github.com/KDE/breeze/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/breeze?style=flat-square&color=blue)](https://github.com/KDE/breeze/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDE/breeze?style=flat-square&color=yellow)](https://github.com/KDE/breeze/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/breeze?style=flat-square&color=blue)](https://github.com/KDE/breeze/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Artwork, styles and assets for the Breeze visual style for the Plasma Desktop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ KDE/breeze 提供了 Plasma 桌面环境的 Breeze 视觉风格所需的美术�
 | forks | 52/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

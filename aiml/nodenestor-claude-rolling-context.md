@@ -1,6 +1,6 @@
 # NodeNestor/claude-rolling-context
 
-[![Stars](https://img.shields.io/github/stars/NodeNestor/claude-rolling-context?style=flat-square&color=yellow)](https://github.com/NodeNestor/claude-rolling-context/stargazers) [![Forks](https://img.shields.io/github/forks/NodeNestor/claude-rolling-context?style=flat-square&color=blue)](https://github.com/NodeNestor/claude-rolling-context/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NodeNestor/claude-rolling-context?style=flat-square&color=yellow)](https://github.com/NodeNestor/claude-rolling-context/stargazers) [![Forks](https://img.shields.io/github/forks/NodeNestor/claude-rolling-context?style=flat-square&color=blue)](https://github.com/NodeNestor/claude-rolling-context/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Rolling context compression for Claude Code — never hit the context wall. Auto-compresses old messages while keeping recent context verbatim. Zero config, zero latency. Works as a Claude Code plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ NodeNestor/claude-rolling-context 为 Claude Code 提供“滚动上下文”�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 3DStreet/3dstreet
 
-[![Stars](https://img.shields.io/github/stars/3DStreet/3dstreet?style=flat-square&color=yellow)](https://github.com/3DStreet/3dstreet/stargazers) [![Forks](https://img.shields.io/github/forks/3DStreet/3dstreet?style=flat-square&color=blue)](https://github.com/3DStreet/3dstreet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/3DStreet/3dstreet?style=flat-square&color=yellow)](https://github.com/3DStreet/3dstreet/stargazers) [![Forks](https://img.shields.io/github/forks/3DStreet/3dstreet?style=flat-square&color=blue)](https://github.com/3DStreet/3dstreet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🚲🚶🚌 Web-based 3D visualization of streets using A-Frame
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Regarding production readiness, the project is rated as medium, indicating that 
 | forks | 41/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

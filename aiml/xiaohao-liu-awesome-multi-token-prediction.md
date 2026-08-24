@@ -1,6 +1,6 @@
 # Xiaohao-Liu/Awesome-Multi-Token-Prediction
 
-[![Stars](https://img.shields.io/github/stars/Xiaohao-Liu/Awesome-Multi-Token-Prediction?style=flat-square&color=yellow)](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction/stargazers) [![Forks](https://img.shields.io/github/forks/Xiaohao-Liu/Awesome-Multi-Token-Prediction?style=flat-square&color=blue)](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xiaohao-Liu/Awesome-Multi-Token-Prediction?style=flat-square&color=yellow)](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction/stargazers) [![Forks](https://img.shields.io/github/forks/Xiaohao-Liu/Awesome-Multi-Token-Prediction?style=flat-square&color=blue)](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of papers, tools, and resources on Multi-Token Prediction (MTP) and related techniques in Large Language Models (LLMs), Speech-Language Models (SLMs), and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Xiaohao-Liu/Awesome-Multi-Token-Prediction 的生产可用性为中等（Medium�
 | forks | 26/100 |
 | stars | 49/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

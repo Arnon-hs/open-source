@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ open-webui/open-terminal：open-webui/open-terminal helps add AI capability with
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

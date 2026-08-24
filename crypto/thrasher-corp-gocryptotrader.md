@@ -1,6 +1,6 @@
 # thrasher-corp/gocryptotrader
 
-[![Stars](https://img.shields.io/github/stars/thrasher-corp/gocryptotrader?style=flat-square&color=yellow)](https://github.com/thrasher-corp/gocryptotrader/stargazers) [![Forks](https://img.shields.io/github/forks/thrasher-corp/gocryptotrader?style=flat-square&color=blue)](https://github.com/thrasher-corp/gocryptotrader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thrasher-corp/gocryptotrader?style=flat-square&color=yellow)](https://github.com/thrasher-corp/gocryptotrader/stargazers) [![Forks](https://img.shields.io/github/forks/thrasher-corp/gocryptotrader?style=flat-square&color=blue)](https://github.com/thrasher-corp/gocryptotrader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 912 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Database
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ thrasher-corp/gocryptotrader 的生产可用性很高。项目有活跃的维护
 | forks | 74/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

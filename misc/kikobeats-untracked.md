@@ -1,6 +1,6 @@
 # Kikobeats/untracked
 
-[![Stars](https://img.shields.io/github/stars/Kikobeats/untracked?style=flat-square&color=yellow)](https://github.com/Kikobeats/untracked/stargazers) [![Forks](https://img.shields.io/github/forks/Kikobeats/untracked?style=flat-square&color=blue)](https://github.com/Kikobeats/untracked/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kikobeats/untracked?style=flat-square&color=yellow)](https://github.com/Kikobeats/untracked/stargazers) [![Forks](https://img.shields.io/github/forks/Kikobeats/untracked?style=flat-square&color=blue)](https://github.com/Kikobeats/untracked/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Ignore common junk files in zip/lambda/webpack bundles with a universal untracked file list.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 834 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Kikobeats/untracked 的生产可用性为中等（Medium）。它适合用于 pr
 | forks | 31/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

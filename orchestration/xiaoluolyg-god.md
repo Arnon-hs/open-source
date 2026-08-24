@@ -1,6 +1,6 @@
 # XiaoLuoLYG/GOD
 
-[![Stars](https://img.shields.io/github/stars/XiaoLuoLYG/GOD?style=flat-square&color=yellow)](https://github.com/XiaoLuoLYG/GOD/stargazers) [![Forks](https://img.shields.io/github/forks/XiaoLuoLYG/GOD?style=flat-square&color=blue)](https://github.com/XiaoLuoLYG/GOD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaoLuoLYG/GOD?style=flat-square&color=yellow)](https://github.com/XiaoLuoLYG/GOD/stargazers) [![Forks](https://img.shields.io/github/forks/XiaoLuoLYG/GOD?style=flat-square&color=blue)](https://github.com/XiaoLuoLYG/GOD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Govern, Observe, Direct - a real-time control room for agent societies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 874 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ XiaoLuoLYG/GOD 的生产可用性是比较高的，主要原因是：
 | forks | 51/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

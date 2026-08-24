@@ -1,6 +1,6 @@
 # mnfst/awesome-free-llm-apis
 
-[![Stars](https://img.shields.io/github/stars/mnfst/awesome-free-llm-apis?style=flat-square&color=yellow)](https://github.com/mnfst/awesome-free-llm-apis/stargazers) [![Forks](https://img.shields.io/github/forks/mnfst/awesome-free-llm-apis?style=flat-square&color=blue)](https://github.com/mnfst/awesome-free-llm-apis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mnfst/awesome-free-llm-apis?style=flat-square&color=yellow)](https://github.com/mnfst/awesome-free-llm-apis/stargazers) [![Forks](https://img.shields.io/github/forks/mnfst/awesome-free-llm-apis?style=flat-square&color=blue)](https://github.com/mnfst/awesome-free-llm-apis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > List of Permanent Free LLM API  (API Keys)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 579 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ mnfst/awesome-free-llm-apis 帮助开发者在不从零开始构建模型堆栈�
 | forks | 69/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

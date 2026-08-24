@@ -1,6 +1,6 @@
 # Pineconox1/polymarket-arbitrage-bot
 
-[![Stars](https://img.shields.io/github/stars/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=yellow)](https://github.com/Pineconox1/polymarket-arbitrage-bot/stargazers) [![Forks](https://img.shields.io/github/forks/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=blue)](https://github.com/Pineconox1/polymarket-arbitrage-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=yellow)](https://github.com/Pineconox1/polymarket-arbitrage-bot/stargazers) [![Forks](https://img.shields.io/github/forks/Pineconox1/polymarket-arbitrage-bot?style=flat-square&color=blue)](https://github.com/Pineconox1/polymarket-arbitrage-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage | polymarket arbitrage
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Pineconox1/polymarket-arbitrage-bot 是一个开源项目，用于实现 Polymar
 | forks | 93/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

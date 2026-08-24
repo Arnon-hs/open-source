@@ -1,6 +1,6 @@
 # alib8b8/aflare
 
-[![Stars](https://img.shields.io/github/stars/alib8b8/aflare?style=flat-square&color=yellow)](https://github.com/alib8b8/aflare/stargazers) [![Forks](https://img.shields.io/github/forks/alib8b8/aflare?style=flat-square&color=blue)](https://github.com/alib8b8/aflare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alib8b8/aflare?style=flat-square&color=yellow)](https://github.com/alib8b8/aflare/stargazers) [![Forks](https://img.shields.io/github/forks/alib8b8/aflare?style=flat-square&color=blue)](https://github.com/alib8b8/aflare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 让AI告别聊天，真正成为你的执行副驾。自然语言驱动，YAML确定性执行——比Bash优雅，比n8n轻量，比纯Agent靠谱。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ alib8b8/aflare 的生产可用性较高，项目最近有活动，采用率和�
 | forks | 12/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

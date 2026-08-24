@@ -1,6 +1,6 @@
 # opentokenz/mcpx
 
-[![Stars](https://img.shields.io/github/stars/opentokenz/mcpx?style=flat-square&color=yellow)](https://github.com/opentokenz/mcpx/stargazers) [![Forks](https://img.shields.io/github/forks/opentokenz/mcpx?style=flat-square&color=blue)](https://github.com/opentokenz/mcpx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opentokenz/mcpx?style=flat-square&color=yellow)](https://github.com/opentokenz/mcpx/stargazers) [![Forks](https://img.shields.io/github/forks/opentokenz/mcpx?style=flat-square&color=blue)](https://github.com/opentokenz/mcpx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ MCPX 是一个运行在开发环境中的 MCP Runtime（网关），通过统一
 | forks | 46/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

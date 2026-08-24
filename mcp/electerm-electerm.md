@@ -1,6 +1,6 @@
 # electerm/electerm
 
-[![Stars](https://img.shields.io/github/stars/electerm/electerm?style=flat-square&color=yellow)](https://github.com/electerm/electerm/stargazers) [![Forks](https://img.shields.io/github/forks/electerm/electerm?style=flat-square&color=blue)](https://github.com/electerm/electerm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electerm/electerm?style=flat-square&color=yellow)](https://github.com/electerm/electerm/stargazers) [![Forks](https://img.shields.io/github/forks/electerm/electerm?style=flat-square&color=blue)](https://github.com/electerm/electerm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ electerm 具备成熟的功能集合、活跃的开源社区和灵活的接入�
 | forks | 76/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 20/100 |
 | adoption | 85/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

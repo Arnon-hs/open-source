@@ -1,6 +1,6 @@
 # JuanCF/scrcpy-mcp
 
-[![Stars](https://img.shields.io/github/stars/JuanCF/scrcpy-mcp?style=flat-square&color=yellow)](https://github.com/JuanCF/scrcpy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JuanCF/scrcpy-mcp?style=flat-square&color=blue)](https://github.com/JuanCF/scrcpy-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuanCF/scrcpy-mcp?style=flat-square&color=yellow)](https://github.com/JuanCF/scrcpy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JuanCF/scrcpy-mcp?style=flat-square&color=blue)](https://github.com/JuanCF/scrcpy-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Android device control via ADB and scrcpy — gives AI agents vision and control over Android devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Mobile
+MCP · Backend · Mobile
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ JuanCF/scrcpy-mcp 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 27/100 |
 | stars | 37/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

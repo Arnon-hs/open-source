@@ -1,6 +1,6 @@
 # esp-rs/esp-idf-sys
 
-[![Stars](https://img.shields.io/github/stars/esp-rs/esp-idf-sys?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-idf-sys/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-idf-sys?style=flat-square&color=blue)](https://github.com/esp-rs/esp-idf-sys/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esp-rs/esp-idf-sys?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-idf-sys/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-idf-sys?style=flat-square&color=blue)](https://github.com/esp-rs/esp-idf-sys/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Bindings for ESP-IDF (Espressif's IoT Development Framework)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ esp-rs/esp-idf-sys 是一个为 ESP-IDF（Espressif的IoT开发框架）提供�
 | forks | 55/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

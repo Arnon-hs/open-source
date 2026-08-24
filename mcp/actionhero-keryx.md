@@ -1,6 +1,6 @@
 # actionhero/keryx
 
-[![Stars](https://img.shields.io/github/stars/actionhero/keryx?style=flat-square&color=yellow)](https://github.com/actionhero/keryx/stargazers) [![Forks](https://img.shields.io/github/forks/actionhero/keryx?style=flat-square&color=blue)](https://github.com/actionhero/keryx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actionhero/keryx?style=flat-square&color=yellow)](https://github.com/actionhero/keryx/stargazers) [![Forks](https://img.shields.io/github/forks/actionhero/keryx?style=flat-square&color=blue)](https://github.com/actionhero/keryx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Keryx: The Fullstack TypeScript Framework for MCP and APIs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Keryx 的生产可用性较高，因为它有最近的活动、采用和生态�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

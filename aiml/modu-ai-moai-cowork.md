@@ -1,6 +1,6 @@
 # modu-ai/moai-cowork
 
-[![Stars](https://img.shields.io/github/stars/modu-ai/moai-cowork?style=flat-square&color=yellow)](https://github.com/modu-ai/moai-cowork/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/moai-cowork?style=flat-square&color=blue)](https://github.com/modu-ai/moai-cowork/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modu-ai/moai-cowork?style=flat-square&color=yellow)](https://github.com/modu-ai/moai-cowork/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/moai-cowork?style=flat-square&color=blue)](https://github.com/modu-ai/moai-cowork/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 모두의 코워크(MoAI-Cowork) — 한국 실무 Claude Code AI 직원 플러그인 + 4트랙 한국어 가이드 (cowork.mo.ai.kr)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 268 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ modu-ai/moai-cowork 在生产环境中的可用性很高，主要原因是：
 | forks | 45/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

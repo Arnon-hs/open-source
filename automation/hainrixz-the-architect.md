@@ -1,6 +1,6 @@
 # Hainrixz/the-architect
 
-[![Stars](https://img.shields.io/github/stars/Hainrixz/the-architect?style=flat-square&color=yellow)](https://github.com/Hainrixz/the-architect/stargazers) [![Forks](https://img.shields.io/github/forks/Hainrixz/the-architect?style=flat-square&color=blue)](https://github.com/Hainrixz/the-architect/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hainrixz/the-architect?style=flat-square&color=yellow)](https://github.com/Hainrixz/the-architect/stargazers) [![Forks](https://img.shields.io/github/forks/Hainrixz/the-architect?style=flat-square&color=blue)](https://github.com/Hainrixz/the-architect/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The Architect — A Claude Code meta-agent that designs complete software blueprints. Describe what you want to build, get a self-contained .md file that Claude Code can build autonomously.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Design
+Automation · AI/ML · DevTools · Product
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ The Architect 是一款基于 Claude Code 的 meta‑agent，能够根据自然�
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

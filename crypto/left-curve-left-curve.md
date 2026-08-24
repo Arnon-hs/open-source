@@ -1,6 +1,6 @@
 # left-curve/left-curve
 
-[![Stars](https://img.shields.io/github/stars/left-curve/left-curve?style=flat-square&color=yellow)](https://github.com/left-curve/left-curve/stargazers) [![Forks](https://img.shields.io/github/forks/left-curve/left-curve?style=flat-square&color=blue)](https://github.com/left-curve/left-curve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/left-curve/left-curve?style=flat-square&color=yellow)](https://github.com/left-curve/left-curve/stargazers) [![Forks](https://img.shields.io/github/forks/left-curve/left-curve?style=flat-square&color=blue)](https://github.com/left-curve/left-curve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Dango exchange
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ left‑curve 是一个基于 Rust 实现的开源框架，专注于快速原型�
 | forks | 37/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

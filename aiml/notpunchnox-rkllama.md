@@ -1,6 +1,6 @@
 # NotPunchnox/rkllama
 
-[![Stars](https://img.shields.io/github/stars/NotPunchnox/rkllama?style=flat-square&color=yellow)](https://github.com/NotPunchnox/rkllama/stargazers) [![Forks](https://img.shields.io/github/forks/NotPunchnox/rkllama?style=flat-square&color=blue)](https://github.com/NotPunchnox/rkllama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NotPunchnox/rkllama?style=flat-square&color=yellow)](https://github.com/NotPunchnox/rkllama/stargazers) [![Forks](https://img.shields.io/github/forks/NotPunchnox/rkllama?style=flat-square&color=blue)](https://github.com/NotPunchnox/rkllama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Ollama alternative for Rockchip NPU: An efficient solution for running AI and Deep learning models on Rockchip devices with optimized NPU support ( rkllm )
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 567 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Education
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ NotPunchnox/rkllama 在生产环境中具有较高的可用性，原因包括：
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

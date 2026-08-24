@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | diffusers |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2024-08-16 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ black-forest-labs/FLUX.1-schnell：black-forest-labs/FLUX.1-schnell may be usefu
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

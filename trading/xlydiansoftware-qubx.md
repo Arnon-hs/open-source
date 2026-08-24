@@ -1,6 +1,6 @@
 # xLydianSoftware/Qubx
 
-[![Stars](https://img.shields.io/github/stars/xLydianSoftware/Qubx?style=flat-square&color=yellow)](https://github.com/xLydianSoftware/Qubx/stargazers) [![Forks](https://img.shields.io/github/forks/xLydianSoftware/Qubx?style=flat-square&color=blue)](https://github.com/xLydianSoftware/Qubx/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xLydianSoftware/Qubx?style=flat-square&color=yellow)](https://github.com/xLydianSoftware/Qubx/stargazers) [![Forks](https://img.shields.io/github/forks/xLydianSoftware/Qubx?style=flat-square&color=blue)](https://github.com/xLydianSoftware/Qubx/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for quantitative strategies development, backtesting and live execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · DevTools
+Trading
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ xLydianSoftware/Qubx：xLydianSoftware/Qubx helps research and automate market w
 | forks | 31/100 |
 | stars | 39/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

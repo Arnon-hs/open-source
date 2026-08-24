@@ -1,6 +1,6 @@
 # Soreepeong/XivAlexander
 
-[![Stars](https://img.shields.io/github/stars/Soreepeong/XivAlexander?style=flat-square&color=yellow)](https://github.com/Soreepeong/XivAlexander/stargazers) [![Forks](https://img.shields.io/github/forks/Soreepeong/XivAlexander?style=flat-square&color=blue)](https://github.com/Soreepeong/XivAlexander/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Soreepeong/XivAlexander?style=flat-square&color=yellow)](https://github.com/Soreepeong/XivAlexander/stargazers) [![Forks](https://img.shields.io/github/forks/Soreepeong/XivAlexander?style=flat-square&color=blue)](https://github.com/Soreepeong/XivAlexander/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Soreepeong/XivAlexander 是一个开源项目，旨在提高 Final Fantasy XIV �
 | forks | 46/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

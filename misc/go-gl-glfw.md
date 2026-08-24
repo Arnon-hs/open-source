@@ -1,6 +1,6 @@
 # go-gl/glfw
 
-[![Stars](https://img.shields.io/github/stars/go-gl/glfw?style=flat-square&color=yellow)](https://github.com/go-gl/glfw/stargazers) [![Forks](https://img.shields.io/github/forks/go-gl/glfw?style=flat-square&color=blue)](https://github.com/go-gl/glfw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-gl/glfw?style=flat-square&color=yellow)](https://github.com/go-gl/glfw/stargazers) [![Forks](https://img.shields.io/github/forks/go-gl/glfw?style=flat-square&color=blue)](https://github.com/go-gl/glfw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Go bindings for GLFW 3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,14 +132,15 @@ To adopt go-gl/glfw in a practical sense, developers should start by:
 | forks | 57/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Zaneham/Booth
 
-[![Stars](https://img.shields.io/github/stars/Zaneham/Booth?style=flat-square&color=yellow)](https://github.com/Zaneham/Booth/stargazers) [![Forks](https://img.shields.io/github/forks/Zaneham/Booth?style=flat-square&color=blue)](https://github.com/Zaneham/Booth/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zaneham/Booth?style=flat-square&color=yellow)](https://github.com/Zaneham/Booth/stargazers) [![Forks](https://img.shields.io/github/forks/Zaneham/Booth?style=flat-square&color=blue)](https://github.com/Zaneham/Booth/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source CUDA, Triton and HIP compiler targeting multiple GPU and CPU architectures.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Zaneham/Booth 的生产可用性为中等。它适合用于原型设计或内部
 | forks | 49/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

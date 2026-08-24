@@ -1,6 +1,6 @@
 # microcks/microcks
 
-[![Stars](https://img.shields.io/github/stars/microcks/microcks?style=flat-square&color=yellow)](https://github.com/microcks/microcks/stargazers) [![Forks](https://img.shields.io/github/forks/microcks/microcks?style=flat-square&color=blue)](https://github.com/microcks/microcks/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microcks/microcks?style=flat-square&color=yellow)](https://github.com/microcks/microcks/stargazers) [![Forks](https://img.shields.io/github/forks/microcks/microcks?style=flat-square&color=blue)](https://github.com/microcks/microcks/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 343 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Microcks（microcks/microcks）是一款开源、云原生的 API Mock 与测试
 | forks | 63/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ColdWindScholar/MIO-KITCHEN-SOURCE
 
-[![Stars](https://img.shields.io/github/stars/ColdWindScholar/MIO-KITCHEN-SOURCE?style=flat-square&color=yellow)](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE/stargazers) [![Forks](https://img.shields.io/github/forks/ColdWindScholar/MIO-KITCHEN-SOURCE?style=flat-square&color=blue)](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ColdWindScholar/MIO-KITCHEN-SOURCE?style=flat-square&color=yellow)](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE/stargazers) [![Forks](https://img.shields.io/github/forks/ColdWindScholar/MIO-KITCHEN-SOURCE?style=flat-square&color=blue)](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An Android Rom Tool in python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ ColdWindScholar/MIO-KITCHEN-SOURCE 的生产可用性为中等，适合用于内
 | forks | 49/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

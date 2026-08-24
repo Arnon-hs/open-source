@@ -1,6 +1,6 @@
 # BAI-LAB/MemoryOS
 
-[![Stars](https://img.shields.io/github/stars/BAI-LAB/MemoryOS?style=flat-square&color=yellow)](https://github.com/BAI-LAB/MemoryOS/stargazers) [![Forks](https://img.shields.io/github/forks/BAI-LAB/MemoryOS?style=flat-square&color=blue)](https://github.com/BAI-LAB/MemoryOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BAI-LAB/MemoryOS?style=flat-square&color=yellow)](https://github.com/BAI-LAB/MemoryOS/stargazers) [![Forks](https://img.shields.io/github/forks/BAI-LAB/MemoryOS?style=flat-square&color=blue)](https://github.com/BAI-LAB/MemoryOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > [EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Design
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ BAI-LAB/MemoryOS 在生产环境中可用，受到了强烈的采用和生态系
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

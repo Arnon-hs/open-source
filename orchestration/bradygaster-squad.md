@@ -1,6 +1,6 @@
 # bradygaster/squad
 
-[![Stars](https://img.shields.io/github/stars/bradygaster/squad?style=flat-square&color=yellow)](https://github.com/bradygaster/squad/stargazers) [![Forks](https://img.shields.io/github/forks/bradygaster/squad?style=flat-square&color=blue)](https://github.com/bradygaster/squad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bradygaster/squad?style=flat-square&color=yellow)](https://github.com/bradygaster/squad/stargazers) [![Forks](https://img.shields.io/github/forks/bradygaster/squad?style=flat-square&color=blue)](https://github.com/bradygaster/squad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Squad: AI agent teams for any project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 428 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Squad（bradygaster/squad）是一套面向任何项目的 AI 代理团队框架
 | forks | 66/100 |
 | stars | 74/100 |
 | topics | 88/100 |
-| outlook | 90/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

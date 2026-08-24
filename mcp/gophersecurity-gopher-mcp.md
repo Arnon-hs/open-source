@@ -1,6 +1,6 @@
 # GopherSecurity/gopher-mcp
 
-[![Stars](https://img.shields.io/github/stars/GopherSecurity/gopher-mcp?style=flat-square&color=yellow)](https://github.com/GopherSecurity/gopher-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GopherSecurity/gopher-mcp?style=flat-square&color=blue)](https://github.com/GopherSecurity/gopher-mcp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GopherSecurity/gopher-mcp?style=flat-square&color=yellow)](https://github.com/GopherSecurity/gopher-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GopherSecurity/gopher-mcp?style=flat-square&color=blue)](https://github.com/GopherSecurity/gopher-mcp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > MCP C++ SDK - Model Context Protocol implementation in CPP with enterprise-grade security, observability and connectivity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · AI/ML · Backend · Observability · Security
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ GopherSecurity/gopher-mcp 是一个开源项目，提供了 Model Context Protoc
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # moomdate/CYD-PromptPay-Terminal
 
-[![Stars](https://img.shields.io/github/stars/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=yellow)](https://github.com/moomdate/CYD-PromptPay-Terminal/stargazers) [![Forks](https://img.shields.io/github/forks/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=blue)](https://github.com/moomdate/CYD-PromptPay-Terminal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=yellow)](https://github.com/moomdate/CYD-PromptPay-Terminal/stargazers) [![Forks](https://img.shields.io/github/forks/moomdate/CYD-PromptPay-Terminal?style=flat-square&color=blue)](https://github.com/moomdate/CYD-PromptPay-Terminal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A $6 PromptPay payment terminal — ESP32 + 2.8" touch screen, powered by Stripe. Enter amount, show QR, beep when paid. Thai/English UI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend · Database
+Payments
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ moomdate/CYD-PromptPay-Terminal 是一个基于 ESP32 和 2.8 英寸触摸屏的
 | forks | 31/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

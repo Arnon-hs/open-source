@@ -1,6 +1,6 @@
 # xflops/flame
 
-[![Stars](https://img.shields.io/github/stars/xflops/flame?style=flat-square&color=yellow)](https://github.com/xflops/flame/stargazers) [![Forks](https://img.shields.io/github/forks/xflops/flame?style=flat-square&color=blue)](https://github.com/xflops/flame/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xflops/flame?style=flat-square&color=yellow)](https://github.com/xflops/flame/stargazers) [![Forks](https://img.shields.io/github/forks/xflops/flame?style=flat-square&color=blue)](https://github.com/xflops/flame/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A distributed engine for elastic workload, e.g. AI Agent, RL, Quant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ xflops/flame 的生产可用性为中等（Medium）。它适合用于原型开�
 | forks | 29/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

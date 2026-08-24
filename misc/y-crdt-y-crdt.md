@@ -1,6 +1,6 @@
 # y-crdt/y-crdt
 
-[![Stars](https://img.shields.io/github/stars/y-crdt/y-crdt?style=flat-square&color=yellow)](https://github.com/y-crdt/y-crdt/stargazers) [![Forks](https://img.shields.io/github/forks/y-crdt/y-crdt?style=flat-square&color=blue)](https://github.com/y-crdt/y-crdt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/y-crdt/y-crdt?style=flat-square&color=yellow)](https://github.com/y-crdt/y-crdt/stargazers) [![Forks](https://img.shields.io/github/forks/y-crdt/y-crdt?style=flat-square&color=blue)](https://github.com/y-crdt/y-crdt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Rust port of Yjs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ y-crdt/y-crdt 的生产可用性为中等，适合用于原型开发或内部
 | forks | 53/100 |
 | stars | 71/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

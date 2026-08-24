@@ -1,6 +1,6 @@
 # nextcloud/forms
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/forms?style=flat-square&color=yellow)](https://github.com/nextcloud/forms/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/forms?style=flat-square&color=blue)](https://github.com/nextcloud/forms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/forms?style=flat-square&color=yellow)](https://github.com/nextcloud/forms/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/forms?style=flat-square&color=blue)](https://github.com/nextcloud/forms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 📝 Simple form & survey app for Nextcloud
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ nextcloud/forms 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 52/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # devcodex-labs/devcodex
 
-[![Stars](https://img.shields.io/github/stars/devcodex-labs/devcodex?style=flat-square&color=yellow)](https://github.com/devcodex-labs/devcodex/stargazers) [![Forks](https://img.shields.io/github/forks/devcodex-labs/devcodex?style=flat-square&color=blue)](https://github.com/devcodex-labs/devcodex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devcodex-labs/devcodex?style=flat-square&color=yellow)](https://github.com/devcodex-labs/devcodex/stargazers) [![Forks](https://img.shields.io/github/forks/devcodex-labs/devcodex?style=flat-square&color=blue)](https://github.com/devcodex-labs/devcodex/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Intent-driven AI coding workflow runtime for consistent context, skills, approvals, validation, and handoffs across six AI coding hosts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ devcodex-labs/devcodex：devcodex-labs/devcodex helps remove repetitive manual o
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

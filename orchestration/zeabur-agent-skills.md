@@ -1,6 +1,6 @@
 # zeabur/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/zeabur/agent-skills?style=flat-square&color=yellow)](https://github.com/zeabur/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/zeabur/agent-skills?style=flat-square&color=blue)](https://github.com/zeabur/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeabur/agent-skills?style=flat-square&color=yellow)](https://github.com/zeabur/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/zeabur/agent-skills?style=flat-square&color=blue)](https://github.com/zeabur/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code & Codex plugin for Zeabur CLI operations, deployment, and troubleshooting.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ zeabur/agent‑skills 是一套为 Zeabur CLI 设计的 Claude Code 与 Codex 
 | forks | 25/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # haveno-dex/haveno
 
-[![Stars](https://img.shields.io/github/stars/haveno-dex/haveno?style=flat-square&color=yellow)](https://github.com/haveno-dex/haveno/stargazers) [![Forks](https://img.shields.io/github/forks/haveno-dex/haveno?style=flat-square&color=blue)](https://github.com/haveno-dex/haveno/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haveno-dex/haveno?style=flat-square&color=yellow)](https://github.com/haveno-dex/haveno/stargazers) [![Forks](https://img.shields.io/github/forks/haveno-dex/haveno?style=flat-square&color=blue)](https://github.com/haveno-dex/haveno/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Decentralized P2P exchange platform built on Monero and Tor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend · Database
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ haveno-dex/haveno：haveno-dex/haveno helps prototype or inspect blockchain work
 | forks | 57/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

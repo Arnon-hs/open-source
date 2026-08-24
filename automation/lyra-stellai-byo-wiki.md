@@ -1,6 +1,6 @@
 # Lyra-stellAI/BYO-WIKI
 
-[![Stars](https://img.shields.io/github/stars/Lyra-stellAI/BYO-WIKI?style=flat-square&color=yellow)](https://github.com/Lyra-stellAI/BYO-WIKI/stargazers) [![Forks](https://img.shields.io/github/forks/Lyra-stellAI/BYO-WIKI?style=flat-square&color=blue)](https://github.com/Lyra-stellAI/BYO-WIKI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lyra-stellAI/BYO-WIKI?style=flat-square&color=yellow)](https://github.com/Lyra-stellAI/BYO-WIKI/stargazers) [![Forks](https://img.shields.io/github/forks/Lyra-stellAI/BYO-WIKI?style=flat-square&color=blue)](https://github.com/Lyra-stellAI/BYO-WIKI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An agent that helps build your own LLM-native knowledge library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Lyra‑stellAI/BYO‑WIKI 是一个智能代理，能够帮助你快速构建面
 | forks | 8/100 |
 | stars | 50/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

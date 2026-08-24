@@ -1,6 +1,6 @@
 # GBALATRO/balatro-gba
 
-[![Stars](https://img.shields.io/github/stars/GBALATRO/balatro-gba?style=flat-square&color=yellow)](https://github.com/GBALATRO/balatro-gba/stargazers) [![Forks](https://img.shields.io/github/forks/GBALATRO/balatro-gba?style=flat-square&color=blue)](https://github.com/GBALATRO/balatro-gba/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GBALATRO/balatro-gba?style=flat-square&color=yellow)](https://github.com/GBALATRO/balatro-gba/stargazers) [![Forks](https://img.shields.io/github/forks/GBALATRO/balatro-gba?style=flat-square&color=blue)](https://github.com/GBALATRO/balatro-gba/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A demake of Balatro for the GBA
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ GBALATRO/balatro-gba 的生产可用性为中等。它可以用于原型或内�
 | forks | 50/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

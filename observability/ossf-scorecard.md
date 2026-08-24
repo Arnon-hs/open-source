@@ -1,6 +1,6 @@
 # ossf/scorecard
 
-[![Stars](https://img.shields.io/github/stars/ossf/scorecard?style=flat-square&color=yellow)](https://github.com/ossf/scorecard/stargazers) [![Forks](https://img.shields.io/github/forks/ossf/scorecard?style=flat-square&color=blue)](https://github.com/ossf/scorecard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ossf/scorecard?style=flat-square&color=yellow)](https://github.com/ossf/scorecard/stargazers) [![Forks](https://img.shields.io/github/forks/ossf/scorecard?style=flat-square&color=blue)](https://github.com/ossf/scorecard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSSF Scorecard - Security health metrics for Open Source
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 679 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Scorecard 具有高生产可用性，主要原因包括：
 | forks | 71/100 |
 | stars | 80/100 |
 | topics | 25/100 |
-| outlook | 75/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

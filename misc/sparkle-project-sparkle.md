@@ -1,6 +1,6 @@
 # sparkle-project/Sparkle
 
-[![Stars](https://img.shields.io/github/stars/sparkle-project/Sparkle?style=flat-square&color=yellow)](https://github.com/sparkle-project/Sparkle/stargazers) [![Forks](https://img.shields.io/github/forks/sparkle-project/Sparkle?style=flat-square&color=blue)](https://github.com/sparkle-project/Sparkle/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sparkle-project/Sparkle?style=flat-square&color=yellow)](https://github.com/sparkle-project/Sparkle/stargazers) [![Forks](https://img.shields.io/github/forks/sparkle-project/Sparkle?style=flat-square&color=blue)](https://github.com/sparkle-project/Sparkle/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A software update framework for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Sparkle 的生产可用性较高，主要原因是：
 | forks | 76/100 |
 | stars | 85/100 |
 | topics | 50/100 |
-| outlook | 82/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

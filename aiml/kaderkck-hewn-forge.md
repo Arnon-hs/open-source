@@ -1,6 +1,6 @@
 # kaderkck/hewn-forge
 
-[![Stars](https://img.shields.io/github/stars/kaderkck/hewn-forge?style=flat-square&color=yellow)](https://github.com/kaderkck/hewn-forge/stargazers) [![Forks](https://img.shields.io/github/forks/kaderkck/hewn-forge?style=flat-square&color=blue)](https://github.com/kaderkck/hewn-forge/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaderkck/hewn-forge?style=flat-square&color=yellow)](https://github.com/kaderkck/hewn-forge/stargazers) [![Forks](https://img.shields.io/github/forks/kaderkck/hewn-forge?style=flat-square&color=blue)](https://github.com/kaderkck/hewn-forge/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ kaderkck/hewn-forge 为想要快速加入 AI 摘要与代码润色功能的团�
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

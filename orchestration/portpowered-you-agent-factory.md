@@ -1,6 +1,6 @@
 # portpowered/you-agent-factory
 
-[![Stars](https://img.shields.io/github/stars/portpowered/you-agent-factory?style=flat-square&color=yellow)](https://github.com/portpowered/you-agent-factory/stargazers) [![Forks](https://img.shields.io/github/forks/portpowered/you-agent-factory?style=flat-square&color=blue)](https://github.com/portpowered/you-agent-factory/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/portpowered/you-agent-factory?style=flat-square&color=yellow)](https://github.com/portpowered/you-agent-factory/stargazers) [![Forks](https://img.shields.io/github/forks/portpowered/you-agent-factory?style=flat-square&color=blue)](https://github.com/portpowered/you-agent-factory/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Agent factory workflow engine for agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Product
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ portpowered/you-agent-factory 的生产可用性为中等（Medium），适合�
 | forks | 8/100 |
 | stars | 25/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # paulpierre/markdown-crawler
 
-[![Stars](https://img.shields.io/github/stars/paulpierre/markdown-crawler?style=flat-square&color=yellow)](https://github.com/paulpierre/markdown-crawler/stargazers) [![Forks](https://img.shields.io/github/forks/paulpierre/markdown-crawler?style=flat-square&color=blue)](https://github.com/paulpierre/markdown-crawler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paulpierre/markdown-crawler?style=flat-square&color=yellow)](https://github.com/paulpierre/markdown-crawler/stargazers) [![Forks](https://img.shields.io/github/forks/paulpierre/markdown-crawler?style=flat-square&color=blue)](https://github.com/paulpierre/markdown-crawler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A multithreaded 🕸️ web crawler that recursively crawls a website and creates a 🔽 markdown file for each page, designed for LLM RAG
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Design
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ paulpierre/markdown-crawler — мультипоточный веб‑кра
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

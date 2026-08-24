@@ -1,6 +1,6 @@
 # Fabric-Project/Fabric
 
-[![Stars](https://img.shields.io/github/stars/Fabric-Project/Fabric?style=flat-square&color=yellow)](https://github.com/Fabric-Project/Fabric/stargazers) [![Forks](https://img.shields.io/github/forks/Fabric-Project/Fabric?style=flat-square&color=blue)](https://github.com/Fabric-Project/Fabric/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fabric-Project/Fabric?style=flat-square&color=yellow)](https://github.com/Fabric-Project/Fabric/stargazers) [![Forks](https://img.shields.io/github/forks/Fabric-Project/Fabric?style=flat-square&color=blue)](https://github.com/Fabric-Project/Fabric/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 541 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -72,14 +72,15 @@ Let's craft: "Fabric-Project/Fabric 是一个受 Quartz Composer 启发的 Node 
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

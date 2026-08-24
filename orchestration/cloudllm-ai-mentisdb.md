@@ -1,6 +1,6 @@
 # CloudLLM-ai/mentisdb
 
-[![Stars](https://img.shields.io/github/stars/CloudLLM-ai/mentisdb?style=flat-square&color=yellow)](https://github.com/CloudLLM-ai/mentisdb/stargazers) [![Forks](https://img.shields.io/github/forks/CloudLLM-ai/mentisdb?style=flat-square&color=blue)](https://github.com/CloudLLM-ai/mentisdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CloudLLM-ai/mentisdb?style=flat-square&color=yellow)](https://github.com/CloudLLM-ai/mentisdb/stargazers) [![Forks](https://img.shields.io/github/forks/CloudLLM-ai/mentisdb?style=flat-square&color=blue)](https://github.com/CloudLLM-ai/mentisdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Memory that lasts and compounds. MentisDB gives agents durable memory so they do not just remember, they improve over time. It stores append-only thought chains   plus a Git-like skills registry, letting skills evolve with experience through versioned, integrity-checked updates and fast retrieval.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ MentisDB 的生产可用性为中等。它适用于原型或内部工作流的�
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

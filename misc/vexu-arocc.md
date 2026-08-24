@@ -1,6 +1,6 @@
 # Vexu/arocc
 
-[![Stars](https://img.shields.io/github/stars/Vexu/arocc?style=flat-square&color=yellow)](https://github.com/Vexu/arocc/stargazers) [![Forks](https://img.shields.io/github/forks/Vexu/arocc?style=flat-square&color=blue)](https://github.com/Vexu/arocc/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vexu/arocc?style=flat-square&color=yellow)](https://github.com/Vexu/arocc/stargazers) [![Forks](https://img.shields.io/github/forks/Vexu/arocc?style=flat-square&color=blue)](https://github.com/Vexu/arocc/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A modern fully featured C compiler.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Vexu/arroc 的生产可用性为中等。它可以用于 prototyping 或内部�
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

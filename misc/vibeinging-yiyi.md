@@ -1,6 +1,6 @@
 # vibeinging/YiYi
 
-[![Stars](https://img.shields.io/github/stars/vibeinging/YiYi?style=flat-square&color=yellow)](https://github.com/vibeinging/YiYi/stargazers) [![Forks](https://img.shields.io/github/forks/vibeinging/YiYi?style=flat-square&color=blue)](https://github.com/vibeinging/YiYi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vibeinging/YiYi?style=flat-square&color=yellow)](https://github.com/vibeinging/YiYi/stargazers) [![Forks](https://img.shields.io/github/forks/vibeinging/YiYi?style=flat-square&color=blue)](https://github.com/vibeinging/YiYi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 35/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ vibeinging/YiYi 是一个用 Rust 编写的开源工具，虽然目前的文档�
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 64/100 |
+| production | 38/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

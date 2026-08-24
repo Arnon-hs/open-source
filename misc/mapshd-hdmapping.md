@@ -1,6 +1,6 @@
 # MapsHD/HDMapping
 
-[![Stars](https://img.shields.io/github/stars/MapsHD/HDMapping?style=flat-square&color=yellow)](https://github.com/MapsHD/HDMapping/stargazers) [![Forks](https://img.shields.io/github/forks/MapsHD/HDMapping?style=flat-square&color=blue)](https://github.com/MapsHD/HDMapping/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MapsHD/HDMapping?style=flat-square&color=yellow)](https://github.com/MapsHD/HDMapping/stargazers) [![Forks](https://img.shields.io/github/forks/MapsHD/HDMapping?style=flat-square&color=blue)](https://github.com/MapsHD/HDMapping/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -78,14 +78,15 @@ MapsHD/HDMapping 是一个开源项目，提供了一个用于高精度地图映
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 67/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

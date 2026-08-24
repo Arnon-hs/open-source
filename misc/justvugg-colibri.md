@@ -1,6 +1,6 @@
 # JustVugg/colibri
 
-[![Stars](https://img.shields.io/github/stars/JustVugg/colibri?style=flat-square&color=yellow)](https://github.com/JustVugg/colibri/stargazers) [![Forks](https://img.shields.io/github/forks/JustVugg/colibri?style=flat-square&color=blue)](https://github.com/JustVugg/colibri/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JustVugg/colibri?style=flat-square&color=yellow)](https://github.com/JustVugg/colibri/stargazers) [![Forks](https://img.shields.io/github/forks/JustVugg/colibri?style=flat-square&color=blue)](https://github.com/JustVugg/colibri/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ JustVugg/colibri 是一个用纯 C 实现的轻量推理引擎，能够在仅 25
 | forks | 69/100 |
 | stars | 82/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

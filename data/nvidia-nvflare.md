@@ -1,6 +1,6 @@
 # NVIDIA/NVFlare
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/NVFlare?style=flat-square&color=yellow)](https://github.com/NVIDIA/NVFlare/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NVFlare?style=flat-square&color=blue)](https://github.com/NVIDIA/NVFlare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NVFlare?style=flat-square&color=yellow)](https://github.com/NVIDIA/NVFlare/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NVFlare?style=flat-square&color=blue)](https://github.com/NVIDIA/NVFlare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA Federated Learning Application Runtime Environment
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 953 |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ NVFlare 的生产可用性较高，因为它有活跃的维护者、强大的采
 | forks | 61/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

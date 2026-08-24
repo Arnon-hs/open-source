@@ -1,6 +1,6 @@
 # rayl15/OpenVision
 
-[![Stars](https://img.shields.io/github/stars/rayl15/OpenVision?style=flat-square&color=yellow)](https://github.com/rayl15/OpenVision/stargazers) [![Forks](https://img.shields.io/github/forks/rayl15/OpenVision?style=flat-square&color=blue)](https://github.com/rayl15/OpenVision/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rayl15/OpenVision?style=flat-square&color=yellow)](https://github.com/rayl15/OpenVision/stargazers) [![Forks](https://img.shields.io/github/forks/rayl15/OpenVision?style=flat-square&color=blue)](https://github.com/rayl15/OpenVision/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source iOS app connecting Meta Ray-Ban smart glasses to AI — 5 backends (on-device MLX models, Apple Intelligence, OpenAI, Gemini Live, OpenClaw), on-device neural voice, face recognition & live web search. Private and offline-capable.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ OpenVision 的生产可用性为中等。它适合用于 prototyping 或内部�
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

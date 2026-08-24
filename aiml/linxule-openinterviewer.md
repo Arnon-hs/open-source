@@ -1,6 +1,6 @@
 # linxule/openinterviewer
 
-[![Stars](https://img.shields.io/github/stars/linxule/openinterviewer?style=flat-square&color=yellow)](https://github.com/linxule/openinterviewer/stargazers) [![Forks](https://img.shields.io/github/forks/linxule/openinterviewer?style=flat-square&color=blue)](https://github.com/linxule/openinterviewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linxule/openinterviewer?style=flat-square&color=yellow)](https://github.com/linxule/openinterviewer/stargazers) [![Forks](https://img.shields.io/github/forks/linxule/openinterviewer?style=flat-square&color=blue)](https://github.com/linxule/openinterviewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI-powered qualitative research platform. Conduct deep interviews at scale with AI interviewers (Gemini/Claude) that adapt to responses. Features study management, real-time synthesis, aggregate analysis, and one-click Vercel deployment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ linxule/openinterviewer 帮助开发者在不从头建立模型栈的情况下�
 | forks | 23/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

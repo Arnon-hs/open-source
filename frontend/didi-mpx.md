@@ -1,6 +1,6 @@
 # didi/mpx
 
-[![Stars](https://img.shields.io/github/stars/didi/mpx?style=flat-square&color=yellow)](https://github.com/didi/mpx/stargazers) [![Forks](https://img.shields.io/github/forks/didi/mpx?style=flat-square&color=blue)](https://github.com/didi/mpx/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/didi/mpx?style=flat-square&color=yellow)](https://github.com/didi/mpx/stargazers) [![Forks](https://img.shields.io/github/forks/didi/mpx?style=flat-square&color=blue)](https://github.com/didi/mpx/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 389 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ didi/mpx 的生产可用性较高，主要原因是其有活跃的社区支持�
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

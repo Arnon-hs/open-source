@@ -1,6 +1,6 @@
 # SuperteamDAO/earn
 
-[![Stars](https://img.shields.io/github/stars/SuperteamDAO/earn?style=flat-square&color=yellow)](https://github.com/SuperteamDAO/earn/stargazers) [![Forks](https://img.shields.io/github/forks/SuperteamDAO/earn?style=flat-square&color=blue)](https://github.com/SuperteamDAO/earn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SuperteamDAO/earn?style=flat-square&color=yellow)](https://github.com/SuperteamDAO/earn/stargazers) [![Forks](https://img.shields.io/github/forks/SuperteamDAO/earn?style=flat-square&color=blue)](https://github.com/SuperteamDAO/earn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An open source platform connecting crypto founders with elite talent to create bounties, and accelerate project completion
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Database
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ SuperteamDAO/earn：SuperteamDAO/earn helps prototype or inspect blockchain work
 | forks | 58/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

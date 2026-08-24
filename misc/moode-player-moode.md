@@ -1,6 +1,6 @@
 # moode-player/moode
 
-[![Stars](https://img.shields.io/github/stars/moode-player/moode?style=flat-square&color=yellow)](https://github.com/moode-player/moode/stargazers) [![Forks](https://img.shields.io/github/forks/moode-player/moode?style=flat-square&color=blue)](https://github.com/moode-player/moode/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moode-player/moode?style=flat-square&color=yellow)](https://github.com/moode-player/moode/stargazers) [![Forks](https://img.shields.io/github/forks/moode-player/moode?style=flat-square&color=blue)](https://github.com/moode-player/moode/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > moOde sources and configs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ moode-player/moode 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 58/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

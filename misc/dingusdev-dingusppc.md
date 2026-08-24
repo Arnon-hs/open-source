@@ -1,6 +1,6 @@
 # dingusdev/dingusppc
 
-[![Stars](https://img.shields.io/github/stars/dingusdev/dingusppc?style=flat-square&color=yellow)](https://github.com/dingusdev/dingusppc/stargazers) [![Forks](https://img.shields.io/github/forks/dingusdev/dingusppc?style=flat-square&color=blue)](https://github.com/dingusdev/dingusppc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dingusdev/dingusppc?style=flat-square&color=yellow)](https://github.com/dingusdev/dingusppc/stargazers) [![Forks](https://img.shields.io/github/forks/dingusdev/dingusppc?style=flat-square&color=blue)](https://github.com/dingusdev/dingusppc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An experimental emulator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ dingusdev/dingusppc 的生产可用性为中等（Medium）。它可以用于内
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

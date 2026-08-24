@@ -1,6 +1,6 @@
 # projectvelox/claude-usage-widget
 
-[![Stars](https://img.shields.io/github/stars/projectvelox/claude-usage-widget?style=flat-square&color=yellow)](https://github.com/projectvelox/claude-usage-widget/stargazers) [![Forks](https://img.shields.io/github/forks/projectvelox/claude-usage-widget?style=flat-square&color=blue)](https://github.com/projectvelox/claude-usage-widget/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectvelox/claude-usage-widget?style=flat-square&color=yellow)](https://github.com/projectvelox/claude-usage-widget/stargazers) [![Forks](https://img.shields.io/github/forks/projectvelox/claude-usage-widget?style=flat-square&color=blue)](https://github.com/projectvelox/claude-usage-widget/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Always-on-top floating widget that shows your claude.ai plan usage in real time. Cloudflare-immune OAuth auth via ~/.claude/.credentials.json. Windows-first, portable EXE, 7-day history graph, configurable thresholds and reset hooks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ The projectvelox/claude-usage-widget has a medium production readiness score. It
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

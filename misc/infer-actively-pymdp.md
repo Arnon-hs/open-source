@@ -1,6 +1,6 @@
 # infer-actively/pymdp
 
-[![Stars](https://img.shields.io/github/stars/infer-actively/pymdp?style=flat-square&color=yellow)](https://github.com/infer-actively/pymdp/stargazers) [![Forks](https://img.shields.io/github/forks/infer-actively/pymdp?style=flat-square&color=blue)](https://github.com/infer-actively/pymdp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infer-actively/pymdp?style=flat-square&color=yellow)](https://github.com/infer-actively/pymdp/stargazers) [![Forks](https://img.shields.io/github/forks/infer-actively/pymdp?style=flat-square&color=blue)](https://github.com/infer-actively/pymdp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Python implementation of active inference for Markov Decision Processes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ infer-actively/pymdp的生产可用性为中等。它可以用于原型设计或
 | forks | 53/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

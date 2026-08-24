@@ -1,6 +1,6 @@
 # vhspace/sdl3-rs
 
-[![Stars](https://img.shields.io/github/stars/vhspace/sdl3-rs?style=flat-square&color=yellow)](https://github.com/vhspace/sdl3-rs/stargazers) [![Forks](https://img.shields.io/github/forks/vhspace/sdl3-rs?style=flat-square&color=blue)](https://github.com/vhspace/sdl3-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vhspace/sdl3-rs?style=flat-square&color=yellow)](https://github.com/vhspace/sdl3-rs/stargazers) [![Forks](https://img.shields.io/github/forks/vhspace/sdl3-rs?style=flat-square&color=blue)](https://github.com/vhspace/sdl3-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > SDL3 bindings for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,14 +128,15 @@ vhspace/sdl3-rs 为 Rust 提供了 SDL 3 的官方绑定，让开发者可以�
 | forks | 49/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

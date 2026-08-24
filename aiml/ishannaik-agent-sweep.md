@@ -1,6 +1,6 @@
 # Ishannaik/agent-sweep
 
-[![Stars](https://img.shields.io/github/stars/Ishannaik/agent-sweep?style=flat-square&color=yellow)](https://github.com/Ishannaik/agent-sweep/stargazers) [![Forks](https://img.shields.io/github/forks/Ishannaik/agent-sweep?style=flat-square&color=blue)](https://github.com/Ishannaik/agent-sweep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ishannaik/agent-sweep?style=flat-square&color=yellow)](https://github.com/Ishannaik/agent-sweep/stargazers) [![Forks](https://img.shields.io/github/forks/Ishannaik/agent-sweep?style=flat-square&color=blue)](https://github.com/Ishannaik/agent-sweep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Find and redact secrets in AI coding agent histories (Claude Code, and more).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Ishannaik/agent-sweep 的生产可用性为中等（Medium）。它适合用于 
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

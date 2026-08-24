@@ -1,6 +1,6 @@
 # Leonxlnx/taste-skill
 
-[![Stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square&color=yellow)](https://github.com/Leonxlnx/taste-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Leonxlnx/taste-skill?style=flat-square&color=blue)](https://github.com/Leonxlnx/taste-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square&color=yellow)](https://github.com/Leonxlnx/taste-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Leonxlnx/taste-skill?style=flat-square&color=blue)](https://github.com/Leonxlnx/taste-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64.1k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Leonxlnx/taste-skill 的主要价值在于帮助您在不从头构建 AI 模型�
 | forks | 91/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 84/100 |
+| recency | 40/100 |
 | adoption | 98/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

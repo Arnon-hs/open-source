@@ -1,6 +1,6 @@
 # isomorphic-git/lightning-fs
 
-[![Stars](https://img.shields.io/github/stars/isomorphic-git/lightning-fs?style=flat-square&color=yellow)](https://github.com/isomorphic-git/lightning-fs/stargazers) [![Forks](https://img.shields.io/github/forks/isomorphic-git/lightning-fs?style=flat-square&color=blue)](https://github.com/isomorphic-git/lightning-fs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isomorphic-git/lightning-fs?style=flat-square&color=yellow)](https://github.com/isomorphic-git/lightning-fs/stargazers) [![Forks](https://img.shields.io/github/forks/isomorphic-git/lightning-fs?style=flat-square&color=blue)](https://github.com/isomorphic-git/lightning-fs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A lean and fast 'fs' for the browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Lightning-fs 的生产可用性为中等。它适合于内部工作流或原型�
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

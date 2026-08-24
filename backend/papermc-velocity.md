@@ -1,6 +1,6 @@
 # PaperMC/Velocity
 
-[![Stars](https://img.shields.io/github/stars/PaperMC/Velocity?style=flat-square&color=yellow)](https://github.com/PaperMC/Velocity/stargazers) [![Forks](https://img.shields.io/github/forks/PaperMC/Velocity?style=flat-square&color=blue)](https://github.com/PaperMC/Velocity/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaperMC/Velocity?style=flat-square&color=yellow)](https://github.com/PaperMC/Velocity/stargazers) [![Forks](https://img.shields.io/github/forks/PaperMC/Velocity?style=flat-square&color=blue)](https://github.com/PaperMC/Velocity/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The modern, next-generation Minecraft server proxy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 936 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ PaperMC/Velocity 的生产可用性很高，主要原因是：
 | forks | 74/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bitcoin-core/guix.sigs
 
-[![Stars](https://img.shields.io/github/stars/bitcoin-core/guix.sigs?style=flat-square&color=yellow)](https://github.com/bitcoin-core/guix.sigs/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoin-core/guix.sigs?style=flat-square&color=blue)](https://github.com/bitcoin-core/guix.sigs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitcoin-core/guix.sigs?style=flat-square&color=yellow)](https://github.com/bitcoin-core/guix.sigs/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoin-core/guix.sigs?style=flat-square&color=blue)](https://github.com/bitcoin-core/guix.sigs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcoin Core release attestations (Guix)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ bitcoin-core/guix.sigs 是 Bitcoin Core 发布的可验证签名集合，基于 
 | forks | 61/100 |
 | stars | 55/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

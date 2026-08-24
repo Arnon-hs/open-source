@@ -1,6 +1,6 @@
 # HarbourMasters/2ship2harkinian
 
-[![Stars](https://img.shields.io/github/stars/HarbourMasters/2ship2harkinian?style=flat-square&color=yellow)](https://github.com/HarbourMasters/2ship2harkinian/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/2ship2harkinian?style=flat-square&color=blue)](https://github.com/HarbourMasters/2ship2harkinian/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarbourMasters/2ship2harkinian?style=flat-square&color=yellow)](https://github.com/HarbourMasters/2ship2harkinian/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/2ship2harkinian?style=flat-square&color=blue)](https://github.com/HarbourMasters/2ship2harkinian/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ HarbourMasters/2ship2harkinian 的价值在于它可以在特定的工作流中�
 | forks | 59/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

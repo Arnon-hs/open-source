@@ -1,6 +1,6 @@
 # madwind/flexget_qbittorrent_mod
 
-[![Stars](https://img.shields.io/github/stars/madwind/flexget_qbittorrent_mod?style=flat-square&color=yellow)](https://github.com/madwind/flexget_qbittorrent_mod/stargazers) [![Forks](https://img.shields.io/github/forks/madwind/flexget_qbittorrent_mod?style=flat-square&color=blue)](https://github.com/madwind/flexget_qbittorrent_mod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madwind/flexget_qbittorrent_mod?style=flat-square&color=yellow)](https://github.com/madwind/flexget_qbittorrent_mod/stargazers) [![Forks](https://img.shields.io/github/forks/madwind/flexget_qbittorrent_mod?style=flat-square&color=blue)](https://github.com/madwind/flexget_qbittorrent_mod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > flexget qbittorrent删种、辅种 自动签到 插件
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ madwind/flexget_qbittorrent_mod 是一个开源项目，提供了一个 FlexGet 
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

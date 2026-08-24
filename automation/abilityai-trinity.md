@@ -1,6 +1,6 @@
 # Abilityai/trinity
 
-[![Stars](https://img.shields.io/github/stars/Abilityai/trinity?style=flat-square&color=yellow)](https://github.com/Abilityai/trinity/stargazers) [![Forks](https://img.shields.io/github/forks/Abilityai/trinity?style=flat-square&color=blue)](https://github.com/Abilityai/trinity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Abilityai/trinity?style=flat-square&color=yellow)](https://github.com/Abilityai/trinity/stargazers) [![Forks](https://img.shields.io/github/forks/Abilityai/trinity?style=flat-square&color=blue)](https://github.com/Abilityai/trinity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted runtime for autonomous Claude Code (and other CLI) AI agents. Apache 2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Abilityai/trinity 是一个基于 Apache 2.0 许可证的自托管运行时，
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

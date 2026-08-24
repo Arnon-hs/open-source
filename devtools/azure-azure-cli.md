@@ -1,6 +1,6 @@
 # Azure/azure-cli
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-cli?style=flat-square&color=yellow)](https://github.com/Azure/azure-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-cli?style=flat-square&color=blue)](https://github.com/Azure/azure-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-cli?style=flat-square&color=yellow)](https://github.com/Azure/azure-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-cli?style=flat-square&color=blue)](https://github.com/Azure/azure-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Azure Command-Line Interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Azure/azure-cli 是微软官方维护的 Azure 命令行界面工具，使用 Py
 | forks | 88/100 |
 | stars | 78/100 |
 | topics | 38/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

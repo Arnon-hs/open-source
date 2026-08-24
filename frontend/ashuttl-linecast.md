@@ -1,6 +1,6 @@
 # ashuttl/linecast
 
-[![Stars](https://img.shields.io/github/stars/ashuttl/linecast?style=flat-square&color=yellow)](https://github.com/ashuttl/linecast/stargazers) [![Forks](https://img.shields.io/github/forks/ashuttl/linecast?style=flat-square&color=blue)](https://github.com/ashuttl/linecast/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashuttl/linecast?style=flat-square&color=yellow)](https://github.com/ashuttl/linecast/stargazers) [![Forks](https://img.shields.io/github/forks/ashuttl/linecast?style=flat-square&color=blue)](https://github.com/ashuttl/linecast/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Weather, sunlight, tides, radar, the moon, and maps, in your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ashuttl/linecast：ashuttl/linecast helps ship user-facing interfaces with less 
 | forks | 17/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

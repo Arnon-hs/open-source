@@ -1,6 +1,6 @@
 # tmck-code/yet-another-statusline
 
-[![Stars](https://img.shields.io/github/stars/tmck-code/yet-another-statusline?style=flat-square&color=yellow)](https://github.com/tmck-code/yet-another-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/tmck-code/yet-another-statusline?style=flat-square&color=blue)](https://github.com/tmck-code/yet-another-statusline/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tmck-code/yet-another-statusline?style=flat-square&color=yellow)](https://github.com/tmck-code/yet-another-statusline/stargazers) [![Forks](https://img.shields.io/github/forks/tmck-code/yet-another-statusline?style=flat-square&color=blue)](https://github.com/tmck-code/yet-another-statusline/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A statusline for Claude Code inspired by terminal monitor programs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ tmck-code/yet-another-statusline 的主要价值在于，它能够帮助开发�
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

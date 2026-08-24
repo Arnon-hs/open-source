@@ -1,6 +1,6 @@
 # IngARodriguez/openapis
 
-[![Stars](https://img.shields.io/github/stars/IngARodriguez/openapis?style=flat-square&color=yellow)](https://github.com/IngARodriguez/openapis/stargazers) [![Forks](https://img.shields.io/github/forks/IngARodriguez/openapis?style=flat-square&color=blue)](https://github.com/IngARodriguez/openapis/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IngARodriguez/openapis?style=flat-square&color=yellow)](https://github.com/IngARodriguez/openapis/stargazers) [![Forks](https://img.shields.io/github/forks/IngARodriguez/openapis?style=flat-square&color=blue)](https://github.com/IngARodriguez/openapis/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Free Claude API + free OpenAI API in one unified proxy. Drop-in compatible with Anthropic SDK, OpenAI SDK, Claude Code CLI, OpenCode, LangChain. 100+ models (Claude Opus 4.7, Sonnet 4.6, Haiku 4.5, GPT-5.5, GPT-5.4-mini, GPT-5.3-codex). Open beta — totally free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · DevTools
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ IngARodriguez/openapis的主要价值在于，它可以将孤立的提示和工�
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

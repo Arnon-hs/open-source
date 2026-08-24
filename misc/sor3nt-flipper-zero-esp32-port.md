@@ -1,6 +1,6 @@
 # Sor3nt/Flipper-Zero-ESP32-Port
 
-[![Stars](https://img.shields.io/github/stars/Sor3nt/Flipper-Zero-ESP32-Port?style=flat-square&color=yellow)](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port/stargazers) [![Forks](https://img.shields.io/github/forks/Sor3nt/Flipper-Zero-ESP32-Port?style=flat-square&color=blue)](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sor3nt/Flipper-Zero-ESP32-Port?style=flat-square&color=yellow)](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port/stargazers) [![Forks](https://img.shields.io/github/forks/Sor3nt/Flipper-Zero-ESP32-Port?style=flat-square&color=blue)](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Sor3nt/Flipper-Zero-ESP32-Port 是一个开源项目，基于 ESP32 平台，旨
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 53/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

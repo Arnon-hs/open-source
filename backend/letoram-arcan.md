@@ -1,6 +1,6 @@
 # letoram/arcan
 
-[![Stars](https://img.shields.io/github/stars/letoram/arcan?style=flat-square&color=yellow)](https://github.com/letoram/arcan/stargazers) [![Forks](https://img.shields.io/github/forks/letoram/arcan?style=flat-square&color=blue)](https://github.com/letoram/arcan/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/letoram/arcan?style=flat-square&color=yellow)](https://github.com/letoram/arcan/stargazers) [![Forks](https://img.shields.io/github/forks/letoram/arcan?style=flat-square&color=blue)](https://github.com/letoram/arcan/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Arcan - [Display Server, Multimedia Framework, Game Engine] -> "Desktop Engine"
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Arcan 在生产环境中具有很高的可用性，其主要语言是 Zig，1798
 | forks | 49/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

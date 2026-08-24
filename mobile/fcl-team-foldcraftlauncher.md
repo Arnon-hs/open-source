@@ -1,6 +1,6 @@
 # FCL-Team/FoldCraftLauncher
 
-[![Stars](https://img.shields.io/github/stars/FCL-Team/FoldCraftLauncher?style=flat-square&color=yellow)](https://github.com/FCL-Team/FoldCraftLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/FCL-Team/FoldCraftLauncher?style=flat-square&color=blue)](https://github.com/FCL-Team/FoldCraftLauncher/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FCL-Team/FoldCraftLauncher?style=flat-square&color=yellow)](https://github.com/FCL-Team/FoldCraftLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/FCL-Team/FoldCraftLauncher?style=flat-square&color=blue)](https://github.com/FCL-Team/FoldCraftLauncher/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Fold Craft Launcher 的生产可用性为中等（Medium）。它适合用于原
 | forks | 62/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 72/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

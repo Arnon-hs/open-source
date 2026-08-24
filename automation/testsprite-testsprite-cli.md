@@ -1,6 +1,6 @@
 # TestSprite/testsprite-cli
 
-[![Stars](https://img.shields.io/github/stars/TestSprite/testsprite-cli?style=flat-square&color=yellow)](https://github.com/TestSprite/testsprite-cli/stargazers) [![Forks](https://img.shields.io/github/forks/TestSprite/testsprite-cli?style=flat-square&color=blue)](https://github.com/TestSprite/testsprite-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TestSprite/testsprite-cli?style=flat-square&color=yellow)](https://github.com/TestSprite/testsprite-cli/stargazers) [![Forks](https://img.shields.io/github/forks/TestSprite/testsprite-cli?style=flat-square&color=blue)](https://github.com/TestSprite/testsprite-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Official TestSprite CLI — AI-powered automated testing from your terminal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 802 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ TestSprite/testsprite-cli 是官方的 TestSprite 命令行工具，基于 AI �
 | forks | 37/100 |
 | stars | 62/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

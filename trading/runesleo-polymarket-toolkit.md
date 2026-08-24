@@ -1,6 +1,6 @@
 # runesleo/polymarket-toolkit
 
-[![Stars](https://img.shields.io/github/stars/runesleo/polymarket-toolkit?style=flat-square&color=yellow)](https://github.com/runesleo/polymarket-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/runesleo/polymarket-toolkit?style=flat-square&color=blue)](https://github.com/runesleo/polymarket-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runesleo/polymarket-toolkit?style=flat-square&color=yellow)](https://github.com/runesleo/polymarket-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/runesleo/polymarket-toolkit?style=flat-square&color=blue)](https://github.com/runesleo/polymarket-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > CLI + AI Skills workflow for profiling Polymarket traders from an address
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · AI/ML · DevTools
+Trading · Automation · DevTools
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ runesleo/polymarket-toolkit 的生产可用性很高，主要原因是：
 | forks | 36/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

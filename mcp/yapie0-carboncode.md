@@ -1,6 +1,6 @@
 # Yapie0/carboncode
 
-[![Stars](https://img.shields.io/github/stars/Yapie0/carboncode?style=flat-square&color=yellow)](https://github.com/Yapie0/carboncode/stargazers) [![Forks](https://img.shields.io/github/forks/Yapie0/carboncode?style=flat-square&color=blue)](https://github.com/Yapie0/carboncode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yapie0/carboncode?style=flat-square&color=yellow)](https://github.com/Yapie0/carboncode/stargazers) [![Forks](https://img.shields.io/github/forks/Yapie0/carboncode?style=flat-square&color=blue)](https://github.com/Yapie0/carboncode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Carbon Code 是一款类似 Claude Code 的代码开发工具，也是中国第一个基于 DeepSeek 的代码开发工具，Token 成本节省 90% 以上。它可以实现自动任务拆分、自动开发、MCP 测试，以及与 Claude、Codex 等多 Agent 协作，能力接近 Claude Sonnet 4.6
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Carbon Code（Yapie0/carboncode）是国内首个基于 DeepSeek 的代码开发
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

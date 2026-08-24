@@ -1,6 +1,6 @@
 # emmercm/igir
 
-[![Stars](https://img.shields.io/github/stars/emmercm/igir?style=flat-square&color=yellow)](https://github.com/emmercm/igir/stargazers) [![Forks](https://img.shields.io/github/forks/emmercm/igir?style=flat-square&color=blue)](https://github.com/emmercm/igir/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emmercm/igir?style=flat-square&color=yellow)](https://github.com/emmercm/igir/stargazers) [![Forks](https://img.shields.io/github/forks/emmercm/igir?style=flat-square&color=blue)](https://github.com/emmercm/igir/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 876 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ emmercm/igir 的生产可用性很高，主要原因是其最近的活动、采�
 | forks | 42/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

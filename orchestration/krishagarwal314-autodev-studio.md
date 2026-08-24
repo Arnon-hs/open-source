@@ -1,6 +1,6 @@
 # krishagarwal314/autodev-studio
 
-[![Stars](https://img.shields.io/github/stars/krishagarwal314/autodev-studio?style=flat-square&color=yellow)](https://github.com/krishagarwal314/autodev-studio/stargazers) [![Forks](https://img.shields.io/github/forks/krishagarwal314/autodev-studio?style=flat-square&color=blue)](https://github.com/krishagarwal314/autodev-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishagarwal314/autodev-studio?style=flat-square&color=yellow)](https://github.com/krishagarwal314/autodev-studio/stargazers) [![Forks](https://img.shields.io/github/forks/krishagarwal314/autodev-studio?style=flat-square&color=blue)](https://github.com/krishagarwal314/autodev-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Backend
+Orchestration · Knowledge/RAG · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Autodev-Studio 的生产可用性为中等。它适合用于构建原型或内�
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

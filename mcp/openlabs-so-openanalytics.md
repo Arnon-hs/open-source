@@ -1,6 +1,6 @@
 # OpenLabs-so/openanalytics
 
-[![Stars](https://img.shields.io/github/stars/OpenLabs-so/openanalytics?style=flat-square&color=yellow)](https://github.com/OpenLabs-so/openanalytics/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLabs-so/openanalytics?style=flat-square&color=blue)](https://github.com/OpenLabs-so/openanalytics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenLabs-so/openanalytics?style=flat-square&color=yellow)](https://github.com/OpenLabs-so/openanalytics/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLabs-so/openanalytics?style=flat-square&color=blue)](https://github.com/OpenLabs-so/openanalytics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, privacy-first web analytics with revenue attribution and an MCP server. No cookies, no cross-site profiles, aggregate-only reads. Self-hostable under AGPL-3.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools · Data · Marketing
+MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ OpenLabs‑so/openanalytics 是一个开源、隐私优先的网页分析平台�
 | forks | 15/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

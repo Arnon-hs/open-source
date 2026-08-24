@@ -1,6 +1,6 @@
 # junit-team/junit-examples
 
-[![Stars](https://img.shields.io/github/stars/junit-team/junit-examples?style=flat-square&color=yellow)](https://github.com/junit-team/junit-examples/stargazers) [![Forks](https://img.shields.io/github/forks/junit-team/junit-examples?style=flat-square&color=blue)](https://github.com/junit-team/junit-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junit-team/junit-examples?style=flat-square&color=yellow)](https://github.com/junit-team/junit-examples/stargazers) [![Forks](https://img.shields.io/github/forks/junit-team/junit-examples?style=flat-square&color=blue)](https://github.com/junit-team/junit-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of JUnit example projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ junit-team/junit-examples的主要价值在于提供了学习实现模式和最�
 | forks | 79/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

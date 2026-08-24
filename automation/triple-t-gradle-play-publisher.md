@@ -1,6 +1,6 @@
 # Triple-T/gradle-play-publisher
 
-[![Stars](https://img.shields.io/github/stars/Triple-T/gradle-play-publisher?style=flat-square&color=yellow)](https://github.com/Triple-T/gradle-play-publisher/stargazers) [![Forks](https://img.shields.io/github/forks/Triple-T/gradle-play-publisher?style=flat-square&color=blue)](https://github.com/Triple-T/gradle-play-publisher/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Triple-T/gradle-play-publisher?style=flat-square&color=yellow)](https://github.com/Triple-T/gradle-play-publisher/stargazers) [![Forks](https://img.shields.io/github/forks/Triple-T/gradle-play-publisher?style=flat-square&color=blue)](https://github.com/Triple-T/gradle-play-publisher/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Data · Mobile
+Automation · Mobile
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Triple-T/gradle-play-publisher 是一个开源项目，用于自动化 Android �
 | forks | 64/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

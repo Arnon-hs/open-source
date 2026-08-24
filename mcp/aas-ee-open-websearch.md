@@ -1,6 +1,6 @@
 # Aas-ee/open-webSearch
 
-[![Stars](https://img.shields.io/github/stars/Aas-ee/open-webSearch?style=flat-square&color=yellow)](https://github.com/Aas-ee/open-webSearch/stargazers) [![Forks](https://img.shields.io/github/forks/Aas-ee/open-webSearch?style=flat-square&color=blue)](https://github.com/Aas-ee/open-webSearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Aas-ee/open-webSearch?style=flat-square&color=yellow)](https://github.com/Aas-ee/open-webSearch/stargazers) [![Forks](https://img.shields.io/github/forks/Aas-ee/open-webSearch?style=flat-square&color=blue)](https://github.com/Aas-ee/open-webSearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-engine MCP server, CLI, and local daemon for agent web search and content retrieval — skill-guided workflows, no API keys.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Frontend
+MCP · Knowledge/RAG · Backend
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ Aas-ee/open-webSearch 的接入方式包括：
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

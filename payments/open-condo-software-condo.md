@@ -1,6 +1,6 @@
 # open-condo-software/condo
 
-[![Stars](https://img.shields.io/github/stars/open-condo-software/condo?style=flat-square&color=yellow)](https://github.com/open-condo-software/condo/stargazers) [![Forks](https://img.shields.io/github/forks/open-condo-software/condo?style=flat-square&color=blue)](https://github.com/open-condo-software/condo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-condo-software/condo?style=flat-square&color=yellow)](https://github.com/open-condo-software/condo/stargazers) [![Forks](https://img.shields.io/github/forks/open-condo-software/condo?style=flat-square&color=blue)](https://github.com/open-condo-software/condo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Condo is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while offering an extension system for mini-apps, making it an ideal platform for property management companies and those servicing shared properties.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Database · Product
+Payments · Product
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Condo 的生产可用性为中等，适合用于原型或内部工作流程。�
 | forks | 53/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

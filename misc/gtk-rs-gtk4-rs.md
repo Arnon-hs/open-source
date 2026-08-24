@@ -1,6 +1,6 @@
 # gtk-rs/gtk4-rs
 
-[![Stars](https://img.shields.io/github/stars/gtk-rs/gtk4-rs?style=flat-square&color=yellow)](https://github.com/gtk-rs/gtk4-rs/stargazers) [![Forks](https://img.shields.io/github/forks/gtk-rs/gtk4-rs?style=flat-square&color=blue)](https://github.com/gtk-rs/gtk4-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gtk-rs/gtk4-rs?style=flat-square&color=yellow)](https://github.com/gtk-rs/gtk4-rs/stargazers) [![Forks](https://img.shields.io/github/forks/gtk-rs/gtk4-rs?style=flat-square&color=blue)](https://github.com/gtk-rs/gtk4-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings of GTK 4
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ gtk-rs/gtk4-rs 的生产可用性高，社区活动活跃，语言支持强大�
 | forks | 58/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

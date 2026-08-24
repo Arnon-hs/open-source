@@ -1,6 +1,6 @@
 # srl-labs/containerlab
 
-[![Stars](https://img.shields.io/github/stars/srl-labs/containerlab?style=flat-square&color=yellow)](https://github.com/srl-labs/containerlab/stargazers) [![Forks](https://img.shields.io/github/forks/srl-labs/containerlab?style=flat-square&color=blue)](https://github.com/srl-labs/containerlab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/srl-labs/containerlab?style=flat-square&color=yellow)](https://github.com/srl-labs/containerlab/stargazers) [![Forks](https://img.shields.io/github/forks/srl-labs/containerlab?style=flat-square&color=blue)](https://github.com/srl-labs/containerlab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > container-based networking labs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 450 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Overall, Containerlab is a high‑readiness OSS candidate that can be introduced
 | forks | 66/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

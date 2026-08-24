@@ -1,6 +1,6 @@
 # simonepri/sympact
 
-[![Stars](https://img.shields.io/github/stars/simonepri/sympact?style=flat-square&color=yellow)](https://github.com/simonepri/sympact/stargazers) [![Forks](https://img.shields.io/github/forks/simonepri/sympact?style=flat-square&color=blue)](https://github.com/simonepri/sympact/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonepri/sympact?style=flat-square&color=yellow)](https://github.com/simonepri/sympact/stargazers) [![Forks](https://img.shields.io/github/forks/simonepri/sympact?style=flat-square&color=blue)](https://github.com/simonepri/sympact/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Stupid Simple CPU/MEM "Profiler" for your JS code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 441 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ simonepri/sympact 的生产可用性很高，因为它有以下特点：
 | forks | 29/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

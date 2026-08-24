@@ -1,6 +1,6 @@
 # macalbert/envilder
 
-[![Stars](https://img.shields.io/github/stars/macalbert/envilder?style=flat-square&color=yellow)](https://github.com/macalbert/envilder/stargazers) [![Forks](https://img.shields.io/github/forks/macalbert/envilder?style=flat-square&color=blue)](https://github.com/macalbert/envilder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/macalbert/envilder?style=flat-square&color=yellow)](https://github.com/macalbert/envilder/stargazers) [![Forks](https://img.shields.io/github/forks/macalbert/envilder?style=flat-square&color=blue)](https://github.com/macalbert/envilder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > One secret mapping for local dev, CI/CD, and runtime. Envilder resolves cloud secrets from your own vaults without SaaS middlemen, duplicated config, or .env drift.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Product
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ macalbert/envilder 提供“一键映射”式的密钥管理，能够在本地�
 | forks | 17/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

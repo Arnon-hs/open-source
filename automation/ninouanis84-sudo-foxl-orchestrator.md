@@ -1,6 +1,6 @@
 # ninouanis84-sudo/foxl-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/ninouanis84-sudo/foxl-orchestrator?style=flat-square&color=yellow)](https://github.com/ninouanis84-sudo/foxl-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/ninouanis84-sudo/foxl-orchestrator?style=flat-square&color=blue)](https://github.com/ninouanis84-sudo/foxl-orchestrator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ninouanis84-sudo/foxl-orchestrator?style=flat-square&color=yellow)](https://github.com/ninouanis84-sudo/foxl-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/ninouanis84-sudo/foxl-orchestrator?style=flat-square&color=blue)](https://github.com/ninouanis84-sudo/foxl-orchestrator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Product
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ The **foxl‑orchestrator** is an open‑source “AI Agent Hub” that lets you
 | forks | 0/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

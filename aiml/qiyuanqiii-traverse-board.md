@@ -1,6 +1,6 @@
 # Qiyuanqiii/Traverse-Board
 
-[![Stars](https://img.shields.io/github/stars/Qiyuanqiii/Traverse-Board?style=flat-square&color=yellow)](https://github.com/Qiyuanqiii/Traverse-Board/stargazers) [![Forks](https://img.shields.io/github/forks/Qiyuanqiii/Traverse-Board?style=flat-square&color=blue)](https://github.com/Qiyuanqiii/Traverse-Board/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qiyuanqiii/Traverse-Board?style=flat-square&color=yellow)](https://github.com/Qiyuanqiii/Traverse-Board/stargazers) [![Forks](https://img.shields.io/github/forks/Qiyuanqiii/Traverse-Board?style=flat-square&color=blue)](https://github.com/Qiyuanqiii/Traverse-Board/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Traverse Board · 针路簿 — 本地优先、可恢复、可审计的开源 AI Agent 工作台，面向通用代码任务与受控工作流。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ Qiyuanqiii/Traverse-Board：Qiyuanqiii/Traverse-Board helps add AI capability wi
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

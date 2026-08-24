@@ -1,6 +1,6 @@
 # pciutils/pciids
 
-[![Stars](https://img.shields.io/github/stars/pciutils/pciids?style=flat-square&color=yellow)](https://github.com/pciutils/pciids/stargazers) [![Forks](https://img.shields.io/github/forks/pciutils/pciids?style=flat-square&color=blue)](https://github.com/pciutils/pciids/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pciutils/pciids?style=flat-square&color=yellow)](https://github.com/pciutils/pciids/stargazers) [![Forks](https://img.shields.io/github/forks/pciutils/pciids?style=flat-square&color=blue)](https://github.com/pciutils/pciids/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The pci.ids file
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,14 +80,15 @@ pciutils/pciids 的生产可用性为中等。它可以用于原型开发或内�
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

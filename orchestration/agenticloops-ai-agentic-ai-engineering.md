@@ -1,6 +1,6 @@
 # agenticloops-ai/agentic-ai-engineering
 
-[![Stars](https://img.shields.io/github/stars/agenticloops-ai/agentic-ai-engineering?style=flat-square&color=yellow)](https://github.com/agenticloops-ai/agentic-ai-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/agenticloops-ai/agentic-ai-engineering?style=flat-square&color=blue)](https://github.com/agenticloops-ai/agentic-ai-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agenticloops-ai/agentic-ai-engineering?style=flat-square&color=yellow)](https://github.com/agenticloops-ai/agentic-ai-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/agenticloops-ai/agentic-ai-engineering?style=flat-square&color=blue)](https://github.com/agenticloops-ai/agentic-ai-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Hands-on tutorials for building AI agents from scratch. Learn LLM APIs, prompt engineering, tool calling, and the agent loop through practical examples.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · Knowledge/RAG · Automation · AI/ML · Education
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Agentic‑AI‑Engineering — это набор практических тут
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

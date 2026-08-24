@@ -1,6 +1,6 @@
 # antoniorodr/lexy
 
-[![Stars](https://img.shields.io/github/stars/antoniorodr/lexy?style=flat-square&color=yellow)](https://github.com/antoniorodr/lexy/stargazers) [![Forks](https://img.shields.io/github/forks/antoniorodr/lexy?style=flat-square&color=blue)](https://github.com/antoniorodr/lexy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antoniorodr/lexy?style=flat-square&color=yellow)](https://github.com/antoniorodr/lexy/stargazers) [![Forks](https://img.shields.io/github/forks/antoniorodr/lexy?style=flat-square&color=blue)](https://github.com/antoniorodr/lexy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevTools · Education
+Automation · DevTools · Education
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Lexy 是一款轻量级的命令行工具，能够直接在终端里检索并展
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Design · Education
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ design-gurus/grokking-system-design：design-gurus/grokking-system-design helps 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

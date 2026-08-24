@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | ultralytics |
 | 📈 **Score** | 34/100 |
-| 🗓️ **Last push** | 2024-05-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -107,6 +107,7 @@ keremberke/yolov8m-table-extraction 是一个开源的对象检测模型，适�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

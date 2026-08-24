@@ -1,6 +1,6 @@
 # WillPower3309/swayfx
 
-[![Stars](https://img.shields.io/github/stars/WillPower3309/swayfx?style=flat-square&color=yellow)](https://github.com/WillPower3309/swayfx/stargazers) [![Forks](https://img.shields.io/github/forks/WillPower3309/swayfx?style=flat-square&color=blue)](https://github.com/WillPower3309/swayfx/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WillPower3309/swayfx?style=flat-square&color=yellow)](https://github.com/WillPower3309/swayfx/stargazers) [![Forks](https://img.shields.io/github/forks/WillPower3309/swayfx?style=flat-square&color=blue)](https://github.com/WillPower3309/swayfx/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SwayFX: Sway, but with eye candy!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,14 +76,15 @@ SwayFX是Sway的一个增强版本，带有视觉效果。该项目的价值在�
 | forks | 51/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

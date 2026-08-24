@@ -1,6 +1,6 @@
 # objectstack-ai/objectstack
 
-[![Stars](https://img.shields.io/github/stars/objectstack-ai/objectstack?style=flat-square&color=yellow)](https://github.com/objectstack-ai/objectstack/stargazers) [![Forks](https://img.shields.io/github/forks/objectstack-ai/objectstack?style=flat-square&color=blue)](https://github.com/objectstack-ai/objectstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/objectstack-ai/objectstack?style=flat-square&color=yellow)](https://github.com/objectstack-ai/objectstack/stargazers) [![Forks](https://img.shields.io/github/forks/objectstack-ai/objectstack?style=flat-square&color=blue)](https://github.com/objectstack-ai/objectstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Apps small enough for AI to hold whole. ObjectStack turns the whole app — data model, UI, workflows, permissions — into typed metadata: a complete CRM in under 150k tokens, one context window. Agents read it whole, reason it whole, refactor it whole.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Data
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ objectstack-ai/objectstack：objectstack-ai/objectstack helps connect AI assista
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

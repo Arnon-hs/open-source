@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-nodejs/doc-kit: nodejs/doc-kit may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nodejs/doc-kit: . Use it for Misc. 
 
 ### Русский
 
@@ -35,45 +35,42 @@ nodejs/doc-kit: open-source проект в категориях Misc. Прак�
 
 ### 中文
 
-nodejs/doc-kit：nodejs/doc-kit may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nodejs/doc-kit：。适合用于Misc。
 
 ## 🧭 Practical evaluation
 
-**Value:** nodejs/doc-kit may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 61 GitHub stars
-- 65 forks
-- updated 2026-08-23
-- primary language: JavaScript
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 40/100 |
-| categoryMatchCount | 100/100 |
-| stars | 38/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| stars | 38/100 |
 | topics | 0/100 |
+| outlook | 67/100 |
+| quality | 54/100 |
+| recency | 100/100 |
+| adoption | 40/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

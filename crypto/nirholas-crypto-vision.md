@@ -1,6 +1,6 @@
 # nirholas/crypto-vision
 
-[![Stars](https://img.shields.io/github/stars/nirholas/crypto-vision?style=flat-square&color=yellow)](https://github.com/nirholas/crypto-vision/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/crypto-vision?style=flat-square&color=blue)](https://github.com/nirholas/crypto-vision/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/crypto-vision?style=flat-square&color=yellow)](https://github.com/nirholas/crypto-vision/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/crypto-vision?style=flat-square&color=blue)](https://github.com/nirholas/crypto-vision/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The most comprehensive cryptocurrency API. Real-time prices, OHLCV, order books & market cap for 10,000+ tokens across 500+ exchanges. DeFi TVL, yields & protocol metrics. On-chain analytics & whale alerts. Crypto news & AI sentiment. Historical data. REST, WebSocket & GraphQL endpoints. Python, TypeScript, Go, React, PHP SDKs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Frontend
+Crypto · Trading · Automation · Data · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ nirholas/crypto-vision：nirholas/crypto-vision helps prototype or inspect block
 | forks | 36/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 75/100 |
 | usefulness | 90/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

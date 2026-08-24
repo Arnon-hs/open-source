@@ -1,6 +1,6 @@
 # google/timesketch
 
-[![Stars](https://img.shields.io/github/stars/google/timesketch?style=flat-square&color=yellow)](https://github.com/google/timesketch/stargazers) [![Forks](https://img.shields.io/github/forks/google/timesketch?style=flat-square&color=blue)](https://github.com/google/timesketch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/timesketch?style=flat-square&color=yellow)](https://github.com/google/timesketch/stargazers) [![Forks](https://img.shields.io/github/forks/google/timesketch?style=flat-square&color=blue)](https://github.com/google/timesketch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Collaborative forensic timeline analysis
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 651 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Google Timesketch 是一款基于 Python 的开源工具，专注于协作式�
 | forks | 70/100 |
 | stars | 75/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 74/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

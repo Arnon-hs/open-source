@@ -1,6 +1,6 @@
 # 3timeslazy/nix-search-tv
 
-[![Stars](https://img.shields.io/github/stars/3timeslazy/nix-search-tv?style=flat-square&color=yellow)](https://github.com/3timeslazy/nix-search-tv/stargazers) [![Forks](https://img.shields.io/github/forks/3timeslazy/nix-search-tv?style=flat-square&color=blue)](https://github.com/3timeslazy/nix-search-tv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/3timeslazy/nix-search-tv?style=flat-square&color=yellow)](https://github.com/3timeslazy/nix-search-tv/stargazers) [![Forks](https://img.shields.io/github/forks/3timeslazy/nix-search-tv?style=flat-square&color=blue)](https://github.com/3timeslazy/nix-search-tv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Fuzzy search for Nix packages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 271 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ The project has a high production readiness score due to its strong recent activ
 | forks | 24/100 |
 | stars | 52/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

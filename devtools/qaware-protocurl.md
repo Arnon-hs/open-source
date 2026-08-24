@@ -1,6 +1,6 @@
 # qaware/protocurl
 
-[![Stars](https://img.shields.io/github/stars/qaware/protocurl?style=flat-square&color=yellow)](https://github.com/qaware/protocurl/stargazers) [![Forks](https://img.shields.io/github/forks/qaware/protocurl?style=flat-square&color=blue)](https://github.com/qaware/protocurl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qaware/protocurl?style=flat-square&color=yellow)](https://github.com/qaware/protocurl/stargazers) [![Forks](https://img.shields.io/github/forks/qaware/protocurl?style=flat-square&color=blue)](https://github.com/qaware/protocurl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ qaware/protocurl - это командная строка, которая поз
 | forks | 25/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

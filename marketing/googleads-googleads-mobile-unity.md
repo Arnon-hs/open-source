@@ -1,6 +1,6 @@
 # googleads/googleads-mobile-unity
 
-[![Stars](https://img.shields.io/github/stars/googleads/googleads-mobile-unity?style=flat-square&color=yellow)](https://github.com/googleads/googleads-mobile-unity/stargazers) [![Forks](https://img.shields.io/github/forks/googleads/googleads-mobile-unity?style=flat-square&color=blue)](https://github.com/googleads/googleads-mobile-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleads/googleads-mobile-unity?style=flat-square&color=yellow)](https://github.com/googleads/googleads-mobile-unity/stargazers) [![Forks](https://img.shields.io/github/forks/googleads/googleads-mobile-unity?style=flat-square&color=blue)](https://github.com/googleads/googleads-mobile-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Official Unity Plugin for the Google Mobile Ads SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Google Ads Unity 插件的
 | forks | 76/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

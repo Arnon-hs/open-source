@@ -1,6 +1,6 @@
 # chonkie-inc/chonkie
 
-[![Stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=flat-square&color=yellow)](https://github.com/chonkie-inc/chonkie/stargazers) [![Forks](https://img.shields.io/github/forks/chonkie-inc/chonkie?style=flat-square&color=blue)](https://github.com/chonkie-inc/chonkie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=flat-square&color=yellow)](https://github.com/chonkie-inc/chonkie/stargazers) [![Forks](https://img.shields.io/github/forks/chonkie-inc/chonkie?style=flat-square&color=blue)](https://github.com/chonkie-inc/chonkie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 270 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Chonkie（chonkie‑inc/chonk）是一款轻量级的文档摄取库，专为构
 | forks | 61/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

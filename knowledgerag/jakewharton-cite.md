@@ -1,6 +1,6 @@
 # JakeWharton/cite
 
-[![Stars](https://img.shields.io/github/stars/JakeWharton/cite?style=flat-square&color=yellow)](https://github.com/JakeWharton/cite/stargazers) [![Forks](https://img.shields.io/github/forks/JakeWharton/cite?style=flat-square&color=blue)](https://github.com/JakeWharton/cite/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JakeWharton/cite?style=flat-square&color=yellow)](https://github.com/JakeWharton/cite/stargazers) [![Forks](https://img.shields.io/github/forks/JakeWharton/cite?style=flat-square&color=blue)](https://github.com/JakeWharton/cite/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A Kotlin compiler plugin for embedding information about the file being compiled
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Knowledge/RAG · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ JakeWharton/cite 的生产可用性为中等。它适合用于原型或内部工
 | forks | 26/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

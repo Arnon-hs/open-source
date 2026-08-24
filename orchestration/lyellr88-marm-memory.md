@@ -1,6 +1,6 @@
 # Lyellr88/marm-memory
 
-[![Stars](https://img.shields.io/github/stars/Lyellr88/marm-memory?style=flat-square&color=yellow)](https://github.com/Lyellr88/marm-memory/stargazers) [![Forks](https://img.shields.io/github/forks/Lyellr88/marm-memory?style=flat-square&color=blue)](https://github.com/Lyellr88/marm-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lyellr88/marm-memory?style=flat-square&color=yellow)](https://github.com/Lyellr88/marm-memory/stargazers) [![Forks](https://img.shields.io/github/forks/Lyellr88/marm-memory?style=flat-square&color=blue)](https://github.com/Lyellr88/marm-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, local-first MCP memory server for AI agents. Sub-20ms recall at 10k memories, hybrid semantic + exact-syntax search (RAG), code & concept knowledge graphs (158 languages). All local in SQLite: no cloud, no vector DB, no API keys. Works with Claude Code, Codex, Cursor, Gemini & any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ marm-memory 可以与 Claude Code、Codex、Cursor、Gemini 等 MCP 客户端进
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

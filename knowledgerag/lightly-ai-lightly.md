@@ -1,6 +1,6 @@
 # lightly-ai/lightly
 
-[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A python library for self-supervised learning on images.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Education
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ lightly‑ai/lightly 是一个基于 Python 的开源库，专注于在图像数
 | forks | 63/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

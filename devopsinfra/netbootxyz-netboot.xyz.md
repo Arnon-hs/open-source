@@ -1,6 +1,6 @@
 # netbootxyz/netboot.xyz
 
-[![Stars](https://img.shields.io/github/stars/netbootxyz/netboot.xyz?style=flat-square&color=yellow)](https://github.com/netbootxyz/netboot.xyz/stargazers) [![Forks](https://img.shields.io/github/forks/netbootxyz/netboot.xyz?style=flat-square&color=blue)](https://github.com/netbootxyz/netboot.xyz/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netbootxyz/netboot.xyz?style=flat-square&color=yellow)](https://github.com/netbootxyz/netboot.xyz/stargazers) [![Forks](https://img.shields.io/github/forks/netbootxyz/netboot.xyz?style=flat-square&color=blue)](https://github.com/netbootxyz/netboot.xyz/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.8k |
 | 🍴 **Forks** | 817 |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ netbootxyz/netboot.xyz 是一个基于 iPXE 的网络启动安装器，聚合了
 | forks | 73/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 83/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

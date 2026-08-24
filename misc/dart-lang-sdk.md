@@ -1,6 +1,6 @@
 # dart-lang/sdk
 
-[![Stars](https://img.shields.io/github/stars/dart-lang/sdk?style=flat-square&color=yellow)](https://github.com/dart-lang/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dart-lang/sdk?style=flat-square&color=blue)](https://github.com/dart-lang/sdk/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dart-lang/sdk?style=flat-square&color=yellow)](https://github.com/dart-lang/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dart-lang/sdk?style=flat-square&color=blue)](https://github.com/dart-lang/sdk/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.2k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Dart SDK 的生产可用性很高。它的活跃度很强，社区支持很好�
 | forks | 82/100 |
 | stars | 86/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

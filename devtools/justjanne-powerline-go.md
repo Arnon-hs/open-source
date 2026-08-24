@@ -1,6 +1,6 @@
 # justjanne/powerline-go
 
-[![Stars](https://img.shields.io/github/stars/justjanne/powerline-go?style=flat-square&color=yellow)](https://github.com/justjanne/powerline-go/stargazers) [![Forks](https://img.shields.io/github/forks/justjanne/powerline-go?style=flat-square&color=blue)](https://github.com/justjanne/powerline-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justjanne/powerline-go?style=flat-square&color=yellow)](https://github.com/justjanne/powerline-go/stargazers) [![Forks](https://img.shields.io/github/forks/justjanne/powerline-go?style=flat-square&color=blue)](https://github.com/justjanne/powerline-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful and useful low-latency prompt for your shell, written in go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ Justjanne/powerline-go 的生产可用性较高，主要原因是：
 | forks | 61/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

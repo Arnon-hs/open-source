@@ -1,6 +1,6 @@
 # TemujinCalidius/FediHome
 
-[![Stars](https://img.shields.io/github/stars/TemujinCalidius/FediHome?style=flat-square&color=yellow)](https://github.com/TemujinCalidius/FediHome/stargazers) [![Forks](https://img.shields.io/github/forks/TemujinCalidius/FediHome?style=flat-square&color=blue)](https://github.com/TemujinCalidius/FediHome/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TemujinCalidius/FediHome?style=flat-square&color=yellow)](https://github.com/TemujinCalidius/FediHome/stargazers) [![Forks](https://img.shields.io/github/forks/TemujinCalidius/FediHome?style=flat-square&color=blue)](https://github.com/TemujinCalidius/FediHome/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #selfhosted by @samuel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 34/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | mastodon |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ FediHome v1.24.0 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 29/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

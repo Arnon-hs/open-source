@@ -1,6 +1,6 @@
 # dend/DeckSurf
 
-[![Stars](https://img.shields.io/github/stars/dend/DeckSurf?style=flat-square&color=yellow)](https://github.com/dend/DeckSurf/stargazers) [![Forks](https://img.shields.io/github/forks/dend/DeckSurf?style=flat-square&color=blue)](https://github.com/dend/DeckSurf/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dend/DeckSurf?style=flat-square&color=yellow)](https://github.com/dend/DeckSurf/stargazers) [![Forks](https://img.shields.io/github/forks/dend/DeckSurf?style=flat-square&color=blue)](https://github.com/dend/DeckSurf/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🌊 Lightweight and open way to manage your Stream Deck device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ dend/DeckSurf 的生产可用性为中等。虽然它已经被使用了，但仍
 | forks | 21/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

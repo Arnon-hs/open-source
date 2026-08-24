@@ -1,6 +1,6 @@
 # TykTechnologies/tyk
 
-[![Stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=flat-square&color=yellow)](https://github.com/TykTechnologies/tyk/stargazers) [![Forks](https://img.shields.io/github/forks/TykTechnologies/tyk?style=flat-square&color=blue)](https://github.com/TykTechnologies/tyk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=flat-square&color=yellow)](https://github.com/TykTechnologies/tyk/stargazers) [![Forks](https://img.shields.io/github/forks/TykTechnologies/tyk?style=flat-square&color=blue)](https://github.com/TykTechnologies/tyk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ Tyk Open Source API Gateway 的生产可用性非常高，具有：
 | forks | 77/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 83/100 |
-| production | 85/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

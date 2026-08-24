@@ -1,6 +1,6 @@
 # rust-codegen-group/sigil-stitch
 
-[![Stars](https://img.shields.io/github/stars/rust-codegen-group/sigil-stitch?style=flat-square&color=yellow)](https://github.com/rust-codegen-group/sigil-stitch/stargazers) [![Forks](https://img.shields.io/github/forks/rust-codegen-group/sigil-stitch?style=flat-square&color=blue)](https://github.com/rust-codegen-group/sigil-stitch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-codegen-group/sigil-stitch?style=flat-square&color=yellow)](https://github.com/rust-codegen-group/sigil-stitch/stargazers) [![Forks](https://img.shields.io/github/forks/rust-codegen-group/sigil-stitch?style=flat-square&color=blue)](https://github.com/rust-codegen-group/sigil-stitch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Type-safe, import-aware, width-aware code generation across multiple languages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ rust-codegen-group/sigil-stitch：rust-codegen-group/sigil-stitch may be useful 
 | forks | 0/100 |
 | stars | 52/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

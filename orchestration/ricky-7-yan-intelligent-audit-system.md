@@ -1,6 +1,6 @@
 # Ricky-7-Yan/intelligent-audit-system
 
-[![Stars](https://img.shields.io/github/stars/Ricky-7-Yan/intelligent-audit-system?style=flat-square&color=yellow)](https://github.com/Ricky-7-Yan/intelligent-audit-system/stargazers) [![Forks](https://img.shields.io/github/forks/Ricky-7-Yan/intelligent-audit-system?style=flat-square&color=blue)](https://github.com/Ricky-7-Yan/intelligent-audit-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ricky-7-Yan/intelligent-audit-system?style=flat-square&color=yellow)](https://github.com/Ricky-7-Yan/intelligent-audit-system/stargazers) [![Forks](https://img.shields.io/github/forks/Ricky-7-Yan/intelligent-audit-system?style=flat-square&color=blue)](https://github.com/Ricky-7-Yan/intelligent-audit-system/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise audit agent workspace with Agentic RAG, governed tool use, evaluation harness, memory, and human-review delivery workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Ricky-7-Yan/intelligent-audit-system 是一个企业级审计代理工作区，�
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

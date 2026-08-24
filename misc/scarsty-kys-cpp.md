@@ -1,6 +1,6 @@
 # scarsty/kys-cpp
 
-[![Stars](https://img.shields.io/github/stars/scarsty/kys-cpp?style=flat-square&color=yellow)](https://github.com/scarsty/kys-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/scarsty/kys-cpp?style=flat-square&color=blue)](https://github.com/scarsty/kys-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scarsty/kys-cpp?style=flat-square&color=yellow)](https://github.com/scarsty/kys-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/scarsty/kys-cpp?style=flat-square&color=blue)](https://github.com/scarsty/kys-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 《金庸群侠传》c++复刻版，已完工
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ scarsty/kys-cpp 的生产可用性为中等（Medium）。它可以用于快速�
 | forks | 65/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

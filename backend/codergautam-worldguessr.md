@@ -1,6 +1,6 @@
 # codergautam/worldguessr
 
-[![Stars](https://img.shields.io/github/stars/codergautam/worldguessr?style=flat-square&color=yellow)](https://github.com/codergautam/worldguessr/stargazers) [![Forks](https://img.shields.io/github/forks/codergautam/worldguessr?style=flat-square&color=blue)](https://github.com/codergautam/worldguessr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codergautam/worldguessr?style=flat-square&color=yellow)](https://github.com/codergautam/worldguessr/stargazers) [![Forks](https://img.shields.io/github/forks/codergautam/worldguessr?style=flat-square&color=blue)](https://github.com/codergautam/worldguessr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Free & Open source version of Geoguessr
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 489 |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ codergautam/worldguessr 是一款免费、开源的 GeoGuessr 替代品，提供
 | forks | 56/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

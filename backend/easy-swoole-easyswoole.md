@@ -1,6 +1,6 @@
 # easy-swoole/easyswoole
 
-[![Stars](https://img.shields.io/github/stars/easy-swoole/easyswoole?style=flat-square&color=yellow)](https://github.com/easy-swoole/easyswoole/stargazers) [![Forks](https://img.shields.io/github/forks/easy-swoole/easyswoole?style=flat-square&color=blue)](https://github.com/easy-swoole/easyswoole/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/easy-swoole/easyswoole?style=flat-square&color=yellow)](https://github.com/easy-swoole/easyswoole/stargazers) [![Forks](https://img.shields.io/github/forks/easy-swoole/easyswoole?style=flat-square&color=blue)](https://github.com/easy-swoole/easyswoole/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > swoole,easyswoole,swoole framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 503 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ easy-swoole/easyswoole 是一个开源项目，基于 Swoole 框架，旨在帮�
 | forks | 68/100 |
 | stars | 78/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

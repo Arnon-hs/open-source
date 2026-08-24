@@ -1,6 +1,6 @@
 # 1ay1/agentty
 
-[![Stars](https://img.shields.io/github/stars/1ay1/agentty?style=flat-square&color=yellow)](https://github.com/1ay1/agentty/stargazers) [![Forks](https://img.shields.io/github/forks/1ay1/agentty?style=flat-square&color=blue)](https://github.com/1ay1/agentty/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1ay1/agentty?style=flat-square&color=yellow)](https://github.com/1ay1/agentty/stargazers) [![Forks](https://img.shields.io/github/forks/1ay1/agentty?style=flat-square&color=blue)](https://github.com/1ay1/agentty/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AI pair programming in your terminal — one static binary, sub-ms startup, any model
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ To adopt 1ay1/agentty, developers can follow these steps:
 | forks | 8/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

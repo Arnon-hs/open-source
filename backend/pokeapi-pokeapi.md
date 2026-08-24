@@ -1,6 +1,6 @@
 # PokeAPI/pokeapi
 
-[![Stars](https://img.shields.io/github/stars/PokeAPI/pokeapi?style=flat-square&color=yellow)](https://github.com/PokeAPI/pokeapi/stargazers) [![Forks](https://img.shields.io/github/forks/PokeAPI/pokeapi?style=flat-square&color=blue)](https://github.com/PokeAPI/pokeapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PokeAPI/pokeapi?style=flat-square&color=yellow)](https://github.com/PokeAPI/pokeapi/stargazers) [![Forks](https://img.shields.io/github/forks/PokeAPI/pokeapi?style=flat-square&color=blue)](https://github.com/PokeAPI/pokeapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The Pokémon API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ PokeAPI/pokeapi 的生产可用性较高，理由如下：
 | forks | 77/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 78/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

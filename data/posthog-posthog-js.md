@@ -1,6 +1,6 @@
 # PostHog/posthog-js
 
-[![Stars](https://img.shields.io/github/stars/PostHog/posthog-js?style=flat-square&color=yellow)](https://github.com/PostHog/posthog-js/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/posthog-js?style=flat-square&color=blue)](https://github.com/PostHog/posthog-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PostHog/posthog-js?style=flat-square&color=yellow)](https://github.com/PostHog/posthog-js/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/posthog-js?style=flat-square&color=blue)](https://github.com/PostHog/posthog-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Send usage data from your web app or site to PostHog, with autocapture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ PostHog/posthog-js 是 PostHog 官方的前端 SDK，能够在网页或单页应
 | forks | 61/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

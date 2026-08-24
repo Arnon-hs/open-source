@@ -1,6 +1,6 @@
 # serradura/okf
 
-[![Stars](https://img.shields.io/github/stars/serradura/okf?style=flat-square&color=yellow)](https://github.com/serradura/okf/stargazers) [![Forks](https://img.shields.io/github/forks/serradura/okf?style=flat-square&color=blue)](https://github.com/serradura/okf/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serradura/okf?style=flat-square&color=yellow)](https://github.com/serradura/okf/stargazers) [![Forks](https://img.shields.io/github/forks/serradura/okf?style=flat-square&color=blue)](https://github.com/serradura/okf/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > OKF (Open Knowledge Format): durable, structured memory for AI agents. This ecosystem includes: Agent Skills, MCP, Interactive Graph, TUI, CLI, Docker, and the Claude Code plugin to author, validate, consume, and maintain portable knowledge bundles - 100% local.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · DevTools
+Orchestration · MCP · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ serradura/okf：serradura/okf helps turn isolated prompts and tools into repeata
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

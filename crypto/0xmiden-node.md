@@ -1,6 +1,6 @@
 # 0xMiden/node
 
-[![Stars](https://img.shields.io/github/stars/0xMiden/node?style=flat-square&color=yellow)](https://github.com/0xMiden/node/stargazers) [![Forks](https://img.shields.io/github/forks/0xMiden/node?style=flat-square&color=blue)](https://github.com/0xMiden/node/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xMiden/node?style=flat-square&color=yellow)](https://github.com/0xMiden/node/stargazers) [![Forks](https://img.shields.io/github/forks/0xMiden/node?style=flat-square&color=blue)](https://github.com/0xMiden/node/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Reference implementation of the node for the Miden blockchain
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ The primary value proposition of 0xMiden/node lies in its open implementation de
 | forks | 53/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 67/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

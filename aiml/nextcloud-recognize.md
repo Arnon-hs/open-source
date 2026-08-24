@@ -1,6 +1,6 @@
 # nextcloud/recognize
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/recognize?style=flat-square&color=yellow)](https://github.com/nextcloud/recognize/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/recognize?style=flat-square&color=blue)](https://github.com/nextcloud/recognize/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/recognize?style=flat-square&color=yellow)](https://github.com/nextcloud/recognize/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/recognize?style=flat-square&color=blue)](https://github.com/nextcloud/recognize/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ nextcloud/recognize 的生产可用性为中等。它适合用于prototypes 或�
 | forks | 46/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

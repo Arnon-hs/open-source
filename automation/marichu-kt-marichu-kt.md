@@ -1,6 +1,6 @@
 # marichu-kt/marichu-kt
 
-[![Stars](https://img.shields.io/github/stars/marichu-kt/marichu-kt?style=flat-square&color=yellow)](https://github.com/marichu-kt/marichu-kt/stargazers) [![Forks](https://img.shields.io/github/forks/marichu-kt/marichu-kt?style=flat-square&color=blue)](https://github.com/marichu-kt/marichu-kt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marichu-kt/marichu-kt?style=flat-square&color=yellow)](https://github.com/marichu-kt/marichu-kt/stargazers) [![Forks](https://img.shields.io/github/forks/marichu-kt/marichu-kt?style=flat-square&color=blue)](https://github.com/marichu-kt/marichu-kt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > README for the GitHub  Profile Overview
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ marichu-kt/marichu-kt 是一个 Kotlin 编写的开源工具库，旨在把工�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

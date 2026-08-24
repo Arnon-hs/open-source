@@ -1,6 +1,6 @@
 # jesse-ai/jesse
 
-[![Stars](https://img.shields.io/github/stars/jesse-ai/jesse?style=flat-square&color=yellow)](https://github.com/jesse-ai/jesse/stargazers) [![Forks](https://img.shields.io/github/forks/jesse-ai/jesse?style=flat-square&color=blue)](https://github.com/jesse-ai/jesse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jesse-ai/jesse?style=flat-square&color=yellow)](https://github.com/jesse-ai/jesse/stargazers) [![Forks](https://img.shields.io/github/forks/jesse-ai/jesse?style=flat-square&color=blue)](https://github.com/jesse-ai/jesse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An advanced crypto trading bot written in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ jesse-ai/jesse 在生产环境中具有较高的可用性，考虑到以下因�
 | forks | 77/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 82/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

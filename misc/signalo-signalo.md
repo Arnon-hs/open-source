@@ -1,6 +1,6 @@
 # signalo/signalo
 
-[![Stars](https://img.shields.io/github/stars/signalo/signalo?style=flat-square&color=yellow)](https://github.com/signalo/signalo/stargazers) [![Forks](https://img.shields.io/github/forks/signalo/signalo?style=flat-square&color=blue)](https://github.com/signalo/signalo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/signalo/signalo?style=flat-square&color=yellow)](https://github.com/signalo/signalo/stargazers) [![Forks](https://img.shields.io/github/forks/signalo/signalo?style=flat-square&color=blue)](https://github.com/signalo/signalo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A DSP toolbox with focus on embedded environments written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ signalo/signalo 是一个专注于嵌入式环境的数字信号处理工具箱�
 | forks | 23/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # op7418/guizang-ppt-skill
 
-[![Stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square&color=yellow)](https://github.com/op7418/guizang-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/guizang-ppt-skill?style=flat-square&color=blue)](https://github.com/op7418/guizang-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square&color=yellow)](https://github.com/op7418/guizang-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/guizang-ppt-skill?style=flat-square&color=blue)](https://github.com/op7418/guizang-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ op7418/guizang-ppt-skill 的生产可用性为高，项目最近有活跃度，�
 | forks | 81/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 85/100 |
+| recency | 60/100 |
 | adoption | 90/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jatinkrmalik/vocalinux
 
-[![Stars](https://img.shields.io/github/stars/jatinkrmalik/vocalinux?style=flat-square&color=yellow)](https://github.com/jatinkrmalik/vocalinux/stargazers) [![Forks](https://img.shields.io/github/forks/jatinkrmalik/vocalinux?style=flat-square&color=blue)](https://github.com/jatinkrmalik/vocalinux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jatinkrmalik/vocalinux?style=flat-square&color=yellow)](https://github.com/jatinkrmalik/vocalinux/stargazers) [![Forks](https://img.shields.io/github/forks/jatinkrmalik/vocalinux?style=flat-square&color=blue)](https://github.com/jatinkrmalik/vocalinux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 434 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ jatinkrmalik/vocalinux 提供完全离线、免费且 GPU 加速的语音转文�
 | forks | 45/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zeromicro/go-zero
 
-[![Stars](https://img.shields.io/github/stars/zeromicro/go-zero?style=flat-square&color=yellow)](https://github.com/zeromicro/go-zero/stargazers) [![Forks](https://img.shields.io/github/forks/zeromicro/go-zero?style=flat-square&color=blue)](https://github.com/zeromicro/go-zero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeromicro/go-zero?style=flat-square&color=yellow)](https://github.com/zeromicro/go-zero/stargazers) [![Forks](https://img.shields.io/github/forks/zeromicro/go-zero?style=flat-square&color=blue)](https://github.com/zeromicro/go-zero/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > A cloud-native Go microservices framework with cli tool for productivity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33.2k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Product
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ zeromicro/go-zero 的生产可用性很高，主要原因是：
 | forks | 91/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 99/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 87/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

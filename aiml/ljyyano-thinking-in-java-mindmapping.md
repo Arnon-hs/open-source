@@ -1,6 +1,6 @@
 # LjyYano/Thinking_in_Java_MindMapping
 
-[![Stars](https://img.shields.io/github/stars/LjyYano/Thinking_in_Java_MindMapping?style=flat-square&color=yellow)](https://github.com/LjyYano/Thinking_in_Java_MindMapping/stargazers) [![Forks](https://img.shields.io/github/forks/LjyYano/Thinking_in_Java_MindMapping?style=flat-square&color=blue)](https://github.com/LjyYano/Thinking_in_Java_MindMapping/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LjyYano/Thinking_in_Java_MindMapping?style=flat-square&color=yellow)](https://github.com/LjyYano/Thinking_in_Java_MindMapping/stargazers) [![Forks](https://img.shields.io/github/forks/LjyYano/Thinking_in_Java_MindMapping?style=flat-square&color=blue)](https://github.com/LjyYano/Thinking_in_Java_MindMapping/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 465 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ LjyYano/Thinking_in_Java_MindMapping 在生产环境中具有较高的可用性�
 | forks | 67/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

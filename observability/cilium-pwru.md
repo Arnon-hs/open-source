@@ -1,6 +1,6 @@
 # cilium/pwru
 
-[![Stars](https://img.shields.io/github/stars/cilium/pwru?style=flat-square&color=yellow)](https://github.com/cilium/pwru/stargazers) [![Forks](https://img.shields.io/github/forks/cilium/pwru?style=flat-square&color=blue)](https://github.com/cilium/pwru/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cilium/pwru?style=flat-square&color=yellow)](https://github.com/cilium/pwru/stargazers) [![Forks](https://img.shields.io/github/forks/cilium/pwru?style=flat-square&color=blue)](https://github.com/cilium/pwru/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Packet, where are you? -- eBPF-based Linux kernel networking debugger
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ cilium/pwru（全称 *Packet, where are you?*）是一款基于 eBPF 的 Linux �
 | forks | 59/100 |
 | stars | 76/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

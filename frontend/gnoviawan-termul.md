@@ -1,6 +1,6 @@
 # gnoviawan/termul
 
-[![Stars](https://img.shields.io/github/stars/gnoviawan/termul?style=flat-square&color=yellow)](https://github.com/gnoviawan/termul/stargazers) [![Forks](https://img.shields.io/github/forks/gnoviawan/termul?style=flat-square&color=blue)](https://github.com/gnoviawan/termul/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gnoviawan/termul?style=flat-square&color=yellow)](https://github.com/gnoviawan/termul/stargazers) [![Forks](https://img.shields.io/github/forks/gnoviawan/termul?style=flat-square&color=blue)](https://github.com/gnoviawan/termul/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Database · Product
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Termul 的价值在于，它可以帮助开发人员快速构建用户界面，�
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

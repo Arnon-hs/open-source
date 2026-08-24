@@ -1,6 +1,6 @@
 # typefully/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/typefully/agent-skills?style=flat-square&color=yellow)](https://github.com/typefully/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/typefully/agent-skills?style=flat-square&color=blue)](https://github.com/typefully/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typefully/agent-skills?style=flat-square&color=yellow)](https://github.com/typefully/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/typefully/agent-skills?style=flat-square&color=blue)](https://github.com/typefully/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills for drafting and scheduling social media posts via Typefully
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ typefully/agent-skills 的生产可用性为中等（Medium）。适合用于原
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

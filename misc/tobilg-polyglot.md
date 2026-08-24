@@ -1,6 +1,6 @@
 # tobilg/polyglot
 
-[![Stars](https://img.shields.io/github/stars/tobilg/polyglot?style=flat-square&color=yellow)](https://github.com/tobilg/polyglot/stargazers) [![Forks](https://img.shields.io/github/forks/tobilg/polyglot?style=flat-square&color=blue)](https://github.com/tobilg/polyglot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tobilg/polyglot?style=flat-square&color=yellow)](https://github.com/tobilg/polyglot/stargazers) [![Forks](https://img.shields.io/github/forks/tobilg/polyglot?style=flat-square&color=blue)](https://github.com/tobilg/polyglot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 870 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ tobilg/polyglot 的生产可用性为中等。它适合用于原型开发或内�
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

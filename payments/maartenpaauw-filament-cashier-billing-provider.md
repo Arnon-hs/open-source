@@ -1,6 +1,6 @@
 # maartenpaauw/filament-cashier-billing-provider
 
-[![Stars](https://img.shields.io/github/stars/maartenpaauw/filament-cashier-billing-provider?style=flat-square&color=yellow)](https://github.com/maartenpaauw/filament-cashier-billing-provider/stargazers) [![Forks](https://img.shields.io/github/forks/maartenpaauw/filament-cashier-billing-provider?style=flat-square&color=blue)](https://github.com/maartenpaauw/filament-cashier-billing-provider/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maartenpaauw/filament-cashier-billing-provider?style=flat-square&color=yellow)](https://github.com/maartenpaauw/filament-cashier-billing-provider/stargazers) [![Forks](https://img.shields.io/github/forks/maartenpaauw/filament-cashier-billing-provider?style=flat-square&color=blue)](https://github.com/maartenpaauw/filament-cashier-billing-provider/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Integrate Laravel Cashier Stripe support into Filament's multi-tenant panels.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ maartenpaauw/filament-cashier-billing-provider 是一个开源项目，用于将
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

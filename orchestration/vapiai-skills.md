@@ -1,6 +1,6 @@
 # VapiAI/skills
 
-[![Stars](https://img.shields.io/github/stars/VapiAI/skills?style=flat-square&color=yellow)](https://github.com/VapiAI/skills/stargazers) [![Forks](https://img.shields.io/github/forks/VapiAI/skills?style=flat-square&color=blue)](https://github.com/VapiAI/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VapiAI/skills?style=flat-square&color=yellow)](https://github.com/VapiAI/skills/stargazers) [![Forks](https://img.shields.io/github/forks/VapiAI/skills?style=flat-square&color=blue)](https://github.com/VapiAI/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A set of skills and MCP connector to allow agents to build Vapi AI agents, from creating tools and assistants to a phone call
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ VapiAI/skills 提供了一套可复用的技能库和 MCP 连接器，帮助开�
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

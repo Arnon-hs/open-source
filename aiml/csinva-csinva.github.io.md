@@ -1,6 +1,6 @@
 # csinva/csinva.github.io
 
-[![Stars](https://img.shields.io/github/stars/csinva/csinva.github.io?style=flat-square&color=yellow)](https://github.com/csinva/csinva.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/csinva/csinva.github.io?style=flat-square&color=blue)](https://github.com/csinva/csinva.github.io/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/csinva/csinva.github.io?style=flat-square&color=yellow)](https://github.com/csinva/csinva.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/csinva/csinva.github.io?style=flat-square&color=blue)](https://github.com/csinva/csinva.github.io/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Slides, paper notes, class notes, blog posts, and research on ML 📉, statistics 📊, and AI 🤖.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 618 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ csinva/csinva.github.io 是一个开源项目，提供机器学习（ML）、统
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

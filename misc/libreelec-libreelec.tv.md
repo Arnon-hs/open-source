@@ -1,6 +1,6 @@
 # LibreELEC/LibreELEC.tv
 
-[![Stars](https://img.shields.io/github/stars/LibreELEC/LibreELEC.tv?style=flat-square&color=yellow)](https://github.com/LibreELEC/LibreELEC.tv/stargazers) [![Forks](https://img.shields.io/github/forks/LibreELEC/LibreELEC.tv?style=flat-square&color=blue)](https://github.com/LibreELEC/LibreELEC.tv/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LibreELEC/LibreELEC.tv?style=flat-square&color=yellow)](https://github.com/LibreELEC/LibreELEC.tv/stargazers) [![Forks](https://img.shields.io/github/forks/LibreELEC/LibreELEC.tv?style=flat-square&color=blue)](https://github.com/LibreELEC/LibreELEC.tv/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Just enough OS for KODI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ LibreELEC/LibreELEC.tv 的生产可用性很高，因为它具有以下特征：
 | forks | 77/100 |
 | stars | 73/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

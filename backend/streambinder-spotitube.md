@@ -1,6 +1,6 @@
 # streambinder/spotitube
 
-[![Stars](https://img.shields.io/github/stars/streambinder/spotitube?style=flat-square&color=yellow)](https://github.com/streambinder/spotitube/stargazers) [![Forks](https://img.shields.io/github/forks/streambinder/spotitube?style=flat-square&color=blue)](https://github.com/streambinder/spotitube/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streambinder/spotitube?style=flat-square&color=yellow)](https://github.com/streambinder/spotitube/stargazers) [![Forks](https://img.shields.io/github/forks/streambinder/spotitube?style=flat-square&color=blue)](https://github.com/streambinder/spotitube/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Synchronize your Spotify collections downloading from external providers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 286 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ streambinder/spotitube 的生产可用性较高，_recent_activity、adoption �
 | forks | 25/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

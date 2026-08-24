@@ -1,6 +1,6 @@
 # mulhamna/jira-commands
 
-[![Stars](https://img.shields.io/github/stars/mulhamna/jira-commands?style=flat-square&color=yellow)](https://github.com/mulhamna/jira-commands/stargazers) [![Forks](https://img.shields.io/github/forks/mulhamna/jira-commands?style=flat-square&color=blue)](https://github.com/mulhamna/jira-commands/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mulhamna/jira-commands?style=flat-square&color=yellow)](https://github.com/mulhamna/jira-commands/stargazers) [![Forks](https://img.shields.io/github/forks/mulhamna/jira-commands?style=flat-square&color=blue)](https://github.com/mulhamna/jira-commands/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Jira toolkit for terminals, coding assistants, and bots.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Frontend
+MCP
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ mulhamna/jira-commands 是一套基于 Rust 实现的 Jira 工具箱，提供统
 | forks | 28/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

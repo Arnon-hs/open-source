@@ -1,6 +1,6 @@
 # massalabs/massa
 
-[![Stars](https://img.shields.io/github/stars/massalabs/massa?style=flat-square&color=yellow)](https://github.com/massalabs/massa/stargazers) [![Forks](https://img.shields.io/github/forks/massalabs/massa?style=flat-square&color=blue)](https://github.com/massalabs/massa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/massalabs/massa?style=flat-square&color=yellow)](https://github.com/massalabs/massa/stargazers) [![Forks](https://img.shields.io/github/forks/massalabs/massa?style=flat-square&color=blue)](https://github.com/massalabs/massa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Decentralized and Scaled Blockchain
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 718 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ massalabs/massa：massalabs/massa helps prototype or inspect blockchain workflow
 | forks | 71/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

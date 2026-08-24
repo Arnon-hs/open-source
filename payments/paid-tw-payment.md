@@ -1,6 +1,6 @@
 # paid-tw/payment
 
-[![Stars](https://img.shields.io/github/stars/paid-tw/payment?style=flat-square&color=yellow)](https://github.com/paid-tw/payment/stargazers) [![Forks](https://img.shields.io/github/forks/paid-tw/payment?style=flat-square&color=blue)](https://github.com/paid-tw/payment/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paid-tw/payment?style=flat-square&color=yellow)](https://github.com/paid-tw/payment/stargazers) [![Forks](https://img.shields.io/github/forks/paid-tw/payment?style=flat-square&color=blue)](https://github.com/paid-tw/payment/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 台灣金流 SDK：一致的 PaymentProvider 介面，方便串接。支援 PAYUNi、藍新 NewebPay、綠界 ECPay（AIO + 站內付 2.0）。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ paid-tw/payment 是一个开源项目，提供了一致的 PaymentProvider 介�
 | forks | 15/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

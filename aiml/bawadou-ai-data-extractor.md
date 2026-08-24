@@ -1,6 +1,6 @@
 # bawadou/ai-data-extractor
 
-[![Stars](https://img.shields.io/github/stars/bawadou/ai-data-extractor?style=flat-square&color=yellow)](https://github.com/bawadou/ai-data-extractor/stargazers) [![Forks](https://img.shields.io/github/forks/bawadou/ai-data-extractor?style=flat-square&color=blue)](https://github.com/bawadou/ai-data-extractor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bawadou/ai-data-extractor?style=flat-square&color=yellow)](https://github.com/bawadou/ai-data-extractor/stargazers) [![Forks](https://img.shields.io/github/forks/bawadou/ai-data-extractor?style=flat-square&color=blue)](https://github.com/bawadou/ai-data-extractor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ bawadou/ai-data-extractor：bawadou/ai-data-extractor helps add AI capability wi
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

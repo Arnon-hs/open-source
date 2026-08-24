@@ -1,6 +1,6 @@
 # biliup/biliup
 
-[![Stars](https://img.shields.io/github/stars/biliup/biliup?style=flat-square&color=yellow)](https://github.com/biliup/biliup/stargazers) [![Forks](https://img.shields.io/github/forks/biliup/biliup?style=flat-square&color=blue)](https://github.com/biliup/biliup/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/biliup/biliup?style=flat-square&color=yellow)](https://github.com/biliup/biliup/stargazers) [![Forks](https://img.shields.io/github/forks/biliup/biliup?style=flat-square&color=blue)](https://github.com/biliup/biliup/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 652 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ biliup/biliup 的生产可用性是高的，主要原因包括：
 | forks | 70/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

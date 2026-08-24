@@ -1,6 +1,6 @@
 # infostart-hub/toolkit
 
-[![Stars](https://img.shields.io/github/stars/infostart-hub/toolkit?style=flat-square&color=yellow)](https://github.com/infostart-hub/toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/infostart-hub/toolkit?style=flat-square&color=blue)](https://github.com/infostart-hub/toolkit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infostart-hub/toolkit?style=flat-square&color=yellow)](https://github.com/infostart-hub/toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/infostart-hub/toolkit?style=flat-square&color=blue)](https://github.com/infostart-hub/toolkit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Infostart Toolkit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ Infostart Toolkit 的生产可用性为中等。它适合用于原型开发或�
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

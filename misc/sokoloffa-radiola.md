@@ -1,6 +1,6 @@
 # SokoloffA/radiola
 
-[![Stars](https://img.shields.io/github/stars/SokoloffA/radiola?style=flat-square&color=yellow)](https://github.com/SokoloffA/radiola/stargazers) [![Forks](https://img.shields.io/github/forks/SokoloffA/radiola?style=flat-square&color=blue)](https://github.com/SokoloffA/radiola/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SokoloffA/radiola?style=flat-square&color=yellow)](https://github.com/SokoloffA/radiola/stargazers) [![Forks](https://img.shields.io/github/forks/SokoloffA/radiola?style=flat-square&color=blue)](https://github.com/SokoloffA/radiola/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 405 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,14 +75,15 @@ SokoloffA/radiola 是一个开源项目，主要用于特定工作流程的开�
 | forks | 33/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

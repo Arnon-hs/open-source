@@ -1,6 +1,6 @@
 # skyzh/tiny-llm
 
-[![Stars](https://img.shields.io/github/stars/skyzh/tiny-llm?style=flat-square&color=yellow)](https://github.com/skyzh/tiny-llm/stargazers) [![Forks](https://img.shields.io/github/forks/skyzh/tiny-llm?style=flat-square&color=blue)](https://github.com/skyzh/tiny-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skyzh/tiny-llm?style=flat-square&color=yellow)](https://github.com/skyzh/tiny-llm/stargazers) [![Forks](https://img.shields.io/github/forks/skyzh/tiny-llm?style=flat-square&color=blue)](https://github.com/skyzh/tiny-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 315 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design · Education
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -125,14 +125,15 @@ skyzh/tiny-llm 是面向系统工程师的 Apple Silicon 上 LLM 推理实战教
 | forks | 62/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

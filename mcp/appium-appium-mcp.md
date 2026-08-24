@@ -1,6 +1,6 @@
 # appium/appium-mcp
 
-[![Stars](https://img.shields.io/github/stars/appium/appium-mcp?style=flat-square&color=yellow)](https://github.com/appium/appium-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/appium/appium-mcp?style=flat-square&color=blue)](https://github.com/appium/appium-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appium/appium-mcp?style=flat-square&color=yellow)](https://github.com/appium/appium-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/appium/appium-mcp?style=flat-square&color=blue)](https://github.com/appium/appium-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Appium MCP on Steroids!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 437 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Appium MCP 的生产可用性很高，原因如下：
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

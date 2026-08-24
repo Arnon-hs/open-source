@@ -1,6 +1,6 @@
 # sidequery/sidemantic
 
-[![Stars](https://img.shields.io/github/stars/sidequery/sidemantic?style=flat-square&color=yellow)](https://github.com/sidequery/sidemantic/stargazers) [![Forks](https://img.shields.io/github/forks/sidequery/sidemantic?style=flat-square&color=blue)](https://github.com/sidequery/sidemantic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sidequery/sidemantic?style=flat-square&color=yellow)](https://github.com/sidequery/sidemantic/stargazers) [![Forks](https://img.shields.io/github/forks/sidequery/sidemantic?style=flat-square&color=blue)](https://github.com/sidequery/sidemantic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The universal metrics layer. Compatible with 15+ formats: Cube, MetricFlow, LookML, Omni, BSL, LDM, Cortex, Malloy, OSI, SML, TML, Hex, Rill, Superset
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Data · Database
+MCP · AI/ML · Data · Database · Observability
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ sidequery/sidemantic 的生产可用性为高（High），理由包括：
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

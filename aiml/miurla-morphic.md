@@ -1,6 +1,6 @@
 # miurla/morphic
 
-[![Stars](https://img.shields.io/github/stars/miurla/morphic?style=flat-square&color=yellow)](https://github.com/miurla/morphic/stargazers) [![Forks](https://img.shields.io/github/forks/miurla/morphic?style=flat-square&color=blue)](https://github.com/miurla/morphic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miurla/morphic?style=flat-square&color=yellow)](https://github.com/miurla/morphic/stargazers) [![Forks](https://img.shields.io/github/forks/miurla/morphic?style=flat-square&color=blue)](https://github.com/miurla/morphic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-powered search engine with a generative UI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ miurla/morphic 的生产可用性较高，根据 GitHub 的数据显示，它有
 | forks | 84/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 88/100 |
+| recency | 80/100 |
 | adoption | 84/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # schollz/croc
 
-[![Stars](https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=yellow)](https://github.com/schollz/croc/stargazers) [![Forks](https://img.shields.io/github/forks/schollz/croc?style=flat-square&color=blue)](https://github.com/schollz/croc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schollz/croc?style=flat-square&color=yellow)](https://github.com/schollz/croc/stargazers) [![Forks](https://img.shields.io/github/forks/schollz/croc?style=flat-square&color=blue)](https://github.com/schollz/croc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Easily and securely send things from one computer to another :crocodile: :package:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35.4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ schollz/croc 的生产可用性非常高，理由如下：
 | forks | 79/100 |
 | stars | 97/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

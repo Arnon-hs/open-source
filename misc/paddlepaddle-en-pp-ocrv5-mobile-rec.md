@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | PaddleOCR |
 | 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2025-08-29 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -104,6 +104,7 @@ PaddlePaddle/en_PP-OCRv5_mobile_rec是一个基于PaddlePaddle的开源模型，
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

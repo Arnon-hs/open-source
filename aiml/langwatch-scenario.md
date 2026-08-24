@@ -1,6 +1,6 @@
 # langwatch/scenario
 
-[![Stars](https://img.shields.io/github/stars/langwatch/scenario?style=flat-square&color=yellow)](https://github.com/langwatch/scenario/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/scenario?style=flat-square&color=blue)](https://github.com/langwatch/scenario/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langwatch/scenario?style=flat-square&color=yellow)](https://github.com/langwatch/scenario/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/scenario?style=flat-square&color=blue)](https://github.com/langwatch/scenario/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic testing for agentic codebases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 913 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ langwatch/scenario 的生产可用性很高，主要原因是：
 | forks | 46/100 |
 | stars | 63/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

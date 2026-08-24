@@ -1,6 +1,6 @@
 # hawtio/hawtio
 
-[![Stars](https://img.shields.io/github/stars/hawtio/hawtio?style=flat-square&color=yellow)](https://github.com/hawtio/hawtio/stargazers) [![Forks](https://img.shields.io/github/forks/hawtio/hawtio?style=flat-square&color=blue)](https://github.com/hawtio/hawtio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hawtio/hawtio?style=flat-square&color=yellow)](https://github.com/hawtio/hawtio/stargazers) [![Forks](https://img.shields.io/github/forks/hawtio/hawtio?style=flat-square&color=blue)](https://github.com/hawtio/hawtio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Hawtio web console helps you manage your JVM stuff and stay cool!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 543 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Hawtio 在生产环境中的可用性为中等。它适合用于内部工作流�
 | forks | 68/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

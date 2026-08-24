@@ -1,6 +1,6 @@
 # iFurySt/open-codex-computer-use
 
-[![Stars](https://img.shields.io/github/stars/iFurySt/open-codex-computer-use?style=flat-square&color=yellow)](https://github.com/iFurySt/open-codex-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/iFurySt/open-codex-computer-use?style=flat-square&color=blue)](https://github.com/iFurySt/open-codex-computer-use/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iFurySt/open-codex-computer-use?style=flat-square&color=yellow)](https://github.com/iFurySt/open-codex-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/iFurySt/open-codex-computer-use?style=flat-square&color=blue)](https://github.com/iFurySt/open-codex-computer-use/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 705 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ iFurySt/open-codex-computer-use 是一个开源实现，提供 **Model Context P
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

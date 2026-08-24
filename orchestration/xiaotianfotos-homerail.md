@@ -1,6 +1,6 @@
 # xiaotianfotos/homerail
 
-[![Stars](https://img.shields.io/github/stars/xiaotianfotos/homerail?style=flat-square&color=yellow)](https://github.com/xiaotianfotos/homerail/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotianfotos/homerail?style=flat-square&color=blue)](https://github.com/xiaotianfotos/homerail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaotianfotos/homerail?style=flat-square&color=yellow)](https://github.com/xiaotianfotos/homerail/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotianfotos/homerail?style=flat-square&color=blue)](https://github.com/xiaotianfotos/homerail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Voice-first local agent orchestration runtime for auditable DAG workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ xiaotianfotos/homerail 将零散的 Prompt 与工具包装成可审计的 DAG �
 | forks | 51/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

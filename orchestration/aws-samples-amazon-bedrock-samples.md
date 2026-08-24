@@ -1,6 +1,6 @@
 # aws-samples/amazon-bedrock-samples
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-samples?style=flat-square&color=yellow)](https://github.com/aws-samples/amazon-bedrock-samples/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-samples?style=flat-square&color=blue)](https://github.com/aws-samples/amazon-bedrock-samples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/amazon-bedrock-samples?style=flat-square&color=yellow)](https://github.com/aws-samples/amazon-bedrock-samples/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/amazon-bedrock-samples?style=flat-square&color=blue)](https://github.com/aws-samples/amazon-bedrock-samples/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 679 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Education
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ aws‑samples/amazon‑bedrock‑samples 为开发者提供了完整的 Amazon B
 | forks | 71/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

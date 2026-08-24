@@ -1,6 +1,6 @@
 # ioBroker/ioBroker.zigbee
 
-[![Stars](https://img.shields.io/github/stars/ioBroker/ioBroker.zigbee?style=flat-square&color=yellow)](https://github.com/ioBroker/ioBroker.zigbee/stargazers) [![Forks](https://img.shields.io/github/forks/ioBroker/ioBroker.zigbee?style=flat-square&color=blue)](https://github.com/ioBroker/ioBroker.zigbee/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ioBroker/ioBroker.zigbee?style=flat-square&color=yellow)](https://github.com/ioBroker/ioBroker.zigbee/stargazers) [![Forks](https://img.shields.io/github/forks/ioBroker/ioBroker.zigbee?style=flat-square&color=blue)](https://github.com/ioBroker/ioBroker.zigbee/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Zigbee communcation with Hue, Xiaomi, Lighttify... via TI CC2xxx USB stick
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ ioBroker/ioBroker.zigbee 的生产可用性为中等（Medium）。它适合用�
 | forks | 57/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

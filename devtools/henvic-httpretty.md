@@ -1,6 +1,6 @@
 # henvic/httpretty
 
-[![Stars](https://img.shields.io/github/stars/henvic/httpretty?style=flat-square&color=yellow)](https://github.com/henvic/httpretty/stargazers) [![Forks](https://img.shields.io/github/forks/henvic/httpretty?style=flat-square&color=blue)](https://github.com/henvic/httpretty/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/henvic/httpretty?style=flat-square&color=yellow)](https://github.com/henvic/httpretty/stargazers) [![Forks](https://img.shields.io/github/forks/henvic/httpretty?style=flat-square&color=blue)](https://github.com/henvic/httpretty/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ henvic/httpretty 能让 Go 开发者在终端直接看到格式化的 HTTP 请�
 | forks | 31/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

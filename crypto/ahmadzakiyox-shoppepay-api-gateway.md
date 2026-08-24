@@ -1,6 +1,6 @@
 # ahmadzakiyox/shoppepay-api-gateway
 
-[![Stars](https://img.shields.io/github/stars/ahmadzakiyox/shoppepay-api-gateway?style=flat-square&color=yellow)](https://github.com/ahmadzakiyox/shoppepay-api-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/ahmadzakiyox/shoppepay-api-gateway?style=flat-square&color=blue)](https://github.com/ahmadzakiyox/shoppepay-api-gateway/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahmadzakiyox/shoppepay-api-gateway?style=flat-square&color=yellow)](https://github.com/ahmadzakiyox/shoppepay-api-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/ahmadzakiyox/shoppepay-api-gateway?style=flat-square&color=blue)](https://github.com/ahmadzakiyox/shoppepay-api-gateway/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Gateway API ShopeePay stateless berkinerja tinggi untuk integrasi pembayaran otomatis, verifikasi transaksi QRIS, dan penanganan webhook.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Automation · Backend
+Crypto · Payments · Automation
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ ahmadzakiyox/shoppepay-api-gateway 的生产可用性为中等。虽然它可以
 | forks | 43/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

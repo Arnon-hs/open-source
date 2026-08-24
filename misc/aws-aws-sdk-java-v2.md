@@ -1,6 +1,6 @@
 # aws/aws-sdk-java-v2
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-sdk-java-v2?style=flat-square&color=yellow)](https://github.com/aws/aws-sdk-java-v2/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-sdk-java-v2?style=flat-square&color=blue)](https://github.com/aws/aws-sdk-java-v2/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-sdk-java-v2?style=flat-square&color=yellow)](https://github.com/aws/aws-sdk-java-v2/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-sdk-java-v2?style=flat-square&color=blue)](https://github.com/aws/aws-sdk-java-v2/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The official AWS SDK for Java - Version 2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ AWS SDK for Java - Version 2 是官方的 Java SDK，用于与 AWS 服务进行�
 | forks | 75/100 |
 | stars | 73/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

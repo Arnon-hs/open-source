@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | sentence-transformers |
 | 📈 **Score** | 29/100 |
-| 🗓️ **Last push** | 2025-01-09 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database · Education
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -115,6 +115,7 @@ To adopt this project, follow these steps:
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

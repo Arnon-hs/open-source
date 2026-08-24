@@ -1,6 +1,6 @@
 # xLLM-AI/xllm
 
-[![Stars](https://img.shields.io/github/stars/xLLM-AI/xllm?style=flat-square&color=yellow)](https://github.com/xLLM-AI/xllm/stargazers) [![Forks](https://img.shields.io/github/forks/xLLM-AI/xllm?style=flat-square&color=blue)](https://github.com/xLLM-AI/xllm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xLLM-AI/xllm?style=flat-square&color=yellow)](https://github.com/xLLM-AI/xllm/stargazers) [![Forks](https://img.shields.io/github/forks/xLLM-AI/xllm?style=flat-square&color=blue)](https://github.com/xLLM-AI/xllm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 277 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ xLLM-AI/xllm 的生产可用性较高，因为它有以下信号：
 | forks | 61/100 |
 | stars | 68/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

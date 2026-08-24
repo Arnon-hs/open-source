@@ -1,6 +1,6 @@
 # AlizaMedicalImaging/AlizaMS
 
-[![Stars](https://img.shields.io/github/stars/AlizaMedicalImaging/AlizaMS?style=flat-square&color=yellow)](https://github.com/AlizaMedicalImaging/AlizaMS/stargazers) [![Forks](https://img.shields.io/github/forks/AlizaMedicalImaging/AlizaMS?style=flat-square&color=blue)](https://github.com/AlizaMedicalImaging/AlizaMS/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlizaMedicalImaging/AlizaMS?style=flat-square&color=yellow)](https://github.com/AlizaMedicalImaging/AlizaMS/stargazers) [![Forks](https://img.shields.io/github/forks/AlizaMedicalImaging/AlizaMS?style=flat-square&color=blue)](https://github.com/AlizaMedicalImaging/AlizaMS/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > DICOM Viewer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ AlizaMedicalImaging/AlizaMS 是一款基于 C++ 的开源 DICOM 查看器，支�
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
-| usefulness | 42/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

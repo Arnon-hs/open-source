@@ -1,6 +1,6 @@
 # moellere/WireStudio
 
-[![Stars](https://img.shields.io/github/stars/moellere/WireStudio?style=flat-square&color=yellow)](https://github.com/moellere/WireStudio/stargazers) [![Forks](https://img.shields.io/github/forks/moellere/WireStudio?style=flat-square&color=blue)](https://github.com/moellere/WireStudio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moellere/WireStudio?style=flat-square&color=yellow)](https://github.com/moellere/WireStudio/stargazers) [![Forks](https://img.shields.io/github/forks/moellere/WireStudio?style=flat-square&color=blue)](https://github.com/moellere/WireStudio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-driven design studio for ESPHome-compatible (e.g. ESP32/ESP8266, RP2040) + LoRaWAN devices: generates ESPHome YAML, KiCad schematic/PCB, 3D-printable enclosures, and builds/flashes/provisions LoRaWAN firmware (ChirpStack + Home Assistant).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Database
+MCP · AI/ML · Design
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ moellere/WireStudio 是一个面向 ESPHome‑兼容（如 ESP32/ESP8266、RP204
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

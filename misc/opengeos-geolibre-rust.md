@@ -1,6 +1,6 @@
 # opengeos/geolibre-rust
 
-[![Stars](https://img.shields.io/github/stars/opengeos/geolibre-rust?style=flat-square&color=yellow)](https://github.com/opengeos/geolibre-rust/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/geolibre-rust?style=flat-square&color=blue)](https://github.com/opengeos/geolibre-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengeos/geolibre-rust?style=flat-square&color=yellow)](https://github.com/opengeos/geolibre-rust/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/geolibre-rust?style=flat-square&color=blue)](https://github.com/opengeos/geolibre-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ opengeos/geolibre-rust 是一个开源项目，提供了白盒 Next Gen 地理�
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

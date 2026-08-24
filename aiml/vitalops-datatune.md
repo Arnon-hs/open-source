@@ -1,6 +1,6 @@
 # vitalops/datatune
 
-[![Stars](https://img.shields.io/github/stars/vitalops/datatune?style=flat-square&color=yellow)](https://github.com/vitalops/datatune/stargazers) [![Forks](https://img.shields.io/github/forks/vitalops/datatune?style=flat-square&color=blue)](https://github.com/vitalops/datatune/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitalops/datatune?style=flat-square&color=yellow)](https://github.com/vitalops/datatune/stargazers) [![Forks](https://img.shields.io/github/forks/vitalops/datatune?style=flat-square&color=blue)](https://github.com/vitalops/datatune/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic data transformation on infinite amounts of data
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ vitalops/datatune 的生产可用性为中等，适合用在原型开发和内�
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pivanov/ctx-wire
 
-[![Stars](https://img.shields.io/github/stars/pivanov/ctx-wire?style=flat-square&color=yellow)](https://github.com/pivanov/ctx-wire/stargazers) [![Forks](https://img.shields.io/github/forks/pivanov/ctx-wire?style=flat-square&color=blue)](https://github.com/pivanov/ctx-wire/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pivanov/ctx-wire?style=flat-square&color=yellow)](https://github.com/pivanov/ctx-wire/stargazers) [![Forks](https://img.shields.io/github/forks/pivanov/ctx-wire?style=flat-square&color=blue)](https://github.com/pivanov/ctx-wire/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ctx-wire runs your commands, compresses the output with declarative filters, scrubs secrets, and hands your agent a short result. The full log stays on disk for when something actually fails. Cut the noise on the wire.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -152,14 +152,15 @@ AI/ML · DevTools · Product
 | forks | 8/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

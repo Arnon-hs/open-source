@@ -1,6 +1,6 @@
 # Jwuthri/Tracely
 
-[![Stars](https://img.shields.io/github/stars/Jwuthri/Tracely?style=flat-square&color=yellow)](https://github.com/Jwuthri/Tracely/stargazers) [![Forks](https://img.shields.io/github/forks/Jwuthri/Tracely?style=flat-square&color=blue)](https://github.com/Jwuthri/Tracely/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jwuthri/Tracely?style=flat-square&color=yellow)](https://github.com/Jwuthri/Tracely/stargazers) [![Forks](https://img.shields.io/github/forks/Jwuthri/Tracely?style=flat-square&color=blue)](https://github.com/Jwuthri/Tracely/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Observability · Product
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Jwuthri/Tracely 通过把生产环境中的 AI Agent 失败自动转化为可重
 | forks | 19/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

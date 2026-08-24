@@ -1,6 +1,6 @@
 # Natfii/ue5-mcp-bridge
 
-[![Stars](https://img.shields.io/github/stars/Natfii/ue5-mcp-bridge?style=flat-square&color=yellow)](https://github.com/Natfii/ue5-mcp-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/Natfii/ue5-mcp-bridge?style=flat-square&color=blue)](https://github.com/Natfii/ue5-mcp-bridge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Natfii/ue5-mcp-bridge?style=flat-square&color=yellow)](https://github.com/Natfii/ue5-mcp-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/Natfii/ue5-mcp-bridge?style=flat-square&color=blue)](https://github.com/Natfii/ue5-mcp-bridge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server bridging AI assistants to Unreal Engine 5 editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Natfii/ue5-mcp-bridge 是一个开源的 Model Context Protocol（MCP）服务�
 | forks | 31/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

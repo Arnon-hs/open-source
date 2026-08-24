@@ -1,6 +1,6 @@
 # curvefi/curve-core
 
-[![Stars](https://img.shields.io/github/stars/curvefi/curve-core?style=flat-square&color=yellow)](https://github.com/curvefi/curve-core/stargazers) [![Forks](https://img.shields.io/github/forks/curvefi/curve-core?style=flat-square&color=blue)](https://github.com/curvefi/curve-core/network) [![Language](https://img.shields.io/badge/lang-Vyper-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/curvefi/curve-core?style=flat-square&color=yellow)](https://github.com/curvefi/curve-core/stargazers) [![Forks](https://img.shields.io/github/forks/curvefi/curve-core?style=flat-square&color=blue)](https://github.com/curvefi/curve-core/network) [![Language](https://img.shields.io/badge/lang-Vyper-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy a standardised set of smart contracts powering Curve.fi with a simple CLI command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Vyper |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ curvefi/curve-core：curvefi/curve-core helps prototype or inspect blockchain wo
 | forks | 44/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

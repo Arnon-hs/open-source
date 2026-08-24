@@ -1,6 +1,6 @@
 # marmelab/react-admin
 
-[![Stars](https://img.shields.io/github/stars/marmelab/react-admin?style=flat-square&color=yellow)](https://github.com/marmelab/react-admin/stargazers) [![Forks](https://img.shields.io/github/forks/marmelab/react-admin?style=flat-square&color=blue)](https://github.com/marmelab/react-admin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marmelab/react-admin?style=flat-square&color=yellow)](https://github.com/marmelab/react-admin/stargazers) [![Forks](https://img.shields.io/github/forks/marmelab/react-admin?style=flat-square&color=blue)](https://github.com/marmelab/react-admin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.9k |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Design
+Frontend · Design
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ marmelab/react-admin 的生产可用性非常高，理由如下：
 | forks | 93/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 97/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 83/100 |
+| quality | 87/100 |
+| recency | 60/100 |
 | adoption | 94/100 |
-| production | 85/100 |
+| production | 72/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

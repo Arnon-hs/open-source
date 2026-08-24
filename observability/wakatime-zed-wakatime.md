@@ -1,6 +1,6 @@
 # wakatime/zed-wakatime
 
-[![Stars](https://img.shields.io/github/stars/wakatime/zed-wakatime?style=flat-square&color=yellow)](https://github.com/wakatime/zed-wakatime/stargazers) [![Forks](https://img.shields.io/github/forks/wakatime/zed-wakatime?style=flat-square&color=blue)](https://github.com/wakatime/zed-wakatime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wakatime/zed-wakatime?style=flat-square&color=yellow)](https://github.com/wakatime/zed-wakatime/stargazers) [![Forks](https://img.shields.io/github/forks/wakatime/zed-wakatime?style=flat-square&color=blue)](https://github.com/wakatime/zed-wakatime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Zed plugin for automatic time tracking and metrics generated from your programming activity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ wakatime/zed-wakatime 是一个用于自动跟踪和统计编程活动的 Zed �
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

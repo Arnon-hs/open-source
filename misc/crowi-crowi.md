@@ -1,6 +1,6 @@
 # crowi/crowi
 
-[![Stars](https://img.shields.io/github/stars/crowi/crowi?style=flat-square&color=yellow)](https://github.com/crowi/crowi/stargazers) [![Forks](https://img.shields.io/github/forks/crowi/crowi?style=flat-square&color=blue)](https://github.com/crowi/crowi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crowi/crowi?style=flat-square&color=yellow)](https://github.com/crowi/crowi/stargazers) [![Forks](https://img.shields.io/github/forks/crowi/crowi?style=flat-square&color=blue)](https://github.com/crowi/crowi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Crowi - The Markdown Wiki - Empower the team with sharing your knowledge
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Crowi 的生产可用性非常高，理由如下：
 | forks | 55/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

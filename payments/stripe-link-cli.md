@@ -1,6 +1,6 @@
 # stripe/link-cli
 
-[![Stars](https://img.shields.io/github/stars/stripe/link-cli?style=flat-square&color=yellow)](https://github.com/stripe/link-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/link-cli?style=flat-square&color=blue)](https://github.com/stripe/link-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/link-cli?style=flat-square&color=yellow)](https://github.com/stripe/link-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/link-cli?style=flat-square&color=blue)](https://github.com/stripe/link-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 641 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Payments · AI/ML · DevTools
+Payments
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ stripe/link-cli 的价值在于，它帮助开发者快速集成支付流程，�
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # HelpCode-ai/anythingmcp
 
-[![Stars](https://img.shields.io/github/stars/HelpCode-ai/anythingmcp?style=flat-square&color=yellow)](https://github.com/HelpCode-ai/anythingmcp/stargazers) [![Forks](https://img.shields.io/github/forks/HelpCode-ai/anythingmcp?style=flat-square&color=blue)](https://github.com/HelpCode-ai/anythingmcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HelpCode-ai/anythingmcp?style=flat-square&color=yellow)](https://github.com/HelpCode-ai/anythingmcp/stargazers) [![Forks](https://img.shields.io/github/forks/HelpCode-ai/anythingmcp?style=flat-square&color=blue)](https://github.com/HelpCode-ai/anythingmcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted MCP gateway & API-to-MCP bridge. Convert REST/SOAP/WSDL/GraphQL/SQL APIs into MCP servers for Claude, ChatGPT, Gemini, Copilot, Cursor. OpenAPI/Postman/WSDL import, OAuth2, RBAC, audit log. 29 pre-built adapters (DHL, DATEV, Weclapp, Personio, Handelsregister, Shopware...). Source-available.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Data
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -133,14 +133,15 @@ HelpCode‑ai/anythingmcp 是一套自托管的 **MCP（Model Context Protocol�
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

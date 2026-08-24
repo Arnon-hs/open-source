@@ -1,6 +1,6 @@
 # gensecaihq/Wazuh-Autopilot
 
-[![Stars](https://img.shields.io/github/stars/gensecaihq/Wazuh-Autopilot?style=flat-square&color=yellow)](https://github.com/gensecaihq/Wazuh-Autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/Wazuh-Autopilot?style=flat-square&color=blue)](https://github.com/gensecaihq/Wazuh-Autopilot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gensecaihq/Wazuh-Autopilot?style=flat-square&color=yellow)](https://github.com/gensecaihq/Wazuh-Autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/Wazuh-Autopilot?style=flat-square&color=blue)](https://github.com/gensecaihq/Wazuh-Autopilot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous SOC layer for Wazuh using OpenClaw agents with MCP . Auto-triage alerts, correlate incidents,           generate response plans with human-in-the-loop approval. Evidence packs, Prometheus metrics, Slack       integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ gensecaihq/Wazuh-Autopilot是一个开源项目，提供了一个自治安全运
 | forks | 29/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

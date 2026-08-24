@@ -1,6 +1,6 @@
 # jplock/awesome-fintech
 
-[![Stars](https://img.shields.io/github/stars/jplock/awesome-fintech?style=flat-square&color=yellow)](https://github.com/jplock/awesome-fintech/stargazers) [![Forks](https://img.shields.io/github/forks/jplock/awesome-fintech?style=flat-square&color=blue)](https://github.com/jplock/awesome-fintech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jplock/awesome-fintech?style=flat-square&color=yellow)](https://github.com/jplock/awesome-fintech/stargazers) [![Forks](https://img.shields.io/github/forks/jplock/awesome-fintech?style=flat-square&color=blue)](https://github.com/jplock/awesome-fintech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of awesome Fintech startup companies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML · Backend · Product
+Crypto · Payments · Backend · Product
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ jplock/awesome-fintech 的生产可用性被评为中等（Medium），适合用
 | forks | 43/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # luben/zstd-jni
 
-[![Stars](https://img.shields.io/github/stars/luben/zstd-jni?style=flat-square&color=yellow)](https://github.com/luben/zstd-jni/stargazers) [![Forks](https://img.shields.io/github/forks/luben/zstd-jni?style=flat-square&color=blue)](https://github.com/luben/zstd-jni/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luben/zstd-jni?style=flat-square&color=yellow)](https://github.com/luben/zstd-jni/stargazers) [![Forks](https://img.shields.io/github/forks/luben/zstd-jni?style=flat-square&color=blue)](https://github.com/luben/zstd-jni/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > JNI binding for Zstd
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 212 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ luben/zstd-jni 的价值在于它可以帮助 Java 应用程序轻松地使用 Z
 | forks | 58/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ospfranco/sol
 
-[![Stars](https://img.shields.io/github/stars/ospfranco/sol?style=flat-square&color=yellow)](https://github.com/ospfranco/sol/stargazers) [![Forks](https://img.shields.io/github/forks/ospfranco/sol?style=flat-square&color=blue)](https://github.com/ospfranco/sol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ospfranco/sol?style=flat-square&color=yellow)](https://github.com/ospfranco/sol/stargazers) [![Forks](https://img.shields.io/github/forks/ospfranco/sol?style=flat-square&color=blue)](https://github.com/ospfranco/sol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MacOS launcher & command palette
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Overall, `ospfranco/sol` is a high‑readiness OSS candidate that can be piloted
 | forks | 56/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

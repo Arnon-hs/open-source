@@ -1,6 +1,6 @@
 # sveltejs/cli
 
-[![Stars](https://img.shields.io/github/stars/sveltejs/cli?style=flat-square&color=yellow)](https://github.com/sveltejs/cli/stargazers) [![Forks](https://img.shields.io/github/forks/sveltejs/cli?style=flat-square&color=blue)](https://github.com/sveltejs/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sveltejs/cli?style=flat-square&color=yellow)](https://github.com/sveltejs/cli/stargazers) [![Forks](https://img.shields.io/github/forks/sveltejs/cli?style=flat-square&color=blue)](https://github.com/sveltejs/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The Svelte CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ The Svelte CLI (`sveltejs/cli`) is a TypeScript‑based command‑line tool that
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

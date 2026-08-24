@@ -1,6 +1,6 @@
 # umbraco/Umbraco-CMS
 
-[![Stars](https://img.shields.io/github/stars/umbraco/Umbraco-CMS?style=flat-square&color=yellow)](https://github.com/umbraco/Umbraco-CMS/stargazers) [![Forks](https://img.shields.io/github/forks/umbraco/Umbraco-CMS?style=flat-square&color=blue)](https://github.com/umbraco/Umbraco-CMS/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umbraco/Umbraco-CMS?style=flat-square&color=yellow)](https://github.com/umbraco/Umbraco-CMS/stargazers) [![Forks](https://img.shields.io/github/forks/umbraco/Umbraco-CMS?style=flat-square&color=blue)](https://github.com/umbraco/Umbraco-CMS/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Umbraco CMS 的生产可用性非常高。根据 GitHub 的数据，项目有 52
 | forks | 87/100 |
 | stars | 79/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

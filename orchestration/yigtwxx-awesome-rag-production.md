@@ -1,6 +1,6 @@
 # Yigtwxx/awesome-rag-production
 
-[![Stars](https://img.shields.io/github/stars/Yigtwxx/awesome-rag-production?style=flat-square&color=yellow)](https://github.com/Yigtwxx/awesome-rag-production/stargazers) [![Forks](https://img.shields.io/github/forks/Yigtwxx/awesome-rag-production?style=flat-square&color=blue)](https://github.com/Yigtwxx/awesome-rag-production/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yigtwxx/awesome-rag-production?style=flat-square&color=yellow)](https://github.com/Yigtwxx/awesome-rag-production/stargazers) [![Forks](https://img.shields.io/github/forks/Yigtwxx/awesome-rag-production?style=flat-square&color=blue)](https://github.com/Yigtwxx/awesome-rag-production/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · DevTools
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Yigtwxx/awesome‑rag‑production 汇总了在实际业务中经受考验的 RA
 | forks | 38/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

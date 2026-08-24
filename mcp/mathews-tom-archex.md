@@ -1,6 +1,6 @@
 # Mathews-Tom/archex
 
-[![Stars](https://img.shields.io/github/stars/Mathews-Tom/archex?style=flat-square&color=yellow)](https://github.com/Mathews-Tom/archex/stargazers) [![Forks](https://img.shields.io/github/forks/Mathews-Tom/archex?style=flat-square&color=blue)](https://github.com/Mathews-Tom/archex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mathews-Tom/archex?style=flat-square&color=yellow)](https://github.com/Mathews-Tom/archex/stargazers) [![Forks](https://img.shields.io/github/forks/Mathews-Tom/archex?style=flat-square&color=blue)](https://github.com/Mathews-Tom/archex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Verified code context for agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · DevTools
+MCP · Knowledge/RAG · DevTools
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Mathews-Tom/archex 的生产可用性为
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

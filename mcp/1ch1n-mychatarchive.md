@@ -1,6 +1,6 @@
 # 1ch1n/mychatarchive
 
-[![Stars](https://img.shields.io/github/stars/1ch1n/mychatarchive?style=flat-square&color=yellow)](https://github.com/1ch1n/mychatarchive/stargazers) [![Forks](https://img.shields.io/github/forks/1ch1n/mychatarchive?style=flat-square&color=blue)](https://github.com/1ch1n/mychatarchive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1ch1n/mychatarchive?style=flat-square&color=yellow)](https://github.com/1ch1n/mychatarchive/stargazers) [![Forks](https://img.shields.io/github/forks/1ch1n/mychatarchive?style=flat-square&color=blue)](https://github.com/1ch1n/mychatarchive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI memory archive. Import ChatGPT, Claude, and Grok exports, generate semantic embeddings, and search via MCP server. Zero cloud, zero cost.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -153,14 +153,15 @@ Overall, mychatarchive offers a low‑cost, privacy‑preserving way to give AI 
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

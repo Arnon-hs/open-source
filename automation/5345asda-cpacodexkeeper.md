@@ -1,6 +1,6 @@
 # 5345asda/CPACodexKeeper
 
-[![Stars](https://img.shields.io/github/stars/5345asda/CPACodexKeeper?style=flat-square&color=yellow)](https://github.com/5345asda/CPACodexKeeper/stargazers) [![Forks](https://img.shields.io/github/forks/5345asda/CPACodexKeeper?style=flat-square&color=blue)](https://github.com/5345asda/CPACodexKeeper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/5345asda/CPACodexKeeper?style=flat-square&color=yellow)](https://github.com/5345asda/CPACodexKeeper/stargazers) [![Forks](https://img.shields.io/github/forks/5345asda/CPACodexKeeper?style=flat-square&color=blue)](https://github.com/5345asda/CPACodexKeeper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Maintain CPA-managed codex tokens with quota checks, auto refresh, disable/enable logic, and Docker support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · DevOps/Infra
+Automation · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Automation · AI/ML · DevTools · DevOps/Infra
 | forks | 40/100 |
 | stars | 49/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

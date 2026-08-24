@@ -1,6 +1,6 @@
 # zwave-js/zwave-js
 
-[![Stars](https://img.shields.io/github/stars/zwave-js/zwave-js?style=flat-square&color=yellow)](https://github.com/zwave-js/zwave-js/stargazers) [![Forks](https://img.shields.io/github/forks/zwave-js/zwave-js?style=flat-square&color=blue)](https://github.com/zwave-js/zwave-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zwave-js/zwave-js?style=flat-square&color=yellow)](https://github.com/zwave-js/zwave-js/stargazers) [![Forks](https://img.shields.io/github/forks/zwave-js/zwave-js?style=flat-square&color=blue)](https://github.com/zwave-js/zwave-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Modern and standards-compliant Z-Wave device driver that runs almost anywhere
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 878 |
 | 🍴 **Forks** | 716 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ zwave-js/zwave-js 是一套现代化、符合 Z‑Wave 标准的设备驱动，�
 | forks | 71/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

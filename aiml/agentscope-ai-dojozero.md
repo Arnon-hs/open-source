@@ -1,6 +1,6 @@
 # agentscope-ai/DojoZero
 
-[![Stars](https://img.shields.io/github/stars/agentscope-ai/DojoZero?style=flat-square&color=yellow)](https://github.com/agentscope-ai/DojoZero/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/DojoZero?style=flat-square&color=blue)](https://github.com/agentscope-ai/DojoZero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentscope-ai/DojoZero?style=flat-square&color=yellow)](https://github.com/agentscope-ai/DojoZero/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/DojoZero?style=flat-square&color=blue)](https://github.com/agentscope-ai/DojoZero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A platform for running AI agents on realtime sport data and make predictions about game outcomes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ DojoZero 的生产可用性被评估为中等。它适合用于原型开发或�
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

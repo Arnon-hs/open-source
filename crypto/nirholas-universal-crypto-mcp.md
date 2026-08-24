@@ -1,6 +1,6 @@
 # nirholas/universal-crypto-mcp
 
-[![Stars](https://img.shields.io/github/stars/nirholas/universal-crypto-mcp?style=flat-square&color=yellow)](https://github.com/nirholas/universal-crypto-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/universal-crypto-mcp?style=flat-square&color=blue)](https://github.com/nirholas/universal-crypto-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/universal-crypto-mcp?style=flat-square&color=yellow)](https://github.com/nirholas/universal-crypto-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/universal-crypto-mcp?style=flat-square&color=blue)](https://github.com/nirholas/universal-crypto-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas, staking, lending, and more across Ethereum, Arbitrum, Base, Polygon, BSC, and testnets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · MCP · AI/ML · Backend · DevTools
+Crypto · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ nirholas/universal-crypto-mcp 是一个开源项目，提供了一个通用MCP�
 | forks | 27/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

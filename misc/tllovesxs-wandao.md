@@ -1,6 +1,6 @@
 # tllovesxs/wandao
 
-[![Stars](https://img.shields.io/github/stars/tllovesxs/wandao?style=flat-square&color=yellow)](https://github.com/tllovesxs/wandao/stargazers) [![Forks](https://img.shields.io/github/forks/tllovesxs/wandao?style=flat-square&color=blue)](https://github.com/tllovesxs/wandao/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tllovesxs/wandao?style=flat-square&color=yellow)](https://github.com/tllovesxs/wandao/stargazers) [![Forks](https://img.shields.io/github/forks/tllovesxs/wandao?style=flat-square&color=blue)](https://github.com/tllovesxs/wandao/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 万能导：多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好)，用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为之笔记导出导入).(可保留目录结构,图片,项目格式) 关键词:语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,为之笔记导出,onenote导出
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ wandao - это мощный инструмент для импорта и эк�
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

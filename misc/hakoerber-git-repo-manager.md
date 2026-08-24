@@ -1,6 +1,6 @@
 # hakoerber/git-repo-manager
 
-[![Stars](https://img.shields.io/github/stars/hakoerber/git-repo-manager?style=flat-square&color=yellow)](https://github.com/hakoerber/git-repo-manager/stargazers) [![Forks](https://img.shields.io/github/forks/hakoerber/git-repo-manager?style=flat-square&color=blue)](https://github.com/hakoerber/git-repo-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hakoerber/git-repo-manager?style=flat-square&color=yellow)](https://github.com/hakoerber/git-repo-manager/stargazers) [![Forks](https://img.shields.io/github/forks/hakoerber/git-repo-manager?style=flat-square&color=blue)](https://github.com/hakoerber/git-repo-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A git tool to manage worktrees and integrate with GitHub and GitLab
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ hakoerber/git-repo-manager 的价值在于，它可以帮助开发者管理工�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

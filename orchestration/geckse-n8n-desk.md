@@ -1,6 +1,6 @@
 # geckse/n8n-desk
 
-[![Stars](https://img.shields.io/github/stars/geckse/n8n-desk?style=flat-square&color=yellow)](https://github.com/geckse/n8n-desk/stargazers) [![Forks](https://img.shields.io/github/forks/geckse/n8n-desk?style=flat-square&color=blue)](https://github.com/geckse/n8n-desk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geckse/n8n-desk?style=flat-square&color=yellow)](https://github.com/geckse/n8n-desk/stargazers) [![Forks](https://img.shields.io/github/forks/geckse/n8n-desk?style=flat-square&color=blue)](https://github.com/geckse/n8n-desk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Bringing n8n to your Machine — a desktop & mobile companion app for n8n. Chat with agents, build workflows conversationally, work with local files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Database
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ geckse/n8n-desk 的生产可用性被评估为中等（Medium）。它适合用�
 | forks | 24/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

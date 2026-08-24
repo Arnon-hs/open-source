@@ -1,6 +1,6 @@
 # zhaotoday/fingerprint-browser
 
-[![Stars](https://img.shields.io/github/stars/zhaotoday/fingerprint-browser?style=flat-square&color=yellow)](https://github.com/zhaotoday/fingerprint-browser/stargazers) [![Forks](https://img.shields.io/github/forks/zhaotoday/fingerprint-browser?style=flat-square&color=blue)](https://github.com/zhaotoday/fingerprint-browser/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhaotoday/fingerprint-browser?style=flat-square&color=yellow)](https://github.com/zhaotoday/fingerprint-browser/stargazers) [![Forks](https://img.shields.io/github/forks/zhaotoday/fingerprint-browser?style=flat-square&color=blue)](https://github.com/zhaotoday/fingerprint-browser/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ zhaotoday/fingerprint-browser 是一个开源项目，旨在提供防关联浏�
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

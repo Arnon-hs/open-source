@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-06-02 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,6 +102,7 @@ Reaqtor 是基于 Reactive Extensions（Rx）的分布式事件处理框架，�
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

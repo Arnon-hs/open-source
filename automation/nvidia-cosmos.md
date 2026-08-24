@@ -1,6 +1,6 @@
 # NVIDIA/cosmos
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/cosmos?style=flat-square&color=yellow)](https://github.com/NVIDIA/cosmos/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cosmos?style=flat-square&color=blue)](https://github.com/NVIDIA/cosmos/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/cosmos?style=flat-square&color=yellow)](https://github.com/NVIDIA/cosmos/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cosmos?style=flat-square&color=blue)](https://github.com/NVIDIA/cosmos/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 760 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Data
+Automation
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ NVIDIA/cosmos 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 72/100 |
 | stars | 86/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

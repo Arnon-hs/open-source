@@ -1,6 +1,6 @@
 # 7ritn/VaulTLS
 
-[![Stars](https://img.shields.io/github/stars/7ritn/VaulTLS?style=flat-square&color=yellow)](https://github.com/7ritn/VaulTLS/stargazers) [![Forks](https://img.shields.io/github/forks/7ritn/VaulTLS?style=flat-square&color=blue)](https://github.com/7ritn/VaulTLS/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/7ritn/VaulTLS?style=flat-square&color=yellow)](https://github.com/7ritn/VaulTLS/stargazers) [![Forks](https://img.shields.io/github/forks/7ritn/VaulTLS?style=flat-square&color=blue)](https://github.com/7ritn/VaulTLS/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Selfhostable web app to make managing mTLS certificates a breeze
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 860 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ To adopt VaulTLS, developers should start by evaluating the project through a sm
 | forks | 41/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

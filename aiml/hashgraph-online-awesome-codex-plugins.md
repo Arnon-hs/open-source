@@ -1,6 +1,6 @@
 # hashgraph-online/awesome-codex-plugins
 
-[![Stars](https://img.shields.io/github/stars/hashgraph-online/awesome-codex-plugins?style=flat-square&color=yellow)](https://github.com/hashgraph-online/awesome-codex-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/awesome-codex-plugins?style=flat-square&color=blue)](https://github.com/hashgraph-online/awesome-codex-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashgraph-online/awesome-codex-plugins?style=flat-square&color=yellow)](https://github.com/hashgraph-online/awesome-codex-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/awesome-codex-plugins?style=flat-square&color=blue)](https://github.com/hashgraph-online/awesome-codex-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome OpenAI Codex plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 567 |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ hashgraph-online/awesome-codex-plugins 是一个开源项目，收集了 OpenAI 
 | forks | 57/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

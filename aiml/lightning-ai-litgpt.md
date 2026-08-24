@@ -1,6 +1,6 @@
 # Lightning-AI/litgpt
 
-[![Stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square&color=yellow)](https://github.com/Lightning-AI/litgpt/stargazers) [![Forks](https://img.shields.io/github/forks/Lightning-AI/litgpt?style=flat-square&color=blue)](https://github.com/Lightning-AI/litgpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=flat-square&color=yellow)](https://github.com/Lightning-AI/litgpt/stargazers) [![Forks](https://img.shields.io/github/forks/Lightning-AI/litgpt?style=flat-square&color=blue)](https://github.com/Lightning-AI/litgpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Lightning‑AI 的 **litgpt** 提供 20 多种高性能大语言模型（LLM）�
 | forks | 79/100 |
 | stars | 88/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

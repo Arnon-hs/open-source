@@ -1,6 +1,6 @@
 # buildfastwithai/gen-ai-experiments
 
-[![Stars](https://img.shields.io/github/stars/buildfastwithai/gen-ai-experiments?style=flat-square&color=yellow)](https://github.com/buildfastwithai/gen-ai-experiments/stargazers) [![Forks](https://img.shields.io/github/forks/buildfastwithai/gen-ai-experiments?style=flat-square&color=blue)](https://github.com/buildfastwithai/gen-ai-experiments/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildfastwithai/gen-ai-experiments?style=flat-square&color=yellow)](https://github.com/buildfastwithai/gen-ai-experiments/stargazers) [![Forks](https://img.shields.io/github/forks/buildfastwithai/gen-ai-experiments?style=flat-square&color=blue)](https://github.com/buildfastwithai/gen-ai-experiments/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of Jupyter notebooks is designed to provide you with a comprehensive guide to various AI tools and technologies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 755 |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ buildfastwithai/gen-ai-experiments 的价值在于，它可以帮助开发者在
 | forks | 59/100 |
 | stars | 61/100 |
 | topics | 13/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # iamsrikanthnani/pluely
 
-[![Stars](https://img.shields.io/github/stars/iamsrikanthnani/pluely?style=flat-square&color=yellow)](https://github.com/iamsrikanthnani/pluely/stargazers) [![Forks](https://img.shields.io/github/forks/iamsrikanthnani/pluely?style=flat-square&color=blue)](https://github.com/iamsrikanthnani/pluely/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamsrikanthnani/pluely?style=flat-square&color=yellow)](https://github.com/iamsrikanthnani/pluely/stargazers) [![Forks](https://img.shields.io/github/forks/iamsrikanthnani/pluely?style=flat-square&color=blue)](https://github.com/iamsrikanthnani/pluely/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 481 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ iamsrikanthnani/pluely具有高生产可用性，理由如下：
 | forks | 67/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vlinx-io/VelaTerm
 
-[![Stars](https://img.shields.io/github/stars/vlinx-io/VelaTerm?style=flat-square&color=yellow)](https://github.com/vlinx-io/VelaTerm/stargazers) [![Forks](https://img.shields.io/github/forks/vlinx-io/VelaTerm?style=flat-square&color=blue)](https://github.com/vlinx-io/VelaTerm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vlinx-io/VelaTerm?style=flat-square&color=yellow)](https://github.com/vlinx-io/VelaTerm/stargazers) [![Forks](https://img.shields.io/github/forks/vlinx-io/VelaTerm?style=flat-square&color=blue)](https://github.com/vlinx-io/VelaTerm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The best terminal for AI Coding
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ VelaTerm 的生产可用性为中等（Medium），主要是因为它适用于�
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

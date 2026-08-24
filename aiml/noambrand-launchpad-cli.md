@@ -1,6 +1,6 @@
 # noambrand/Launchpad-CLI
 
-[![Stars](https://img.shields.io/github/stars/noambrand/Launchpad-CLI?style=flat-square&color=yellow)](https://github.com/noambrand/Launchpad-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/noambrand/Launchpad-CLI?style=flat-square&color=blue)](https://github.com/noambrand/Launchpad-CLI/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noambrand/Launchpad-CLI?style=flat-square&color=yellow)](https://github.com/noambrand/Launchpad-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/noambrand/Launchpad-CLI?style=flat-square&color=blue)](https://github.com/noambrand/Launchpad-CLI/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code Launchpad installer for Windows + macOS. Bundles Node.js, Git, Windows Terminal theme, Live status bar, Folder picker, Right-click launch, Named profiles, Flages.  Zero-to-Claude in under a minute
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Launchpad-CLI 的生产可用性为 中等。它适合用于快速 prototyping �
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

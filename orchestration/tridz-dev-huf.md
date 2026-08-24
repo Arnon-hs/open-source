@@ -1,6 +1,6 @@
 # tridz-dev/huf
 
-[![Stars](https://img.shields.io/github/stars/tridz-dev/huf?style=flat-square&color=yellow)](https://github.com/tridz-dev/huf/stargazers) [![Forks](https://img.shields.io/github/forks/tridz-dev/huf?style=flat-square&color=blue)](https://github.com/tridz-dev/huf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tridz-dev/huf?style=flat-square&color=yellow)](https://github.com/tridz-dev/huf/stargazers) [![Forks](https://img.shields.io/github/forks/tridz-dev/huf?style=flat-square&color=blue)](https://github.com/tridz-dev/huf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted multi-agent AI infrastructure for teams and apps with support for cloud and local models, tool integrations, workflows, and automation across business systems including Slack, ERPNext, Discord & Gmail.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevOps/Infra
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ tridz-dev/huf 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 40/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

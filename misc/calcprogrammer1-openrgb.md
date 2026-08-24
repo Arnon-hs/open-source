@@ -1,6 +1,6 @@
 # CalcProgrammer1/OpenRGB
 
-[![Stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=flat-square&color=yellow)](https://github.com/CalcProgrammer1/OpenRGB/stargazers) [![Forks](https://img.shields.io/github/forks/CalcProgrammer1/OpenRGB?style=flat-square&color=blue)](https://github.com/CalcProgrammer1/OpenRGB/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=flat-square&color=yellow)](https://github.com/CalcProgrammer1/OpenRGB/stargazers) [![Forks](https://img.shields.io/github/forks/CalcProgrammer1/OpenRGB?style=flat-square&color=blue)](https://github.com/CalcProgrammer1/OpenRGB/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 391 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ CalcProgrammer1/OpenRGB 是一个开源 RGB 灯控制项目，不依赖于制造
 | forks | 65/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 78/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

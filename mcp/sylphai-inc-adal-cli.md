@@ -1,6 +1,6 @@
 # SylphAI-Inc/adal-cli
 
-[![Stars](https://img.shields.io/github/stars/SylphAI-Inc/adal-cli?style=flat-square&color=yellow)](https://github.com/SylphAI-Inc/adal-cli/stargazers) [![Forks](https://img.shields.io/github/forks/SylphAI-Inc/adal-cli?style=flat-square&color=blue)](https://github.com/SylphAI-Inc/adal-cli/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SylphAI-Inc/adal-cli?style=flat-square&color=yellow)](https://github.com/SylphAI-Inc/adal-cli/stargazers) [![Forks](https://img.shields.io/github/forks/SylphAI-Inc/adal-cli?style=flat-square&color=blue)](https://github.com/SylphAI-Inc/adal-cli/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The self-evolving coding agent that learns from your entire team and codebase. Less syncing. Less waiting. Deliver at the speed of thought.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ SylphAI-Inc/adal-cli的生产可用性较高，主要是因为：
 | forks | 27/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

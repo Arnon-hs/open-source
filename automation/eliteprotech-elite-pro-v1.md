@@ -1,6 +1,6 @@
 # EliteProTech/ELITE-PRO-V1
 
-[![Stars](https://img.shields.io/github/stars/EliteProTech/ELITE-PRO-V1?style=flat-square&color=yellow)](https://github.com/EliteProTech/ELITE-PRO-V1/stargazers) [![Forks](https://img.shields.io/github/forks/EliteProTech/ELITE-PRO-V1?style=flat-square&color=blue)](https://github.com/EliteProTech/ELITE-PRO-V1/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EliteProTech/ELITE-PRO-V1?style=flat-square&color=yellow)](https://github.com/EliteProTech/ELITE-PRO-V1/stargazers) [![Forks](https://img.shields.io/github/forks/EliteProTech/ELITE-PRO-V1?style=flat-square&color=blue)](https://github.com/EliteProTech/ELITE-PRO-V1/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A rich-feature WhatsApp bot built for speed and versatility.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ EliteProTech/ELITE-PRO-V1 是一款功能丰富的 WhatsApp Bot，旨在通过�
 | forks | 81/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

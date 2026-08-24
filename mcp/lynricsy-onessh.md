@@ -1,6 +1,6 @@
 # Lynricsy/OneSSH
 
-[![Stars](https://img.shields.io/github/stars/Lynricsy/OneSSH?style=flat-square&color=yellow)](https://github.com/Lynricsy/OneSSH/stargazers) [![Forks](https://img.shields.io/github/forks/Lynricsy/OneSSH?style=flat-square&color=blue)](https://github.com/Lynricsy/OneSSH/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lynricsy/OneSSH?style=flat-square&color=yellow)](https://github.com/Lynricsy/OneSSH/stargazers) [![Forks](https://img.shields.io/github/forks/Lynricsy/OneSSH?style=flat-square&color=blue)](https://github.com/Lynricsy/OneSSH/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Lynricsy/OneSSH 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 25/100 |
 | stars | 37/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 70/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

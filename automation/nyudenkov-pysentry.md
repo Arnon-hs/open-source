@@ -1,6 +1,6 @@
 # nyudenkov/pysentry
 
-[![Stars](https://img.shields.io/github/stars/nyudenkov/pysentry?style=flat-square&color=yellow)](https://github.com/nyudenkov/pysentry/stargazers) [![Forks](https://img.shields.io/github/forks/nyudenkov/pysentry?style=flat-square&color=blue)](https://github.com/nyudenkov/pysentry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nyudenkov/pysentry?style=flat-square&color=yellow)](https://github.com/nyudenkov/pysentry/stargazers) [![Forks](https://img.shields.io/github/forks/nyudenkov/pysentry?style=flat-square&color=blue)](https://github.com/nyudenkov/pysentry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🐍 Scan your Python dependencies for known security vulnerabilities with Rust-powered scanner
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 245 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Security
+Automation · Security
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Here's a brief summary of the nyudenkov/pysentry project:
 | forks | 25/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

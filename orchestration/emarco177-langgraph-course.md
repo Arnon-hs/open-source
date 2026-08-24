@@ -1,6 +1,6 @@
 # emarco177/langgraph-course
 
-[![Stars](https://img.shields.io/github/stars/emarco177/langgraph-course?style=flat-square&color=yellow)](https://github.com/emarco177/langgraph-course/stargazers) [![Forks](https://img.shields.io/github/forks/emarco177/langgraph-course?style=flat-square&color=blue)](https://github.com/emarco177/langgraph-course/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emarco177/langgraph-course?style=flat-square&color=yellow)](https://github.com/emarco177/langgraph-course/stargazers) [![Forks](https://img.shields.io/github/forks/emarco177/langgraph-course?style=flat-square&color=blue)](https://github.com/emarco177/langgraph-course/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Hands-on LangGraph course repo for building production-grade LLM agents with Agentic RAG, ReAct, and reflection workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 638 |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ emarco177/langgraph-course 是一个开源项目，用于构建高效的 LLM 代
 | forks | 62/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

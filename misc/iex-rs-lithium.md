@@ -1,6 +1,6 @@
 # iex-rs/lithium
 
-[![Stars](https://img.shields.io/github/stars/iex-rs/lithium?style=flat-square&color=yellow)](https://github.com/iex-rs/lithium/stargazers) [![Forks](https://img.shields.io/github/forks/iex-rs/lithium?style=flat-square&color=blue)](https://github.com/iex-rs/lithium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iex-rs/lithium?style=flat-square&color=yellow)](https://github.com/iex-rs/lithium/stargazers) [![Forks](https://img.shields.io/github/forks/iex-rs/lithium?style=flat-square&color=blue)](https://github.com/iex-rs/lithium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight exceptions for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,14 +132,15 @@ fn main() -> Result<(), MyError> {
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 65/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

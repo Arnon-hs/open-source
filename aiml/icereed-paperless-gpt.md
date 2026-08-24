@@ -1,6 +1,6 @@
 # icereed/paperless-gpt
 
-[![Stars](https://img.shields.io/github/stars/icereed/paperless-gpt?style=flat-square&color=yellow)](https://github.com/icereed/paperless-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/icereed/paperless-gpt?style=flat-square&color=blue)](https://github.com/icereed/paperless-gpt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icereed/paperless-gpt?style=flat-square&color=yellow)](https://github.com/icereed/paperless-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/icereed/paperless-gpt?style=flat-square&color=blue)](https://github.com/icereed/paperless-gpt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ icereed/paperless-gpt 在生产环境中的可用性较高，理由如下：
 | forks | 56/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

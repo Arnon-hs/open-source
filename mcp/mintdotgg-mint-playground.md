@@ -1,6 +1,6 @@
 # mintdotgg/mint-playground
 
-[![Stars](https://img.shields.io/github/stars/mintdotgg/mint-playground?style=flat-square&color=yellow)](https://github.com/mintdotgg/mint-playground/stargazers) [![Forks](https://img.shields.io/github/forks/mintdotgg/mint-playground?style=flat-square&color=blue)](https://github.com/mintdotgg/mint-playground/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mintdotgg/mint-playground?style=flat-square&color=yellow)](https://github.com/mintdotgg/mint-playground/stargazers) [![Forks](https://img.shields.io/github/forks/mintdotgg/mint-playground?style=flat-square&color=blue)](https://github.com/mintdotgg/mint-playground/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Three.js experiences built with Mint MCP and Mint Three.js Skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Frontend
+MCP
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ mintdotgg/mint‑playground 是一个基于 Mint MCP 与 Mint Three.js 技能的
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

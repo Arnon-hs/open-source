@@ -1,6 +1,6 @@
 # Rust-GPU/rust-cuda
 
-[![Stars](https://img.shields.io/github/stars/Rust-GPU/rust-cuda?style=flat-square&color=yellow)](https://github.com/Rust-GPU/rust-cuda/stargazers) [![Forks](https://img.shields.io/github/forks/Rust-GPU/rust-cuda?style=flat-square&color=blue)](https://github.com/Rust-GPU/rust-cuda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rust-GPU/rust-cuda?style=flat-square&color=yellow)](https://github.com/Rust-GPU/rust-cuda/stargazers) [![Forks](https://img.shields.io/github/forks/Rust-GPU/rust-cuda?style=flat-square&color=blue)](https://github.com/Rust-GPU/rust-cuda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Rust-GPU/rust-cuda 的生产可用性非常高。该项目有强大的社区支�
 | forks | 60/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

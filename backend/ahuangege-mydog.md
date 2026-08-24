@@ -1,6 +1,6 @@
 # ahuangege/mydog
 
-[![Stars](https://img.shields.io/github/stars/ahuangege/mydog?style=flat-square&color=yellow)](https://github.com/ahuangege/mydog/stargazers) [![Forks](https://img.shields.io/github/forks/ahuangege/mydog?style=flat-square&color=blue)](https://github.com/ahuangege/mydog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahuangege/mydog?style=flat-square&color=yellow)](https://github.com/ahuangege/mydog/stargazers) [![Forks](https://img.shields.io/github/forks/ahuangege/mydog?style=flat-square&color=blue)](https://github.com/ahuangege/mydog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > typescript编写的分布式游戏服务器框架（a distributed game server framework coded by typescript）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 260 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ ahuangege/mydog 的生产可用性非常高，理由如下：
 | forks | 48/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

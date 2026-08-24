@@ -1,6 +1,6 @@
 # littlebearapps/outlook-assistant
 
-[![Stars](https://img.shields.io/github/stars/littlebearapps/outlook-assistant?style=flat-square&color=yellow)](https://github.com/littlebearapps/outlook-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/littlebearapps/outlook-assistant?style=flat-square&color=blue)](https://github.com/littlebearapps/outlook-assistant/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/littlebearapps/outlook-assistant?style=flat-square&color=yellow)](https://github.com/littlebearapps/outlook-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/littlebearapps/outlook-assistant?style=flat-square&color=blue)](https://github.com/littlebearapps/outlook-assistant/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Outlook email, calendar, and contacts — let your AI assistant manage your inbox directly from the conversation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Product
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ littlebearapps/outlook-assistant 是一个为 Outlook email、日历和联系人
 | forks | 29/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

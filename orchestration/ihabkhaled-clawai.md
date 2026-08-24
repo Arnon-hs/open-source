@@ -1,6 +1,6 @@
 # ihabkhaled/ClawAI
 
-[![Stars](https://img.shields.io/github/stars/ihabkhaled/ClawAI?style=flat-square&color=yellow)](https://github.com/ihabkhaled/ClawAI/stargazers) [![Forks](https://img.shields.io/github/forks/ihabkhaled/ClawAI?style=flat-square&color=blue)](https://github.com/ihabkhaled/ClawAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ihabkhaled/ClawAI?style=flat-square&color=yellow)](https://github.com/ihabkhaled/ClawAI/stargazers) [![Forks](https://img.shields.io/github/forks/ihabkhaled/ClawAI?style=flat-square&color=blue)](https://github.com/ihabkhaled/ClawAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. It intelligently routes every prompt to the best model, giving you one secure workspace for chat, memory, context, connectors, routing, and full AI orchestration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Education
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ ClawAI的生产可用性被评为中等（Medium）。
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

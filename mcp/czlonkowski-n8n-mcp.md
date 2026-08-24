@@ -1,6 +1,6 @@
 # czlonkowski/n8n-mcp
 
-[![Stars](https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=flat-square&color=yellow)](https://github.com/czlonkowski/n8n-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/czlonkowski/n8n-mcp?style=flat-square&color=blue)](https://github.com/czlonkowski/n8n-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=flat-square&color=yellow)](https://github.com/czlonkowski/n8n-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/czlonkowski/n8n-mcp?style=flat-square&color=blue)](https://github.com/czlonkowski/n8n-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.7k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Frontend · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ czlonkowski/n8n‑mcp 是一个 Model Context Protocol（MCP）实现，能�
 | forks | 88/100 |
 | stars | 92/100 |
 | topics | 50/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 91/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

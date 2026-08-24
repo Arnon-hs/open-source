@@ -1,6 +1,6 @@
 # 2aronS/Duel-Agents
 
-[![Stars](https://img.shields.io/github/stars/2aronS/Duel-Agents?style=flat-square&color=yellow)](https://github.com/2aronS/Duel-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/2aronS/Duel-Agents?style=flat-square&color=blue)](https://github.com/2aronS/Duel-Agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2aronS/Duel-Agents?style=flat-square&color=yellow)](https://github.com/2aronS/Duel-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/2aronS/Duel-Agents?style=flat-square&color=blue)](https://github.com/2aronS/Duel-Agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > CLI, SDK, and IDE plugins for Duel Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ AI/ML · DevTools
 | forks | 35/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

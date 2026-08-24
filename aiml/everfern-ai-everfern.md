@@ -1,6 +1,6 @@
 # Everfern-AI/Everfern
 
-[![Stars](https://img.shields.io/github/stars/Everfern-AI/Everfern?style=flat-square&color=yellow)](https://github.com/Everfern-AI/Everfern/stargazers) [![Forks](https://img.shields.io/github/forks/Everfern-AI/Everfern?style=flat-square&color=blue)](https://github.com/Everfern-AI/Everfern/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Everfern-AI/Everfern?style=flat-square&color=yellow)](https://github.com/Everfern-AI/Everfern/stargazers) [![Forks](https://img.shields.io/github/forks/Everfern-AI/Everfern?style=flat-square&color=blue)](https://github.com/Everfern-AI/Everfern/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A free, open-source AI agent that runs entirely on your machine — controls your computer like you would, works across any app, and handles arbitrary tasks: writing code, analyzing images, organizing files, researching and building spreadsheets, whatever you throw at it. Unlike Claude Cowork, nothing leaves your device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Marketing
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Everfern 是一款完全本地运行的开源 AI 代理，能够像人一样控�
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

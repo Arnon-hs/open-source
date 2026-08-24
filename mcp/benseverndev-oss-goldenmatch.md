@@ -1,6 +1,6 @@
 # benseverndev-oss/goldenmatch
 
-[![Stars](https://img.shields.io/github/stars/benseverndev-oss/goldenmatch?style=flat-square&color=yellow)](https://github.com/benseverndev-oss/goldenmatch/stargazers) [![Forks](https://img.shields.io/github/forks/benseverndev-oss/goldenmatch?style=flat-square&color=blue)](https://github.com/benseverndev-oss/goldenmatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benseverndev-oss/goldenmatch?style=flat-square&color=yellow)](https://github.com/benseverndev-oss/goldenmatch/stargazers) [![Forks](https://img.shields.io/github/forks/benseverndev-oss/goldenmatch?style=flat-square&color=blue)](https://github.com/benseverndev-oss/goldenmatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-config entity resolution. The zero-tuning Fellegi-Sunter path beats hand-rolled Splink head-to-head; scales from a CSV to a verified 100M-row dedupe in 9.2 min on Ray. Fuzzy/exact/probabilistic + PPRL + LLM, identity graph. Python + edge-safe TypeScript (optional WASM), SQL-native in Postgres & DuckDB, MCP/REST + dbt/Airflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ benseverndev-oss/goldenmatch：benseverndev-oss/goldenmatch helps connect AI ass
 | forks | 28/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

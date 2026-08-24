@@ -1,6 +1,6 @@
 # proactive-agent/langgraphics
 
-[![Stars](https://img.shields.io/github/stars/proactive-agent/langgraphics?style=flat-square&color=yellow)](https://github.com/proactive-agent/langgraphics/stargazers) [![Forks](https://img.shields.io/github/forks/proactive-agent/langgraphics?style=flat-square&color=blue)](https://github.com/proactive-agent/langgraphics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proactive-agent/langgraphics?style=flat-square&color=yellow)](https://github.com/proactive-agent/langgraphics/stargazers) [![Forks](https://img.shields.io/github/forks/proactive-agent/langgraphics?style=flat-square&color=blue)](https://github.com/proactive-agent/langgraphics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Visualize live LangGraph execution and see how your agent thinks as it runs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Observability
+Orchestration · Automation · Observability
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ proactive-agent/langgraphics 的生产可用性为中等。它适合用于原型
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

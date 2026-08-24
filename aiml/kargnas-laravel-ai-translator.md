@@ -1,6 +1,6 @@
 # kargnas/laravel-ai-translator
 
-[![Stars](https://img.shields.io/github/stars/kargnas/laravel-ai-translator?style=flat-square&color=yellow)](https://github.com/kargnas/laravel-ai-translator/stargazers) [![Forks](https://img.shields.io/github/forks/kargnas/laravel-ai-translator?style=flat-square&color=blue)](https://github.com/kargnas/laravel-ai-translator/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kargnas/laravel-ai-translator?style=flat-square&color=yellow)](https://github.com/kargnas/laravel-ai-translator/stargazers) [![Forks](https://img.shields.io/github/forks/kargnas/laravel-ai-translator?style=flat-square&color=blue)](https://github.com/kargnas/laravel-ai-translator/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > High quality automatic translate your language files into many languages using AI like Claude, GPT and etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 248 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ kargnas/laravel-ai-translator 是一个开源项目，使用 AI 技术来自动�
 | forks | 39/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

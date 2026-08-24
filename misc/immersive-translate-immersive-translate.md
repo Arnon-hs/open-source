@@ -1,6 +1,6 @@
 # immersive-translate/immersive-translate
 
-[![Stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=flat-square&color=yellow)](https://github.com/immersive-translate/immersive-translate/stargazers) [![Forks](https://img.shields.io/github/forks/immersive-translate/immersive-translate?style=flat-square&color=blue)](https://github.com/immersive-translate/immersive-translate/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=flat-square&color=yellow)](https://github.com/immersive-translate/immersive-translate/stargazers) [![Forks](https://img.shields.io/github/forks/immersive-translate/immersive-translate?style=flat-square&color=blue)](https://github.com/immersive-translate/immersive-translate/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Immersive Translate 的生产可用性较高，主要原因是：
 | forks | 76/100 |
 | stars | 91/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 87/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

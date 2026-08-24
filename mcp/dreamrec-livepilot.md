@@ -1,6 +1,6 @@
 # dreamrec/LivePilot
 
-[![Stars](https://img.shields.io/github/stars/dreamrec/LivePilot?style=flat-square&color=yellow)](https://github.com/dreamrec/LivePilot/stargazers) [![Forks](https://img.shields.io/github/forks/dreamrec/LivePilot?style=flat-square&color=blue)](https://github.com/dreamrec/LivePilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dreamrec/LivePilot?style=flat-square&color=yellow)](https://github.com/dreamrec/LivePilot/stargazers) [![Forks](https://img.shields.io/github/forks/dreamrec/LivePilot?style=flat-square&color=blue)](https://github.com/dreamrec/LivePilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic production system for Ableton Live 12 — 467 tools across 56 domains. Device atlas, user corpus, Splice intelligence, 9-band spectral perception, Creative Director, semantic moves, and 12 creative engines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Design · Product
+MCP · AI/ML · Backend · Design
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ LivePilot 为 AI 与 Ableton Live 的深度集成提供了统一的协议层�
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # krishagarwal314/CodeJury
 
-[![Stars](https://img.shields.io/github/stars/krishagarwal314/CodeJury?style=flat-square&color=yellow)](https://github.com/krishagarwal314/CodeJury/stargazers) [![Forks](https://img.shields.io/github/forks/krishagarwal314/CodeJury?style=flat-square&color=blue)](https://github.com/krishagarwal314/CodeJury/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishagarwal314/CodeJury?style=flat-square&color=yellow)](https://github.com/krishagarwal314/CodeJury/stargazers) [![Forks](https://img.shields.io/github/forks/krishagarwal314/CodeJury?style=flat-square&color=blue)](https://github.com/krishagarwal314/CodeJury/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Backend
+Orchestration · Knowledge/RAG · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ CodeJury 的生产可用性非常高，主要原因是：
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # agent-team-foundation/first-tree
 
-[![Stars](https://img.shields.io/github/stars/agent-team-foundation/first-tree?style=flat-square&color=yellow)](https://github.com/agent-team-foundation/first-tree/stargazers) [![Forks](https://img.shields.io/github/forks/agent-team-foundation/first-tree?style=flat-square&color=blue)](https://github.com/agent-team-foundation/first-tree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-team-foundation/first-tree?style=flat-square&color=yellow)](https://github.com/agent-team-foundation/first-tree/stargazers) [![Forks](https://img.shields.io/github/forks/agent-team-foundation/first-tree?style=flat-square&color=blue)](https://github.com/agent-team-foundation/first-tree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > First-tree routes work to the right agent, gives it the same context your team has, and loops humans in only when the rules say so. Lives in your GitHub. Open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ agent-team-foundation/first-tree 的生产可用性较高，主要原因是其�
 | forks | 36/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

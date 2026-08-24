@@ -1,6 +1,6 @@
 # dcc-mcp/dcc-mcp-maya
 
-[![Stars](https://img.shields.io/github/stars/dcc-mcp/dcc-mcp-maya?style=flat-square&color=yellow)](https://github.com/dcc-mcp/dcc-mcp-maya/stargazers) [![Forks](https://img.shields.io/github/forks/dcc-mcp/dcc-mcp-maya?style=flat-square&color=blue)](https://github.com/dcc-mcp/dcc-mcp-maya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dcc-mcp/dcc-mcp-maya?style=flat-square&color=yellow)](https://github.com/dcc-mcp/dcc-mcp-maya/stargazers) [![Forks](https://img.shields.io/github/forks/dcc-mcp/dcc-mcp-maya?style=flat-square&color=blue)](https://github.com/dcc-mcp/dcc-mcp-maya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Maya-specific implementation of Model Context Protocol (MCP) for Autodesk Maya, enabling remote control and integration with MCP ecosystem.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ dcc-mcp/dcc
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

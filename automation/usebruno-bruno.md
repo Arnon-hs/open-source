@@ -1,6 +1,6 @@
 # usebruno/bruno
 
-[![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat-square&color=yellow)](https://github.com/usebruno/bruno/stargazers) [![Forks](https://img.shields.io/github/forks/usebruno/bruno?style=flat-square&color=blue)](https://github.com/usebruno/bruno/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat-square&color=yellow)](https://github.com/usebruno/bruno/stargazers) [![Forks](https://img.shields.io/github/forks/usebruno/bruno?style=flat-square&color=blue)](https://github.com/usebruno/bruno/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45.1k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ usebruno/bruno 是一款开源的轻量级 API 调试 IDE，提供类似 Postman
 | forks | 85/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 99/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

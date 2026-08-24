@@ -1,6 +1,6 @@
 # BlitzKraft/saythanks.io
 
-[![Stars](https://img.shields.io/github/stars/BlitzKraft/saythanks.io?style=flat-square&color=yellow)](https://github.com/BlitzKraft/saythanks.io/stargazers) [![Forks](https://img.shields.io/github/forks/BlitzKraft/saythanks.io?style=flat-square&color=blue)](https://github.com/BlitzKraft/saythanks.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlitzKraft/saythanks.io?style=flat-square&color=yellow)](https://github.com/BlitzKraft/saythanks.io/stargazers) [![Forks](https://img.shields.io/github/forks/BlitzKraft/saythanks.io?style=flat-square&color=blue)](https://github.com/BlitzKraft/saythanks.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Spreading Thankfulness in Open Source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ BlitzKraft/saythanks.io 是一个面向开源社区的感恩平台，帮助开�
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

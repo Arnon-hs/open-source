@@ -1,6 +1,6 @@
 # matiasbattocchia/open-bsp-api
 
-[![Stars](https://img.shields.io/github/stars/matiasbattocchia/open-bsp-api?style=flat-square&color=yellow)](https://github.com/matiasbattocchia/open-bsp-api/stargazers) [![Forks](https://img.shields.io/github/forks/matiasbattocchia/open-bsp-api?style=flat-square&color=blue)](https://github.com/matiasbattocchia/open-bsp-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matiasbattocchia/open-bsp-api?style=flat-square&color=yellow)](https://github.com/matiasbattocchia/open-bsp-api/stargazers) [![Forks](https://img.shields.io/github/forks/matiasbattocchia/open-bsp-api?style=flat-square&color=blue)](https://github.com/matiasbattocchia/open-bsp-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source WhatsApp + Instagram Business platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ matiasbattocchia/open-bsp-api 是一个开源的 WhatsApp 与 Instagram Business
 | forks | 56/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

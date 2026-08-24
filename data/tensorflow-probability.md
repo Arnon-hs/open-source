@@ -1,6 +1,6 @@
 # tensorflow/probability
 
-[![Stars](https://img.shields.io/github/stars/tensorflow/probability?style=flat-square&color=yellow)](https://github.com/tensorflow/probability/stargazers) [![Forks](https://img.shields.io/github/forks/tensorflow/probability?style=flat-square&color=blue)](https://github.com/tensorflow/probability/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tensorflow/probability?style=flat-square&color=yellow)](https://github.com/tensorflow/probability/stargazers) [![Forks](https://img.shields.io/github/forks/tensorflow/probability?style=flat-square&color=blue)](https://github.com/tensorflow/probability/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Probabilistic reasoning and statistical analysis in TensorFlow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ TensorFlow Probability 的生产可用性较高，因为该项目有活跃的社
 | forks | 76/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

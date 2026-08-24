@@ -1,6 +1,6 @@
 # wasintoh/toh-framework
 
-[![Stars](https://img.shields.io/github/stars/wasintoh/toh-framework?style=flat-square&color=yellow)](https://github.com/wasintoh/toh-framework/stargazers) [![Forks](https://img.shields.io/github/forks/wasintoh/toh-framework?style=flat-square&color=blue)](https://github.com/wasintoh/toh-framework/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasintoh/toh-framework?style=flat-square&color=yellow)](https://github.com/wasintoh/toh-framework/stargazers) [![Forks](https://img.shields.io/github/forks/wasintoh/toh-framework?style=flat-square&color=blue)](https://github.com/wasintoh/toh-framework/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Type one sentence, approve once, walk away — Toh Framework installs an AI build department (14 commands, 8 agents, 23 skills) into your project and keeps building, testing and fixing until it is verified done. Works in Claude Code, Cursor, Antigravity, Codex and ZCode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ wasintoh/toh‑framework 能将零散的 AI 提示和工具转化为可重复的
 | forks | 33/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

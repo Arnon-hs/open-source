@@ -1,6 +1,6 @@
 # elastic/apm-server
 
-[![Stars](https://img.shields.io/github/stars/elastic/apm-server?style=flat-square&color=yellow)](https://github.com/elastic/apm-server/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/apm-server?style=flat-square&color=blue)](https://github.com/elastic/apm-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elastic/apm-server?style=flat-square&color=yellow)](https://github.com/elastic/apm-server/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/apm-server?style=flat-square&color=blue)](https://github.com/elastic/apm-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 544 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · Observability
+Backend · Observability
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Elastic APM 服务器项目（elastic/apm-server）是一款开源产品，帮�
 | forks | 68/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 67/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

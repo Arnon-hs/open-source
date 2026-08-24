@@ -1,6 +1,6 @@
 # sv-grid/sv-grid
 
-[![Stars](https://img.shields.io/github/stars/sv-grid/sv-grid?style=flat-square&color=yellow)](https://github.com/sv-grid/sv-grid/stargazers) [![Forks](https://img.shields.io/github/forks/sv-grid/sv-grid?style=flat-square&color=blue)](https://github.com/sv-grid/sv-grid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sv-grid/sv-grid?style=flat-square&color=yellow)](https://github.com/sv-grid/sv-grid/stargazers) [![Forks](https://img.shields.io/github/forks/sv-grid/sv-grid?style=flat-square&color=blue)](https://github.com/sv-grid/sv-grid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Native Svelte 5 data grid. Headless-first engine + drop-in render component. Row + column virtualization (1M rows), Excel-style filters, inline editing, grouping, pivot, server-side data. MIT core (@svgrid/grid), MCP server for Claude / Cursor. https://svgrid.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Data
+MCP · Frontend · Data
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ sv-grid/sv-grid 在生产环境中已经有较高的可用性，最近有活跃�
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 77/100 |
-| usefulness | 58/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

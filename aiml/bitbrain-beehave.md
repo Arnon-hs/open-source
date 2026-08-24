@@ -1,6 +1,6 @@
 # bitbrain/beehave
 
-[![Stars](https://img.shields.io/github/stars/bitbrain/beehave?style=flat-square&color=yellow)](https://github.com/bitbrain/beehave/stargazers) [![Forks](https://img.shields.io/github/forks/bitbrain/beehave?style=flat-square&color=blue)](https://github.com/bitbrain/beehave/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitbrain/beehave?style=flat-square&color=yellow)](https://github.com/bitbrain/beehave/stargazers) [![Forks](https://img.shields.io/github/forks/bitbrain/beehave?style=flat-square&color=blue)](https://github.com/bitbrain/beehave/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🐝 behavior tree AI for Godot Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | GDScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ bitbrain/beehave 的生产可用性较高。项目有近 3,163 个 GitHub 星标
 | forks | 55/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

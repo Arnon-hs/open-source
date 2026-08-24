@@ -1,6 +1,6 @@
 # pc2/sus-compiler
 
-[![Stars](https://img.shields.io/github/stars/pc2/sus-compiler?style=flat-square&color=yellow)](https://github.com/pc2/sus-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/pc2/sus-compiler?style=flat-square&color=blue)](https://github.com/pc2/sus-compiler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pc2/sus-compiler?style=flat-square&color=yellow)](https://github.com/pc2/sus-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/pc2/sus-compiler?style=flat-square&color=blue)](https://github.com/pc2/sus-compiler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A new Hardware Design Language that keeps you in the driver's seat
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ pc2/sus-compiler 具备创新的硬件设计语言能力和良好的技术栈，
 | forks | 21/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

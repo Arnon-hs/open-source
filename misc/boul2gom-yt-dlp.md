@@ -1,6 +1,6 @@
 # boul2gom/yt-dlp
 
-[![Stars](https://img.shields.io/github/stars/boul2gom/yt-dlp?style=flat-square&color=yellow)](https://github.com/boul2gom/yt-dlp/stargazers) [![Forks](https://img.shields.io/github/forks/boul2gom/yt-dlp?style=flat-square&color=blue)](https://github.com/boul2gom/yt-dlp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boul2gom/yt-dlp?style=flat-square&color=yellow)](https://github.com/boul2gom/yt-dlp/stargazers) [![Forks](https://img.shields.io/github/forks/boul2gom/yt-dlp?style=flat-square&color=blue)](https://github.com/boul2gom/yt-dlp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬️ A Rust library (with auto dependencies downloading) for yt-dlp
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ boul2gom/yt-dlp 的生产可用性为中等，适合用于 prototyped 或内部�
 | forks | 43/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

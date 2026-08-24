@@ -1,6 +1,6 @@
 # Ventuss-OvO/cc-costline
 
-[![Stars](https://img.shields.io/github/stars/Ventuss-OvO/cc-costline?style=flat-square&color=yellow)](https://github.com/Ventuss-OvO/cc-costline/stargazers) [![Forks](https://img.shields.io/github/forks/Ventuss-OvO/cc-costline?style=flat-square&color=blue)](https://github.com/Ventuss-OvO/cc-costline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ventuss-OvO/cc-costline?style=flat-square&color=yellow)](https://github.com/Ventuss-OvO/cc-costline/stargazers) [![Forks](https://img.shields.io/github/forks/Ventuss-OvO/cc-costline?style=flat-square&color=blue)](https://github.com/Ventuss-OvO/cc-costline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Enhanced statusline for Claude Code — see your 7d/30d spend at a glance
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Ventuss-OvO/cc-costline 是一个面向 Claude Code 的增强型状态栏插件�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

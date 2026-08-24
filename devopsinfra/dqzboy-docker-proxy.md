@@ -1,6 +1,6 @@
 # dqzboy/Docker-Proxy
 
-[![Stars](https://img.shields.io/github/stars/dqzboy/Docker-Proxy?style=flat-square&color=yellow)](https://github.com/dqzboy/Docker-Proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dqzboy/Docker-Proxy?style=flat-square&color=blue)](https://github.com/dqzboy/Docker-Proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dqzboy/Docker-Proxy?style=flat-square&color=yellow)](https://github.com/dqzboy/Docker-Proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dqzboy/Docker-Proxy?style=flat-square&color=blue)](https://github.com/dqzboy/Docker-Proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 🔥 🔥 自建 Docker 镜像加速与管理服务，支持 Docker、K8s、Quay、GHCR、MCR、NVCR 等上游一键部署，并提供 Web 后台进行代理管理。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 602 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ dqzboy/Docker-Proxy 在生产环境中已经有较高的可用性。该项目最
 | forks | 70/100 |
 | stars | 77/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

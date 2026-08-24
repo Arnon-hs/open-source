@@ -1,6 +1,6 @@
 # yyjeqhc/webcodex
 
-[![Stars](https://img.shields.io/github/stars/yyjeqhc/webcodex?style=flat-square&color=yellow)](https://github.com/yyjeqhc/webcodex/stargazers) [![Forks](https://img.shields.io/github/forks/yyjeqhc/webcodex?style=flat-square&color=blue)](https://github.com/yyjeqhc/webcodex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yyjeqhc/webcodex?style=flat-square&color=yellow)](https://github.com/yyjeqhc/webcodex/stargazers) [![Forks](https://img.shields.io/github/forks/yyjeqhc/webcodex?style=flat-square&color=blue)](https://github.com/yyjeqhc/webcodex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted runtime for exposing controlled project tools to ChatGPT GPT Actions and MCP clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ yyjeqhc/webcodex 具有高生产可用性，得益于其强大的生态系统信
 | forks | 28/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

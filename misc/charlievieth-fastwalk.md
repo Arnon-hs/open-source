@@ -1,6 +1,6 @@
 # charlievieth/fastwalk
 
-[![Stars](https://img.shields.io/github/stars/charlievieth/fastwalk?style=flat-square&color=yellow)](https://github.com/charlievieth/fastwalk/stargazers) [![Forks](https://img.shields.io/github/forks/charlievieth/fastwalk?style=flat-square&color=blue)](https://github.com/charlievieth/fastwalk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charlievieth/fastwalk?style=flat-square&color=yellow)](https://github.com/charlievieth/fastwalk/stargazers) [![Forks](https://img.shields.io/github/forks/charlievieth/fastwalk?style=flat-square&color=blue)](https://github.com/charlievieth/fastwalk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fast directory traversal for Golang
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ charlievieth/fastwalk 是一个开源项目，专注于为 Golang 提供快速�
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

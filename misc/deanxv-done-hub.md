@@ -1,6 +1,6 @@
 # deanxv/done-hub
 
-[![Stars](https://img.shields.io/github/stars/deanxv/done-hub?style=flat-square&color=yellow)](https://github.com/deanxv/done-hub/stargazers) [![Forks](https://img.shields.io/github/forks/deanxv/done-hub?style=flat-square&color=blue)](https://github.com/deanxv/done-hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deanxv/done-hub?style=flat-square&color=yellow)](https://github.com/deanxv/done-hub/stargazers) [![Forks](https://img.shields.io/github/forks/deanxv/done-hub?style=flat-square&color=blue)](https://github.com/deanxv/done-hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 786 |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ deanxv/done-hub 是一个用 Go 编写的开源工具，旨在帮助团队统一
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

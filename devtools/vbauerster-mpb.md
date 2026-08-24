@@ -1,6 +1,6 @@
 # vbauerster/mpb
 
-[![Stars](https://img.shields.io/github/stars/vbauerster/mpb?style=flat-square&color=yellow)](https://github.com/vbauerster/mpb/stargazers) [![Forks](https://img.shields.io/github/forks/vbauerster/mpb?style=flat-square&color=blue)](https://github.com/vbauerster/mpb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vbauerster/mpb?style=flat-square&color=yellow)](https://github.com/vbauerster/mpb/stargazers) [![Forks](https://img.shields.io/github/forks/vbauerster/mpb?style=flat-square&color=blue)](https://github.com/vbauerster/mpb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > multi progress bar for Go cli applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ vbauerster/mpb 的生产可用性很高。项目最近有活动，采用率和�
 | forks | 53/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

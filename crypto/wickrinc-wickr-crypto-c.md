@@ -1,6 +1,6 @@
 # WickrInc/wickr-crypto-c
 
-[![Stars](https://img.shields.io/github/stars/WickrInc/wickr-crypto-c?style=flat-square&color=yellow)](https://github.com/WickrInc/wickr-crypto-c/stargazers) [![Forks](https://img.shields.io/github/forks/WickrInc/wickr-crypto-c?style=flat-square&color=blue)](https://github.com/WickrInc/wickr-crypto-c/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WickrInc/wickr-crypto-c?style=flat-square&color=yellow)](https://github.com/WickrInc/wickr-crypto-c/stargazers) [![Forks](https://img.shields.io/github/forks/WickrInc/wickr-crypto-c?style=flat-square&color=blue)](https://github.com/WickrInc/wickr-crypto-c/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of the Wickr Secure Messaging Protocol in C
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ WickrInc/wickr-crypto-c 是一个开源项目，实现了 Wickr 安全通讯协�
 | forks | 50/100 |
 | stars | 55/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

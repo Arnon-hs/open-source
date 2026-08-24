@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · Database
+Orchestration · MCP · AI/ML · Database
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ ncz-os/mnemos：ncz-os/mnemos helps turn isolated prompts and tools into repeata
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

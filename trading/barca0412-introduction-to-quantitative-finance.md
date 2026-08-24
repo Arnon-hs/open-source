@@ -1,6 +1,6 @@
 # Barca0412/Introduction-to-Quantitative-Finance
 
-[![Stars](https://img.shields.io/github/stars/Barca0412/Introduction-to-Quantitative-Finance?style=flat-square&color=yellow)](https://github.com/Barca0412/Introduction-to-Quantitative-Finance/stargazers) [![Forks](https://img.shields.io/github/forks/Barca0412/Introduction-to-Quantitative-Finance?style=flat-square&color=blue)](https://github.com/Barca0412/Introduction-to-Quantitative-Finance/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Barca0412/Introduction-to-Quantitative-Finance?style=flat-square&color=yellow)](https://github.com/Barca0412/Introduction-to-Quantitative-Finance/stargazers) [![Forks](https://img.shields.io/github/forks/Barca0412/Introduction-to-Quantitative-Finance?style=flat-square&color=blue)](https://github.com/Barca0412/Introduction-to-Quantitative-Finance/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Barca0412/Introduction-to-Quantitative-Finance 是一个开源项目，提供入
 | forks | 55/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

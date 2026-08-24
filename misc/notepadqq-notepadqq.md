@@ -1,6 +1,6 @@
 # notepadqq/notepadqq
 
-[![Stars](https://img.shields.io/github/stars/notepadqq/notepadqq?style=flat-square&color=yellow)](https://github.com/notepadqq/notepadqq/stargazers) [![Forks](https://img.shields.io/github/forks/notepadqq/notepadqq?style=flat-square&color=blue)](https://github.com/notepadqq/notepadqq/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notepadqq/notepadqq?style=flat-square&color=yellow)](https://github.com/notepadqq/notepadqq/stargazers) [![Forks](https://img.shields.io/github/forks/notepadqq/notepadqq?style=flat-square&color=blue)](https://github.com/notepadqq/notepadqq/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, general-purpose editor for Linux and MacOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 315 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ NotepadQQ 具有高生产可用性，主要是由于其近期的活跃性、广�
 | forks | 62/100 |
 | stars | 72/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

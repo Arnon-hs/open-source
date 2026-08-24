@@ -1,6 +1,6 @@
 # ebullient/obsidian-admonition
 
-[![Stars](https://img.shields.io/github/stars/ebullient/obsidian-admonition?style=flat-square&color=yellow)](https://github.com/ebullient/obsidian-admonition/stargazers) [![Forks](https://img.shields.io/github/forks/ebullient/obsidian-admonition?style=flat-square&color=blue)](https://github.com/ebullient/obsidian-admonition/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ebullient/obsidian-admonition?style=flat-square&color=yellow)](https://github.com/ebullient/obsidian-admonition/stargazers) [![Forks](https://img.shields.io/github/forks/ebullient/obsidian-admonition?style=flat-square&color=blue)](https://github.com/ebullient/obsidian-admonition/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Adds admonition block-styled content to Obsidian.md
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Obsidian Admonition 的生产可用性为中等（Medium）。虽然它在 proto
 | forks | 48/100 |
 | stars | 66/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

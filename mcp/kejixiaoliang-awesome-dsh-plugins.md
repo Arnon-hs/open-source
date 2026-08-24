@@ -1,6 +1,6 @@
 # kejixiaoliang/awesome-dsh-plugins
 
-[![Stars](https://img.shields.io/github/stars/kejixiaoliang/awesome-dsh-plugins?style=flat-square&color=yellow)](https://github.com/kejixiaoliang/awesome-dsh-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/kejixiaoliang/awesome-dsh-plugins?style=flat-square&color=blue)](https://github.com/kejixiaoliang/awesome-dsh-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kejixiaoliang/awesome-dsh-plugins?style=flat-square&color=yellow)](https://github.com/kejixiaoliang/awesome-dsh-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/kejixiaoliang/awesome-dsh-plugins?style=flat-square&color=blue)](https://github.com/kejixiaoliang/awesome-dsh-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ kejixiaoliang/awesome-dsh-plugins：kejixiaoliang/awesome-dsh-plugins helps conn
 | forks | 31/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # x51xxx/codex-mcp-tool
 
-[![Stars](https://img.shields.io/github/stars/x51xxx/codex-mcp-tool?style=flat-square&color=yellow)](https://github.com/x51xxx/codex-mcp-tool/stargazers) [![Forks](https://img.shields.io/github/forks/x51xxx/codex-mcp-tool?style=flat-square&color=blue)](https://github.com/x51xxx/codex-mcp-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x51xxx/codex-mcp-tool?style=flat-square&color=yellow)](https://github.com/x51xxx/codex-mcp-tool/stargazers) [![Forks](https://img.shields.io/github/forks/x51xxx/codex-mcp-tool?style=flat-square&color=blue)](https://github.com/x51xxx/codex-mcp-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ x51xxx/codex-mcp-tool 是一个基于 TypeScript 实现的 Model Context Protoco
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

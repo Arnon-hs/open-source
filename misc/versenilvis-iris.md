@@ -1,6 +1,6 @@
 # versenilvis/IRIS
 
-[![Stars](https://img.shields.io/github/stars/versenilvis/IRIS?style=flat-square&color=yellow)](https://github.com/versenilvis/IRIS/stargazers) [![Forks](https://img.shields.io/github/forks/versenilvis/IRIS?style=flat-square&color=blue)](https://github.com/versenilvis/IRIS/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/versenilvis/IRIS?style=flat-square&color=yellow)](https://github.com/versenilvis/IRIS/stargazers) [![Forks](https://img.shields.io/github/forks/versenilvis/IRIS?style=flat-square&color=blue)](https://github.com/versenilvis/IRIS/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A shell auto-completion tool for your terminal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 984 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ IRIS 的生产可用性为中等。虽然它有 984 个 GitHub 星和 28 个分�
 | forks | 37/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

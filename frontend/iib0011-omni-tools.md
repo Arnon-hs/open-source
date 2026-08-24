@@ -1,6 +1,6 @@
 # iib0011/omni-tools
 
-[![Stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=flat-square&color=yellow)](https://github.com/iib0011/omni-tools/stargazers) [![Forks](https://img.shields.io/github/forks/iib0011/omni-tools?style=flat-square&color=blue)](https://github.com/iib0011/omni-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=flat-square&color=yellow)](https://github.com/iib0011/omni-tools/stargazers) [![Forks](https://img.shields.io/github/forks/iib0011/omni-tools?style=flat-square&color=blue)](https://github.com/iib0011/omni-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 669 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Data · Marketing · Product
+Frontend · DevTools · Data · Marketing
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ iib0011/omni-tools 的生产可用性很高，主要原因是：
 | forks | 71/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

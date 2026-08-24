@@ -1,6 +1,6 @@
 # OutSystems/outsystems-mcp
 
-[![Stars](https://img.shields.io/github/stars/OutSystems/outsystems-mcp?style=flat-square&color=yellow)](https://github.com/OutSystems/outsystems-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/OutSystems/outsystems-mcp?style=flat-square&color=blue)](https://github.com/OutSystems/outsystems-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OutSystems/outsystems-mcp?style=flat-square&color=yellow)](https://github.com/OutSystems/outsystems-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/OutSystems/outsystems-mcp?style=flat-square&color=blue)](https://github.com/OutSystems/outsystems-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Plugins for the OutSystems remote MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ OutSystems/outsystems-mcp 的主要价值在于，它可以连接 AI 代理到�
 | forks | 26/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

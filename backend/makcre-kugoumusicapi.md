@@ -1,6 +1,6 @@
 # MakcRe/KuGouMusicApi
 
-[![Stars](https://img.shields.io/github/stars/MakcRe/KuGouMusicApi?style=flat-square&color=yellow)](https://github.com/MakcRe/KuGouMusicApi/stargazers) [![Forks](https://img.shields.io/github/forks/MakcRe/KuGouMusicApi?style=flat-square&color=blue)](https://github.com/MakcRe/KuGouMusicApi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MakcRe/KuGouMusicApi?style=flat-square&color=yellow)](https://github.com/MakcRe/KuGouMusicApi/stargazers) [![Forks](https://img.shields.io/github/forks/MakcRe/KuGouMusicApi?style=flat-square&color=blue)](https://github.com/MakcRe/KuGouMusicApi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 酷狗音乐 Node.js API service
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 876 |
 | 🍴 **Forks** | 516 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ MakcRe/KuGouMusicApi 是一个基于 Node.js 的酷狗音乐后端服务，能�
 | forks | 68/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

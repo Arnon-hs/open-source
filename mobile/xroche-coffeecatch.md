@@ -1,6 +1,6 @@
 # xroche/coffeecatch
 
-[![Stars](https://img.shields.io/github/stars/xroche/coffeecatch?style=flat-square&color=yellow)](https://github.com/xroche/coffeecatch/stargazers) [![Forks](https://img.shields.io/github/forks/xroche/coffeecatch?style=flat-square&color=blue)](https://github.com/xroche/coffeecatch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xroche/coffeecatch?style=flat-square&color=yellow)](https://github.com/xroche/coffeecatch/stargazers) [![Forks](https://img.shields.io/github/forks/xroche/coffeecatch?style=flat-square&color=blue)](https://github.com/xroche/coffeecatch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > CoffeeCatch, a tiny native POSIX signal catcher (especially useful for JNI code on Android/Dalvik)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 690 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ CoffeeCatch 是一个极小的 POSIX 信号捕获库，采用原生 C 实现，�
 | forks | 53/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

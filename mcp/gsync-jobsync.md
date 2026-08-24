@@ -1,6 +1,6 @@
 # Gsync/jobsync
 
-[![Stars](https://img.shields.io/github/stars/Gsync/jobsync?style=flat-square&color=yellow)](https://github.com/Gsync/jobsync/stargazers) [![Forks](https://img.shields.io/github/forks/Gsync/jobsync?style=flat-square&color=blue)](https://github.com/Gsync/jobsync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gsync/jobsync?style=flat-square&color=yellow)](https://github.com/Gsync/jobsync/stargazers) [![Forks](https://img.shields.io/github/forks/Gsync/jobsync?style=flat-square&color=blue)](https://github.com/Gsync/jobsync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, open-source job application tracker and AI-powered career assistant. Helps job seekers manage their search journey with AI resume review, job matching, task logging, and application analytics, all while keeping your data private.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 807 |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Gsync/jobsync 的生产可用性非常高。它有强烈的采用度、生态系
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

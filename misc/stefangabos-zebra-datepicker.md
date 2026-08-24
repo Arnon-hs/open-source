@@ -1,6 +1,6 @@
 # stefangabos/Zebra_Datepicker
 
-[![Stars](https://img.shields.io/github/stars/stefangabos/Zebra_Datepicker?style=flat-square&color=yellow)](https://github.com/stefangabos/Zebra_Datepicker/stargazers) [![Forks](https://img.shields.io/github/forks/stefangabos/Zebra_Datepicker?style=flat-square&color=blue)](https://github.com/stefangabos/Zebra_Datepicker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefangabos/Zebra_Datepicker?style=flat-square&color=yellow)](https://github.com/stefangabos/Zebra_Datepicker/stargazers) [![Forks](https://img.shields.io/github/forks/stefangabos/Zebra_Datepicker?style=flat-square&color=blue)](https://github.com/stefangabos/Zebra_Datepicker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A super-lightweight, highly configurable, cross-browser date time picker jQuery plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ stefangabos/Zebra_Datepicker 是一个超轻量级、高度可配置的跨浏览
 | forks | 56/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

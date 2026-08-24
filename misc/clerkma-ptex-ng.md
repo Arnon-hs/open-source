@@ -1,6 +1,6 @@
 # clerkma/ptex-ng
 
-[![Stars](https://img.shields.io/github/stars/clerkma/ptex-ng?style=flat-square&color=yellow)](https://github.com/clerkma/ptex-ng/stargazers) [![Forks](https://img.shields.io/github/forks/clerkma/ptex-ng?style=flat-square&color=blue)](https://github.com/clerkma/ptex-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clerkma/ptex-ng?style=flat-square&color=yellow)](https://github.com/clerkma/ptex-ng/stargazers) [![Forks](https://img.shields.io/github/forks/clerkma/ptex-ng?style=flat-square&color=blue)](https://github.com/clerkma/ptex-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Asiatic pTeX
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Misc
 | forks | 40/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

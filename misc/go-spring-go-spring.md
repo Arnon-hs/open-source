@@ -1,6 +1,6 @@
 # go-spring/go-spring
 
-[![Stars](https://img.shields.io/github/stars/go-spring/go-spring?style=flat-square&color=yellow)](https://github.com/go-spring/go-spring/stargazers) [![Forks](https://img.shields.io/github/forks/go-spring/go-spring?style=flat-square&color=blue)](https://github.com/go-spring/go-spring/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-spring/go-spring?style=flat-square&color=yellow)](https://github.com/go-spring/go-spring/stargazers) [![Forks](https://img.shields.io/github/forks/go-spring/go-spring?style=flat-square&color=blue)](https://github.com/go-spring/go-spring/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 [released] 基于 IoC 的 IDLs-First 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC and IDLs-First for Go ) 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ go-spring/go-spring 是一套基于 **IoC（控制反转）** 与 **IDL‑First*
 | forks | 59/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

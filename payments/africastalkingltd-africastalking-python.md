@@ -1,6 +1,6 @@
 # AfricasTalkingLtd/africastalking-python
 
-[![Stars](https://img.shields.io/github/stars/AfricasTalkingLtd/africastalking-python?style=flat-square&color=yellow)](https://github.com/AfricasTalkingLtd/africastalking-python/stargazers) [![Forks](https://img.shields.io/github/forks/AfricasTalkingLtd/africastalking-python?style=flat-square&color=blue)](https://github.com/AfricasTalkingLtd/africastalking-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AfricasTalkingLtd/africastalking-python?style=flat-square&color=yellow)](https://github.com/AfricasTalkingLtd/africastalking-python/stargazers) [![Forks](https://img.shields.io/github/forks/AfricasTalkingLtd/africastalking-python?style=flat-square&color=blue)](https://github.com/AfricasTalkingLtd/africastalking-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Official Python SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · Backend
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ AfricasTalkingLtd/africastalking-python 具有很高的生产可用性，主要�
 | forks | 53/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

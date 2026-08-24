@@ -1,6 +1,6 @@
 # nelsonwerd/idea-to-ship-skills
 
-[![Stars](https://img.shields.io/github/stars/nelsonwerd/idea-to-ship-skills?style=flat-square&color=yellow)](https://github.com/nelsonwerd/idea-to-ship-skills/stargazers) [![Forks](https://img.shields.io/github/forks/nelsonwerd/idea-to-ship-skills?style=flat-square&color=blue)](https://github.com/nelsonwerd/idea-to-ship-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nelsonwerd/idea-to-ship-skills?style=flat-square&color=yellow)](https://github.com/nelsonwerd/idea-to-ship-skills/stargazers) [![Forks](https://img.shields.io/github/forks/nelsonwerd/idea-to-ship-skills?style=flat-square&color=blue)](https://github.com/nelsonwerd/idea-to-ship-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped — a manual tier (ideate, deep-dive, prompt-pack) and an autonomous tier (autopilot, build-loop, audit-and-fix).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools · Product
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ nelsonwerd/
 | forks | 21/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

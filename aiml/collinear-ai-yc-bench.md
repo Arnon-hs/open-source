@@ -1,6 +1,6 @@
 # collinear-ai/yc-bench
 
-[![Stars](https://img.shields.io/github/stars/collinear-ai/yc-bench?style=flat-square&color=yellow)](https://github.com/collinear-ai/yc-bench/stargazers) [![Forks](https://img.shields.io/github/forks/collinear-ai/yc-bench?style=flat-square&color=blue)](https://github.com/collinear-ai/yc-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/collinear-ai/yc-bench?style=flat-square&color=yellow)](https://github.com/collinear-ai/yc-bench/stargazers) [![Forks](https://img.shields.io/github/forks/collinear-ai/yc-bench?style=flat-square&color=blue)](https://github.com/collinear-ai/yc-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Your Company Bench: Long-horizon coherence benchmark in simulated time to test AI agent abilities to manage resources and maximize returns as a tech startup founder
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ YC Bench 的生产可用性为中等（Medium）。它适用于快速 prototypin
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

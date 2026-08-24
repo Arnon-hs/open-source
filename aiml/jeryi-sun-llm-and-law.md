@@ -1,6 +1,6 @@
 # Jeryi-Sun/LLM-and-Law
 
-[![Stars](https://img.shields.io/github/stars/Jeryi-Sun/LLM-and-Law?style=flat-square&color=yellow)](https://github.com/Jeryi-Sun/LLM-and-Law/stargazers) [![Forks](https://img.shields.io/github/forks/Jeryi-Sun/LLM-and-Law?style=flat-square&color=blue)](https://github.com/Jeryi-Sun/LLM-and-Law/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jeryi-Sun/LLM-and-Law?style=flat-square&color=yellow)](https://github.com/Jeryi-Sun/LLM-and-Law/stargazers) [![Forks](https://img.shields.io/github/forks/Jeryi-Sun/LLM-and-Law?style=flat-square&color=blue)](https://github.com/Jeryi-Sun/LLM-and-Law/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > This repository is dedicated to summarizing papers related to large language models with the field of law
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Jeryi-Sun/LLM-and-Law 的生产可用性为Medium
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

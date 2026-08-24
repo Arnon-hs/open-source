@@ -1,6 +1,6 @@
 # Librelancer/Librelancer
 
-[![Stars](https://img.shields.io/github/stars/Librelancer/Librelancer?style=flat-square&color=yellow)](https://github.com/Librelancer/Librelancer/stargazers) [![Forks](https://img.shields.io/github/forks/Librelancer/Librelancer?style=flat-square&color=blue)](https://github.com/Librelancer/Librelancer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Librelancer/Librelancer?style=flat-square&color=yellow)](https://github.com/Librelancer/Librelancer/stargazers) [![Forks](https://img.shields.io/github/forks/Librelancer/Librelancer?style=flat-square&color=blue)](https://github.com/Librelancer/Librelancer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A re-implementation of Freelancer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Librelancer/Librelancer 的生产可用性为中等，适合于 prototyping 或�
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

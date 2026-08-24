@@ -1,6 +1,6 @@
 # tadfisher/android-nixpkgs
 
-[![Stars](https://img.shields.io/github/stars/tadfisher/android-nixpkgs?style=flat-square&color=yellow)](https://github.com/tadfisher/android-nixpkgs/stargazers) [![Forks](https://img.shields.io/github/forks/tadfisher/android-nixpkgs?style=flat-square&color=blue)](https://github.com/tadfisher/android-nixpkgs/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tadfisher/android-nixpkgs?style=flat-square&color=yellow)](https://github.com/tadfisher/android-nixpkgs/stargazers) [![Forks](https://img.shields.io/github/forks/tadfisher/android-nixpkgs?style=flat-square&color=blue)](https://github.com/tadfisher/android-nixpkgs/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Nix-packaged Android SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ tadfisher/android-nixpkgs 是一个开源项目，提供了 Nix 包装的 Androi
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mudrii/openclaw-dashboard
 
-[![Stars](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=flat-square&color=yellow)](https://github.com/mudrii/openclaw-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/mudrii/openclaw-dashboard?style=flat-square&color=blue)](https://github.com/mudrii/openclaw-dashboard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=flat-square&color=yellow)](https://github.com/mudrii/openclaw-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/mudrii/openclaw-dashboard?style=flat-square&color=blue)](https://github.com/mudrii/openclaw-dashboard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful, zero-dependency command center for OpenClaw AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 452 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ mudrii/openclaw-dashboard 是一个零依赖的命令中心，用于 OpenClaw AI
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kvyb/opentulpa
 
-[![Stars](https://img.shields.io/github/stars/kvyb/opentulpa?style=flat-square&color=yellow)](https://github.com/kvyb/opentulpa/stargazers) [![Forks](https://img.shields.io/github/forks/kvyb/opentulpa?style=flat-square&color=blue)](https://github.com/kvyb/opentulpa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kvyb/opentulpa?style=flat-square&color=yellow)](https://github.com/kvyb/opentulpa/stargazers) [![Forks](https://img.shields.io/github/forks/kvyb/opentulpa?style=flat-square&color=blue)](https://github.com/kvyb/opentulpa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted personal AI agent and employee for workflow automation in your DMs. It writes code, runs tools, schedules jobs, saves workflows, and remembers context.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ kvyb/opentulpa 是一款可自托管的个人 AI 助手，专注于在私聊（D
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zendesk/maxwell
 
-[![Stars](https://img.shields.io/github/stars/zendesk/maxwell?style=flat-square&color=yellow)](https://github.com/zendesk/maxwell/stargazers) [![Forks](https://img.shields.io/github/forks/zendesk/maxwell?style=flat-square&color=blue)](https://github.com/zendesk/maxwell/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zendesk/maxwell?style=flat-square&color=yellow)](https://github.com/zendesk/maxwell/stargazers) [![Forks](https://img.shields.io/github/forks/zendesk/maxwell?style=flat-square&color=blue)](https://github.com/zendesk/maxwell/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Maxwell's daemon, a mysql-to-json kafka producer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Zendesk/maxwell 帮助团队:
 | forks | 75/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

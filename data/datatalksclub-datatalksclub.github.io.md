@@ -1,6 +1,6 @@
 # DataTalksClub/datatalksclub.github.io
 
-[![Stars](https://img.shields.io/github/stars/DataTalksClub/datatalksclub.github.io?style=flat-square&color=yellow)](https://github.com/DataTalksClub/datatalksclub.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/datatalksclub.github.io?style=flat-square&color=blue)](https://github.com/DataTalksClub/datatalksclub.github.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataTalksClub/datatalksclub.github.io?style=flat-square&color=yellow)](https://github.com/DataTalksClub/datatalksclub.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/datatalksclub.github.io?style=flat-square&color=blue)](https://github.com/DataTalksClub/datatalksclub.github.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The web page for DataTalks.Club, a global online community of data enthusiasts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 340 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ DataTalksClub/datatalksclub.github.io 的主要价值在于帮助用户将数据
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

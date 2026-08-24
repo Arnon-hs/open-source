@@ -1,6 +1,6 @@
 # waiaas/WAIaaS
 
-[![Stars](https://img.shields.io/github/stars/waiaas/WAIaaS?style=flat-square&color=yellow)](https://github.com/waiaas/WAIaaS/stargazers) [![Forks](https://img.shields.io/github/forks/waiaas/WAIaaS?style=flat-square&color=blue)](https://github.com/waiaas/WAIaaS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waiaas/WAIaaS?style=flat-square&color=yellow)](https://github.com/waiaas/WAIaaS/stargazers) [![Forks](https://img.shields.io/github/forks/waiaas/WAIaaS?style=flat-square&color=blue)](https://github.com/waiaas/WAIaaS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Wallet-as-a-Service for all AI agents in the world
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ waiaas/WAIaaS 的生产可用性为中等（Medium）。它适合用于 Prototyp
 | forks | 24/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

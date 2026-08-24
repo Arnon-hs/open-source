@@ -1,6 +1,6 @@
 # marketingtoolslist/awesome-marketing
 
-[![Stars](https://img.shields.io/github/stars/marketingtoolslist/awesome-marketing?style=flat-square&color=yellow)](https://github.com/marketingtoolslist/awesome-marketing/stargazers) [![Forks](https://img.shields.io/github/forks/marketingtoolslist/awesome-marketing?style=flat-square&color=blue)](https://github.com/marketingtoolslist/awesome-marketing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marketingtoolslist/awesome-marketing?style=flat-square&color=yellow)](https://github.com/marketingtoolslist/awesome-marketing/stargazers) [![Forks](https://img.shields.io/github/forks/marketingtoolslist/awesome-marketing?style=flat-square&color=blue)](https://github.com/marketingtoolslist/awesome-marketing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome marketing tools and resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ MarketingToolsList/Awesome-Marketing 的生产可用性为中等（Medium），�
 | forks | 55/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

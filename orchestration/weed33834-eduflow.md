@@ -1,6 +1,6 @@
 # weed33834/EduFlow
 
-[![Stars](https://img.shields.io/github/stars/weed33834/EduFlow?style=flat-square&color=yellow)](https://github.com/weed33834/EduFlow/stargazers) [![Forks](https://img.shields.io/github/forks/weed33834/EduFlow?style=flat-square&color=blue)](https://github.com/weed33834/EduFlow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weed33834/EduFlow?style=flat-square&color=yellow)](https://github.com/weed33834/EduFlow/stargazers) [![Forks](https://img.shields.io/github/forks/weed33834/EduFlow?style=flat-square&color=blue)](https://github.com/weed33834/EduFlow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > EduFlow 畅学 — AI-driven student self-learning platform. AI agents assist, students lead. Next.js + FastAPI + LangGraph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · Database · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ EduFlow 通过将零散的 Prompt 和工具封装为可重复的 AI Agent 工作
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

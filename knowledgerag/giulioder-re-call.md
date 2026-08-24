@@ -1,6 +1,6 @@
 # GiulioDER/RE-call
 
-[![Stars](https://img.shields.io/github/stars/GiulioDER/RE-call?style=flat-square&color=yellow)](https://github.com/GiulioDER/RE-call/stargazers) [![Forks](https://img.shields.io/github/forks/GiulioDER/RE-call?style=flat-square&color=blue)](https://github.com/GiulioDER/RE-call/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GiulioDER/RE-call?style=flat-square&color=yellow)](https://github.com/GiulioDER/RE-call/stargazers) [![Forks](https://img.shields.io/github/forks/GiulioDER/RE-call?style=flat-square&color=blue)](https://github.com/GiulioDER/RE-call/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): The memory layer that never calls an LLM: what that buys, and what it costs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Here's a brief summary of the open-source project:
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 35/100 |
+| recency | 60/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

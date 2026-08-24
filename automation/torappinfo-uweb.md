@@ -1,6 +1,6 @@
 # torappinfo/uweb
 
-[![Stars](https://img.shields.io/github/stars/torappinfo/uweb?style=flat-square&color=yellow)](https://github.com/torappinfo/uweb/stargazers) [![Forks](https://img.shields.io/github/forks/torappinfo/uweb?style=flat-square&color=blue)](https://github.com/torappinfo/uweb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/torappinfo/uweb?style=flat-square&color=yellow)](https://github.com/torappinfo/uweb/stargazers) [![Forks](https://img.shields.io/github/forks/torappinfo/uweb?style=flat-square&color=blue)](https://github.com/torappinfo/uweb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > uweb browser: minimal suckless android web browser for geeks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Database · Mobile
+Automation · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ torappinfo/uweb 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # xaspx/hermes-control-interface
 
-[![Stars](https://img.shields.io/github/stars/xaspx/hermes-control-interface?style=flat-square&color=yellow)](https://github.com/xaspx/hermes-control-interface/stargazers) [![Forks](https://img.shields.io/github/forks/xaspx/hermes-control-interface?style=flat-square&color=blue)](https://github.com/xaspx/hermes-control-interface/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xaspx/hermes-control-interface?style=flat-square&color=yellow)](https://github.com/xaspx/hermes-control-interface/stargazers) [![Forks](https://img.shields.io/github/forks/xaspx/hermes-control-interface?style=flat-square&color=blue)](https://github.com/xaspx/hermes-control-interface/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ xaspx/hermes‑control‑interface 是一款自托管的 Web 控制面板，专�
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 25/100 |
-| outlook | 80/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

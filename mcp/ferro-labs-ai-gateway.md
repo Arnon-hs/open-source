@@ -1,6 +1,6 @@
 # ferro-labs/ai-gateway
 
-[![Stars](https://img.shields.io/github/stars/ferro-labs/ai-gateway?style=flat-square&color=yellow)](https://github.com/ferro-labs/ai-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/ferro-labs/ai-gateway?style=flat-square&color=blue)](https://github.com/ferro-labs/ai-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferro-labs/ai-gateway?style=flat-square&color=yellow)](https://github.com/ferro-labs/ai-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/ferro-labs/ai-gateway?style=flat-square&color=blue)](https://github.com/ferro-labs/ai-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost controls. Go-native Fastest & Scalable AI Gateway LiteLLM & Kong AI Gateway alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · DevOps/Infra
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ AI Gateway 的生产可用性非常高，主要原因包括：
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

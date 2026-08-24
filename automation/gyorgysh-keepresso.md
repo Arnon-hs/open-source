@@ -1,6 +1,6 @@
 # gyorgysh/keepresso
 
-[![Stars](https://img.shields.io/github/stars/gyorgysh/keepresso?style=flat-square&color=yellow)](https://github.com/gyorgysh/keepresso/stargazers) [![Forks](https://img.shields.io/github/forks/gyorgysh/keepresso?style=flat-square&color=blue)](https://github.com/gyorgysh/keepresso/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gyorgysh/keepresso?style=flat-square&color=yellow)](https://github.com/gyorgysh/keepresso/stargazers) [![Forks](https://img.shields.io/github/forks/gyorgysh/keepresso?style=flat-square&color=blue)](https://github.com/gyorgysh/keepresso/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Keep your Mac awake on your terms. A native macOS menu-bar app with condition-based triggers, closed-display mode, and a headless-Mac toolkit. Built for AI agents, servers, and always-on Macs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ gyorgysh/keepresso 的生产可用性为中等。它适合用于原型或内部�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

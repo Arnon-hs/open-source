@@ -1,6 +1,6 @@
 # pretalx/pretalx
 
-[![Stars](https://img.shields.io/github/stars/pretalx/pretalx?style=flat-square&color=yellow)](https://github.com/pretalx/pretalx/stargazers) [![Forks](https://img.shields.io/github/forks/pretalx/pretalx?style=flat-square&color=blue)](https://github.com/pretalx/pretalx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pretalx/pretalx?style=flat-square&color=yellow)](https://github.com/pretalx/pretalx/stargazers) [![Forks](https://img.shields.io/github/forks/pretalx/pretalx?style=flat-square&color=blue)](https://github.com/pretalx/pretalx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Conference planning tool: CfP, scheduling, speaker management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 923 |
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ pretalx 是一款开源的会议策划平台，提供完整的征稿（CfP）、
 | forks | 60/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

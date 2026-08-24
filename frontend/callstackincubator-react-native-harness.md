@@ -1,6 +1,6 @@
 # callstackincubator/react-native-harness
 
-[![Stars](https://img.shields.io/github/stars/callstackincubator/react-native-harness?style=flat-square&color=yellow)](https://github.com/callstackincubator/react-native-harness/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/react-native-harness?style=flat-square&color=blue)](https://github.com/callstackincubator/react-native-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/callstackincubator/react-native-harness?style=flat-square&color=yellow)](https://github.com/callstackincubator/react-native-harness/stargazers) [![Forks](https://img.shields.io/github/forks/callstackincubator/react-native-harness?style=flat-square&color=blue)](https://github.com/callstackincubator/react-native-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Harness brings Jest-style tests to real native environments so you can test TurboModules like you would test your React Native app: with JavaScript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Harness是一个开源项目，帮助开发者在真实的native环境中运行J
 | forks | 30/100 |
 | stars | 53/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

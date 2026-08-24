@@ -1,6 +1,6 @@
 # awslabs/aws-sdk-rust
 
-[![Stars](https://img.shields.io/github/stars/awslabs/aws-sdk-rust?style=flat-square&color=yellow)](https://github.com/awslabs/aws-sdk-rust/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/aws-sdk-rust?style=flat-square&color=blue)](https://github.com/awslabs/aws-sdk-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/aws-sdk-rust?style=flat-square&color=yellow)](https://github.com/awslabs/aws-sdk-rust/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/aws-sdk-rust?style=flat-square&color=blue)](https://github.com/awslabs/aws-sdk-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AWS SDK for the Rust Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 284 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ awslabs/aws-sdk-rust 的生产可用性为中等（Medium）。它适合用于�
 | forks | 61/100 |
 | stars | 75/100 |
 | topics | 25/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

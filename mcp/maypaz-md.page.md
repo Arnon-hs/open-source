@@ -1,6 +1,6 @@
 # maypaz/md.page
 
-[![Stars](https://img.shields.io/github/stars/maypaz/md.page?style=flat-square&color=yellow)](https://github.com/maypaz/md.page/stargazers) [![Forks](https://img.shields.io/github/forks/maypaz/md.page?style=flat-square&color=blue)](https://github.com/maypaz/md.page/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maypaz/md.page?style=flat-square&color=yellow)](https://github.com/maypaz/md.page/stargazers) [![Forks](https://img.shields.io/github/forks/maypaz/md.page?style=flat-square&color=blue)](https://github.com/maypaz/md.page/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Instantly turn Markdown into a shareable web page. Self-hostable open-source engine of md.page.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ maypaz/md.page 具有很高的生产可用性，理由如下：
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

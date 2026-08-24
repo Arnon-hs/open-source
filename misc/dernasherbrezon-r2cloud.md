@@ -1,6 +1,6 @@
 # dernasherbrezon/r2cloud
 
-[![Stars](https://img.shields.io/github/stars/dernasherbrezon/r2cloud?style=flat-square&color=yellow)](https://github.com/dernasherbrezon/r2cloud/stargazers) [![Forks](https://img.shields.io/github/forks/dernasherbrezon/r2cloud?style=flat-square&color=blue)](https://github.com/dernasherbrezon/r2cloud/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dernasherbrezon/r2cloud?style=flat-square&color=yellow)](https://github.com/dernasherbrezon/r2cloud/stargazers) [![Forks](https://img.shields.io/github/forks/dernasherbrezon/r2cloud?style=flat-square&color=blue)](https://github.com/dernasherbrezon/r2cloud/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Decode satellite signals on Raspberry PI or any other 64-bit CPU.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ dernasherbrezon/r2cloud 的生产可用性为中等。该项目可能适用于�
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

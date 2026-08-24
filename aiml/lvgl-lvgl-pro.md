@@ -1,6 +1,6 @@
 # lvgl/lvgl_pro
 
-[![Stars](https://img.shields.io/github/stars/lvgl/lvgl_pro?style=flat-square&color=yellow)](https://github.com/lvgl/lvgl_pro/stargazers) [![Forks](https://img.shields.io/github/forks/lvgl/lvgl_pro?style=flat-square&color=blue)](https://github.com/lvgl/lvgl_pro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lvgl/lvgl_pro?style=flat-square&color=yellow)](https://github.com/lvgl/lvgl_pro/stargazers) [![Forks](https://img.shields.io/github/forks/lvgl/lvgl_pro?style=flat-square&color=blue)](https://github.com/lvgl/lvgl_pro/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > LVGL Pro is a professional toolkit to speed up UI development with LVGL. It includes an Editor, a Figma plugin, an Online Viewer, and a CLI. It's free for non-commertial use and evaluation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 652 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ LVGL Pro 的生产可用性很高，原因包括：
 | forks | 70/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

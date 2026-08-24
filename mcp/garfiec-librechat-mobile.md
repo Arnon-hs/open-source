@@ -1,6 +1,6 @@
 # garfiec/Librechat-Mobile
 
-[![Stars](https://img.shields.io/github/stars/garfiec/Librechat-Mobile?style=flat-square&color=yellow)](https://github.com/garfiec/Librechat-Mobile/stargazers) [![Forks](https://img.shields.io/github/forks/garfiec/Librechat-Mobile?style=flat-square&color=blue)](https://github.com/garfiec/Librechat-Mobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/garfiec/Librechat-Mobile?style=flat-square&color=yellow)](https://github.com/garfiec/Librechat-Mobile/stargazers) [![Forks](https://img.shields.io/github/forks/garfiec/Librechat-Mobile?style=flat-square&color=blue)](https://github.com/garfiec/Librechat-Mobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Native Android & iOS client for LibreChat, built with Kotlin Multiplatform and Compose Multiplatform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ garfiec/Librechat‑Mobile 是一款基于 Kotlin Multiplatform 与 Compose Mult
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

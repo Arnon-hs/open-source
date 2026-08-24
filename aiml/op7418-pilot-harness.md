@@ -1,6 +1,6 @@
 # op7418/pilot-harness
 
-[![Stars](https://img.shields.io/github/stars/op7418/pilot-harness?style=flat-square&color=yellow)](https://github.com/op7418/pilot-harness/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/pilot-harness?style=flat-square&color=blue)](https://github.com/op7418/pilot-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/op7418/pilot-harness?style=flat-square&color=yellow)](https://github.com/op7418/pilot-harness/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/pilot-harness?style=flat-square&color=blue)](https://github.com/op7418/pilot-harness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ op7418/pilot-harness：op7418/pilot-harness helps add AI capability without star
 | forks | 21/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

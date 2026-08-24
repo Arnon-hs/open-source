@@ -1,6 +1,6 @@
 # QuackbackIO/quackback
 
-[![Stars](https://img.shields.io/github/stars/QuackbackIO/quackback?style=flat-square&color=yellow)](https://github.com/QuackbackIO/quackback/stargazers) [![Forks](https://img.shields.io/github/forks/QuackbackIO/quackback?style=flat-square&color=blue)](https://github.com/QuackbackIO/quackback/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QuackbackIO/quackback?style=flat-square&color=yellow)](https://github.com/QuackbackIO/quackback/stargazers) [![Forks](https://img.shields.io/github/forks/QuackbackIO/quackback?style=flat-square&color=blue)](https://github.com/QuackbackIO/quackback/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open source alternative to Canny, UserVoice, Productboard
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ QuackbackIO/quackback 在生产环境中可用性较高，主要原因是：
 | forks | 46/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

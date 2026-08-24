@@ -1,6 +1,6 @@
 # ravsau/ai-tutorials
 
-[![Stars](https://img.shields.io/github/stars/ravsau/ai-tutorials?style=flat-square&color=yellow)](https://github.com/ravsau/ai-tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/ravsau/ai-tutorials?style=flat-square&color=blue)](https://github.com/ravsau/ai-tutorials/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ravsau/ai-tutorials?style=flat-square&color=yellow)](https://github.com/ravsau/ai-tutorials/stargazers) [![Forks](https://img.shields.io/github/forks/ravsau/ai-tutorials?style=flat-square&color=blue)](https://github.com/ravsau/ai-tutorials/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > code and files that accompany cloudyeti ai tutorials
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Overall, *ravsau/ai‑tutorials* offers a valuable, low‑friction way to get AI
 | forks | 26/100 |
 | stars | 33/100 |
 | topics | 88/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

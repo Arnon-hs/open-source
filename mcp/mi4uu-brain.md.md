@@ -1,6 +1,6 @@
 # mi4uu/brain.md
 
-[![Stars](https://img.shields.io/github/stars/mi4uu/brain.md?style=flat-square&color=yellow)](https://github.com/mi4uu/brain.md/stargazers) [![Forks](https://img.shields.io/github/forks/mi4uu/brain.md?style=flat-square&color=blue)](https://github.com/mi4uu/brain.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mi4uu/brain.md?style=flat-square&color=yellow)](https://github.com/mi4uu/brain.md/stargazers) [![Forks](https://img.shields.io/github/forks/mi4uu/brain.md?style=flat-square&color=blue)](https://github.com/mi4uu/brain.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first markdown notes with a first-class MCP server. 16 tools + 2 resources for Claude Code, Claude Desktop, Cursor and any MCP agent. Per-folder permissions, semantic RAG via LanceDB, single Bun binary. AGPL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ mi4uu/brain.md 帮助连接 AI 助手（如 Claude Code、Claude Desktop、Curso
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

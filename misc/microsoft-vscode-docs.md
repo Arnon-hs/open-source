@@ -1,6 +1,6 @@
 # microsoft/vscode-docs
 
-[![Stars](https://img.shields.io/github/stars/microsoft/vscode-docs?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-docs/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-docs?style=flat-square&color=blue)](https://github.com/microsoft/vscode-docs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/vscode-docs?style=flat-square&color=yellow)](https://github.com/microsoft/vscode-docs/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vscode-docs?style=flat-square&color=blue)](https://github.com/microsoft/vscode-docs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Public documentation for Visual Studio Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Microsoft/vscode-docs 是 Visual Studio Code 的公共文档项目，提供了�
 | forks | 94/100 |
 | stars | 81/100 |
 | topics | 13/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 85/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

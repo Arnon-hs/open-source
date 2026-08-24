@@ -1,6 +1,6 @@
 # hanlulong/openecon-data
 
-[![Stars](https://img.shields.io/github/stars/hanlulong/openecon-data?style=flat-square&color=yellow)](https://github.com/hanlulong/openecon-data/stargazers) [![Forks](https://img.shields.io/github/forks/hanlulong/openecon-data?style=flat-square&color=blue)](https://github.com/hanlulong/openecon-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hanlulong/openecon-data?style=flat-square&color=yellow)](https://github.com/hanlulong/openecon-data/stargazers) [![Forks](https://img.shields.io/github/forks/hanlulong/openecon-data?style=flat-square&color=blue)](https://github.com/hanlulong/openecon-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent accurate economic data. 330K indicators from FRED, World Bank, IMF, Eurostat & more. MCP server + web UI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ hanlulong/openecon-data 为 AI 代理提供精准的宏观经济数据，聚合�
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

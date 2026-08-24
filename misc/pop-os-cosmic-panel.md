@@ -1,6 +1,6 @@
 # pop-os/cosmic-panel
 
-[![Stars](https://img.shields.io/github/stars/pop-os/cosmic-panel?style=flat-square&color=yellow)](https://github.com/pop-os/cosmic-panel/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/cosmic-panel?style=flat-square&color=blue)](https://github.com/pop-os/cosmic-panel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pop-os/cosmic-panel?style=flat-square&color=yellow)](https://github.com/pop-os/cosmic-panel/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/cosmic-panel?style=flat-square&color=blue)](https://github.com/pop-os/cosmic-panel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > COSMIC applet for creating panels and docks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ COSMIC applet 是一个开源项目，用于创建面板和dock。它可以帮�
 | forks | 48/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

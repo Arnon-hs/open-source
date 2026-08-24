@@ -1,6 +1,6 @@
 # yixiangshijie/ai-agents-in-action-2nd-edition-cn
 
-[![Stars](https://img.shields.io/github/stars/yixiangshijie/ai-agents-in-action-2nd-edition-cn?style=flat-square&color=yellow)](https://github.com/yixiangshijie/ai-agents-in-action-2nd-edition-cn/stargazers) [![Forks](https://img.shields.io/github/forks/yixiangshijie/ai-agents-in-action-2nd-edition-cn?style=flat-square&color=blue)](https://github.com/yixiangshijie/ai-agents-in-action-2nd-edition-cn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yixiangshijie/ai-agents-in-action-2nd-edition-cn?style=flat-square&color=yellow)](https://github.com/yixiangshijie/ai-agents-in-action-2nd-edition-cn/stargazers) [![Forks](https://img.shields.io/github/forks/yixiangshijie/ai-agents-in-action-2nd-edition-cn?style=flat-square&color=blue)](https://github.com/yixiangshijie/ai-agents-in-action-2nd-edition-cn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目是《AI Agents in Action》第二版的中文译本，是一本智能体系统构建与应用的实战指南——目标不止于打造自主实体，更在于开发能够切实应对并解决现实问题的智能体。  全书从大语言模型（LLM）的基础应用出发，逐步深入到智能助手、多智能体系统与自主智能体的构建，系统讲解智能体系统的关键组成部分：角色、工具与行动、知识与记忆、检索与增强、推理与规划、评估与反馈。第二版将五个功能层作为组织原则，并新增 MCP 协议、测试驱动的智能体开发（TDAD）、智能体循环、认知与元认知等前沿主题，帮助开发者构建生产级智能体系统。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ The adoption path for this project involves several steps:
 | forks | 27/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

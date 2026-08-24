@@ -1,6 +1,6 @@
 # reatom/reatom
 
-[![Stars](https://img.shields.io/github/stars/reatom/reatom?style=flat-square&color=yellow)](https://github.com/reatom/reatom/stargazers) [![Forks](https://img.shields.io/github/forks/reatom/reatom?style=flat-square&color=blue)](https://github.com/reatom/reatom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reatom/reatom?style=flat-square&color=yellow)](https://github.com/reatom/reatom/stargazers) [![Forks](https://img.shields.io/github/forks/reatom/reatom?style=flat-square&color=blue)](https://github.com/reatom/reatom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Reatom - the ultimate state manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Reatom 的生产可用性评分为高（High），因为：
 | forks | 53/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # minthcm/minthcm
 
-[![Stars](https://img.shields.io/github/stars/minthcm/minthcm?style=flat-square&color=yellow)](https://github.com/minthcm/minthcm/stargazers) [![Forks](https://img.shields.io/github/forks/minthcm/minthcm?style=flat-square&color=blue)](https://github.com/minthcm/minthcm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minthcm/minthcm?style=flat-square&color=yellow)](https://github.com/minthcm/minthcm/stargazers) [![Forks](https://img.shields.io/github/forks/minthcm/minthcm?style=flat-square&color=blue)](https://github.com/minthcm/minthcm/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source HCM system for managing HR processes with AI agents. Full data ownership, MCP/A2A-native, no vendor lock-in.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Data
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ minthcm/minthcm 是一款开源的人力资源管理系统（HCM），通过 AI 
 | forks | 47/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

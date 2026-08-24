@@ -1,6 +1,6 @@
 # wuwangzhang1216/claude-code-source-all-in-one
 
-[![Stars](https://img.shields.io/github/stars/wuwangzhang1216/claude-code-source-all-in-one?style=flat-square&color=yellow)](https://github.com/wuwangzhang1216/claude-code-source-all-in-one/stargazers) [![Forks](https://img.shields.io/github/forks/wuwangzhang1216/claude-code-source-all-in-one?style=flat-square&color=blue)](https://github.com/wuwangzhang1216/claude-code-source-all-in-one/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wuwangzhang1216/claude-code-source-all-in-one?style=flat-square&color=yellow)](https://github.com/wuwangzhang1216/claude-code-source-all-in-one/stargazers) [![Forks](https://img.shields.io/github/forks/wuwangzhang1216/claude-code-source-all-in-one?style=flat-square&color=blue)](https://github.com/wuwangzhang1216/claude-code-source-all-in-one/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Always up-to-date open-source mirror of Claude Code (currently v2.1.123). Run from source with Claude subscription/API, ChatGPT subscription (GPT-5.5 / GPT-5.4), OpenAI-compatible providers, or local Ollama. 18 deep-dive architecture articles included. For educational and reference purposes only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ wuwangzhang1216/claude-code-source-all-in-one 提供了 Claude Code（v2.1.123�
 | forks | 49/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

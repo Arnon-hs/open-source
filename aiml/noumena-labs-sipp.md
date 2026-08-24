@@ -1,6 +1,6 @@
 # noumena-labs/Sipp
 
-[![Stars](https://img.shields.io/github/stars/noumena-labs/Sipp?style=flat-square&color=yellow)](https://github.com/noumena-labs/Sipp/stargazers) [![Forks](https://img.shields.io/github/forks/noumena-labs/Sipp?style=flat-square&color=blue)](https://github.com/noumena-labs/Sipp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noumena-labs/Sipp?style=flat-square&color=yellow)](https://github.com/noumena-labs/Sipp/stargazers) [![Forks](https://img.shields.io/github/forks/noumena-labs/Sipp?style=flat-square&color=blue)](https://github.com/noumena-labs/Sipp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI inference, packed simply. A blazing-fast, zero-dependency WebGPU runtime to run GGUF models directly in the browser. Features a symmetric API for seamless local execution and cloud provider routing. Built with Rust & C++.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ noumena-labs/Sipp的生产可用性为中等（Medium）。它适合用于原型
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

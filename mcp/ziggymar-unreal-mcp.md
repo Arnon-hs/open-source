@@ -1,6 +1,6 @@
 # ZiggyMar/unreal-mcp
 
-[![Stars](https://img.shields.io/github/stars/ZiggyMar/unreal-mcp?style=flat-square&color=yellow)](https://github.com/ZiggyMar/unreal-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ZiggyMar/unreal-mcp?style=flat-square&color=blue)](https://github.com/ZiggyMar/unreal-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZiggyMar/unreal-mcp?style=flat-square&color=yellow)](https://github.com/ZiggyMar/unreal-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ZiggyMar/unreal-mcp?style=flat-square&color=blue)](https://github.com/ZiggyMar/unreal-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Unreal Engine 5.6/5.8 — token-efficient Blueprint reading, editing, and a persistent project index for AI coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP
 
 ## 📝 Summary
 
@@ -66,14 +66,15 @@ ZiggyMar/unreal-mcp：ZiggyMar/unreal-mcp helps connect AI assistants to real to
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 50/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 45/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 66/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

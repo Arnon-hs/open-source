@@ -1,6 +1,6 @@
 # strapi/strapi
 
-[![Stars](https://img.shields.io/github/stars/strapi/strapi?style=flat-square&color=yellow)](https://github.com/strapi/strapi/stargazers) [![Forks](https://img.shields.io/github/forks/strapi/strapi?style=flat-square&color=blue)](https://github.com/strapi/strapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strapi/strapi?style=flat-square&color=yellow)](https://github.com/strapi/strapi/stargazers) [![Forks](https://img.shields.io/github/forks/strapi/strapi?style=flat-square&color=blue)](https://github.com/strapi/strapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72.9k |
 | 🍴 **Forks** | 9.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database
+Backend · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Strapi具有高生产可用性，最近有活跃的开发活动，广泛的采�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 98/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 91/100 |
+| quality | 95/100 |
+| recency | 80/100 |
 | adoption | 100/100 |
-| production | 86/100 |
+| production | 79/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

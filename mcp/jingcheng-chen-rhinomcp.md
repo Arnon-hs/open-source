@@ -1,6 +1,6 @@
 # jingcheng-chen/rhinomcp
 
-[![Stars](https://img.shields.io/github/stars/jingcheng-chen/rhinomcp?style=flat-square&color=yellow)](https://github.com/jingcheng-chen/rhinomcp/stargazers) [![Forks](https://img.shields.io/github/forks/jingcheng-chen/rhinomcp?style=flat-square&color=blue)](https://github.com/jingcheng-chen/rhinomcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jingcheng-chen/rhinomcp?style=flat-square&color=yellow)](https://github.com/jingcheng-chen/rhinomcp/stargazers) [![Forks](https://img.shields.io/github/forks/jingcheng-chen/rhinomcp?style=flat-square&color=blue)](https://github.com/jingcheng-chen/rhinomcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > RhinoMCP connects Rhino 3D to AI Agent through the Model Context Protocol (MCP)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 777 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,14 +132,15 @@ RhinoMCP（jingcheng-chen/rhinomcp）是一个开源库，基于 **Model Context
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

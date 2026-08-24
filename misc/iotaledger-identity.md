@@ -1,6 +1,6 @@
 # iotaledger/identity
 
-[![Stars](https://img.shields.io/github/stars/iotaledger/identity?style=flat-square&color=yellow)](https://github.com/iotaledger/identity/stargazers) [![Forks](https://img.shields.io/github/forks/iotaledger/identity?style=flat-square&color=blue)](https://github.com/iotaledger/identity/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iotaledger/identity?style=flat-square&color=yellow)](https://github.com/iotaledger/identity/stargazers) [![Forks](https://img.shields.io/github/forks/iotaledger/identity?style=flat-square&color=blue)](https://github.com/iotaledger/identity/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation of the Decentralized Identity standards such as DID and Verifiable Credentials by W3C for the IOTA MoveVM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ iotaledger/identity 是一个开源项目，实现了 W3C 的 Decentralized Iden
 | forks | 50/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

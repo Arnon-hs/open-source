@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database · Education · Product
+Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
@@ -75,6 +75,7 @@ romanyn36/agentic-ai-roadmap：romanyn36/agentic-ai-roadmap helps turn isolated 
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

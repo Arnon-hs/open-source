@@ -1,6 +1,6 @@
 # datawhalechina/all-in-rag
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/all-in-rag?style=flat-square&color=yellow)](https://github.com/datawhalechina/all-in-rag/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/all-in-rag?style=flat-square&color=blue)](https://github.com/datawhalechina/all-in-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/all-in-rag?style=flat-square&color=yellow)](https://github.com/datawhalechina/all-in-rag/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/all-in-rag?style=flat-square&color=blue)](https://github.com/datawhalechina/all-in-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Overall, *datawhalechina/all‑in‑RAG* is a high‑readiness OSS candidate for
 | forks | 89/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

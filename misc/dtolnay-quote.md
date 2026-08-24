@@ -1,6 +1,6 @@
 # dtolnay/quote
 
-[![Stars](https://img.shields.io/github/stars/dtolnay/quote?style=flat-square&color=yellow)](https://github.com/dtolnay/quote/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/quote?style=flat-square&color=blue)](https://github.com/dtolnay/quote/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtolnay/quote?style=flat-square&color=yellow)](https://github.com/dtolnay/quote/stargazers) [![Forks](https://img.shields.io/github/forks/dtolnay/quote?style=flat-square&color=blue)](https://github.com/dtolnay/quote/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Rust quasi-quoting
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ dtolnay/quote 的生产可用性被评估为中等（Medium）。它可以用于
 | forks | 52/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

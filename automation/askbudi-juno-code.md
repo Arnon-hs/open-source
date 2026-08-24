@@ -1,6 +1,6 @@
 # askbudi/juno-code
 
-[![Stars](https://img.shields.io/github/stars/askbudi/juno-code?style=flat-square&color=yellow)](https://github.com/askbudi/juno-code/stargazers) [![Forks](https://img.shields.io/github/forks/askbudi/juno-code?style=flat-square&color=blue)](https://github.com/askbudi/juno-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/askbudi/juno-code?style=flat-square&color=yellow)](https://github.com/askbudi/juno-code/stargazers) [![Forks](https://img.shields.io/github/forks/askbudi/juno-code?style=flat-square&color=blue)](https://github.com/askbudi/juno-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Ralph Wiggum meet Kanban! Ralph style execution for [Claude Code, Codex, Pi, Cursor]. One task per iteration, automatic progress tracking, and git commits. Set it and let it run.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ askbudi/juno-code 通过在每次迭代中只执行单个任务并自动跟踪�
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

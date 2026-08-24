@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ tegridydev/dnd-llm-game 是一个利用多个本地 LLM 模型协同工作的 D&
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

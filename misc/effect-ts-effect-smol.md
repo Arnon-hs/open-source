@@ -1,6 +1,6 @@
 # Effect-TS/effect-smol
 
-[![Stars](https://img.shields.io/github/stars/Effect-TS/effect-smol?style=flat-square&color=yellow)](https://github.com/Effect-TS/effect-smol/stargazers) [![Forks](https://img.shields.io/github/forks/Effect-TS/effect-smol?style=flat-square&color=blue)](https://github.com/Effect-TS/effect-smol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Effect-TS/effect-smol?style=flat-square&color=yellow)](https://github.com/Effect-TS/effect-smol/stargazers) [![Forks](https://img.shields.io/github/forks/Effect-TS/effect-smol?style=flat-square&color=blue)](https://github.com/Effect-TS/effect-smol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Core libraries and experimental work for Effect v4
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 724 |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Effect‑TS/effect‑smol 是 Effect v4 的核心库与实验性实现集合，�
 | forks | 56/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

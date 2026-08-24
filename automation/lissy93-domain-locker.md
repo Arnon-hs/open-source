@@ -1,6 +1,6 @@
 # lissy93/domain-locker
 
-[![Stars](https://img.shields.io/github/stars/lissy93/domain-locker?style=flat-square&color=yellow)](https://github.com/lissy93/domain-locker/stargazers) [![Forks](https://img.shields.io/github/forks/lissy93/domain-locker?style=flat-square&color=blue)](https://github.com/lissy93/domain-locker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lissy93/domain-locker?style=flat-square&color=yellow)](https://github.com/lissy93/domain-locker/stargazers) [![Forks](https://img.shields.io/github/forks/lissy93/domain-locker?style=flat-square&color=blue)](https://github.com/lissy93/domain-locker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability · DevOps/Infra · Security
+Automation · Observability · DevOps/Infra · Security · Product
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ lissy93/domain-locker 是一款基于 TypeScript 的全功能域名管理工具�
 | forks | 50/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 82/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

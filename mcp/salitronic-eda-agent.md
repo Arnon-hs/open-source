@@ -1,6 +1,6 @@
 # salitronic/eda-agent
 
-[![Stars](https://img.shields.io/github/stars/salitronic/eda-agent?style=flat-square&color=yellow)](https://github.com/salitronic/eda-agent/stargazers) [![Forks](https://img.shields.io/github/forks/salitronic/eda-agent?style=flat-square&color=blue)](https://github.com/salitronic/eda-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/salitronic/eda-agent?style=flat-square&color=yellow)](https://github.com/salitronic/eda-agent/stargazers) [![Forks](https://img.shields.io/github/forks/salitronic/eda-agent?style=flat-square&color=blue)](https://github.com/salitronic/eda-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source MCP server for Altium Designer. 290+ tools for schematic, PCB, library & project automation over a persistent DelphiScript bridge: design review, audits, SVG render, connectivity-driven auto-placement, panelization, and an autonomous design-plan executor. Apache-2.0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Design
+MCP · Automation · AI/ML · Design
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ salitronic/eda-agent的生产可用性非常
 | forks | 31/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

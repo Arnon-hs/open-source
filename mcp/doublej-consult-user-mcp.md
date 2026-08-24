@@ -1,6 +1,6 @@
 # doublej/consult-user-mcp
 
-[![Stars](https://img.shields.io/github/stars/doublej/consult-user-mcp?style=flat-square&color=yellow)](https://github.com/doublej/consult-user-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/doublej/consult-user-mcp?style=flat-square&color=blue)](https://github.com/doublej/consult-user-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doublej/consult-user-mcp?style=flat-square&color=yellow)](https://github.com/doublej/consult-user-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/doublej/consult-user-mcp?style=flat-square&color=blue)](https://github.com/doublej/consult-user-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Consult User MCP - A Human Consultation Interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ doublej/consult-user-mcp 是一个开源项目，提供了一个标准的接口�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

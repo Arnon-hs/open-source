@@ -1,6 +1,6 @@
 # Adyen/adyen-php-api-library
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-php-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-php-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-php-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-php-api-library/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-php-api-library?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-php-api-library/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-php-api-library?style=flat-square&color=blue)](https://github.com/Adyen/adyen-php-api-library/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen API Library for PHP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-04-21 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · DevTools
+Payments · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Adyen/adyen-php-api-library 是 Adyen 官方提供的 PHP SDK，帮助开发者�
 | forks | 52/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 67/100 |
-| recency | 60/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 64/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tuanductran/hr-skills
 
-[![Stars](https://img.shields.io/github/stars/tuanductran/hr-skills?style=flat-square&color=yellow)](https://github.com/tuanductran/hr-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tuanductran/hr-skills?style=flat-square&color=blue)](https://github.com/tuanductran/hr-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuanductran/hr-skills?style=flat-square&color=yellow)](https://github.com/tuanductran/hr-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tuanductran/hr-skills?style=flat-square&color=blue)](https://github.com/tuanductran/hr-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI skills and technical recruiting knowledge for modern HR and talent acquisition teams.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ tuanductran/hr-skills 是面向现代 HR 与人才招聘团队的开源库，提
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

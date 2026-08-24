@@ -1,6 +1,6 @@
 # aicoincom/coinos-skills
 
-[![Stars](https://img.shields.io/github/stars/aicoincom/coinos-skills?style=flat-square&color=yellow)](https://github.com/aicoincom/coinos-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aicoincom/coinos-skills?style=flat-square&color=blue)](https://github.com/aicoincom/coinos-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aicoincom/coinos-skills?style=flat-square&color=yellow)](https://github.com/aicoincom/coinos-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aicoincom/coinos-skills?style=flat-square&color=blue)](https://github.com/aicoincom/coinos-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AiCoin crypto toolkit for AI agents — 40+ tools for real-time prices, K-lines, AI analysis, funding rates, whale tracking, Hyperliquid on-chain analytics, exchange trading (CCXT),   and Freqtrade bot automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Frontend
+Crypto · Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ aicoincom/coinos-skills：aicoincom/coinos-skills helps prototype or inspect blo
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sstadick/cargo-bundle-licenses
 
-[![Stars](https://img.shields.io/github/stars/sstadick/cargo-bundle-licenses?style=flat-square&color=yellow)](https://github.com/sstadick/cargo-bundle-licenses/stargazers) [![Forks](https://img.shields.io/github/forks/sstadick/cargo-bundle-licenses?style=flat-square&color=blue)](https://github.com/sstadick/cargo-bundle-licenses/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sstadick/cargo-bundle-licenses?style=flat-square&color=yellow)](https://github.com/sstadick/cargo-bundle-licenses/stargazers) [![Forks](https://img.shields.io/github/forks/sstadick/cargo-bundle-licenses?style=flat-square&color=blue)](https://github.com/sstadick/cargo-bundle-licenses/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Generate a THIRDPARTY file with all licenses in a cargo project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ sstadick/cargo-bundle-licenses：sstadick/cargo-bundle-licenses may be useful wh
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

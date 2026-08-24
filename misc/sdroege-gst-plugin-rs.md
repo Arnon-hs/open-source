@@ -1,6 +1,6 @@
 # sdroege/gst-plugin-rs
 
-[![Stars](https://img.shields.io/github/stars/sdroege/gst-plugin-rs?style=flat-square&color=yellow)](https://github.com/sdroege/gst-plugin-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/gst-plugin-rs?style=flat-square&color=blue)](https://github.com/sdroege/gst-plugin-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdroege/gst-plugin-rs?style=flat-square&color=yellow)](https://github.com/sdroege/gst-plugin-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/gst-plugin-rs?style=flat-square&color=blue)](https://github.com/sdroege/gst-plugin-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rust crate for writing GStreamer plugins and various plugins - This repository moved to https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Overall, `gst-plugin-rs` offers a compelling way to write safe, high‑performan
 | forks | 40/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

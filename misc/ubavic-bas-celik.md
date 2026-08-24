@@ -1,6 +1,6 @@
 # ubavic/bas-celik
 
-[![Stars](https://img.shields.io/github/stars/ubavic/bas-celik?style=flat-square&color=yellow)](https://github.com/ubavic/bas-celik/stargazers) [![Forks](https://img.shields.io/github/forks/ubavic/bas-celik?style=flat-square&color=blue)](https://github.com/ubavic/bas-celik/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ubavic/bas-celik?style=flat-square&color=yellow)](https://github.com/ubavic/bas-celik/stargazers) [![Forks](https://img.shields.io/github/forks/ubavic/bas-celik?style=flat-square&color=blue)](https://github.com/ubavic/bas-celik/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A program for reading smart-card documents issued by the government of Serbia
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ ubavic/bas-celik 是用 Go 编写的工具，能够读取塞尔维亚政府颁�
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

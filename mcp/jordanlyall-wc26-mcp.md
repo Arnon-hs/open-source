@@ -1,6 +1,6 @@
 # jordanlyall/wc26-mcp
 
-[![Stars](https://img.shields.io/github/stars/jordanlyall/wc26-mcp?style=flat-square&color=yellow)](https://github.com/jordanlyall/wc26-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jordanlyall/wc26-mcp?style=flat-square&color=blue)](https://github.com/jordanlyall/wc26-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jordanlyall/wc26-mcp?style=flat-square&color=yellow)](https://github.com/jordanlyall/wc26-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jordanlyall/wc26-mcp?style=flat-square&color=blue)](https://github.com/jordanlyall/wc26-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI companion for FIFA World Cup 2026 — 18 tools covering matches, teams, venues, city guides, fan zones, visa info, head-to-head records, and more. Works with Claude, ChatGPT, Cursor, and Telegram.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ jordanlyall/wc26-mcp 是面向 2026 年 FIFA 世界杯的 AI 助手平台，提�
 | forks | 25/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

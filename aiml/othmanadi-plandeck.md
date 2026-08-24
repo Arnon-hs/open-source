@@ -1,6 +1,6 @@
 # OthmanAdi/plandeck
 
-[![Stars](https://img.shields.io/github/stars/OthmanAdi/plandeck?style=flat-square&color=yellow)](https://github.com/OthmanAdi/plandeck/stargazers) [![Forks](https://img.shields.io/github/forks/OthmanAdi/plandeck?style=flat-square&color=blue)](https://github.com/OthmanAdi/plandeck/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OthmanAdi/plandeck?style=flat-square&color=yellow)](https://github.com/OthmanAdi/plandeck/stargazers) [![Forks](https://img.shields.io/github/forks/OthmanAdi/plandeck?style=flat-square&color=blue)](https://github.com/OthmanAdi/plandeck/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The visual Kanban for long-running AI agents. Watch your agent's plan organize itself: dependencies unlock into Ready, the critical path lights up, the one next move is obvious. Nobody wants to read a markdown plan.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ OthmanAdi/plandeck 的生产可用性为中等。它适用于以下场景：
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

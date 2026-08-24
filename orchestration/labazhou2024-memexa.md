@@ -1,6 +1,6 @@
 # labazhou2024/memexa
 
-[![Stars](https://img.shields.io/github/stars/labazhou2024/memexa?style=flat-square&color=yellow)](https://github.com/labazhou2024/memexa/stargazers) [![Forks](https://img.shields.io/github/forks/labazhou2024/memexa?style=flat-square&color=blue)](https://github.com/labazhou2024/memexa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/labazhou2024/memexa?style=flat-square&color=yellow)](https://github.com/labazhou2024/memexa/stargazers) [![Forks](https://img.shields.io/github/forks/labazhou2024/memexa?style=flat-square&color=blue)](https://github.com/labazhou2024/memexa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A traceable personal memory layer that carries verified state across apps, models, and AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ memexa 的生产可用性为中等。它适合用于原型或内部工作流，�
 | forks | 17/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

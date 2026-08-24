@@ -1,6 +1,6 @@
 # apache/parquet-java
 
-[![Stars](https://img.shields.io/github/stars/apache/parquet-java?style=flat-square&color=yellow)](https://github.com/apache/parquet-java/stargazers) [![Forks](https://img.shields.io/github/forks/apache/parquet-java?style=flat-square&color=blue)](https://github.com/apache/parquet-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/parquet-java?style=flat-square&color=yellow)](https://github.com/apache/parquet-java/stargazers) [![Forks](https://img.shields.io/github/forks/apache/parquet-java?style=flat-square&color=blue)](https://github.com/apache/parquet-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Parquet Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Apache Parquet Java 在生产环境中使用时需要注意的风险包括：
 | forks | 80/100 |
 | stars | 74/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

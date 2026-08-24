@@ -1,6 +1,6 @@
 # russellbrenner/jurisd
 
-[![Stars](https://img.shields.io/github/stars/russellbrenner/jurisd?style=flat-square&color=yellow)](https://github.com/russellbrenner/jurisd/stargazers) [![Forks](https://img.shields.io/github/forks/russellbrenner/jurisd?style=flat-square&color=blue)](https://github.com/russellbrenner/jurisd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/russellbrenner/jurisd?style=flat-square&color=yellow)](https://github.com/russellbrenner/jurisd/stargazers) [![Forks](https://img.shields.io/github/forks/russellbrenner/jurisd?style=flat-square&color=blue)](https://github.com/russellbrenner/jurisd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > jurisd (formerly auslaw-mcp) is a local-first MCP server and CLI giving any AI agent grounded Australian and New Zealand legal research: AustLII and jade.io retrieval with resilient fallback, deterministic provision lookup, offline citation graph, fast AGLC4 linting, plus optional semantic search and graph recall over your own local corpora.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ jurisd（前身 auslaw‑mcp）是一个本地优先的 MCP 服务器与 CLI，�
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pgjdbc/pgjdbc
 
-[![Stars](https://img.shields.io/github/stars/pgjdbc/pgjdbc?style=flat-square&color=yellow)](https://github.com/pgjdbc/pgjdbc/stargazers) [![Forks](https://img.shields.io/github/forks/pgjdbc/pgjdbc?style=flat-square&color=blue)](https://github.com/pgjdbc/pgjdbc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgjdbc/pgjdbc?style=flat-square&color=yellow)](https://github.com/pgjdbc/pgjdbc/stargazers) [![Forks](https://img.shields.io/github/forks/pgjdbc/pgjdbc?style=flat-square&color=blue)](https://github.com/pgjdbc/pgjdbc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Postgresql JDBC Driver
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 934 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,14 +123,15 @@ pgjdbc/pgjdbc 是 PostgreSQL 官方的 JDBC 驱动，提供 Java 应用与 Postg
 | forks | 74/100 |
 | stars | 69/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

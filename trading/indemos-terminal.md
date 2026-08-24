@@ -1,6 +1,6 @@
 # Indemos/Terminal
 
-[![Stars](https://img.shields.io/github/stars/Indemos/Terminal?style=flat-square&color=yellow)](https://github.com/Indemos/Terminal/stargazers) [![Forks](https://img.shields.io/github/forks/Indemos/Terminal?style=flat-square&color=blue)](https://github.com/Indemos/Terminal/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Indemos/Terminal?style=flat-square&color=yellow)](https://github.com/Indemos/Terminal/stargazers) [![Forks](https://img.shields.io/github/forks/Indemos/Terminal?style=flat-square&color=blue)](https://github.com/Indemos/Terminal/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one. Trading terminal with generic gateway implementation, tick backtester, charting, and performance evaluator for trading strategies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Backend · DevTools · Database
+Trading · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Indemos/Terminal：Indemos/Terminal helps research and automate market workflows
 | forks | 29/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

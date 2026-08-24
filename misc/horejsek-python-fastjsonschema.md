@@ -1,6 +1,6 @@
 # horejsek/python-fastjsonschema
 
-[![Stars](https://img.shields.io/github/stars/horejsek/python-fastjsonschema?style=flat-square&color=yellow)](https://github.com/horejsek/python-fastjsonschema/stargazers) [![Forks](https://img.shields.io/github/forks/horejsek/python-fastjsonschema?style=flat-square&color=blue)](https://github.com/horejsek/python-fastjsonschema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horejsek/python-fastjsonschema?style=flat-square&color=yellow)](https://github.com/horejsek/python-fastjsonschema/stargazers) [![Forks](https://img.shields.io/github/forks/horejsek/python-fastjsonschema?style=flat-square&color=blue)](https://github.com/horejsek/python-fastjsonschema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Fast JSON schema validator for Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ horejsek/python-fastjsonschema 的生产可用性为中等（Medium）。它适�
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

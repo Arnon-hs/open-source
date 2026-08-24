@@ -1,6 +1,6 @@
 # openshift/cluster-node-tuning-operator
 
-[![Stars](https://img.shields.io/github/stars/openshift/cluster-node-tuning-operator?style=flat-square&color=yellow)](https://github.com/openshift/cluster-node-tuning-operator/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/cluster-node-tuning-operator?style=flat-square&color=blue)](https://github.com/openshift/cluster-node-tuning-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/cluster-node-tuning-operator?style=flat-square&color=yellow)](https://github.com/openshift/cluster-node-tuning-operator/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/cluster-node-tuning-operator?style=flat-square&color=blue)](https://github.com/openshift/cluster-node-tuning-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Manage node-level tuning by orchestrating the tuned daemon.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ openshift/cluster-node-tuning-operator是一个开源项目，用于管理节点
 | forks | 53/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

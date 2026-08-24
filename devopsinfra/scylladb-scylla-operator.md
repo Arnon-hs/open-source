@@ -1,6 +1,6 @@
 # scylladb/scylla-operator
 
-[![Stars](https://img.shields.io/github/stars/scylladb/scylla-operator?style=flat-square&color=yellow)](https://github.com/scylladb/scylla-operator/stargazers) [![Forks](https://img.shields.io/github/forks/scylladb/scylla-operator?style=flat-square&color=blue)](https://github.com/scylladb/scylla-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scylladb/scylla-operator?style=flat-square&color=yellow)](https://github.com/scylladb/scylla-operator/stargazers) [![Forks](https://img.shields.io/github/forks/scylladb/scylla-operator?style=flat-square&color=blue)](https://github.com/scylladb/scylla-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Kubernetes Operator for ScyllaDB
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ Scylla-operator 在生产环境中具有较高的可用性。它有以下优势�
 | forks | 58/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

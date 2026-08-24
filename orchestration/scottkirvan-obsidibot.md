@@ -1,6 +1,6 @@
 # ScottKirvan/ObsidiBot
 
-[![Stars](https://img.shields.io/github/stars/ScottKirvan/ObsidiBot?style=flat-square&color=yellow)](https://github.com/ScottKirvan/ObsidiBot/stargazers) [![Forks](https://img.shields.io/github/forks/ScottKirvan/ObsidiBot?style=flat-square&color=blue)](https://github.com/ScottKirvan/ObsidiBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScottKirvan/ObsidiBot?style=flat-square&color=yellow)](https://github.com/ScottKirvan/ObsidiBot/stargazers) [![Forks](https://img.shields.io/github/forks/ScottKirvan/ObsidiBot?style=flat-square&color=blue)](https://github.com/ScottKirvan/ObsidiBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > More than a writing assistant — ObsidiBot turns your Obsidian vault into a personal AI platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Database
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ ObsidiBot（ScottKirvan/ObsidiBot）是一款基于 TypeScript 的开源框架�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

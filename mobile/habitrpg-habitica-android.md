@@ -1,6 +1,6 @@
 # HabitRPG/habitica-android
 
-[![Stars](https://img.shields.io/github/stars/HabitRPG/habitica-android?style=flat-square&color=yellow)](https://github.com/HabitRPG/habitica-android/stargazers) [![Forks](https://img.shields.io/github/forks/HabitRPG/habitica-android?style=flat-square&color=blue)](https://github.com/HabitRPG/habitica-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HabitRPG/habitica-android?style=flat-square&color=yellow)](https://github.com/HabitRPG/habitica-android/stargazers) [![Forks](https://img.shields.io/github/forks/HabitRPG/habitica-android?style=flat-square&color=blue)](https://github.com/HabitRPG/habitica-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Native Android app for Habitica
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 583 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ HabitRPG/Habitica-Android 是一款开源的 Native Android 应用，用于 Habi
 | forks | 69/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

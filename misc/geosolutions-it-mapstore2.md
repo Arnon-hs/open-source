@@ -1,6 +1,6 @@
 # geosolutions-it/MapStore2
 
-[![Stars](https://img.shields.io/github/stars/geosolutions-it/MapStore2?style=flat-square&color=yellow)](https://github.com/geosolutions-it/MapStore2/stargazers) [![Forks](https://img.shields.io/github/forks/geosolutions-it/MapStore2?style=flat-square&color=blue)](https://github.com/geosolutions-it/MapStore2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geosolutions-it/MapStore2?style=flat-square&color=yellow)](https://github.com/geosolutions-it/MapStore2/stargazers) [![Forks](https://img.shields.io/github/forks/geosolutions-it/MapStore2?style=flat-square&color=blue)](https://github.com/geosolutions-it/MapStore2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The solution to create and share maps, dashboards, geostories with 3D support on the web. And it is open-source too!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 637 |
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ MapStore2（geosolutions‑it/MapStore2）是一套基于 Web 的 GIS 平台，�
 | forks | 66/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

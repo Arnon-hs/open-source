@@ -1,6 +1,6 @@
 # dromara/RuoYi-Vue-Plus
 
-[![Stars](https://img.shields.io/github/stars/dromara/RuoYi-Vue-Plus?style=flat-square&color=yellow)](https://github.com/dromara/RuoYi-Vue-Plus/stargazers) [![Forks](https://img.shields.io/github/forks/dromara/RuoYi-Vue-Plus?style=flat-square&color=blue)](https://github.com/dromara/RuoYi-Vue-Plus/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dromara/RuoYi-Vue-Plus?style=flat-square&color=yellow)](https://github.com/dromara/RuoYi-Vue-Plus/stargazers) [![Forks](https://img.shields.io/github/forks/dromara/RuoYi-Vue-Plus?style=flat-square&color=blue)](https://github.com/dromara/RuoYi-Vue-Plus/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 691 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ dromara / RuoYi‑Vue‑Plus 是基于多租户的后台管理系统，全�
 | forks | 71/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

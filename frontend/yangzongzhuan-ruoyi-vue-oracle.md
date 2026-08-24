@@ -1,6 +1,6 @@
 # yangzongzhuan/RuoYi-Vue-Oracle
 
-[![Stars](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Vue-Oracle?style=flat-square&color=yellow)](https://github.com/yangzongzhuan/RuoYi-Vue-Oracle/stargazers) [![Forks](https://img.shields.io/github/forks/yangzongzhuan/RuoYi-Vue-Oracle?style=flat-square&color=blue)](https://github.com/yangzongzhuan/RuoYi-Vue-Oracle/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Vue-Oracle?style=flat-square&color=yellow)](https://github.com/yangzongzhuan/RuoYi-Vue-Oracle/stargazers) [![Forks](https://img.shields.io/github/forks/yangzongzhuan/RuoYi-Vue-Oracle?style=flat-square&color=blue)](https://github.com/yangzongzhuan/RuoYi-Vue-Oracle/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile · Security
+Frontend · DevTools · Security
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ RuoYi-Vue-Oracle 的生产可用性很高，主要原因是：
 | forks | 59/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

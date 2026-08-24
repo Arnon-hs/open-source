@@ -1,6 +1,6 @@
 # scikit-image/scikit-image
 
-[![Stars](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&color=yellow)](https://github.com/scikit-image/scikit-image/stargazers) [![Forks](https://img.shields.io/github/forks/scikit-image/scikit-image?style=flat-square&color=blue)](https://github.com/scikit-image/scikit-image/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&color=yellow)](https://github.com/scikit-image/scikit-image/stargazers) [![Forks](https://img.shields.io/github/forks/scikit-image/scikit-image?style=flat-square&color=blue)](https://github.com/scikit-image/scikit-image/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Image processing in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ scikit-image 是基于 Python 的开源图像处理库，提供了丰富的算�
 | forks | 84/100 |
 | stars | 81/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 82/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # MetaMask/metamask-docs
 
-[![Stars](https://img.shields.io/github/stars/MetaMask/metamask-docs?style=flat-square&color=yellow)](https://github.com/MetaMask/metamask-docs/stargazers) [![Forks](https://img.shields.io/github/forks/MetaMask/metamask-docs?style=flat-square&color=blue)](https://github.com/MetaMask/metamask-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MetaMask/metamask-docs?style=flat-square&color=yellow)](https://github.com/MetaMask/metamask-docs/stargazers) [![Forks](https://img.shields.io/github/forks/MetaMask/metamask-docs?style=flat-square&color=blue)](https://github.com/MetaMask/metamask-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Developer documentation for MetaMask
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 857 |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ MetaMask/metamask-docs 的生产可用性为中等（Medium）。它适合用于
 | forks | 83/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

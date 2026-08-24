@@ -1,6 +1,6 @@
 # mtrnix/metronix-memory
 
-[![Stars](https://img.shields.io/github/stars/mtrnix/metronix-memory?style=flat-square&color=yellow)](https://github.com/mtrnix/metronix-memory/stargazers) [![Forks](https://img.shields.io/github/forks/mtrnix/metronix-memory?style=flat-square&color=blue)](https://github.com/mtrnix/metronix-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mtrnix/metronix-memory?style=flat-square&color=yellow)](https://github.com/mtrnix/metronix-memory/stargazers) [![Forks](https://img.shields.io/github/forks/mtrnix/metronix-memory?style=flat-square&color=blue)](https://github.com/mtrnix/metronix-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · DevOps/Infra
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Metronix Memory 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

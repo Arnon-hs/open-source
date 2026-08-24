@@ -1,6 +1,6 @@
 # WhiteNightShadow/camoufox-reverse-mcp
 
-[![Stars](https://img.shields.io/github/stars/WhiteNightShadow/camoufox-reverse-mcp?style=flat-square&color=yellow)](https://github.com/WhiteNightShadow/camoufox-reverse-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/WhiteNightShadow/camoufox-reverse-mcp?style=flat-square&color=blue)](https://github.com/WhiteNightShadow/camoufox-reverse-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WhiteNightShadow/camoufox-reverse-mcp?style=flat-square&color=yellow)](https://github.com/WhiteNightShadow/camoufox-reverse-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/WhiteNightShadow/camoufox-reverse-mcp?style=flat-square&color=blue)](https://github.com/WhiteNightShadow/camoufox-reverse-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🔧 反检测浏览器 MCP Server | 35 个 JS 逆向工具 + C++ 引擎层 JSVMP 指纹追踪
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 417 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ WhiteNightShadow/camoufox-reverse-mcp 的生产可用性为中等（Medium）。
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

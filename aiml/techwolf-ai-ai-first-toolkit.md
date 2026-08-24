@@ -1,6 +1,6 @@
 # techwolf-ai/ai-first-toolkit
 
-[![Stars](https://img.shields.io/github/stars/techwolf-ai/ai-first-toolkit?style=flat-square&color=yellow)](https://github.com/techwolf-ai/ai-first-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/techwolf-ai/ai-first-toolkit?style=flat-square&color=blue)](https://github.com/techwolf-ai/ai-first-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/techwolf-ai/ai-first-toolkit?style=flat-square&color=yellow)](https://github.com/techwolf-ai/ai-first-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/techwolf-ai/ai-first-toolkit?style=flat-square&color=blue)](https://github.com/techwolf-ai/ai-first-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-first design principles.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ techwolf‑ai/ai‑first‑toolkit 是一套开源的 Claude Code 与 Codex �
 | forks | 12/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

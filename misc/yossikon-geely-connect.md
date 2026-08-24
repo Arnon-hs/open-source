@@ -1,6 +1,6 @@
 # YossiKon/geely-connect
 
-[![Stars](https://img.shields.io/github/stars/YossiKon/geely-connect?style=flat-square&color=yellow)](https://github.com/YossiKon/geely-connect/stargazers) [![Forks](https://img.shields.io/github/forks/YossiKon/geely-connect?style=flat-square&color=blue)](https://github.com/YossiKon/geely-connect/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YossiKon/geely-connect?style=flat-square&color=yellow)](https://github.com/YossiKon/geely-connect/stargazers) [![Forks](https://img.shields.io/github/forks/YossiKon/geely-connect?style=flat-square&color=blue)](https://github.com/YossiKon/geely-connect/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ However, this project is not recommended for large-scale or critical production 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 36/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

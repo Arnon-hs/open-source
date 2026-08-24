@@ -1,6 +1,6 @@
 # mario-andreschak/FLUJO
 
-[![Stars](https://img.shields.io/github/stars/mario-andreschak/FLUJO?style=flat-square&color=yellow)](https://github.com/mario-andreschak/FLUJO/stargazers) [![Forks](https://img.shields.io/github/forks/mario-andreschak/FLUJO?style=flat-square&color=blue)](https://github.com/mario-andreschak/FLUJO/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mario-andreschak/FLUJO?style=flat-square&color=yellow)](https://github.com/mario-andreschak/FLUJO/stargazers) [![Forks](https://img.shields.io/github/forks/mario-andreschak/FLUJO?style=flat-square&color=blue)](https://github.com/mario-andreschak/FLUJO/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > MCP-Hub and -Inspector, Multi-Model Workflow and Chat Interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ FLUJO (mario‑andreschak/FLUJO) is an open‑source MCP‑Hub and Inspector tha
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

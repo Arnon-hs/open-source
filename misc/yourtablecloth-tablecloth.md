@@ -1,6 +1,6 @@
 # yourtablecloth/TableCloth
 
-[![Stars](https://img.shields.io/github/stars/yourtablecloth/TableCloth?style=flat-square&color=yellow)](https://github.com/yourtablecloth/TableCloth/stargazers) [![Forks](https://img.shields.io/github/forks/yourtablecloth/TableCloth?style=flat-square&color=blue)](https://github.com/yourtablecloth/TableCloth/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yourtablecloth/TableCloth?style=flat-square&color=yellow)](https://github.com/yourtablecloth/TableCloth/stargazers) [![Forks](https://img.shields.io/github/forks/yourtablecloth/TableCloth?style=flat-square&color=blue)](https://github.com/yourtablecloth/TableCloth/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 식탁보 프로젝트
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ yourtablecloth/TableCloth（식탁보 项目）是一个用 C# 编写的开源�
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

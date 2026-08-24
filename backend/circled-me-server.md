@@ -1,6 +1,6 @@
 # circled-me/server
 
-[![Stars](https://img.shields.io/github/stars/circled-me/server?style=flat-square&color=yellow)](https://github.com/circled-me/server/stargazers) [![Forks](https://img.shields.io/github/forks/circled-me/server?style=flat-square&color=blue)](https://github.com/circled-me/server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/circled-me/server?style=flat-square&color=yellow)](https://github.com/circled-me/server/stargazers) [![Forks](https://img.shields.io/github/forks/circled-me/server?style=flat-square&color=blue)](https://github.com/circled-me/server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Video Calls, Chat, Photo and Sharing Community Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ circled-me/server 的生产可用性为中等（Medium）。它适合于内部�
 | forks | 21/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

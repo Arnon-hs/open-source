@@ -1,6 +1,6 @@
 # mikepenz/action-junit-report
 
-[![Stars](https://img.shields.io/github/stars/mikepenz/action-junit-report?style=flat-square&color=yellow)](https://github.com/mikepenz/action-junit-report/stargazers) [![Forks](https://img.shields.io/github/forks/mikepenz/action-junit-report?style=flat-square&color=blue)](https://github.com/mikepenz/action-junit-report/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikepenz/action-junit-report?style=flat-square&color=yellow)](https://github.com/mikepenz/action-junit-report/stargazers) [![Forks](https://img.shields.io/github/forks/mikepenz/action-junit-report?style=flat-square&color=blue)](https://github.com/mikepenz/action-junit-report/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Reports junit test results as GitHub Pull Request Check
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ mikepenz/action-junit-report 的价值在于，它可以帮助开发者:
 | forks | 55/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

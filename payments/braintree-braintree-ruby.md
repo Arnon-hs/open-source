@@ -1,6 +1,6 @@
 # braintree/braintree_ruby
 
-[![Stars](https://img.shields.io/github/stars/braintree/braintree_ruby?style=flat-square&color=yellow)](https://github.com/braintree/braintree_ruby/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_ruby?style=flat-square&color=blue)](https://github.com/braintree/braintree_ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braintree/braintree_ruby?style=flat-square&color=yellow)](https://github.com/braintree/braintree_ruby/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_ruby?style=flat-square&color=blue)](https://github.com/braintree/braintree_ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Braintree Ruby library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 445 |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Braintree Ruby Library 的生产可用性为中等（Medium）。它适合用于
 | forks | 58/100 |
 | stars | 56/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

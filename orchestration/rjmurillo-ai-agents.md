@@ -1,6 +1,6 @@
 # rjmurillo/ai-agents
 
-[![Stars](https://img.shields.io/github/stars/rjmurillo/ai-agents?style=flat-square&color=yellow)](https://github.com/rjmurillo/ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/rjmurillo/ai-agents?style=flat-square&color=blue)](https://github.com/rjmurillo/ai-agents/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rjmurillo/ai-agents?style=flat-square&color=yellow)](https://github.com/rjmurillo/ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/rjmurillo/ai-agents?style=flat-square&color=blue)](https://github.com/rjmurillo/ai-agents/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent system for software development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ rjmurillo/ai‑agents 将单个 Prompt 与工具封装成可复用的智能体�
 | forks | 26/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

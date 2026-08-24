@@ -1,6 +1,6 @@
 # wp-cli/php-cli-tools
 
-[![Stars](https://img.shields.io/github/stars/wp-cli/php-cli-tools?style=flat-square&color=yellow)](https://github.com/wp-cli/php-cli-tools/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/php-cli-tools?style=flat-square&color=blue)](https://github.com/wp-cli/php-cli-tools/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wp-cli/php-cli-tools?style=flat-square&color=yellow)](https://github.com/wp-cli/php-cli-tools/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/php-cli-tools?style=flat-square&color=blue)](https://github.com/wp-cli/php-cli-tools/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of tools to help with PHP command line utilities
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 683 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ wp‑cli/php‑cli‑tools 是一套面向 PHP 开发者的命令行工具集合
 | forks | 52/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zero-labsco/zero_inspector_kit
 
-[![Stars](https://img.shields.io/github/stars/zero-labsco/zero_inspector_kit?style=flat-square&color=yellow)](https://github.com/zero-labsco/zero_inspector_kit/stargazers) [![Forks](https://img.shields.io/github/forks/zero-labsco/zero_inspector_kit?style=flat-square&color=blue)](https://github.com/zero-labsco/zero_inspector_kit/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zero-labsco/zero_inspector_kit?style=flat-square&color=yellow)](https://github.com/zero-labsco/zero_inspector_kit/stargazers) [![Forks](https://img.shields.io/github/forks/zero-labsco/zero_inspector_kit?style=flat-square&color=blue)](https://github.com/zero-labsco/zero_inspector_kit/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Flutter SDK plugin for in-app developer console, providing real-time debugging tools including network request inspection, logging, database viewing, memory monitoring, FPS monitoring, and route tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data · Database · Observability · Mobile
+DevTools · Database · Observability · Mobile
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Zero Inspector Kit - мощный плагин для Flutter, предоста�
 | forks | 15/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

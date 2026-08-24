@@ -1,6 +1,6 @@
 # amafjarkasi/electron-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/amafjarkasi/electron-mcp-server?style=flat-square&color=yellow)](https://github.com/amafjarkasi/electron-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/amafjarkasi/electron-mcp-server?style=flat-square&color=blue)](https://github.com/amafjarkasi/electron-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amafjarkasi/electron-mcp-server?style=flat-square&color=yellow)](https://github.com/amafjarkasi/electron-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/amafjarkasi/electron-mcp-server?style=flat-square&color=blue)](https://github.com/amafjarkasi/electron-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 A powerful MCP server for debugging Electron applications with deep Chrome DevTools Protocol integration. Control, monitor, and debug Electron apps through a standardized API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ electron-mcp-server 的生产可用性为中等（Medium）：它适合用于原
 | forks | 34/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

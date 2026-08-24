@@ -1,6 +1,6 @@
 # sazardev/goca
 
-[![Stars](https://img.shields.io/github/stars/sazardev/goca?style=flat-square&color=yellow)](https://github.com/sazardev/goca/stargazers) [![Forks](https://img.shields.io/github/forks/sazardev/goca?style=flat-square&color=blue)](https://github.com/sazardev/goca/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sazardev/goca?style=flat-square&color=yellow)](https://github.com/sazardev/goca/stargazers) [![Forks](https://img.shields.io/github/forks/sazardev/goca?style=flat-square&color=blue)](https://github.com/sazardev/goca/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Goca is a powerful CLI code generator for Go that helps you create Clean Architecture projects following best practices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Goca（sazardev/goca）是一款面向 Go 语言的强大 CLI 代码生成器，
 | forks | 25/100 |
 | stars | 52/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

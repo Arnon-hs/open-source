@@ -1,6 +1,6 @@
 # KSwordDEV/KSword
 
-[![Stars](https://img.shields.io/github/stars/KSwordDEV/KSword?style=flat-square&color=yellow)](https://github.com/KSwordDEV/KSword/stargazers) [![Forks](https://img.shields.io/github/forks/KSwordDEV/KSword?style=flat-square&color=blue)](https://github.com/KSwordDEV/KSword/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KSwordDEV/KSword?style=flat-square&color=yellow)](https://github.com/KSwordDEV/KSword/stargazers) [![Forks](https://img.shields.io/github/forks/KSwordDEV/KSword?style=flat-square&color=blue)](https://github.com/KSwordDEV/KSword/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > KSword 5.1 is an open-source Windows toolkit for ARK, kernel debugging, and system forensics.  中文：KSword 5.1 是面向 Windows 的开源 ARK、内核调试与系统取证工具集。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ KSword 5.1 的生产可用性很高，因为它有:
 | forks | 39/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

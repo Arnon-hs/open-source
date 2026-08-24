@@ -1,6 +1,6 @@
 # LongNgn204/local-coding-agent
 
-[![Stars](https://img.shields.io/github/stars/LongNgn204/local-coding-agent?style=flat-square&color=yellow)](https://github.com/LongNgn204/local-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/LongNgn204/local-coding-agent?style=flat-square&color=blue)](https://github.com/LongNgn204/local-coding-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LongNgn204/local-coding-agent?style=flat-square&color=yellow)](https://github.com/LongNgn204/local-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/LongNgn204/local-coding-agent?style=flat-square&color=blue)](https://github.com/LongNgn204/local-coding-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Local MCP coding agent for ChatGPT Web: run files/commands on your own machine via the OpenAI Secure Tunnel, with a Windows tray app and metrics dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,14 +127,15 @@ LongNgn204/local‑coding‑agent 是一款本地 MCP（Model Context Protocol�
 | forks | 28/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

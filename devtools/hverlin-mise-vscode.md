@@ -1,6 +1,6 @@
 # hverlin/mise-vscode
 
-[![Stars](https://img.shields.io/github/stars/hverlin/mise-vscode?style=flat-square&color=yellow)](https://github.com/hverlin/mise-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/hverlin/mise-vscode?style=flat-square&color=blue)](https://github.com/hverlin/mise-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hverlin/mise-vscode?style=flat-square&color=yellow)](https://github.com/hverlin/mise-vscode/stargazers) [![Forks](https://img.shields.io/github/forks/hverlin/mise-vscode?style=flat-square&color=blue)](https://github.com/hverlin/mise-vscode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > VS Code extension for mise-en-place (https://mise.jdx.dev/)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ hverlin/mise-vscode 是一款 VS Code 插件，直接在编辑器中为 [mise�
 | forks | 31/100 |
 | stars | 49/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

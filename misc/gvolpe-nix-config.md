@@ -1,6 +1,6 @@
 # gvolpe/nix-config
 
-[![Stars](https://img.shields.io/github/stars/gvolpe/nix-config?style=flat-square&color=yellow)](https://github.com/gvolpe/nix-config/stargazers) [![Forks](https://img.shields.io/github/forks/gvolpe/nix-config?style=flat-square&color=blue)](https://github.com/gvolpe/nix-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gvolpe/nix-config?style=flat-square&color=yellow)](https://github.com/gvolpe/nix-config/stargazers) [![Forks](https://img.shields.io/github/forks/gvolpe/nix-config?style=flat-square&color=blue)](https://github.com/gvolpe/nix-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > :space_invader: NixOS configuration :space_invader:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ gvolpe/nix-config 是一个开源项目，提供 NixOS 配置管理的解决方�
 | forks | 48/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

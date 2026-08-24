@@ -1,6 +1,6 @@
 # linyshdhhcb/PigHealthSmartMedicine
 
-[![Stars](https://img.shields.io/github/stars/linyshdhhcb/PigHealthSmartMedicine?style=flat-square&color=yellow)](https://github.com/linyshdhhcb/PigHealthSmartMedicine/stargazers) [![Forks](https://img.shields.io/github/forks/linyshdhhcb/PigHealthSmartMedicine?style=flat-square&color=blue)](https://github.com/linyshdhhcb/PigHealthSmartMedicine/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linyshdhhcb/PigHealthSmartMedicine?style=flat-square&color=yellow)](https://github.com/linyshdhhcb/PigHealthSmartMedicine/stargazers) [![Forks](https://img.shields.io/github/forks/linyshdhhcb/PigHealthSmartMedicine?style=flat-square&color=blue)](https://github.com/linyshdhhcb/PigHealthSmartMedicine/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目是一个基于 RAG 的生猪健康管理智慧医药系统，集成了 AI 兽医诊断、疾病管理、药品管理、文章资讯管理等功能模块，旨在通过数字化手段提升生猪养殖的医疗管理水平。系统基于 Spring Boot 3 + Spring AI + Milvus + MySQL 8 + MyBatis-Plus + Ollama / DeepSeek / 通义千问/ 阿里百炼 / SiliconFlow 等技术构建，提供智能兽医诊断服务，帮助养殖户或兽医快速识别生猪病情并推荐相应的治疗方案。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Database · Design
+Knowledge/RAG · AI/ML · Frontend · Database
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ Overall, PigHealthSmartMedicine is a solid foundation for building a smart, AI�
 | forks | 36/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

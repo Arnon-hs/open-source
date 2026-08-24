@@ -1,6 +1,6 @@
 # Misterio77/Foundry
 
-[![Stars](https://img.shields.io/github/stars/Misterio77/Foundry?style=flat-square&color=yellow)](https://github.com/Misterio77/Foundry/stargazers) [![Forks](https://img.shields.io/github/forks/Misterio77/Foundry?style=flat-square&color=blue)](https://github.com/Misterio77/Foundry/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Misterio77/Foundry?style=flat-square&color=yellow)](https://github.com/Misterio77/Foundry/stargazers) [![Forks](https://img.shields.io/github/forks/Misterio77/Foundry?style=flat-square&color=blue)](https://github.com/Misterio77/Foundry/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Personal monorepo. NixOS+home-manager configs, website, and other projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Misterio77/Foundry 是一个个人 monorepo，集合了 NixOS + home‑manager �
 | forks | 44/100 |
 | stars | 66/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

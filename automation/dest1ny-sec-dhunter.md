@@ -1,6 +1,6 @@
 # Dest1ny-Sec/dhunter
 
-[![Stars](https://img.shields.io/github/stars/Dest1ny-Sec/dhunter?style=flat-square&color=yellow)](https://github.com/Dest1ny-Sec/dhunter/stargazers) [![Forks](https://img.shields.io/github/forks/Dest1ny-Sec/dhunter?style=flat-square&color=blue)](https://github.com/Dest1ny-Sec/dhunter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dest1ny-Sec/dhunter?style=flat-square&color=yellow)](https://github.com/Dest1ny-Sec/dhunter/stargazers) [![Forks](https://img.shields.io/github/forks/Dest1ny-Sec/dhunter?style=flat-square&color=blue)](https://github.com/Dest1ny-Sec/dhunter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI 驱动的自主渗透测试平台：输入目标，AI agent 自动完成侦察→规划→主动测试→漏洞验证→报告生成。黑板引擎+多 worker+SRC 验收门禁。仅供学术与安全研究使用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Security
+Automation · AI/ML · Frontend · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Dest1ny-Sec/dhunter：Dest1ny-Sec/dhunter helps remove repetitive manual operati
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

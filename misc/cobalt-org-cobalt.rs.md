@@ -1,6 +1,6 @@
 # cobalt-org/cobalt.rs
 
-[![Stars](https://img.shields.io/github/stars/cobalt-org/cobalt.rs?style=flat-square&color=yellow)](https://github.com/cobalt-org/cobalt.rs/stargazers) [![Forks](https://img.shields.io/github/forks/cobalt-org/cobalt.rs?style=flat-square&color=blue)](https://github.com/cobalt-org/cobalt.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cobalt-org/cobalt.rs?style=flat-square&color=yellow)](https://github.com/cobalt-org/cobalt.rs/stargazers) [![Forks](https://img.shields.io/github/forks/cobalt-org/cobalt.rs?style=flat-square&color=blue)](https://github.com/cobalt-org/cobalt.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Static site generator written in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ cobalt-org/cobalt.rs 是一个用 Rust 编写的静态站点生成器，适合�
 | forks | 51/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

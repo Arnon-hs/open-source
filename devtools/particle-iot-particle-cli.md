@@ -1,6 +1,6 @@
 # particle-iot/particle-cli
 
-[![Stars](https://img.shields.io/github/stars/particle-iot/particle-cli?style=flat-square&color=yellow)](https://github.com/particle-iot/particle-cli/stargazers) [![Forks](https://img.shields.io/github/forks/particle-iot/particle-cli?style=flat-square&color=blue)](https://github.com/particle-iot/particle-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/particle-iot/particle-cli?style=flat-square&color=yellow)](https://github.com/particle-iot/particle-cli/stargazers) [![Forks](https://img.shields.io/github/forks/particle-iot/particle-cli?style=flat-square&color=blue)](https://github.com/particle-iot/particle-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Command Line Interface for Particle Cloud and devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Particle CLI 的生产可用性非常高，主要原因是：
 | forks | 49/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nobodywho-ooo/nobodywho
 
-[![Stars](https://img.shields.io/github/stars/nobodywho-ooo/nobodywho?style=flat-square&color=yellow)](https://github.com/nobodywho-ooo/nobodywho/stargazers) [![Forks](https://img.shields.io/github/forks/nobodywho-ooo/nobodywho?style=flat-square&color=blue)](https://github.com/nobodywho-ooo/nobodywho/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nobodywho-ooo/nobodywho?style=flat-square&color=yellow)](https://github.com/nobodywho-ooo/nobodywho/stargazers) [![Forks](https://img.shields.io/github/forks/nobodywho-ooo/nobodywho?style=flat-square&color=blue)](https://github.com/nobodywho-ooo/nobodywho/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ NobodyWho 是一款基于 Rust 的本地推理引擎，能够在任意设备上�
 | forks | 44/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

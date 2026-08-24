@@ -1,6 +1,6 @@
 # Railly/agentfiles
 
-[![Stars](https://img.shields.io/github/stars/Railly/agentfiles?style=flat-square&color=yellow)](https://github.com/Railly/agentfiles/stargazers) [![Forks](https://img.shields.io/github/forks/Railly/agentfiles?style=flat-square&color=blue)](https://github.com/Railly/agentfiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Railly/agentfiles?style=flat-square&color=yellow)](https://github.com/Railly/agentfiles/stargazers) [![Forks](https://img.shields.io/github/forks/Railly/agentfiles?style=flat-square&color=blue)](https://github.com/Railly/agentfiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 13+ tools — from Obsidian.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Railly/agentfiles 是一款基于 Obsidian 的插件，能够在 Claude Code、C
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

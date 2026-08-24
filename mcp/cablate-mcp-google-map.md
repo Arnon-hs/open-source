@@ -1,6 +1,6 @@
 # cablate/mcp-google-map
 
-[![Stars](https://img.shields.io/github/stars/cablate/mcp-google-map?style=flat-square&color=yellow)](https://github.com/cablate/mcp-google-map/stargazers) [![Forks](https://img.shields.io/github/forks/cablate/mcp-google-map?style=flat-square&color=blue)](https://github.com/cablate/mcp-google-map/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cablate/mcp-google-map?style=flat-square&color=yellow)](https://github.com/cablate/mcp-google-map/stargazers) [![Forks](https://img.shields.io/github/forks/cablate/mcp-google-map?style=flat-square&color=blue)](https://github.com/cablate/mcp-google-map/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ cablate/mcp-google-map 是一个基于 Model Context Protocol（MCP）的服务�
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

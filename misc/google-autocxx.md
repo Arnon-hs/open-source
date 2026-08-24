@@ -1,6 +1,6 @@
 # google/autocxx
 
-[![Stars](https://img.shields.io/github/stars/google/autocxx?style=flat-square&color=yellow)](https://github.com/google/autocxx/stargazers) [![Forks](https://img.shields.io/github/forks/google/autocxx?style=flat-square&color=blue)](https://github.com/google/autocxx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/autocxx?style=flat-square&color=yellow)](https://github.com/google/autocxx/stargazers) [![Forks](https://img.shields.io/github/forks/google/autocxx?style=flat-square&color=blue)](https://github.com/google/autocxx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ google/autocxx 的生产可用性较高，因为它有以下几个优势：
 | forks | 56/100 |
 | stars | 73/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

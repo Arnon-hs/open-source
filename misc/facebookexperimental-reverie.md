@@ -1,6 +1,6 @@
 # facebookexperimental/reverie
 
-[![Stars](https://img.shields.io/github/stars/facebookexperimental/reverie?style=flat-square&color=yellow)](https://github.com/facebookexperimental/reverie/stargazers) [![Forks](https://img.shields.io/github/forks/facebookexperimental/reverie?style=flat-square&color=blue)](https://github.com/facebookexperimental/reverie/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookexperimental/reverie?style=flat-square&color=yellow)](https://github.com/facebookexperimental/reverie/stargazers) [![Forks](https://img.shields.io/github/forks/facebookexperimental/reverie?style=flat-square&color=blue)](https://github.com/facebookexperimental/reverie/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An ergonomic and safe syscall interception framework for Linux.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ Reverie（facebookexperimental/reverie）是一个基于 Rust 实现的 Linux �
 | forks | 41/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

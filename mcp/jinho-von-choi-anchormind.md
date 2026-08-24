@@ -1,6 +1,6 @@
 # JinHo-von-Choi/anchormind
 
-[![Stars](https://img.shields.io/github/stars/JinHo-von-Choi/anchormind?style=flat-square&color=yellow)](https://github.com/JinHo-von-Choi/anchormind/stargazers) [![Forks](https://img.shields.io/github/forks/JinHo-von-Choi/anchormind?style=flat-square&color=blue)](https://github.com/JinHo-von-Choi/anchormind/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JinHo-von-Choi/anchormind?style=flat-square&color=yellow)](https://github.com/JinHo-von-Choi/anchormind/stargazers) [![Forks](https://img.shields.io/github/forks/JinHo-von-Choi/anchormind?style=flat-square&color=blue)](https://github.com/JinHo-von-Choi/anchormind/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fragment-Based Memory MCP Server — AI 중장기 기억 시스템 (구 Memento-mcp)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Database
+MCP
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ JinHo-von-Choi/anchormind 的生产可用性为中等（Medium），适用于原
 | forks | 36/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

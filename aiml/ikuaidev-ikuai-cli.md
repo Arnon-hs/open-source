@@ -1,6 +1,6 @@
 # ikuaidev/ikuai-cli
 
-[![Stars](https://img.shields.io/github/stars/ikuaidev/ikuai-cli?style=flat-square&color=yellow)](https://github.com/ikuaidev/ikuai-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ikuaidev/ikuai-cli?style=flat-square&color=blue)](https://github.com/ikuaidev/ikuai-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ikuaidev/ikuai-cli?style=flat-square&color=yellow)](https://github.com/ikuaidev/ikuai-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ikuaidev/ikuai-cli?style=flat-square&color=blue)](https://github.com/ikuaidev/ikuai-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for managing iKuai routers — network, VPN, firewall, users, QoS and more from the terminal.   AI-agent ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ ikuaidev/ikuai-cli：ikuaidev/ikuai-cli helps add AI capability without starting
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 13/100 |
-| outlook | 74/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

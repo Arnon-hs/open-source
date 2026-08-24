@@ -1,6 +1,6 @@
 # CollaboraOnline/online
 
-[![Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=flat-square&color=yellow)](https://github.com/CollaboraOnline/online/stargazers) [![Forks](https://img.shields.io/github/forks/CollaboraOnline/online?style=flat-square&color=blue)](https://github.com/CollaboraOnline/online/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=flat-square&color=yellow)](https://github.com/CollaboraOnline/online/stargazers) [![Forks](https://img.shields.io/github/forks/CollaboraOnline/online?style=flat-square&color=blue)](https://github.com/CollaboraOnline/online/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Product
+Mobile
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Collabora Online 具备高成熟度和强大的文档协同能力，适合作�
 | forks | 75/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

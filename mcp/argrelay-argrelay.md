@@ -1,6 +1,6 @@
 # argrelay/argrelay
 
-[![Stars](https://img.shields.io/github/stars/argrelay/argrelay?style=flat-square&color=yellow)](https://github.com/argrelay/argrelay/stargazers) [![Forks](https://img.shields.io/github/forks/argrelay/argrelay?style=flat-square&color=blue)](https://github.com/argrelay/argrelay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argrelay/argrelay?style=flat-square&color=yellow)](https://github.com/argrelay/argrelay/stargazers) [![Forks](https://img.shields.io/github/forks/argrelay/argrelay?style=flat-square&color=blue)](https://github.com/argrelay/argrelay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A data server for CLI tools = MCP + args search + Tab-completion directly in the standard shell.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ argrelay/argrelay 的生产可用性很高，原因是：
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

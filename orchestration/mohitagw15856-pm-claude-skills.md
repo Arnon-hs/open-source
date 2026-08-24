@@ -1,6 +1,6 @@
 # mohitagw15856/pm-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/mohitagw15856/pm-claude-skills?style=flat-square&color=yellow)](https://github.com/mohitagw15856/pm-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/mohitagw15856/pm-claude-skills?style=flat-square&color=blue)](https://github.com/mohitagw15856/pm-claude-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohitagw15856/pm-claude-skills?style=flat-square&color=yellow)](https://github.com/mohitagw15856/pm-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/mohitagw15856/pm-claude-skills?style=flat-square&color=blue)](https://github.com/mohitagw15856/pm-claude-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 238 professional Agent Skills (PRDs, launches, postmortems, compliance & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'. One SKILL.md, every AI tool.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ mohitagw15856/pm-claude-skills 提供 238 条专业的 Agent Skill（包括 PRD�
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

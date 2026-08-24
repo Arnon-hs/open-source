@@ -1,6 +1,6 @@
 # cms-sw/cmssw
 
-[![Stars](https://img.shields.io/github/stars/cms-sw/cmssw?style=flat-square&color=yellow)](https://github.com/cms-sw/cmssw/stargazers) [![Forks](https://img.shields.io/github/forks/cms-sw/cmssw?style=flat-square&color=blue)](https://github.com/cms-sw/cmssw/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cms-sw/cmssw?style=flat-square&color=yellow)](https://github.com/cms-sw/cmssw/stargazers) [![Forks](https://img.shields.io/github/forks/cms-sw/cmssw?style=flat-square&color=blue)](https://github.com/cms-sw/cmssw/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > CMS Offline Software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Here's a brief summary of the cms-sw/cmssw project:
 | forks | 92/100 |
 | stars | 66/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SmileLikeYe/agent-chief
 
-[![Stars](https://img.shields.io/github/stars/SmileLikeYe/agent-chief?style=flat-square&color=yellow)](https://github.com/SmileLikeYe/agent-chief/stargazers) [![Forks](https://img.shields.io/github/forks/SmileLikeYe/agent-chief?style=flat-square&color=blue)](https://github.com/SmileLikeYe/agent-chief/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SmileLikeYe/agent-chief?style=flat-square&color=yellow)](https://github.com/SmileLikeYe/agent-chief/stargazers) [![Forks](https://img.shields.io/github/forks/SmileLikeYe/agent-chief?style=flat-square&color=blue)](https://github.com/SmileLikeYe/agent-chief/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ SmileLikeYe/agent-chief 的生产可用性为中等，适合以下场景：
 | forks | 8/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

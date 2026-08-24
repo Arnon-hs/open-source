@@ -1,6 +1,6 @@
 # pnpm/action-setup
 
-[![Stars](https://img.shields.io/github/stars/pnpm/action-setup?style=flat-square&color=yellow)](https://github.com/pnpm/action-setup/stargazers) [![Forks](https://img.shields.io/github/forks/pnpm/action-setup?style=flat-square&color=blue)](https://github.com/pnpm/action-setup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pnpm/action-setup?style=flat-square&color=yellow)](https://github.com/pnpm/action-setup/stargazers) [![Forks](https://img.shields.io/github/forks/pnpm/action-setup?style=flat-square&color=blue)](https://github.com/pnpm/action-setup/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Install pnpm package manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ pnpm/action-setup 的生产可用性非常高，因为它有：
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

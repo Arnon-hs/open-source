@@ -1,6 +1,6 @@
 # MIgHTy-alIeN/Ethereum-Trading-Bot
 
-[![Stars](https://img.shields.io/github/stars/MIgHTy-alIeN/Ethereum-Trading-Bot?style=flat-square&color=yellow)](https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/MIgHTy-alIeN/Ethereum-Trading-Bot?style=flat-square&color=blue)](https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MIgHTy-alIeN/Ethereum-Trading-Bot?style=flat-square&color=yellow)](https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/MIgHTy-alIeN/Ethereum-Trading-Bot?style=flat-square&color=blue)](https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ MIgHTy-alIeN/Ethereum-Trading-Bot 的生产可用性
 | forks | 77/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

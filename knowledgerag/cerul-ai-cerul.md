@@ -1,6 +1,6 @@
 # cerul-ai/cerul
 
-[![Stars](https://img.shields.io/github/stars/cerul-ai/cerul?style=flat-square&color=yellow)](https://github.com/cerul-ai/cerul/stargazers) [![Forks](https://img.shields.io/github/forks/cerul-ai/cerul?style=flat-square&color=blue)](https://github.com/cerul-ai/cerul/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cerul-ai/cerul?style=flat-square&color=yellow)](https://github.com/cerul-ai/cerul/stargazers) [![Forks](https://img.shields.io/github/forks/cerul-ai/cerul?style=flat-square&color=blue)](https://github.com/cerul-ai/cerul/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The video search layer for AI agents. Search video by meaning — across speech, visuals, and on-screen text.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ cerul‑ai/cerul 是面向 AI 代理的“视频搜索层”，能够跨语音�
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

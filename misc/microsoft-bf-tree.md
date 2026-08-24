@@ -1,6 +1,6 @@
 # microsoft/bf-tree
 
-[![Stars](https://img.shields.io/github/stars/microsoft/bf-tree?style=flat-square&color=yellow)](https://github.com/microsoft/bf-tree/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/bf-tree?style=flat-square&color=blue)](https://github.com/microsoft/bf-tree/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/bf-tree?style=flat-square&color=yellow)](https://github.com/microsoft/bf-tree/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/bf-tree?style=flat-square&color=blue)](https://github.com/microsoft/bf-tree/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ microsoft/bf-tree 是由 MS Research 开发的基于 Rust 的读写优化、支�
 | forks | 41/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # capek-dev/jean2
 
-[![Stars](https://img.shields.io/github/stars/capek-dev/jean2?style=flat-square&color=yellow)](https://github.com/capek-dev/jean2/stargazers) [![Forks](https://img.shields.io/github/forks/capek-dev/jean2?style=flat-square&color=blue)](https://github.com/capek-dev/jean2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/capek-dev/jean2?style=flat-square&color=yellow)](https://github.com/capek-dev/jean2/stargazers) [![Forks](https://img.shields.io/github/forks/capek-dev/jean2?style=flat-square&color=blue)](https://github.com/capek-dev/jean2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI agent. One server. Any device. No baked-in behavior.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ capek-dev/jean2的生产可用性为中等（Medium），适合用于原型开�
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

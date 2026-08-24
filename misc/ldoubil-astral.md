@@ -1,6 +1,6 @@
 # ldoubil/astral
 
-[![Stars](https://img.shields.io/github/stars/ldoubil/astral?style=flat-square&color=yellow)](https://github.com/ldoubil/astral/stargazers) [![Forks](https://img.shields.io/github/forks/ldoubil/astral?style=flat-square&color=blue)](https://github.com/ldoubil/astral/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldoubil/astral?style=flat-square&color=yellow)](https://github.com/ldoubil/astral/stargazers) [![Forks](https://img.shields.io/github/forks/ldoubil/astral?style=flat-square&color=blue)](https://github.com/ldoubil/astral/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 去中心化组网工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Astral（仓库 ldoubil/astral）是一款基于 Dart 实现的去中心化组
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

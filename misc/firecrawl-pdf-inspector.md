@@ -1,6 +1,6 @@
 # firecrawl/pdf-inspector
 
-[![Stars](https://img.shields.io/github/stars/firecrawl/pdf-inspector?style=flat-square&color=yellow)](https://github.com/firecrawl/pdf-inspector/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/pdf-inspector?style=flat-square&color=blue)](https://github.com/firecrawl/pdf-inspector/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firecrawl/pdf-inspector?style=flat-square&color=yellow)](https://github.com/firecrawl/pdf-inspector/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/pdf-inspector?style=flat-square&color=blue)](https://github.com/firecrawl/pdf-inspector/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ firecrawl/pdf‑inspector 是一款基于 Rust 的高速 PDF 检测库，能够�
 | forks | 50/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

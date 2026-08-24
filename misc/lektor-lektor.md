@@ -1,6 +1,6 @@
 # lektor/lektor
 
-[![Stars](https://img.shields.io/github/stars/lektor/lektor?style=flat-square&color=yellow)](https://github.com/lektor/lektor/stargazers) [![Forks](https://img.shields.io/github/forks/lektor/lektor?style=flat-square&color=blue)](https://github.com/lektor/lektor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lektor/lektor?style=flat-square&color=yellow)](https://github.com/lektor/lektor/stargazers) [![Forks](https://img.shields.io/github/forks/lektor/lektor?style=flat-square&color=blue)](https://github.com/lektor/lektor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The lektor static file content management system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 318 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Lektor 在生产环境中的可用性较高，主要原因是：
 | forks | 63/100 |
 | stars | 77/100 |
 | topics | 25/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # frappe/bench
 
-[![Stars](https://img.shields.io/github/stars/frappe/bench?style=flat-square&color=yellow)](https://github.com/frappe/bench/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/bench?style=flat-square&color=blue)](https://github.com/frappe/bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/bench?style=flat-square&color=yellow)](https://github.com/frappe/bench/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/bench?style=flat-square&color=blue)](https://github.com/frappe/bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CLI to manage Multi-tenant deployments for Frappe apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Here's a brief summary of the project:
 | forks | 78/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

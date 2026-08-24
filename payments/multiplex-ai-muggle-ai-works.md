@@ -1,6 +1,6 @@
 # multiplex-ai/muggle-ai-works
 
-[![Stars](https://img.shields.io/github/stars/multiplex-ai/muggle-ai-works?style=flat-square&color=yellow)](https://github.com/multiplex-ai/muggle-ai-works/stargazers) [![Forks](https://img.shields.io/github/forks/multiplex-ai/muggle-ai-works?style=flat-square&color=blue)](https://github.com/multiplex-ai/muggle-ai-works/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multiplex-ai/muggle-ai-works?style=flat-square&color=yellow)](https://github.com/multiplex-ai/muggle-ai-works/stargazers) [![Forks](https://img.shields.io/github/forks/multiplex-ai/muggle-ai-works?style=flat-square&color=blue)](https://github.com/multiplex-ai/muggle-ai-works/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI coding agent writes code fast — we make sure the web product actually works. Paste a URL, the agent clicks through signup/checkout/dashboards like a real user,   reports failures with screenshots. Currently web only. Works with Claude Code, Cursor, Codex, Windsurf.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ multiplex-ai/muggle-ai-works：multiplex-ai/muggle-ai-works helps integrate mone
 | forks | 12/100 |
 | stars | 26/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dylanneve1/talon
 
-[![Stars](https://img.shields.io/github/stars/dylanneve1/talon?style=flat-square&color=yellow)](https://github.com/dylanneve1/talon/stargazers) [![Forks](https://img.shields.io/github/forks/dylanneve1/talon?style=flat-square&color=blue)](https://github.com/dylanneve1/talon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dylanneve1/talon?style=flat-square&color=yellow)](https://github.com/dylanneve1/talon/stargazers) [![Forks](https://img.shields.io/github/forks/dylanneve1/talon?style=flat-square&color=blue)](https://github.com/dylanneve1/talon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ dylanneve1/talon 是一款跨平台的「Agentic AI」框架，能够在 Telegra
 | forks | 8/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

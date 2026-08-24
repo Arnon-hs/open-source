@@ -1,6 +1,6 @@
 # GetStream/stream-chat-react-native
 
-[![Stars](https://img.shields.io/github/stars/GetStream/stream-chat-react-native?style=flat-square&color=yellow)](https://github.com/GetStream/stream-chat-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/stream-chat-react-native?style=flat-square&color=blue)](https://github.com/GetStream/stream-chat-react-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetStream/stream-chat-react-native?style=flat-square&color=yellow)](https://github.com/GetStream/stream-chat-react-native/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/stream-chat-react-native?style=flat-square&color=blue)](https://github.com/GetStream/stream-chat-react-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 💬 React-Native Chat SDK ➜ Stream Chat. Includes a tutorial on building your own chat app experience using React-Native, React-Navigation and Stream
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 376 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Mobile · Education
+Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ GetStream/stream-chat-react-native 是一个开源项目，提供了一个 React
 | forks | 64/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

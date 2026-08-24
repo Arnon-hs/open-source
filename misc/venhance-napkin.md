@@ -1,6 +1,6 @@
 # vEnhance/napkin
 
-[![Stars](https://img.shields.io/github/stars/vEnhance/napkin?style=flat-square&color=yellow)](https://github.com/vEnhance/napkin/stargazers) [![Forks](https://img.shields.io/github/forks/vEnhance/napkin?style=flat-square&color=blue)](https://github.com/vEnhance/napkin/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vEnhance/napkin?style=flat-square&color=yellow)](https://github.com/vEnhance/napkin/stargazers) [![Forks](https://img.shields.io/github/forks/vEnhance/napkin?style=flat-square&color=blue)](https://github.com/vEnhance/napkin/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An Infinitely Large Napkin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ vEnhance/napkin是一个开源项目，旨在提供一个无限的纸巾（napki
 | forks | 57/100 |
 | stars | 70/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

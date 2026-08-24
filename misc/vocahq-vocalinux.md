@@ -1,6 +1,6 @@
 # VocaHQ/vocalinux
 
-[![Stars](https://img.shields.io/github/stars/VocaHQ/vocalinux?style=flat-square&color=yellow)](https://github.com/VocaHQ/vocalinux/stargazers) [![Forks](https://img.shields.io/github/forks/VocaHQ/vocalinux?style=flat-square&color=blue)](https://github.com/VocaHQ/vocalinux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VocaHQ/vocalinux?style=flat-square&color=yellow)](https://github.com/VocaHQ/vocalinux/stargazers) [![Forks](https://img.shields.io/github/forks/VocaHQ/vocalinux?style=flat-square&color=blue)](https://github.com/VocaHQ/vocalinux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ VocaHQ/vocalinux 的生产可用性非常高。项目最近有活动，使用者
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

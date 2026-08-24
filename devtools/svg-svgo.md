@@ -1,6 +1,6 @@
 # svg/svgo
 
-[![Stars](https://img.shields.io/github/stars/svg/svgo?style=flat-square&color=yellow)](https://github.com/svg/svgo/stargazers) [![Forks](https://img.shields.io/github/forks/svg/svgo?style=flat-square&color=blue)](https://github.com/svg/svgo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/svg/svgo?style=flat-square&color=yellow)](https://github.com/svg/svgo/stargazers) [![Forks](https://img.shields.io/github/forks/svg/svgo?style=flat-square&color=blue)](https://github.com/svg/svgo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ⚙️ Node.js tool for optimizing SVG files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ svg/svgo 的生产可用性非常高，考虑到其活跃度、采用率和生�
 | forks | 79/100 |
 | stars | 93/100 |
 | topics | 88/100 |
-| outlook | 91/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 89/100 |
-| production | 83/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

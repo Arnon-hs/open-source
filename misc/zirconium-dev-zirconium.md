@@ -1,6 +1,6 @@
 # zirconium-dev/zirconium
 
-[![Stars](https://img.shields.io/github/stars/zirconium-dev/zirconium?style=flat-square&color=yellow)](https://github.com/zirconium-dev/zirconium/stargazers) [![Forks](https://img.shields.io/github/forks/zirconium-dev/zirconium?style=flat-square&color=blue)](https://github.com/zirconium-dev/zirconium/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zirconium-dev/zirconium?style=flat-square&color=yellow)](https://github.com/zirconium-dev/zirconium/stargazers) [![Forks](https://img.shields.io/github/forks/zirconium-dev/zirconium?style=flat-square&color=blue)](https://github.com/zirconium-dev/zirconium/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated Niri bootc image
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Zirconium 是一个面向 Niri（Wayland 合成器）的 opinionated bootc 镜�
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

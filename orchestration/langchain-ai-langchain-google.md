@@ -1,6 +1,6 @@
 # langchain-ai/langchain-google
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-google?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain-google/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-google?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain-google/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-google?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain-google/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-google?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain-google/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🦜🔗 LangChain interfaces to Google's suite of AI products (e.g. Gemini & Vertex AI)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 431 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · Product
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ langchain-ai/langchain-google 为 LangChain 提供对 Google AI 产品（如 Gem
 | forks | 66/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

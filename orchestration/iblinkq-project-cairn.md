@@ -1,6 +1,6 @@
 # iBlinkQ/project-cairn
 
-[![Stars](https://img.shields.io/github/stars/iBlinkQ/project-cairn?style=flat-square&color=yellow)](https://github.com/iBlinkQ/project-cairn/stargazers) [![Forks](https://img.shields.io/github/forks/iBlinkQ/project-cairn?style=flat-square&color=blue)](https://github.com/iBlinkQ/project-cairn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iBlinkQ/project-cairn?style=flat-square&color=yellow)](https://github.com/iBlinkQ/project-cairn/stargazers) [![Forks](https://img.shields.io/github/forks/iBlinkQ/project-cairn?style=flat-square&color=blue)](https://github.com/iBlinkQ/project-cairn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Turn project work into reusable knowledge — an AI-agent skill for Claude Code & Codex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ iBlinkQ/project-cairn 的价值在于，它帮助将孤立的提示和工具转�
 | forks | 38/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

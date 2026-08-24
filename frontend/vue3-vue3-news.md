@@ -1,6 +1,6 @@
 # vue3/vue3-News
 
-[![Stars](https://img.shields.io/github/stars/vue3/vue3-News?style=flat-square&color=yellow)](https://github.com/vue3/vue3-News/stargazers) [![Forks](https://img.shields.io/github/forks/vue3/vue3-News?style=flat-square&color=blue)](https://github.com/vue3/vue3-News/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vue3/vue3-News?style=flat-square&color=yellow)](https://github.com/vue3/vue3-News/stargazers) [![Forks](https://img.shields.io/github/forks/vue3/vue3-News?style=flat-square&color=blue)](https://github.com/vue3/vue3-News/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2024/2025)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ vue3/vue3-News — это агрегатор последних новостей
 | forks | 64/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 83/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

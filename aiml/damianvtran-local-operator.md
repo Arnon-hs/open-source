@@ -1,6 +1,6 @@
 # damianvtran/local-operator
 
-[![Stars](https://img.shields.io/github/stars/damianvtran/local-operator?style=flat-square&color=yellow)](https://github.com/damianvtran/local-operator/stargazers) [![Forks](https://img.shields.io/github/forks/damianvtran/local-operator?style=flat-square&color=blue)](https://github.com/damianvtran/local-operator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/damianvtran/local-operator?style=flat-square&color=yellow)](https://github.com/damianvtran/local-operator/stargazers) [![Forks](https://img.shields.io/github/forks/damianvtran/local-operator?style=flat-square&color=blue)](https://github.com/damianvtran/local-operator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ damianvtran/local-operator 已经被评估为高生产可用
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

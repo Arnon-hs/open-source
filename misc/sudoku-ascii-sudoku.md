@@ -1,6 +1,6 @@
 # SUDOKU-ASCII/sudoku
 
-[![Stars](https://img.shields.io/github/stars/SUDOKU-ASCII/sudoku?style=flat-square&color=yellow)](https://github.com/SUDOKU-ASCII/sudoku/stargazers) [![Forks](https://img.shields.io/github/forks/SUDOKU-ASCII/sudoku?style=flat-square&color=blue)](https://github.com/SUDOKU-ASCII/sudoku/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SUDOKU-ASCII/sudoku?style=flat-square&color=yellow)](https://github.com/SUDOKU-ASCII/sudoku/stargazers) [![Forks](https://img.shields.io/github/forks/SUDOKU-ASCII/sudoku?style=flat-square&color=blue)](https://github.com/SUDOKU-ASCII/sudoku/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 一种4x4数独的O(1)解谜算法
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ SUDOKU-ASCII/sudoku 是一种开源项目，提供了一个 O(1) 解谜算法来
 | forks | 29/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cramt/m365-copilot-proxy
 
-[![Stars](https://img.shields.io/github/stars/cramt/m365-copilot-proxy?style=flat-square&color=yellow)](https://github.com/cramt/m365-copilot-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/cramt/m365-copilot-proxy?style=flat-square&color=blue)](https://github.com/cramt/m365-copilot-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cramt/m365-copilot-proxy?style=flat-square&color=yellow)](https://github.com/cramt/m365-copilot-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/cramt/m365-copilot-proxy?style=flat-square&color=blue)](https://github.com/cramt/m365-copilot-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you already have as a backend for pi, openclaw and other coding agents. Prompt-emulated tool calling, no extra licence, no MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ cramt/m365-copilot-proxy 的生产可用性很高，因为它有：
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

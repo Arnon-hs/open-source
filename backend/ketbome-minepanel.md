@@ -1,6 +1,6 @@
 # Ketbome/minepanel
 
-[![Stars](https://img.shields.io/github/stars/Ketbome/minepanel?style=flat-square&color=yellow)](https://github.com/Ketbome/minepanel/stargazers) [![Forks](https://img.shields.io/github/forks/Ketbome/minepanel?style=flat-square&color=blue)](https://github.com/Ketbome/minepanel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ketbome/minepanel?style=flat-square&color=yellow)](https://github.com/Ketbome/minepanel/stargazers) [![Forks](https://img.shields.io/github/forks/Ketbome/minepanel?style=flat-square&color=blue)](https://github.com/Ketbome/minepanel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Docker-based web panel for managing multiple Minecraft servers with ease.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Ketbome/minepanel 是一个基于 Docker 的现代化 Web 面板，能够轻松�
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 82/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

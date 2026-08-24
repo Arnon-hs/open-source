@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/cloud-run-mcp
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/cloud-run-mcp?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/cloud-run-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/cloud-run-mcp?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/cloud-run-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/cloud-run-mcp?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/cloud-run-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/cloud-run-mcp?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/cloud-run-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server to deploy apps to Cloud Run
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 605 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Database
+MCP · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ GoogleCloudPlatform/cloud‑run‑mcp 是一个基于 Model Context Protocol（M
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

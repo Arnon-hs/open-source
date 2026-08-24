@@ -1,6 +1,6 @@
 # supranational/blst
 
-[![Stars](https://img.shields.io/github/stars/supranational/blst?style=flat-square&color=yellow)](https://github.com/supranational/blst/stargazers) [![Forks](https://img.shields.io/github/forks/supranational/blst?style=flat-square&color=blue)](https://github.com/supranational/blst/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supranational/blst?style=flat-square&color=yellow)](https://github.com/supranational/blst/stargazers) [![Forks](https://img.shields.io/github/forks/supranational/blst?style=flat-square&color=blue)](https://github.com/supranational/blst/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Multilingual BLS12-381 signature library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 566 |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ supranational/blst的生产可用性为中等。它可以用于开发原型或�
 | forks | 59/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

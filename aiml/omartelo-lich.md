@@ -1,6 +1,6 @@
 # omartelo/lich
 
-[![Stars](https://img.shields.io/github/stars/omartelo/lich?style=flat-square&color=yellow)](https://github.com/omartelo/lich/stargazers) [![Forks](https://img.shields.io/github/forks/omartelo/lich?style=flat-square&color=blue)](https://github.com/omartelo/lich/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omartelo/lich?style=flat-square&color=yellow)](https://github.com/omartelo/lich/stargazers) [![Forks](https://img.shields.io/github/forks/omartelo/lich?style=flat-square&color=blue)](https://github.com/omartelo/lich/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal-first harness for coding with AI agents — real PTYs, git worktrees, diffs and pull requests in one window
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ omartelo/lich 的生产可用性为中等（Medium），因为它适用于原型
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

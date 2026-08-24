@@ -1,6 +1,6 @@
 # kangig94/coral
 
-[![Stars](https://img.shields.io/github/stars/kangig94/coral?style=flat-square&color=yellow)](https://github.com/kangig94/coral/stargazers) [![Forks](https://img.shields.io/github/forks/kangig94/coral?style=flat-square&color=blue)](https://github.com/kangig94/coral/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kangig94/coral?style=flat-square&color=yellow)](https://github.com/kangig94/coral/stargazers) [![Forks](https://img.shields.io/github/forks/kangig94/coral?style=flat-square&color=blue)](https://github.com/kangig94/coral/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Teach Claude Code how you code - conventions, workflow, debate
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ kangig94/coral 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 15/100 |
 | stars | 23/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

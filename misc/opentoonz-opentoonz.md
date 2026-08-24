@@ -1,6 +1,6 @@
 # opentoonz/opentoonz
 
-[![Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=flat-square&color=yellow)](https://github.com/opentoonz/opentoonz/stargazers) [![Forks](https://img.shields.io/github/forks/opentoonz/opentoonz?style=flat-square&color=blue)](https://github.com/opentoonz/opentoonz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=flat-square&color=yellow)](https://github.com/opentoonz/opentoonz/stargazers) [![Forks](https://img.shields.io/github/forks/opentoonz/opentoonz?style=flat-square&color=blue)](https://github.com/opentoonz/opentoonz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > OpenToonz - An open-source full-featured 2D animation creation software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 838 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -79,14 +79,15 @@ OpenToonz 的价值在于其可用于特定的工作流程，README 和活动匹
 | forks | 73/100 |
 | stars | 82/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 80/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

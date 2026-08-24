@@ -1,6 +1,6 @@
 # autonomous-ai/autonomous-os
 
-[![Stars](https://img.shields.io/github/stars/autonomous-ai/autonomous-os?style=flat-square&color=yellow)](https://github.com/autonomous-ai/autonomous-os/stargazers) [![Forks](https://img.shields.io/github/forks/autonomous-ai/autonomous-os?style=flat-square&color=blue)](https://github.com/autonomous-ai/autonomous-os/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/autonomous-ai/autonomous-os?style=flat-square&color=yellow)](https://github.com/autonomous-ai/autonomous-os/stargazers) [![Forks](https://img.shields.io/github/forks/autonomous-ai/autonomous-os?style=flat-square&color=blue)](https://github.com/autonomous-ai/autonomous-os/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Source Operating System for Physical AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ autonomous-ai/autonomous-os 的价值在于，它可以帮助移除工作流中�
 | forks | 12/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

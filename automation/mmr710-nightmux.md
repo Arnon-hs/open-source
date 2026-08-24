@@ -1,6 +1,6 @@
 # mmr710/nightmux
 
-[![Stars](https://img.shields.io/github/stars/mmr710/nightmux?style=flat-square&color=yellow)](https://github.com/mmr710/nightmux/stargazers) [![Forks](https://img.shields.io/github/forks/mmr710/nightmux?style=flat-square&color=blue)](https://github.com/mmr710/nightmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmr710/nightmux?style=flat-square&color=yellow)](https://github.com/mmr710/nightmux/stargazers) [![Forks](https://img.shields.io/github/forks/mmr710/nightmux?style=flat-square&color=blue)](https://github.com/mmr710/nightmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Your night crew, on Telegram. Run Claude Code, Codex or any terminal agent from a Telegram topic — one topic per tmux session. Watches the context window and the 5-hour limit, compacts before the wall, and holds prompts through a lockout instead of losing them. Python stdlib only, no relay server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ mmr710/nightmux：mmr710/nightmux helps remove repetitive manual operations from
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 21/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

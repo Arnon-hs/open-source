@@ -1,6 +1,6 @@
 # hqhq1025/ai-course-notes
 
-[![Stars](https://img.shields.io/github/stars/hqhq1025/ai-course-notes?style=flat-square&color=yellow)](https://github.com/hqhq1025/ai-course-notes/stargazers) [![Forks](https://img.shields.io/github/forks/hqhq1025/ai-course-notes?style=flat-square&color=blue)](https://github.com/hqhq1025/ai-course-notes/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hqhq1025/ai-course-notes?style=flat-square&color=yellow)](https://github.com/hqhq1025/ai-course-notes/stargazers) [![Forks](https://img.shields.io/github/forks/hqhq1025/ai-course-notes?style=flat-square&color=blue)](https://github.com/hqhq1025/ai-course-notes/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 303 份 AI/LLM 中文讲义，支持在线阅读、PDF 下载和 LaTeX 源码查看 | Stanford CS336/CS224R/CS25 | Berkeley LLM Agents | Agent 工程实践
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ hqhq1025/ai-course-notes 是一套高质量的中文 AI/LLM 教学资源库，�
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

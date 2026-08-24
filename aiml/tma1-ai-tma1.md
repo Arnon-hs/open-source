@@ -1,6 +1,6 @@
 # tma1-ai/tma1
 
-[![Stars](https://img.shields.io/github/stars/tma1-ai/tma1?style=flat-square&color=yellow)](https://github.com/tma1-ai/tma1/stargazers) [![Forks](https://img.shields.io/github/forks/tma1-ai/tma1?style=flat-square&color=blue)](https://github.com/tma1-ai/tma1/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tma1-ai/tma1?style=flat-square&color=yellow)](https://github.com/tma1-ai/tma1/stargazers) [![Forks](https://img.shields.io/github/forks/tma1-ai/tma1?style=flat-square&color=blue)](https://github.com/tma1-ai/tma1/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first observability for AI agents, with a built-in dashboard. Cost, sessions, anomalies, and conversation replay — all on your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Observability
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ tma1‑ai/tma1 是一款本地化的 AI 代理可观测平台，内置仪表盘�
 | forks | 21/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

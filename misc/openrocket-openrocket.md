@@ -1,6 +1,6 @@
 # openrocket/openrocket
 
-[![Stars](https://img.shields.io/github/stars/openrocket/openrocket?style=flat-square&color=yellow)](https://github.com/openrocket/openrocket/stargazers) [![Forks](https://img.shields.io/github/forks/openrocket/openrocket?style=flat-square&color=blue)](https://github.com/openrocket/openrocket/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openrocket/openrocket?style=flat-square&color=yellow)](https://github.com/openrocket/openrocket/stargazers) [![Forks](https://img.shields.io/github/forks/openrocket/openrocket?style=flat-square&color=blue)](https://github.com/openrocket/openrocket/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Model-rocketry aerodynamics and trajectory simulation software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 690 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ OpenRocket 是一款基于 Java 的模型火箭空气动力学与轨迹仿真工
 | forks | 71/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

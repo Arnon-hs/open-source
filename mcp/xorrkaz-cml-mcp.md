@@ -1,6 +1,6 @@
 # xorrkaz/cml-mcp
 
-[![Stars](https://img.shields.io/github/stars/xorrkaz/cml-mcp?style=flat-square&color=yellow)](https://github.com/xorrkaz/cml-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/xorrkaz/cml-mcp?style=flat-square&color=blue)](https://github.com/xorrkaz/cml-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xorrkaz/cml-mcp?style=flat-square&color=yellow)](https://github.com/xorrkaz/cml-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/xorrkaz/cml-mcp?style=flat-square&color=blue)](https://github.com/xorrkaz/cml-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) Server for Cisco Modeling Labs (CML)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ xorrkaz/cml-mcp 是一个基于 Model Context Protocol（MCP）的服务器实�
 | forks | 37/100 |
 | stars | 37/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

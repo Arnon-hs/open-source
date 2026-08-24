@@ -1,6 +1,6 @@
 # gleanwork/glean-agent-toolkit
 
-[![Stars](https://img.shields.io/github/stars/gleanwork/glean-agent-toolkit?style=flat-square&color=yellow)](https://github.com/gleanwork/glean-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/gleanwork/glean-agent-toolkit?style=flat-square&color=blue)](https://github.com/gleanwork/glean-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gleanwork/glean-agent-toolkit?style=flat-square&color=yellow)](https://github.com/gleanwork/glean-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/gleanwork/glean-agent-toolkit?style=flat-square&color=blue)](https://github.com/gleanwork/glean-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent toolkit for adapting Glean's enterprise tools across multiple frameworks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ gleanwork/glean-agent-toolkit的主要价值在于：
 | forks | 28/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # go-logr/logr
 
-[![Stars](https://img.shields.io/github/stars/go-logr/logr?style=flat-square&color=yellow)](https://github.com/go-logr/logr/stargazers) [![Forks](https://img.shields.io/github/forks/go-logr/logr?style=flat-square&color=blue)](https://github.com/go-logr/logr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-logr/logr?style=flat-square&color=yellow)](https://github.com/go-logr/logr/stargazers) [![Forks](https://img.shields.io/github/forks/go-logr/logr?style=flat-square&color=blue)](https://github.com/go-logr/logr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A simple logging interface for Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ go‑logr/logr 提供了一个轻量级的 Go 日志抽象接口，使得代码�
 | forks | 49/100 |
 | stars | 67/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

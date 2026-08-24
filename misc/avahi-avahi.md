@@ -1,6 +1,6 @@
 # avahi/avahi
 
-[![Stars](https://img.shields.io/github/stars/avahi/avahi?style=flat-square&color=yellow)](https://github.com/avahi/avahi/stargazers) [![Forks](https://img.shields.io/github/forks/avahi/avahi?style=flat-square&color=blue)](https://github.com/avahi/avahi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avahi/avahi?style=flat-square&color=yellow)](https://github.com/avahi/avahi/stargazers) [![Forks](https://img.shields.io/github/forks/avahi/avahi?style=flat-square&color=blue)](https://github.com/avahi/avahi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 373 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Avahi 是 Linux 上的零配置网络服务发现框架，实现了 mDNS/DNS‑S
 | forks | 64/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

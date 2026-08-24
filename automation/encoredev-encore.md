@@ -1,6 +1,6 @@
 # encoredev/encore
 
-[![Stars](https://img.shields.io/github/stars/encoredev/encore?style=flat-square&color=yellow)](https://github.com/encoredev/encore/stargazers) [![Forks](https://img.shields.io/github/forks/encoredev/encore?style=flat-square&color=blue)](https://github.com/encoredev/encore/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/encoredev/encore?style=flat-square&color=yellow)](https://github.com/encoredev/encore/stargazers) [![Forks](https://img.shields.io/github/forks/encoredev/encore?style=flat-square&color=blue)](https://github.com/encoredev/encore/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The infrastructure platform for the intelligence era
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.3k |
 | 🍴 **Forks** | 607 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · Data · Database · DevOps/Infra
+Automation · Backend · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ encoredev/encore：encoredev/encore helps remove repetitive manual operations fr
 | forks | 70/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 82/100 |
-| production | 83/100 |
+| production | 76/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # heroui-inc/heroui-native
 
-[![Stars](https://img.shields.io/github/stars/heroui-inc/heroui-native?style=flat-square&color=yellow)](https://github.com/heroui-inc/heroui-native/stargazers) [![Forks](https://img.shields.io/github/forks/heroui-inc/heroui-native?style=flat-square&color=blue)](https://github.com/heroui-inc/heroui-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heroui-inc/heroui-native?style=flat-square&color=yellow)](https://github.com/heroui-inc/heroui-native/stargazers) [![Forks](https://img.shields.io/github/forks/heroui-inc/heroui-native?style=flat-square&color=blue)](https://github.com/heroui-inc/heroui-native/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 📱Beautiful, fast and modern React Native UI library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ heroui-native 的生产可用性较高，主要原因是：
 | forks | 53/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

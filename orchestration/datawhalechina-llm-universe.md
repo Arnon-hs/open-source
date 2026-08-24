@@ -1,6 +1,6 @@
 # datawhalechina/llm-universe
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/llm-universe?style=flat-square&color=yellow)](https://github.com/datawhalechina/llm-universe/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/llm-universe?style=flat-square&color=blue)](https://github.com/datawhalechina/llm-universe/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/llm-universe?style=flat-square&color=yellow)](https://github.com/datawhalechina/llm-universe/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/llm-universe?style=flat-square&color=blue)](https://github.com/datawhalechina/llm-universe/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ datawhalechina/llm-universe 帮助开发者将孤立的提示和工具整合为�
 | forks | 79/100 |
 | stars | 88/100 |
 | topics | 25/100 |
-| outlook | 80/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 85/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

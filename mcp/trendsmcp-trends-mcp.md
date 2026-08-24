@@ -1,6 +1,6 @@
 # trendsmcp/Trends-MCP
 
-[![Stars](https://img.shields.io/github/stars/trendsmcp/Trends-MCP?style=flat-square&color=yellow)](https://github.com/trendsmcp/Trends-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/trendsmcp/Trends-MCP?style=flat-square&color=blue)](https://github.com/trendsmcp/Trends-MCP/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trendsmcp/Trends-MCP?style=flat-square&color=yellow)](https://github.com/trendsmcp/Trends-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/trendsmcp/Trends-MCP?style=flat-square&color=blue)](https://github.com/trendsmcp/Trends-MCP/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for live trend data. Query Google Search, YouTube, TikTok, Reddit, Amazon, Wikipedia, News sentiment, Web Traffic, App Downloads, Steam, npm and more. Works with Claude, Cursor, VS Code, GitHub Copilot, ChatGPT, Windsurf, Cline, Raycast and any MCP-compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ Trends‑MCP 是一个 MCP（Model Context Protocol）服务器，能够实时�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

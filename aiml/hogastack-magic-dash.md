@@ -1,6 +1,6 @@
 # HogaStack/magic-dash
 
-[![Stars](https://img.shields.io/github/stars/HogaStack/magic-dash?style=flat-square&color=yellow)](https://github.com/HogaStack/magic-dash/stargazers) [![Forks](https://img.shields.io/github/forks/HogaStack/magic-dash?style=flat-square&color=blue)](https://github.com/HogaStack/magic-dash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HogaStack/magic-dash?style=flat-square&color=yellow)](https://github.com/HogaStack/magic-dash/stargazers) [![Forks](https://img.shields.io/github/forks/HogaStack/magic-dash?style=flat-square&color=blue)](https://github.com/HogaStack/magic-dash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🎩💫 纯Python驱动的全栈应用快速开发脚手架
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ HogaStack/magic-dash 是一个纯 Python 驱动的全栈应用快速开发脚手
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

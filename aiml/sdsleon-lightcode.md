@@ -1,6 +1,6 @@
 # SDSLeon/lightcode
 
-[![Stars](https://img.shields.io/github/stars/SDSLeon/lightcode?style=flat-square&color=yellow)](https://github.com/SDSLeon/lightcode/stargazers) [![Forks](https://img.shields.io/github/forks/SDSLeon/lightcode?style=flat-square&color=blue)](https://github.com/SDSLeon/lightcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SDSLeon/lightcode?style=flat-square&color=yellow)](https://github.com/SDSLeon/lightcode/stargazers) [![Forks](https://img.shields.io/github/forks/SDSLeon/lightcode?style=flat-square&color=blue)](https://github.com/SDSLeon/lightcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > One window for all your AI coding agents. Run Claude, Codex, OpenCode, Gemini, Antigravity, Cursor, and Copilot side-by-side. Terminal and chat, any layout.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ SDSLeon/lightcode 是一款基于浏览器的统一界面，能够在同一窗�
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

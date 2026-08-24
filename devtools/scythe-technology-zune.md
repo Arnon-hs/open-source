@@ -1,6 +1,6 @@
 # Scythe-Technology/zune
 
-[![Stars](https://img.shields.io/github/stars/Scythe-Technology/zune?style=flat-square&color=yellow)](https://github.com/Scythe-Technology/zune/stargazers) [![Forks](https://img.shields.io/github/forks/Scythe-Technology/zune?style=flat-square&color=blue)](https://github.com/Scythe-Technology/zune/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Scythe-Technology/zune?style=flat-square&color=yellow)](https://github.com/Scythe-Technology/zune/stargazers) [![Forks](https://img.shields.io/github/forks/Scythe-Technology/zune?style=flat-square&color=blue)](https://github.com/Scythe-Technology/zune/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Luau runtime
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Scythe-Technology/zune 的生产可用性为中等。它适合用于原型或内
 | forks | 17/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

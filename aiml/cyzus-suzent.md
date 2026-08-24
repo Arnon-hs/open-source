@@ -1,6 +1,6 @@
 # cyzus/suzent
 
-[![Stars](https://img.shields.io/github/stars/cyzus/suzent?style=flat-square&color=yellow)](https://github.com/cyzus/suzent/stargazers) [![Forks](https://img.shields.io/github/forks/cyzus/suzent?style=flat-square&color=blue)](https://github.com/cyzus/suzent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyzus/suzent?style=flat-square&color=yellow)](https://github.com/cyzus/suzent/stargazers) [![Forks](https://img.shields.io/github/forks/cyzus/suzent?style=flat-square&color=blue)](https://github.com/cyzus/suzent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > SUZENT: The sovereign AI agent - own its memory, govern its actions, choose its intelligence, and keep its continuity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ SUZENT 支持 Python 语言，主要用于前端开发。接入方式包括：
 | forks | 24/100 |
 | stars | 38/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

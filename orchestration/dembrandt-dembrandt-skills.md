@@ -1,6 +1,6 @@
 # dembrandt/dembrandt-skills
 
-[![Stars](https://img.shields.io/github/stars/dembrandt/dembrandt-skills?style=flat-square&color=yellow)](https://github.com/dembrandt/dembrandt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dembrandt/dembrandt-skills?style=flat-square&color=blue)](https://github.com/dembrandt/dembrandt-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dembrandt/dembrandt-skills?style=flat-square&color=yellow)](https://github.com/dembrandt/dembrandt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dembrandt/dembrandt-skills?style=flat-square&color=blue)](https://github.com/dembrandt/dembrandt-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ dembrandt/dembrandt-skills 的生产可用性为中等（Medium）。它适合�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

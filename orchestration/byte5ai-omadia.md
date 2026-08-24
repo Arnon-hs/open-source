@@ -1,6 +1,6 @@
 # byte5ai/omadia
 
-[![Stars](https://img.shields.io/github/stars/byte5ai/omadia?style=flat-square&color=yellow)](https://github.com/byte5ai/omadia/stargazers) [![Forks](https://img.shields.io/github/forks/byte5ai/omadia?style=flat-square&color=blue)](https://github.com/byte5ai/omadia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/byte5ai/omadia?style=flat-square&color=yellow)](https://github.com/byte5ai/omadia/stargazers) [![Forks](https://img.shields.io/github/forks/byte5ai/omadia?style=flat-square&color=blue)](https://github.com/byte5ai/omadia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all your data, EU/GDPR-ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ byte5ai/omadia 的生产可用性非常高，最近的活动、采用率和生�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dotnetdreamer/open-screenshot-generator
 
-[![Stars](https://img.shields.io/github/stars/dotnetdreamer/open-screenshot-generator?style=flat-square&color=yellow)](https://github.com/dotnetdreamer/open-screenshot-generator/stargazers) [![Forks](https://img.shields.io/github/forks/dotnetdreamer/open-screenshot-generator?style=flat-square&color=blue)](https://github.com/dotnetdreamer/open-screenshot-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnetdreamer/open-screenshot-generator?style=flat-square&color=yellow)](https://github.com/dotnetdreamer/open-screenshot-generator/stargazers) [![Forks](https://img.shields.io/github/forks/dotnetdreamer/open-screenshot-generator?style=flat-square&color=blue)](https://github.com/dotnetdreamer/open-screenshot-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open source Canva for App Store and Play Store screenshots. Free alternative to AppScreens, AppLaunchpad and Previewed. Device mockups, 3D poses, preview videos and an AI agent that designs your listing for you. 100% client side, no account, nothing leaves your machine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Design
+AI/ML · Frontend · Design
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ dotnetdreamer/open-screenshot-generator 帮助用户添加 AI 能力，实现以
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

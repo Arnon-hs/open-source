@@ -1,6 +1,6 @@
 # mateaix/mateclaw
 
-[![Stars](https://img.shields.io/github/stars/mateaix/mateclaw?style=flat-square&color=yellow)](https://github.com/mateaix/mateclaw/stargazers) [![Forks](https://img.shields.io/github/forks/mateaix/mateclaw?style=flat-square&color=blue)](https://github.com/mateaix/mateclaw/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mateaix/mateclaw?style=flat-square&color=yellow)](https://github.com/mateaix/mateclaw/stargazers) [![Forks](https://img.shields.io/github/forks/mateaix/mateclaw?style=flat-square&color=blue)](https://github.com/mateaix/mateclaw/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 660 |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ MateClaw（mateaix/mateclaw）是基于 Spring AI Alibaba 构建的多代理�
 | forks | 58/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

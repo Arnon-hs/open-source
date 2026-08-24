@@ -1,6 +1,6 @@
 # Open-Web-Analytics/Open-Web-Analytics
 
-[![Stars](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=yellow)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=blue)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=yellow)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Web-Analytics/Open-Web-Analytics?style=flat-square&color=blue)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 487 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Open-Web-Analytics 具有较高的生产可用性，适合于严肃的测试。�
 | forks | 67/100 |
 | stars | 73/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

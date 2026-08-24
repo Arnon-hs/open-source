@@ -1,6 +1,6 @@
 # OpenPipe/ART
 
-[![Stars](https://img.shields.io/github/stars/OpenPipe/ART?style=flat-square&color=yellow)](https://github.com/OpenPipe/ART/stargazers) [![Forks](https://img.shields.io/github/forks/OpenPipe/ART?style=flat-square&color=blue)](https://github.com/OpenPipe/ART/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenPipe/ART?style=flat-square&color=yellow)](https://github.com/OpenPipe/ART/stargazers) [![Forks](https://img.shields.io/github/forks/OpenPipe/ART?style=flat-square&color=blue)](https://github.com/OpenPipe/ART/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 959 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ OpenPipe/ART 是一个基于 GRPO 的强化学习训练框架，能够为 Qwen3.
 | forks | 75/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tenox7/wrp
 
-[![Stars](https://img.shields.io/github/stars/tenox7/wrp?style=flat-square&color=yellow)](https://github.com/tenox7/wrp/stargazers) [![Forks](https://img.shields.io/github/forks/tenox7/wrp?style=flat-square&color=blue)](https://github.com/tenox7/wrp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tenox7/wrp?style=flat-square&color=yellow)](https://github.com/tenox7/wrp/stargazers) [![Forks](https://img.shields.io/github/forks/tenox7/wrp?style=flat-square&color=blue)](https://github.com/tenox7/wrp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ tenox7/wrp 的生产可用性是比较高的，主要原因是其最近的活动
 | forks | 45/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 77/100 |
-| usefulness | 58/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

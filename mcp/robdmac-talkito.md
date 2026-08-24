@@ -1,6 +1,6 @@
 # robdmac/talkito
 
-[![Stars](https://img.shields.io/github/stars/robdmac/talkito?style=flat-square&color=yellow)](https://github.com/robdmac/talkito/stargazers) [![Forks](https://img.shields.io/github/forks/robdmac/talkito?style=flat-square&color=blue)](https://github.com/robdmac/talkito/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robdmac/talkito?style=flat-square&color=yellow)](https://github.com/robdmac/talkito/stargazers) [![Forks](https://img.shields.io/github/forks/robdmac/talkito?style=flat-square&color=blue)](https://github.com/robdmac/talkito/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > TalkiTo lets developers interact with AI systems through speech across multiple channels (terminal, API, phone). It can be used as both a command-line tool and a Python library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ TalkiTo 的生产可用性很高，因为它有以下几个特点：
 | forks | 21/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

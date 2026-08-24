@@ -1,6 +1,6 @@
 # CyberSunil/LLMVault
 
-[![Stars](https://img.shields.io/github/stars/CyberSunil/LLMVault?style=flat-square&color=yellow)](https://github.com/CyberSunil/LLMVault/stargazers) [![Forks](https://img.shields.io/github/forks/CyberSunil/LLMVault?style=flat-square&color=blue)](https://github.com/CyberSunil/LLMVault/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CyberSunil/LLMVault?style=flat-square&color=yellow)](https://github.com/CyberSunil/LLMVault/stargazers) [![Forks](https://img.shields.io/github/forks/CyberSunil/LLMVault?style=flat-square&color=blue)](https://github.com/CyberSunil/LLMVault/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · DevTools · Database · DevOps/Infra
+Knowledge/RAG · AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ CyberSunil/LLMVault 的生产可用性很高，主要原因是其最近的活动
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

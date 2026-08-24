@@ -1,6 +1,6 @@
 # ragpi/ragpi
 
-[![Stars](https://img.shields.io/github/stars/ragpi/ragpi?style=flat-square&color=yellow)](https://github.com/ragpi/ragpi/stargazers) [![Forks](https://img.shields.io/github/forks/ragpi/ragpi?style=flat-square&color=blue)](https://github.com/ragpi/ragpi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ragpi/ragpi?style=flat-square&color=yellow)](https://github.com/ragpi/ragpi/stargazers) [![Forks](https://img.shields.io/github/forks/ragpi/ragpi?style=flat-square&color=blue)](https://github.com/ragpi/ragpi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 An open-source AI assistant answering questions using your docs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 259 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ ragpi/ragpi 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 38/100 |
 | stars | 51/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

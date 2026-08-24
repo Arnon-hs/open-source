@@ -1,6 +1,6 @@
 # weidai11/cryptopp
 
-[![Stars](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&color=yellow)](https://github.com/weidai11/cryptopp/stargazers) [![Forks](https://img.shields.io/github/forks/weidai11/cryptopp?style=flat-square&color=blue)](https://github.com/weidai11/cryptopp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&color=yellow)](https://github.com/weidai11/cryptopp/stargazers) [![Forks](https://img.shields.io/github/forks/weidai11/cryptopp?style=flat-square&color=blue)](https://github.com/weidai11/cryptopp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > free C++ class library of cryptographic schemes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ weidai11/cryptopp 的生产可用性为中等（Medium）。它适合用于 prot
 | forks | 81/100 |
 | stars | 80/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 80/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

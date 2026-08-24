@@ -1,6 +1,6 @@
 # r14dd/patent
 
-[![Stars](https://img.shields.io/github/stars/r14dd/patent?style=flat-square&color=yellow)](https://github.com/r14dd/patent/stargazers) [![Forks](https://img.shields.io/github/forks/r14dd/patent?style=flat-square&color=blue)](https://github.com/r14dd/patent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r14dd/patent?style=flat-square&color=yellow)](https://github.com/r14dd/patent/stargazers) [![Forks](https://img.shields.io/github/forks/r14dd/patent?style=flat-square&color=blue)](https://github.com/r14dd/patent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A prior-art search for your code ideas. Stop building what already exists.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 418 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · DevTools
+Knowledge/RAG · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ r14dd/patent 是一款基于 Rust 实现的“先前技术”搜索工具，帮�
 | forks | 31/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aseprite/aseprite
 
-[![Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=flat-square&color=yellow)](https://github.com/aseprite/aseprite/stargazers) [![Forks](https://img.shields.io/github/forks/aseprite/aseprite?style=flat-square&color=blue)](https://github.com/aseprite/aseprite/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=flat-square&color=yellow)](https://github.com/aseprite/aseprite/stargazers) [![Forks](https://img.shields.io/github/forks/aseprite/aseprite?style=flat-square&color=blue)](https://github.com/aseprite/aseprite/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38.6k |
 | 🍴 **Forks** | 8.6k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -82,14 +82,15 @@ Aseprite 的生产可用性很高，主要原因是其最近的活动、广泛�
 | forks | 98/100 |
 | stars | 98/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 89/100 |
+| recency | 60/100 |
 | adoption | 98/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

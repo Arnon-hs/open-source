@@ -1,6 +1,6 @@
 # meta-pytorch/captum
 
-[![Stars](https://img.shields.io/github/stars/meta-pytorch/captum?style=flat-square&color=yellow)](https://github.com/meta-pytorch/captum/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/captum?style=flat-square&color=blue)](https://github.com/meta-pytorch/captum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-pytorch/captum?style=flat-square&color=yellow)](https://github.com/meta-pytorch/captum/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/captum?style=flat-square&color=blue)](https://github.com/meta-pytorch/captum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Model interpretability and understanding for PyTorch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 560 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ meta‑pytorch/captum 是一个专注于 PyTorch 模型可解释性的开源库�
 | forks | 69/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

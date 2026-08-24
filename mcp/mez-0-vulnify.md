@@ -1,6 +1,6 @@
 # mez-0/vulnify
 
-[![Stars](https://img.shields.io/github/stars/mez-0/vulnify?style=flat-square&color=yellow)](https://github.com/mez-0/vulnify/stargazers) [![Forks](https://img.shields.io/github/forks/mez-0/vulnify?style=flat-square&color=blue)](https://github.com/mez-0/vulnify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mez-0/vulnify?style=flat-square&color=yellow)](https://github.com/mez-0/vulnify/stargazers) [![Forks](https://img.shields.io/github/forks/mez-0/vulnify?style=flat-square&color=blue)](https://github.com/mez-0/vulnify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CVE ingestion + enrichment pipeline with an MCP server for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · AI/ML · Database · Security
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ mez-0/vulnify 的生产可用性为中等。它适合用于原型或内部工作
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

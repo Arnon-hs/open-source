@@ -1,6 +1,6 @@
 # SimonDanisch/Bonito.jl
 
-[![Stars](https://img.shields.io/github/stars/SimonDanisch/Bonito.jl?style=flat-square&color=yellow)](https://github.com/SimonDanisch/Bonito.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SimonDanisch/Bonito.jl?style=flat-square&color=blue)](https://github.com/SimonDanisch/Bonito.jl/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimonDanisch/Bonito.jl?style=flat-square&color=yellow)](https://github.com/SimonDanisch/Bonito.jl/stargazers) [![Forks](https://img.shields.io/github/forks/SimonDanisch/Bonito.jl?style=flat-square&color=blue)](https://github.com/SimonDanisch/Bonito.jl/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Serving JS to the browser
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Bonito.jl 的生产可用性为中等。它可以用于原型或内部工作流�
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

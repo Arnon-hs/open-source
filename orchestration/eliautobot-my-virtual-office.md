@@ -1,6 +1,6 @@
 # eliautobot/my-virtual-office
 
-[![Stars](https://img.shields.io/github/stars/eliautobot/my-virtual-office?style=flat-square&color=yellow)](https://github.com/eliautobot/my-virtual-office/stargazers) [![Forks](https://img.shields.io/github/forks/eliautobot/my-virtual-office?style=flat-square&color=blue)](https://github.com/eliautobot/my-virtual-office/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eliautobot/my-virtual-office?style=flat-square&color=yellow)](https://github.com/eliautobot/my-virtual-office/stargazers) [![Forks](https://img.shields.io/github/forks/eliautobot/my-virtual-office?style=flat-square&color=blue)](https://github.com/eliautobot/my-virtual-office/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted 2D AI workspace for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevOps/Infra
+Orchestration · AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Eliautobot 的 *my-virtual-office* 是一个自托管的 2D AI 工作空间，�
 | forks | 44/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

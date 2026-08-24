@@ -1,6 +1,6 @@
 # agenttier/agenttier
 
-[![Stars](https://img.shields.io/github/stars/agenttier/agenttier?style=flat-square&color=yellow)](https://github.com/agenttier/agenttier/stargazers) [![Forks](https://img.shields.io/github/forks/agenttier/agenttier?style=flat-square&color=blue)](https://github.com/agenttier/agenttier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agenttier/agenttier?style=flat-square&color=yellow)](https://github.com/agenttier/agenttier/stargazers) [![Forks](https://img.shields.io/github/forks/agenttier/agenttier?style=flat-square&color=blue)](https://github.com/agenttier/agenttier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes-native sandbox platform to run AI agents, coding assistants and harnesses.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ agenttier/agenttier 的生产可用性为中等（Medium）。它适合用于内
 | forks | 12/100 |
 | stars | 35/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

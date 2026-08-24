@@ -1,6 +1,6 @@
 # megocn/vibe-holding
 
-[![Stars](https://img.shields.io/github/stars/megocn/vibe-holding?style=flat-square&color=yellow)](https://github.com/megocn/vibe-holding/stargazers) [![Forks](https://img.shields.io/github/forks/megocn/vibe-holding?style=flat-square&color=blue)](https://github.com/megocn/vibe-holding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/megocn/vibe-holding?style=flat-square&color=yellow)](https://github.com/megocn/vibe-holding/stargazers) [![Forks](https://img.shields.io/github/forks/megocn/vibe-holding?style=flat-square&color=blue)](https://github.com/megocn/vibe-holding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 墨台 VibeHolding：AI 时代全链路基建选型知识库（A–V 图廓 · 关系边 · 方案）+ 桌面/Web 客户端。本地优先，内容可 PR。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ megocn/vibe-holding 在生产环境中具有较高的可用性。项目最近有
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

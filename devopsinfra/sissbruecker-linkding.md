@@ -1,6 +1,6 @@
 # sissbruecker/linkding
 
-[![Stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=flat-square&color=yellow)](https://github.com/sissbruecker/linkding/stargazers) [![Forks](https://img.shields.io/github/forks/sissbruecker/linkding?style=flat-square&color=blue)](https://github.com/sissbruecker/linkding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=flat-square&color=yellow)](https://github.com/sissbruecker/linkding/stargazers) [![Forks](https://img.shields.io/github/forks/sissbruecker/linkding?style=flat-square&color=blue)](https://github.com/sissbruecker/linkding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 573 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevOps/Infra · Design
+DevOps/Infra
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ sissbruecker/linkding 的生产可用性很高，主要原因是：
 | forks | 69/100 |
 | stars | 86/100 |
 | topics | 50/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

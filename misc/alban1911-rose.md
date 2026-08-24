@@ -1,6 +1,6 @@
 # Alban1911/Rose
 
-[![Stars](https://img.shields.io/github/stars/Alban1911/Rose?style=flat-square&color=yellow)](https://github.com/Alban1911/Rose/stargazers) [![Forks](https://img.shields.io/github/forks/Alban1911/Rose?style=flat-square&color=blue)](https://github.com/Alban1911/Rose/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alban1911/Rose?style=flat-square&color=yellow)](https://github.com/Alban1911/Rose/stargazers) [![Forks](https://img.shields.io/github/forks/Alban1911/Rose?style=flat-square&color=blue)](https://github.com/Alban1911/Rose/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > League, unlocked.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Alban1911/Rose 的价值在于，它可以在 README 和活动信息匹配特定
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

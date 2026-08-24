@@ -1,6 +1,6 @@
 # Lyra-stellAI/BYO-LLM-WIKI
 
-[![Stars](https://img.shields.io/github/stars/Lyra-stellAI/BYO-LLM-WIKI?style=flat-square&color=yellow)](https://github.com/Lyra-stellAI/BYO-LLM-WIKI/stargazers) [![Forks](https://img.shields.io/github/forks/Lyra-stellAI/BYO-LLM-WIKI?style=flat-square&color=blue)](https://github.com/Lyra-stellAI/BYO-LLM-WIKI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lyra-stellAI/BYO-LLM-WIKI?style=flat-square&color=yellow)](https://github.com/Lyra-stellAI/BYO-LLM-WIKI/stargazers) [![Forks](https://img.shields.io/github/forks/Lyra-stellAI/BYO-LLM-WIKI?style=flat-square&color=blue)](https://github.com/Lyra-stellAI/BYO-LLM-WIKI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Build your own LLM-native WIKI (knowledge library). Search, extract, summarize, Q&A with contextual RAG, layered knowledge graph, and reinforced memory. Importantly use selected context to automatically generate skills, empowered by Claude subagents + CodeAct pipeline and gated by human review. Try Live Demo: https://byo-wiki-demo.onrender.com
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Lyra‑stellAI 的 **BYO‑LLM‑WIKI** 把分散的 Prompt、工具和数据统
 | forks | 8/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 76/100 |
-| usefulness | 90/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

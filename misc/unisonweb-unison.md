@@ -1,6 +1,6 @@
 # unisonweb/unison
 
-[![Stars](https://img.shields.io/github/stars/unisonweb/unison?style=flat-square&color=yellow)](https://github.com/unisonweb/unison/stargazers) [![Forks](https://img.shields.io/github/forks/unisonweb/unison?style=flat-square&color=blue)](https://github.com/unisonweb/unison/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unisonweb/unison?style=flat-square&color=yellow)](https://github.com/unisonweb/unison/stargazers) [![Forks](https://img.shields.io/github/forks/unisonweb/unison?style=flat-square&color=blue)](https://github.com/unisonweb/unison/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A friendly programming language from the future
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Unison（unisonweb/unison）是一门面向未来的友好式编程语言，旨�
 | forks | 62/100 |
 | stars | 81/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

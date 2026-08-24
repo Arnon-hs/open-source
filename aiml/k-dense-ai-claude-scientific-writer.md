@@ -1,6 +1,6 @@
 # K-Dense-AI/claude-scientific-writer
 
-[![Stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer?style=flat-square&color=yellow)](https://github.com/K-Dense-AI/claude-scientific-writer/stargazers) [![Forks](https://img.shields.io/github/forks/K-Dense-AI/claude-scientific-writer?style=flat-square&color=blue)](https://github.com/K-Dense-AI/claude-scientific-writer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer?style=flat-square&color=yellow)](https://github.com/K-Dense-AI/claude-scientific-writer/stargazers) [![Forks](https://img.shields.io/github/forks/K-Dense-AI/claude-scientific-writer?style=flat-square&color=blue)](https://github.com/K-Dense-AI/claude-scientific-writer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A general purpose scientific writer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ K‑Dense‑AI/claude‑scientific‑writer 是一款面向科研写作的通用
 | forks | 60/100 |
 | stars | 70/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

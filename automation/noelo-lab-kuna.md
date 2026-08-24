@@ -1,6 +1,6 @@
 # Noelo-Lab/kuna
 
-[![Stars](https://img.shields.io/github/stars/Noelo-Lab/kuna?style=flat-square&color=yellow)](https://github.com/Noelo-Lab/kuna/stargazers) [![Forks](https://img.shields.io/github/forks/Noelo-Lab/kuna?style=flat-square&color=blue)](https://github.com/Noelo-Lab/kuna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Noelo-Lab/kuna?style=flat-square&color=yellow)](https://github.com/Noelo-Lab/kuna/stargazers) [![Forks](https://img.shields.io/github/forks/Noelo-Lab/kuna?style=flat-square&color=blue)](https://github.com/Noelo-Lab/kuna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Design
+Automation
 
 ## 📝 Summary
 
@@ -88,14 +88,15 @@ Noelo-Lab/kuna 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 27/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

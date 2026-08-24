@@ -1,6 +1,6 @@
 # beevibe-ai/beevibe
 
-[![Stars](https://img.shields.io/github/stars/beevibe-ai/beevibe?style=flat-square&color=yellow)](https://github.com/beevibe-ai/beevibe/stargazers) [![Forks](https://img.shields.io/github/forks/beevibe-ai/beevibe?style=flat-square&color=blue)](https://github.com/beevibe-ai/beevibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beevibe-ai/beevibe?style=flat-square&color=yellow)](https://github.com/beevibe-ai/beevibe/stargazers) [![Forks](https://img.shields.io/github/forks/beevibe-ai/beevibe?style=flat-square&color=blue)](https://github.com/beevibe-ai/beevibe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The agent-native OS for companies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ beevibe-ai/beevibe 是一个面向企业的 Agent‑Native 操作系统，能够
 | forks | 27/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

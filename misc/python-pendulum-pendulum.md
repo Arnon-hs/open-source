@@ -1,6 +1,6 @@
 # python-pendulum/pendulum
 
-[![Stars](https://img.shields.io/github/stars/python-pendulum/pendulum?style=flat-square&color=yellow)](https://github.com/python-pendulum/pendulum/stargazers) [![Forks](https://img.shields.io/github/forks/python-pendulum/pendulum?style=flat-square&color=blue)](https://github.com/python-pendulum/pendulum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python-pendulum/pendulum?style=flat-square&color=yellow)](https://github.com/python-pendulum/pendulum/stargazers) [![Forks](https://img.shields.io/github/forks/python-pendulum/pendulum?style=flat-square&color=blue)](https://github.com/python-pendulum/pendulum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Python datetimes made easy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 432 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Pendulum scores high on production readiness: recent commits, a sizable communit
 | forks | 66/100 |
 | stars | 81/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

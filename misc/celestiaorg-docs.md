@@ -1,6 +1,6 @@
 # celestiaorg/docs
 
-[![Stars](https://img.shields.io/github/stars/celestiaorg/docs?style=flat-square&color=yellow)](https://github.com/celestiaorg/docs/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/docs?style=flat-square&color=blue)](https://github.com/celestiaorg/docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/celestiaorg/docs?style=flat-square&color=yellow)](https://github.com/celestiaorg/docs/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/docs?style=flat-square&color=blue)](https://github.com/celestiaorg/docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Celestia Documentation Site
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 420 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Celestiaorg/docs 是一个开源项目，提供了关于 Celestia 的文档和�
 | forks | 66/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

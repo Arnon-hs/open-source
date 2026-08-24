@@ -1,6 +1,6 @@
 # PLFJY/ContextMenuMgr
 
-[![Stars](https://img.shields.io/github/stars/PLFJY/ContextMenuMgr?style=flat-square&color=yellow)](https://github.com/PLFJY/ContextMenuMgr/stargazers) [![Forks](https://img.shields.io/github/forks/PLFJY/ContextMenuMgr?style=flat-square&color=blue)](https://github.com/PLFJY/ContextMenuMgr/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PLFJY/ContextMenuMgr?style=flat-square&color=yellow)](https://github.com/PLFJY/ContextMenuMgr/stargazers) [![Forks](https://img.shields.io/github/forks/PLFJY/ContextMenuMgr?style=flat-square&color=blue)](https://github.com/PLFJY/ContextMenuMgr/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Windows context menu management tool with new menu monitoring
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ PLFJY/ContextMenuMgr 是一款基于 C# 的 Windows 右键菜单管理工具，�
 | forks | 39/100 |
 | stars | 73/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

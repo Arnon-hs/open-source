@@ -1,6 +1,6 @@
 # carvel-dev/kapp
 
-[![Stars](https://img.shields.io/github/stars/carvel-dev/kapp?style=flat-square&color=yellow)](https://github.com/carvel-dev/kapp/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/kapp?style=flat-square&color=blue)](https://github.com/carvel-dev/kapp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carvel-dev/kapp?style=flat-square&color=yellow)](https://github.com/carvel-dev/kapp/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/kapp?style=flat-square&color=blue)](https://github.com/carvel-dev/kapp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Carvel-dev/kapp 的生产可用性很高，主要原因是：
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 61/100 |
-| production | 82/100 |
+| production | 75/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

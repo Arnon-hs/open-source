@@ -1,6 +1,6 @@
 # k3s-io/k3s
 
-[![Stars](https://img.shields.io/github/stars/k3s-io/k3s?style=flat-square&color=yellow)](https://github.com/k3s-io/k3s/stargazers) [![Forks](https://img.shields.io/github/forks/k3s-io/k3s?style=flat-square&color=blue)](https://github.com/k3s-io/k3s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k3s-io/k3s?style=flat-square&color=yellow)](https://github.com/k3s-io/k3s/stargazers) [![Forks](https://img.shields.io/github/forks/k3s-io/k3s?style=flat-square&color=blue)](https://github.com/k3s-io/k3s/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33.4k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ k3s 的生产可用性非常高，因为它拥有强大的社区支持、活跃�
 | forks | 86/100 |
 | stars | 96/100 |
 | topics | 25/100 |
-| outlook | 79/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

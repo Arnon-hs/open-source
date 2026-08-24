@@ -1,6 +1,6 @@
 # Danialsamadi/v2go
 
-[![Stars](https://img.shields.io/github/stars/Danialsamadi/v2go?style=flat-square&color=yellow)](https://github.com/Danialsamadi/v2go/stargazers) [![Forks](https://img.shields.io/github/forks/Danialsamadi/v2go?style=flat-square&color=blue)](https://github.com/Danialsamadi/v2go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Danialsamadi/v2go?style=flat-square&color=yellow)](https://github.com/Danialsamadi/v2go/stargazers) [![Forks](https://img.shields.io/github/forks/Danialsamadi/v2go?style=flat-square&color=blue)](https://github.com/Danialsamadi/v2go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > v2go is a blazingly fast Go V2Ray config aggregator that processes 20,000+ configurations in 11 seconds (99.7% faster than Python), automatically removing duplicates and generating fresh subscription files every 6 hours.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -69,14 +69,15 @@ Let's craft: "Danialsamadi/v2go 是一个基于 Go 的 V2Ray 配置聚合工具�
 | forks | 38/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

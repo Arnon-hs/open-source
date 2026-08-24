@@ -1,6 +1,6 @@
 # butttons/pi-kit
 
-[![Stars](https://img.shields.io/github/stars/butttons/pi-kit?style=flat-square&color=yellow)](https://github.com/butttons/pi-kit/stargazers) [![Forks](https://img.shields.io/github/forks/butttons/pi-kit?style=flat-square&color=blue)](https://github.com/butttons/pi-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/butttons/pi-kit?style=flat-square&color=yellow)](https://github.com/butttons/pi-kit/stargazers) [![Forks](https://img.shields.io/github/forks/butttons/pi-kit?style=flat-square&color=blue)](https://github.com/butttons/pi-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Personal pi coding agent extensions and skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ butttons/pi-kit 的生产可用性为Medium，适合用于原型开发或内部�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

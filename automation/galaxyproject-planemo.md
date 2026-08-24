@@ -1,6 +1,6 @@
 # galaxyproject/planemo
 
-[![Stars](https://img.shields.io/github/stars/galaxyproject/planemo?style=flat-square&color=yellow)](https://github.com/galaxyproject/planemo/stargazers) [![Forks](https://img.shields.io/github/forks/galaxyproject/planemo?style=flat-square&color=blue)](https://github.com/galaxyproject/planemo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/galaxyproject/planemo?style=flat-square&color=yellow)](https://github.com/galaxyproject/planemo/stargazers) [![Forks](https://img.shields.io/github/forks/galaxyproject/planemo?style=flat-square&color=blue)](https://github.com/galaxyproject/planemo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line utilities to assist in developing Galaxy and Common Workflow Language artifacts - including tools, workflows, and training materials.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ galaxyproject/planemo 是一套面向 Galaxy 与 Common Workflow Language（CWL�
 | forks | 50/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

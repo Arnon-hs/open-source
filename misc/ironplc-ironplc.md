@@ -1,6 +1,6 @@
 # ironplc/ironplc
 
-[![Stars](https://img.shields.io/github/stars/ironplc/ironplc?style=flat-square&color=yellow)](https://github.com/ironplc/ironplc/stargazers) [![Forks](https://img.shields.io/github/forks/ironplc/ironplc?style=flat-square&color=blue)](https://github.com/ironplc/ironplc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ironplc/ironplc?style=flat-square&color=yellow)](https://github.com/ironplc/ironplc/stargazers) [![Forks](https://img.shields.io/github/forks/ironplc/ironplc?style=flat-square&color=blue)](https://github.com/ironplc/ironplc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Prototype Rust-based SoftPLC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Ironplc/ironplc - это прототип SoftPLC на основе языка �
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 13/100 |
-| outlook | 64/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

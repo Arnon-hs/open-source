@@ -1,6 +1,6 @@
 # hyperlane-xyz/hyperlane-monorepo
 
-[![Stars](https://img.shields.io/github/stars/hyperlane-xyz/hyperlane-monorepo?style=flat-square&color=yellow)](https://github.com/hyperlane-xyz/hyperlane-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlane-xyz/hyperlane-monorepo?style=flat-square&color=blue)](https://github.com/hyperlane-xyz/hyperlane-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperlane-xyz/hyperlane-monorepo?style=flat-square&color=yellow)](https://github.com/hyperlane-xyz/hyperlane-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlane-xyz/hyperlane-monorepo?style=flat-square&color=blue)](https://github.com/hyperlane-xyz/hyperlane-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The home for Hyperlane core contracts, sdk packages, and other infrastructure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 602 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevOps/Infra
+Crypto
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Hyperlane-XYZ/Hyperlane-Monorepo 的生产可用性为中等（Medium）。虽�
 | forks | 70/100 |
 | stars | 40/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

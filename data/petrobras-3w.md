@@ -1,6 +1,6 @@
 # petrobras/3W
 
-[![Stars](https://img.shields.io/github/stars/petrobras/3W?style=flat-square&color=yellow)](https://github.com/petrobras/3W/stargazers) [![Forks](https://img.shields.io/github/forks/petrobras/3W?style=flat-square&color=blue)](https://github.com/petrobras/3W/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petrobras/3W?style=flat-square&color=yellow)](https://github.com/petrobras/3W/stargazers) [![Forks](https://img.shields.io/github/forks/petrobras/3W?style=flat-square&color=blue)](https://github.com/petrobras/3W/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Timely detections for more proactive and effective actions in offshore oil wells!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 506 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Observability · Education
+Data · Observability
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ petrobras/3W 的生产可用性为中等（Medium）。虽然它对于原型或�
 | forks | 52/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

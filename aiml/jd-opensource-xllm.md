@@ -1,6 +1,6 @@
 # jd-opensource/xllm
 
-[![Stars](https://img.shields.io/github/stars/jd-opensource/xllm?style=flat-square&color=yellow)](https://github.com/jd-opensource/xllm/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/xllm?style=flat-square&color=blue)](https://github.com/jd-opensource/xllm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jd-opensource/xllm?style=flat-square&color=yellow)](https://github.com/jd-opensource/xllm/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/xllm?style=flat-square&color=blue)](https://github.com/jd-opensource/xllm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Overall, xllm is a strong OSS candidate for pilots and can be hardened for produ
 | forks | 60/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

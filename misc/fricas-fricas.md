@@ -1,6 +1,6 @@
 # fricas/fricas
 
-[![Stars](https://img.shields.io/github/stars/fricas/fricas?style=flat-square&color=yellow)](https://github.com/fricas/fricas/stargazers) [![Forks](https://img.shields.io/github/forks/fricas/fricas?style=flat-square&color=blue)](https://github.com/fricas/fricas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fricas/fricas?style=flat-square&color=yellow)](https://github.com/fricas/fricas/stargazers) [![Forks](https://img.shields.io/github/forks/fricas/fricas?style=flat-square&color=blue)](https://github.com/fricas/fricas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Official repository of the FriCAS computer algebra system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 387 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ FriCAS 是一个功能强大的开源计算机代数系统（CAS），官方仓�
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jenkins-x/jx
 
-[![Stars](https://img.shields.io/github/stars/jenkins-x/jx?style=flat-square&color=yellow)](https://github.com/jenkins-x/jx/stargazers) [![Forks](https://img.shields.io/github/forks/jenkins-x/jx?style=flat-square&color=blue)](https://github.com/jenkins-x/jx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkins-x/jx?style=flat-square&color=yellow)](https://github.com/jenkins-x/jx/stargazers) [![Forks](https://img.shields.io/github/forks/jenkins-x/jx?style=flat-square&color=blue)](https://github.com/jenkins-x/jx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 794 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Jenkins X 的生产可用性很高，因为它有：
 | forks | 73/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

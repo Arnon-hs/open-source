@@ -1,6 +1,6 @@
 # arturogarrido/claudinho
 
-[![Stars](https://img.shields.io/github/stars/arturogarrido/claudinho?style=flat-square&color=yellow)](https://github.com/arturogarrido/claudinho/stargazers) [![Forks](https://img.shields.io/github/forks/arturogarrido/claudinho?style=flat-square&color=blue)](https://github.com/arturogarrido/claudinho/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arturogarrido/claudinho?style=flat-square&color=yellow)](https://github.com/arturogarrido/claudinho/stargazers) [![Forks](https://img.shields.io/github/forks/arturogarrido/claudinho?style=flat-square&color=blue)](https://github.com/arturogarrido/claudinho/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > ⚽ 2026 World Cup live scores in your terminal, Claude Code and Cursor CLI statusline & MCP. No API keys. Not affiliated with FIFA or Anthropic.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Claudinho 的生产可用性非常高，理由如下：
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

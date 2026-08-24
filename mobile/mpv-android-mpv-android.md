@@ -1,6 +1,6 @@
 # mpv-android/mpv-android
 
-[![Stars](https://img.shields.io/github/stars/mpv-android/mpv-android?style=flat-square&color=yellow)](https://github.com/mpv-android/mpv-android/stargazers) [![Forks](https://img.shields.io/github/forks/mpv-android/mpv-android?style=flat-square&color=blue)](https://github.com/mpv-android/mpv-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpv-android/mpv-android?style=flat-square&color=yellow)](https://github.com/mpv-android/mpv-android/stargazers) [![Forks](https://img.shields.io/github/forks/mpv-android/mpv-android?style=flat-square&color=blue)](https://github.com/mpv-android/mpv-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 449 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ mpv-android/mpv-android 在生产环境中的可用性较高。其最近的活�
 | forks | 66/100 |
 | stars | 75/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 73/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

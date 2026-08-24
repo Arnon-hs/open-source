@@ -1,6 +1,6 @@
 # HaolemeApp/Haoleme
 
-[![Stars](https://img.shields.io/github/stars/HaolemeApp/Haoleme?style=flat-square&color=yellow)](https://github.com/HaolemeApp/Haoleme/stargazers) [![Forks](https://img.shields.io/github/forks/HaolemeApp/Haoleme?style=flat-square&color=blue)](https://github.com/HaolemeApp/Haoleme/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HaolemeApp/Haoleme?style=flat-square&color=yellow)](https://github.com/HaolemeApp/Haoleme/stargazers) [![Forks](https://img.shields.io/github/forks/HaolemeApp/Haoleme?style=flat-square&color=blue)](https://github.com/HaolemeApp/Haoleme/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 在手机上监控电脑和服务器里的命令运行状态。用 hao 启动命令，App 实时查看输出、设备状态和结束通知。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ HaolemeApp/Haoleme 的生产可用性为中等，适合用于内部工作流或�
 | forks | 12/100 |
 | stars | 39/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

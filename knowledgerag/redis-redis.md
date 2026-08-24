@@ -1,6 +1,6 @@
 # redis/redis
 
-[![Stars](https://img.shields.io/github/stars/redis/redis?style=flat-square&color=yellow)](https://github.com/redis/redis/stargazers) [![Forks](https://img.shields.io/github/forks/redis/redis?style=flat-square&color=blue)](https://github.com/redis/redis/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redis/redis?style=flat-square&color=yellow)](https://github.com/redis/redis/stargazers) [![Forks](https://img.shields.io/github/forks/redis/redis?style=flat-square&color=blue)](https://github.com/redis/redis/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75.7k |
 | 🍴 **Forks** | 24.7k |
 | 💻 **Language** | C |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · Backend · DevTools · Data
+Knowledge/RAG · Database
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ Redis 的生产可用性很高。它有大量的 GitHubstar（75728），fork（
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 90/100 |
+| recency | 60/100 |
 | adoption | 100/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

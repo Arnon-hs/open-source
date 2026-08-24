@@ -1,6 +1,6 @@
 # hashicorp/vault-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/vault-mcp-server?style=flat-square&color=yellow)](https://github.com/hashicorp/vault-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/vault-mcp-server?style=flat-square&color=blue)](https://github.com/hashicorp/vault-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/vault-mcp-server?style=flat-square&color=yellow)](https://github.com/hashicorp/vault-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/vault-mcp-server?style=flat-square&color=blue)](https://github.com/hashicorp/vault-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Database
+MCP
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ hashicorp/vault-mcp-server：hashicorp/vault-mcp-server helps connect AI assista
 | forks | 35/100 |
 | stars | 38/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

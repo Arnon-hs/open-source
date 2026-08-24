@@ -1,6 +1,6 @@
 # scionproto/scion
 
-[![Stars](https://img.shields.io/github/stars/scionproto/scion?style=flat-square&color=yellow)](https://github.com/scionproto/scion/stargazers) [![Forks](https://img.shields.io/github/forks/scionproto/scion?style=flat-square&color=blue)](https://github.com/scionproto/scion/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scionproto/scion?style=flat-square&color=yellow)](https://github.com/scionproto/scion/stargazers) [![Forks](https://img.shields.io/github/forks/scionproto/scion?style=flat-square&color=blue)](https://github.com/scionproto/scion/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > SCION Internet Architecture
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ scionproto/scion 的生产可用性为中等。它可以用于原型或内部工
 | forks | 57/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

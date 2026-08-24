@@ -1,6 +1,6 @@
 # panva/node-oidc-provider
 
-[![Stars](https://img.shields.io/github/stars/panva/node-oidc-provider?style=flat-square&color=yellow)](https://github.com/panva/node-oidc-provider/stargazers) [![Forks](https://img.shields.io/github/forks/panva/node-oidc-provider?style=flat-square&color=blue)](https://github.com/panva/node-oidc-provider/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/panva/node-oidc-provider?style=flat-square&color=yellow)](https://github.com/panva/node-oidc-provider/stargazers) [![Forks](https://img.shields.io/github/forks/panva/node-oidc-provider?style=flat-square&color=blue)](https://github.com/panva/node-oidc-provider/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 788 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Security
+Backend
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ panva/node-oidc-provider 具有高生产可用性，它的 GitHub 星数和 fork
 | forks | 72/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

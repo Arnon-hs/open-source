@@ -1,6 +1,6 @@
 # DarkFlippers/flipperzero-subbrute
 
-[![Stars](https://img.shields.io/github/stars/DarkFlippers/flipperzero-subbrute?style=flat-square&color=yellow)](https://github.com/DarkFlippers/flipperzero-subbrute/stargazers) [![Forks](https://img.shields.io/github/forks/DarkFlippers/flipperzero-subbrute?style=flat-square&color=blue)](https://github.com/DarkFlippers/flipperzero-subbrute/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DarkFlippers/flipperzero-subbrute?style=flat-square&color=yellow)](https://github.com/DarkFlippers/flipperzero-subbrute/stargazers) [![Forks](https://img.shields.io/github/forks/DarkFlippers/flipperzero-subbrute?style=flat-square&color=blue)](https://github.com/DarkFlippers/flipperzero-subbrute/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > SubGHz key checker
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 898 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ DarkFlippers/flipperzero-subbrute 的接入方式相对简单，可以通过以�
 | forks | 46/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

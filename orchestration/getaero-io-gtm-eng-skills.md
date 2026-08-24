@@ -1,6 +1,6 @@
 # getaero-io/gtm-eng-skills
 
-[![Stars](https://img.shields.io/github/stars/getaero-io/gtm-eng-skills?style=flat-square&color=yellow)](https://github.com/getaero-io/gtm-eng-skills/stargazers) [![Forks](https://img.shields.io/github/forks/getaero-io/gtm-eng-skills?style=flat-square&color=blue)](https://github.com/getaero-io/gtm-eng-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getaero-io/gtm-eng-skills?style=flat-square&color=yellow)](https://github.com/getaero-io/gtm-eng-skills/stargazers) [![Forks](https://img.shields.io/github/forks/getaero-io/gtm-eng-skills?style=flat-square&color=blue)](https://github.com/getaero-io/gtm-eng-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 10 AI agent skills for Claude Code — waterfall email enrichment, TAM building, signal discovery, job change detection, and outbound automation. Powered by Deepline CLI with 28+ GTM data providers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ getaero-io/gtm‑eng‑skills 提供 10 套针对 Claude Code 的 AI Agent 技�
 | forks | 21/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

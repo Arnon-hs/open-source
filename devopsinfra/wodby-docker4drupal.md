@@ -1,6 +1,6 @@
 # wodby/docker4drupal
 
-[![Stars](https://img.shields.io/github/stars/wodby/docker4drupal?style=flat-square&color=yellow)](https://github.com/wodby/docker4drupal/stargazers) [![Forks](https://img.shields.io/github/forks/wodby/docker4drupal?style=flat-square&color=blue)](https://github.com/wodby/docker4drupal/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wodby/docker4drupal?style=flat-square&color=yellow)](https://github.com/wodby/docker4drupal/stargazers) [![Forks](https://img.shields.io/github/forks/wodby/docker4drupal?style=flat-square&color=blue)](https://github.com/wodby/docker4drupal/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Docker-based Drupal stack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 531 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ wodby/docker4drupal 是一个基于 Docker 的 Drupal 全栈解决方案，提�
 | forks | 68/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

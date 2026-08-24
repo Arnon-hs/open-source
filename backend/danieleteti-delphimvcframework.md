@@ -1,6 +1,6 @@
 # danieleteti/delphimvcframework
 
-[![Stars](https://img.shields.io/github/stars/danieleteti/delphimvcframework?style=flat-square&color=yellow)](https://github.com/danieleteti/delphimvcframework/stargazers) [![Forks](https://img.shields.io/github/forks/danieleteti/delphimvcframework?style=flat-square&color=blue)](https://github.com/danieleteti/delphimvcframework/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danieleteti/delphimvcframework?style=flat-square&color=yellow)](https://github.com/danieleteti/delphimvcframework/stargazers) [![Forks](https://img.shields.io/github/forks/danieleteti/delphimvcframework?style=flat-square&color=blue)](https://github.com/danieleteti/delphimvcframework/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > DMVCFramework (for short) is a popular and powerful framework for Web API and Web Applications in Delphi. Supports RESTful and JSON-RPC WEB APIs development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 382 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Security
+Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ DMVCFramework（danieleteti/delphimvcframework）是 Delphi 生态中最流行�
 | forks | 65/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

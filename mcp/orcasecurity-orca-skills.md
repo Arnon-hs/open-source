@@ -1,6 +1,6 @@
 # orcasecurity/orca-skills
 
-[![Stars](https://img.shields.io/github/stars/orcasecurity/orca-skills?style=flat-square&color=yellow)](https://github.com/orcasecurity/orca-skills/stargazers) [![Forks](https://img.shields.io/github/forks/orcasecurity/orca-skills?style=flat-square&color=blue)](https://github.com/orcasecurity/orca-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orcasecurity/orca-skills?style=flat-square&color=yellow)](https://github.com/orcasecurity/orca-skills/stargazers) [![Forks](https://img.shields.io/github/forks/orcasecurity/orca-skills?style=flat-square&color=blue)](https://github.com/orcasecurity/orca-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Skills and plugins to accelerate security workflows with the Orca Cloud Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ orcasecurity/orca‑skills 为 Orca Cloud Platform 提供了一套标准化的 S
 | forks | 15/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

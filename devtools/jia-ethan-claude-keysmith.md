@@ -1,6 +1,6 @@
 # Jia-Ethan/claude-keysmith
 
-[![Stars](https://img.shields.io/github/stars/Jia-Ethan/claude-keysmith?style=flat-square&color=yellow)](https://github.com/Jia-Ethan/claude-keysmith/stargazers) [![Forks](https://img.shields.io/github/forks/Jia-Ethan/claude-keysmith?style=flat-square&color=blue)](https://github.com/Jia-Ethan/claude-keysmith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jia-Ethan/claude-keysmith?style=flat-square&color=yellow)](https://github.com/Jia-Ethan/claude-keysmith/stargazers) [![Forks](https://img.shields.io/github/forks/Jia-Ethan/claude-keysmith?style=flat-square&color=blue)](https://github.com/Jia-Ethan/claude-keysmith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Managed Claude Code instruction deployment with safe CLI recovery and an unsigned macOS/Windows desktop beta.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Jia-Ethan/claude-keysmith 帮助工程师:
 | forks | 52/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

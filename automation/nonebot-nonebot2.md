@@ -1,6 +1,6 @@
 # nonebot/nonebot2
 
-[![Stars](https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&color=yellow)](https://github.com/nonebot/nonebot2/stargazers) [![Forks](https://img.shields.io/github/forks/nonebot/nonebot2?style=flat-square&color=blue)](https://github.com/nonebot/nonebot2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&color=yellow)](https://github.com/nonebot/nonebot2/stargazers) [![Forks](https://img.shields.io/github/forks/nonebot/nonebot2?style=flat-square&color=blue)](https://github.com/nonebot/nonebot2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.7k |
 | 🍴 **Forks** | 663 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · Database
+Automation
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ nonebot/nonebot2 的生产可用性较高，理由如下：
 | forks | 71/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 79/100 |
-| production | 83/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

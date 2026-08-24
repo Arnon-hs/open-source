@@ -1,6 +1,6 @@
 # chigwell/llm7.io
 
-[![Stars](https://img.shields.io/github/stars/chigwell/llm7.io?style=flat-square&color=yellow)](https://github.com/chigwell/llm7.io/stargazers) [![Forks](https://img.shields.io/github/forks/chigwell/llm7.io?style=flat-square&color=blue)](https://github.com/chigwell/llm7.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chigwell/llm7.io?style=flat-square&color=yellow)](https://github.com/chigwell/llm7.io/stargazers) [![Forks](https://img.shields.io/github/forks/chigwell/llm7.io?style=flat-square&color=blue)](https://github.com/chigwell/llm7.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > LLM7.io offers a single API gateway that connects you to a wide array of leading AI models from various providers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ chigwell/llm7.io 提供统一的 API 网关，让开发者一次调用即可接�
 | forks | 23/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

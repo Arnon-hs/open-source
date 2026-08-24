@@ -1,6 +1,6 @@
 # Alexey-Popov/awesome-ai-architect
 
-[![Stars](https://img.shields.io/github/stars/Alexey-Popov/awesome-ai-architect?style=flat-square&color=yellow)](https://github.com/Alexey-Popov/awesome-ai-architect/stargazers) [![Forks](https://img.shields.io/github/forks/Alexey-Popov/awesome-ai-architect?style=flat-square&color=blue)](https://github.com/Alexey-Popov/awesome-ai-architect/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alexey-Popov/awesome-ai-architect?style=flat-square&color=yellow)](https://github.com/Alexey-Popov/awesome-ai-architect/stargazers) [![Forks](https://img.shields.io/github/forks/Alexey-Popov/awesome-ai-architect?style=flat-square&color=blue)](https://github.com/Alexey-Popov/awesome-ai-architect/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 10x your AI Architect journey: plain‑language, guides that blend AI engineering + solution architecture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Alexey-Popov/awesome-ai-architect 是一个开源项目，旨在帮助 AI 架构
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

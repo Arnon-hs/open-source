@@ -1,6 +1,6 @@
 # Riley-Coyote/mnemos
 
-[![Stars](https://img.shields.io/github/stars/Riley-Coyote/mnemos?style=flat-square&color=yellow)](https://github.com/Riley-Coyote/mnemos/stargazers) [![Forks](https://img.shields.io/github/forks/Riley-Coyote/mnemos?style=flat-square&color=blue)](https://github.com/Riley-Coyote/mnemos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Riley-Coyote/mnemos?style=flat-square&color=yellow)](https://github.com/Riley-Coyote/mnemos/stargazers) [![Forks](https://img.shields.io/github/forks/Riley-Coyote/mnemos?style=flat-square&color=blue)](https://github.com/Riley-Coyote/mnemos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Living Memory Architecture for Autonomous AI Agents — MCP server with typed connections, beliefs, decay, reconsolidation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ Riley‑Coyote/mnemos 提供了一种基于 Model Context Protocol（MCP）的�
 | forks | 25/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 44/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

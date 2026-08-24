@@ -1,6 +1,6 @@
 # memoket/memoket-kite
 
-[![Stars](https://img.shields.io/github/stars/memoket/memoket-kite?style=flat-square&color=yellow)](https://github.com/memoket/memoket-kite/stargazers) [![Forks](https://img.shields.io/github/forks/memoket/memoket-kite?style=flat-square&color=blue)](https://github.com/memoket/memoket-kite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memoket/memoket-kite?style=flat-square&color=yellow)](https://github.com/memoket/memoket-kite/stargazers) [![Forks](https://img.shields.io/github/forks/memoket/memoket-kite?style=flat-square&color=blue)](https://github.com/memoket/memoket-kite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ memoket/memoket-kite：memoket/memoket-kite helps turn isolated prompts and tool
 | forks | 19/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

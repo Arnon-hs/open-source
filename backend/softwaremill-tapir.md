@@ -1,6 +1,6 @@
 # softwaremill/tapir
 
-[![Stars](https://img.shields.io/github/stars/softwaremill/tapir?style=flat-square&color=yellow)](https://github.com/softwaremill/tapir/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/tapir?style=flat-square&color=blue)](https://github.com/softwaremill/tapir/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softwaremill/tapir?style=flat-square&color=yellow)](https://github.com/softwaremill/tapir/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/tapir?style=flat-square&color=blue)](https://github.com/softwaremill/tapir/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Rapid development of self-documenting APIs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 468 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Observability
+Backend · Observability
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ softwaremill/tapir has demonstrated high production readiness, with recent activ
 | forks | 67/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # simonlin1212/a-stock-data
 
-[![Stars](https://img.shields.io/github/stars/simonlin1212/a-stock-data?style=flat-square&color=yellow)](https://github.com/simonlin1212/a-stock-data/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/a-stock-data?style=flat-square&color=blue)](https://github.com/simonlin1212/a-stock-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonlin1212/a-stock-data?style=flat-square&color=yellow)](https://github.com/simonlin1212/a-stock-data/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/a-stock-data?style=flat-square&color=blue)](https://github.com/simonlin1212/a-stock-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A股全栈数据工具包 · 十一层架构 · 54端点 · 19数据源 · 零鉴权 | Full-stack China A-share data toolkit for AI agents — 11 layers, 54 endpoints, 19 sources, zero-auth
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ simonlin1212/a-stock-data：simonlin1212/a-stock-data helps research and automat
 | forks | 80/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 84/100 |
+| quality | 87/100 |
+| recency | 80/100 |
 | adoption | 83/100 |
-| production | 81/100 |
+| production | 74/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

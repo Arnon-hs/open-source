@@ -1,6 +1,6 @@
 # Green-Software-Foundation/awesome-green-software
 
-[![Stars](https://img.shields.io/github/stars/Green-Software-Foundation/awesome-green-software?style=flat-square&color=yellow)](https://github.com/Green-Software-Foundation/awesome-green-software/stargazers) [![Forks](https://img.shields.io/github/forks/Green-Software-Foundation/awesome-green-software?style=flat-square&color=blue)](https://github.com/Green-Software-Foundation/awesome-green-software/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Green-Software-Foundation/awesome-green-software?style=flat-square&color=yellow)](https://github.com/Green-Software-Foundation/awesome-green-software/stargazers) [![Forks](https://img.shields.io/github/forks/Green-Software-Foundation/awesome-green-software?style=flat-square&color=blue)](https://github.com/Green-Software-Foundation/awesome-green-software/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 688 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Green-Software-Foundation/awesome-green-software 是一个开源项目，旨在�
 | forks | 51/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

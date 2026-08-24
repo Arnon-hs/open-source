@@ -1,6 +1,6 @@
 # dunialabs/peta-core
 
-[![Stars](https://img.shields.io/github/stars/dunialabs/peta-core?style=flat-square&color=yellow)](https://github.com/dunialabs/peta-core/stargazers) [![Forks](https://img.shields.io/github/forks/dunialabs/peta-core?style=flat-square&color=blue)](https://github.com/dunialabs/peta-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dunialabs/peta-core?style=flat-square&color=yellow)](https://github.com/dunialabs/peta-core/stargazers) [![Forks](https://img.shields.io/github/forks/dunialabs/peta-core?style=flat-square&color=blue)](https://github.com/dunialabs/peta-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The Control Plane for MCP — secure vault, managed runtime, audit trail, and policy-based approvals.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Security
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ dunialabs/peta-core 的生产可用性很高，主要原因是：
 | forks | 26/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

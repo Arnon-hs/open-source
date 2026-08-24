@@ -1,6 +1,6 @@
 # nullpointexception-i/agent-sphere
 
-[![Stars](https://img.shields.io/github/stars/nullpointexception-i/agent-sphere?style=flat-square&color=yellow)](https://github.com/nullpointexception-i/agent-sphere/stargazers) [![Forks](https://img.shields.io/github/forks/nullpointexception-i/agent-sphere?style=flat-square&color=blue)](https://github.com/nullpointexception-i/agent-sphere/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nullpointexception-i/agent-sphere?style=flat-square&color=yellow)](https://github.com/nullpointexception-i/agent-sphere/stargazers) [![Forks](https://img.shields.io/github/forks/nullpointexception-i/agent-sphere?style=flat-square&color=blue)](https://github.com/nullpointexception-i/agent-sphere/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP protocol, CLI execution, browser operations, etc.), to achieve a basic closed loop from perception → planning → execution → feedback.本项目是一个面向 AI Agent 编排平台。它通过 LLM 驱动的决策引擎，结合能力（内置工具、MCP 协议、CLI 执行、浏览器操作等）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · DevTools
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ nullpointexception-i/agent-sphere 的价值在于把零散的 Prompt 和工具�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

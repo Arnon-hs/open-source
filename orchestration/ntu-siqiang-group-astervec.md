@@ -1,6 +1,6 @@
 # NTU-Siqiang-Group/AsterVec
 
-[![Stars](https://img.shields.io/github/stars/NTU-Siqiang-Group/AsterVec?style=flat-square&color=yellow)](https://github.com/NTU-Siqiang-Group/AsterVec/stargazers) [![Forks](https://img.shields.io/github/forks/NTU-Siqiang-Group/AsterVec?style=flat-square&color=blue)](https://github.com/NTU-Siqiang-Group/AsterVec/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NTU-Siqiang-Group/AsterVec?style=flat-square&color=yellow)](https://github.com/NTU-Siqiang-Group/AsterVec/stargazers) [![Forks](https://img.shields.io/github/forks/NTU-Siqiang-Group/AsterVec?style=flat-square&color=blue)](https://github.com/NTU-Siqiang-Group/AsterVec/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Embedded on-device vector database for AI agent memory and local RAG — disk-based HNSW in an LSM-tree, C++/Python, optimized for low memory footprint
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data · Database
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ AsterVec 的生产可用性为中等（Medium）。它适合用于原型或内�
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

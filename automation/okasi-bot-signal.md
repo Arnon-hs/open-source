@@ -1,6 +1,6 @@
 # okasi/bot-signal
 
-[![Stars](https://img.shields.io/github/stars/okasi/bot-signal?style=flat-square&color=yellow)](https://github.com/okasi/bot-signal/stargazers) [![Forks](https://img.shields.io/github/forks/okasi/bot-signal?style=flat-square&color=blue)](https://github.com/okasi/bot-signal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/okasi/bot-signal?style=flat-square&color=yellow)](https://github.com/okasi/bot-signal/stargazers) [![Forks](https://img.shields.io/github/forks/okasi/bot-signal?style=flat-square&color=blue)](https://github.com/okasi/bot-signal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript bot detection: catch WebDriver, headless Chrome, Playwright/Puppeteer, robotic mouse/typing, datacenter IPs, JA3 TLS mismatch & timezone spoofing — browser + Node.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 667 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Data · Security
+Automation · Security
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ okasi/bot-signal 的生产可用性很高，主要原因包括：
 | forks | 17/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

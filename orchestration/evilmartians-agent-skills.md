@@ -1,6 +1,6 @@
 # evilmartians/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/evilmartians/agent-skills?style=flat-square&color=yellow)](https://github.com/evilmartians/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/evilmartians/agent-skills?style=flat-square&color=blue)](https://github.com/evilmartians/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evilmartians/agent-skills?style=flat-square&color=yellow)](https://github.com/evilmartians/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/evilmartians/agent-skills?style=flat-square&color=blue)](https://github.com/evilmartians/agent-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade Agent Skills from Evil Martians — drop-in expertise for your AI coding agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Evil Martians Agent Skills 的生产可用性为中等，适合用于原型或�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 60/100 |
 | adoption | 21/100 |
-| production | 69/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

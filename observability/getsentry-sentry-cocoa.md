@@ -1,6 +1,6 @@
 # getsentry/sentry-cocoa
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-cocoa?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-cocoa/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-cocoa?style=flat-square&color=blue)](https://github.com/getsentry/sentry-cocoa/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-cocoa?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-cocoa/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-cocoa?style=flat-square&color=blue)](https://github.com/getsentry/sentry-cocoa/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 398 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Observability · Mobile · Product
+Observability · Mobile
 
 ## 📝 Summary
 
@@ -120,14 +120,15 @@ getsentry/sentry‑cocoa 是 Sentry 官方提供的 Swift/Objective‑C SDK，�
 | forks | 65/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

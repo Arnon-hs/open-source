@@ -1,6 +1,6 @@
 # OleksandrChekhovskyi/hax
 
-[![Stars](https://img.shields.io/github/stars/OleksandrChekhovskyi/hax?style=flat-square&color=yellow)](https://github.com/OleksandrChekhovskyi/hax/stargazers) [![Forks](https://img.shields.io/github/forks/OleksandrChekhovskyi/hax?style=flat-square&color=blue)](https://github.com/OleksandrChekhovskyi/hax/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OleksandrChekhovskyi/hax?style=flat-square&color=yellow)](https://github.com/OleksandrChekhovskyi/hax/stargazers) [![Forks](https://img.shields.io/github/forks/OleksandrChekhovskyi/hax?style=flat-square&color=blue)](https://github.com/OleksandrChekhovskyi/hax/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A minimalist, terminal-native coding agent written in C.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ OleksandrChekhovskyi/hax的价值在于它可以帮助开发者快速构建AI特
 | forks | 8/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

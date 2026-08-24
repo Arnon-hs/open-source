@@ -1,6 +1,6 @@
 # imarvinle/chatgpt-plus-tutorial
 
-[![Stars](https://img.shields.io/github/stars/imarvinle/chatgpt-plus-tutorial?style=flat-square&color=yellow)](https://github.com/imarvinle/chatgpt-plus-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/imarvinle/chatgpt-plus-tutorial?style=flat-square&color=blue)](https://github.com/imarvinle/chatgpt-plus-tutorial/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imarvinle/chatgpt-plus-tutorial?style=flat-square&color=yellow)](https://github.com/imarvinle/chatgpt-plus-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/imarvinle/chatgpt-plus-tutorial?style=flat-square&color=blue)](https://github.com/imarvinle/chatgpt-plus-tutorial/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 2026最新ChatGPT Plus/Pro 代充教程：ChatGPT账号怎么注册？如何订购ChatGPT Plus会员？怎样购买独立的ChatGPT Plus账号？现有ChatGPT 账户如何充值 Plus？（附Codex ChatGPT国内使用指南）
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Education
+Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ imarvinle/chatgpt-plus-tutorial 的生产可用性为中等（Medium）。该项
 | forks | 31/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

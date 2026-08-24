@@ -1,6 +1,6 @@
 # strausmann/mcp-dockhand
 
-[![Stars](https://img.shields.io/github/stars/strausmann/mcp-dockhand?style=flat-square&color=yellow)](https://github.com/strausmann/mcp-dockhand/stargazers) [![Forks](https://img.shields.io/github/forks/strausmann/mcp-dockhand?style=flat-square&color=blue)](https://github.com/strausmann/mcp-dockhand/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strausmann/mcp-dockhand?style=flat-square&color=yellow)](https://github.com/strausmann/mcp-dockhand/stargazers) [![Forks](https://img.shields.io/github/forks/strausmann/mcp-dockhand?style=flat-square&color=blue)](https://github.com/strausmann/mcp-dockhand/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for Dockhand Docker Management - exposes 130+ API endpoints as MCP tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ strausmann/mcp-dockhand 的生产可用性较高，主要原因是：
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

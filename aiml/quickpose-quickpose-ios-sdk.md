@@ -1,6 +1,6 @@
 # quickpose/quickpose-ios-sdk
 
-[![Stars](https://img.shields.io/github/stars/quickpose/quickpose-ios-sdk?style=flat-square&color=yellow)](https://github.com/quickpose/quickpose-ios-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/quickpose/quickpose-ios-sdk?style=flat-square&color=blue)](https://github.com/quickpose/quickpose-ios-sdk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quickpose/quickpose-ios-sdk?style=flat-square&color=yellow)](https://github.com/quickpose/quickpose-ios-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/quickpose/quickpose-ios-sdk?style=flat-square&color=blue)](https://github.com/quickpose/quickpose-ios-sdk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Quickly add MediaPipe Pose Estimation and Detection to your iOS app. Enable powerful features in your app powered by the body or hand.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ quickpose/quickpose-ios-sdk 的价值在于，它可以帮助您轻松添加 AI 
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

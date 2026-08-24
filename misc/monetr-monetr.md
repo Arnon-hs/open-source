@@ -1,6 +1,6 @@
 # monetr/monetr
 
-[![Stars](https://img.shields.io/github/stars/monetr/monetr?style=flat-square&color=yellow)](https://github.com/monetr/monetr/stargazers) [![Forks](https://img.shields.io/github/forks/monetr/monetr?style=flat-square&color=blue)](https://github.com/monetr/monetr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monetr/monetr?style=flat-square&color=yellow)](https://github.com/monetr/monetr/stargazers) [![Forks](https://img.shields.io/github/forks/monetr/monetr?style=flat-square&color=blue)](https://github.com/monetr/monetr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > monetr is a budgeting application focused on planning for recurring expenses.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 674 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Monetr 的生产可用性为中等（Medium）。它可以用于原型开发或�
 | forks | 42/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

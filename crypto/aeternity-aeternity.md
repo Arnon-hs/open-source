@@ -1,6 +1,6 @@
 # aeternity/aeternity
 
-[![Stars](https://img.shields.io/github/stars/aeternity/aeternity?style=flat-square&color=yellow)](https://github.com/aeternity/aeternity/stargazers) [![Forks](https://img.shields.io/github/forks/aeternity/aeternity?style=flat-square&color=blue)](https://github.com/aeternity/aeternity/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aeternity/aeternity?style=flat-square&color=yellow)](https://github.com/aeternity/aeternity/stargazers) [![Forks](https://img.shields.io/github/forks/aeternity/aeternity?style=flat-square&color=blue)](https://github.com/aeternity/aeternity/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Erlang |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ The æternity blockchain project is an open-source, scalable blockchain platform
 | forks | 60/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

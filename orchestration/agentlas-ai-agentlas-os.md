@@ -1,6 +1,6 @@
 # agentlas-ai/Agentlas-OS
 
-[![Stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=flat-square&color=yellow)](https://github.com/agentlas-ai/Agentlas-OS/stargazers) [![Forks](https://img.shields.io/github/forks/agentlas-ai/Agentlas-OS?style=flat-square&color=blue)](https://github.com/agentlas-ai/Agentlas-OS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=flat-square&color=yellow)](https://github.com/agentlas-ai/Agentlas-OS/stargazers) [![Forks](https://img.shields.io/github/forks/agentlas-ai/Agentlas-OS?style=flat-square&color=blue)](https://github.com/agentlas-ai/Agentlas-OS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Agentlas-OS 的生产可用性较高，理由如下：
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

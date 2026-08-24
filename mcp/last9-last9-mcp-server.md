@@ -1,6 +1,6 @@
 # last9/last9-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/last9/last9-mcp-server?style=flat-square&color=yellow)](https://github.com/last9/last9-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/last9/last9-mcp-server?style=flat-square&color=blue)](https://github.com/last9/last9-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/last9/last9-mcp-server?style=flat-square&color=yellow)](https://github.com/last9/last9-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/last9/last9-mcp-server?style=flat-square&color=blue)](https://github.com/last9/last9-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Last9 MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Observability
+MCP · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ last9/last9-mcp-server 是一个用 Go 实现的 Model Context Protocol（MCP）
 | forks | 28/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # len5ky/CursorRemote
 
-[![Stars](https://img.shields.io/github/stars/len5ky/CursorRemote?style=flat-square&color=yellow)](https://github.com/len5ky/CursorRemote/stargazers) [![Forks](https://img.shields.io/github/forks/len5ky/CursorRemote?style=flat-square&color=blue)](https://github.com/len5ky/CursorRemote/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/len5ky/CursorRemote?style=flat-square&color=yellow)](https://github.com/len5ky/CursorRemote/stargazers) [![Forks](https://img.shields.io/github/forks/len5ky/CursorRemote?style=flat-square&color=blue)](https://github.com/len5ky/CursorRemote/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Remote control for your local Cursor AI agent — monitor sessions, approve steps, and send tasks from your phone or Telegram while Cursor runs on your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ len5ky/CursorRemote 的生产可用性为中等（Medium）。它适用于原型
 | forks | 40/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # yotsuda/PowerShell.MCP
 
-[![Stars](https://img.shields.io/github/stars/yotsuda/PowerShell.MCP?style=flat-square&color=yellow)](https://github.com/yotsuda/PowerShell.MCP/stargazers) [![Forks](https://img.shields.io/github/forks/yotsuda/PowerShell.MCP?style=flat-square&color=blue)](https://github.com/yotsuda/PowerShell.MCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yotsuda/PowerShell.MCP?style=flat-square&color=yellow)](https://github.com/yotsuda/PowerShell.MCP/stargazers) [![Forks](https://img.shields.io/github/forks/yotsuda/PowerShell.MCP?style=flat-square&color=blue)](https://github.com/yotsuda/PowerShell.MCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The universal MCP server for Claude Code and other MCP-compatible clients. One installation gives AI access to 10,000+ PowerShell modules and any CLI tool. You and AI collaborate in the same console with full transparency. Supports Windows, Linux, and macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ PowerShell.MCP 为 AI 与真实系统工具的对接提供了一个简洁、统�
 | forks | 23/100 |
 | stars | 40/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

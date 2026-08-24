@@ -1,6 +1,6 @@
 # taylorsatula/mira-OSS
 
-[![Stars](https://img.shields.io/github/stars/taylorsatula/mira-OSS?style=flat-square&color=yellow)](https://github.com/taylorsatula/mira-OSS/stargazers) [![Forks](https://img.shields.io/github/forks/taylorsatula/mira-OSS?style=flat-square&color=blue)](https://github.com/taylorsatula/mira-OSS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taylorsatula/mira-OSS?style=flat-square&color=yellow)](https://github.com/taylorsatula/mira-OSS/stargazers) [![Forks](https://img.shields.io/github/forks/taylorsatula/mira-OSS?style=flat-square&color=blue)](https://github.com/taylorsatula/mira-OSS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I would like to think I've made an elegant brain-in-box. You load it and send cURL requests - it talks back, learns, and uses tools. Contributions welcome.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Database · Education
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -125,14 +125,15 @@ MIRA OS 能够把企业内部的文档、数据和业务工具统一包装为�
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

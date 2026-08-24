@@ -1,6 +1,6 @@
 # Manavarya09/public-apis-live
 
-[![Stars](https://img.shields.io/github/stars/Manavarya09/public-apis-live?style=flat-square&color=yellow)](https://github.com/Manavarya09/public-apis-live/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/public-apis-live?style=flat-square&color=blue)](https://github.com/Manavarya09/public-apis-live/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Manavarya09/public-apis-live?style=flat-square&color=yellow)](https://github.com/Manavarya09/public-apis-live/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/public-apis-live?style=flat-square&color=blue)](https://github.com/Manavarya09/public-apis-live/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Manavarya09/public-apis-live 将全球公开的 API 汇总、去重并每日自�
 | forks | 24/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

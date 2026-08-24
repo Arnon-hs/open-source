@@ -1,6 +1,6 @@
 # cporter202/coreclaw-api-directory
 
-[![Stars](https://img.shields.io/github/stars/cporter202/coreclaw-api-directory?style=flat-square&color=yellow)](https://github.com/cporter202/coreclaw-api-directory/stargazers) [![Forks](https://img.shields.io/github/forks/cporter202/coreclaw-api-directory?style=flat-square&color=blue)](https://github.com/cporter202/coreclaw-api-directory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cporter202/coreclaw-api-directory?style=flat-square&color=yellow)](https://github.com/cporter202/coreclaw-api-directory/stargazers) [![Forks](https://img.shields.io/github/forks/cporter202/coreclaw-api-directory?style=flat-square&color=blue)](https://github.com/cporter202/coreclaw-api-directory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ cporter202/coreclaw-api-directory 是一个开源项目，提供了一份分类�
 | forks | 37/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

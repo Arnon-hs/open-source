@@ -1,6 +1,6 @@
 # mi-g-alex/Telegram-Monet
 
-[![Stars](https://img.shields.io/github/stars/mi-g-alex/Telegram-Monet?style=flat-square&color=yellow)](https://github.com/mi-g-alex/Telegram-Monet/stargazers) [![Forks](https://img.shields.io/github/forks/mi-g-alex/Telegram-Monet?style=flat-square&color=blue)](https://github.com/mi-g-alex/Telegram-Monet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mi-g-alex/Telegram-Monet?style=flat-square&color=yellow)](https://github.com/mi-g-alex/Telegram-Monet/stargazers) [![Forks](https://img.shields.io/github/forks/mi-g-alex/Telegram-Monet?style=flat-square&color=blue)](https://github.com/mi-g-alex/Telegram-Monet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Create themes for telegram using material 3 colors
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 875 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Telegram‑Monet 适合作为 **快速原型** 或 **内部业务系统** 中的
 | forks | 36/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aayushgames19-hash/claude-gateway-manager
 
-[![Stars](https://img.shields.io/github/stars/aayushgames19-hash/claude-gateway-manager?style=flat-square&color=yellow)](https://github.com/aayushgames19-hash/claude-gateway-manager/stargazers) [![Forks](https://img.shields.io/github/forks/aayushgames19-hash/claude-gateway-manager?style=flat-square&color=blue)](https://github.com/aayushgames19-hash/claude-gateway-manager/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aayushgames19-hash/claude-gateway-manager?style=flat-square&color=yellow)](https://github.com/aayushgames19-hash/claude-gateway-manager/stargazers) [![Forks](https://img.shields.io/github/forks/aayushgames19-hash/claude-gateway-manager?style=flat-square&color=blue)](https://github.com/aayushgames19-hash/claude-gateway-manager/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ aayushgames19-hash/claude-gateway-manager 是面向 Anthropic Opus 4.8 与 Sonne
 | forks | 0/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

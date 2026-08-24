@@ -1,6 +1,6 @@
 # p-e-w/heretic
 
-[![Stars](https://img.shields.io/github/stars/p-e-w/heretic?style=flat-square&color=yellow)](https://github.com/p-e-w/heretic/stargazers) [![Forks](https://img.shields.io/github/forks/p-e-w/heretic?style=flat-square&color=blue)](https://github.com/p-e-w/heretic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p-e-w/heretic?style=flat-square&color=yellow)](https://github.com/p-e-w/heretic/stargazers) [![Forks](https://img.shields.io/github/forks/p-e-w/heretic?style=flat-square&color=blue)](https://github.com/p-e-w/heretic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Fully automatic censorship removal for language models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.5k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ p-e-w/heretic 是一个开源工具，能够对语言模型进行全自动的审
 | forks | 86/100 |
 | stars | 94/100 |
 | topics | 38/100 |
-| outlook | 80/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

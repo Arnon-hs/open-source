@@ -1,6 +1,6 @@
 # ahujasid/ableton-mcp
 
-[![Stars](https://img.shields.io/github/stars/ahujasid/ableton-mcp?style=flat-square&color=yellow)](https://github.com/ahujasid/ableton-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ahujasid/ableton-mcp?style=flat-square&color=blue)](https://github.com/ahujasid/ableton-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahujasid/ableton-mcp?style=flat-square&color=yellow)](https://github.com/ahujasid/ableton-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ahujasid/ableton-mcp?style=flat-square&color=blue)](https://github.com/ahujasid/ableton-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ ahujasid/ableton-mcp 的生产可用性很高，主要原因是：
 | forks | 65/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

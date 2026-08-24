@@ -1,6 +1,6 @@
 # MozillaFoundation/foundation.mozilla.org
 
-[![Stars](https://img.shields.io/github/stars/MozillaFoundation/foundation.mozilla.org?style=flat-square&color=yellow)](https://github.com/MozillaFoundation/foundation.mozilla.org/stargazers) [![Forks](https://img.shields.io/github/forks/MozillaFoundation/foundation.mozilla.org?style=flat-square&color=blue)](https://github.com/MozillaFoundation/foundation.mozilla.org/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MozillaFoundation/foundation.mozilla.org?style=flat-square&color=yellow)](https://github.com/MozillaFoundation/foundation.mozilla.org/stargazers) [![Forks](https://img.shields.io/github/forks/MozillaFoundation/foundation.mozilla.org?style=flat-square&color=blue)](https://github.com/MozillaFoundation/foundation.mozilla.org/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Mozilla Foundation website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ MozillaFoundation/foundation.mozilla.org 的生产可用性为中等。它适合
 | forks | 55/100 |
 | stars | 55/100 |
 | topics | 13/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

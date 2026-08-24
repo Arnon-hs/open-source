@@ -1,6 +1,6 @@
 # wszqkzqk/qt-web-extractor
 
-[![Stars](https://img.shields.io/github/stars/wszqkzqk/qt-web-extractor?style=flat-square&color=yellow)](https://github.com/wszqkzqk/qt-web-extractor/stargazers) [![Forks](https://img.shields.io/github/forks/wszqkzqk/qt-web-extractor?style=flat-square&color=blue)](https://github.com/wszqkzqk/qt-web-extractor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wszqkzqk/qt-web-extractor?style=flat-square&color=yellow)](https://github.com/wszqkzqk/qt-web-extractor/stargazers) [![Forks](https://img.shields.io/github/forks/wszqkzqk/qt-web-extractor?style=flat-square&color=blue)](https://github.com/wszqkzqk/qt-web-extractor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Web content extraction engine backed by Qt WebEngine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ wszqkzqk/qt-web-extractor 的生产可用性较高，理由包括：
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

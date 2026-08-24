@@ -1,6 +1,6 @@
 # houbb/sensitive
 
-[![Stars](https://img.shields.io/github/stars/houbb/sensitive?style=flat-square&color=yellow)](https://github.com/houbb/sensitive/stargazers) [![Forks](https://img.shields.io/github/forks/houbb/sensitive?style=flat-square&color=blue)](https://github.com/houbb/sensitive/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/houbb/sensitive?style=flat-square&color=yellow)](https://github.com/houbb/sensitive/stargazers) [![Forks](https://img.shields.io/github/forks/houbb/sensitive?style=flat-square&color=blue)](https://github.com/houbb/sensitive/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐Sensitive log tool for java, based on java annotation. (基于注解的 java 日志脱敏工具框架，更加优雅的日志打印。支持自定义哈希、支持基于 log4j2 插件的统一脱敏、支持 logback 插件统一脱敏)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 709 |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ houbb/sensitive 具备较高的生产可用性，原因如下：
 | forks | 57/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

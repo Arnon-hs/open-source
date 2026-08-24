@@ -1,6 +1,6 @@
 # alexanderwanyoike/the0
 
-[![Stars](https://img.shields.io/github/stars/alexanderwanyoike/the0?style=flat-square&color=yellow)](https://github.com/alexanderwanyoike/the0/stargazers) [![Forks](https://img.shields.io/github/forks/alexanderwanyoike/the0?style=flat-square&color=blue)](https://github.com/alexanderwanyoike/the0/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexanderwanyoike/the0?style=flat-square&color=yellow)](https://github.com/alexanderwanyoike/the0/stargazers) [![Forks](https://img.shields.io/github/forks/alexanderwanyoike/the0?style=flat-square&color=blue)](https://github.com/alexanderwanyoike/the0/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Algorithmic Trading Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · Database · DevOps/Infra
+Trading · Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ alexanderwanyoike/the0 的生产可用性较高，原因如下：
 | forks | 39/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

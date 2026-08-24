@@ -1,6 +1,6 @@
 # alagiz/cc-context-telemetry
 
-[![Stars](https://img.shields.io/github/stars/alagiz/cc-context-telemetry?style=flat-square&color=yellow)](https://github.com/alagiz/cc-context-telemetry/stargazers) [![Forks](https://img.shields.io/github/forks/alagiz/cc-context-telemetry?style=flat-square&color=blue)](https://github.com/alagiz/cc-context-telemetry/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alagiz/cc-context-telemetry?style=flat-square&color=yellow)](https://github.com/alagiz/cc-context-telemetry/stargazers) [![Forks](https://img.shields.io/github/forks/alagiz/cc-context-telemetry?style=flat-square&color=blue)](https://github.com/alagiz/cc-context-telemetry/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 31/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ Show HN: cc-context-telemetry 是一个开源项目，用于在 Claude Code 的�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 33/100 |
+| quality | 26/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 38/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

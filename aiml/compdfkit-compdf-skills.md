@@ -1,6 +1,6 @@
 # ComPDFKit/compdf-skills
 
-[![Stars](https://img.shields.io/github/stars/ComPDFKit/compdf-skills?style=flat-square&color=yellow)](https://github.com/ComPDFKit/compdf-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ComPDFKit/compdf-skills?style=flat-square&color=blue)](https://github.com/ComPDFKit/compdf-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComPDFKit/compdf-skills?style=flat-square&color=yellow)](https://github.com/ComPDFKit/compdf-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ComPDFKit/compdf-skills?style=flat-square&color=blue)](https://github.com/ComPDFKit/compdf-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ComPDF Skills are AI-agent-ready PDF processing skills for Claude Code, Cursor, Copilot, OpenCode, and 39+ coding agents to convert, edit, split, insert, compare, compress PDFs, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 100 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ ComPDF Skills 为 Claude Code、Cursor、Copilot、OpenCode 等 40+ 编码助手
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

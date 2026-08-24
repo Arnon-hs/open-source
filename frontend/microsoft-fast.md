@@ -1,6 +1,6 @@
 # microsoft/fast
 
-[![Stars](https://img.shields.io/github/stars/microsoft/fast?style=flat-square&color=yellow)](https://github.com/microsoft/fast/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fast?style=flat-square&color=blue)](https://github.com/microsoft/fast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/fast?style=flat-square&color=yellow)](https://github.com/microsoft/fast/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/fast?style=flat-square&color=blue)](https://github.com/microsoft/fast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The adaptive interface system for modern web experiences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 622 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Microsoft FAST（Fluent UI Adaptive System）是面向现代 Web 体验�
 | forks | 70/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 81/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

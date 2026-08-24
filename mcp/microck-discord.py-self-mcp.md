@@ -1,6 +1,6 @@
 # Microck/discord.py-self-mcp
 
-[![Stars](https://img.shields.io/github/stars/Microck/discord.py-self-mcp?style=flat-square&color=yellow)](https://github.com/Microck/discord.py-self-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/discord.py-self-mcp?style=flat-square&color=blue)](https://github.com/Microck/discord.py-self-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Microck/discord.py-self-mcp?style=flat-square&color=yellow)](https://github.com/Microck/discord.py-self-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/discord.py-self-mcp?style=flat-square&color=blue)](https://github.com/Microck/discord.py-self-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > comprehensive Discord selfbot MCP server using discord.py-self
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Microck/discord.py-self-mcp 的生产可用性较高，具有以下特点：
 | forks | 27/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

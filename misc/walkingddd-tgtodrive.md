@@ -1,6 +1,6 @@
 # walkingddd/TgtoDrive
 
-[![Stars](https://img.shields.io/github/stars/walkingddd/TgtoDrive?style=flat-square&color=yellow)](https://github.com/walkingddd/TgtoDrive/stargazers) [![Forks](https://img.shields.io/github/forks/walkingddd/TgtoDrive?style=flat-square&color=blue)](https://github.com/walkingddd/TgtoDrive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walkingddd/TgtoDrive?style=flat-square&color=yellow)](https://github.com/walkingddd/TgtoDrive/stargazers) [![Forks](https://img.shields.io/github/forks/walkingddd/TgtoDrive?style=flat-square&color=blue)](https://github.com/walkingddd/TgtoDrive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 一条龙网盘媒体自动化平台：从找资源、自动转存、智能整理、挂载 STRM、到 Emby 302 直链播放，全流程打通；重点强化 115 / 123 / 光鸭云盘整理与转存、115 / 123 /光鸭云盘 STRM 全量与增量生成、以及 Emby 反向代理 302 播放能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ walkingddd/TgtoDrive 在媒体资源自动化方面提供了相对完整且易�
 | forks | 52/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

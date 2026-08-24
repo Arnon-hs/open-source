@@ -1,6 +1,6 @@
 # samber/cc-skills
 
-[![Stars](https://img.shields.io/github/stars/samber/cc-skills?style=flat-square&color=yellow)](https://github.com/samber/cc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/samber/cc-skills?style=flat-square&color=blue)](https://github.com/samber/cc-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samber/cc-skills?style=flat-square&color=yellow)](https://github.com/samber/cc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/samber/cc-skills?style=flat-square&color=blue)](https://github.com/samber/cc-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🧑‍🎨 A collection of agentic skills that works
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ samber/cc-skills — это набор готовых «агентских» �
 | forks | 17/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kasper9n/remind-me-again
 
-[![Stars](https://img.shields.io/github/stars/kasper9n/remind-me-again?style=flat-square&color=yellow)](https://github.com/kasper9n/remind-me-again/stargazers) [![Forks](https://img.shields.io/github/forks/kasper9n/remind-me-again?style=flat-square&color=blue)](https://github.com/kasper9n/remind-me-again/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kasper9n/remind-me-again?style=flat-square&color=yellow)](https://github.com/kasper9n/remind-me-again/stargazers) [![Forks](https://img.shields.io/github/forks/kasper9n/remind-me-again?style=flat-square&color=blue)](https://github.com/kasper9n/remind-me-again/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Toggleable cron reminders app for Mac, Linux and Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation
 
 ## 📝 Summary
 
@@ -92,14 +92,15 @@ kasper9n/remind-me-again 的生产可用性为中等（Medium）。它适合用�
 | forks | 23/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

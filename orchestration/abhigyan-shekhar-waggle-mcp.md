@@ -1,6 +1,6 @@
 # Abhigyan-Shekhar/Waggle-mcp
 
-[![Stars](https://img.shields.io/github/stars/Abhigyan-Shekhar/Waggle-mcp?style=flat-square&color=yellow)](https://github.com/Abhigyan-Shekhar/Waggle-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Abhigyan-Shekhar/Waggle-mcp?style=flat-square&color=blue)](https://github.com/Abhigyan-Shekhar/Waggle-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Abhigyan-Shekhar/Waggle-mcp?style=flat-square&color=yellow)](https://github.com/Abhigyan-Shekhar/Waggle-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Abhigyan-Shekhar/Waggle-mcp?style=flat-square&color=blue)](https://github.com/Abhigyan-Shekhar/Waggle-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for external memory layer for AI agents + more . Download from pypi , and get started
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Waggle‑mcp 是一个面向 AI 代理的外部记忆层（MCP）服务器，提
 | forks | 50/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dbos-inc/dbos-transact-golang
 
-[![Stars](https://img.shields.io/github/stars/dbos-inc/dbos-transact-golang?style=flat-square&color=yellow)](https://github.com/dbos-inc/dbos-transact-golang/stargazers) [![Forks](https://img.shields.io/github/forks/dbos-inc/dbos-transact-golang?style=flat-square&color=blue)](https://github.com/dbos-inc/dbos-transact-golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbos-inc/dbos-transact-golang?style=flat-square&color=yellow)](https://github.com/dbos-inc/dbos-transact-golang/stargazers) [![Forks](https://img.shields.io/github/forks/dbos-inc/dbos-transact-golang?style=flat-square&color=blue)](https://github.com/dbos-inc/dbos-transact-golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Database-Backed Durable Golang Workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 802 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · Data · Database
+Orchestration · Automation · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ dbos-inc/dbos-transact-golang 是一个基于数据库的持久化 Golang 工作
 | forks | 46/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 80/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

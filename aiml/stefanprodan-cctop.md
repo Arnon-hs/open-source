@@ -1,6 +1,6 @@
 # stefanprodan/cctop
 
-[![Stars](https://img.shields.io/github/stars/stefanprodan/cctop?style=flat-square&color=yellow)](https://github.com/stefanprodan/cctop/stargazers) [![Forks](https://img.shields.io/github/forks/stefanprodan/cctop?style=flat-square&color=blue)](https://github.com/stefanprodan/cctop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanprodan/cctop?style=flat-square&color=yellow)](https://github.com/stefanprodan/cctop/stargazers) [![Forks](https://img.shields.io/github/forks/stefanprodan/cctop?style=flat-square&color=blue)](https://github.com/stefanprodan/cctop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Live top-style monitor for Claude Code sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Observability
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ Overall, cctop offers a high‑value, low‑effort way to add observability to C
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

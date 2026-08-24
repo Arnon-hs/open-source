@@ -1,6 +1,6 @@
 # mynodebtc/mynode
 
-[![Stars](https://img.shields.io/github/stars/mynodebtc/mynode?style=flat-square&color=yellow)](https://github.com/mynodebtc/mynode/stargazers) [![Forks](https://img.shields.io/github/forks/mynodebtc/mynode?style=flat-square&color=blue)](https://github.com/mynodebtc/mynode/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mynodebtc/mynode?style=flat-square&color=yellow)](https://github.com/mynodebtc/mynode/stargazers) [![Forks](https://img.shields.io/github/forks/mynodebtc/mynode?style=flat-square&color=blue)](https://github.com/mynodebtc/mynode/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The easiest way to run Bitcoin and Lightning!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 737 |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ mynode
 | forks | 57/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kopfrechner/gitlab-mr-mcp
 
-[![Stars](https://img.shields.io/github/stars/kopfrechner/gitlab-mr-mcp?style=flat-square&color=yellow)](https://github.com/kopfrechner/gitlab-mr-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kopfrechner/gitlab-mr-mcp?style=flat-square&color=blue)](https://github.com/kopfrechner/gitlab-mr-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kopfrechner/gitlab-mr-mcp?style=flat-square&color=yellow)](https://github.com/kopfrechner/gitlab-mr-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/kopfrechner/gitlab-mr-mcp?style=flat-square&color=blue)](https://github.com/kopfrechner/gitlab-mr-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Interact seamlessly with GitLab repositories to manage merge requests and issues. Fetch details, add comments, and streamline your code review process with ease.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ With these checks in place, `gitlab-mr-mcp` can be confidently promoted from a p
 | forks | 36/100 |
 | stars | 42/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Fei-Away/Codex-Dream-Skin
 
-[![Stars](https://img.shields.io/github/stars/Fei-Away/Codex-Dream-Skin?style=flat-square&color=yellow)](https://github.com/Fei-Away/Codex-Dream-Skin/stargazers) [![Forks](https://img.shields.io/github/forks/Fei-Away/Codex-Dream-Skin?style=flat-square&color=blue)](https://github.com/Fei-Away/Codex-Dream-Skin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fei-Away/Codex-Dream-Skin?style=flat-square&color=yellow)](https://github.com/Fei-Away/Codex-Dream-Skin/stargazers) [![Forks](https://img.shields.io/github/forks/Fei-Away/Codex-Dream-Skin?style=flat-square&color=blue)](https://github.com/Fei-Away/Codex-Dream-Skin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Codex Dream Skin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 757 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Codex Dream Skin 的生产可用性为中等（Medium），适合用于原型或
 | forks | 72/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Siddhant-K-code/mcp-apple-notes
 
-[![Stars](https://img.shields.io/github/stars/Siddhant-K-code/mcp-apple-notes?style=flat-square&color=yellow)](https://github.com/Siddhant-K-code/mcp-apple-notes/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhant-K-code/mcp-apple-notes?style=flat-square&color=blue)](https://github.com/Siddhant-K-code/mcp-apple-notes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Siddhant-K-code/mcp-apple-notes?style=flat-square&color=yellow)](https://github.com/Siddhant-K-code/mcp-apple-notes/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhant-K-code/mcp-apple-notes?style=flat-square&color=blue)](https://github.com/Siddhant-K-code/mcp-apple-notes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for apple notes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Siddhant-K-code/mcp-apple-notes 的主要价值在于连接 AI 助手和实用�
 | forks | 27/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

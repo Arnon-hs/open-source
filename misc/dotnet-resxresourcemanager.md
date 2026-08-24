@@ -1,6 +1,6 @@
 # dotnet/ResXResourceManager
 
-[![Stars](https://img.shields.io/github/stars/dotnet/ResXResourceManager?style=flat-square&color=yellow)](https://github.com/dotnet/ResXResourceManager/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/ResXResourceManager?style=flat-square&color=blue)](https://github.com/dotnet/ResXResourceManager/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/ResXResourceManager?style=flat-square&color=yellow)](https://github.com/dotnet/ResXResourceManager/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/ResXResourceManager?style=flat-square&color=blue)](https://github.com/dotnet/ResXResourceManager/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Manage localization of all ResX-Based resources in one central place.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ dotnet/ResXResourceManager 可以在 README 和活动匹配特定工作流程时
 | forks | 60/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

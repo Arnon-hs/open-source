@@ -1,6 +1,6 @@
 # kivy/kivy
 
-[![Stars](https://img.shields.io/github/stars/kivy/kivy?style=flat-square&color=yellow)](https://github.com/kivy/kivy/stargazers) [![Forks](https://img.shields.io/github/forks/kivy/kivy?style=flat-square&color=blue)](https://github.com/kivy/kivy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kivy/kivy?style=flat-square&color=yellow)](https://github.com/kivy/kivy/stargazers) [![Forks](https://img.shields.io/github/forks/kivy/kivy?style=flat-square&color=blue)](https://github.com/kivy/kivy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ kivy/kivy：kivy/kivy helps ship user-facing interfaces with less custom UI work
 | forks | 87/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

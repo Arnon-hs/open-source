@@ -1,6 +1,6 @@
 # matzkoh/prettier-plugin-packagejson
 
-[![Stars](https://img.shields.io/github/stars/matzkoh/prettier-plugin-packagejson?style=flat-square&color=yellow)](https://github.com/matzkoh/prettier-plugin-packagejson/stargazers) [![Forks](https://img.shields.io/github/forks/matzkoh/prettier-plugin-packagejson?style=flat-square&color=blue)](https://github.com/matzkoh/prettier-plugin-packagejson/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matzkoh/prettier-plugin-packagejson?style=flat-square&color=yellow)](https://github.com/matzkoh/prettier-plugin-packagejson/stargazers) [![Forks](https://img.shields.io/github/forks/matzkoh/prettier-plugin-packagejson?style=flat-square&color=blue)](https://github.com/matzkoh/prettier-plugin-packagejson/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Prettier plugin for package.json
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ matzkoh/prettier-plugin‑packagejson 是一个 Prettier 插件，能够自动�
 | forks | 28/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

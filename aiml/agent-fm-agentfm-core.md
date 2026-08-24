@@ -1,6 +1,6 @@
 # Agent-FM/agentfm-core
 
-[![Stars](https://img.shields.io/github/stars/Agent-FM/agentfm-core?style=flat-square&color=yellow)](https://github.com/Agent-FM/agentfm-core/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-FM/agentfm-core?style=flat-square&color=blue)](https://github.com/Agent-FM/agentfm-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agent-FM/agentfm-core?style=flat-square&color=yellow)](https://github.com/Agent-FM/agentfm-core/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-FM/agentfm-core?style=flat-square&color=blue)](https://github.com/Agent-FM/agentfm-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Marketing
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Agent-FM/agentfm-core 在生产环境中具有较高的可用性，主要原因�
 | forks | 32/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

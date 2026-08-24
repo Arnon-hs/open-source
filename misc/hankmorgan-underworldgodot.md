@@ -1,6 +1,6 @@
 # hankmorgan/UnderworldGodot
 
-[![Stars](https://img.shields.io/github/stars/hankmorgan/UnderworldGodot?style=flat-square&color=yellow)](https://github.com/hankmorgan/UnderworldGodot/stargazers) [![Forks](https://img.shields.io/github/forks/hankmorgan/UnderworldGodot?style=flat-square&color=blue)](https://github.com/hankmorgan/UnderworldGodot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hankmorgan/UnderworldGodot?style=flat-square&color=yellow)](https://github.com/hankmorgan/UnderworldGodot/stargazers) [![Forks](https://img.shields.io/github/forks/hankmorgan/UnderworldGodot?style=flat-square&color=blue)](https://github.com/hankmorgan/UnderworldGodot/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Engine recreation for Ultima Underworld and Ultima Underworld 2 using the Godot Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ hankmorgan/UnderworldGodot 是一个使用 Godot 引擎重现的 Ultima Underwor
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

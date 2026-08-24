@@ -1,6 +1,6 @@
 # 0xERR0R/blocky
 
-[![Stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=flat-square&color=yellow)](https://github.com/0xERR0R/blocky/stargazers) [![Forks](https://img.shields.io/github/forks/0xERR0R/blocky?style=flat-square&color=blue)](https://github.com/0xERR0R/blocky/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=flat-square&color=yellow)](https://github.com/0xERR0R/blocky/stargazers) [![Forks](https://img.shields.io/github/forks/0xERR0R/blocky?style=flat-square&color=blue)](https://github.com/0xERR0R/blocky/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and lightweight DNS proxy as ad-blocker for local network with many features
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Overall, blocky is a solid OSS candidate for teams needing a reliable DNS‑leve
 | forks | 61/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

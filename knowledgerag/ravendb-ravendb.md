@@ -1,6 +1,6 @@
 # ravendb/ravendb
 
-[![Stars](https://img.shields.io/github/stars/ravendb/ravendb?style=flat-square&color=yellow)](https://github.com/ravendb/ravendb/stargazers) [![Forks](https://img.shields.io/github/forks/ravendb/ravendb?style=flat-square&color=blue)](https://github.com/ravendb/ravendb/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ravendb/ravendb?style=flat-square&color=yellow)](https://github.com/ravendb/ravendb/stargazers) [![Forks](https://img.shields.io/github/forks/ravendb/ravendb?style=flat-square&color=blue)](https://github.com/ravendb/ravendb/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ACID Document Database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 857 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Data · Database
+Knowledge/RAG · Database
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ RavenDB 是一款 ACID 事务的文档数据库，提供强一致性、自动索
 | forks | 73/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

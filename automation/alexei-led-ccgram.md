@@ -1,6 +1,6 @@
 # alexei-led/ccgram
 
-[![Stars](https://img.shields.io/github/stars/alexei-led/ccgram?style=flat-square&color=yellow)](https://github.com/alexei-led/ccgram/stargazers) [![Forks](https://img.shields.io/github/forks/alexei-led/ccgram?style=flat-square&color=blue)](https://github.com/alexei-led/ccgram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexei-led/ccgram?style=flat-square&color=yellow)](https://github.com/alexei-led/ccgram/stargazers) [![Forks](https://img.shields.io/github/forks/alexei-led/ccgram?style=flat-square&color=blue)](https://github.com/alexei-led/ccgram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Telegram ↔ tmux bridge for Claude Code, Codex CLI, and Gemini CLI. Monitor output, respond to prompts, manage parallel sessions.  Control AI coding agents from your phone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ alexei-led/ccgram 是一个 Telegram ↔ tmux 桥接工具，能够在手机
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

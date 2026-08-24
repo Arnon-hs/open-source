@@ -1,6 +1,6 @@
 # apollographql/apollo-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/apollographql/apollo-mcp-server?style=flat-square&color=yellow)](https://github.com/apollographql/apollo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/apollographql/apollo-mcp-server?style=flat-square&color=blue)](https://github.com/apollographql/apollo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apollographql/apollo-mcp-server?style=flat-square&color=yellow)](https://github.com/apollographql/apollo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/apollographql/apollo-mcp-server?style=flat-square&color=blue)](https://github.com/apollographql/apollo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Apollo MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Apollo MCP Server（apollographql/apollo-mcp-server）是用 Rust 实现的 Mode
 | forks | 46/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

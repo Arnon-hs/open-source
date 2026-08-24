@@ -1,6 +1,6 @@
 # sibiraj-s/svelte-tiptap
 
-[![Stars](https://img.shields.io/github/stars/sibiraj-s/svelte-tiptap?style=flat-square&color=yellow)](https://github.com/sibiraj-s/svelte-tiptap/stargazers) [![Forks](https://img.shields.io/github/forks/sibiraj-s/svelte-tiptap?style=flat-square&color=blue)](https://github.com/sibiraj-s/svelte-tiptap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sibiraj-s/svelte-tiptap?style=flat-square&color=yellow)](https://github.com/sibiraj-s/svelte-tiptap/stargazers) [![Forks](https://img.shields.io/github/forks/sibiraj-s/svelte-tiptap?style=flat-square&color=blue)](https://github.com/sibiraj-s/svelte-tiptap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Svelte components for tiptap v2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ The project sits at a **medium** readiness level: it is mature enough for protot
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

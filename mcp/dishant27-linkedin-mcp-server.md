@@ -1,6 +1,6 @@
 # Dishant27/linkedin-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/Dishant27/linkedin-mcp-server?style=flat-square&color=yellow)](https://github.com/Dishant27/linkedin-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Dishant27/linkedin-mcp-server?style=flat-square&color=blue)](https://github.com/Dishant27/linkedin-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dishant27/linkedin-mcp-server?style=flat-square&color=yellow)](https://github.com/Dishant27/linkedin-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/Dishant27/linkedin-mcp-server?style=flat-square&color=blue)](https://github.com/Dishant27/linkedin-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for LinkedIn API integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Dishant27/linkedin-mcp-server 是一个基于 Model Context Protocol（MCP）的
 | forks | 29/100 |
 | stars | 36/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

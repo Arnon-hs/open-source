@@ -1,6 +1,6 @@
 # sideeffects/SideFXLabs
 
-[![Stars](https://img.shields.io/github/stars/sideeffects/SideFXLabs?style=flat-square&color=yellow)](https://github.com/sideeffects/SideFXLabs/stargazers) [![Forks](https://img.shields.io/github/forks/sideeffects/SideFXLabs?style=flat-square&color=blue)](https://github.com/sideeffects/SideFXLabs/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sideeffects/SideFXLabs?style=flat-square&color=yellow)](https://github.com/sideeffects/SideFXLabs/stargazers) [![Forks](https://img.shields.io/github/forks/sideeffects/SideFXLabs?style=flat-square&color=blue)](https://github.com/sideeffects/SideFXLabs/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ SideFXLabs的生产可用性为中等，评分为Medium。它适合用于原型�
 | forks | 58/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

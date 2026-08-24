@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | timm |
 | 📈 **Score** | 28/100 |
-| 🗓️ **Last push** | 2025-01-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -102,6 +102,7 @@ timm/resnet50.ram_in1k 是一个开源计算机视觉模型，专用于图像分
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

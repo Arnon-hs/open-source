@@ -1,6 +1,6 @@
 # congchuanling-dot/Cohort
 
-[![Stars](https://img.shields.io/github/stars/congchuanling-dot/Cohort?style=flat-square&color=yellow)](https://github.com/congchuanling-dot/Cohort/stargazers) [![Forks](https://img.shields.io/github/forks/congchuanling-dot/Cohort?style=flat-square&color=blue)](https://github.com/congchuanling-dot/Cohort/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/congchuanling-dot/Cohort?style=flat-square&color=yellow)](https://github.com/congchuanling-dot/Cohort/stargazers) [![Forks](https://img.shields.io/github/forks/congchuanling-dot/Cohort?style=flat-square&color=blue)](https://github.com/congchuanling-dot/Cohort/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first Agent Runtime connecting LLMs to controlled tools, Chrome, desktop automation, MCP, context governance,   and verifiable memory.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ congchuanling-dot/Cohort 的生产可用性较高，理由如下：
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

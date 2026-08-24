@@ -1,6 +1,6 @@
 # XiaomingX/mimofan
 
-[![Stars](https://img.shields.io/github/stars/XiaomingX/mimofan?style=flat-square&color=yellow)](https://github.com/XiaomingX/mimofan/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/mimofan?style=flat-square&color=blue)](https://github.com/XiaomingX/mimofan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaomingX/mimofan?style=flat-square&color=yellow)](https://github.com/XiaomingX/mimofan/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/mimofan?style=flat-square&color=blue)](https://github.com/XiaomingX/mimofan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > mimofan - AI coding agent platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ XiaomingX/mimofan：XiaomingX/mimofan helps add AI capability without starting f
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 52/100 |
+| recency | 80/100 |
 | adoption | 25/100 |
-| production | 66/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

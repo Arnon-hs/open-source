@@ -1,6 +1,6 @@
 # kroxylicious/kroxylicious
 
-[![Stars](https://img.shields.io/github/stars/kroxylicious/kroxylicious?style=flat-square&color=yellow)](https://github.com/kroxylicious/kroxylicious/stargazers) [![Forks](https://img.shields.io/github/forks/kroxylicious/kroxylicious?style=flat-square&color=blue)](https://github.com/kroxylicious/kroxylicious/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kroxylicious/kroxylicious?style=flat-square&color=yellow)](https://github.com/kroxylicious/kroxylicious/stargazers) [![Forks](https://img.shields.io/github/forks/kroxylicious/kroxylicious?style=flat-square&color=blue)](https://github.com/kroxylicious/kroxylicious/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Kroxylicious, the snappy open source proxy for Apache Kafka®
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Kroxylicious 是一个基于 Java 的轻量级 Apache Kafka 代理，能够快�
 | forks | 51/100 |
 | stars | 52/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

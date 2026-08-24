@@ -1,6 +1,6 @@
 # shinyoshiaki/werift-webrtc
 
-[![Stars](https://img.shields.io/github/stars/shinyoshiaki/werift-webrtc?style=flat-square&color=yellow)](https://github.com/shinyoshiaki/werift-webrtc/stargazers) [![Forks](https://img.shields.io/github/forks/shinyoshiaki/werift-webrtc?style=flat-square&color=blue)](https://github.com/shinyoshiaki/werift-webrtc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinyoshiaki/werift-webrtc?style=flat-square&color=yellow)](https://github.com/shinyoshiaki/werift-webrtc/stargazers) [![Forks](https://img.shields.io/github/forks/shinyoshiaki/werift-webrtc?style=flat-square&color=blue)](https://github.com/shinyoshiaki/werift-webrtc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM/MP4
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ shinyoshiaki/werift-webrtc 是一个基于 TypeScript（Node.js）的完整 WebR
 | forks | 43/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

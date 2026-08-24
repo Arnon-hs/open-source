@@ -1,6 +1,6 @@
 # Amoiensis/Matrix_hub
 
-[![Stars](https://img.shields.io/github/stars/Amoiensis/Matrix_hub?style=flat-square&color=yellow)](https://github.com/Amoiensis/Matrix_hub/stargazers) [![Forks](https://img.shields.io/github/forks/Amoiensis/Matrix_hub?style=flat-square&color=blue)](https://github.com/Amoiensis/Matrix_hub/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Amoiensis/Matrix_hub?style=flat-square&color=yellow)](https://github.com/Amoiensis/Matrix_hub/stargazers) [![Forks](https://img.shields.io/github/forks/Amoiensis/Matrix_hub?style=flat-square&color=blue)](https://github.com/Amoiensis/Matrix_hub/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight C matrix library, Matlab-like CLI calculator, and compact LP/MIP solver. 轻量级 C 矩阵库、脚本计算器与 LP/MIP 求解器。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Amoiensis/Matrix_hub 具有高生产可用性，主要语言为 C，目前有 27
 | forks | 44/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

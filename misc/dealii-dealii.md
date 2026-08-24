@@ -1,6 +1,6 @@
 # dealii/dealii
 
-[![Stars](https://img.shields.io/github/stars/dealii/dealii?style=flat-square&color=yellow)](https://github.com/dealii/dealii/stargazers) [![Forks](https://img.shields.io/github/forks/dealii/dealii?style=flat-square&color=blue)](https://github.com/dealii/dealii/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dealii/dealii?style=flat-square&color=yellow)](https://github.com/dealii/dealii/stargazers) [![Forks](https://img.shields.io/github/forks/dealii/dealii?style=flat-square&color=blue)](https://github.com/dealii/dealii/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The development repository for the deal.II finite element library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 862 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ dealii/dealii 的生产可用性评估为高（High）。库最近有活动，�
 | forks | 73/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lgs2007m/Actions-OpenWrt
 
-[![Stars](https://img.shields.io/github/stars/lgs2007m/Actions-OpenWrt?style=flat-square&color=yellow)](https://github.com/lgs2007m/Actions-OpenWrt/stargazers) [![Forks](https://img.shields.io/github/forks/lgs2007m/Actions-OpenWrt?style=flat-square&color=blue)](https://github.com/lgs2007m/Actions-OpenWrt/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lgs2007m/Actions-OpenWrt?style=flat-square&color=yellow)](https://github.com/lgs2007m/Actions-OpenWrt/stargazers) [![Forks](https://img.shields.io/github/forks/lgs2007m/Actions-OpenWrt?style=flat-square&color=blue)](https://github.com/lgs2007m/Actions-OpenWrt/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 自用
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 825 |
 | 🍴 **Forks** | 534 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Actions-OpenWrt 是一个开源项目，用于自用的网络设备管理。它�
 | forks | 68/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

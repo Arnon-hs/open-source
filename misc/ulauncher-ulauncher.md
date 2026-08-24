@@ -1,6 +1,6 @@
 # Ulauncher/Ulauncher
 
-[![Stars](https://img.shields.io/github/stars/Ulauncher/Ulauncher?style=flat-square&color=yellow)](https://github.com/Ulauncher/Ulauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Ulauncher/Ulauncher?style=flat-square&color=blue)](https://github.com/Ulauncher/Ulauncher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ulauncher/Ulauncher?style=flat-square&color=yellow)](https://github.com/Ulauncher/Ulauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Ulauncher/Ulauncher?style=flat-square&color=blue)](https://github.com/Ulauncher/Ulauncher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Feature rich application Launcher for Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Ulauncher 的生产可用性较高，因为它有以下优点：
 | forks | 59/100 |
 | stars | 78/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

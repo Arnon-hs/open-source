@@ -65,17 +65,16 @@ Sumit884-byte/arka：Sumit884-byte/arka helps connect AI assistants to real tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 94/100 |
-| production | 72/100 |
-| outlook | 75/100 |
-| adoption | 13/100 |
-| categoryMatchCount | 500/100 |
-| stars | 15/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 75/100 |
+| quality | 56/100 |
+| recency | 100/100 |
+| adoption | 13/100 |
+| production | 72/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 70/100 |
 
 ---

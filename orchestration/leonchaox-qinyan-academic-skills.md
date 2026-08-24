@@ -1,6 +1,6 @@
 # LeonChaoX/qinyan-academic-skills
 
-[![Stars](https://img.shields.io/github/stars/LeonChaoX/qinyan-academic-skills?style=flat-square&color=yellow)](https://github.com/LeonChaoX/qinyan-academic-skills/stargazers) [![Forks](https://img.shields.io/github/forks/LeonChaoX/qinyan-academic-skills?style=flat-square&color=blue)](https://github.com/LeonChaoX/qinyan-academic-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeonChaoX/qinyan-academic-skills?style=flat-square&color=yellow)](https://github.com/LeonChaoX/qinyan-academic-skills/stargazers) [![Forks](https://img.shields.io/github/forks/LeonChaoX/qinyan-academic-skills?style=flat-square&color=blue)](https://github.com/LeonChaoX/qinyan-academic-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discovery, clinical research, machine learning, and data analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 681 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Data · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ LeonChaoX/qinyan-academic-skills 的价值在于，它可以帮助用户标准�
 | forks | 45/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

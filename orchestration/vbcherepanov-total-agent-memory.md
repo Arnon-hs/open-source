@@ -1,6 +1,6 @@
 # vbcherepanov/total-agent-memory
 
-[![Stars](https://img.shields.io/github/stars/vbcherepanov/total-agent-memory?style=flat-square&color=yellow)](https://github.com/vbcherepanov/total-agent-memory/stargazers) [![Forks](https://img.shields.io/github/forks/vbcherepanov/total-agent-memory?style=flat-square&color=blue)](https://github.com/vbcherepanov/total-agent-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vbcherepanov/total-agent-memory?style=flat-square&color=yellow)](https://github.com/vbcherepanov/total-agent-memory/stargazers) [![Forks](https://img.shields.io/github/forks/vbcherepanov/total-agent-memory?style=flat-square&color=blue)](https://github.com/vbcherepanov/total-agent-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for Claude Code & Codex CLI. Auto-extracted knowledge graph, multi-representation embeddings, 3D WebGL visualization. LongMemEval R@5=97.45%. Self-hosted, Ollama-optional
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ vbcherepanov/total-agent-memory 为 Claude Code 与 Codex CLI 提供持久�
 | forks | 25/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

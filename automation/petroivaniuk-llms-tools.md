@@ -1,6 +1,6 @@
 # PetroIvaniuk/llms-tools
 
-[![Stars](https://img.shields.io/github/stars/PetroIvaniuk/llms-tools?style=flat-square&color=yellow)](https://github.com/PetroIvaniuk/llms-tools/stargazers) [![Forks](https://img.shields.io/github/forks/PetroIvaniuk/llms-tools?style=flat-square&color=blue)](https://github.com/PetroIvaniuk/llms-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PetroIvaniuk/llms-tools?style=flat-square&color=yellow)](https://github.com/PetroIvaniuk/llms-tools/stargazers) [![Forks](https://img.shields.io/github/forks/PetroIvaniuk/llms-tools?style=flat-square&color=blue)](https://github.com/PetroIvaniuk/llms-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A list of LLMs Tools & Projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data · Education
+Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ PetroIvaniuk/llms-tools 的生产可用性为中等（Medium）。它适合用�
 | forks | 42/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

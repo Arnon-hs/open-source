@@ -1,6 +1,6 @@
 # libredb/libredb-studio
 
-[![Stars](https://img.shields.io/github/stars/libredb/libredb-studio?style=flat-square&color=yellow)](https://github.com/libredb/libredb-studio/stargazers) [![Forks](https://img.shields.io/github/forks/libredb/libredb-studio?style=flat-square&color=blue)](https://github.com/libredb/libredb-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libredb/libredb-studio?style=flat-square&color=yellow)](https://github.com/libredb/libredb-studio/stargazers) [![Forks](https://img.shields.io/github/forks/libredb/libredb-studio?style=flat-square&color=blue)](https://github.com/libredb/libredb-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, blazing-fast SQL IDE for the cloud era. Query PostgreSQL, MySQL, SQLite & MongoDB from anywhere your browser is your new database studio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Database · DevOps/Infra
+AI/ML · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ libredb/libredb-studio 的生产可用性非常高，主要原因是：
 | forks | 31/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

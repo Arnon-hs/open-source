@@ -1,6 +1,6 @@
 # superlinear-ai/raglite
 
-[![Stars](https://img.shields.io/github/stars/superlinear-ai/raglite?style=flat-square&color=yellow)](https://github.com/superlinear-ai/raglite/stargazers) [![Forks](https://img.shields.io/github/forks/superlinear-ai/raglite?style=flat-square&color=blue)](https://github.com/superlinear-ai/raglite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superlinear-ai/raglite?style=flat-square&color=yellow)](https://github.com/superlinear-ai/raglite/stargazers) [![Forks](https://img.shields.io/github/forks/superlinear-ai/raglite?style=flat-square&color=blue)](https://github.com/superlinear-ai/raglite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🥤 RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with DuckDB or PostgreSQL
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ RAGLite 是一个基于 Python 的 Retrieval‑Augmented Generation 工具箱，
 | forks | 50/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

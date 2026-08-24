@@ -1,6 +1,6 @@
 # AbdoKnbGit/tau
 
-[![Stars](https://img.shields.io/github/stars/AbdoKnbGit/tau?style=flat-square&color=yellow)](https://github.com/AbdoKnbGit/tau/stargazers) [![Forks](https://img.shields.io/github/forks/AbdoKnbGit/tau?style=flat-square&color=blue)](https://github.com/AbdoKnbGit/tau/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbdoKnbGit/tau?style=flat-square&color=yellow)](https://github.com/AbdoKnbGit/tau/stargazers) [![Forks](https://img.shields.io/github/forks/AbdoKnbGit/tau?style=flat-square&color=blue)](https://github.com/AbdoKnbGit/tau/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > your orchestrator for all dev agents, sessions, and environments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ AbdoKnbGit/tau 是面向开发者的 AI 编排平台，统一管理各种智能�
 | forks | 38/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

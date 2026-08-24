@@ -1,6 +1,6 @@
 # UllrAI/HeadShots.fun
 
-[![Stars](https://img.shields.io/github/stars/UllrAI/HeadShots.fun?style=flat-square&color=yellow)](https://github.com/UllrAI/HeadShots.fun/stargazers) [![Forks](https://img.shields.io/github/forks/UllrAI/HeadShots.fun?style=flat-square&color=blue)](https://github.com/UllrAI/HeadShots.fun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UllrAI/HeadShots.fun?style=flat-square&color=yellow)](https://github.com/UllrAI/HeadShots.fun/stargazers) [![Forks](https://img.shields.io/github/forks/UllrAI/HeadShots.fun?style=flat-square&color=blue)](https://github.com/UllrAI/HeadShots.fun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 📸 https://HeadShots.fun is an open-source SaaS platform that uses Replicate AI models and Stripe for payment processing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Database · Marketing · Product
+Payments
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ HeadShots.fun 的生产可用性为中等（Medium），适合用于原型或内
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

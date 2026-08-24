@@ -1,6 +1,6 @@
 # diondokter/device-driver
 
-[![Stars](https://img.shields.io/github/stars/diondokter/device-driver?style=flat-square&color=yellow)](https://github.com/diondokter/device-driver/stargazers) [![Forks](https://img.shields.io/github/forks/diondokter/device-driver?style=flat-square&color=blue)](https://github.com/diondokter/device-driver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diondokter/device-driver?style=flat-square&color=yellow)](https://github.com/diondokter/device-driver/stargazers) [![Forks](https://img.shields.io/github/forks/diondokter/device-driver?style=flat-square&color=blue)](https://github.com/diondokter/device-driver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit to create better Rust device drivers, faster
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ diondokter/device-driver 的生产可用性为中等（Medium），适合用于�
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

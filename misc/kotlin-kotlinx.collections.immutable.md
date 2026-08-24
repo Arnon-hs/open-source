@@ -1,6 +1,6 @@
 # Kotlin/kotlinx.collections.immutable
 
-[![Stars](https://img.shields.io/github/stars/Kotlin/kotlinx.collections.immutable?style=flat-square&color=yellow)](https://github.com/Kotlin/kotlinx.collections.immutable/stargazers) [![Forks](https://img.shields.io/github/forks/Kotlin/kotlinx.collections.immutable?style=flat-square&color=blue)](https://github.com/Kotlin/kotlinx.collections.immutable/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kotlin/kotlinx.collections.immutable?style=flat-square&color=yellow)](https://github.com/Kotlin/kotlinx.collections.immutable/stargazers) [![Forks](https://img.shields.io/github/forks/Kotlin/kotlinx.collections.immutable?style=flat-square&color=blue)](https://github.com/Kotlin/kotlinx.collections.immutable/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Immutable persistent collections for Kotlin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ Kotlin/kotlinx.collections.immutable 为 Kotlin 提供了一套不可变（immut
 | forks | 46/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tradingstrategy-ai/trade-executor
 
-[![Stars](https://img.shields.io/github/stars/tradingstrategy-ai/trade-executor?style=flat-square&color=yellow)](https://github.com/tradingstrategy-ai/trade-executor/stargazers) [![Forks](https://img.shields.io/github/forks/tradingstrategy-ai/trade-executor?style=flat-square&color=blue)](https://github.com/tradingstrategy-ai/trade-executor/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tradingstrategy-ai/trade-executor?style=flat-square&color=yellow)](https://github.com/tradingstrategy-ai/trade-executor/stargazers) [![Forks](https://img.shields.io/github/forks/tradingstrategy-ai/trade-executor?style=flat-square&color=blue)](https://github.com/tradingstrategy-ai/trade-executor/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Python framework for managing positions and trades in DeFi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ tradingstrategy-ai/trade-executor 是一个用于管理 DeFi 交易的 Python �
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

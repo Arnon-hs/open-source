@@ -1,6 +1,6 @@
 # huiliyi37/oh-my-tianshu
 
-[![Stars](https://img.shields.io/github/stars/huiliyi37/oh-my-tianshu?style=flat-square&color=yellow)](https://github.com/huiliyi37/oh-my-tianshu/stargazers) [![Forks](https://img.shields.io/github/forks/huiliyi37/oh-my-tianshu?style=flat-square&color=blue)](https://github.com/huiliyi37/oh-my-tianshu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huiliyi37/oh-my-tianshu?style=flat-square&color=yellow)](https://github.com/huiliyi37/oh-my-tianshu/stargazers) [![Forks](https://img.shields.io/github/forks/huiliyi37/oh-my-tianshu?style=flat-square&color=blue)](https://github.com/huiliyi37/oh-my-tianshu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Oh My Tianshu 是一款完全体开源 coding agent:在 dsh harness 基础之上带视觉、跨会话记忆、验证门、agent 路由、语义 + 图谱代码检索、文件回滚和全屏终端 UI——全部以插件组合。它是 DeepSeek Harness(dsh)的友好 MIT fork,保留上游一切皆插件的架构,界面交互对标 oh-my-pi。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Oh My Tianshu 的生产可用性为中等。它适用于以下场景：
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # l3montree-dev/devguard
 
-[![Stars](https://img.shields.io/github/stars/l3montree-dev/devguard?style=flat-square&color=yellow)](https://github.com/l3montree-dev/devguard/stargazers) [![Forks](https://img.shields.io/github/forks/l3montree-dev/devguard?style=flat-square&color=blue)](https://github.com/l3montree-dev/devguard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/l3montree-dev/devguard?style=flat-square&color=yellow)](https://github.com/l3montree-dev/devguard/stargazers) [![Forks](https://img.shields.io/github/forks/l3montree-dev/devguard?style=flat-square&color=blue)](https://github.com/l3montree-dev/devguard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > DevGuard Backend - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Backend · DevTools
+Orchestration · Automation · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ DevGuard 的生产可用性为中等，适合用于原型或内部工作流程�
 | forks | 41/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # fetchai/innovation-lab-examples
 
-[![Stars](https://img.shields.io/github/stars/fetchai/innovation-lab-examples?style=flat-square&color=yellow)](https://github.com/fetchai/innovation-lab-examples/stargazers) [![Forks](https://img.shields.io/github/forks/fetchai/innovation-lab-examples?style=flat-square&color=blue)](https://github.com/fetchai/innovation-lab-examples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fetchai/innovation-lab-examples?style=flat-square&color=yellow)](https://github.com/fetchai/innovation-lab-examples/stargazers) [![Forks](https://img.shields.io/github/forks/fetchai/innovation-lab-examples?style=flat-square&color=blue)](https://github.com/fetchai/innovation-lab-examples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 80+ production-ready AI agent examples in Python — build autonomous agents, multi-agent systems and agentic AI with uAgents, ASI:One, MCP, A2A, LangChain, CrewAI, Gemini, Claude and OpenAI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Education
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ fetchai/innovation-lab-examples 是一个开源项目，提供了超过80个生�
 | forks | 48/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

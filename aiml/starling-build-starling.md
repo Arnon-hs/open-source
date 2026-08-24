@@ -1,6 +1,6 @@
 # starling-build/starling
 
-[![Stars](https://img.shields.io/github/stars/starling-build/starling?style=flat-square&color=yellow)](https://github.com/starling-build/starling/stargazers) [![Forks](https://img.shields.io/github/forks/starling-build/starling?style=flat-square&color=blue)](https://github.com/starling-build/starling/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/starling-build/starling?style=flat-square&color=yellow)](https://github.com/starling-build/starling/stargazers) [![Forks](https://img.shields.io/github/forks/starling-build/starling?style=flat-square&color=blue)](https://github.com/starling-build/starling/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Starling项目的生产可用性为中等（Medium）。它适合用于快速原
 | forks | 31/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

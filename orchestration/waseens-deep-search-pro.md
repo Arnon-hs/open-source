@@ -1,6 +1,6 @@
 # waseens/deep-search-pro
 
-[![Stars](https://img.shields.io/github/stars/waseens/deep-search-pro?style=flat-square&color=yellow)](https://github.com/waseens/deep-search-pro/stargazers) [![Forks](https://img.shields.io/github/forks/waseens/deep-search-pro?style=flat-square&color=blue)](https://github.com/waseens/deep-search-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waseens/deep-search-pro?style=flat-square&color=yellow)](https://github.com/waseens/deep-search-pro/stargazers) [![Forks](https://img.shields.io/github/forks/waseens/deep-search-pro?style=flat-square&color=blue)](https://github.com/waseens/deep-search-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Deep Search Pro —— 一个不到 1000 行的多智能体协作搜索系统。基于 LangChain + FastAPI + WebSocket，主智能体调度 3 个子智能体（网络搜索、数据库查询、知识库检索）协同完成复杂任务。AI Agent 入门学习的最佳实战项目。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ Deep Search Pro 是一个基于 LangChain、FastAPI 与 WebSocket 的多智能�
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

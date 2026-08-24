@@ -1,6 +1,6 @@
 # petekp/claude-code-setup
 
-[![Stars](https://img.shields.io/github/stars/petekp/claude-code-setup?style=flat-square&color=yellow)](https://github.com/petekp/claude-code-setup/stargazers) [![Forks](https://img.shields.io/github/forks/petekp/claude-code-setup?style=flat-square&color=blue)](https://github.com/petekp/claude-code-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petekp/claude-code-setup?style=flat-square&color=yellow)](https://github.com/petekp/claude-code-setup/stargazers) [![Forks](https://img.shields.io/github/forks/petekp/claude-code-setup?style=flat-square&color=blue)](https://github.com/petekp/claude-code-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > My forkable Claude Code setup with sync feature
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ petekp/claude-code-setup 是一个开源项目，提供了一个可同步的 Cla
 | forks | 26/100 |
 | stars | 34/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Observability
+Orchestration · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ traccia-ai/traccia-py：traccia-ai/traccia-py helps turn isolated prompts and to
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

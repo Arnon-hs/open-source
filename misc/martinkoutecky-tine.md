@@ -1,6 +1,6 @@
 # martinkoutecky/tine
 
-[![Stars](https://img.shields.io/github/stars/martinkoutecky/tine?style=flat-square&color=yellow)](https://github.com/martinkoutecky/tine/stargazers) [![Forks](https://img.shields.io/github/forks/martinkoutecky/tine?style=flat-square&color=blue)](https://github.com/martinkoutecky/tine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martinkoutecky/tine?style=flat-square&color=yellow)](https://github.com/martinkoutecky/tine/stargazers) [![Forks](https://img.shields.io/github/forks/martinkoutecky/tine?style=flat-square&color=blue)](https://github.com/martinkoutecky/tine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 287 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ martinkoutecky/tine 是一个基于 Rust 的轻量级工具，适用于需要快
 | forks | 34/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 66/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

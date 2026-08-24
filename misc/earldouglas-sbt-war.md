@@ -1,6 +1,6 @@
 # earldouglas/sbt-war
 
-[![Stars](https://img.shields.io/github/stars/earldouglas/sbt-war?style=flat-square&color=yellow)](https://github.com/earldouglas/sbt-war/stargazers) [![Forks](https://img.shields.io/github/forks/earldouglas/sbt-war?style=flat-square&color=blue)](https://github.com/earldouglas/sbt-war/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earldouglas/sbt-war?style=flat-square&color=yellow)](https://github.com/earldouglas/sbt-war/stargazers) [![Forks](https://img.shields.io/github/forks/earldouglas/sbt-war?style=flat-square&color=blue)](https://github.com/earldouglas/sbt-war/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Package and run WAR files from sbt
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ earldouglas/sbt-war 是一个开源项目，用于使用 Scala 在 sbt 中打包
 | forks | 50/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

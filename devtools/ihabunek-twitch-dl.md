@@ -1,6 +1,6 @@
 # ihabunek/twitch-dl
 
-[![Stars](https://img.shields.io/github/stars/ihabunek/twitch-dl?style=flat-square&color=yellow)](https://github.com/ihabunek/twitch-dl/stargazers) [![Forks](https://img.shields.io/github/forks/ihabunek/twitch-dl?style=flat-square&color=blue)](https://github.com/ihabunek/twitch-dl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ihabunek/twitch-dl?style=flat-square&color=yellow)](https://github.com/ihabunek/twitch-dl/stargazers) [![Forks](https://img.shields.io/github/forks/ihabunek/twitch-dl?style=flat-square&color=blue)](https://github.com/ihabunek/twitch-dl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for downloading videos from Twitch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 757 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ ihabunek/twitch-dl 对生产环境的可用性评估为高。它有以下优点�
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

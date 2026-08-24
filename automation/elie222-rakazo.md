@@ -1,6 +1,6 @@
 # elie222/rakazo
 
-[![Stars](https://img.shields.io/github/stars/elie222/rakazo?style=flat-square&color=yellow)](https://github.com/elie222/rakazo/stargazers) [![Forks](https://img.shields.io/github/forks/elie222/rakazo?style=flat-square&color=blue)](https://github.com/elie222/rakazo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elie222/rakazo?style=flat-square&color=yellow)](https://github.com/elie222/rakazo/stargazers) [![Forks](https://img.shields.io/github/forks/elie222/rakazo?style=flat-square&color=blue)](https://github.com/elie222/rakazo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Grok Bot alternative. Choose your own model and sandbox.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ elie222/rakazo 的生产可用性非常高，项目最近有活跃的更新，�
 | forks | 35/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # wojtekmaj/react-pdf
 
-[![Stars](https://img.shields.io/github/stars/wojtekmaj/react-pdf?style=flat-square&color=yellow)](https://github.com/wojtekmaj/react-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/wojtekmaj/react-pdf?style=flat-square&color=blue)](https://github.com/wojtekmaj/react-pdf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wojtekmaj/react-pdf?style=flat-square&color=yellow)](https://github.com/wojtekmaj/react-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/wojtekmaj/react-pdf?style=flat-square&color=blue)](https://github.com/wojtekmaj/react-pdf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Display PDFs in your React app as easily as if they were images.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ function PdfViewer({url}: {url: string}) {
 | forks | 75/100 |
 | stars | 86/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 83/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

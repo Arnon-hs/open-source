@@ -1,6 +1,6 @@
 # messense/typst-py
 
-[![Stars](https://img.shields.io/github/stars/messense/typst-py?style=flat-square&color=yellow)](https://github.com/messense/typst-py/stargazers) [![Forks](https://img.shields.io/github/forks/messense/typst-py?style=flat-square&color=blue)](https://github.com/messense/typst-py/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/messense/typst-py?style=flat-square&color=yellow)](https://github.com/messense/typst-py/stargazers) [![Forks](https://img.shields.io/github/forks/messense/typst-py?style=flat-square&color=blue)](https://github.com/messense/typst-py/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Python binding to typst
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ messense/typst-py 为 Typst（基于 Rust 的排版引擎）提供 Python 绑定
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

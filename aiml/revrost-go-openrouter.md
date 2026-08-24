@@ -1,6 +1,6 @@
 # reVrost/go-openrouter
 
-[![Stars](https://img.shields.io/github/stars/reVrost/go-openrouter?style=flat-square&color=yellow)](https://github.com/reVrost/go-openrouter/stargazers) [![Forks](https://img.shields.io/github/forks/reVrost/go-openrouter?style=flat-square&color=blue)](https://github.com/reVrost/go-openrouter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reVrost/go-openrouter?style=flat-square&color=yellow)](https://github.com/reVrost/go-openrouter/stargazers) [![Forks](https://img.shields.io/github/forks/reVrost/go-openrouter?style=flat-square&color=blue)](https://github.com/reVrost/go-openrouter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial API SDK for openrouter.ai in go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ reVrost/go-openrouter 在生产环境中具有较高的可用性，主要原因�
 | forks | 39/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 43/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

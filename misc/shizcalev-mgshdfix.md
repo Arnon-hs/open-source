@@ -1,6 +1,6 @@
 # ShizCalev/MGSHDFix
 
-[![Stars](https://img.shields.io/github/stars/ShizCalev/MGSHDFix?style=flat-square&color=yellow)](https://github.com/ShizCalev/MGSHDFix/stargazers) [![Forks](https://img.shields.io/github/forks/ShizCalev/MGSHDFix?style=flat-square&color=blue)](https://github.com/ShizCalev/MGSHDFix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShizCalev/MGSHDFix?style=flat-square&color=yellow)](https://github.com/ShizCalev/MGSHDFix/stargazers) [![Forks](https://img.shields.io/github/forks/ShizCalev/MGSHDFix?style=flat-square&color=blue)](https://github.com/ShizCalev/MGSHDFix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ShizCalev/MGSHDFix 是一个开源项目，用于修复 Metal Gear Solid Master 
 | forks | 30/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

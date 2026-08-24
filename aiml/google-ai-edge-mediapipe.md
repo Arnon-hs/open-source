@@ -1,6 +1,6 @@
 # google-ai-edge/mediapipe
 
-[![Stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=flat-square&color=yellow)](https://github.com/google-ai-edge/mediapipe/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/mediapipe?style=flat-square&color=blue)](https://github.com/google-ai-edge/mediapipe/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=flat-square&color=yellow)](https://github.com/google-ai-edge/mediapipe/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/mediapipe?style=flat-square&color=blue)](https://github.com/google-ai-edge/mediapipe/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform, customizable ML solutions for live and streaming media.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36.1k |
 | 🍴 **Forks** | 6.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database · Mobile · Education
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ google-ai-edge/mediapipe 的生产可用性很高，主要原因是：
 | forks | 95/100 |
 | stars | 97/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 96/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # WorksApplications/sudachi.rs
 
-[![Stars](https://img.shields.io/github/stars/WorksApplications/sudachi.rs?style=flat-square&color=yellow)](https://github.com/WorksApplications/sudachi.rs/stargazers) [![Forks](https://img.shields.io/github/forks/WorksApplications/sudachi.rs?style=flat-square&color=blue)](https://github.com/WorksApplications/sudachi.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WorksApplications/sudachi.rs?style=flat-square&color=yellow)](https://github.com/WorksApplications/sudachi.rs/stargazers) [![Forks](https://img.shields.io/github/forks/WorksApplications/sudachi.rs?style=flat-square&color=blue)](https://github.com/WorksApplications/sudachi.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Sudachi in Rust 🦀 and new generation of SudachiPy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ WorksApplications/sudachi.rs 是用 Rust 实现的 Sudachi 形态分析器，兼
 | forks | 43/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

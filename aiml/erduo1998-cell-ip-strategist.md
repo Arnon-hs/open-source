@@ -1,6 +1,6 @@
 # erduo1998-cell/ip-strategist
 
-[![Stars](https://img.shields.io/github/stars/erduo1998-cell/ip-strategist?style=flat-square&color=yellow)](https://github.com/erduo1998-cell/ip-strategist/stargazers) [![Forks](https://img.shields.io/github/forks/erduo1998-cell/ip-strategist?style=flat-square&color=blue)](https://github.com/erduo1998-cell/ip-strategist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erduo1998-cell/ip-strategist?style=flat-square&color=yellow)](https://github.com/erduo1998-cell/ip-strategist/stargazers) [![Forks](https://img.shields.io/github/forks/erduo1998-cell/ip-strategist?style=flat-square&color=blue)](https://github.com/erduo1998-cell/ip-strategist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 让任何 AI agent 变身个人 IP 打造策略师的开源 skill · 耳总个人实战经验沉淀 · 诊契行盘闭环 · 不碰剪辑
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ erduo1998-cell/ip-strategist 是一个开源项目，旨在让任何 AI 代理�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

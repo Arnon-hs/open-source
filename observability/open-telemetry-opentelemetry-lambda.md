@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-lambda
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-lambda?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-lambda/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-lambda?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-lambda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-lambda?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-lambda/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-lambda?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-lambda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lambda Function to get tracing with OpenTelemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Observability · Education
+Observability
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ open-telemetry/opentelemetry-lambda 的生产可用性为中等。它适合用�
 | forks | 60/100 |
 | stars | 56/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

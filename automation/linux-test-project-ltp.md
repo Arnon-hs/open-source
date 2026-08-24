@@ -1,6 +1,6 @@
 # linux-test-project/ltp
 
-[![Stars](https://img.shields.io/github/stars/linux-test-project/ltp?style=flat-square&color=yellow)](https://github.com/linux-test-project/ltp/stargazers) [![Forks](https://img.shields.io/github/forks/linux-test-project/ltp?style=flat-square&color=blue)](https://github.com/linux-test-project/ltp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linux-test-project/ltp?style=flat-square&color=yellow)](https://github.com/linux-test-project/ltp/stargazers) [![Forks](https://img.shields.io/github/forks/linux-test-project/ltp?style=flat-square&color=blue)](https://github.com/linux-test-project/ltp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Linux Test Project (mailing list: https://lists.linux.it/listinfo/ltp)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ LTP 的生产可用性较高，主要原因是：
 | forks | 76/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 71/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

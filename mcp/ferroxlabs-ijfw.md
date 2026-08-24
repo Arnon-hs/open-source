@@ -1,6 +1,6 @@
 # FerroxLabs/ijfw
 
-[![Stars](https://img.shields.io/github/stars/FerroxLabs/ijfw?style=flat-square&color=yellow)](https://github.com/FerroxLabs/ijfw/stargazers) [![Forks](https://img.shields.io/github/forks/FerroxLabs/ijfw?style=flat-square&color=blue)](https://github.com/FerroxLabs/ijfw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FerroxLabs/ijfw?style=flat-square&color=yellow)](https://github.com/FerroxLabs/ijfw/stargazers) [![Forks](https://img.shields.io/github/forks/FerroxLabs/ijfw?style=flat-square&color=blue)](https://github.com/FerroxLabs/ijfw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > IJFW — It Just F*cking Works. Ferrox Labs' local-first infrastructure for AI coding agents: shared memory, smart routing, multi-AI cross-audits, disciplined workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ FerroxLabs/ijfw 在生产环境中具有较高的可用性。它具有以下特�
 | forks | 40/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

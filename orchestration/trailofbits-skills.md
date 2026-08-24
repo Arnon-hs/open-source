@@ -1,6 +1,6 @@
 # trailofbits/skills
 
-[![Stars](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&color=yellow)](https://github.com/trailofbits/skills/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/skills?style=flat-square&color=blue)](https://github.com/trailofbits/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&color=yellow)](https://github.com/trailofbits/skills/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/skills?style=flat-square&color=blue)](https://github.com/trailofbits/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 545 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Security
+Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ trailofbits/skills 的生产可用性很高，主要原因是：
 | forks | 68/100 |
 | stars | 81/100 |
 | topics | 13/100 |
-| outlook | 80/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

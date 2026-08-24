@@ -1,6 +1,6 @@
 # AdaCore/gnatstudio
 
-[![Stars](https://img.shields.io/github/stars/AdaCore/gnatstudio?style=flat-square&color=yellow)](https://github.com/AdaCore/gnatstudio/stargazers) [![Forks](https://img.shields.io/github/forks/AdaCore/gnatstudio?style=flat-square&color=blue)](https://github.com/AdaCore/gnatstudio/network) [![Language](https://img.shields.io/badge/lang-Ada-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdaCore/gnatstudio?style=flat-square&color=yellow)](https://github.com/AdaCore/gnatstudio/stargazers) [![Forks](https://img.shields.io/github/forks/AdaCore/gnatstudio?style=flat-square&color=blue)](https://github.com/AdaCore/gnatstudio/network) [![Language](https://img.shields.io/badge/lang-Ada-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GNAT Studio is a powerful and lightweight IDE for Ada and SPARK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 525 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Ada |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ AdaCore/gnatstudio：AdaCore/gnatstudio may be useful when its README and activi
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

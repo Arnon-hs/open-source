@@ -1,6 +1,6 @@
 # shlomif/fortune-mod
 
-[![Stars](https://img.shields.io/github/stars/shlomif/fortune-mod?style=flat-square&color=yellow)](https://github.com/shlomif/fortune-mod/stargazers) [![Forks](https://img.shields.io/github/forks/shlomif/fortune-mod?style=flat-square&color=blue)](https://github.com/shlomif/fortune-mod/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shlomif/fortune-mod?style=flat-square&color=yellow)](https://github.com/shlomif/fortune-mod/stargazers) [![Forks](https://img.shields.io/github/forks/shlomif/fortune-mod?style=flat-square&color=blue)](https://github.com/shlomif/fortune-mod/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation of the Unix fortune command for displaying a random quotation, for Linux and other systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ shlomif/fortune-mod：shlomif/fortune-mod may be useful when its README and acti
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

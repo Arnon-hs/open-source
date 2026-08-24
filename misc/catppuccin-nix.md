@@ -1,6 +1,6 @@
 # catppuccin/nix
 
-[![Stars](https://img.shields.io/github/stars/catppuccin/nix?style=flat-square&color=yellow)](https://github.com/catppuccin/nix/stargazers) [![Forks](https://img.shields.io/github/forks/catppuccin/nix?style=flat-square&color=blue)](https://github.com/catppuccin/nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/catppuccin/nix?style=flat-square&color=yellow)](https://github.com/catppuccin/nix/stargazers) [![Forks](https://img.shields.io/github/forks/catppuccin/nix?style=flat-square&color=blue)](https://github.com/catppuccin/nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ❄️ Soothing pastel theme for Nix
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 748 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ catppuccin/nix 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

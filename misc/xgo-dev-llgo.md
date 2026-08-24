@@ -1,6 +1,6 @@
 # xgo-dev/llgo
 
-[![Stars](https://img.shields.io/github/stars/xgo-dev/llgo?style=flat-square&color=yellow)](https://github.com/xgo-dev/llgo/stargazers) [![Forks](https://img.shields.io/github/forks/xgo-dev/llgo?style=flat-square&color=blue)](https://github.com/xgo-dev/llgo/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xgo-dev/llgo?style=flat-square&color=yellow)](https://github.com/xgo-dev/llgo/stargazers) [![Forks](https://img.shields.io/github/forks/xgo-dev/llgo?style=flat-square&color=blue)](https://github.com/xgo-dev/llgo/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | LLVM |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -134,14 +134,15 @@ xgo-dev/llgo 是一个基于 LLVM 的 Go 编译器，旨在让 Go 更好地与 C
 | forks | 42/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

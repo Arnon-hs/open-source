@@ -1,6 +1,6 @@
 # ngrok/ngrok-rust
 
-[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-rust?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-rust/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-rust?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-rust?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-rust/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-rust?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Embed ngrok secure ingress into your Rust apps with a single line of code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ ngrok/ngrok-rust 的生产可用性是中等的，适合用于原型开发或内
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

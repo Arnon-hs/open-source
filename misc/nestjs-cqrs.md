@@ -1,6 +1,6 @@
 # nestjs/cqrs
 
-[![Stars](https://img.shields.io/github/stars/nestjs/cqrs?style=flat-square&color=yellow)](https://github.com/nestjs/cqrs/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/cqrs?style=flat-square&color=blue)](https://github.com/nestjs/cqrs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nestjs/cqrs?style=flat-square&color=yellow)](https://github.com/nestjs/cqrs/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/cqrs?style=flat-square&color=blue)](https://github.com/nestjs/cqrs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight CQRS module for Nest framework (node.js) :balloon:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 941 |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Nestjs/cqrs 的生产可用性非常高，主要原因是：
 | forks | 55/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

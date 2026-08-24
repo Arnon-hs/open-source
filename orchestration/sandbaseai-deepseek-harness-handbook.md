@@ -1,6 +1,6 @@
 # sandbaseai/deepseek-harness-handbook
 
-[![Stars](https://img.shields.io/github/stars/sandbaseai/deepseek-harness-handbook?style=flat-square&color=yellow)](https://github.com/sandbaseai/deepseek-harness-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/sandbaseai/deepseek-harness-handbook?style=flat-square&color=blue)](https://github.com/sandbaseai/deepseek-harness-handbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandbaseai/deepseek-harness-handbook?style=flat-square&color=yellow)](https://github.com/sandbaseai/deepseek-harness-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/sandbaseai/deepseek-harness-handbook?style=flat-square&color=blue)](https://github.com/sandbaseai/deepseek-harness-handbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-first, English-canonical handbook for DeepSeek Harness with multilingual foundations, source-backed guides, and production runbooks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ sandbaseai/deepseek-harness-handbook：sandbaseai/deepseek-harness-handbook help
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

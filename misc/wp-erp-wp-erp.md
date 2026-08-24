@@ -1,6 +1,6 @@
 # wp-erp/wp-erp
 
-[![Stars](https://img.shields.io/github/stars/wp-erp/wp-erp?style=flat-square&color=yellow)](https://github.com/wp-erp/wp-erp/stargazers) [![Forks](https://img.shields.io/github/forks/wp-erp/wp-erp?style=flat-square&color=blue)](https://github.com/wp-erp/wp-erp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wp-erp/wp-erp?style=flat-square&color=yellow)](https://github.com/wp-erp/wp-erp/stargazers) [![Forks](https://img.shields.io/github/forks/wp-erp/wp-erp?style=flat-square&color=blue)](https://github.com/wp-erp/wp-erp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source ERP (Enterprise Resource Planning) solution for WordPress
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 689 |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ wp-erp/wp-erp的生产可用性为中等。它适合用于原型开发或内部�
 | forks | 63/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

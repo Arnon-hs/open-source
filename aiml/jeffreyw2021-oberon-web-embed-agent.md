@@ -1,6 +1,6 @@
 # jeffreyw2021/oberon-web-embed-agent
 
-[![Stars](https://img.shields.io/github/stars/jeffreyw2021/oberon-web-embed-agent?style=flat-square&color=yellow)](https://github.com/jeffreyw2021/oberon-web-embed-agent/stargazers) [![Forks](https://img.shields.io/github/forks/jeffreyw2021/oberon-web-embed-agent?style=flat-square&color=blue)](https://github.com/jeffreyw2021/oberon-web-embed-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeffreyw2021/oberon-web-embed-agent?style=flat-square&color=yellow)](https://github.com/jeffreyw2021/oberon-web-embed-agent/stargazers) [![Forks](https://img.shields.io/github/forks/jeffreyw2021/oberon-web-embed-agent?style=flat-square&color=blue)](https://github.com/jeffreyw2021/oberon-web-embed-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Self-contained AI agent backend (streaming, tools, chat history, worker) + React components. Add a working agent to any existing React app, no infrastructure to build.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevOps/Infra
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Oberon-web-embed-agent 在生产环境中具有中等可用性。它适合用于
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 66/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

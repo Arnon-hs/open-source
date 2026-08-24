@@ -1,6 +1,6 @@
 # telegraf-hardened/telegraf-hardened
 
-[![Stars](https://img.shields.io/github/stars/telegraf-hardened/telegraf-hardened?style=flat-square&color=yellow)](https://github.com/telegraf-hardened/telegraf-hardened/stargazers) [![Forks](https://img.shields.io/github/forks/telegraf-hardened/telegraf-hardened?style=flat-square&color=blue)](https://github.com/telegraf-hardened/telegraf-hardened/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/telegraf-hardened/telegraf-hardened?style=flat-square&color=yellow)](https://github.com/telegraf-hardened/telegraf-hardened/stargazers) [![Forks](https://img.shields.io/github/forks/telegraf-hardened/telegraf-hardened?style=flat-square&color=blue)](https://github.com/telegraf-hardened/telegraf-hardened/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: Telegraf.js умер. Как мы оживили фреймворк, переписали ядро на Native Fetch и затащили Bot API 9.6
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-18 |
+| 📈 **Score** | 35/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ Telegraf.js умер. Как мы оживили фреймворк, пере�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 28/100 |
+| quality | 19/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 32/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

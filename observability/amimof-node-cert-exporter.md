@@ -1,6 +1,6 @@
 # amimof/node-cert-exporter
 
-[![Stars](https://img.shields.io/github/stars/amimof/node-cert-exporter?style=flat-square&color=yellow)](https://github.com/amimof/node-cert-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/amimof/node-cert-exporter?style=flat-square&color=blue)](https://github.com/amimof/node-cert-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amimof/node-cert-exporter?style=flat-square&color=yellow)](https://github.com/amimof/node-cert-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/amimof/node-cert-exporter?style=flat-square&color=blue)](https://github.com/amimof/node-cert-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An SSL certificate Prometheus exporter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ amimof/node-cert-exporter 的生产可用性为中等（Medium），适合用于
 | forks | 39/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

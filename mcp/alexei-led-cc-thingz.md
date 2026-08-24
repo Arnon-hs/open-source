@@ -1,6 +1,6 @@
 # alexei-led/cc-thingz
 
-[![Stars](https://img.shields.io/github/stars/alexei-led/cc-thingz?style=flat-square&color=yellow)](https://github.com/alexei-led/cc-thingz/stargazers) [![Forks](https://img.shields.io/github/forks/alexei-led/cc-thingz?style=flat-square&color=blue)](https://github.com/alexei-led/cc-thingz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexei-led/cc-thingz?style=flat-square&color=yellow)](https://github.com/alexei-led/cc-thingz/stargazers) [![Forks](https://img.shields.io/github/forks/alexei-led/cc-thingz?style=flat-square&color=blue)](https://github.com/alexei-led/cc-thingz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Battle-tested Claude/Codex/Gemini/Pi plugin marketplace — 27 skills, 34 agents, 9 hooks for code review, Go/Python/TypeScript/Web dev, infrastructure ops, and spec-driven development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · DevOps/Infra
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ alexei-led/cc-thingz 是一个经过实战检验的 Claude、Codex、Gemini、Pi
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 25/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

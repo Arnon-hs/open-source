@@ -1,6 +1,6 @@
 # robusta-dev/robusta
 
-[![Stars](https://img.shields.io/github/stars/robusta-dev/robusta?style=flat-square&color=yellow)](https://github.com/robusta-dev/robusta/stargazers) [![Forks](https://img.shields.io/github/forks/robusta-dev/robusta?style=flat-square&color=blue)](https://github.com/robusta-dev/robusta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robusta-dev/robusta?style=flat-square&color=yellow)](https://github.com/robusta-dev/robusta/stargazers) [![Forks](https://img.shields.io/github/forks/robusta-dev/robusta?style=flat-square&color=blue)](https://github.com/robusta-dev/robusta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 320 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability · DevOps/Infra
+Automation · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Robusta 的生产可用性很高，主要原因是：
 | forks | 63/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 86/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 71/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

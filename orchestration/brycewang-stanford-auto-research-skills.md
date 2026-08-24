@@ -1,6 +1,6 @@
 # brycewang-stanford/Auto-Research-Skills
 
-[![Stars](https://img.shields.io/github/stars/brycewang-stanford/Auto-Research-Skills?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/Auto-Research-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/Auto-Research-Skills?style=flat-square&color=blue)](https://github.com/brycewang-stanford/Auto-Research-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brycewang-stanford/Auto-Research-Skills?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/Auto-Research-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/Auto-Research-Skills?style=flat-square&color=blue)](https://github.com/brycewang-stanford/Auto-Research-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A curated hub of autonomous-research skills & agents — from idea to paper, on autopilot. | 自主科研技能与智能体精选库 —— 从灵感到论文，全程自动驾驶。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data · Education
+Orchestration · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ brycewang-stanford/Auto-Research-Skills：brycewang-stanford/Auto-Research-Skill
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

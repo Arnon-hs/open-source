@@ -1,6 +1,6 @@
 # sydasif/web-search-mcp
 
-[![Stars](https://img.shields.io/github/stars/sydasif/web-search-mcp?style=flat-square&color=yellow)](https://github.com/sydasif/web-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sydasif/web-search-mcp?style=flat-square&color=blue)](https://github.com/sydasif/web-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sydasif/web-search-mcp?style=flat-square&color=yellow)](https://github.com/sydasif/web-search-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sydasif/web-search-mcp?style=flat-square&color=blue)](https://github.com/sydasif/web-search-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive, production-ready research server (MCP). Provide your LLM clients with real-time access to the web, data, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ sydasif/web-search-mcp：sydasif/web-search-mcp helps connect AI assistants to r
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

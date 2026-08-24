@@ -1,6 +1,6 @@
 # jeremylongshore/claude-code-slack-channel
 
-[![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-slack-channel?style=flat-square&color=yellow)](https://github.com/jeremylongshore/claude-code-slack-channel/stargazers) [![Forks](https://img.shields.io/github/forks/jeremylongshore/claude-code-slack-channel?style=flat-square&color=blue)](https://github.com/jeremylongshore/claude-code-slack-channel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-slack-channel?style=flat-square&color=yellow)](https://github.com/jeremylongshore/claude-code-slack-channel/stargazers) [![Forks](https://img.shields.io/github/forks/jeremylongshore/claude-code-slack-channel?style=flat-square&color=blue)](https://github.com/jeremylongshore/claude-code-slack-channel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Two-way Slack bridge for Claude Code. Socket Mode + MCP stdio. Hash-chained tamper-evident audit journal, per-thread session isolation, policy-gated MCP tools, permission relay with Block Kit buttons, five-layer prompt-injection defense. Three runtimes: Bun, Node.js, Docker. TypeScript strict.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevOps/Infra
+MCP · DevOps/Infra
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ jeremylongshore/claude-code-slack-channel 是一个双向 Slack 桥接层，基�
 | forks | 31/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # surendranb/google-search-console-mcp
 
-[![Stars](https://img.shields.io/github/stars/surendranb/google-search-console-mcp?style=flat-square&color=yellow)](https://github.com/surendranb/google-search-console-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/surendranb/google-search-console-mcp?style=flat-square&color=blue)](https://github.com/surendranb/google-search-console-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/surendranb/google-search-console-mcp?style=flat-square&color=yellow)](https://github.com/surendranb/google-search-console-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/surendranb/google-search-console-mcp?style=flat-square&color=blue)](https://github.com/surendranb/google-search-console-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Google Search Console MCP Server for Claude, Cursor, Windsurf and other MCP Clients
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · Data · Marketing
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ surendranb/google-search-console-mcp 是一个开源项目，用于连接 AI 助
 | forks | 25/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

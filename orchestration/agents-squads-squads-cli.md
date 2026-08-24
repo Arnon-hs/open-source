@@ -1,6 +1,6 @@
 # agents-squads/squads-cli
 
-[![Stars](https://img.shields.io/github/stars/agents-squads/squads-cli?style=flat-square&color=yellow)](https://github.com/agents-squads/squads-cli/stargazers) [![Forks](https://img.shields.io/github/forks/agents-squads/squads-cli?style=flat-square&color=blue)](https://github.com/agents-squads/squads-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agents-squads/squads-cli?style=flat-square&color=yellow)](https://github.com/agents-squads/squads-cli/stargazers) [![Forks](https://img.shields.io/github/forks/agents-squads/squads-cli?style=flat-square&color=blue)](https://github.com/agents-squads/squads-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for managing AI agent squads. Status, memory, goals, feedback, and dashboard for your autonomous agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Marketing
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Overall, *agents‑squads/squads‑cli* is a high‑readiness OSS component that
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

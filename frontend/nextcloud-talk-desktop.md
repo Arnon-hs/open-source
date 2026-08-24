@@ -1,6 +1,6 @@
 # nextcloud/talk-desktop
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/talk-desktop?style=flat-square&color=yellow)](https://github.com/nextcloud/talk-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/talk-desktop?style=flat-square&color=blue)](https://github.com/nextcloud/talk-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/talk-desktop?style=flat-square&color=yellow)](https://github.com/nextcloud/talk-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/talk-desktop?style=flat-square&color=blue)](https://github.com/nextcloud/talk-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Nextcloud Talk Desktop client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 504 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ nextcloud/talk-desktop 是 Nextcloud 官方的桌面客户端，实现了 Nextcl
 | forks | 47/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

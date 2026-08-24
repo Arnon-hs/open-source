@@ -1,6 +1,6 @@
 # artifacthub/hub
 
-[![Stars](https://img.shields.io/github/stars/artifacthub/hub?style=flat-square&color=yellow)](https://github.com/artifacthub/hub/stargazers) [![Forks](https://img.shields.io/github/forks/artifacthub/hub?style=flat-square&color=blue)](https://github.com/artifacthub/hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artifacthub/hub?style=flat-square&color=yellow)](https://github.com/artifacthub/hub/stargazers) [![Forks](https://img.shields.io/github/forks/artifacthub/hub?style=flat-square&color=blue)](https://github.com/artifacthub/hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Find, install and publish Cloud Native packages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 302 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Artifact Hub（`artifacthub/hub`）是一个面向云原生生态的统一目录
 | forks | 62/100 |
 | stars | 70/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # indigo-dc/oidc-agent
 
-[![Stars](https://img.shields.io/github/stars/indigo-dc/oidc-agent?style=flat-square&color=yellow)](https://github.com/indigo-dc/oidc-agent/stargazers) [![Forks](https://img.shields.io/github/forks/indigo-dc/oidc-agent?style=flat-square&color=blue)](https://github.com/indigo-dc/oidc-agent/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indigo-dc/oidc-agent?style=flat-square&color=yellow)](https://github.com/indigo-dc/oidc-agent/stargazers) [![Forks](https://img.shields.io/github/forks/indigo-dc/oidc-agent?style=flat-square&color=blue)](https://github.com/indigo-dc/oidc-agent/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > oidc-agent for managing OpenID Connect tokens on the command line
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | C |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ indigo-dc/oidc-agent 的生产可用性很高，因为它具有以下特点：
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

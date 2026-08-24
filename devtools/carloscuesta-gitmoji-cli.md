@@ -1,6 +1,6 @@
 # carloscuesta/gitmoji-cli
 
-[![Stars](https://img.shields.io/github/stars/carloscuesta/gitmoji-cli?style=flat-square&color=yellow)](https://github.com/carloscuesta/gitmoji-cli/stargazers) [![Forks](https://img.shields.io/github/forks/carloscuesta/gitmoji-cli?style=flat-square&color=blue)](https://github.com/carloscuesta/gitmoji-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carloscuesta/gitmoji-cli?style=flat-square&color=yellow)](https://github.com/carloscuesta/gitmoji-cli/stargazers) [![Forks](https://img.shields.io/github/forks/carloscuesta/gitmoji-cli?style=flat-square&color=blue)](https://github.com/carloscuesta/gitmoji-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A gitmoji interactive cli tool for using emojis on commits. 💻
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ carloscuesta/gitmoji‑cli 是一款交互式命令行工具，帮助开发者�
 | forks | 58/100 |
 | stars | 78/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

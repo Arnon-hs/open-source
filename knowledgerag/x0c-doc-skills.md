@@ -1,6 +1,6 @@
 # x0c/doc-skills
 
-[![Stars](https://img.shields.io/github/stars/x0c/doc-skills?style=flat-square&color=yellow)](https://github.com/x0c/doc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/x0c/doc-skills?style=flat-square&color=blue)](https://github.com/x0c/doc-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x0c/doc-skills?style=flat-square&color=yellow)](https://github.com/x0c/doc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/x0c/doc-skills?style=flat-square&color=blue)](https://github.com/x0c/doc-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skills to bootstrap, compact, and maintain AI-readable project documentation — doc-init · doc-compact · doc-update
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ x0c/doc‑skills 是一套基于 Claude Code 的 “skill” 集合，提供 `do
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

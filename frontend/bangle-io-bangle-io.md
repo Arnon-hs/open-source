@@ -1,6 +1,6 @@
 # bangle-io/bangle-io
 
-[![Stars](https://img.shields.io/github/stars/bangle-io/bangle-io?style=flat-square&color=yellow)](https://github.com/bangle-io/bangle-io/stargazers) [![Forks](https://img.shields.io/github/forks/bangle-io/bangle-io?style=flat-square&color=blue)](https://github.com/bangle-io/bangle-io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bangle-io/bangle-io?style=flat-square&color=yellow)](https://github.com/bangle-io/bangle-io/stargazers) [![Forks](https://img.shields.io/github/forks/bangle-io/bangle-io?style=flat-square&color=blue)](https://github.com/bangle-io/bangle-io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database
+Frontend
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ Bangle-io的生产可用性很高，原因包括：
 | forks | 48/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

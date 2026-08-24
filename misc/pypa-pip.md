@@ -1,6 +1,6 @@
 # pypa/pip
 
-[![Stars](https://img.shields.io/github/stars/pypa/pip?style=flat-square&color=yellow)](https://github.com/pypa/pip/stargazers) [![Forks](https://img.shields.io/github/forks/pypa/pip?style=flat-square&color=blue)](https://github.com/pypa/pip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pypa/pip?style=flat-square&color=yellow)](https://github.com/pypa/pip/stargazers) [![Forks](https://img.shields.io/github/forks/pypa/pip?style=flat-square&color=blue)](https://github.com/pypa/pip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Python package installer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ pypa/pip 是 Python 官方推荐的包管理工具，负责从 PyPI（以及其�
 | forks | 88/100 |
 | stars | 85/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

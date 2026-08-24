@@ -1,6 +1,6 @@
 # keepassxreboot/keepassxc-browser
 
-[![Stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc-browser?style=flat-square&color=yellow)](https://github.com/keepassxreboot/keepassxc-browser/stargazers) [![Forks](https://img.shields.io/github/forks/keepassxreboot/keepassxc-browser?style=flat-square&color=blue)](https://github.com/keepassxreboot/keepassxc-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc-browser?style=flat-square&color=yellow)](https://github.com/keepassxreboot/keepassxc-browser/stargazers) [![Forks](https://img.shields.io/github/forks/keepassxreboot/keepassxc-browser?style=flat-square&color=blue)](https://github.com/keepassxreboot/keepassxc-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > KeePassXC Browser Extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ KeePassXC 浏览器扩展的生产可用性为中等（Medium）。它可以在�
 | forks | 60/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

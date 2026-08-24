@@ -1,6 +1,6 @@
 # brycewang-stanford/Auto-Empirical-Research-Skills
 
-[![Stars](https://img.shields.io/github/stars/brycewang-stanford/Auto-Empirical-Research-Skills?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/Auto-Empirical-Research-Skills?style=flat-square&color=blue)](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/network) [![Language](https://img.shields.io/badge/lang-Stata-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brycewang-stanford/Auto-Empirical-Research-Skills?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/Auto-Empirical-Research-Skills?style=flat-square&color=blue)](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/network) [![Language](https://img.shields.io/badge/lang-Stata-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | Stata |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ brycewang‑stanford/Auto‑Empirical‑Research‑Skills 是一个由斯坦福 
 | forks | 63/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

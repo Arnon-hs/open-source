@@ -1,6 +1,6 @@
 # base/contracts
 
-[![Stars](https://img.shields.io/github/stars/base/contracts?style=flat-square&color=yellow)](https://github.com/base/contracts/stargazers) [![Forks](https://img.shields.io/github/forks/base/contracts?style=flat-square&color=blue)](https://github.com/base/contracts/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/base/contracts?style=flat-square&color=yellow)](https://github.com/base/contracts/stargazers) [![Forks](https://img.shields.io/github/forks/base/contracts?style=flat-square&color=blue)](https://github.com/base/contracts/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ base/contracts 是一个开源项目，用于帮助开发者在区块链上快�
 | forks | 59/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

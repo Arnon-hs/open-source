@@ -1,6 +1,6 @@
 # uptrace/uptrace
 
-[![Stars](https://img.shields.io/github/stars/uptrace/uptrace?style=flat-square&color=yellow)](https://github.com/uptrace/uptrace/stargazers) [![Forks](https://img.shields.io/github/forks/uptrace/uptrace?style=flat-square&color=blue)](https://github.com/uptrace/uptrace/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uptrace/uptrace?style=flat-square&color=yellow)](https://github.com/uptrace/uptrace/stargazers) [![Forks](https://img.shields.io/github/forks/uptrace/uptrace?style=flat-square&color=blue)](https://github.com/uptrace/uptrace/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open source APM: OpenTelemetry traces, metrics, and logs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Database · Observability
+Frontend · Observability
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ uptrace 是一款开源的 APM（应用性能监控）系统，基于 OpenTeleme
 | forks | 58/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

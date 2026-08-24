@@ -1,6 +1,6 @@
 # Astro-Han/claude-pace
 
-[![Stars](https://img.shields.io/github/stars/Astro-Han/claude-pace?style=flat-square&color=yellow)](https://github.com/Astro-Han/claude-pace/stargazers) [![Forks](https://img.shields.io/github/forks/Astro-Han/claude-pace?style=flat-square&color=blue)](https://github.com/Astro-Han/claude-pace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Astro-Han/claude-pace?style=flat-square&color=yellow)](https://github.com/Astro-Han/claude-pace/stargazers) [![Forks](https://img.shields.io/github/forks/Astro-Han/claude-pace?style=flat-square&color=blue)](https://github.com/Astro-Han/claude-pace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code statusline and rate limit tracker with pace-aware quota monitoring. Pure Bash + jq, single file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Astro-Han/claude-pace 帮助工程师在日常开发和审查循环中节省时�
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

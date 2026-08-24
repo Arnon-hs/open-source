@@ -1,6 +1,6 @@
 # golang/vscode-go
 
-[![Stars](https://img.shields.io/github/stars/golang/vscode-go?style=flat-square&color=yellow)](https://github.com/golang/vscode-go/stargazers) [![Forks](https://img.shields.io/github/forks/golang/vscode-go?style=flat-square&color=blue)](https://github.com/golang/vscode-go/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/golang/vscode-go?style=flat-square&color=yellow)](https://github.com/golang/vscode-go/stargazers) [![Forks](https://img.shields.io/github/forks/golang/vscode-go?style=flat-square&color=blue)](https://github.com/golang/vscode-go/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Go extension for Visual Studio Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 921 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ golang/vscode-go 是一个开源项目，提供了 Visual Studio Code 的 Go 扩
 | forks | 74/100 |
 | stars | 77/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # kkzzhizhou/scoop-apps
 
-[![Stars](https://img.shields.io/github/stars/kkzzhizhou/scoop-apps?style=flat-square&color=yellow)](https://github.com/kkzzhizhou/scoop-apps/stargazers) [![Forks](https://img.shields.io/github/forks/kkzzhizhou/scoop-apps?style=flat-square&color=blue)](https://github.com/kkzzhizhou/scoop-apps/network) [![Language](https://img.shields.io/badge/lang-templ-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kkzzhizhou/scoop-apps?style=flat-square&color=yellow)](https://github.com/kkzzhizhou/scoop-apps/stargazers) [![Forks](https://img.shields.io/github/forks/kkzzhizhou/scoop-apps?style=flat-square&color=blue)](https://github.com/kkzzhizhou/scoop-apps/network) [![Language](https://img.shields.io/badge/lang-templ-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 使用Github Action每天自动合并其他scoop仓库的更新，仓库地址：https://github.com/kkzzhizhou/scoop-apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 541 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | templ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ kkzzhizhou/scoop-apps is considered production-ready with a medium level of read
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

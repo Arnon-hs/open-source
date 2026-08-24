@@ -1,6 +1,6 @@
 # xalgorix/xalgorix
 
-[![Stars](https://img.shields.io/github/stars/xalgorix/xalgorix?style=flat-square&color=yellow)](https://github.com/xalgorix/xalgorix/stargazers) [![Forks](https://img.shields.io/github/forks/xalgorix/xalgorix?style=flat-square&color=blue)](https://github.com/xalgorix/xalgorix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xalgorix/xalgorix?style=flat-square&color=yellow)](https://github.com/xalgorix/xalgorix/stargazers) [![Forks](https://img.shields.io/github/forks/xalgorix/xalgorix?style=flat-square&color=blue)](https://github.com/xalgorix/xalgorix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 847 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Security
+Orchestration · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ xalgorix/xalgorix 的生产可用性为高。该项目有近
 | forks | 55/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

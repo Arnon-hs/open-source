@@ -1,6 +1,6 @@
 # pop-os/cosmic-text
 
-[![Stars](https://img.shields.io/github/stars/pop-os/cosmic-text?style=flat-square&color=yellow)](https://github.com/pop-os/cosmic-text/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/cosmic-text?style=flat-square&color=blue)](https://github.com/pop-os/cosmic-text/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pop-os/cosmic-text?style=flat-square&color=yellow)](https://github.com/pop-os/cosmic-text/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/cosmic-text?style=flat-square&color=blue)](https://github.com/pop-os/cosmic-text/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Rust multi-line text handling
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Pop-os/cosmic-text 的生产可用性为中等（Medium），因为它是开源�
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

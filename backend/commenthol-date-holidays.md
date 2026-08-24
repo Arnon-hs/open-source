@@ -1,6 +1,6 @@
 # commenthol/date-holidays
 
-[![Stars](https://img.shields.io/github/stars/commenthol/date-holidays?style=flat-square&color=yellow)](https://github.com/commenthol/date-holidays/stargazers) [![Forks](https://img.shields.io/github/forks/commenthol/date-holidays?style=flat-square&color=blue)](https://github.com/commenthol/date-holidays/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/commenthol/date-holidays?style=flat-square&color=yellow)](https://github.com/commenthol/date-holidays/stargazers) [![Forks](https://img.shields.io/github/forks/commenthol/date-holidays?style=flat-square&color=blue)](https://github.com/commenthol/date-holidays/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > worldwide holidays
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 300 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ commenthol/date-holidays 的生产可用性很高，最近有活动，广泛采�
 | forks | 62/100 |
 | stars | 65/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

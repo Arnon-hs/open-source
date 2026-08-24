@@ -1,6 +1,6 @@
 # ai-hpc/ai-hardware-engineer-roadmap
 
-[![Stars](https://img.shields.io/github/stars/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=yellow)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=blue)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=yellow)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/stargazers) [![Forks](https://img.shields.io/github/forks/ai-hpc/ai-hardware-engineer-roadmap?style=flat-square&color=blue)](https://github.com/ai-hpc/ai-hardware-engineer-roadmap/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Master AI inference, AI agent harness systems, and hardware engineering — then design a physical AI chip. That is the goal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Design · Education · Product
+Automation · AI/ML · Design · Product
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ The *ai‑hpc/ai‑hardware‑engineer‑roadmap* project is an open‑source gu
 | forks | 39/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

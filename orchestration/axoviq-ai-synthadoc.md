@@ -1,6 +1,6 @@
 # axoviq-ai/synthadoc
 
-[![Stars](https://img.shields.io/github/stars/axoviq-ai/synthadoc?style=flat-square&color=yellow)](https://github.com/axoviq-ai/synthadoc/stargazers) [![Forks](https://img.shields.io/github/forks/axoviq-ai/synthadoc?style=flat-square&color=blue)](https://github.com/axoviq-ai/synthadoc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axoviq-ai/synthadoc?style=flat-square&color=yellow)](https://github.com/axoviq-ai/synthadoc/stargazers) [![Forks](https://img.shields.io/github/forks/axoviq-ai/synthadoc?style=flat-square&color=blue)](https://github.com/axoviq-ai/synthadoc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Synthadoc 的生产可用性很高，主要原因是：
 | forks | 46/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

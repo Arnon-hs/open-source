@@ -1,6 +1,6 @@
 # neoeinstein/protoc-gen-prost
 
-[![Stars](https://img.shields.io/github/stars/neoeinstein/protoc-gen-prost?style=flat-square&color=yellow)](https://github.com/neoeinstein/protoc-gen-prost/stargazers) [![Forks](https://img.shields.io/github/forks/neoeinstein/protoc-gen-prost?style=flat-square&color=blue)](https://github.com/neoeinstein/protoc-gen-prost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neoeinstein/protoc-gen-prost?style=flat-square&color=yellow)](https://github.com/neoeinstein/protoc-gen-prost/stargazers) [![Forks](https://img.shields.io/github/forks/neoeinstein/protoc-gen-prost?style=flat-square&color=blue)](https://github.com/neoeinstein/protoc-gen-prost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ neoeinstein/protoc-gen-prost - это open-source проект, который �
 | forks | 47/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

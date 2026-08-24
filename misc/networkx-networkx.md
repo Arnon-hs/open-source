@@ -1,6 +1,6 @@
 # networkx/networkx
 
-[![Stars](https://img.shields.io/github/stars/networkx/networkx?style=flat-square&color=yellow)](https://github.com/networkx/networkx/stargazers) [![Forks](https://img.shields.io/github/forks/networkx/networkx?style=flat-square&color=blue)](https://github.com/networkx/networkx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/networkx/networkx?style=flat-square&color=yellow)](https://github.com/networkx/networkx/stargazers) [![Forks](https://img.shields.io/github/forks/networkx/networkx?style=flat-square&color=blue)](https://github.com/networkx/networkx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Network Analysis in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.9k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ NetworkX（networkx/networkx）是 Python 生态中最成熟的图/网络分析�
 | forks | 89/100 |
 | stars | 90/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 73/100 |
+| recency | 20/100 |
 | adoption | 90/100 |
-| production | 84/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

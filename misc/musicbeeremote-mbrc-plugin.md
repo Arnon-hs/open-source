@@ -1,6 +1,6 @@
 # musicbeeremote/mbrc-plugin
 
-[![Stars](https://img.shields.io/github/stars/musicbeeremote/mbrc-plugin?style=flat-square&color=yellow)](https://github.com/musicbeeremote/mbrc-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/musicbeeremote/mbrc-plugin?style=flat-square&color=blue)](https://github.com/musicbeeremote/mbrc-plugin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/musicbeeremote/mbrc-plugin?style=flat-square&color=yellow)](https://github.com/musicbeeremote/mbrc-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/musicbeeremote/mbrc-plugin?style=flat-square&color=blue)](https://github.com/musicbeeremote/mbrc-plugin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MusicBee Remote Plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ MusicBee 远程插件是一款开源项目，用于扩展 MusicBee 的功能，�
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mobile-next/mobilewright
 
-[![Stars](https://img.shields.io/github/stars/mobile-next/mobilewright?style=flat-square&color=yellow)](https://github.com/mobile-next/mobilewright/stargazers) [![Forks](https://img.shields.io/github/forks/mobile-next/mobilewright?style=flat-square&color=blue)](https://github.com/mobile-next/mobilewright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mobile-next/mobilewright?style=flat-square&color=yellow)](https://github.com/mobile-next/mobilewright/stargazers) [![Forks](https://img.shields.io/github/forks/mobile-next/mobilewright?style=flat-square&color=blue)](https://github.com/mobile-next/mobilewright/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools · Mobile
+Automation · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Mobilewright 通过统一的 API 把 iOS 与 Android 的真机、模拟器、仿
 | forks | 42/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

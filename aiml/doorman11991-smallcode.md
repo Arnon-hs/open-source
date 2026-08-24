@@ -1,6 +1,6 @@
 # Doorman11991/smallcode
 
-[![Stars](https://img.shields.io/github/stars/Doorman11991/smallcode?style=flat-square&color=yellow)](https://github.com/Doorman11991/smallcode/stargazers) [![Forks](https://img.shields.io/github/forks/Doorman11991/smallcode?style=flat-square&color=blue)](https://github.com/Doorman11991/smallcode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Doorman11991/smallcode?style=flat-square&color=yellow)](https://github.com/Doorman11991/smallcode/stargazers) [![Forks](https://img.shields.io/github/forks/Doorman11991/smallcode?style=flat-square&color=blue)](https://github.com/Doorman11991/smallcode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-18 |
+| 📈 **Score** | 33/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Smallcode 是一款面向体积较小的语言模型（LLM）的 AI 编码助手
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 29/100 |
+| quality | 21/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 32/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

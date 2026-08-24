@@ -1,6 +1,6 @@
 # netlify/cli
 
-[![Stars](https://img.shields.io/github/stars/netlify/cli?style=flat-square&color=yellow)](https://github.com/netlify/cli/stargazers) [![Forks](https://img.shields.io/github/forks/netlify/cli?style=flat-square&color=blue)](https://github.com/netlify/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netlify/cli?style=flat-square&color=yellow)](https://github.com/netlify/cli/stargazers) [![Forks](https://img.shields.io/github/forks/netlify/cli?style=flat-square&color=blue)](https://github.com/netlify/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Netlify Command Line Interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 454 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ Netlify CLI 是 Netlify 官方提供的命令行工具，帮助开发者在本�
 | forks | 66/100 |
 | stars | 70/100 |
 | topics | 25/100 |
-| outlook | 76/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sandst1/remind
 
-[![Stars](https://img.shields.io/github/stars/sandst1/remind?style=flat-square&color=yellow)](https://github.com/sandst1/remind/stargazers) [![Forks](https://img.shields.io/github/forks/sandst1/remind?style=flat-square&color=blue)](https://github.com/sandst1/remind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandst1/remind?style=flat-square&color=yellow)](https://github.com/sandst1/remind/stargazers) [![Forks](https://img.shields.io/github/forks/sandst1/remind?style=flat-square&color=blue)](https://github.com/sandst1/remind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A memory layer for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ sandst1/remind 具备较高的生产可用性，最近有活跃的开发者维�
 | forks | 26/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

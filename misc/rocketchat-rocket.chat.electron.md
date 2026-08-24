@@ -1,6 +1,6 @@
 # RocketChat/Rocket.Chat.Electron
 
-[![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.Electron?style=flat-square&color=yellow)](https://github.com/RocketChat/Rocket.Chat.Electron/stargazers) [![Forks](https://img.shields.io/github/forks/RocketChat/Rocket.Chat.Electron?style=flat-square&color=blue)](https://github.com/RocketChat/Rocket.Chat.Electron/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat.Electron?style=flat-square&color=yellow)](https://github.com/RocketChat/Rocket.Chat.Electron/stargazers) [![Forks](https://img.shields.io/github/forks/RocketChat/Rocket.Chat.Electron?style=flat-square&color=blue)](https://github.com/RocketChat/Rocket.Chat.Electron/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Secure CommsOS™ for mission-critical operations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 823 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ RocketChat / Rocket.Chat.Electron 是基于 Electron 的桌面客户端，�
 | forks | 73/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

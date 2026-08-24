@@ -1,6 +1,6 @@
 # flashus/detrix
 
-[![Stars](https://img.shields.io/github/stars/flashus/detrix?style=flat-square&color=yellow)](https://github.com/flashus/detrix/stargazers) [![Forks](https://img.shields.io/github/forks/flashus/detrix?style=flat-square&color=blue)](https://github.com/flashus/detrix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flashus/detrix?style=flat-square&color=yellow)](https://github.com/flashus/detrix/stargazers) [![Forks](https://img.shields.io/github/forks/flashus/detrix?style=flat-square&color=blue)](https://github.com/flashus/detrix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Observe any line of running code — no restarts, no code changes, production-safe
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Observability · Product
+MCP · AI/ML · Backend · Observability
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ flashus/detrix 的生产可用性被评为中等（Medium），因为它主要�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # im030/Momogram
 
-[![Stars](https://img.shields.io/github/stars/im030/Momogram?style=flat-square&color=yellow)](https://github.com/im030/Momogram/stargazers) [![Forks](https://img.shields.io/github/forks/im030/Momogram?style=flat-square&color=blue)](https://github.com/im030/Momogram/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/im030/Momogram?style=flat-square&color=yellow)](https://github.com/im030/Momogram/stargazers) [![Forks](https://img.shields.io/github/forks/im030/Momogram?style=flat-square&color=blue)](https://github.com/im030/Momogram/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A third-party Telegram android app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ However, due to the sparse integration signals and potential risks, Momogram may
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

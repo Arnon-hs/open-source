@@ -1,6 +1,6 @@
 # mmtk/mmtk-core
 
-[![Stars](https://img.shields.io/github/stars/mmtk/mmtk-core?style=flat-square&color=yellow)](https://github.com/mmtk/mmtk-core/stargazers) [![Forks](https://img.shields.io/github/forks/mmtk/mmtk-core?style=flat-square&color=blue)](https://github.com/mmtk/mmtk-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmtk/mmtk-core?style=flat-square&color=yellow)](https://github.com/mmtk/mmtk-core/stargazers) [![Forks](https://img.shields.io/github/forks/mmtk/mmtk-core?style=flat-square&color=blue)](https://github.com/mmtk/mmtk-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Memory Management ToolKit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ mmtk/mmtk-core 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 48/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

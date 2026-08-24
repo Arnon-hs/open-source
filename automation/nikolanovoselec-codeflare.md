@@ -1,6 +1,6 @@
 # nikolanovoselec/codeflare
 
-[![Stars](https://img.shields.io/github/stars/nikolanovoselec/codeflare?style=flat-square&color=yellow)](https://github.com/nikolanovoselec/codeflare/stargazers) [![Forks](https://img.shields.io/github/forks/nikolanovoselec/codeflare?style=flat-square&color=blue)](https://github.com/nikolanovoselec/codeflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolanovoselec/codeflare?style=flat-square&color=yellow)](https://github.com/nikolanovoselec/codeflare/stargazers) [![Forks](https://img.shields.io/github/forks/nikolanovoselec/codeflare?style=flat-square&color=blue)](https://github.com/nikolanovoselec/codeflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The enterprise agentic engine. Governed engineering agents that build, test, review, and operate inside your own estate. Spec-driven, attributed, and encrypted.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ nikolanovoselec/codeflare 是一款面向企业的「代理式」自动化引擎
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

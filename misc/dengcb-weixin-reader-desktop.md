@@ -1,6 +1,6 @@
 # dengcb/weixin-reader-desktop
 
-[![Stars](https://img.shields.io/github/stars/dengcb/weixin-reader-desktop?style=flat-square&color=yellow)](https://github.com/dengcb/weixin-reader-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/dengcb/weixin-reader-desktop?style=flat-square&color=blue)](https://github.com/dengcb/weixin-reader-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dengcb/weixin-reader-desktop?style=flat-square&color=yellow)](https://github.com/dengcb/weixin-reader-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/dengcb/weixin-reader-desktop?style=flat-square&color=blue)](https://github.com/dengcb/weixin-reader-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强 A Weixin Reader Desktop with Auto-turning and Wide-pager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ dengcb/weixin-reader-desktop 是一个轻量级微信读书客户端，提供了
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

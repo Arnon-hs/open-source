@@ -1,6 +1,6 @@
 # the-draupnir-project/Draupnir
 
-[![Stars](https://img.shields.io/github/stars/the-draupnir-project/Draupnir?style=flat-square&color=yellow)](https://github.com/the-draupnir-project/Draupnir/stargazers) [![Forks](https://img.shields.io/github/forks/the-draupnir-project/Draupnir?style=flat-square&color=blue)](https://github.com/the-draupnir-project/Draupnir/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/the-draupnir-project/Draupnir?style=flat-square&color=yellow)](https://github.com/the-draupnir-project/Draupnir/stargazers) [![Forks](https://img.shields.io/github/forks/the-draupnir-project/Draupnir?style=flat-square&color=blue)](https://github.com/the-draupnir-project/Draupnir/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A Matrix community management platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database
+Automation
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Draupnir 的生产可用性为中等（Medium）。它可以用于原型或内�
 | forks | 37/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

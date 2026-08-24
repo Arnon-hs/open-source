@@ -1,6 +1,6 @@
 # RelayPlane/proxy
 
-[![Stars](https://img.shields.io/github/stars/RelayPlane/proxy?style=flat-square&color=yellow)](https://github.com/RelayPlane/proxy/stargazers) [![Forks](https://img.shields.io/github/forks/RelayPlane/proxy?style=flat-square&color=blue)](https://github.com/RelayPlane/proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RelayPlane/proxy?style=flat-square&color=yellow)](https://github.com/RelayPlane/proxy/stargazers) [![Forks](https://img.shields.io/github/forks/RelayPlane/proxy?style=flat-square&color=blue)](https://github.com/RelayPlane/proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open source cost intelligence proxy for AI agents. Cut costs ~80% with smart model routing. Dashboard, policy engine, 11 providers. MIT licensed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ RelayPlane /proxy 是一个开源的 AI 成本智能代理，能够根据模�
 | forks | 36/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

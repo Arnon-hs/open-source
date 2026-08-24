@@ -1,6 +1,6 @@
 # penberg/chimera
 
-[![Stars](https://img.shields.io/github/stars/penberg/chimera?style=flat-square&color=yellow)](https://github.com/penberg/chimera/stargazers) [![Forks](https://img.shields.io/github/forks/penberg/chimera?style=flat-square&color=blue)](https://github.com/penberg/chimera/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/penberg/chimera?style=flat-square&color=yellow)](https://github.com/penberg/chimera/stargazers) [![Forks](https://img.shields.io/github/forks/penberg/chimera?style=flat-square&color=blue)](https://github.com/penberg/chimera/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Sandbox untrusted code with safe access to the host.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Chimera的生产可用性为中等。由于它的依赖和维护成本较高，�
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 60/100 |
 | adoption | 35/100 |
-| production | 66/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

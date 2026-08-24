@@ -1,6 +1,6 @@
 # simonlin1212/Vibe-Research
 
-[![Stars](https://img.shields.io/github/stars/simonlin1212/Vibe-Research?style=flat-square&color=yellow)](https://github.com/simonlin1212/Vibe-Research/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/Vibe-Research?style=flat-square&color=blue)](https://github.com/simonlin1212/Vibe-Research/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonlin1212/Vibe-Research?style=flat-square&color=yellow)](https://github.com/simonlin1212/Vibe-Research/stargazers) [![Forks](https://img.shields.io/github/forks/simonlin1212/Vibe-Research?style=flat-square&color=blue)](https://github.com/simonlin1212/Vibe-Research/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 704 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · MCP · AI/ML · Frontend · Backend
+Trading · MCP · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Vibe-Research 的生产可用性非常高。它有强大的社区支持，GitHub
 | forks | 53/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

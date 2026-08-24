@@ -1,6 +1,6 @@
 # protonpass/proton-pass-common
 
-[![Stars](https://img.shields.io/github/stars/protonpass/proton-pass-common?style=flat-square&color=yellow)](https://github.com/protonpass/proton-pass-common/stargazers) [![Forks](https://img.shields.io/github/forks/protonpass/proton-pass-common?style=flat-square&color=blue)](https://github.com/protonpass/proton-pass-common/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/protonpass/proton-pass-common?style=flat-square&color=yellow)](https://github.com/protonpass/proton-pass-common/stargazers) [![Forks](https://img.shields.io/github/forks/protonpass/proton-pass-common?style=flat-square&color=blue)](https://github.com/protonpass/proton-pass-common/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ protonpass/proton-pass-common 是一个开源项目，主要用于特定工作�
 | forks | 41/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # alexei-led/spotinfo
 
-[![Stars](https://img.shields.io/github/stars/alexei-led/spotinfo?style=flat-square&color=yellow)](https://github.com/alexei-led/spotinfo/stargazers) [![Forks](https://img.shields.io/github/forks/alexei-led/spotinfo?style=flat-square&color=blue)](https://github.com/alexei-led/spotinfo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexei-led/spotinfo?style=flat-square&color=yellow)](https://github.com/alexei-led/spotinfo/stargazers) [![Forks](https://img.shields.io/github/forks/alexei-led/spotinfo?style=flat-square&color=blue)](https://github.com/alexei-led/spotinfo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for exploring AWS EC2 Spot inventory. Inspect AWS Spot instance types, saving, price, and interruption frequency.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ alexei-led/spotinfo 的生产可用性较高，因为它有活跃的维护者，
 | forks | 28/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

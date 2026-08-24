@@ -1,6 +1,6 @@
 # ShadowWalker2014/open-sunsama
 
-[![Stars](https://img.shields.io/github/stars/ShadowWalker2014/open-sunsama?style=flat-square&color=yellow)](https://github.com/ShadowWalker2014/open-sunsama/stargazers) [![Forks](https://img.shields.io/github/forks/ShadowWalker2014/open-sunsama?style=flat-square&color=blue)](https://github.com/ShadowWalker2014/open-sunsama/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShadowWalker2014/open-sunsama?style=flat-square&color=yellow)](https://github.com/ShadowWalker2014/open-sunsama/stargazers) [![Forks](https://img.shields.io/github/forks/ShadowWalker2014/open-sunsama?style=flat-square&color=blue)](https://github.com/ShadowWalker2014/open-sunsama/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The first AI-native, open-source task manager. MCP server for Claude/Cursor, REST API, time blocking, kanban board. Self-hostable Sunsama alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,14 +128,15 @@ ShadowWalker2014/open‑sunsama 是首个面向 AI 原生的开源任务管理�
 | forks | 25/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Helweg/open-codebase-index
 
-[![Stars](https://img.shields.io/github/stars/Helweg/open-codebase-index?style=flat-square&color=yellow)](https://github.com/Helweg/open-codebase-index/stargazers) [![Forks](https://img.shields.io/github/forks/Helweg/open-codebase-index?style=flat-square&color=blue)](https://github.com/Helweg/open-codebase-index/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Helweg/open-codebase-index?style=flat-square&color=yellow)](https://github.com/Helweg/open-codebase-index/stargazers) [![Forks](https://img.shields.io/github/forks/Helweg/open-codebase-index?style=flat-square&color=blue)](https://github.com/Helweg/open-codebase-index/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic codebase indexing and search for OpenCode, Claude, Codex, Pi, Jcode, and MCP hosts. Powered by Rust and tree-sitter.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Helweg/open-codebase-index的价值在于，它帮助连接AI助手与真实工�
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

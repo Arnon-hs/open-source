@@ -1,6 +1,6 @@
 # e2b-dev/open-computer-use
 
-[![Stars](https://img.shields.io/github/stars/e2b-dev/open-computer-use?style=flat-square&color=yellow)](https://github.com/e2b-dev/open-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/open-computer-use?style=flat-square&color=blue)](https://github.com/e2b-dev/open-computer-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e2b-dev/open-computer-use?style=flat-square&color=yellow)](https://github.com/e2b-dev/open-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/open-computer-use?style=flat-square&color=blue)](https://github.com/e2b-dev/open-computer-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AI computer use powered by open source LLMs and E2B Desktop Sandbox
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ e2b-dev/open-computer-use 是一个开源项目，使用开源大语言模型 (L
 | forks | 60/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # confeden/Nova-Android
 
-[![Stars](https://img.shields.io/github/stars/confeden/Nova-Android?style=flat-square&color=yellow)](https://github.com/confeden/Nova-Android/stargazers) [![Forks](https://img.shields.io/github/forks/confeden/Nova-Android?style=flat-square&color=blue)](https://github.com/confeden/Nova-Android/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/confeden/Nova-Android?style=flat-square&color=yellow)](https://github.com/confeden/Nova-Android/stargazers) [![Forks](https://img.shields.io/github/forks/confeden/Nova-Android?style=flat-square&color=blue)](https://github.com/confeden/Nova-Android/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Обход большинства блокировок трафика в России для Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ confeden/Nova-Android是一个开源项目，专门为Android设备开发的程�
 | forks | 26/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

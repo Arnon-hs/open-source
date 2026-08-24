@@ -1,6 +1,6 @@
 # NakaokaRei/swift-mcp-gui
 
-[![Stars](https://img.shields.io/github/stars/NakaokaRei/swift-mcp-gui?style=flat-square&color=yellow)](https://github.com/NakaokaRei/swift-mcp-gui/stargazers) [![Forks](https://img.shields.io/github/forks/NakaokaRei/swift-mcp-gui?style=flat-square&color=blue)](https://github.com/NakaokaRei/swift-mcp-gui/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NakaokaRei/swift-mcp-gui?style=flat-square&color=yellow)](https://github.com/NakaokaRei/swift-mcp-gui/stargazers) [![Forks](https://img.shields.io/github/forks/NakaokaRei/swift-mcp-gui?style=flat-square&color=blue)](https://github.com/NakaokaRei/swift-mcp-gui/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that can execute commands such as keyboard input and mouse movement on macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Frontend · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ NakaokaRei/swift-mcp-gui 是一个基于 Model Context Protocol（MCP）的 macO
 | forks | 24/100 |
 | stars | 38/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 34/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

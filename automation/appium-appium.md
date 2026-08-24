@@ -1,6 +1,6 @@
 # appium/appium
 
-[![Stars](https://img.shields.io/github/stars/appium/appium?style=flat-square&color=yellow)](https://github.com/appium/appium/stargazers) [![Forks](https://img.shields.io/github/forks/appium/appium?style=flat-square&color=blue)](https://github.com/appium/appium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appium/appium?style=flat-square&color=yellow)](https://github.com/appium/appium/stargazers) [![Forks](https://img.shields.io/github/forks/appium/appium?style=flat-square&color=blue)](https://github.com/appium/appium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.7k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevTools · Database · Mobile
+Automation · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Appium的生产可用性很高，最近有活动，采用率和生态系统信�
 | forks | 95/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 82/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

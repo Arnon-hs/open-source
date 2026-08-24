@@ -1,6 +1,6 @@
 # modelcontextprotocol/php-sdk
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/php-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/php-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/php-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/php-sdk/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/php-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/php-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/php-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/php-sdk/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ modelcontextprotocol/php-sdk 是 Model Context Protocol 的官方 PHP SDK，用�
 | forks | 55/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 84/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

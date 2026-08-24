@@ -1,6 +1,6 @@
 # sinewaveai/agent-security-scanner-mcp
 
-[![Stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=flat-square&color=yellow)](https://github.com/sinewaveai/agent-security-scanner-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sinewaveai/agent-security-scanner-mcp?style=flat-square&color=blue)](https://github.com/sinewaveai/agent-security-scanner-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=flat-square&color=yellow)](https://github.com/sinewaveai/agent-security-scanner-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sinewaveai/agent-security-scanner-mcp?style=flat-square&color=blue)](https://github.com/sinewaveai/agent-security-scanner-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ packages), 1000+ vulnerability rules with AST & taint analysis, auto-fix.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 100 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Security
+MCP · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ sinewaveai/agent-security-scanner-mcp 是面向 AI 编码助手的安全扫描 M
 | forks | 26/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

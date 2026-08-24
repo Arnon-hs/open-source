@@ -1,6 +1,6 @@
 # AlexandrErohin/home-assistant-tplink-router
 
-[![Stars](https://img.shields.io/github/stars/AlexandrErohin/home-assistant-tplink-router?style=flat-square&color=yellow)](https://github.com/AlexandrErohin/home-assistant-tplink-router/stargazers) [![Forks](https://img.shields.io/github/forks/AlexandrErohin/home-assistant-tplink-router?style=flat-square&color=blue)](https://github.com/AlexandrErohin/home-assistant-tplink-router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexandrErohin/home-assistant-tplink-router?style=flat-square&color=yellow)](https://github.com/AlexandrErohin/home-assistant-tplink-router/stargazers) [![Forks](https://img.shields.io/github/forks/AlexandrErohin/home-assistant-tplink-router?style=flat-square&color=blue)](https://github.com/AlexandrErohin/home-assistant-tplink-router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant component for TP-Link and Mercusys router administration with sensors, button reboot, switches and device tracking.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ AlexandrErohin/home-assistant-tplink-router 是一个用于管理 TP-Link 和 Me
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

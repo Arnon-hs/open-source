@@ -1,6 +1,6 @@
 # JingMatrix/Vector
 
-[![Stars](https://img.shields.io/github/stars/JingMatrix/Vector?style=flat-square&color=yellow)](https://github.com/JingMatrix/Vector/stargazers) [![Forks](https://img.shields.io/github/forks/JingMatrix/Vector?style=flat-square&color=blue)](https://github.com/JingMatrix/Vector/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JingMatrix/Vector?style=flat-square&color=yellow)](https://github.com/JingMatrix/Vector/stargazers) [![Forks](https://img.shields.io/github/forks/JingMatrix/Vector?style=flat-square&color=blue)](https://github.com/JingMatrix/Vector/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Modern Xposed Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 800 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ JingMatrix/Vector 的价值在于其可以帮助开发者快速集成和定制 A
 | forks | 73/100 |
 | stars | 87/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 83/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

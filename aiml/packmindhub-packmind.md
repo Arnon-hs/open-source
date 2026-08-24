@@ -1,6 +1,6 @@
 # PackmindHub/packmind
 
-[![Stars](https://img.shields.io/github/stars/PackmindHub/packmind?style=flat-square&color=yellow)](https://github.com/PackmindHub/packmind/stargazers) [![Forks](https://img.shields.io/github/forks/PackmindHub/packmind?style=flat-square&color=blue)](https://github.com/PackmindHub/packmind/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PackmindHub/packmind?style=flat-square&color=yellow)](https://github.com/PackmindHub/packmind/stargazers) [![Forks](https://img.shields.io/github/forks/PackmindHub/packmind?style=flat-square&color=blue)](https://github.com/PackmindHub/packmind/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ PackmindHub/packmind 的生产可用性评估为高（High），主要因为：
 | forks | 30/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

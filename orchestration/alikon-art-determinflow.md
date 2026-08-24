@@ -1,6 +1,6 @@
 # alikon-art/DeterminFlow
 
-[![Stars](https://img.shields.io/github/stars/alikon-art/DeterminFlow?style=flat-square&color=yellow)](https://github.com/alikon-art/DeterminFlow/stargazers) [![Forks](https://img.shields.io/github/forks/alikon-art/DeterminFlow?style=flat-square&color=blue)](https://github.com/alikon-art/DeterminFlow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alikon-art/DeterminFlow?style=flat-square&color=yellow)](https://github.com/alikon-art/DeterminFlow/stargazers) [![Forks](https://img.shields.io/github/forks/alikon-art/DeterminFlow?style=flat-square&color=blue)](https://github.com/alikon-art/DeterminFlow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Backend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ DeterminFlow 的生产可用性非常高，具有以下优势：
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

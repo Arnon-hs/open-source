@@ -1,6 +1,6 @@
 # pastas/pastas
 
-[![Stars](https://img.shields.io/github/stars/pastas/pastas?style=flat-square&color=yellow)](https://github.com/pastas/pastas/stargazers) [![Forks](https://img.shields.io/github/forks/pastas/pastas?style=flat-square&color=blue)](https://github.com/pastas/pastas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pastas/pastas?style=flat-square&color=yellow)](https://github.com/pastas/pastas/stargazers) [![Forks](https://img.shields.io/github/forks/pastas/pastas?style=flat-square&color=blue)](https://github.com/pastas/pastas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Pastas is an open-source Python framework for the analysis of groundwater time series.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Pastas的生产可用性为中等。它适合用于原型开发或内部工作�
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

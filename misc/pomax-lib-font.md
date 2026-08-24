@@ -1,6 +1,6 @@
 # Pomax/lib-font
 
-[![Stars](https://img.shields.io/github/stars/Pomax/lib-font?style=flat-square&color=yellow)](https://github.com/Pomax/lib-font/stargazers) [![Forks](https://img.shields.io/github/forks/Pomax/lib-font?style=flat-square&color=blue)](https://github.com/Pomax/lib-font/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pomax/lib-font?style=flat-square&color=yellow)](https://github.com/Pomax/lib-font/stargazers) [![Forks](https://img.shields.io/github/forks/Pomax/lib-font?style=flat-square&color=blue)](https://github.com/Pomax/lib-font/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > This library adds a new Font() object to the JavaScript toolbox, similar to new Image() for images
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 758 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Pomax/lib-font 是一个开源 JavaScript 库，提供了一个 Font() 对象，
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

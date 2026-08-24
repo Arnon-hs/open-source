@@ -1,6 +1,6 @@
 # hasanyilmaz/operon
 
-[![Stars](https://img.shields.io/github/stars/hasanyilmaz/operon?style=flat-square&color=yellow)](https://github.com/hasanyilmaz/operon/stargazers) [![Forks](https://img.shields.io/github/forks/hasanyilmaz/operon?style=flat-square&color=blue)](https://github.com/hasanyilmaz/operon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hasanyilmaz/operon?style=flat-square&color=yellow)](https://github.com/hasanyilmaz/operon/stargazers) [![Forks](https://img.shields.io/github/forks/hasanyilmaz/operon?style=flat-square&color=blue)](https://github.com/hasanyilmaz/operon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Task management system for humans and agents in Obsidian.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ hasanyilmaz/operon 的生产可用性较高，主要原因是：
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

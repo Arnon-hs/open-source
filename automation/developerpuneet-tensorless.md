@@ -1,6 +1,6 @@
 # DeveloperPuneet/Tensorless
 
-[![Stars](https://img.shields.io/github/stars/DeveloperPuneet/Tensorless?style=flat-square&color=yellow)](https://github.com/DeveloperPuneet/Tensorless/stargazers) [![Forks](https://img.shields.io/github/forks/DeveloperPuneet/Tensorless?style=flat-square&color=blue)](https://github.com/DeveloperPuneet/Tensorless/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeveloperPuneet/Tensorless?style=flat-square&color=yellow)](https://github.com/DeveloperPuneet/Tensorless/stargazers) [![Forks](https://img.shields.io/github/forks/DeveloperPuneet/Tensorless?style=flat-square&color=blue)](https://github.com/DeveloperPuneet/Tensorless/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Tensorless is an open-source Python ML framework that automates the complex parts of model training — from data preparation and model selection to hardware detection, checkpointing, and inference. Just provide your data and let Tensorless handle the rest.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,54 +27,50 @@ Automation · AI/ML · Data
 
 ### English
 
-DeveloperPuneet/Tensorless: DeveloperPuneet/Tensorless helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DeveloperPuneet/Tensorless: . Use it for Automation, AI/ML, Data. 
 
 ### Русский
 
-DeveloperPuneet/Tensorless: open-source проект в категориях Automation, AI/ML, Data. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+DeveloperPuneet/Tensorless: open-source проект в категориях Automation, AI/ML, Data. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-DeveloperPuneet/Tensorless：DeveloperPuneet/Tensorless helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DeveloperPuneet/Tensorless：。适合用于Automation、AI/ML、Data。
 
 ## 🧭 Practical evaluation
 
-**Value:** DeveloperPuneet/Tensorless helps remove repetitive manual operations from a workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1 GitHub stars
-- updated 2026-08-23
-- primary language: Python
-- 17 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | forks | 0/100 |
-| stars | 6/100 |
+| stars | 0/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 53/100 |
+| outlook | 70/100 |
+| quality | 51/100 |
 | recency | 100/100 |
-| adoption | 5/100 |
-| production | 64/100 |
+| adoption | 0/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

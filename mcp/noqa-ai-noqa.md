@@ -1,6 +1,6 @@
 # noqa-ai/noqa
 
-[![Stars](https://img.shields.io/github/stars/noqa-ai/noqa?style=flat-square&color=yellow)](https://github.com/noqa-ai/noqa/stargazers) [![Forks](https://img.shields.io/github/forks/noqa-ai/noqa?style=flat-square&color=blue)](https://github.com/noqa-ai/noqa/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noqa-ai/noqa?style=flat-square&color=yellow)](https://github.com/noqa-ai/noqa/stargazers) [![Forks](https://img.shields.io/github/forks/noqa-ai/noqa?style=flat-square&color=blue)](https://github.com/noqa-ai/noqa/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Automated mobile testing tool with device CLI for apps and games - real devices iOS & Android. Supports native (swift, kotlin), react native, flutter, KMP, unity and any mobile apps and games.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ noqa-ai/noqa 的价值在于，它帮助连接 AI 辅助器到真实工具和数
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

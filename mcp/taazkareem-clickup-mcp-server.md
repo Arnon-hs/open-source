@@ -1,6 +1,6 @@
 # taazkareem/clickup-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/taazkareem/clickup-mcp-server?style=flat-square&color=yellow)](https://github.com/taazkareem/clickup-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/taazkareem/clickup-mcp-server?style=flat-square&color=blue)](https://github.com/taazkareem/clickup-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taazkareem/clickup-mcp-server?style=flat-square&color=yellow)](https://github.com/taazkareem/clickup-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/taazkareem/clickup-mcp-server?style=flat-square&color=blue)](https://github.com/taazkareem/clickup-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > ClickUp MCP Server - Integrate ClickUp project management with AI through Model Context Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · DevOps/Infra
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ ClickUp MCP Server（taazkareem/clickup-mcp-server）是一个开源的后端服
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

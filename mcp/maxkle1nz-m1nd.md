@@ -1,6 +1,6 @@
 # maxkle1nz/m1nd
 
-[![Stars](https://img.shields.io/github/stars/maxkle1nz/m1nd?style=flat-square&color=yellow)](https://github.com/maxkle1nz/m1nd/stargazers) [![Forks](https://img.shields.io/github/forks/maxkle1nz/m1nd?style=flat-square&color=blue)](https://github.com/maxkle1nz/m1nd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxkle1nz/m1nd?style=flat-square&color=yellow)](https://github.com/maxkle1nz/m1nd/stargazers) [![Forks](https://img.shields.io/github/forks/maxkle1nz/m1nd?style=flat-square&color=blue)](https://github.com/maxkle1nz/m1nd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The shell around your coding agent: a neuro-symbolic code graph with calibrated trust, via MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ maxkle1nz/m1nd 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

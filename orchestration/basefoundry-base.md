@@ -1,6 +1,6 @@
 # basefoundry/base
 
-[![Stars](https://img.shields.io/github/stars/basefoundry/base?style=flat-square&color=yellow)](https://github.com/basefoundry/base/stargazers) [![Forks](https://img.shields.io/github/forks/basefoundry/base?style=flat-square&color=blue)](https://github.com/basefoundry/base/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basefoundry/base?style=flat-square&color=yellow)](https://github.com/basefoundry/base/stargazers) [![Forks](https://img.shields.io/github/forks/basefoundry/base?style=flat-square&color=blue)](https://github.com/basefoundry/base/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Mac-first workspace orchestrator for bootstrapping developer environments, managing shell startup, and coordinating commands across peer project repos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ basefoundry/base 是面向 macOS 的工作区编排工具，专注于快速搭�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

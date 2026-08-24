@@ -1,6 +1,6 @@
 # earthobservations/wetterdienst
 
-[![Stars](https://img.shields.io/github/stars/earthobservations/wetterdienst?style=flat-square&color=yellow)](https://github.com/earthobservations/wetterdienst/stargazers) [![Forks](https://img.shields.io/github/forks/earthobservations/wetterdienst?style=flat-square&color=blue)](https://github.com/earthobservations/wetterdienst/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earthobservations/wetterdienst?style=flat-square&color=yellow)](https://github.com/earthobservations/wetterdienst/stargazers) [![Forks](https://img.shields.io/github/forks/earthobservations/wetterdienst?style=flat-square&color=blue)](https://github.com/earthobservations/wetterdienst/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open weather data for humans.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 450 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ earthobservations/wetterdienst 的生产可用性评估为高。它具有以下�
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

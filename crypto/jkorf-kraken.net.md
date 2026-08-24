@@ -1,6 +1,6 @@
 # JKorf/Kraken.Net
 
-[![Stars](https://img.shields.io/github/stars/JKorf/Kraken.Net?style=flat-square&color=yellow)](https://github.com/JKorf/Kraken.Net/stargazers) [![Forks](https://img.shields.io/github/forks/JKorf/Kraken.Net?style=flat-square&color=blue)](https://github.com/JKorf/Kraken.Net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JKorf/Kraken.Net?style=flat-square&color=yellow)](https://github.com/JKorf/Kraken.Net/stargazers) [![Forks](https://img.shields.io/github/forks/JKorf/Kraken.Net?style=flat-square&color=blue)](https://github.com/JKorf/Kraken.Net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A C# .netstandard client library for the Kraken REST and Websocket Spot and Futures API focusing on clear usage and models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Backend · DevTools
+Crypto · Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ JKorf/Kraken.Net 的生产可用性评级为高（High），因为它具有以�
 | forks | 46/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

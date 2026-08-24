@@ -1,6 +1,6 @@
 # metowolf/iplist
 
-[![Stars](https://img.shields.io/github/stars/metowolf/iplist?style=flat-square&color=yellow)](https://github.com/metowolf/iplist/stargazers) [![Forks](https://img.shields.io/github/forks/metowolf/iplist?style=flat-square&color=blue)](https://github.com/metowolf/iplist/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metowolf/iplist?style=flat-square&color=yellow)](https://github.com/metowolf/iplist/stargazers) [![Forks](https://img.shields.io/github/forks/metowolf/iplist?style=flat-square&color=blue)](https://github.com/metowolf/iplist/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > IP CIDRs List / IP 地址列表
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ metowolf/iplist 具有较高的生产可用性，主要原因是：
 | forks | 59/100 |
 | stars | 69/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

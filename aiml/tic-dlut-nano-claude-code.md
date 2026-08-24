@@ -1,6 +1,6 @@
 # TIC-DLUT/nano-claude-code
 
-[![Stars](https://img.shields.io/github/stars/TIC-DLUT/nano-claude-code?style=flat-square&color=yellow)](https://github.com/TIC-DLUT/nano-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/TIC-DLUT/nano-claude-code?style=flat-square&color=blue)](https://github.com/TIC-DLUT/nano-claude-code/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TIC-DLUT/nano-claude-code?style=flat-square&color=yellow)](https://github.com/TIC-DLUT/nano-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/TIC-DLUT/nano-claude-code?style=flat-square&color=blue)](https://github.com/TIC-DLUT/nano-claude-code/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 七天从零实现一个Claude Code。 Complete a Claude code from scratch in seven days.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ TIC‑DLUT/nano-claude-code 是一个用 Go 实现的轻量级 Claude‑style �
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

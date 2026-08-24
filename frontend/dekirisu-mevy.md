@@ -1,6 +1,6 @@
 # dekirisu/mevy
 
-[![Stars](https://img.shields.io/github/stars/dekirisu/mevy?style=flat-square&color=yellow)](https://github.com/dekirisu/mevy/stargazers) [![Forks](https://img.shields.io/github/forks/dekirisu/mevy?style=flat-square&color=blue)](https://github.com/dekirisu/mevy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dekirisu/mevy?style=flat-square&color=yellow)](https://github.com/dekirisu/mevy/stargazers) [![Forks](https://img.shields.io/github/forks/dekirisu/mevy?style=flat-square&color=blue)](https://github.com/dekirisu/mevy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Magical Bevy Macros: Simplified bevy_ui & bevy_ecs Syntax!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ Overall, `mevy` can accelerate UI delivery in Rust/Bevy projects, provided you s
 | forks | 8/100 |
 | stars | 45/100 |
 | topics | 50/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

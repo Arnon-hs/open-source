@@ -1,6 +1,6 @@
 # intellectronica/ruler
 
-[![Stars](https://img.shields.io/github/stars/intellectronica/ruler?style=flat-square&color=yellow)](https://github.com/intellectronica/ruler/stargazers) [![Forks](https://img.shields.io/github/forks/intellectronica/ruler?style=flat-square&color=blue)](https://github.com/intellectronica/ruler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intellectronica/ruler?style=flat-square&color=yellow)](https://github.com/intellectronica/ruler/stargazers) [![Forks](https://img.shields.io/github/forks/intellectronica/ruler?style=flat-square&color=blue)](https://github.com/intellectronica/ruler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Ruler — apply the same rules to all coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Ruler 在生产环境中的可用性较高。它有近 2800 个 GitHub 星星，
 | forks | 55/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

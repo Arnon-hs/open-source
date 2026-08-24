@@ -1,6 +1,6 @@
 # klaasnicolaas/home-assistant-glow
 
-[![Stars](https://img.shields.io/github/stars/klaasnicolaas/home-assistant-glow?style=flat-square&color=yellow)](https://github.com/klaasnicolaas/home-assistant-glow/stargazers) [![Forks](https://img.shields.io/github/forks/klaasnicolaas/home-assistant-glow?style=flat-square&color=blue)](https://github.com/klaasnicolaas/home-assistant-glow/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/klaasnicolaas/home-assistant-glow?style=flat-square&color=yellow)](https://github.com/klaasnicolaas/home-assistant-glow/stargazers) [![Forks](https://img.shields.io/github/forks/klaasnicolaas/home-assistant-glow?style=flat-square&color=blue)](https://github.com/klaasnicolaas/home-assistant-glow/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ The power of energy measurements in your house
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ klaasnicolaas/home-assistant-glow 具有高生产可用性，尤其是考虑到�
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

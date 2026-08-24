@@ -1,6 +1,6 @@
 # Sidiora-Labs/centra-llm-agents
 
-[![Stars](https://img.shields.io/github/stars/Sidiora-Labs/centra-llm-agents?style=flat-square&color=yellow)](https://github.com/Sidiora-Labs/centra-llm-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Sidiora-Labs/centra-llm-agents?style=flat-square&color=blue)](https://github.com/Sidiora-Labs/centra-llm-agents/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sidiora-Labs/centra-llm-agents?style=flat-square&color=yellow)](https://github.com/Sidiora-Labs/centra-llm-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Sidiora-Labs/centra-llm-agents?style=flat-square&color=blue)](https://github.com/Sidiora-Labs/centra-llm-agents/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Matrix by PaxLabs is a production-grade framework for building autonomous AI agents that go beyond chat! Reasoning, using tools, writing and executing code, navigating files and the web, and securely carrying out real-world workflows, including payments, on-chain operations, and smart contracts, through natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Automation · AI/ML · Frontend
+Crypto · Payments · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Sidiora-Labs/centra-llm-agents 的价值在于帮助开发者快速prototype 或
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

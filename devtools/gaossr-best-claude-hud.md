@@ -1,6 +1,6 @@
 # GaoSSR/best-claude-hud
 
-[![Stars](https://img.shields.io/github/stars/GaoSSR/best-claude-hud?style=flat-square&color=yellow)](https://github.com/GaoSSR/best-claude-hud/stargazers) [![Forks](https://img.shields.io/github/forks/GaoSSR/best-claude-hud?style=flat-square&color=blue)](https://github.com/GaoSSR/best-claude-hud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GaoSSR/best-claude-hud?style=flat-square&color=yellow)](https://github.com/GaoSSR/best-claude-hud/stargazers) [![Forks](https://img.shields.io/github/forks/GaoSSR/best-claude-hud?style=flat-square&color=blue)](https://github.com/GaoSSR/best-claude-hud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal Claude Code statusline HUD powered by Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ GaoSSR/best-claude-hud 的生产可用性为中等（Medium）。它适合用于
 | forks | 15/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

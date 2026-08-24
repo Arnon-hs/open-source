@@ -1,6 +1,6 @@
 # wasintoh/line-oa-mcp-ultimate
 
-[![Stars](https://img.shields.io/github/stars/wasintoh/line-oa-mcp-ultimate?style=flat-square&color=yellow)](https://github.com/wasintoh/line-oa-mcp-ultimate/stargazers) [![Forks](https://img.shields.io/github/forks/wasintoh/line-oa-mcp-ultimate?style=flat-square&color=blue)](https://github.com/wasintoh/line-oa-mcp-ultimate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasintoh/line-oa-mcp-ultimate?style=flat-square&color=yellow)](https://github.com/wasintoh/line-oa-mcp-ultimate/stargazers) [![Forks](https://img.shields.io/github/forks/wasintoh/line-oa-mcp-ultimate?style=flat-square&color=blue)](https://github.com/wasintoh/line-oa-mcp-ultimate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Talk to your LINE Official Account through AI. 48 tools (34 messaging + 14 LINE Shopping) — broadcasts, rich menus, Flex, coupons, insights, plus products, orders & checkout links. Works with Claude Cowork, Claude Code, Cursor & any MCP host. Zero infrastructure, free-tier ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ wasintoh/line-oa-mcp-ultimate 是一个开源项目，允许通过 AI 与 LINE O
 | forks | 35/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

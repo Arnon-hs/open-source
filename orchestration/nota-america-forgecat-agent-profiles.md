@@ -1,6 +1,6 @@
 # nota-america/forgecat-agent-profiles
 
-[![Stars](https://img.shields.io/github/stars/nota-america/forgecat-agent-profiles?style=flat-square&color=yellow)](https://github.com/nota-america/forgecat-agent-profiles/stargazers) [![Forks](https://img.shields.io/github/forks/nota-america/forgecat-agent-profiles?style=flat-square&color=blue)](https://github.com/nota-america/forgecat-agent-profiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nota-america/forgecat-agent-profiles?style=flat-square&color=yellow)](https://github.com/nota-america/forgecat-agent-profiles/stargazers) [![Forks](https://img.shields.io/github/forks/nota-america/forgecat-agent-profiles?style=flat-square&color=blue)](https://github.com/nota-america/forgecat-agent-profiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready AI agent profiles for Claude Code, Cursor, and Codex. Search, install, and contribute ForgeCat packages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Product
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Nota ForgeCat 代理配置具有
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

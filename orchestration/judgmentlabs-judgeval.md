@@ -1,6 +1,6 @@
 # JudgmentLabs/judgeval
 
-[![Stars](https://img.shields.io/github/stars/JudgmentLabs/judgeval?style=flat-square&color=yellow)](https://github.com/JudgmentLabs/judgeval/stargazers) [![Forks](https://img.shields.io/github/forks/JudgmentLabs/judgeval?style=flat-square&color=blue)](https://github.com/JudgmentLabs/judgeval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JudgmentLabs/judgeval?style=flat-square&color=yellow)](https://github.com/JudgmentLabs/judgeval/stargazers) [![Forks](https://img.shields.io/github/forks/JudgmentLabs/judgeval?style=flat-square&color=blue)](https://github.com/JudgmentLabs/judgeval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The Continuous-Improvement Stack for Agents. Our environment data and evals power agent improvement and monitoring.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Observability · Education
+Orchestration · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ JudgmentLabs/judgeval 是面向智能体（Agent）的持续改进平台，提�
 | forks | 49/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # oliver-zehentleitner/keep-the-why
 
-[![Stars](https://img.shields.io/github/stars/oliver-zehentleitner/keep-the-why?style=flat-square&color=yellow)](https://github.com/oliver-zehentleitner/keep-the-why/stargazers) [![Forks](https://img.shields.io/github/forks/oliver-zehentleitner/keep-the-why?style=flat-square&color=blue)](https://github.com/oliver-zehentleitner/keep-the-why/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oliver-zehentleitner/keep-the-why?style=flat-square&color=yellow)](https://github.com/oliver-zehentleitner/keep-the-why/stargazers) [![Forks](https://img.shields.io/github/forks/oliver-zehentleitner/keep-the-why?style=flat-square&color=blue)](https://github.com/oliver-zehentleitner/keep-the-why/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Keep the Why: a repo-native convention and agent skill that preserves the reasoning behind a codebase as a byproduct of working with your agent — so it stops re-suggesting rejected approaches, gives better answers, speeds up onboarding, and makes legacy projects tractable again.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Product
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ oliver-zehentleitner/keep-the-why：oliver-zehentleitner/keep-the-why helps turn
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

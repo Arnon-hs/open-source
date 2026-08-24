@@ -1,6 +1,6 @@
 # metorial/metorial-platform
 
-[![Stars](https://img.shields.io/github/stars/metorial/metorial-platform?style=flat-square&color=yellow)](https://github.com/metorial/metorial-platform/stargazers) [![Forks](https://img.shields.io/github/forks/metorial/metorial-platform?style=flat-square&color=blue)](https://github.com/metorial/metorial-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metorial/metorial-platform?style=flat-square&color=yellow)](https://github.com/metorial/metorial-platform/stargazers) [![Forks](https://img.shields.io/github/forks/metorial/metorial-platform?style=flat-square&color=blue)](https://github.com/metorial/metorial-platform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The engine powering hundreds of thousands of MCP connections 🤖 🔥
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database · Product
+MCP · AI/ML · Backend · Product
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ metorial/metorial-platform 是一款基于 TypeScript 实现的后端引擎，�
 | forks | 34/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

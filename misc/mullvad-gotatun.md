@@ -1,6 +1,6 @@
 # mullvad/gotatun
 
-[![Stars](https://img.shields.io/github/stars/mullvad/gotatun?style=flat-square&color=yellow)](https://github.com/mullvad/gotatun/stargazers) [![Forks](https://img.shields.io/github/forks/mullvad/gotatun?style=flat-square&color=blue)](https://github.com/mullvad/gotatun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mullvad/gotatun?style=flat-square&color=yellow)](https://github.com/mullvad/gotatun/stargazers) [![Forks](https://img.shields.io/github/forks/mullvad/gotatun?style=flat-square&color=blue)](https://github.com/mullvad/gotatun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Userspace WireGuard® Implementation in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ mullvad/gotatun 在生产环境中的可用性为中等。它可以用于构建�
 | forks | 42/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

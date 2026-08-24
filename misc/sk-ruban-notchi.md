@@ -1,6 +1,6 @@
 # sk-ruban/notchi
 
-[![Stars](https://img.shields.io/github/stars/sk-ruban/notchi?style=flat-square&color=yellow)](https://github.com/sk-ruban/notchi/stargazers) [![Forks](https://img.shields.io/github/forks/sk-ruban/notchi?style=flat-square&color=blue)](https://github.com/sk-ruban/notchi/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sk-ruban/notchi?style=flat-square&color=yellow)](https://github.com/sk-ruban/notchi/stargazers) [![Forks](https://img.shields.io/github/forks/sk-ruban/notchi?style=flat-square&color=blue)](https://github.com/sk-ruban/notchi/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > notch app for claude code & codex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 943 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ sk-ruban/notchi 是一个针对 Claude Code & Codex 的 Notch 应用程序，旨
 | forks | 46/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

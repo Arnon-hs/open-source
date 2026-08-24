@@ -1,6 +1,6 @@
 # xxxily/hello-ai
 
-[![Stars](https://img.shields.io/github/stars/xxxily/hello-ai?style=flat-square&color=yellow)](https://github.com/xxxily/hello-ai/stargazers) [![Forks](https://img.shields.io/github/forks/xxxily/hello-ai?style=flat-square&color=blue)](https://github.com/xxxily/hello-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xxxily/hello-ai?style=flat-square&color=yellow)](https://github.com/xxxily/hello-ai/stargazers) [![Forks](https://img.shields.io/github/forks/xxxily/hello-ai?style=flat-square&color=blue)](https://github.com/xxxily/hello-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-Body Problem".         中文说明： 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ xxxily/hello-ai 能让开发者快速为项目注入 AI 能力，无需从零搭
 | forks | 53/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

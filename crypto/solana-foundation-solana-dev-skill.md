@@ -1,6 +1,6 @@
 # solana-foundation/solana-dev-skill
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/solana-dev-skill?style=flat-square&color=yellow)](https://github.com/solana-foundation/solana-dev-skill/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/solana-dev-skill?style=flat-square&color=blue)](https://github.com/solana-foundation/solana-dev-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/solana-dev-skill?style=flat-square&color=yellow)](https://github.com/solana-foundation/solana-dev-skill/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/solana-dev-skill?style=flat-square&color=blue)](https://github.com/solana-foundation/solana-dev-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Skills for agentic development on Solana
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ solana-foundation/solana-dev-skill 是一个开源项目，旨在帮助开发者
 | forks | 52/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

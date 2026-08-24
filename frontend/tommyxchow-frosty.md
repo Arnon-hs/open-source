@@ -1,6 +1,6 @@
 # tommyxchow/frosty
 
-[![Stars](https://img.shields.io/github/stars/tommyxchow/frosty?style=flat-square&color=yellow)](https://github.com/tommyxchow/frosty/stargazers) [![Forks](https://img.shields.io/github/forks/tommyxchow/frosty?style=flat-square&color=blue)](https://github.com/tommyxchow/frosty/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tommyxchow/frosty?style=flat-square&color=yellow)](https://github.com/tommyxchow/frosty/stargazers) [![Forks](https://img.shields.io/github/forks/tommyxchow/frosty?style=flat-square&color=blue)](https://github.com/tommyxchow/frosty/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile · Education
+Frontend · Mobile · Education
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ tommyxchow/frosty 的生产可用性很高，主要原因是：
 | forks | 46/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 77/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

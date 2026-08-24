@@ -1,6 +1,6 @@
 # beltagyy/job-digest
 
-[![Stars](https://img.shields.io/github/stars/beltagyy/job-digest?style=flat-square&color=yellow)](https://github.com/beltagyy/job-digest.git/stargazers) [![Forks](https://img.shields.io/github/forks/beltagyy/job-digest?style=flat-square&color=blue)](https://github.com/beltagyy/job-digest.git/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beltagyy/job-digest?style=flat-square&color=yellow)](https://github.com/beltagyy/job-digest.git/stargazers) [![Forks](https://img.shields.io/github/forks/beltagyy/job-digest?style=flat-square&color=blue)](https://github.com/beltagyy/job-digest.git/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Backend
+Automation
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Automation · Frontend · Backend
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 30/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 43/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

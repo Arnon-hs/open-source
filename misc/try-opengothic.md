@@ -1,6 +1,6 @@
 # Try/OpenGothic
 
-[![Stars](https://img.shields.io/github/stars/Try/OpenGothic?style=flat-square&color=yellow)](https://github.com/Try/OpenGothic/stargazers) [![Forks](https://img.shields.io/github/forks/Try/OpenGothic?style=flat-square&color=blue)](https://github.com/Try/OpenGothic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Try/OpenGothic?style=flat-square&color=yellow)](https://github.com/Try/OpenGothic/stargazers) [![Forks](https://img.shields.io/github/forks/Try/OpenGothic?style=flat-square&color=blue)](https://github.com/Try/OpenGothic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Reimplementation of Gothic 2 Notr
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,14 +74,15 @@ Try/OpenGothic 是一个开源项目，重现了 Gothic 2 Notr 的功能。它�
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

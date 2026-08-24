@@ -1,6 +1,6 @@
 # pocketbase/dart-sdk
 
-[![Stars](https://img.shields.io/github/stars/pocketbase/dart-sdk?style=flat-square&color=yellow)](https://github.com/pocketbase/dart-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/pocketbase/dart-sdk?style=flat-square&color=blue)](https://github.com/pocketbase/dart-sdk/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pocketbase/dart-sdk?style=flat-square&color=yellow)](https://github.com/pocketbase/dart-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/pocketbase/dart-sdk?style=flat-square&color=blue)](https://github.com/pocketbase/dart-sdk/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > PocketBase Dart SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 716 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ PocketBase Dart SDK 的生产可用性为中等（Medium）。它可以用于原
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

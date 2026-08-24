@@ -1,6 +1,6 @@
 # schombert/Project-Alice
 
-[![Stars](https://img.shields.io/github/stars/schombert/Project-Alice?style=flat-square&color=yellow)](https://github.com/schombert/Project-Alice/stargazers) [![Forks](https://img.shields.io/github/forks/schombert/Project-Alice?style=flat-square&color=blue)](https://github.com/schombert/Project-Alice/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schombert/Project-Alice?style=flat-square&color=yellow)](https://github.com/schombert/Project-Alice/stargazers) [![Forks](https://img.shields.io/github/forks/schombert/Project-Alice?style=flat-square&color=blue)](https://github.com/schombert/Project-Alice/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source game
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 532 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ schombert/Project-Alice 是一个开源的 C++ 游戏项目，拥有 532 颗星�
 | forks | 49/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Nukesor/pueue
 
-[![Stars](https://img.shields.io/github/stars/Nukesor/pueue?style=flat-square&color=yellow)](https://github.com/Nukesor/pueue/stargazers) [![Forks](https://img.shields.io/github/forks/Nukesor/pueue?style=flat-square&color=blue)](https://github.com/Nukesor/pueue/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nukesor/pueue?style=flat-square&color=yellow)](https://github.com/Nukesor/pueue/stargazers) [![Forks](https://img.shields.io/github/forks/Nukesor/pueue?style=flat-square&color=blue)](https://github.com/Nukesor/pueue/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > :stars: Manage your shell commands.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Nukesor/pueue 的生产可用性非常高。它有近 6.3 万个 GitHub 星标�
 | forks | 55/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

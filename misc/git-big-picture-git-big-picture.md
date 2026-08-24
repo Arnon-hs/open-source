@@ -1,6 +1,6 @@
 # git-big-picture/git-big-picture
 
-[![Stars](https://img.shields.io/github/stars/git-big-picture/git-big-picture?style=flat-square&color=yellow)](https://github.com/git-big-picture/git-big-picture/stargazers) [![Forks](https://img.shields.io/github/forks/git-big-picture/git-big-picture?style=flat-square&color=blue)](https://github.com/git-big-picture/git-big-picture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/git-big-picture/git-big-picture?style=flat-square&color=yellow)](https://github.com/git-big-picture/git-big-picture/stargazers) [![Forks](https://img.shields.io/github/forks/git-big-picture/git-big-picture?style=flat-square&color=blue)](https://github.com/git-big-picture/git-big-picture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > :octopus: Git — the big picture
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ git-big-picture/git-big-picture 的价值在于，它可以帮助开发者更好
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

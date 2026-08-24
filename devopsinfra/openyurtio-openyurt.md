@@ -1,6 +1,6 @@
 # openyurtio/openyurt
 
-[![Stars](https://img.shields.io/github/stars/openyurtio/openyurt?style=flat-square&color=yellow)](https://github.com/openyurtio/openyurt/stargazers) [![Forks](https://img.shields.io/github/forks/openyurtio/openyurt?style=flat-square&color=blue)](https://github.com/openyurtio/openyurt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openyurtio/openyurt?style=flat-square&color=yellow)](https://github.com/openyurtio/openyurt/stargazers) [![Forks](https://img.shields.io/github/forks/openyurtio/openyurt?style=flat-square&color=blue)](https://github.com/openyurtio/openyurt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 479 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ OpenYurt 通过在原生 Kubernetes 上添加边缘计算能力，使得部署�
 | forks | 67/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

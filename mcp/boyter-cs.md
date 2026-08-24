@@ -1,6 +1,6 @@
 # boyter/cs
 
-[![Stars](https://img.shields.io/github/stars/boyter/cs?style=flat-square&color=yellow)](https://github.com/boyter/cs/stargazers) [![Forks](https://img.shields.io/github/forks/boyter/cs?style=flat-square&color=blue)](https://github.com/boyter/cs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boyter/cs?style=flat-square&color=yellow)](https://github.com/boyter/cs/stargazers) [![Forks](https://img.shields.io/github/forks/boyter/cs?style=flat-square&color=blue)](https://github.com/boyter/cs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · DevTools
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ boyter/cs（codespelunker）是一款基于 CLI 的代码搜索工具，能够�
 | forks | 32/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

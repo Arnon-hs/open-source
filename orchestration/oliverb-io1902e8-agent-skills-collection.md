@@ -1,6 +1,6 @@
 # oliverb-io1902e8/agent-skills-collection
 
-[![Stars](https://img.shields.io/github/stars/oliverb-io1902e8/agent-skills-collection?style=flat-square&color=yellow)](https://github.com/oliverb-io1902e8/agent-skills-collection/stargazers) [![Forks](https://img.shields.io/github/forks/oliverb-io1902e8/agent-skills-collection?style=flat-square&color=blue)](https://github.com/oliverb-io1902e8/agent-skills-collection/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oliverb-io1902e8/agent-skills-collection?style=flat-square&color=yellow)](https://github.com/oliverb-io1902e8/agent-skills-collection/stargazers) [![Forks](https://img.shields.io/github/forks/oliverb-io1902e8/agent-skills-collection?style=flat-square&color=blue)](https://github.com/oliverb-io1902e8/agent-skills-collection/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Curated collection of modular agent skills for LLM-based agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ agent-skills-collection 的生产可用性为中等水平。由于项目依赖�
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

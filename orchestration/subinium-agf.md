@@ -1,6 +1,6 @@
 # subinium/agf
 
-[![Stars](https://img.shields.io/github/stars/subinium/agf?style=flat-square&color=yellow)](https://github.com/subinium/agf/stargazers) [![Forks](https://img.shields.io/github/forks/subinium/agf?style=flat-square&color=blue)](https://github.com/subinium/agf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/subinium/agf?style=flat-square&color=yellow)](https://github.com/subinium/agf/stargazers) [![Forks](https://img.shields.io/github/forks/subinium/agf?style=flat-square&color=blue)](https://github.com/subinium/agf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Session Finder — TUI to find, resume and manage sessions across Claude Code, Codex, Gemini, Kiro, OpenCode, Cursor, pi, Hermes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -89,14 +89,15 @@ subinium/agf 的生产可用性为中等。这意味着它适合用于原型或�
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

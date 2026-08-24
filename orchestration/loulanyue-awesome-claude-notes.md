@@ -1,6 +1,6 @@
 # loulanyue/awesome-claude-notes
 
-[![Stars](https://img.shields.io/github/stars/loulanyue/awesome-claude-notes?style=flat-square&color=yellow)](https://github.com/loulanyue/awesome-claude-notes/stargazers) [![Forks](https://img.shields.io/github/forks/loulanyue/awesome-claude-notes?style=flat-square&color=blue)](https://github.com/loulanyue/awesome-claude-notes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/loulanyue/awesome-claude-notes?style=flat-square&color=yellow)](https://github.com/loulanyue/awesome-claude-notes/stargazers) [![Forks](https://img.shields.io/github/forks/loulanyue/awesome-claude-notes?style=flat-square&color=blue)](https://github.com/loulanyue/awesome-claude-notes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Community-maintained distribution of reusable AI coding agents, commands, skills, hooks, and cross-harness workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ loulanyue/awesome-claude-notes 是一个开源项目，提供了可重用的 AI 
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

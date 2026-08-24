@@ -1,6 +1,6 @@
 # heroku/cli
 
-[![Stars](https://img.shields.io/github/stars/heroku/cli?style=flat-square&color=yellow)](https://github.com/heroku/cli/stargazers) [![Forks](https://img.shields.io/github/forks/heroku/cli?style=flat-square&color=blue)](https://github.com/heroku/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heroku/cli?style=flat-square&color=yellow)](https://github.com/heroku/cli/stargazers) [![Forks](https://img.shields.io/github/forks/heroku/cli?style=flat-square&color=blue)](https://github.com/heroku/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Heroku CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Heroku CLI（heroku/cli）是 Heroku 官方提供的命令行工具，使用 Typ
 | forks | 59/100 |
 | stars | 63/100 |
 | topics | 25/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

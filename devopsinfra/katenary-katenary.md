@@ -1,6 +1,6 @@
 # Katenary/katenary
 
-[![Stars](https://img.shields.io/github/stars/Katenary/katenary?style=flat-square&color=yellow)](https://github.com/Katenary/katenary/stargazers) [![Forks](https://img.shields.io/github/forks/Katenary/katenary?style=flat-square&color=blue)](https://github.com/Katenary/katenary/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Katenary/katenary?style=flat-square&color=yellow)](https://github.com/Katenary/katenary/stargazers) [![Forks](https://img.shields.io/github/forks/Katenary/katenary?style=flat-square&color=blue)](https://github.com/Katenary/katenary/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Convert docker and podamn compose to a configurable helm chart
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Katenary/katenary 的生产可用性很高，理由如下：
 | forks | 29/100 |
 | stars | 50/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # metacontroller/metacontroller
 
-[![Stars](https://img.shields.io/github/stars/metacontroller/metacontroller?style=flat-square&color=yellow)](https://github.com/metacontroller/metacontroller/stargazers) [![Forks](https://img.shields.io/github/forks/metacontroller/metacontroller?style=flat-square&color=blue)](https://github.com/metacontroller/metacontroller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metacontroller/metacontroller?style=flat-square&color=yellow)](https://github.com/metacontroller/metacontroller/stargazers) [![Forks](https://img.shields.io/github/forks/metacontroller/metacontroller?style=flat-square&color=blue)](https://github.com/metacontroller/metacontroller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Writing kubernetes controllers can be simple
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 995 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ metacontroller/metacontroller 的生产可用性较高，主要原因是：
 | forks | 51/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

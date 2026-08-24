@@ -1,6 +1,6 @@
 # fellowgeek/in-meeting
 
-[![Stars](https://img.shields.io/github/stars/fellowgeek/in-meeting?style=flat-square&color=yellow)](https://github.com/fellowgeek/in-meeting/stargazers) [![Forks](https://img.shields.io/github/forks/fellowgeek/in-meeting?style=flat-square&color=blue)](https://github.com/fellowgeek/in-meeting/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fellowgeek/in-meeting?style=flat-square&color=yellow)](https://github.com/fellowgeek/in-meeting/stargazers) [![Forks](https://img.shields.io/github/forks/fellowgeek/in-meeting?style=flat-square&color=blue)](https://github.com/fellowgeek/in-meeting/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend
+Automation
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Show HN: In Meeting 是一个开源项目，旨在为 macOS 用户提供一个�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 36/100 |
+| quality | 26/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 38/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

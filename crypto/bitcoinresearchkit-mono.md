@@ -1,6 +1,6 @@
 # bitcoinresearchkit/mono
 
-[![Stars](https://img.shields.io/github/stars/bitcoinresearchkit/mono?style=flat-square&color=yellow)](https://github.com/bitcoinresearchkit/mono/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoinresearchkit/mono?style=flat-square&color=blue)](https://github.com/bitcoinresearchkit/mono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitcoinresearchkit/mono?style=flat-square&color=yellow)](https://github.com/bitcoinresearchkit/mono/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoinresearchkit/mono?style=flat-square&color=blue)](https://github.com/bitcoinresearchkit/mono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcoin Research Kit's monorepo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend · Data
+Crypto · Backend · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Bitcoin Research Kit's mono 提供开源的区块链工作流原型和检查工�
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

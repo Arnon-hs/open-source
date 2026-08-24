@@ -1,6 +1,6 @@
 # CMSgov/design-system
 
-[![Stars](https://img.shields.io/github/stars/CMSgov/design-system?style=flat-square&color=yellow)](https://github.com/CMSgov/design-system/stargazers) [![Forks](https://img.shields.io/github/forks/CMSgov/design-system?style=flat-square&color=blue)](https://github.com/CMSgov/design-system/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CMSgov/design-system?style=flat-square&color=yellow)](https://github.com/CMSgov/design-system/stargazers) [![Forks](https://img.shields.io/github/forks/CMSgov/design-system?style=flat-square&color=blue)](https://github.com/CMSgov/design-system/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open source design and front-end development resources for creating Section 508 compliant, responsive, and consistent websites.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ CMSgov/design-system 是一套开源的设计与前端开发资源库，提供�
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Paca-AI/paca
 
-[![Stars](https://img.shields.io/github/stars/Paca-AI/paca?style=flat-square&color=yellow)](https://github.com/Paca-AI/paca/stargazers) [![Forks](https://img.shields.io/github/forks/Paca-AI/paca?style=flat-square&color=blue)](https://github.com/Paca-AI/paca/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Paca-AI/paca?style=flat-square&color=yellow)](https://github.com/Paca-AI/paca/stargazers) [![Forks](https://img.shields.io/github/forks/Paca-AI/paca?style=flat-square&color=blue)](https://github.com/Paca-AI/paca/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Paca（GitHub Paca‑AI/paca）是一款 AI 原生、免费开源的项目管�
 | forks | 47/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

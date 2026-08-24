@@ -1,6 +1,6 @@
 # guybedford/es-module-shims
 
-[![Stars](https://img.shields.io/github/stars/guybedford/es-module-shims?style=flat-square&color=yellow)](https://github.com/guybedford/es-module-shims/stargazers) [![Forks](https://img.shields.io/github/forks/guybedford/es-module-shims?style=flat-square&color=blue)](https://github.com/guybedford/es-module-shims/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guybedford/es-module-shims?style=flat-square&color=yellow)](https://github.com/guybedford/es-module-shims/stargazers) [![Forks](https://img.shields.io/github/forks/guybedford/es-module-shims?style=flat-square&color=blue)](https://github.com/guybedford/es-module-shims/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Shims for new ES modules features on top of the basic modules support in browsers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ guybedford/es-module-shims 是一个开源项目，提供了对浏览器基本�
 | forks | 50/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # GDKsoftware/Delphi-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/GDKsoftware/Delphi-MCP-Server?style=flat-square&color=yellow)](https://github.com/GDKsoftware/Delphi-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/GDKsoftware/Delphi-MCP-Server?style=flat-square&color=blue)](https://github.com/GDKsoftware/Delphi-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GDKsoftware/Delphi-MCP-Server?style=flat-square&color=yellow)](https://github.com/GDKsoftware/Delphi-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/GDKsoftware/Delphi-MCP-Server?style=flat-square&color=blue)](https://github.com/GDKsoftware/Delphi-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Native Delphi Server implementation of the Model Context Protocol (MCP)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ GDKsoftware/Delphi-MCP-Server是一个开源项目，实现了Model Context Prot
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

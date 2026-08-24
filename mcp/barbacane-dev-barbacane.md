@@ -1,6 +1,6 @@
 # barbacane-dev/barbacane
 
-[![Stars](https://img.shields.io/github/stars/barbacane-dev/barbacane?style=flat-square&color=yellow)](https://github.com/barbacane-dev/barbacane/stargazers) [![Forks](https://img.shields.io/github/forks/barbacane-dev/barbacane?style=flat-square&color=blue)](https://github.com/barbacane-dev/barbacane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barbacane-dev/barbacane?style=flat-square&color=yellow)](https://github.com/barbacane-dev/barbacane/stargazers) [![Forks](https://img.shields.io/github/forks/barbacane-dev/barbacane?style=flat-square&color=blue)](https://github.com/barbacane-dev/barbacane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Barbacane API and Bidirectional AI Gateway
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Barbacane 的生产可用性为中等。它适合用于原型或内部工作流�
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # serejaris/personal-corp-os
 
-[![Stars](https://img.shields.io/github/stars/serejaris/personal-corp-os?style=flat-square&color=yellow)](https://github.com/serejaris/personal-corp-os/stargazers) [![Forks](https://img.shields.io/github/forks/serejaris/personal-corp-os?style=flat-square&color=blue)](https://github.com/serejaris/personal-corp-os/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serejaris/personal-corp-os?style=flat-square&color=yellow)](https://github.com/serejaris/personal-corp-os/stargazers) [![Forks](https://img.shields.io/github/forks/serejaris/personal-corp-os?style=flat-square&color=blue)](https://github.com/serejaris/personal-corp-os/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Personal Corp OS — управление личной компанией через AI-агентов: задачи вне головы, отделы вместо памяти, недельное ретро. Открытые скиллы для Claude Code и Codex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Product
+Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Personal Corp OS 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 36/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 60/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

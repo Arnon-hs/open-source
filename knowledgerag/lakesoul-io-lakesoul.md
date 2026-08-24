@@ -1,6 +1,6 @@
 # lakesoul-io/LakeSoul
 
-[![Stars](https://img.shields.io/github/stars/lakesoul-io/LakeSoul?style=flat-square&color=yellow)](https://github.com/lakesoul-io/LakeSoul/stargazers) [![Forks](https://img.shields.io/github/forks/lakesoul-io/LakeSoul?style=flat-square&color=blue)](https://github.com/lakesoul-io/LakeSoul/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lakesoul-io/LakeSoul?style=flat-square&color=yellow)](https://github.com/lakesoul-io/LakeSoul/stargazers) [![Forks](https://img.shields.io/github/forks/lakesoul-io/LakeSoul?style=flat-square&color=blue)](https://github.com/lakesoul-io/LakeSoul/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > LakeSoul is an end-to-end, realtime cloud-native Lakehouse framework for fast data ingestion, concurrent updates, incremental analytics, multimodal data processing and vector search — powering next-generation BI and AI workloads.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 421 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database · Marketing
+Knowledge/RAG · Data · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ lakesoul-io/LakeSoul：lakesoul-io/LakeSoul helps make internal knowledge search
 | forks | 66/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 78/100 |
+| quality | 82/100 |
+| recency | 80/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

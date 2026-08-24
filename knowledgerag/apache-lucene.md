@@ -1,6 +1,6 @@
 # apache/lucene
 
-[![Stars](https://img.shields.io/github/stars/apache/lucene?style=flat-square&color=yellow)](https://github.com/apache/lucene/stargazers) [![Forks](https://img.shields.io/github/forks/apache/lucene?style=flat-square&color=blue)](https://github.com/apache/lucene/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/lucene?style=flat-square&color=yellow)](https://github.com/apache/lucene/stargazers) [![Forks](https://img.shields.io/github/forks/apache/lucene?style=flat-square&color=blue)](https://github.com/apache/lucene/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Lucene open-source search software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Backend · Database
+Knowledge/RAG · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Apache Lucene 的生产可用性很高，因为它有活跃的社区，强大的
 | forks | 79/100 |
 | stars | 75/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

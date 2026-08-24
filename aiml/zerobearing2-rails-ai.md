@@ -1,6 +1,6 @@
 # zerobearing2/rails-ai
 
-[![Stars](https://img.shields.io/github/stars/zerobearing2/rails-ai?style=flat-square&color=yellow)](https://github.com/zerobearing2/rails-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zerobearing2/rails-ai?style=flat-square&color=blue)](https://github.com/zerobearing2/rails-ai/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zerobearing2/rails-ai?style=flat-square&color=yellow)](https://github.com/zerobearing2/rails-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zerobearing2/rails-ai?style=flat-square&color=blue)](https://github.com/zerobearing2/rails-ai/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated Rails AI agent system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ zerobearing2/rails-ai：zerobearing2/rails-ai helps add AI capability without st
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 47/100 |
+| recency | 80/100 |
 | adoption | 27/100 |
-| production | 64/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

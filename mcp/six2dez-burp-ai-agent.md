@@ -1,6 +1,6 @@
 # six2dez/burp-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/six2dez/burp-ai-agent?style=flat-square&color=yellow)](https://github.com/six2dez/burp-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/six2dez/burp-ai-agent?style=flat-square&color=blue)](https://github.com/six2dez/burp-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/six2dez/burp-ai-agent?style=flat-square&color=yellow)](https://github.com/six2dez/burp-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/six2dez/burp-ai-agent?style=flat-square&color=blue)](https://github.com/six2dez/burp-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Security
+MCP · AI/ML · Security
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ To adopt six2dez/burp-ai-agent, users can follow these steps:
 | forks | 58/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

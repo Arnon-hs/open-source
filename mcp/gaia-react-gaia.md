@@ -1,6 +1,6 @@
 # gaia-react/gaia
 
-[![Stars](https://img.shields.io/github/stars/gaia-react/gaia?style=flat-square&color=yellow)](https://github.com/gaia-react/gaia/stargazers) [![Forks](https://img.shields.io/github/forks/gaia-react/gaia?style=flat-square&color=blue)](https://github.com/gaia-react/gaia/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaia-react/gaia?style=flat-square&color=yellow)](https://github.com/gaia-react/gaia/stargazers) [![Forks](https://img.shields.io/github/forks/gaia-react/gaia?style=flat-square&color=blue)](https://github.com/gaia-react/gaia/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict tooling, pre-commit gates, code-review audit before every merge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Gaia的生产可用性为中等。它适合用于原型开发或内部工作流�
 | forks | 15/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

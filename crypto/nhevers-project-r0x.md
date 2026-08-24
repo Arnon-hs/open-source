@@ -1,6 +1,6 @@
 # nhevers/project-r0x
 
-[![Stars](https://img.shields.io/github/stars/nhevers/project-r0x?style=flat-square&color=yellow)](https://github.com/nhevers/project-r0x/stargazers) [![Forks](https://img.shields.io/github/forks/nhevers/project-r0x?style=flat-square&color=blue)](https://github.com/nhevers/project-r0x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nhevers/project-r0x?style=flat-square&color=yellow)](https://github.com/nhevers/project-r0x/stargazers) [![Forks](https://img.shields.io/github/forks/nhevers/project-r0x?style=flat-square&color=blue)](https://github.com/nhevers/project-r0x/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ nhevers/project-r0x 是一个开源项目，提供了 r0x x402 facilitator 的�
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

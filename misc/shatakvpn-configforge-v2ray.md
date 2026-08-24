@@ -1,6 +1,6 @@
 # ShatakVPN/ConfigForge-V2Ray
 
-[![Stars](https://img.shields.io/github/stars/ShatakVPN/ConfigForge-V2Ray?style=flat-square&color=yellow)](https://github.com/ShatakVPN/ConfigForge-V2Ray/stargazers) [![Forks](https://img.shields.io/github/forks/ShatakVPN/ConfigForge-V2Ray?style=flat-square&color=blue)](https://github.com/ShatakVPN/ConfigForge-V2Ray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShatakVPN/ConfigForge-V2Ray?style=flat-square&color=yellow)](https://github.com/ShatakVPN/ConfigForge-V2Ray/stargazers) [![Forks](https://img.shields.io/github/forks/ShatakVPN/ConfigForge-V2Ray?style=flat-square&color=blue)](https://github.com/ShatakVPN/ConfigForge-V2Ray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful tool to automatically download, parse, and organize VPN configurations (VLESS, VMess, Shadowsocks, etc.) and push updates to GitHub.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ ShatakVPN/ConfigForge-V2Ray：ShatakVPN/ConfigForge-V2Ray may be useful when its
 | forks | 48/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

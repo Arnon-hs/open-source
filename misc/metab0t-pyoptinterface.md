@@ -1,6 +1,6 @@
 # metab0t/PyOptInterface
 
-[![Stars](https://img.shields.io/github/stars/metab0t/PyOptInterface?style=flat-square&color=yellow)](https://github.com/metab0t/PyOptInterface/stargazers) [![Forks](https://img.shields.io/github/forks/metab0t/PyOptInterface?style=flat-square&color=blue)](https://github.com/metab0t/PyOptInterface/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metab0t/PyOptInterface?style=flat-square&color=yellow)](https://github.com/metab0t/PyOptInterface/stargazers) [![Forks](https://img.shields.io/github/forks/metab0t/PyOptInterface?style=flat-square&color=blue)](https://github.com/metab0t/PyOptInterface/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Efficient modeling interface for mathematical optimization in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ metab0t/PyOptInterface 的生产可用性很高，因为它有活跃的维护者
 | forks | 36/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

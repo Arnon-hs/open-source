@@ -1,6 +1,6 @@
 # w1ckedxt/cynical-sally
 
-[![Stars](https://img.shields.io/github/stars/w1ckedxt/cynical-sally?style=flat-square&color=yellow)](https://github.com/w1ckedxt/cynical-sally/stargazers) [![Forks](https://img.shields.io/github/forks/w1ckedxt/cynical-sally?style=flat-square&color=blue)](https://github.com/w1ckedxt/cynical-sally/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/w1ckedxt/cynical-sally?style=flat-square&color=yellow)](https://github.com/w1ckedxt/cynical-sally/stargazers) [![Forks](https://img.shields.io/github/forks/w1ckedxt/cynical-sally?style=flat-square&color=blue)](https://github.com/w1ckedxt/cynical-sally/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Brutally honest senior-engineer code reviews for Claude Code, Cursor & Windsurf -  and your terminal. Scores, evidence-backed issues, usable fixes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ w1ckedxt/cynical-sally 是一个面向 Claude、Cursor、Windsurf 以及本地�
 | forks | 21/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

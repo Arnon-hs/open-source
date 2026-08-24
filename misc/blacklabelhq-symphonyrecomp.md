@@ -1,6 +1,6 @@
 # BlackLabelHQ/SymphonyRecomp
 
-[![Stars](https://img.shields.io/github/stars/BlackLabelHQ/SymphonyRecomp?style=flat-square&color=yellow)](https://github.com/BlackLabelHQ/SymphonyRecomp/stargazers) [![Forks](https://img.shields.io/github/forks/BlackLabelHQ/SymphonyRecomp?style=flat-square&color=blue)](https://github.com/BlackLabelHQ/SymphonyRecomp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlackLabelHQ/SymphonyRecomp?style=flat-square&color=yellow)](https://github.com/BlackLabelHQ/SymphonyRecomp/stargazers) [![Forks](https://img.shields.io/github/forks/BlackLabelHQ/SymphonyRecomp?style=flat-square&color=blue)](https://github.com/BlackLabelHQ/SymphonyRecomp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Recompilation project for Castlevania: Symphony of the Night
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ BlackLabelHQ/SymphonyRecomp 是 Castlevania: Symphony of the Night 的重新编�
 | forks | 27/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

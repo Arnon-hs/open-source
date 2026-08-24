@@ -1,6 +1,6 @@
 # ThibautMelen/agentic-ai-systems
 
-[![Stars](https://img.shields.io/github/stars/ThibautMelen/agentic-ai-systems?style=flat-square&color=yellow)](https://github.com/ThibautMelen/agentic-ai-systems/stargazers) [![Forks](https://img.shields.io/github/forks/ThibautMelen/agentic-ai-systems?style=flat-square&color=blue)](https://github.com/ThibautMelen/agentic-ai-systems/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThibautMelen/agentic-ai-systems?style=flat-square&color=yellow)](https://github.com/ThibautMelen/agentic-ai-systems/stargazers) [![Forks](https://img.shields.io/github/forks/ThibautMelen/agentic-ai-systems?style=flat-square&color=blue)](https://github.com/ThibautMelen/agentic-ai-systems/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🐔 Agentic systems explained with chickens — the 2024 taxonomy + the 2026 canon (context engineering, skills, MCP, harnesses). Every pattern as a runnable, CI-checked file. Mermaid everywhere.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Design
+Orchestration · MCP · AI/ML · Design
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ ThibautMelen/agentic-ai-systems是一个开源项目，旨在通过使用鸡的�
 | forks | 38/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

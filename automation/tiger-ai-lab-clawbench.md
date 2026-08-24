@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/ClawBench
 
-[![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=flat-square&color=yellow)](https://github.com/TIGER-AI-Lab/ClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/TIGER-AI-Lab/ClawBench?style=flat-square&color=blue)](https://github.com/TIGER-AI-Lab/ClawBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=flat-square&color=yellow)](https://github.com/TIGER-AI-Lab/ClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/TIGER-AI-Lab/ClawBench?style=flat-square&color=blue)](https://github.com/TIGER-AI-Lab/ClawBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source benchmark for browser AI agents on daily tasks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ TIGER‑AI‑Lab/ClawBench 是一个开源基准套件，用于评估浏览器 A
 | forks | 35/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

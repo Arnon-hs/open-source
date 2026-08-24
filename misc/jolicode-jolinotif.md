@@ -1,6 +1,6 @@
 # jolicode/JoliNotif
 
-[![Stars](https://img.shields.io/github/stars/jolicode/JoliNotif?style=flat-square&color=yellow)](https://github.com/jolicode/JoliNotif/stargazers) [![Forks](https://img.shields.io/github/forks/jolicode/JoliNotif?style=flat-square&color=blue)](https://github.com/jolicode/JoliNotif/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jolicode/JoliNotif?style=flat-square&color=yellow)](https://github.com/jolicode/JoliNotif/stargazers) [![Forks](https://img.shields.io/github/forks/jolicode/JoliNotif?style=flat-square&color=blue)](https://github.com/jolicode/JoliNotif/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🖥️ Send notifications to your desktop directly from your PHP script
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ jolicode/JoliNotif 的生产可用性为中等。它已经有较高的 GitHub �
 | forks | 50/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

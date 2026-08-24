@@ -1,6 +1,6 @@
 # hih24337/tabb2
 
-[![Stars](https://img.shields.io/github/stars/hih24337/tabb2?style=flat-square&color=yellow)](https://github.com/hih24337/tabb2/stargazers) [![Forks](https://img.shields.io/github/forks/hih24337/tabb2?style=flat-square&color=blue)](https://github.com/hih24337/tabb2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hih24337/tabb2?style=flat-square&color=yellow)](https://github.com/hih24337/tabb2/stargazers) [![Forks](https://img.shields.io/github/forks/hih24337/tabb2?style=flat-square&color=blue)](https://github.com/hih24337/tabb2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Convert Tabbit browser’s internal API into OpenAI and Anthropic Claude-compatible interfaces for seamless multi-account AI service integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ The hih24337/tabb2 project is considered production-ready due to its:
 | forks | 29/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

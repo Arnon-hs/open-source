@@ -1,6 +1,6 @@
 # minhnv0807/ai-business-skills
 
-[![Stars](https://img.shields.io/github/stars/minhnv0807/ai-business-skills?style=flat-square&color=yellow)](https://github.com/minhnv0807/ai-business-skills/stargazers) [![Forks](https://img.shields.io/github/forks/minhnv0807/ai-business-skills?style=flat-square&color=blue)](https://github.com/minhnv0807/ai-business-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minhnv0807/ai-business-skills?style=flat-square&color=yellow)](https://github.com/minhnv0807/ai-business-skills/stargazers) [![Forks](https://img.shields.io/github/forks/minhnv0807/ai-business-skills?style=flat-square&color=blue)](https://github.com/minhnv0807/ai-business-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 60 production-ready AI marketing skills (29 VN + 30 Global) for Claude Code, ChatGPT, Gemini & Copilot. 4 regions (US/EU/SEA/LATAM), Personal Brand + AI Avatar cluster, Dropshipping flagship for US/EU. Universal agents auto-detect cluster. Vietnam-market 2025-2026. Plugin or standalone prompts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Marketing · Product
+Orchestration · Automation · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ minhnv0807/ai-business-skills 将零散的 Prompt 与工具封装成 60 条可�
 | forks | 56/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

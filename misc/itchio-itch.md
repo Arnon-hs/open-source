@@ -1,6 +1,6 @@
 # itchio/itch
 
-[![Stars](https://img.shields.io/github/stars/itchio/itch?style=flat-square&color=yellow)](https://github.com/itchio/itch/stargazers) [![Forks](https://img.shields.io/github/forks/itchio/itch?style=flat-square&color=blue)](https://github.com/itchio/itch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itchio/itch?style=flat-square&color=yellow)](https://github.com/itchio/itch/stargazers) [![Forks](https://img.shields.io/github/forks/itchio/itch?style=flat-square&color=blue)](https://github.com/itchio/itch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🎮 The best way to play your itch.io games
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ itchio/itch 提供了一种便捷的方式在本地运行和管理 itch.io 游�
 | forks | 60/100 |
 | stars | 73/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 70/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

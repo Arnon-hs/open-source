@@ -1,6 +1,6 @@
 # infinitefield/hypersdk
 
-[![Stars](https://img.shields.io/github/stars/infinitefield/hypersdk?style=flat-square&color=yellow)](https://github.com/infinitefield/hypersdk/stargazers) [![Forks](https://img.shields.io/github/forks/infinitefield/hypersdk?style=flat-square&color=blue)](https://github.com/infinitefield/hypersdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infinitefield/hypersdk?style=flat-square&color=yellow)](https://github.com/infinitefield/hypersdk/stargazers) [![Forks](https://img.shields.io/github/forks/infinitefield/hypersdk?style=flat-square&color=blue)](https://github.com/infinitefield/hypersdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Hyperliquid Rust SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Frontend
+Trading
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Hyperliquid Rust SDK 是一个开源项目，提供了用于研究和自动化�
 | forks | 44/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

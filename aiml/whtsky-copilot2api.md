@@ -1,6 +1,6 @@
 # whtsky/copilot2api
 
-[![Stars](https://img.shields.io/github/stars/whtsky/copilot2api?style=flat-square&color=yellow)](https://github.com/whtsky/copilot2api/stargazers) [![Forks](https://img.shields.io/github/forks/whtsky/copilot2api?style=flat-square&color=blue)](https://github.com/whtsky/copilot2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whtsky/copilot2api?style=flat-square&color=yellow)](https://github.com/whtsky/copilot2api/stargazers) [![Forks](https://img.shields.io/github/forks/whtsky/copilot2api?style=flat-square&color=blue)](https://github.com/whtsky/copilot2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Go proxy that exposes GitHub Copilot as OpenAI and Anthropic compatible API endpoints
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ whtsky/copilot2api 是一个轻量级的 Go 代理，暴露 GitHub Copilot 的 O
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

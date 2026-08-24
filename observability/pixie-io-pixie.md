@@ -1,6 +1,6 @@
 # pixie-io/pixie
 
-[![Stars](https://img.shields.io/github/stars/pixie-io/pixie?style=flat-square&color=yellow)](https://github.com/pixie-io/pixie/stargazers) [![Forks](https://img.shields.io/github/forks/pixie-io/pixie?style=flat-square&color=blue)](https://github.com/pixie-io/pixie/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pixie-io/pixie?style=flat-square&color=yellow)](https://github.com/pixie-io/pixie/stargazers) [![Forks](https://img.shields.io/github/forks/pixie-io/pixie?style=flat-square&color=blue)](https://github.com/pixie-io/pixie/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Instant Kubernetes-Native Application Observability
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 498 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Observability · DevOps/Infra · Education
+Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Pixie 的生产可用性很高，原因包括：
 | forks | 67/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 82/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

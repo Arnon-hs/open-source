@@ -1,6 +1,6 @@
 # langwatch/kanban-code
 
-[![Stars](https://img.shields.io/github/stars/langwatch/kanban-code?style=flat-square&color=yellow)](https://github.com/langwatch/kanban-code/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/kanban-code?style=flat-square&color=blue)](https://github.com/langwatch/kanban-code/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langwatch/kanban-code?style=flat-square&color=yellow)](https://github.com/langwatch/kanban-code/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/kanban-code?style=flat-square&color=blue)](https://github.com/langwatch/kanban-code/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ langwatch/kanban-code 是一个开源项目，用于管理工作流程。它可�
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 66/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # stippi/code-assistant
 
-[![Stars](https://img.shields.io/github/stars/stippi/code-assistant?style=flat-square&color=yellow)](https://github.com/stippi/code-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/stippi/code-assistant?style=flat-square&color=blue)](https://github.com/stippi/code-assistant/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stippi/code-assistant?style=flat-square&color=yellow)](https://github.com/stippi/code-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/stippi/code-assistant?style=flat-square&color=blue)](https://github.com/stippi/code-assistant/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An LLM-powered, autonomous coding assistant. Also offers an MCP and ACP mode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ stippi/code‑assistant 是一个基于大模型的自主编码助手，提供 M
 | forks | 36/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

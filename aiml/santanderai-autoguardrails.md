@@ -1,6 +1,6 @@
 # SantanderAI/autoguardrails
 
-[![Stars](https://img.shields.io/github/stars/SantanderAI/autoguardrails?style=flat-square&color=yellow)](https://github.com/SantanderAI/autoguardrails/stargazers) [![Forks](https://img.shields.io/github/forks/SantanderAI/autoguardrails?style=flat-square&color=blue)](https://github.com/SantanderAI/autoguardrails/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SantanderAI/autoguardrails?style=flat-square&color=yellow)](https://github.com/SantanderAI/autoguardrails/stargazers) [![Forks](https://img.shields.io/github/forks/SantanderAI/autoguardrails?style=flat-square&color=blue)](https://github.com/SantanderAI/autoguardrails/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Alignment-research scaffold (autoresearch-style) for LLM guardrails: search over a single policy.md surface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security · Education
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ SantanderAI/autoguardrails
 | forks | 37/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hyperledger/fabric-gateway
 
-[![Stars](https://img.shields.io/github/stars/hyperledger/fabric-gateway?style=flat-square&color=yellow)](https://github.com/hyperledger/fabric-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger/fabric-gateway?style=flat-square&color=blue)](https://github.com/hyperledger/fabric-gateway/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperledger/fabric-gateway?style=flat-square&color=yellow)](https://github.com/hyperledger/fabric-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/hyperledger/fabric-gateway?style=flat-square&color=blue)](https://github.com/hyperledger/fabric-gateway/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Go, Node and Java client API for Hyperledger Fabric v2.4+
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Hyperledger Fabric Gateway 具有高生产可用性，因为它拥有大量活�
 | forks | 51/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 82/100 |
+| production | 76/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

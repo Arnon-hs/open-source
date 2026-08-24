@@ -1,6 +1,6 @@
 # Dianel555/paper-search-mcp-nodejs
 
-[![Stars](https://img.shields.io/github/stars/Dianel555/paper-search-mcp-nodejs?style=flat-square&color=yellow)](https://github.com/Dianel555/paper-search-mcp-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/Dianel555/paper-search-mcp-nodejs?style=flat-square&color=blue)](https://github.com/Dianel555/paper-search-mcp-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dianel555/paper-search-mcp-nodejs?style=flat-square&color=yellow)](https://github.com/Dianel555/paper-search-mcp-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/Dianel555/paper-search-mcp-nodejs?style=flat-square&color=blue)](https://github.com/Dianel555/paper-search-mcp-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A Node.js implementation of the Model Context Protocol (MCP) server for searching and downloading academic papers from multiple sources, including **Web of Science**, arXiv, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Dianel555/paper-search-mcp-nodejs 是一个 Node.js 实现的 Model Context Prot
 | forks | 33/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

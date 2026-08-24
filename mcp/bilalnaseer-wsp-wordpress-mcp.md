@@ -1,6 +1,6 @@
 # bilalnaseer/wsp-wordpress-mcp
 
-[![Stars](https://img.shields.io/github/stars/bilalnaseer/wsp-wordpress-mcp?style=flat-square&color=yellow)](https://github.com/bilalnaseer/wsp-wordpress-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bilalnaseer/wsp-wordpress-mcp?style=flat-square&color=blue)](https://github.com/bilalnaseer/wsp-wordpress-mcp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bilalnaseer/wsp-wordpress-mcp?style=flat-square&color=yellow)](https://github.com/bilalnaseer/wsp-wordpress-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/bilalnaseer/wsp-wordpress-mcp?style=flat-square&color=blue)](https://github.com/bilalnaseer/wsp-wordpress-mcp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > WSP MCP - Free WordPress MCP For Connecting AI Coding Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ WSP MCP 是一个开源的 WordPress 项目，旨在连接 AI 编程助手到真
 | forks | 26/100 |
 | stars | 31/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

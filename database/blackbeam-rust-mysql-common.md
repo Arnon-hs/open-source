@@ -1,6 +1,6 @@
 # blackbeam/rust_mysql_common
 
-[![Stars](https://img.shields.io/github/stars/blackbeam/rust_mysql_common?style=flat-square&color=yellow)](https://github.com/blackbeam/rust_mysql_common/stargazers) [![Forks](https://img.shields.io/github/forks/blackbeam/rust_mysql_common?style=flat-square&color=blue)](https://github.com/blackbeam/rust_mysql_common/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blackbeam/rust_mysql_common?style=flat-square&color=yellow)](https://github.com/blackbeam/rust_mysql_common/stargazers) [![Forks](https://img.shields.io/github/forks/blackbeam/rust_mysql_common?style=flat-square&color=blue)](https://github.com/blackbeam/rust_mysql_common/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Common primitives of MySql protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-06-17 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ blackbeam/rust_mysql_common 提供 MySQL 协议的底层公共原语，帮助 Ru
 | forks | 49/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 51/100 |
-| quality | 51/100 |
-| recency | 60/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 54/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

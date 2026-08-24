@@ -1,6 +1,6 @@
 # gilzoide/lua-gdextension
 
-[![Stars](https://img.shields.io/github/stars/gilzoide/lua-gdextension?style=flat-square&color=yellow)](https://github.com/gilzoide/lua-gdextension/stargazers) [![Forks](https://img.shields.io/github/forks/gilzoide/lua-gdextension?style=flat-square&color=blue)](https://github.com/gilzoide/lua-gdextension/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gilzoide/lua-gdextension?style=flat-square&color=yellow)](https://github.com/gilzoide/lua-gdextension/stargazers) [![Forks](https://img.shields.io/github/forks/gilzoide/lua-gdextension?style=flat-square&color=blue)](https://github.com/gilzoide/lua-gdextension/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Script Godot objects directly in Lua or create sandboxed LuaStates for modding (Godot 4.5+)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ gilzoide/lua-gdextension 的生产可用性较高，因为它有：
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

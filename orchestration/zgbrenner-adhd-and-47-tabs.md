@@ -1,6 +1,6 @@
 # zgbrenner/adhd-and-47-tabs
 
-[![Stars](https://img.shields.io/github/stars/zgbrenner/adhd-and-47-tabs?style=flat-square&color=yellow)](https://github.com/zgbrenner/adhd-and-47-tabs/stargazers) [![Forks](https://img.shields.io/github/forks/zgbrenner/adhd-and-47-tabs?style=flat-square&color=blue)](https://github.com/zgbrenner/adhd-and-47-tabs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zgbrenner/adhd-and-47-tabs?style=flat-square&color=yellow)](https://github.com/zgbrenner/adhd-and-47-tabs/stargazers) [![Forks](https://img.shields.io/github/forks/zgbrenner/adhd-and-47-tabs?style=flat-square&color=blue)](https://github.com/zgbrenner/adhd-and-47-tabs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A skill to ensure Claude/ChatGPT/Codex/Copilot answers first, gives fewer options, and provides one clear next step. For work, research, life, and every tab you forgot was open.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ The project has a medium production readiness score, indicating that it is suita
 | forks | 0/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

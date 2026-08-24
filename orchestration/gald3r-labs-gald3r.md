@@ -1,6 +1,6 @@
 # Gald3r-Labs/gald3r
 
-[![Stars](https://img.shields.io/github/stars/Gald3r-Labs/gald3r?style=flat-square&color=yellow)](https://github.com/Gald3r-Labs/gald3r/stargazers) [![Forks](https://img.shields.io/github/forks/Gald3r-Labs/gald3r?style=flat-square&color=blue)](https://github.com/Gald3r-Labs/gald3r/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gald3r-Labs/gald3r?style=flat-square&color=yellow)](https://github.com/Gald3r-Labs/gald3r/stargazers) [![Forks](https://img.shields.io/github/forks/Gald3r-Labs/gald3r?style=flat-square&color=blue)](https://github.com/Gald3r-Labs/gald3r/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude Code, Copilot, Windsurf, Cline, Aider, Roo, Kiro, OpenHands, Gemini, Codex, Goose, Warp & more. File-based memory persists across sessions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Gald3r-Labs/gald3r 的生产可用性为中等，适合用于原型或内部工�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

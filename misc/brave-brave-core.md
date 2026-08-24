@@ -1,6 +1,6 @@
 # brave/brave-core
 
-[![Stars](https://img.shields.io/github/stars/brave/brave-core?style=flat-square&color=yellow)](https://github.com/brave/brave-core/stargazers) [![Forks](https://img.shields.io/github/forks/brave/brave-core?style=flat-square&color=blue)](https://github.com/brave/brave-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brave/brave-core?style=flat-square&color=yellow)](https://github.com/brave/brave-core/stargazers) [![Forks](https://img.shields.io/github/forks/brave/brave-core?style=flat-square&color=blue)](https://github.com/brave/brave-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ brave/brave‑core 是 Brave 浏览器在移动端和桌面端使用的核心渲
 | forks | 77/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

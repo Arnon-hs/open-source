@@ -1,6 +1,6 @@
 # agent-infra/sandbox
 
-[![Stars](https://img.shields.io/github/stars/agent-infra/sandbox?style=flat-square&color=yellow)](https://github.com/agent-infra/sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/agent-infra/sandbox?style=flat-square&color=blue)](https://github.com/agent-infra/sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-infra/sandbox?style=flat-square&color=yellow)](https://github.com/agent-infra/sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/agent-infra/sandbox?style=flat-square&color=blue)](https://github.com/agent-infra/sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 398 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevOps/Infra
+MCP · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ agent‑infra/sandbox 是一个“一体化”AI 代理沙箱，内置 Browser�
 | forks | 65/100 |
 | stars | 78/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 74/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Mininglamp-OSS/octo-web
 
-[![Stars](https://img.shields.io/github/stars/Mininglamp-OSS/octo-web?style=flat-square&color=yellow)](https://github.com/Mininglamp-OSS/octo-web/stargazers) [![Forks](https://img.shields.io/github/forks/Mininglamp-OSS/octo-web?style=flat-square&color=blue)](https://github.com/Mininglamp-OSS/octo-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mininglamp-OSS/octo-web?style=flat-square&color=yellow)](https://github.com/Mininglamp-OSS/octo-web/stargazers) [![Forks](https://img.shields.io/github/forks/Mininglamp-OSS/octo-web?style=flat-square&color=blue)](https://github.com/Mininglamp-OSS/octo-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Mininglamp-OSS/octo-web 是一套基于 React + TypeScript 的统一代码库，
 | forks | 34/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

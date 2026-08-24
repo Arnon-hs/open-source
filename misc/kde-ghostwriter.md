@@ -1,6 +1,6 @@
 # KDE/ghostwriter
 
-[![Stars](https://img.shields.io/github/stars/KDE/ghostwriter?style=flat-square&color=yellow)](https://github.com/KDE/ghostwriter/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/ghostwriter?style=flat-square&color=blue)](https://github.com/KDE/ghostwriter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDE/ghostwriter?style=flat-square&color=yellow)](https://github.com/KDE/ghostwriter/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/ghostwriter?style=flat-square&color=blue)](https://github.com/KDE/ghostwriter/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Text editor for Markdown
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 342 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ KDE/ghostwriter 的生产可用性为中等。它适合用于原型或内部工�
 | forks | 63/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

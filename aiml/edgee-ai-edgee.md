@@ -1,6 +1,6 @@
 # edgee-ai/edgee
 
-[![Stars](https://img.shields.io/github/stars/edgee-ai/edgee?style=flat-square&color=yellow)](https://github.com/edgee-ai/edgee/stargazers) [![Forks](https://img.shields.io/github/forks/edgee-ai/edgee?style=flat-square&color=blue)](https://github.com/edgee-ai/edgee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edgee-ai/edgee?style=flat-square&color=yellow)](https://github.com/edgee-ai/edgee/stargazers) [![Forks](https://img.shields.io/github/forks/edgee-ai/edgee?style=flat-square&color=blue)](https://github.com/edgee-ai/edgee/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI gateway written in Rust, with token compression for Claude Code, Codex... and any other LLM client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ edgee‑ai/edgee 是一款用 Rust 编写的开源 AI 网关，内置对 Claude 
 | forks | 26/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

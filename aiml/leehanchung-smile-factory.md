@@ -1,6 +1,6 @@
 # leehanchung/SMILE-factory
 
-[![Stars](https://img.shields.io/github/stars/leehanchung/SMILE-factory?style=flat-square&color=yellow)](https://github.com/leehanchung/SMILE-factory/stargazers) [![Forks](https://img.shields.io/github/forks/leehanchung/SMILE-factory?style=flat-square&color=blue)](https://github.com/leehanchung/SMILE-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leehanchung/SMILE-factory?style=flat-square&color=yellow)](https://github.com/leehanchung/SMILE-factory/stargazers) [![Forks](https://img.shields.io/github/forks/leehanchung/SMILE-factory?style=flat-square&color=blue)](https://github.com/leehanchung/SMILE-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Finetune Falcon, LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ SMILE‑factory 通过 PEFT‑LoRA 在普通消费级硬件上对 Falcon、LLaMA
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

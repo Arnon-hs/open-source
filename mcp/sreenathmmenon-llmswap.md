@@ -1,6 +1,6 @@
 # sreenathmmenon/llmswap
 
-[![Stars](https://img.shields.io/github/stars/sreenathmmenon/llmswap?style=flat-square&color=yellow)](https://github.com/sreenathmmenon/llmswap/stargazers) [![Forks](https://img.shields.io/github/forks/sreenathmmenon/llmswap?style=flat-square&color=blue)](https://github.com/sreenathmmenon/llmswap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sreenathmmenon/llmswap?style=flat-square&color=yellow)](https://github.com/sreenathmmenon/llmswap/stargazers) [![Forks](https://img.shields.io/github/forks/sreenathmmenon/llmswap?style=flat-square&color=blue)](https://github.com/sreenathmmenon/llmswap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Ask, compare, and synthesize across 10 LLM providers. Python SDK, CLI, local Arena, MCP, and privacy-aware Best Answer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ sreenathmmenon/llmswap 是一个开源项目，允许用户在 10 个 LLM 提供
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # chnjames/AIGEOTOOLS
 
-[![Stars](https://img.shields.io/github/stars/chnjames/AIGEOTOOLS?style=flat-square&color=yellow)](https://github.com/chnjames/AIGEOTOOLS/stargazers) [![Forks](https://img.shields.io/github/forks/chnjames/AIGEOTOOLS?style=flat-square&color=blue)](https://github.com/chnjames/AIGEOTOOLS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chnjames/AIGEOTOOLS?style=flat-square&color=yellow)](https://github.com/chnjames/AIGEOTOOLS/stargazers) [![Forks](https://img.shields.io/github/forks/chnjames/AIGEOTOOLS?style=flat-square&color=blue)](https://github.com/chnjames/AIGEOTOOLS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > GEO（AI 搜索引擎优化）智能内容优化平台 — 帮助品牌在 ChatGPT、Perplexity 等 AI 回答中被优先引用。支持关键词策略、多平台内容生成、E-E-A-T 优化、多模型验证和数据分析。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ chnjames/AIGEOTOOLS 的主要价值在于帮助品牌在 AI 搜索引擎优化�
 | forks | 42/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

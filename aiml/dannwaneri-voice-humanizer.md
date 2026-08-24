@@ -1,6 +1,6 @@
 # dannwaneri/voice-humanizer
 
-[![Stars](https://img.shields.io/github/stars/dannwaneri/voice-humanizer?style=flat-square&color=yellow)](https://github.com/dannwaneri/voice-humanizer/stargazers) [![Forks](https://img.shields.io/github/forks/dannwaneri/voice-humanizer?style=flat-square&color=blue)](https://github.com/dannwaneri/voice-humanizer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dannwaneri/voice-humanizer?style=flat-square&color=yellow)](https://github.com/dannwaneri/voice-humanizer/stargazers) [![Forks](https://img.shields.io/github/forks/dannwaneri/voice-humanizer?style=flat-square&color=blue)](https://github.com/dannwaneri/voice-humanizer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag ai): Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 33/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ To adopt this project, follow these steps:
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 36/100 |
+| quality | 30/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 39/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

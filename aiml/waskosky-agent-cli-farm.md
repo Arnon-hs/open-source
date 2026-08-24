@@ -1,6 +1,6 @@
 # waskosky/agent-cli-farm
 
-[![Stars](https://img.shields.io/github/stars/waskosky/agent-cli-farm?style=flat-square&color=yellow)](https://github.com/waskosky/agent-cli-farm/stargazers) [![Forks](https://img.shields.io/github/forks/waskosky/agent-cli-farm?style=flat-square&color=blue)](https://github.com/waskosky/agent-cli-farm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waskosky/agent-cli-farm?style=flat-square&color=yellow)](https://github.com/waskosky/agent-cli-farm/stargazers) [![Forks](https://img.shields.io/github/forks/waskosky/agent-cli-farm?style=flat-square&color=blue)](https://github.com/waskosky/agent-cli-farm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Tmux manager for running, monitoring, saving, restoring, and looping Codex, Claude, Gemini, and custom agent CLIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ waskosky/agent-cli-farm 是一个用于管理 Tmux 的工具，帮助开发者�
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

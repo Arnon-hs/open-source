@@ -1,6 +1,6 @@
 # Free-TV/IPTV
 
-[![Stars](https://img.shields.io/github/stars/Free-TV/IPTV?style=flat-square&color=yellow)](https://github.com/Free-TV/IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/Free-TV/IPTV?style=flat-square&color=blue)](https://github.com/Free-TV/IPTV/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Free-TV/IPTV?style=flat-square&color=yellow)](https://github.com/Free-TV/IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/Free-TV/IPTV?style=flat-square&color=blue)](https://github.com/Free-TV/IPTV/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > M3U Playlist for free TV channels
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.9k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Free-TV/IPTV 是一个开源项目，提供免费的电视频道列表，通过 
 | forks | 86/100 |
 | stars | 91/100 |
 | topics | 25/100 |
-| outlook | 78/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 79/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # gelusus/wxvl
 
-[![Stars](https://img.shields.io/github/stars/gelusus/wxvl?style=flat-square&color=yellow)](https://github.com/gelusus/wxvl/stargazers) [![Forks](https://img.shields.io/github/forks/gelusus/wxvl?style=flat-square&color=blue)](https://github.com/gelusus/wxvl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gelusus/wxvl?style=flat-square&color=yellow)](https://github.com/gelusus/wxvl/stargazers) [![Forks](https://img.shields.io/github/forks/gelusus/wxvl?style=flat-square&color=blue)](https://github.com/gelusus/wxvl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 自动抓取微信公众号安全漏洞文章，转换为Markdown格式并建立本地知识库，每日持续更新。本项目基于 [原版wxvl](https://github.com/20142995/wxvl) 进行扩展。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ gelusus/wxvl 是基于原版 [wxvl](https://github.com/20142995/wxvl) 的功能�
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

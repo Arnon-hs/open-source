@@ -1,6 +1,6 @@
 # jnMetaCode/agency-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/jnMetaCode/agency-orchestrator?style=flat-square&color=yellow)](https://github.com/jnMetaCode/agency-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/agency-orchestrator?style=flat-square&color=blue)](https://github.com/jnMetaCode/agency-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jnMetaCode/agency-orchestrator?style=flat-square&color=yellow)](https://github.com/jnMetaCode/agency-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/agency-orchestrator?style=flat-square&color=blue)](https://github.com/jnMetaCode/agency-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ jnMetaCode/agency-orchestrator 是一款基于 agency‑agents（拥有 216+ 专
 | forks | 58/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

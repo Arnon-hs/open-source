@@ -1,6 +1,6 @@
 # zboralski/ida-headless-mcp
 
-[![Stars](https://img.shields.io/github/stars/zboralski/ida-headless-mcp?style=flat-square&color=yellow)](https://github.com/zboralski/ida-headless-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zboralski/ida-headless-mcp?style=flat-square&color=blue)](https://github.com/zboralski/ida-headless-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zboralski/ida-headless-mcp?style=flat-square&color=yellow)](https://github.com/zboralski/ida-headless-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zboralski/ida-headless-mcp?style=flat-square&color=blue)](https://github.com/zboralski/ida-headless-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Headless IDA Pro binary analysis via Model Context Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ zboralski/ida-headless-mcp 的价值在于，它可以帮助连接 AI 代理到�
 | forks | 31/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

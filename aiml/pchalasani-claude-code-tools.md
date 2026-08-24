@@ -1,6 +1,6 @@
 # pchalasani/claude-code-tools
 
-[![Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools?style=flat-square&color=yellow)](https://github.com/pchalasani/claude-code-tools/stargazers) [![Forks](https://img.shields.io/github/forks/pchalasani/claude-code-tools?style=flat-square&color=blue)](https://github.com/pchalasani/claude-code-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools?style=flat-square&color=yellow)](https://github.com/pchalasani/claude-code-tools/stargazers) [![Forks](https://img.shields.io/github/forks/pchalasani/claude-code-tools?style=flat-square&color=blue)](https://github.com/pchalasani/claude-code-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ pchalasani/claude-code-tools 是一套面向 Claude Code、Codex‑CLI 等命令
 | forks | 52/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sgasser/pasteguard
 
-[![Stars](https://img.shields.io/github/stars/sgasser/pasteguard?style=flat-square&color=yellow)](https://github.com/sgasser/pasteguard/stargazers) [![Forks](https://img.shields.io/github/forks/sgasser/pasteguard?style=flat-square&color=blue)](https://github.com/sgasser/pasteguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgasser/pasteguard?style=flat-square&color=yellow)](https://github.com/sgasser/pasteguard/stargazers) [![Forks](https://img.shields.io/github/forks/sgasser/pasteguard?style=flat-square&color=blue)](https://github.com/sgasser/pasteguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Security
+AI/ML · Data · Security
 
 ## 📝 Summary
 
@@ -121,14 +121,15 @@ sgasser / pasteguard 是一个开源的 **隐私代理层**，让 LLM 在获
 | forks | 36/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

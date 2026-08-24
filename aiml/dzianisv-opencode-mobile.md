@@ -1,6 +1,6 @@
 # dzianisv/opencode-mobile
 
-[![Stars](https://img.shields.io/github/stars/dzianisv/opencode-mobile?style=flat-square&color=yellow)](https://github.com/dzianisv/opencode-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/dzianisv/opencode-mobile?style=flat-square&color=blue)](https://github.com/dzianisv/opencode-mobile/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dzianisv/opencode-mobile?style=flat-square&color=yellow)](https://github.com/dzianisv/opencode-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/dzianisv/opencode-mobile?style=flat-square&color=blue)](https://github.com/dzianisv/opencode-mobile/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-hosted server over Tailscale. Available on F-Droid.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Mobile
+AI/ML · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ OpenCode Mobile 的生产可用性为中等。它适用于以下场景：
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # horsicq/DIE-engine
 
-[![Stars](https://img.shields.io/github/stars/horsicq/DIE-engine?style=flat-square&color=yellow)](https://github.com/horsicq/DIE-engine/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/DIE-engine?style=flat-square&color=blue)](https://github.com/horsicq/DIE-engine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horsicq/DIE-engine?style=flat-square&color=yellow)](https://github.com/horsicq/DIE-engine/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/DIE-engine?style=flat-square&color=blue)](https://github.com/horsicq/DIE-engine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > DIE engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 391 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ horsicq/DIE-engine是一个开源项目，提供了DIE引擎的功能。虽然�
 | forks | 65/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

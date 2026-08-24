@@ -1,6 +1,6 @@
 # python/peps
 
-[![Stars](https://img.shields.io/github/stars/python/peps?style=flat-square&color=yellow)](https://github.com/python/peps/stargazers) [![Forks](https://img.shields.io/github/forks/python/peps?style=flat-square&color=blue)](https://github.com/python/peps/network) [![Language](https://img.shields.io/badge/lang-reStructuredText-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python/peps?style=flat-square&color=yellow)](https://github.com/python/peps/stargazers) [![Forks](https://img.shields.io/github/forks/python/peps?style=flat-square&color=blue)](https://github.com/python/peps/network) [![Language](https://img.shields.io/badge/lang-reStructuredText-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Python Enhancement Proposals
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | reStructuredText |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Python Enhancement Proposals (PEPs) 是一个开源项目，记录和管理 Pyth
 | forks | 81/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

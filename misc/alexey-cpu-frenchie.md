@@ -1,6 +1,6 @@
 # Alexey-cpu/Frenchie
 
-[![Stars](https://img.shields.io/github/stars/Alexey-cpu/Frenchie?style=flat-square&color=yellow)](https://github.com/Alexey-cpu/Frenchie.git/stargazers) [![Forks](https://img.shields.io/github/forks/Alexey-cpu/Frenchie?style=flat-square&color=blue)](https://github.com/Alexey-cpu/Frenchie.git/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alexey-cpu/Frenchie?style=flat-square&color=yellow)](https://github.com/Alexey-cpu/Frenchie.git/stargazers) [![Forks](https://img.shields.io/github/forks/Alexey-cpu/Frenchie?style=flat-square&color=blue)](https://github.com/Alexey-cpu/Frenchie.git/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: Как я делал компактную библиотеку для создания приложений с графическим интерфейсом на языке C++. Часть 2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 31/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ The project has a medium production readiness score, indicating that it is suita
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 32/100 |
+| quality | 24/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 57/100 |
+| production | 37/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

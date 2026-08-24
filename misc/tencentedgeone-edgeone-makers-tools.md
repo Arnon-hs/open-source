@@ -1,6 +1,6 @@
 # TencentEdgeOne/edgeone-makers-tools
 
-[![Stars](https://img.shields.io/github/stars/TencentEdgeOne/edgeone-makers-tools?style=flat-square&color=yellow)](https://github.com/TencentEdgeOne/edgeone-makers-tools/stargazers) [![Forks](https://img.shields.io/github/forks/TencentEdgeOne/edgeone-makers-tools?style=flat-square&color=blue)](https://github.com/TencentEdgeOne/edgeone-makers-tools/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentEdgeOne/edgeone-makers-tools?style=flat-square&color=yellow)](https://github.com/TencentEdgeOne/edgeone-makers-tools/stargazers) [![Forks](https://img.shields.io/github/forks/TencentEdgeOne/edgeone-makers-tools?style=flat-square&color=blue)](https://github.com/TencentEdgeOne/edgeone-makers-tools/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,14 +75,15 @@ TencentEdgeOne/edgeone-makers-tools 是一个开源项目，提供了一个可�
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

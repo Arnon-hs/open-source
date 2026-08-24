@@ -1,6 +1,6 @@
 # stevepryde/thirtyfour
 
-[![Stars](https://img.shields.io/github/stars/stevepryde/thirtyfour?style=flat-square&color=yellow)](https://github.com/stevepryde/thirtyfour/stargazers) [![Forks](https://img.shields.io/github/forks/stevepryde/thirtyfour?style=flat-square&color=blue)](https://github.com/stevepryde/thirtyfour/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevepryde/thirtyfour?style=flat-square&color=yellow)](https://github.com/stevepryde/thirtyfour/stargazers) [![Forks](https://img.shields.io/github/forks/stevepryde/thirtyfour?style=flat-square&color=blue)](https://github.com/stevepryde/thirtyfour/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Selenium WebDriver client for Rust, for automated testing of websites
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ stevepryde/thirtyfour具有高的生产可用性，主要原因是：
 | forks | 50/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

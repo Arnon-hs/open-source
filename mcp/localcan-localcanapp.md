@@ -1,6 +1,6 @@
 # LocalCan/LocalCanApp
 
-[![Stars](https://img.shields.io/github/stars/LocalCan/LocalCanApp?style=flat-square&color=yellow)](https://github.com/LocalCan/LocalCanApp/stargazers) [![Forks](https://img.shields.io/github/forks/LocalCan/LocalCanApp?style=flat-square&color=blue)](https://github.com/LocalCan/LocalCanApp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LocalCan/LocalCanApp?style=flat-square&color=yellow)](https://github.com/LocalCan/LocalCanApp/stargazers) [![Forks](https://img.shields.io/github/forks/LocalCan/LocalCanApp?style=flat-square&color=blue)](https://github.com/LocalCan/LocalCanApp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The ngrok alternative for Mac, Windows & Linux. Public URLs (tunnels), .local domains, automatic HTTPS, traffic inspector, MCP server for AI agents. Free plan.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · Backend · DevTools
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ LocalCan/LocalCanApp 的生产可用性为中等（Medium）。它适用于原�
 | forks | 0/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

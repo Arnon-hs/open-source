@@ -1,6 +1,6 @@
 # bybren-llc/safe-agentic-workflow
 
-[![Stars](https://img.shields.io/github/stars/bybren-llc/safe-agentic-workflow?style=flat-square&color=yellow)](https://github.com/bybren-llc/safe-agentic-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/bybren-llc/safe-agentic-workflow?style=flat-square&color=blue)](https://github.com/bybren-llc/safe-agentic-workflow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bybren-llc/safe-agentic-workflow?style=flat-square&color=yellow)](https://github.com/bybren-llc/safe-agentic-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/bybren-llc/safe-agentic-workflow?style=flat-square&color=blue)](https://github.com/bybren-llc/safe-agentic-workflow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > SAW — SAFe Agentic Workflow AI Agent Harness for Multi-Agent Team Workflows Built on SAFe methodology (Scaled Agile Framework), adapted for AI agent teams. Works for any team with repeatable processes: Software, Marketing, Research, Legal, Operations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools · Marketing
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ bybren-llc/safe-agentic-workflow 是一个基于 SAFe 方法学（Scaled Agile F
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

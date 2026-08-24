@@ -1,6 +1,6 @@
 # jftuga/less-Windows
 
-[![Stars](https://img.shields.io/github/stars/jftuga/less-Windows?style=flat-square&color=yellow)](https://github.com/jftuga/less-Windows/stargazers) [![Forks](https://img.shields.io/github/forks/jftuga/less-Windows?style=flat-square&color=blue)](https://github.com/jftuga/less-Windows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jftuga/less-Windows?style=flat-square&color=yellow)](https://github.com/jftuga/less-Windows/stargazers) [![Forks](https://img.shields.io/github/forks/jftuga/less-Windows?style=flat-square&color=blue)](https://github.com/jftuga/less-Windows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > GNU less compiled for Windows 10 & 11. Stand-alone version with no dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ jftuga/less‑Windows 提供了在 Windows 10/11 上免安装依赖、可直接�
 | forks | 29/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

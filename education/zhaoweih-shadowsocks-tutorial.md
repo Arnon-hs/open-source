@@ -1,6 +1,6 @@
 # zhaoweih/Shadowsocks-Tutorial
 
-[![Stars](https://img.shields.io/github/stars/zhaoweih/Shadowsocks-Tutorial?style=flat-square&color=yellow)](https://github.com/zhaoweih/Shadowsocks-Tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoweih/Shadowsocks-Tutorial?style=flat-square&color=blue)](https://github.com/zhaoweih/Shadowsocks-Tutorial/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhaoweih/Shadowsocks-Tutorial?style=flat-square&color=yellow)](https://github.com/zhaoweih/Shadowsocks-Tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoweih/Shadowsocks-Tutorial?style=flat-square&color=blue)](https://github.com/zhaoweih/Shadowsocks-Tutorial/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🐱给小白的Shadowsocks翻墙教程-Easy-to-follow tutorials for beginners on using Shadowsocks to bypass internet restrictions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ zhaoweih/Shadowsocks-Tutorial 的价值在于它提供了可靠的实现模式�
 | forks | 68/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

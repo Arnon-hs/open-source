@@ -1,6 +1,6 @@
 # datagallery-lab/datafoundry
 
-[![Stars](https://img.shields.io/github/stars/datagallery-lab/datafoundry?style=flat-square&color=yellow)](https://github.com/datagallery-lab/datafoundry/stargazers) [![Forks](https://img.shields.io/github/forks/datagallery-lab/datafoundry?style=flat-square&color=blue)](https://github.com/datagallery-lab/datafoundry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datagallery-lab/datafoundry?style=flat-square&color=yellow)](https://github.com/datagallery-lab/datafoundry/stargazers) [![Forks](https://img.shields.io/github/forks/datagallery-lab/datafoundry?style=flat-square&color=blue)](https://github.com/datagallery-lab/datafoundry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ DataFoundry 的生产可用性非常高，尤其是考虑到其是开源项目�
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

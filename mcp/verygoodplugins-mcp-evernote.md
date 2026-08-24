@@ -1,6 +1,6 @@
 # verygoodplugins/mcp-evernote
 
-[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-evernote?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-evernote/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-evernote?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-evernote/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-evernote?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-evernote/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-evernote?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-evernote/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Evernote integration with note management and synchronization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Product
+MCP · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ verygoodplugins/mcp-evernote 是一个基于 Model Context Protocol（MCP）的 
 | forks | 26/100 |
 | stars | 32/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

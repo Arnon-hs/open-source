@@ -1,6 +1,6 @@
 # MobSF/Mobile-Security-Framework-MobSF
 
-[![Stars](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF?style=flat-square&color=yellow)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/stargazers) [![Forks](https://img.shields.io/github/forks/MobSF/Mobile-Security-Framework-MobSF?style=flat-square&color=blue)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF?style=flat-square&color=yellow)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/stargazers) [![Forks](https://img.shields.io/github/forks/MobSF/Mobile-Security-Framework-MobSF?style=flat-square&color=blue)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21.3k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database · Mobile · Security
+Backend · Mobile · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ MobSF（Mobile Security Framework）提供一站式的移动应用安全检测�
 | forks | 89/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

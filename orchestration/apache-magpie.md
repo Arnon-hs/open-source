@@ -1,6 +1,6 @@
 # apache/magpie
 
-[![Stars](https://img.shields.io/github/stars/apache/magpie?style=flat-square&color=yellow)](https://github.com/apache/magpie/stargazers) [![Forks](https://img.shields.io/github/forks/apache/magpie?style=flat-square&color=blue)](https://github.com/apache/magpie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/magpie?style=flat-square&color=yellow)](https://github.com/apache/magpie/stargazers) [![Forks](https://img.shields.io/github/forks/apache/magpie?style=flat-square&color=blue)](https://github.com/apache/magpie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-assisted maintainership and development framework for Apache projects — Triage and Drafting (agent-authored fixes with human review); Mentoring, Pairing (developer-side dev-cycle), and Auto-merge on the roadmap.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Security
+Orchestration · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Apache Magpie 的生产可用性为中等（Medium），可用于原型开发或
 | forks | 41/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

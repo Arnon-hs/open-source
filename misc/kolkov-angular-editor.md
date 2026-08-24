@@ -1,6 +1,6 @@
 # kolkov/angular-editor
 
-[![Stars](https://img.shields.io/github/stars/kolkov/angular-editor?style=flat-square&color=yellow)](https://github.com/kolkov/angular-editor/stargazers) [![Forks](https://img.shields.io/github/forks/kolkov/angular-editor?style=flat-square&color=blue)](https://github.com/kolkov/angular-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kolkov/angular-editor?style=flat-square&color=yellow)](https://github.com/kolkov/angular-editor/stargazers) [![Forks](https://img.shields.io/github/forks/kolkov/angular-editor?style=flat-square&color=blue)](https://github.com/kolkov/angular-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A simple native WYSIWYG editor component for Angular 6 -20+
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 717 |
 | 🍴 **Forks** | 353 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ kolkov/angular-editor 的生产可用性比较高，理由如下：
 | forks | 64/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

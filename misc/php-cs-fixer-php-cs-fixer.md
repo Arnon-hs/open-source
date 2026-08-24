@@ -1,6 +1,6 @@
 # PHP-CS-Fixer/PHP-CS-Fixer
 
-[![Stars](https://img.shields.io/github/stars/PHP-CS-Fixer/PHP-CS-Fixer?style=flat-square&color=yellow)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/stargazers) [![Forks](https://img.shields.io/github/forks/PHP-CS-Fixer/PHP-CS-Fixer?style=flat-square&color=blue)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PHP-CS-Fixer/PHP-CS-Fixer?style=flat-square&color=yellow)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/stargazers) [![Forks](https://img.shields.io/github/forks/PHP-CS-Fixer/PHP-CS-Fixer?style=flat-square&color=blue)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A tool to automatically fix PHP Coding Standards issues
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.5k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ PHP‑CS‑Fixer 是一款开源的 PHP 代码风格检查与自动修复工具�
 | forks | 80/100 |
 | stars | 88/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

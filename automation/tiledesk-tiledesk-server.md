@@ -1,6 +1,6 @@
 # Tiledesk/tiledesk-server
 
-[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk-server?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk-server/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk-server?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk-server?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk-server/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk-server?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM-powered agents with easy human-in-the-loop (HITL) when necessary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · Database
+Automation · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Tiledesk Server 是 Tiledesk 平台的核心 API 服务，提供完整的后端�
 | forks | 54/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ZalithLauncher/ZalithLauncher2
 
-[![Stars](https://img.shields.io/github/stars/ZalithLauncher/ZalithLauncher2?style=flat-square&color=yellow)](https://github.com/ZalithLauncher/ZalithLauncher2/stargazers) [![Forks](https://img.shields.io/github/forks/ZalithLauncher/ZalithLauncher2?style=flat-square&color=blue)](https://github.com/ZalithLauncher/ZalithLauncher2/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZalithLauncher/ZalithLauncher2?style=flat-square&color=yellow)](https://github.com/ZalithLauncher/ZalithLauncher2/stargazers) [![Forks](https://img.shields.io/github/forks/ZalithLauncher/ZalithLauncher2?style=flat-square&color=blue)](https://github.com/ZalithLauncher/ZalithLauncher2/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Minecraft: Java Edition Launcher for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ ZalithLauncher（又名 ZalithLauncher2）是一款基于 Kotlin 编写的 Andro
 | forks | 57/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

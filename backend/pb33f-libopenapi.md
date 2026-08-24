@@ -1,6 +1,6 @@
 # pb33f/libopenapi
 
-[![Stars](https://img.shields.io/github/stars/pb33f/libopenapi?style=flat-square&color=yellow)](https://github.com/pb33f/libopenapi/stargazers) [![Forks](https://img.shields.io/github/forks/pb33f/libopenapi?style=flat-square&color=blue)](https://github.com/pb33f/libopenapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pb33f/libopenapi?style=flat-square&color=yellow)](https://github.com/pb33f/libopenapi/stargazers) [![Forks](https://img.shields.io/github/forks/pb33f/libopenapi?style=flat-square&color=blue)](https://github.com/pb33f/libopenapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > libopenapi is a fully featured, high performance OpenAPI 3.2, 3.1, 3.0, Overlays and Arazzo parser, library, validator and toolkit for go applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 856 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ libopenapi 的生产可用性很高，主要原因是：
 | forks | 51/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

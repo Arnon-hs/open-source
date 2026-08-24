@@ -1,6 +1,6 @@
 # william-garden/sync-skill
 
-[![Stars](https://img.shields.io/github/stars/william-garden/sync-skill?style=flat-square&color=yellow)](https://github.com/william-garden/sync-skill/stargazers) [![Forks](https://img.shields.io/github/forks/william-garden/sync-skill?style=flat-square&color=blue)](https://github.com/william-garden/sync-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/william-garden/sync-skill?style=flat-square&color=yellow)](https://github.com/william-garden/sync-skill/stargazers) [![Forks](https://img.shields.io/github/forks/william-garden/sync-skill?style=flat-square&color=blue)](https://github.com/william-garden/sync-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > One-click synchronization tool for **AI Agent Skills** (`SKILL.md`) across coding agents and IDEs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ william-garden/sync-skill 的价值在于，它可以帮助协调多代理工作
 | forks | 15/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 47/100 |
+| recency | 60/100 |
 | adoption | 39/100 |
-| production | 68/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

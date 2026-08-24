@@ -1,6 +1,6 @@
 # Agents365-ai/pi-plugin-cc
 
-[![Stars](https://img.shields.io/github/stars/Agents365-ai/pi-plugin-cc?style=flat-square&color=yellow)](https://github.com/Agents365-ai/pi-plugin-cc/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/pi-plugin-cc?style=flat-square&color=blue)](https://github.com/Agents365-ai/pi-plugin-cc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agents365-ai/pi-plugin-cc?style=flat-square&color=yellow)](https://github.com/Agents365-ai/pi-plugin-cc/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/pi-plugin-cc?style=flat-square&color=blue)](https://github.com/Agents365-ai/pi-plugin-cc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin that routes /pi:review, /pi:rescue, etc. through the Pi coding agent (default: DeepSeek V4). Adapted from codex-plugin-cc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Agents365‑ai/pi-plugin-cc 是基于 Claude Code 的插件，能够把 `/pi:rev
 | forks | 12/100 |
 | stars | 31/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

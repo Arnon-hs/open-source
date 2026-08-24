@@ -1,6 +1,6 @@
 # ProdigyV21/ARVIO
 
-[![Stars](https://img.shields.io/github/stars/ProdigyV21/ARVIO?style=flat-square&color=yellow)](https://github.com/ProdigyV21/ARVIO/stargazers) [![Forks](https://img.shields.io/github/forks/ProdigyV21/ARVIO?style=flat-square&color=blue)](https://github.com/ProdigyV21/ARVIO/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProdigyV21/ARVIO?style=flat-square&color=yellow)](https://github.com/ProdigyV21/ARVIO/stargazers) [![Forks](https://img.shields.io/github/forks/ProdigyV21/ARVIO?style=flat-square&color=blue)](https://github.com/ProdigyV21/ARVIO/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ARVIO - A media hub application with a modern, beautiful interface.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 635 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ ProdigyV21/ARVIO 的价值在于它可以作为一个媒体中心应用程序，
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

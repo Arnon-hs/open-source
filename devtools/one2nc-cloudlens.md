@@ -1,6 +1,6 @@
 # one2nc/cloudlens
 
-[![Stars](https://img.shields.io/github/stars/one2nc/cloudlens?style=flat-square&color=yellow)](https://github.com/one2nc/cloudlens/stargazers) [![Forks](https://img.shields.io/github/forks/one2nc/cloudlens?style=flat-square&color=blue)](https://github.com/one2nc/cloudlens/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/one2nc/cloudlens?style=flat-square&color=yellow)](https://github.com/one2nc/cloudlens/stargazers) [![Forks](https://img.shields.io/github/forks/one2nc/cloudlens?style=flat-square&color=blue)](https://github.com/one2nc/cloudlens/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > k9s like CLI for AWS and GCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 592 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ one2nc/cloudlens 有很高的生产可用性，理由如下：
 | forks | 42/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

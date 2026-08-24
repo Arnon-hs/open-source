@@ -1,6 +1,6 @@
 # enso-org/enso
 
-[![Stars](https://img.shields.io/github/stars/enso-org/enso?style=flat-square&color=yellow)](https://github.com/enso-org/enso/stargazers) [![Forks](https://img.shields.io/github/forks/enso-org/enso?style=flat-square&color=blue)](https://github.com/enso-org/enso/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enso-org/enso?style=flat-square&color=yellow)](https://github.com/enso-org/enso/stargazers) [![Forks](https://img.shields.io/github/forks/enso-org/enso?style=flat-square&color=blue)](https://github.com/enso-org/enso/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 341 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database · Design
+Data
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Enso Analytics（enos‑org/enso）是一款面向数据团队的自助式数据
 | forks | 63/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 70/100 |
+| recency | 20/100 |
 | adoption | 77/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

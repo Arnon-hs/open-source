@@ -1,6 +1,6 @@
 # SparkDevNetwork/Rock
 
-[![Stars](https://img.shields.io/github/stars/SparkDevNetwork/Rock?style=flat-square&color=yellow)](https://github.com/SparkDevNetwork/Rock/stargazers) [![Forks](https://img.shields.io/github/forks/SparkDevNetwork/Rock?style=flat-square&color=blue)](https://github.com/SparkDevNetwork/Rock/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SparkDevNetwork/Rock?style=flat-square&color=yellow)](https://github.com/SparkDevNetwork/Rock/stargazers) [![Forks](https://img.shields.io/github/forks/SparkDevNetwork/Rock?style=flat-square&color=blue)](https://github.com/SparkDevNetwork/Rock/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An open source CMS, Relationship Management System (RMS) and Church Management System (ChMS) all rolled into one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 670 |
 | 🍴 **Forks** | 414 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Rock CMS的生产可用性为中等（Medium）。它适合用于内部工作流
 | forks | 65/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

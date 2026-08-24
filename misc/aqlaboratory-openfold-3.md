@@ -1,6 +1,6 @@
 # aqlaboratory/openfold-3
 
-[![Stars](https://img.shields.io/github/stars/aqlaboratory/openfold-3?style=flat-square&color=yellow)](https://github.com/aqlaboratory/openfold-3/stargazers) [![Forks](https://img.shields.io/github/forks/aqlaboratory/openfold-3?style=flat-square&color=blue)](https://github.com/aqlaboratory/openfold-3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aqlaboratory/openfold-3?style=flat-square&color=yellow)](https://github.com/aqlaboratory/openfold-3/stargazers) [![Forks](https://img.shields.io/github/forks/aqlaboratory/openfold-3?style=flat-square&color=blue)](https://github.com/aqlaboratory/openfold-3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A fully open source biomolecular structure prediction model based on AlphaFold3
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 776 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ OpenFold‑3 — полностью открытая модель предск
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

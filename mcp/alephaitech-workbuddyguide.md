@@ -1,6 +1,6 @@
 # AlephAITech/WorkBuddyGuide
 
-[![Stars](https://img.shields.io/github/stars/AlephAITech/WorkBuddyGuide?style=flat-square&color=yellow)](https://github.com/AlephAITech/WorkBuddyGuide/stargazers) [![Forks](https://img.shields.io/github/forks/AlephAITech/WorkBuddyGuide?style=flat-square&color=blue)](https://github.com/AlephAITech/WorkBuddyGuide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlephAITech/WorkBuddyGuide?style=flat-square&color=yellow)](https://github.com/AlephAITech/WorkBuddyGuide/stargazers) [![Forks](https://img.shields.io/github/forks/AlephAITech/WorkBuddyGuide?style=flat-square&color=blue)](https://github.com/AlephAITech/WorkBuddyGuide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ AlephAITech/WorkBuddyGuide 的生产可用性较高，理由如下：
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

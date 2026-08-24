@@ -1,6 +1,6 @@
 # trustwallet/assets
 
-[![Stars](https://img.shields.io/github/stars/trustwallet/assets?style=flat-square&color=yellow)](https://github.com/trustwallet/assets/stargazers) [![Forks](https://img.shields.io/github/forks/trustwallet/assets?style=flat-square&color=blue)](https://github.com/trustwallet/assets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trustwallet/assets?style=flat-square&color=yellow)](https://github.com/trustwallet/assets/stargazers) [![Forks](https://img.shields.io/github/forks/trustwallet/assets?style=flat-square&color=blue)](https://github.com/trustwallet/assets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 27.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Database
+Crypto
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ trustwallet/assets 是一个由 Trust Wallet 官方维护的开源库，收录�
 | forks | 100/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

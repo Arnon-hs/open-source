@@ -1,6 +1,6 @@
 # deghosal-2026/agent-tooltrust
 
-[![Stars](https://img.shields.io/github/stars/deghosal-2026/agent-tooltrust?style=flat-square&color=yellow)](https://github.com/deghosal-2026/agent-tooltrust/stargazers) [![Forks](https://img.shields.io/github/forks/deghosal-2026/agent-tooltrust?style=flat-square&color=blue)](https://github.com/deghosal-2026/agent-tooltrust/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deghosal-2026/agent-tooltrust?style=flat-square&color=yellow)](https://github.com/deghosal-2026/agent-tooltrust/stargazers) [![Forks](https://img.shields.io/github/forks/deghosal-2026/agent-tooltrust?style=flat-square&color=blue)](https://github.com/deghosal-2026/agent-tooltrust/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag ai): I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -88,14 +88,15 @@ The production readiness of I Stopped Trusting AI Agents With Tools. So I Built 
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 63/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 40/100 |
+| recency | 80/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

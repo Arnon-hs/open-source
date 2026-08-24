@@ -1,6 +1,6 @@
 # jenkinsci/warnings-ng-plugin
 
-[![Stars](https://img.shields.io/github/stars/jenkinsci/warnings-ng-plugin?style=flat-square&color=yellow)](https://github.com/jenkinsci/warnings-ng-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/warnings-ng-plugin?style=flat-square&color=blue)](https://github.com/jenkinsci/warnings-ng-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkinsci/warnings-ng-plugin?style=flat-square&color=yellow)](https://github.com/jenkinsci/warnings-ng-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/warnings-ng-plugin?style=flat-square&color=blue)](https://github.com/jenkinsci/warnings-ng-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Jenkins Warnings Plugin - Next Generation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 288 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Jenkins Warnings Plugin - Next Generation 是一个开源项目，旨在为 Jenk
 | forks | 62/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

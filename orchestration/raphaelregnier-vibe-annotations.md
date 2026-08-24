@@ -1,6 +1,6 @@
 # RaphaelRegnier/vibe-annotations
 
-[![Stars](https://img.shields.io/github/stars/RaphaelRegnier/vibe-annotations?style=flat-square&color=yellow)](https://github.com/RaphaelRegnier/vibe-annotations/stargazers) [![Forks](https://img.shields.io/github/forks/RaphaelRegnier/vibe-annotations?style=flat-square&color=blue)](https://github.com/RaphaelRegnier/vibe-annotations/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RaphaelRegnier/vibe-annotations?style=flat-square&color=yellow)](https://github.com/RaphaelRegnier/vibe-annotations/stargazers) [![Forks](https://img.shields.io/github/forks/RaphaelRegnier/vibe-annotations?style=flat-square&color=blue)](https://github.com/RaphaelRegnier/vibe-annotations/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered annotations for localhost development. Create visual feedback on your apps and let AI coding agents automatically implement fixes via MCP integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ RaphaelRegnier/vibe-annotations 的价值在于，它可以将孤立的提示和
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

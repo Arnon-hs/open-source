@@ -1,6 +1,6 @@
 # fossology/fossology
 
-[![Stars](https://img.shields.io/github/stars/fossology/fossology?style=flat-square&color=yellow)](https://github.com/fossology/fossology/stargazers) [![Forks](https://img.shields.io/github/forks/fossology/fossology?style=flat-square&color=blue)](https://github.com/fossology/fossology/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fossology/fossology?style=flat-square&color=yellow)](https://github.com/fossology/fossology/stargazers) [![Forks](https://img.shields.io/github/forks/fossology/fossology?style=flat-square&color=blue)](https://github.com/fossology/fossology/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 985 |
 | 🍴 **Forks** | 616 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Data · Database
+Automation · Database
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ FOSSology 是一套开源的许可证合规系统和工具集，既提供命令�
 | forks | 70/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

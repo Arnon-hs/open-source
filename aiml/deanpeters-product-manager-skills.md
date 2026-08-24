@@ -1,6 +1,6 @@
 # deanpeters/Product-Manager-Skills
 
-[![Stars](https://img.shields.io/github/stars/deanpeters/Product-Manager-Skills?style=flat-square&color=yellow)](https://github.com/deanpeters/Product-Manager-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/deanpeters/Product-Manager-Skills?style=flat-square&color=blue)](https://github.com/deanpeters/Product-Manager-Skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deanpeters/Product-Manager-Skills?style=flat-square&color=yellow)](https://github.com/deanpeters/Product-Manager-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/deanpeters/Product-Manager-Skills?style=flat-square&color=blue)](https://github.com/deanpeters/Product-Manager-Skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 705 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Product
+AI/ML · Product
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ deanpeters/Product-Manager-Skills 提供了一套经过实战验证的产品管�
 | forks | 71/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 85/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

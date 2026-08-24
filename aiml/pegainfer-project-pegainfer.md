@@ -1,6 +1,6 @@
 # pegainfer-project/pegainfer
 
-[![Stars](https://img.shields.io/github/stars/pegainfer-project/pegainfer?style=flat-square&color=yellow)](https://github.com/pegainfer-project/pegainfer/stargazers) [![Forks](https://img.shields.io/github/forks/pegainfer-project/pegainfer?style=flat-square&color=blue)](https://github.com/pegainfer-project/pegainfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pegainfer-project/pegainfer?style=flat-square&color=yellow)](https://github.com/pegainfer-project/pegainfer/stargazers) [![Forks](https://img.shields.io/github/forks/pegainfer-project/pegainfer?style=flat-square&color=blue)](https://github.com/pegainfer-project/pegainfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Rust + CUDA LLM inference engine — no PyTorch, OpenAI-compatible, serves Qwen3 to Kimi-K2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 644 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ pegainfer-project/pegainfer 在生产环境中具有较高的可用性，主要�
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

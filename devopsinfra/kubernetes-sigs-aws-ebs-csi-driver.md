@@ -1,6 +1,6 @@
 # kubernetes-sigs/aws-ebs-csi-driver
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-ebs-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-ebs-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-ebs-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-ebs-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 858 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ kubernetes-sigs/aws-ebs-c
 | forks | 73/100 |
 | stars | 65/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

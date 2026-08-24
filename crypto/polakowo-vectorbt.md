@@ -1,6 +1,6 @@
 # polakowo/vectorbt
 
-[![Stars](https://img.shields.io/github/stars/polakowo/vectorbt?style=flat-square&color=yellow)](https://github.com/polakowo/vectorbt/stargazers) [![Forks](https://img.shields.io/github/forks/polakowo/vectorbt?style=flat-square&color=blue)](https://github.com/polakowo/vectorbt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polakowo/vectorbt?style=flat-square&color=yellow)](https://github.com/polakowo/vectorbt/stargazers) [![Forks](https://img.shields.io/github/forks/polakowo/vectorbt?style=flat-square&color=blue)](https://github.com/polakowo/vectorbt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML · DevTools · Data
+Crypto · Trading · Data
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ polakowo/vectorbt 的生产可用性非常高，因为：
 | forks | 76/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 82/100 |
+| recency | 60/100 |
 | adoption | 82/100 |
-| production | 83/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # datawhalechina/self-llm
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/self-llm?style=flat-square&color=yellow)](https://github.com/datawhalechina/self-llm/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/self-llm?style=flat-square&color=blue)](https://github.com/datawhalechina/self-llm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/self-llm?style=flat-square&color=yellow)](https://github.com/datawhalechina/self-llm/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/self-llm?style=flat-square&color=blue)](https://github.com/datawhalechina/self-llm/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.5k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ datawhalechina/self-llm 提供了针对 Linux 环境的快速全参数或 LoRA �
 | forks | 87/100 |
 | stars | 96/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 87/100 |
+| recency | 60/100 |
 | adoption | 93/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

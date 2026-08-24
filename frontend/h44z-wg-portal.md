@@ -1,6 +1,6 @@
 # h44z/wg-portal
 
-[![Stars](https://img.shields.io/github/stars/h44z/wg-portal?style=flat-square&color=yellow)](https://github.com/h44z/wg-portal/stargazers) [![Forks](https://img.shields.io/github/forks/h44z/wg-portal?style=flat-square&color=blue)](https://github.com/h44z/wg-portal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h44z/wg-portal?style=flat-square&color=yellow)](https://github.com/h44z/wg-portal/stargazers) [![Forks](https://img.shields.io/github/forks/h44z/wg-portal?style=flat-square&color=blue)](https://github.com/h44z/wg-portal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > WireGuard Configuration Portal with LDAP connection
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ h44z/wg-portal 是一款基于 Go 的 WireGuard 配置管理门户，内置 LDAP
 | forks | 57/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

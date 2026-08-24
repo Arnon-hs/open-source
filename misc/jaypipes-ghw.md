@@ -1,6 +1,6 @@
 # jaypipes/ghw
 
-[![Stars](https://img.shields.io/github/stars/jaypipes/ghw?style=flat-square&color=yellow)](https://github.com/jaypipes/ghw/stargazers) [![Forks](https://img.shields.io/github/forks/jaypipes/ghw?style=flat-square&color=blue)](https://github.com/jaypipes/ghw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaypipes/ghw?style=flat-square&color=yellow)](https://github.com/jaypipes/ghw/stargazers) [![Forks](https://img.shields.io/github/forks/jaypipes/ghw?style=flat-square&color=blue)](https://github.com/jaypipes/ghw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Go HardWare discovery/inspection library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ jaypipes/ghw是一个开源的硬件发现和检查库，使用Go语言开发。
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

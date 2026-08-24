@@ -1,6 +1,6 @@
 # dgud/wings
 
-[![Stars](https://img.shields.io/github/stars/dgud/wings?style=flat-square&color=yellow)](https://github.com/dgud/wings/stargazers) [![Forks](https://img.shields.io/github/forks/dgud/wings?style=flat-square&color=blue)](https://github.com/dgud/wings/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dgud/wings?style=flat-square&color=yellow)](https://github.com/dgud/wings/stargazers) [![Forks](https://img.shields.io/github/forks/dgud/wings?style=flat-square&color=blue)](https://github.com/dgud/wings/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Wings3D is an advanced sub-division 3D modeller.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 659 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Erlang |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Wings3D 的生产可用性为中等，适合用于原型开发或内部工作流
 | forks | 50/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

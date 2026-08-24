@@ -1,6 +1,6 @@
 # microsoft/retina
 
-[![Stars](https://img.shields.io/github/stars/microsoft/retina?style=flat-square&color=yellow)](https://github.com/microsoft/retina/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/retina?style=flat-square&color=blue)](https://github.com/microsoft/retina/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/retina?style=flat-square&color=yellow)](https://github.com/microsoft/retina/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/retina?style=flat-square&color=blue)](https://github.com/microsoft/retina/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF distributed networking observability tool for Kubernetes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Microsoft/Retina具有高生产可用性，主要原因包括：
 | forks | 62/100 |
 | stars | 74/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

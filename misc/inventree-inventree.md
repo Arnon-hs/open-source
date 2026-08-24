@@ -1,6 +1,6 @@
 # inventree/InvenTree
 
-[![Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=flat-square&color=yellow)](https://github.com/inventree/InvenTree/stargazers) [![Forks](https://img.shields.io/github/forks/inventree/InvenTree?style=flat-square&color=blue)](https://github.com/inventree/InvenTree/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=flat-square&color=yellow)](https://github.com/inventree/InvenTree/stargazers) [![Forks](https://img.shields.io/github/forks/inventree/InvenTree?style=flat-square&color=blue)](https://github.com/inventree/InvenTree/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Inventory Management System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ InvenTree 的生产可用性较高，主要原因是其最近的活动、采用�
 | forks | 79/100 |
 | stars | 82/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 81/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

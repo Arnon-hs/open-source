@@ -1,6 +1,6 @@
 # aws/aws-sdk-ruby
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-sdk-ruby?style=flat-square&color=yellow)](https://github.com/aws/aws-sdk-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-sdk-ruby?style=flat-square&color=blue)](https://github.com/aws/aws-sdk-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-sdk-ruby?style=flat-square&color=yellow)](https://github.com/aws/aws-sdk-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-sdk-ruby?style=flat-square&color=blue)](https://github.com/aws/aws-sdk-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The official AWS SDK for Ruby
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ s3.put_object(bucket: 'my-bucket', key: 'hello.txt', body: 'Hello World')
 | forks | 77/100 |
 | stars | 76/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

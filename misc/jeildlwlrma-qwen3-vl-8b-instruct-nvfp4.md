@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 30/100 |
-| 🗓️ **Last push** | 2026-02-02 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -72,6 +72,7 @@ JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4：JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

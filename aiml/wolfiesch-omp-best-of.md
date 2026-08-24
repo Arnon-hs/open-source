@@ -1,6 +1,6 @@
 # wolfiesch/omp-best-of
 
-[![Stars](https://img.shields.io/github/stars/wolfiesch/omp-best-of?style=flat-square&color=yellow)](https://github.com/wolfiesch/omp-best-of/stargazers) [![Forks](https://img.shields.io/github/forks/wolfiesch/omp-best-of?style=flat-square&color=blue)](https://github.com/wolfiesch/omp-best-of/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wolfiesch/omp-best-of?style=flat-square&color=yellow)](https://github.com/wolfiesch/omp-best-of/stargazers) [![Forks](https://img.shields.io/github/forks/wolfiesch/omp-best-of?style=flat-square&color=blue)](https://github.com/wolfiesch/omp-best-of/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Best-of-N coding agents with LLM-as-a-Verifier selection for Oh My Pi: isolated git worktrees, verifier-ranked trajectories, winner-only patch application
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ wolfiesch/omp-best-of：wolfiesch/omp-best-of helps add AI capability without st
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

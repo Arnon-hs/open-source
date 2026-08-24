@@ -1,6 +1,6 @@
 # RichSchefren/atlas
 
-[![Stars](https://img.shields.io/github/stars/RichSchefren/atlas?style=flat-square&color=yellow)](https://github.com/RichSchefren/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/RichSchefren/atlas?style=flat-square&color=blue)](https://github.com/RichSchefren/atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RichSchefren/atlas?style=flat-square&color=yellow)](https://github.com/RichSchefren/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/RichSchefren/atlas?style=flat-square&color=blue)](https://github.com/RichSchefren/atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source local-first cognitive memory. AGM-compliant belief revision (49/49 postulates). When a fact changes, downstream beliefs are automatically re-evaluated, not just flagged.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ RichSchefren/atlas 的生产可用性很高，适合用于严肃的试验。其 
 | forks | 31/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

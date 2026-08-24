@@ -1,6 +1,6 @@
 # sudodevdante/enchat
 
-[![Stars](https://img.shields.io/github/stars/sudodevdante/enchat?style=flat-square&color=yellow)](https://github.com/sudodevdante/enchat/stargazers) [![Forks](https://img.shields.io/github/forks/sudodevdante/enchat?style=flat-square&color=blue)](https://github.com/sudodevdante/enchat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sudodevdante/enchat?style=flat-square&color=yellow)](https://github.com/sudodevdante/enchat/stargazers) [![Forks](https://img.shields.io/github/forks/sudodevdante/enchat?style=flat-square&color=blue)](https://github.com/sudodevdante/enchat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > End-to-end encrypted, ephemeral, self-hosted terminal chat — no accounts, no history, no cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Overall, enchat offers a low‑friction, secure chat layer that can be evaluated
 | forks | 35/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

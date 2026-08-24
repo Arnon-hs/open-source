@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | PaddleOCR |
 | 📈 **Score** | 32/100 |
-| 🗓️ **Last push** | 2025-07-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -95,6 +95,7 @@ PaddlePaddle/UVDoc 的生产可用性暂时处于早期或不明确的状态。�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

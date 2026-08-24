@@ -1,6 +1,6 @@
 # WebODM/WebODM
 
-[![Stars](https://img.shields.io/github/stars/WebODM/WebODM?style=flat-square&color=yellow)](https://github.com/WebODM/WebODM/stargazers) [![Forks](https://img.shields.io/github/forks/WebODM/WebODM?style=flat-square&color=blue)](https://github.com/WebODM/WebODM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WebODM/WebODM?style=flat-square&color=yellow)](https://github.com/WebODM/WebODM/stargazers) [![Forks](https://img.shields.io/github/forks/WebODM/WebODM?style=flat-square&color=blue)](https://github.com/WebODM/WebODM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > User-friendly, commercial-grade software for processing aerial imagery. ✈️ Download it for free!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ WebODM/WebODM 的生产可用性非常高，因为它具有以下特点：
 | forks | 77/100 |
 | stars | 77/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

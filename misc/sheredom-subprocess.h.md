@@ -1,6 +1,6 @@
 # sheredom/subprocess.h
 
-[![Stars](https://img.shields.io/github/stars/sheredom/subprocess.h?style=flat-square&color=yellow)](https://github.com/sheredom/subprocess.h/stargazers) [![Forks](https://img.shields.io/github/forks/sheredom/subprocess.h?style=flat-square&color=blue)](https://github.com/sheredom/subprocess.h/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sheredom/subprocess.h?style=flat-square&color=yellow)](https://github.com/sheredom/subprocess.h/stargazers) [![Forks](https://img.shields.io/github/forks/sheredom/subprocess.h?style=flat-square&color=blue)](https://github.com/sheredom/subprocess.h/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🐜 single header process launching solution for C and C++
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ sheredom/subprocess.h 的生产可用性为中等（Medium）。它可以在 pro
 | forks | 51/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

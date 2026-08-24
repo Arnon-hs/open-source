@@ -1,6 +1,6 @@
 # smogon/pokemon-showdown
 
-[![Stars](https://img.shields.io/github/stars/smogon/pokemon-showdown?style=flat-square&color=yellow)](https://github.com/smogon/pokemon-showdown/stargazers) [![Forks](https://img.shields.io/github/forks/smogon/pokemon-showdown?style=flat-square&color=blue)](https://github.com/smogon/pokemon-showdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smogon/pokemon-showdown?style=flat-square&color=yellow)](https://github.com/smogon/pokemon-showdown/stargazers) [![Forks](https://img.shields.io/github/forks/smogon/pokemon-showdown?style=flat-square&color=blue)](https://github.com/smogon/pokemon-showdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Pokémon battle simulator.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ smogon/pokemon-showdown 的价值在于它可以提供一个真实的 Pokémon �
 | forks | 88/100 |
 | stars | 80/100 |
 | topics | 13/100 |
-| outlook | 75/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 82/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

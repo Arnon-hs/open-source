@@ -1,6 +1,6 @@
 # robinebers/openusage
 
-[![Stars](https://img.shields.io/github/stars/robinebers/openusage?style=flat-square&color=yellow)](https://github.com/robinebers/openusage/stargazers) [![Forks](https://img.shields.io/github/forks/robinebers/openusage?style=flat-square&color=blue)](https://github.com/robinebers/openusage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robinebers/openusage?style=flat-square&color=yellow)](https://github.com/robinebers/openusage/stargazers) [![Forks](https://img.shields.io/github/forks/robinebers/openusage?style=flat-square&color=blue)](https://github.com/robinebers/openusage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ OpenUsage（robinebers/openusage）是一款免费开源的支付/计费工具�
 | forks | 58/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

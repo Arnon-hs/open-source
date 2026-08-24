@@ -1,6 +1,6 @@
 # Kindness-Kismet/stelliberty
 
-[![Stars](https://img.shields.io/github/stars/Kindness-Kismet/stelliberty?style=flat-square&color=yellow)](https://github.com/Kindness-Kismet/stelliberty/stargazers) [![Forks](https://img.shields.io/github/forks/Kindness-Kismet/stelliberty?style=flat-square&color=blue)](https://github.com/Kindness-Kismet/stelliberty/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kindness-Kismet/stelliberty?style=flat-square&color=yellow)](https://github.com/Kindness-Kismet/stelliberty/stargazers) [![Forks](https://img.shields.io/github/forks/Kindness-Kismet/stelliberty?style=flat-square&color=blue)](https://github.com/Kindness-Kismet/stelliberty/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Stelliberty Remake，高性能且美观的现代跨平台网络客户端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 973 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Kindness-Kismet/stelliberty的生产可用性为中等。它适合用于内部�
 | forks | 37/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

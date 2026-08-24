@@ -1,6 +1,6 @@
 # apache/calcite
 
-[![Stars](https://img.shields.io/github/stars/apache/calcite?style=flat-square&color=yellow)](https://github.com/apache/calcite/stargazers) [![Forks](https://img.shields.io/github/forks/apache/calcite?style=flat-square&color=blue)](https://github.com/apache/calcite/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/calcite?style=flat-square&color=yellow)](https://github.com/apache/calcite/stargazers) [![Forks](https://img.shields.io/github/forks/apache/calcite?style=flat-square&color=blue)](https://github.com/apache/calcite/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Calcite
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Apache Calcite 的生产可用性非常高，主要原因是：
 | forks | 85/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

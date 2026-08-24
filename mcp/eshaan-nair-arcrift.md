@@ -1,6 +1,6 @@
 # Eshaan-Nair/ArcRift
 
-[![Stars](https://img.shields.io/github/stars/Eshaan-Nair/ArcRift?style=flat-square&color=yellow)](https://github.com/Eshaan-Nair/ArcRift/stargazers) [![Forks](https://img.shields.io/github/forks/Eshaan-Nair/ArcRift?style=flat-square&color=blue)](https://github.com/Eshaan-Nair/ArcRift/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Eshaan-Nair/ArcRift?style=flat-square&color=yellow)](https://github.com/Eshaan-Nair/ArcRift/stargazers) [![Forks](https://img.shields.io/github/forks/Eshaan-Nair/ArcRift?style=flat-square&color=blue)](https://github.com/Eshaan-Nair/ArcRift/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agents (Cursor, Claude Code, Windsurf)  powered by a local SQLite knowledge graph.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ ArcRift 的生产可用性很高，主要原因是：
 | forks | 39/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

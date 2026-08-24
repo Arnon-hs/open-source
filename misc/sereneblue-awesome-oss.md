@@ -1,6 +1,6 @@
 # sereneblue/awesome-oss
 
-[![Stars](https://img.shields.io/github/stars/sereneblue/awesome-oss?style=flat-square&color=yellow)](https://github.com/sereneblue/awesome-oss/stargazers) [![Forks](https://img.shields.io/github/forks/sereneblue/awesome-oss?style=flat-square&color=blue)](https://github.com/sereneblue/awesome-oss/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sereneblue/awesome-oss?style=flat-square&color=yellow)](https://github.com/sereneblue/awesome-oss/stargazers) [![Forks](https://img.shields.io/github/forks/sereneblue/awesome-oss?style=flat-square&color=blue)](https://github.com/sereneblue/awesome-oss/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A list of open source projects with links to contribute or donate.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ sereneblue/awesome-oss 是一个精选的开源项目列表，提供项目链接
 | forks | 57/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

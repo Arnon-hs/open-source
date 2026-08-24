@@ -1,6 +1,6 @@
 # bcgit/bc-java
 
-[![Stars](https://img.shields.io/github/stars/bcgit/bc-java?style=flat-square&color=yellow)](https://github.com/bcgit/bc-java/stargazers) [![Forks](https://img.shields.io/github/forks/bcgit/bc-java?style=flat-square&color=blue)](https://github.com/bcgit/bc-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bcgit/bc-java?style=flat-square&color=yellow)](https://github.com/bcgit/bc-java/stargazers) [![Forks](https://img.shields.io/github/forks/bcgit/bc-java?style=flat-square&color=blue)](https://github.com/bcgit/bc-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Bouncy Castle Java Distribution (Mirror)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading
+Crypto
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ bcgit/bc-java 是 Bouncy Castle 在 Java 生态的官方镜像，提供完整、
 | forks | 77/100 |
 | stars | 73/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 74/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

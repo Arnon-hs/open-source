@@ -1,6 +1,6 @@
 # pmndrs/react-three-fiber
 
-[![Stars](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=flat-square&color=yellow)](https://github.com/pmndrs/react-three-fiber/stargazers) [![Forks](https://img.shields.io/github/forks/pmndrs/react-three-fiber?style=flat-square&color=blue)](https://github.com/pmndrs/react-three-fiber/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=flat-square&color=yellow)](https://github.com/pmndrs/react-three-fiber/stargazers) [![Forks](https://img.shields.io/github/forks/pmndrs/react-three-fiber?style=flat-square&color=blue)](https://github.com/pmndrs/react-three-fiber/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🇨🇭 A React renderer for Three.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31.6k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ pmndrs/react-three-fiber 在生产环境中具有较高的可用性，主要原�
 | forks | 82/100 |
 | stars | 96/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 83/100 |
+| recency | 60/100 |
 | adoption | 92/100 |
-| production | 81/100 |
-| usefulness | 42/100 |
+| production | 68/100 |
+| usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

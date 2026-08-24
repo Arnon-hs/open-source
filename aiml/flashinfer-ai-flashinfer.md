@@ -1,6 +1,6 @@
 # flashinfer-ai/flashinfer
 
-[![Stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=flat-square&color=yellow)](https://github.com/flashinfer-ai/flashinfer/stargazers) [![Forks](https://img.shields.io/github/forks/flashinfer-ai/flashinfer?style=flat-square&color=blue)](https://github.com/flashinfer-ai/flashinfer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=flat-square&color=yellow)](https://github.com/flashinfer-ai/flashinfer/stargazers) [![Forks](https://img.shields.io/github/forks/flashinfer-ai/flashinfer?style=flat-square&color=blue)](https://github.com/flashinfer-ai/flashinfer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > FlashInfer: Kernel Library for LLM Serving
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ FlashInfer（flashinfer-ai/flashinfer）是一套面向大语言模型（LLM）�
 | forks | 76/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

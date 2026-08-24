@@ -1,6 +1,6 @@
 # openshift/cluster-monitoring-operator
 
-[![Stars](https://img.shields.io/github/stars/openshift/cluster-monitoring-operator?style=flat-square&color=yellow)](https://github.com/openshift/cluster-monitoring-operator/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/cluster-monitoring-operator?style=flat-square&color=blue)](https://github.com/openshift/cluster-monitoring-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/cluster-monitoring-operator?style=flat-square&color=yellow)](https://github.com/openshift/cluster-monitoring-operator/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/cluster-monitoring-operator?style=flat-square&color=blue)](https://github.com/openshift/cluster-monitoring-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Manage the OpenShift monitoring stack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 408 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ OpenShift 集群监控运营商（openshift/cluster-monitoring-operator）是一
 | forks | 65/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

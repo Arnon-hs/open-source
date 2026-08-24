@@ -1,6 +1,6 @@
 # josegonzalez/python-github-backup
 
-[![Stars](https://img.shields.io/github/stars/josegonzalez/python-github-backup?style=flat-square&color=yellow)](https://github.com/josegonzalez/python-github-backup/stargazers) [![Forks](https://img.shields.io/github/forks/josegonzalez/python-github-backup?style=flat-square&color=blue)](https://github.com/josegonzalez/python-github-backup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/josegonzalez/python-github-backup?style=flat-square&color=yellow)](https://github.com/josegonzalez/python-github-backup/stargazers) [![Forks](https://img.shields.io/github/forks/josegonzalez/python-github-backup?style=flat-square&color=blue)](https://github.com/josegonzalez/python-github-backup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > backup a github user or organization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ josegonzalez/python-github-backup 的生产可用性较高，因为它有足够�
 | forks | 61/100 |
 | stars | 68/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 76/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ttguy0707/CyberClaw
 
-[![Stars](https://img.shields.io/github/stars/ttguy0707/CyberClaw?style=flat-square&color=yellow)](https://github.com/ttguy0707/CyberClaw/stargazers) [![Forks](https://img.shields.io/github/forks/ttguy0707/CyberClaw?style=flat-square&color=blue)](https://github.com/ttguy0707/CyberClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ttguy0707/CyberClaw?style=flat-square&color=yellow)](https://github.com/ttguy0707/CyberClaw/stargazers) [![Forks](https://img.shields.io/github/forks/ttguy0707/CyberClaw?style=flat-square&color=blue)](https://github.com/ttguy0707/CyberClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 👾 下一代透明智能体架构 | Next-Gen Transparent Agent Architecture 🔍 全行为审计 | 🛡️ 两段式安全调用 | 🧠 双水位记忆 | ⏰ 心跳任务 📊 P0 级事故率降低 80% | 兼容 OpenClaw + Claude Code 技能生态
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ CyberClaw 在生产环境中有很高的可用性。它的最近活动、采用�
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

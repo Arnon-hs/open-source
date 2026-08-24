@@ -1,6 +1,6 @@
 # AceDataCloud/SunoMCP
 
-[![Stars](https://img.shields.io/github/stars/AceDataCloud/SunoMCP?style=flat-square&color=yellow)](https://github.com/AceDataCloud/SunoMCP/stargazers) [![Forks](https://img.shields.io/github/forks/AceDataCloud/SunoMCP?style=flat-square&color=blue)](https://github.com/AceDataCloud/SunoMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AceDataCloud/SunoMCP?style=flat-square&color=yellow)](https://github.com/AceDataCloud/SunoMCP/stargazers) [![Forks](https://img.shields.io/github/forks/AceDataCloud/SunoMCP?style=flat-square&color=blue)](https://github.com/AceDataCloud/SunoMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Suno AI music generation, lyrics, and cover workflows via Ace Data Cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ AceDataCloud/SunoMCP 为 AI 应用提供了“一站式”接入 Suno 音乐生�
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

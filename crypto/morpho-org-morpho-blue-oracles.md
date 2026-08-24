@@ -1,6 +1,6 @@
 # morpho-org/morpho-blue-oracles
 
-[![Stars](https://img.shields.io/github/stars/morpho-org/morpho-blue-oracles?style=flat-square&color=yellow)](https://github.com/morpho-org/morpho-blue-oracles/stargazers) [![Forks](https://img.shields.io/github/forks/morpho-org/morpho-blue-oracles?style=flat-square&color=blue)](https://github.com/morpho-org/morpho-blue-oracles/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morpho-org/morpho-blue-oracles?style=flat-square&color=yellow)](https://github.com/morpho-org/morpho-blue-oracles/stargazers) [![Forks](https://img.shields.io/github/forks/morpho-org/morpho-blue-oracles?style=flat-square&color=blue)](https://github.com/morpho-org/morpho-blue-oracles/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Morpho Blue Oracles
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Solidity |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ morpho-org/morpho-blue-oracles：morpho-org/morpho-blue-oracles helps prototype 
 | forks | 45/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

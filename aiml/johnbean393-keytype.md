@@ -1,6 +1,6 @@
 # johnbean393/KeyType
 
-[![Stars](https://img.shields.io/github/stars/johnbean393/KeyType?style=flat-square&color=yellow)](https://github.com/johnbean393/KeyType/stargazers) [![Forks](https://img.shields.io/github/forks/johnbean393/KeyType?style=flat-square&color=blue)](https://github.com/johnbean393/KeyType/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johnbean393/KeyType?style=flat-square&color=yellow)](https://github.com/johnbean393/KeyType/stargazers) [![Forks](https://img.shields.io/github/forks/johnbean393/KeyType?style=flat-square&color=blue)](https://github.com/johnbean393/KeyType/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source Cotypist with macOS system wide AI autocomplete
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ KeyType（johnbean393/KeyType）是一款开源的 macOS 全局 AI 自动补全�
 | forks | 30/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

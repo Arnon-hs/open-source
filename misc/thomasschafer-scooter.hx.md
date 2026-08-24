@@ -1,6 +1,6 @@
 # thomasschafer/scooter.hx
 
-[![Stars](https://img.shields.io/github/stars/thomasschafer/scooter.hx?style=flat-square&color=yellow)](https://github.com/thomasschafer/scooter.hx/stargazers) [![Forks](https://img.shields.io/github/forks/thomasschafer/scooter.hx?style=flat-square&color=blue)](https://github.com/thomasschafer/scooter.hx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thomasschafer/scooter.hx?style=flat-square&color=yellow)](https://github.com/thomasschafer/scooter.hx/stargazers) [![Forks](https://img.shields.io/github/forks/thomasschafer/scooter.hx?style=flat-square&color=blue)](https://github.com/thomasschafer/scooter.hx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive find-and-replace Helix plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ thomasschafer/scooter.hx 是一个交互式的查找和替换插件，基于Heli
 | forks | 15/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 80/100 |
 | adoption | 36/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hongmaple0820/scale-engine
 
-[![Stars](https://img.shields.io/github/stars/hongmaple0820/scale-engine?style=flat-square&color=yellow)](https://github.com/hongmaple0820/scale-engine/stargazers) [![Forks](https://img.shields.io/github/forks/hongmaple0820/scale-engine?style=flat-square&color=blue)](https://github.com/hongmaple0820/scale-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hongmaple0820/scale-engine?style=flat-square&color=yellow)](https://github.com/hongmaple0820/scale-engine/stargazers) [![Forks](https://img.shields.io/github/forks/hongmaple0820/scale-engine?style=flat-square&color=blue)](https://github.com/hongmaple0820/scale-engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > SCALE Engine 是一个 AI 工程化脚手架引擎，为 AI Agent（Claude Code、Codex CLI、OpenCode、Cursor、Gemini CLI 等）提供物理约束层，确保 AI 在编码过程中遵循工程规范，而不是依赖提示词的"自律"。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ SCALE Engine 是一款面向 AI Agent（如 Claude Code、Codex CLI、OpenCode�
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

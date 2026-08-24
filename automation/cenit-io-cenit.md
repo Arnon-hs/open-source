@@ -1,6 +1,6 @@
 # cenit-io/cenit
 
-[![Stars](https://img.shields.io/github/stars/cenit-io/cenit?style=flat-square&color=yellow)](https://github.com/cenit-io/cenit/stargazers) [![Forks](https://img.shields.io/github/forks/cenit-io/cenit?style=flat-square&color=blue)](https://github.com/cenit-io/cenit/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cenit-io/cenit?style=flat-square&color=yellow)](https://github.com/cenit-io/cenit/stargazers) [![Forks](https://img.shields.io/github/forks/cenit-io/cenit?style=flat-square&color=blue)](https://github.com/cenit-io/cenit/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > :rocket: Cenit IO - 100% open source integration Platform (iPaaS)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Data · Database
+Automation · Data
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Cenit IO 的生产可用性为中等（Medium），适合用于原型或内部�
 | forks | 53/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

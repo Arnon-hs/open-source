@@ -1,6 +1,6 @@
 # yayuuu/hyprland-scroll-overview
 
-[![Stars](https://img.shields.io/github/stars/yayuuu/hyprland-scroll-overview?style=flat-square&color=yellow)](https://github.com/yayuuu/hyprland-scroll-overview/stargazers) [![Forks](https://img.shields.io/github/forks/yayuuu/hyprland-scroll-overview?style=flat-square&color=blue)](https://github.com/yayuuu/hyprland-scroll-overview/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yayuuu/hyprland-scroll-overview?style=flat-square&color=yellow)](https://github.com/yayuuu/hyprland-scroll-overview/stargazers) [![Forks](https://img.shields.io/github/forks/yayuuu/hyprland-scroll-overview?style=flat-square&color=blue)](https://github.com/yayuuu/hyprland-scroll-overview/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Scroll overview plugin, just like niri. Based on scroll-overview branch of hyprexpo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ yayuuu/hyprland-scroll-overview 是一个滚动预览插件，基于 Hyprexpo �
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

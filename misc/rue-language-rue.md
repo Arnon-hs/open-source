@@ -1,6 +1,6 @@
 # rue-language/rue
 
-[![Stars](https://img.shields.io/github/stars/rue-language/rue?style=flat-square&color=yellow)](https://github.com/rue-language/rue/stargazers) [![Forks](https://img.shields.io/github/forks/rue-language/rue?style=flat-square&color=blue)](https://github.com/rue-language/rue/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rue-language/rue?style=flat-square&color=yellow)](https://github.com/rue-language/rue/stargazers) [![Forks](https://img.shields.io/github/forks/rue-language/rue?style=flat-square&color=blue)](https://github.com/rue-language/rue/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A programming language that is higher level than Rust but lower level than Go. Someday, anyways.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ rue 是一门定位在 Rust 与 Go 之间的编程语言，旨在兼顾系统级
 | forks | 40/100 |
 | stars | 65/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

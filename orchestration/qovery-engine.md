@@ -1,6 +1,6 @@
 # Qovery/engine
 
-[![Stars](https://img.shields.io/github/stars/Qovery/engine?style=flat-square&color=yellow)](https://github.com/Qovery/engine/stargazers) [![Forks](https://img.shields.io/github/forks/Qovery/engine?style=flat-square&color=blue)](https://github.com/Qovery/engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qovery/engine?style=flat-square&color=yellow)](https://github.com/Qovery/engine/stargazers) [![Forks](https://img.shields.io/github/forks/Qovery/engine?style=flat-square&color=blue)](https://github.com/Qovery/engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Database · DevOps/Infra
+Orchestration · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Qovery / engine 是一款基于 Rust 的开源编排引擎，旨在把孤立
 | forks | 48/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

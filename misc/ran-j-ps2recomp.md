@@ -1,6 +1,6 @@
 # ran-j/PS2Recomp
 
-[![Stars](https://img.shields.io/github/stars/ran-j/PS2Recomp?style=flat-square&color=yellow)](https://github.com/ran-j/PS2Recomp/stargazers) [![Forks](https://img.shields.io/github/forks/ran-j/PS2Recomp?style=flat-square&color=blue)](https://github.com/ran-j/PS2Recomp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ran-j/PS2Recomp?style=flat-square&color=yellow)](https://github.com/ran-j/PS2Recomp/stargazers) [![Forks](https://img.shields.io/github/forks/ran-j/PS2Recomp?style=flat-square&color=blue)](https://github.com/ran-j/PS2Recomp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Let's craft: "ran-j/PS2Recomp 是一个 PlayStation 2 静态重编译器及运�
 | forks | 52/100 |
 | stars | 75/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

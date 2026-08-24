@@ -1,6 +1,6 @@
 # wormhole-foundation/wormhole
 
-[![Stars](https://img.shields.io/github/stars/wormhole-foundation/wormhole?style=flat-square&color=yellow)](https://github.com/wormhole-foundation/wormhole/stargazers) [![Forks](https://img.shields.io/github/forks/wormhole-foundation/wormhole?style=flat-square&color=blue)](https://github.com/wormhole-foundation/wormhole/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wormhole-foundation/wormhole?style=flat-square&color=yellow)](https://github.com/wormhole-foundation/wormhole/stargazers) [![Forks](https://img.shields.io/github/forks/wormhole-foundation/wormhole?style=flat-square&color=blue)](https://github.com/wormhole-foundation/wormhole/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A reference implementation for the Wormhole blockchain interoperability protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 851 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Database
+Crypto
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Wormhole（`wormhole-foundation/wormhole`）是 Wormhole 跨链互操作协议�
 | forks | 73/100 |
 | stars | 70/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

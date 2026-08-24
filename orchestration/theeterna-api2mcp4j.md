@@ -1,6 +1,6 @@
 # TheEterna/api2mcp4j
 
-[![Stars](https://img.shields.io/github/stars/TheEterna/api2mcp4j?style=flat-square&color=yellow)](https://github.com/TheEterna/api2mcp4j/stargazers) [![Forks](https://img.shields.io/github/forks/TheEterna/api2mcp4j?style=flat-square&color=blue)](https://github.com/TheEterna/api2mcp4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheEterna/api2mcp4j?style=flat-square&color=yellow)](https://github.com/TheEterna/api2mcp4j/stargazers) [![Forks](https://img.shields.io/github/forks/TheEterna/api2mcp4j?style=flat-square&color=blue)](https://github.com/TheEterna/api2mcp4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Spring Boot Starter: Auto-convert existing REST APIs (@RestController) to MCP Server with zero/low-code. Expose controllers as MCP Tools instantly.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · Education
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ TheEterna/api2mcp4j 有很高的生产可用性。它有活跃的维护者、强
 | forks | 30/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

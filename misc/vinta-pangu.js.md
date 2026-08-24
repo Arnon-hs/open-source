@@ -1,6 +1,6 @@
 # vinta/pangu.js
 
-[![Stars](https://img.shields.io/github/stars/vinta/pangu.js?style=flat-square&color=yellow)](https://github.com/vinta/pangu.js/stargazers) [![Forks](https://img.shields.io/github/forks/vinta/pangu.js?style=flat-square&color=blue)](https://github.com/vinta/pangu.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinta/pangu.js?style=flat-square&color=yellow)](https://github.com/vinta/pangu.js/stargazers) [![Forks](https://img.shields.io/github/forks/vinta/pangu.js?style=flat-square&color=blue)](https://github.com/vinta/pangu.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated paranoid text spacing in JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ vinta/pangu.js 在生产环境中是可用的，尤其是考虑到其最近的�
 | forks | 62/100 |
 | stars | 78/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

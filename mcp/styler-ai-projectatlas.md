@@ -1,6 +1,6 @@
 # styler-ai/ProjectAtlas
 
-[![Stars](https://img.shields.io/github/stars/styler-ai/ProjectAtlas?style=flat-square&color=yellow)](https://github.com/styler-ai/ProjectAtlas/stargazers) [![Forks](https://img.shields.io/github/forks/styler-ai/ProjectAtlas?style=flat-square&color=blue)](https://github.com/styler-ai/ProjectAtlas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/styler-ai/ProjectAtlas?style=flat-square&color=yellow)](https://github.com/styler-ai/ProjectAtlas/stargazers) [![Forks](https://img.shields.io/github/forks/styler-ai/ProjectAtlas?style=flat-square&color=blue)](https://github.com/styler-ai/ProjectAtlas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Every file not opened. Every folder not explored. ProjectAtlas guides coding agents with purpose metadata and an intelligent code graph, reducing token costs by over 90%.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Data
+MCP · DevTools · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ styler-ai/ProjectAtlas：styler-ai/ProjectAtlas helps connect AI assistants to r
 | forks | 8/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

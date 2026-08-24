@@ -1,6 +1,6 @@
 # Kaliiiiiiiiii-Vinyzu/patchright-nodejs
 
-[![Stars](https://img.shields.io/github/stars/Kaliiiiiiiiii-Vinyzu/patchright-nodejs?style=flat-square&color=yellow)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/Kaliiiiiiiiii-Vinyzu/patchright-nodejs?style=flat-square&color=blue)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kaliiiiiiiiii-Vinyzu/patchright-nodejs?style=flat-square&color=yellow)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/Kaliiiiiiiiii-Vinyzu/patchright-nodejs?style=flat-square&color=blue)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Undetected NodeJS version of the Playwright testing and automation library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 763 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Kaliiiiiiiiii-Vinyzu/patchright-nodejs：Kaliiiiiiiiii-Vinyzu/patchright-nodejs 
 | forks | 42/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 72/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

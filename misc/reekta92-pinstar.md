@@ -1,6 +1,6 @@
 # reekta92/pinstar
 
-[![Stars](https://img.shields.io/github/stars/reekta92/pinstar?style=flat-square&color=yellow)](https://github.com/reekta92/pinstar/stargazers) [![Forks](https://img.shields.io/github/forks/reekta92/pinstar?style=flat-square&color=blue)](https://github.com/reekta92/pinstar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reekta92/pinstar?style=flat-square&color=yellow)](https://github.com/reekta92/pinstar/stargazers) [![Forks](https://img.shields.io/github/forks/reekta92/pinstar?style=flat-square&color=blue)](https://github.com/reekta92/pinstar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Canvas file editor compatible with Obsidian .canvas files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ reekta92/pinstar 的生产可用性为中等。它适合用于原型开发或内
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 62/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 65/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

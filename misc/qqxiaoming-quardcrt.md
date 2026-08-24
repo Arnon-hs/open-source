@@ -1,6 +1,6 @@
 # QQxiaoming/quardCRT
 
-[![Stars](https://img.shields.io/github/stars/QQxiaoming/quardCRT?style=flat-square&color=yellow)](https://github.com/QQxiaoming/quardCRT/stargazers) [![Forks](https://img.shields.io/github/forks/QQxiaoming/quardCRT?style=flat-square&color=blue)](https://github.com/QQxiaoming/quardCRT/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QQxiaoming/quardCRT?style=flat-square&color=yellow)](https://github.com/QQxiaoming/quardCRT/stargazers) [![Forks](https://img.shields.io/github/forks/QQxiaoming/quardCRT?style=flat-square&color=blue)](https://github.com/QQxiaoming/quardCRT/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Your All-in-One Tool for Terminal Emulation and Remote Desktop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ QQxiaoming/quardCRT：QQxiaoming/quardCRT may be useful when its README and acti
 | forks | 29/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

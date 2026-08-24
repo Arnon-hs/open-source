@@ -1,6 +1,6 @@
 # genlm/genlm-control
 
-[![Stars](https://img.shields.io/github/stars/genlm/genlm-control?style=flat-square&color=yellow)](https://github.com/genlm/genlm-control/stargazers) [![Forks](https://img.shields.io/github/forks/genlm/genlm-control?style=flat-square&color=blue)](https://github.com/genlm/genlm-control/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genlm/genlm-control?style=flat-square&color=yellow)](https://github.com/genlm/genlm-control/stargazers) [![Forks](https://img.shields.io/github/forks/genlm/genlm-control?style=flat-square&color=blue)](https://github.com/genlm/genlm-control/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Controlled text generation with programmable constraints
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Genlm/genlm-control 是一个开源项目，提供了可控的文本生成功能
 | forks | 35/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

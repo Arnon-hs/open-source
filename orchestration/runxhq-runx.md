@@ -1,6 +1,6 @@
 # runxhq/runx
 
-[![Stars](https://img.shields.io/github/stars/runxhq/runx?style=flat-square&color=yellow)](https://github.com/runxhq/runx/stargazers) [![Forks](https://img.shields.io/github/forks/runxhq/runx?style=flat-square&color=blue)](https://github.com/runxhq/runx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runxhq/runx?style=flat-square&color=yellow)](https://github.com/runxhq/runx/stargazers) [![Forks](https://img.shields.io/github/forks/runxhq/runx?style=flat-square&color=blue)](https://github.com/runxhq/runx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > the governed runtime for agent skill workflows, off the leash but on the record
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ runxhq/runx 在生产环境中具有很高的可用性。项目最近有活跃�
 | forks | 44/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

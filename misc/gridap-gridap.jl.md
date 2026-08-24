@@ -1,6 +1,6 @@
 # gridap/Gridap.jl
 
-[![Stars](https://img.shields.io/github/stars/gridap/Gridap.jl?style=flat-square&color=yellow)](https://github.com/gridap/Gridap.jl/stargazers) [![Forks](https://img.shields.io/github/forks/gridap/Gridap.jl?style=flat-square&color=blue)](https://github.com/gridap/Gridap.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gridap/Gridap.jl?style=flat-square&color=yellow)](https://github.com/gridap/Gridap.jl/stargazers) [![Forks](https://img.shields.io/github/forks/gridap/Gridap.jl?style=flat-square&color=blue)](https://github.com/gridap/Gridap.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Grid-based approximation of partial differential equations in Julia
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 864 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Gridap/Gridap.jl 的生产可用性为中等（Medium）。它可以用于内部
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

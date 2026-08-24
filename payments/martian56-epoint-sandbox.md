@@ -1,6 +1,6 @@
 # martian56/epoint-sandbox
 
-[![Stars](https://img.shields.io/github/stars/martian56/epoint-sandbox?style=flat-square&color=yellow)](https://github.com/martian56/epoint-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/martian56/epoint-sandbox?style=flat-square&color=blue)](https://github.com/martian56/epoint-sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martian56/epoint-sandbox?style=flat-square&color=yellow)](https://github.com/martian56/epoint-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/martian56/epoint-sandbox?style=flat-square&color=blue)](https://github.com/martian56/epoint-sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > epoint.az ödəniş gateway-inin lokal sandbox-u. Bir konteynerdə: API, ödəniş səhifəsi, callback-lər və dashboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend · Backend · DevTools
+Payments · Frontend · Backend · DevTools · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ martian56/epoint-sandbox：martian56/epoint-sandbox helps integrate monetization
 | forks | 23/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 79/100 |
+| production | 73/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # raullenchai/vnsh
 
-[![Stars](https://img.shields.io/github/stars/raullenchai/vnsh?style=flat-square&color=yellow)](https://github.com/raullenchai/vnsh/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/vnsh?style=flat-square&color=blue)](https://github.com/raullenchai/vnsh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raullenchai/vnsh?style=flat-square&color=yellow)](https://github.com/raullenchai/vnsh/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/vnsh?style=flat-square&color=blue)](https://github.com/raullenchai/vnsh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The Ephemeral Dropbox for AI. Host-blind, client-side encrypted sharing for logs, diffs, and images. Vaporizes in 24h.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Observability · Security
+MCP · DevTools · Observability · Security
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ raullenchai/vnsh 的生产可用性较高，主要原因是其最近的活跃度
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

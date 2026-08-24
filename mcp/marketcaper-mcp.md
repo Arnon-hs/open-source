@@ -1,6 +1,6 @@
 # marketcaper/mcp
 
-[![Stars](https://img.shields.io/github/stars/marketcaper/mcp?style=flat-square&color=yellow)](https://github.com/marketcaper/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/marketcaper/mcp?style=flat-square&color=blue)](https://github.com/marketcaper/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marketcaper/mcp?style=flat-square&color=yellow)](https://github.com/marketcaper/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/marketcaper/mcp?style=flat-square&color=blue)](https://github.com/marketcaper/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Finance data and heatmap images for AI Agents Hermes OpenClaw
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Data
+MCP
 
 ## 📝 Summary
 
@@ -89,14 +89,15 @@ marketcaper/mcp 的价值在于，它可以帮助连接 AI 代理和真实工具
 | forks | 0/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

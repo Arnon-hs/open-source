@@ -1,6 +1,6 @@
 # JKorf/CoinEx.Net
 
-[![Stars](https://img.shields.io/github/stars/JKorf/CoinEx.Net?style=flat-square&color=yellow)](https://github.com/JKorf/CoinEx.Net/stargazers) [![Forks](https://img.shields.io/github/forks/JKorf/CoinEx.Net?style=flat-square&color=blue)](https://github.com/JKorf/CoinEx.Net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JKorf/CoinEx.Net?style=flat-square&color=yellow)](https://github.com/JKorf/CoinEx.Net/stargazers) [![Forks](https://img.shields.io/github/forks/JKorf/CoinEx.Net?style=flat-square&color=blue)](https://github.com/JKorf/CoinEx.Net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A C# .netstandard client library for the CoinEx REST and Websocket Spot API focusing on clear usage and models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Backend · DevTools
+Crypto · Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ JKorf/CoinEx.Net 的生产可用性较高，主要原因是：
 | forks | 39/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dbos-inc/dbos-transact-ts
 
-[![Stars](https://img.shields.io/github/stars/dbos-inc/dbos-transact-ts?style=flat-square&color=yellow)](https://github.com/dbos-inc/dbos-transact-ts/stargazers) [![Forks](https://img.shields.io/github/forks/dbos-inc/dbos-transact-ts?style=flat-square&color=blue)](https://github.com/dbos-inc/dbos-transact-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbos-inc/dbos-transact-ts?style=flat-square&color=yellow)](https://github.com/dbos-inc/dbos-transact-ts/stargazers) [![Forks](https://img.shields.io/github/forks/dbos-inc/dbos-transact-ts?style=flat-square&color=blue)](https://github.com/dbos-inc/dbos-transact-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Database-Backed Durable TypeScript Workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Backend · Data
+Orchestration · Automation · Database
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ dbos-inc/dbos-transact-ts 在生产环境中具有较高的可用性。该项目
 | forks | 49/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

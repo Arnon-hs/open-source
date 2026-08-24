@@ -1,6 +1,6 @@
 # xanderfrangos/twinkle-tray
 
-[![Stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat-square&color=yellow)](https://github.com/xanderfrangos/twinkle-tray/stargazers) [![Forks](https://img.shields.io/github/forks/xanderfrangos/twinkle-tray?style=flat-square&color=blue)](https://github.com/xanderfrangos/twinkle-tray/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat-square&color=yellow)](https://github.com/xanderfrangos/twinkle-tray/stargazers) [![Forks](https://img.shields.io/github/forks/xanderfrangos/twinkle-tray?style=flat-square&color=blue)](https://github.com/xanderfrangos/twinkle-tray/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Easily manage the brightness of your monitors in Windows from the system tray
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Twinkle-Tray 的生产可用性评估为高（High），因为它具有以下特
 | forks | 62/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

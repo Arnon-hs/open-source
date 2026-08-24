@@ -1,6 +1,6 @@
 # shy3130/tickflow-stock-panel
 
-[![Stars](https://img.shields.io/github/stars/shy3130/tickflow-stock-panel?style=flat-square&color=yellow)](https://github.com/shy3130/tickflow-stock-panel/stargazers) [![Forks](https://img.shields.io/github/forks/shy3130/tickflow-stock-panel?style=flat-square&color=blue)](https://github.com/shy3130/tickflow-stock-panel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shy3130/tickflow-stock-panel?style=flat-square&color=yellow)](https://github.com/shy3130/tickflow-stock-panel/stargazers) [![Forks](https://img.shields.io/github/forks/shy3130/tickflow-stock-panel?style=flat-square&color=blue)](https://github.com/shy3130/tickflow-stock-panel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Frontend · Backend · DevTools
+Trading · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ shy3130/tickflow‑stock‑panel 是一款自托管、零运维的 A 股「选�
 | forks | 38/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Gabson0x/bountyforge
 
-[![Stars](https://img.shields.io/github/stars/Gabson0x/bountyforge?style=flat-square&color=yellow)](https://github.com/Gabson0x/bountyforge/stargazers) [![Forks](https://img.shields.io/github/forks/Gabson0x/bountyforge?style=flat-square&color=blue)](https://github.com/Gabson0x/bountyforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gabson0x/bountyforge?style=flat-square&color=yellow)](https://github.com/Gabson0x/bountyforge/stargazers) [![Forks](https://img.shields.io/github/forks/Gabson0x/bountyforge?style=flat-square&color=blue)](https://github.com/Gabson0x/bountyforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > All-round bug bounty skill for Claude Code  parallelized agents for smart contract audits (EVM, Move, Solana, TRON), web/API security, and submission-ready reports for HackerOne, Bugcrowd, Intigriti & Immunefi.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Gabson0x/bountyforge 的生产可用性为中等（Medium）。它适合用于�
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 58/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

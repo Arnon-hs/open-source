@@ -1,6 +1,6 @@
 # FlameskyDexive/Legends-Of-Heroes
 
-[![Stars](https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=flat-square&color=yellow)](https://github.com/FlameskyDexive/Legends-Of-Heroes/stargazers) [![Forks](https://img.shields.io/github/forks/FlameskyDexive/Legends-Of-Heroes?style=flat-square&color=blue)](https://github.com/FlameskyDexive/Legends-Of-Heroes/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=flat-square&color=yellow)](https://github.com/FlameskyDexive/Legends-Of-Heroes/stargazers) [![Forks](https://img.shields.io/github/forks/FlameskyDexive/Legends-Of-Heroes?style=flat-square&color=blue)](https://github.com/FlameskyDexive/Legends-Of-Heroes/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A battle of balls game, lol style, AI Agents base, support agent skills & unityMCP. 基于ET 8.1的双端C#游戏框架(.net8 + Unity6000, EUI+Luban+YooAsset)，包含战斗系统（技能/buff/行为树），内置LOL风格球球大战demo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 891 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ FlameskyDexive/Legends-Of-Heroes 是基于 ET 8.1 双端 C# 框架（.NET 8 + 
 | forks | 57/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

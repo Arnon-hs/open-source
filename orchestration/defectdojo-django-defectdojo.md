@@ -1,6 +1,6 @@
 # DefectDojo/django-DefectDojo
 
-[![Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=flat-square&color=yellow)](https://github.com/DefectDojo/django-DefectDojo/stargazers) [![Forks](https://img.shields.io/github/forks/DefectDojo/django-DefectDojo?style=flat-square&color=blue)](https://github.com/DefectDojo/django-DefectDojo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=flat-square&color=yellow)](https://github.com/DefectDojo/django-DefectDojo/stargazers) [![Forks](https://img.shields.io/github/forks/DefectDojo/django-DefectDojo?style=flat-square&color=blue)](https://github.com/DefectDojo/django-DefectDojo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data · Database
+Orchestration · Automation · Data · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ DefectDojo/django-DefectDojo 在生产环境中的可用性非常高，原因如
 | forks | 82/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 80/100 |
-| production | 85/100 |
+| production | 72/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

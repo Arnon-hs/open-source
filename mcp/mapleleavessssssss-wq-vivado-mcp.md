@@ -1,6 +1,6 @@
 # mapleleavessssssss-wq/vivado-mcp
 
-[![Stars](https://img.shields.io/github/stars/mapleleavessssssss-wq/vivado-mcp?style=flat-square&color=yellow)](https://github.com/mapleleavessssssss-wq/vivado-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mapleleavessssssss-wq/vivado-mcp?style=flat-square&color=blue)](https://github.com/mapleleavessssssss-wq/vivado-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapleleavessssssss-wq/vivado-mcp?style=flat-square&color=yellow)](https://github.com/mapleleavessssssss-wq/vivado-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mapleleavessssssss-wq/vivado-mcp?style=flat-square&color=blue)](https://github.com/mapleleavessssssss-wq/vivado-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Xilinx Vivado — 让 AI(Claude Code / Cursor)驱动 FPGA 全流程:综合/实现/仿真/波形/时序诊断。30 个精简工具,CRITICAL WARNING 自动分类 + 中文修复建议,其余交给 run_tcl —— less is more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ mapleleavessssssss-wq/vivado-mcp 的价值在于，它帮助连接 AI 代理到�
 | forks | 32/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

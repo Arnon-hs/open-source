@@ -1,6 +1,6 @@
 # tx7do/go-wind-admin
 
-[![Stars](https://img.shields.io/github/stars/tx7do/go-wind-admin?style=flat-square&color=yellow)](https://github.com/tx7do/go-wind-admin/stargazers) [![Forks](https://img.shields.io/github/forks/tx7do/go-wind-admin?style=flat-square&color=blue)](https://github.com/tx7do/go-wind-admin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tx7do/go-wind-admin?style=flat-square&color=yellow)](https://github.com/tx7do/go-wind-admin/stargazers) [![Forks](https://img.shields.io/github/forks/tx7do/go-wind-admin?style=flat-square&color=blue)](https://github.com/tx7do/go-wind-admin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Out-of-the-box enterprise full-stack admin scaffold powered by Go (Kratos/Ent) and Vue3/React19. Multi-tenant ready.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ tx7do/go-wind-admin 的生产可用性较高，主要原因是：
 | forks | 54/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

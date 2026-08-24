@@ -1,6 +1,6 @@
 # pubkey/eth-crypto
 
-[![Stars](https://img.shields.io/github/stars/pubkey/eth-crypto?style=flat-square&color=yellow)](https://github.com/pubkey/eth-crypto/stargazers) [![Forks](https://img.shields.io/github/forks/pubkey/eth-crypto?style=flat-square&color=blue)](https://github.com/pubkey/eth-crypto/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pubkey/eth-crypto?style=flat-square&color=yellow)](https://github.com/pubkey/eth-crypto/stargazers) [![Forks](https://img.shields.io/github/forks/pubkey/eth-crypto?style=flat-square&color=blue)](https://github.com/pubkey/eth-crypto/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 916 |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Data · Security · Education
+Crypto · Data · Security · Education
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ pubkey/eth-crypto 的生产可用性非常高。项目有 916 个 GitHub 星星�
 | forks | 56/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

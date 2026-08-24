@@ -1,6 +1,6 @@
 # guangxiangdebizi/FinanceMCP
 
-[![Stars](https://img.shields.io/github/stars/guangxiangdebizi/FinanceMCP?style=flat-square&color=yellow)](https://github.com/guangxiangdebizi/FinanceMCP/stargazers) [![Forks](https://img.shields.io/github/forks/guangxiangdebizi/FinanceMCP?style=flat-square&color=blue)](https://github.com/guangxiangdebizi/FinanceMCP/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guangxiangdebizi/FinanceMCP?style=flat-square&color=yellow)](https://github.com/guangxiangdebizi/FinanceMCP/stargazers) [![Forks](https://img.shields.io/github/forks/guangxiangdebizi/FinanceMCP?style=flat-square&color=blue)](https://github.com/guangxiangdebizi/FinanceMCP/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 这是一个金融领域相关的mcp,本项目通过集成 Tushare API 和 Binance API 为语言模型（如Claude）提供全面的实时金融数据访问能力，支持股票、基金、债券、宏观经济指标、稳定币、虚拟货币等多维度金融数据分析。其中也包含了金融数据查询、财经新闻查询、国家统计局数据查询等
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 640 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ FinanceMCP 的生产可用性很高，主要原因是：
 | forks | 52/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

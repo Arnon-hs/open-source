@@ -1,6 +1,6 @@
 # rexleimo/aios
 
-[![Stars](https://img.shields.io/github/stars/rexleimo/aios?style=flat-square&color=yellow)](https://github.com/rexleimo/aios/stargazers) [![Forks](https://img.shields.io/github/forks/rexleimo/aios?style=flat-square&color=blue)](https://github.com/rexleimo/aios/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rexleimo/aios?style=flat-square&color=yellow)](https://github.com/rexleimo/aios/stargazers) [![Forks](https://img.shields.io/github/forks/rexleimo/aios?style=flat-square&color=blue)](https://github.com/rexleimo/aios/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI agent bootstrap: Playwright Browser MCP + ContextDB for Codex CLI, Claude     Code, Gemini CLI, and OpenCode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · Mobile
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ rexleimo/aios 是一个本地优先的 AI Agent 引导框架，通过 Playwright
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

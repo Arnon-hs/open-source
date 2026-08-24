@@ -1,6 +1,6 @@
 # WillEhrendreich/SageFs
 
-[![Stars](https://img.shields.io/github/stars/WillEhrendreich/SageFs?style=flat-square&color=yellow)](https://github.com/WillEhrendreich/SageFs/stargazers) [![Forks](https://img.shields.io/github/forks/WillEhrendreich/SageFs?style=flat-square&color=blue)](https://github.com/WillEhrendreich/SageFs/network) [![Language](https://img.shields.io/badge/lang-F%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WillEhrendreich/SageFs?style=flat-square&color=yellow)](https://github.com/WillEhrendreich/SageFs/stargazers) [![Forks](https://img.shields.io/github/forks/WillEhrendreich/SageFs?style=flat-square&color=blue)](https://github.com/WillEhrendreich/SageFs/network) [![Language](https://img.shields.io/badge/lang-F%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Sage Mode for F# development — REPL with solution or project loading, Live Testing for FREE, Hot Reload, and session management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | F# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ WillEhrendreich/SageFs 为 F# 开发提供了“Sage Mode”，实现了可加�
 | forks | 15/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

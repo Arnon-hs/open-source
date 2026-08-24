@@ -1,6 +1,6 @@
 # yueliu1999/FlipAttack
 
-[![Stars](https://img.shields.io/github/stars/yueliu1999/FlipAttack?style=flat-square&color=yellow)](https://github.com/yueliu1999/FlipAttack/stargazers) [![Forks](https://img.shields.io/github/forks/yueliu1999/FlipAttack?style=flat-square&color=blue)](https://github.com/yueliu1999/FlipAttack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yueliu1999/FlipAttack?style=flat-square&color=yellow)](https://github.com/yueliu1999/FlipAttack/stargazers) [![Forks](https://img.shields.io/github/forks/yueliu1999/FlipAttack?style=flat-square&color=blue)](https://github.com/yueliu1999/FlipAttack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > [ICML 2025] An official source code for paper "FlipAttack: Jailbreak LLMs via Flipping".
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ yueliu1999/FlipAttack 的主要价值在于可以帮助开发者快速构建 AI 
 | forks | 30/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 43/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

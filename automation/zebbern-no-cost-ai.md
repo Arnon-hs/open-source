@@ -1,6 +1,6 @@
 # zebbern/no-cost-ai
 
-[![Stars](https://img.shields.io/github/stars/zebbern/no-cost-ai?style=flat-square&color=yellow)](https://github.com/zebbern/no-cost-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/no-cost-ai?style=flat-square&color=blue)](https://github.com/zebbern/no-cost-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zebbern/no-cost-ai?style=flat-square&color=yellow)](https://github.com/zebbern/no-cost-ai/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/no-cost-ai?style=flat-square&color=blue)](https://github.com/zebbern/no-cost-ai/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 277 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ zebbern/no-cost-ai：zebbern/no-cost-ai helps remove repetitive manual operation
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 85/100 |
+| quality | 81/100 |
+| recency | 80/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 72/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

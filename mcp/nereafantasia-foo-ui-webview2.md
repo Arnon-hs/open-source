@@ -1,6 +1,6 @@
 # NereaFantasia/foo_ui_webview2
 
-[![Stars](https://img.shields.io/github/stars/NereaFantasia/foo_ui_webview2?style=flat-square&color=yellow)](https://github.com/NereaFantasia/foo_ui_webview2/stargazers) [![Forks](https://img.shields.io/github/forks/NereaFantasia/foo_ui_webview2?style=flat-square&color=blue)](https://github.com/NereaFantasia/foo_ui_webview2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NereaFantasia/foo_ui_webview2?style=flat-square&color=yellow)](https://github.com/NereaFantasia/foo_ui_webview2/stargazers) [![Forks](https://img.shields.io/github/forks/NereaFantasia/foo_ui_webview2?style=flat-square&color=blue)](https://github.com/NereaFantasia/foo_ui_webview2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A WebView2 UI framework for foobar2000 - build the entire player in web tech (Vue/React) with native Windows 11 Mica/Acrylic effects. Ships a TypeScript SDK and an MCP server for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · Frontend
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ NereaFantasia/foo_ui_webview2 具有高生产可用性，具有强烈的活跃�
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

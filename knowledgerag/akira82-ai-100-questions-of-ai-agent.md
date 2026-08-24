@@ -1,6 +1,6 @@
 # akira82-ai/100-questions-of-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/akira82-ai/100-questions-of-ai-agent?style=flat-square&color=yellow)](https://github.com/akira82-ai/100-questions-of-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/akira82-ai/100-questions-of-ai-agent?style=flat-square&color=blue)](https://github.com/akira82-ai/100-questions-of-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akira82-ai/100-questions-of-ai-agent?style=flat-square&color=yellow)](https://github.com/akira82-ai/100-questions-of-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/akira82-ai/100-questions-of-ai-agent?style=flat-square&color=blue)](https://github.com/akira82-ai/100-questions-of-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Practical Questions of AI Agents, LLM, RAG, Vibe Coding & Agent Engineering — free books
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ akira82-ai/100-questions-of-ai-agent：akira82-ai/100-questions-of-ai-agent help
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 49/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 65/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

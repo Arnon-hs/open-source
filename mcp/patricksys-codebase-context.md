@@ -1,6 +1,6 @@
 # PatrickSys/codebase-context
 
-[![Stars](https://img.shields.io/github/stars/PatrickSys/codebase-context?style=flat-square&color=yellow)](https://github.com/PatrickSys/codebase-context/stargazers) [![Forks](https://img.shields.io/github/forks/PatrickSys/codebase-context?style=flat-square&color=blue)](https://github.com/PatrickSys/codebase-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PatrickSys/codebase-context?style=flat-square&color=yellow)](https://github.com/PatrickSys/codebase-context/stargazers) [![Forks](https://img.shields.io/github/forks/PatrickSys/codebase-context?style=flat-square&color=blue)](https://github.com/PatrickSys/codebase-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Generate a map of your codebaseto help AI Agents understand your architecture, coding conventions and patterns. Discoverable with Semantic Search
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ PatrickSys/codebase‑context 能自动为代码库生成结构化映射，帮�
 | forks | 26/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

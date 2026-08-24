@@ -1,6 +1,6 @@
 # AllexVeldman/pyoci
 
-[![Stars](https://img.shields.io/github/stars/AllexVeldman/pyoci?style=flat-square&color=yellow)](https://github.com/AllexVeldman/pyoci/stargazers) [![Forks](https://img.shields.io/github/forks/AllexVeldman/pyoci?style=flat-square&color=blue)](https://github.com/AllexVeldman/pyoci/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AllexVeldman/pyoci?style=flat-square&color=yellow)](https://github.com/AllexVeldman/pyoci/stargazers) [![Forks](https://img.shields.io/github/forks/AllexVeldman/pyoci?style=flat-square&color=blue)](https://github.com/AllexVeldman/pyoci/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Publish and install private python packages using OCI/docker registries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ AllexVeldman/pyoci 是一个开源项目，允许使用 OCI/docker 注册表发�
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

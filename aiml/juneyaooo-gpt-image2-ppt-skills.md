@@ -1,6 +1,6 @@
 # JuneYaooo/gpt-image2-ppt-skills
 
-[![Stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=yellow)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=blue)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=yellow)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JuneYaooo/gpt-image2-ppt-skills?style=flat-square&color=blue)](https://github.com/JuneYaooo/gpt-image2-ppt-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板"抄"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ JuneYaooo/gpt-image2-ppt-skills 帮助用户在不从头开始搭建模型堆栈
 | forks | 44/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 79/100 |
-| usefulness | 42/100 |
+| production | 66/100 |
+| usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

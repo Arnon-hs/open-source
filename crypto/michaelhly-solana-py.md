@@ -1,6 +1,6 @@
 # michaelhly/solana-py
 
-[![Stars](https://img.shields.io/github/stars/michaelhly/solana-py?style=flat-square&color=yellow)](https://github.com/michaelhly/solana-py/stargazers) [![Forks](https://img.shields.io/github/forks/michaelhly/solana-py?style=flat-square&color=blue)](https://github.com/michaelhly/solana-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/michaelhly/solana-py?style=flat-square&color=yellow)](https://github.com/michaelhly/solana-py/stargazers) [![Forks](https://img.shields.io/github/forks/michaelhly/solana-py?style=flat-square&color=blue)](https://github.com/michaelhly/solana-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Solana Python SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 339 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ client = Client("https://api.mainnet-beta.solana.com")
 | forks | 63/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # leanprover-community/lean4-metaprogramming-book
 
-[![Stars](https://img.shields.io/github/stars/leanprover-community/lean4-metaprogramming-book?style=flat-square&color=yellow)](https://github.com/leanprover-community/lean4-metaprogramming-book/stargazers) [![Forks](https://img.shields.io/github/forks/leanprover-community/lean4-metaprogramming-book?style=flat-square&color=blue)](https://github.com/leanprover-community/lean4-metaprogramming-book/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leanprover-community/lean4-metaprogramming-book?style=flat-square&color=yellow)](https://github.com/leanprover-community/lean4-metaprogramming-book/stargazers) [![Forks](https://img.shields.io/github/forks/leanprover-community/lean4-metaprogramming-book?style=flat-square&color=blue)](https://github.com/leanprover-community/lean4-metaprogramming-book/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Lean |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ leanprover-community/lean4-metaprogramming-book 是一个开源项目，旨在�
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 51/100 |
-| production | 67/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

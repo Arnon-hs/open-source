@@ -1,6 +1,6 @@
 # zdigoo/edd-gateway-securionpay-flow
 
-[![Stars](https://img.shields.io/github/stars/zdigoo/edd-gateway-securionpay-flow?style=flat-square&color=yellow)](https://github.com/zdigoo/edd-gateway-securionpay-flow/stargazers) [![Forks](https://img.shields.io/github/forks/zdigoo/edd-gateway-securionpay-flow?style=flat-square&color=blue)](https://github.com/zdigoo/edd-gateway-securionpay-flow/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zdigoo/edd-gateway-securionpay-flow?style=flat-square&color=yellow)](https://github.com/zdigoo/edd-gateway-securionpay-flow/stargazers) [![Forks](https://img.shields.io/github/forks/zdigoo/edd-gateway-securionpay-flow?style=flat-square&color=blue)](https://github.com/zdigoo/edd-gateway-securionpay-flow/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 2026 EDD Payment Gateway Integration for SecurionPay Checkout
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Marketing
+Payments
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ zdigoo/edd-gateway-securionpay-flow - это открытый проект ин�
 | forks | 0/100 |
 | stars | 39/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

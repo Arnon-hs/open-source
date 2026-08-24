@@ -1,6 +1,6 @@
 # quarkfin/qf-lib
 
-[![Stars](https://img.shields.io/github/stars/quarkfin/qf-lib?style=flat-square&color=yellow)](https://github.com/quarkfin/qf-lib/stargazers) [![Forks](https://img.shields.io/github/forks/quarkfin/qf-lib?style=flat-square&color=blue)](https://github.com/quarkfin/qf-lib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quarkfin/qf-lib?style=flat-square&color=yellow)](https://github.com/quarkfin/qf-lib/stargazers) [![Forks](https://img.shields.io/github/forks/quarkfin/qf-lib?style=flat-square&color=blue)](https://github.com/quarkfin/qf-lib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Modular Python library that provides an advanced event driven backtester and a set of high quality tools for quantitative finance. Integrated with various data vendors and brokers, supports Crypto, Stocks and Futures.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 953 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · DevTools · Data
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ quarkfin/qf-lib 在生产环境中有较高的可用性，主要原因是：
 | forks | 53/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # miner7222/LTBox
 
-[![Stars](https://img.shields.io/github/stars/miner7222/LTBox?style=flat-square&color=yellow)](https://github.com/miner7222/LTBox/stargazers) [![Forks](https://img.shields.io/github/forks/miner7222/LTBox?style=flat-square&color=blue)](https://github.com/miner7222/LTBox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miner7222/LTBox?style=flat-square&color=yellow)](https://github.com/miner7222/LTBox/stargazers) [![Forks](https://img.shields.io/github/forks/miner7222/LTBox?style=flat-square&color=blue)](https://github.com/miner7222/LTBox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ LTBox 是 miner7222 开发的 Rust 语言库，提供一套轻量级的工具箱
 | forks | 34/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

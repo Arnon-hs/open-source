@@ -1,6 +1,6 @@
 # bifrost-proxy/bifrost
 
-[![Stars](https://img.shields.io/github/stars/bifrost-proxy/bifrost?style=flat-square&color=yellow)](https://github.com/bifrost-proxy/bifrost/stargazers) [![Forks](https://img.shields.io/github/forks/bifrost-proxy/bifrost?style=flat-square&color=blue)](https://github.com/bifrost-proxy/bifrost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bifrost-proxy/bifrost?style=flat-square&color=yellow)](https://github.com/bifrost-proxy/bifrost/stargazers) [![Forks](https://img.shields.io/github/forks/bifrost-proxy/bifrost?style=flat-square&color=blue)](https://github.com/bifrost-proxy/bifrost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Bifrost 是一个用 Rust 编写的高性能、AI 友好的代理服务器，它提供强大的请求拦截、修改和规则配置能力，支持 TLS 解密、脚本扩展等高级功能，支持强大的模糊搜索，支持导入导出分享，支持一键重放请求，支持Coding Agent 自主管理。提供类似 postman 的请求管理和验证能力，无缝和代理能力集成。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Bifrost 是一款基于 Rust 的高性能、AI 友好的代理服务器，具备
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

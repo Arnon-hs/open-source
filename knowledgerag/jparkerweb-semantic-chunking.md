@@ -1,6 +1,6 @@
 # jparkerweb/semantic-chunking
 
-[![Stars](https://img.shields.io/github/stars/jparkerweb/semantic-chunking?style=flat-square&color=yellow)](https://github.com/jparkerweb/semantic-chunking/stargazers) [![Forks](https://img.shields.io/github/forks/jparkerweb/semantic-chunking?style=flat-square&color=blue)](https://github.com/jparkerweb/semantic-chunking/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jparkerweb/semantic-chunking?style=flat-square&color=yellow)](https://github.com/jparkerweb/semantic-chunking/stargazers) [![Forks](https://img.shields.io/github/forks/jparkerweb/semantic-chunking?style=flat-square&color=blue)](https://github.com/jparkerweb/semantic-chunking/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🍱 Semantically create chunks from large document for passing to LLM workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Frontend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ jparkerweb/semantic-chunking 是一个开源项目，用于从大型文档中创
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

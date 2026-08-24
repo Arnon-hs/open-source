@@ -1,6 +1,6 @@
 # oceanbase/powercontext
 
-[![Stars](https://img.shields.io/github/stars/oceanbase/powercontext?style=flat-square&color=yellow)](https://github.com/oceanbase/powercontext/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/powercontext?style=flat-square&color=blue)](https://github.com/oceanbase/powercontext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oceanbase/powercontext?style=flat-square&color=yellow)](https://github.com/oceanbase/powercontext/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/powercontext?style=flat-square&color=blue)](https://github.com/oceanbase/powercontext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > PowerContext: The Next Generation of PowerMem.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 826 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ OceanBase PowerContext 的生产可用性较高，主要原因是：
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

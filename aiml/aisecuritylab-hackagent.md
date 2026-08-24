@@ -1,6 +1,6 @@
 # AISecurityLab/hackagent
 
-[![Stars](https://img.shields.io/github/stars/AISecurityLab/hackagent?style=flat-square&color=yellow)](https://github.com/AISecurityLab/hackagent/stargazers) [![Forks](https://img.shields.io/github/forks/AISecurityLab/hackagent?style=flat-square&color=blue)](https://github.com/AISecurityLab/hackagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AISecurityLab/hackagent?style=flat-square&color=yellow)](https://github.com/AISecurityLab/hackagent/stargazers) [![Forks](https://img.shields.io/github/forks/AISecurityLab/hackagent?style=flat-square&color=blue)](https://github.com/AISecurityLab/hackagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > HackAgent is an open-source security toolkit to detect vulnerabilities of your AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ HackAgent 是 AISecurityLab 开源的安全工具箱，专注于检测和评估 
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

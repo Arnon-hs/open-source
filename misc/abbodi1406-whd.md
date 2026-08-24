@@ -1,6 +1,6 @@
 # abbodi1406/WHD
 
-[![Stars](https://img.shields.io/github/stars/abbodi1406/WHD?style=flat-square&color=yellow)](https://github.com/abbodi1406/WHD/stargazers) [![Forks](https://img.shields.io/github/forks/abbodi1406/WHD?style=flat-square&color=blue)](https://github.com/abbodi1406/WHD/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abbodi1406/WHD?style=flat-square&color=yellow)](https://github.com/abbodi1406/WHD/stargazers) [![Forks](https://img.shields.io/github/forks/abbodi1406/WHD?style=flat-square&color=blue)](https://github.com/abbodi1406/WHD/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > WHDownloader backup repo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 670 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ WHDownloader 备份库是一个开源项目，主要用于备份和维护 WHDown
 | forks | 51/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

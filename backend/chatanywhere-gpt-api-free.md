@@ -1,6 +1,6 @@
 # chatanywhere/GPT_API_free
 
-[![Stars](https://img.shields.io/github/stars/chatanywhere/GPT_API_free?style=flat-square&color=yellow)](https://github.com/chatanywhere/GPT_API_free/stargazers) [![Forks](https://img.shields.io/github/forks/chatanywhere/GPT_API_free?style=flat-square&color=blue)](https://github.com/chatanywhere/GPT_API_free/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chatanywhere/GPT_API_free?style=flat-square&color=yellow)](https://github.com/chatanywhere/GPT_API_free/stargazers) [![Forks](https://img.shields.io/github/forks/chatanywhere/GPT_API_free?style=flat-square&color=blue)](https://github.com/chatanywhere/GPT_API_free/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38.9k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ chatanywhere/GPT_API_free 是一个开源项目，提供免费的 ChatGPT 和 De
 | forks | 86/100 |
 | stars | 98/100 |
 | topics | 88/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 94/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

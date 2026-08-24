@@ -1,6 +1,6 @@
 # markusleben/ha-nova
 
-[![Stars](https://img.shields.io/github/stars/markusleben/ha-nova?style=flat-square&color=yellow)](https://github.com/markusleben/ha-nova/stargazers) [![Forks](https://img.shields.io/github/forks/markusleben/ha-nova?style=flat-square&color=blue)](https://github.com/markusleben/ha-nova/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/markusleben/ha-nova?style=flat-square&color=yellow)](https://github.com/markusleben/ha-nova/stargazers) [![Forks](https://img.shields.io/github/forks/markusleben/ha-nova?style=flat-square&color=blue)](https://github.com/markusleben/ha-nova/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Home Assistant control. Lean relay + LLM skills for Claude Code, Codex, and OpenCode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ markusleben/ha-nova 的生产可用性为中等。它适合用于原型或内部
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

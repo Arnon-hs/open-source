@@ -1,6 +1,6 @@
 # Varshithvhegde/FreeShare
 
-[![Stars](https://img.shields.io/github/stars/Varshithvhegde/FreeShare?style=flat-square&color=yellow)](https://github.com/Varshithvhegde/FreeShare/stargazers) [![Forks](https://img.shields.io/github/forks/Varshithvhegde/FreeShare?style=flat-square&color=blue)](https://github.com/Varshithvhegde/FreeShare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Varshithvhegde/FreeShare?style=flat-square&color=yellow)](https://github.com/Varshithvhegde/FreeShare/stargazers) [![Forks](https://img.shields.io/github/forks/Varshithvhegde/FreeShare?style=flat-square&color=blue)](https://github.com/Varshithvhegde/FreeShare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag programming): 1,200 Applications. 4 Offers. Here's What Actually Got Me the Product-Based Role
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ In short, the repository is a valuable “starter kit” for quickly adding AI c
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 50/100 |
-| quality | 40/100 |
-| recency | 80/100 |
+| outlook | 36/100 |
+| quality | 30/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 54/100 |
+| production | 41/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

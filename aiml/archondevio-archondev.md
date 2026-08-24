@@ -1,6 +1,6 @@
 # archondevio/archondev
 
-[![Stars](https://img.shields.io/github/stars/archondevio/archondev?style=flat-square&color=yellow)](https://github.com/archondevio/archondev/stargazers) [![Forks](https://img.shields.io/github/forks/archondevio/archondev?style=flat-square&color=blue)](https://github.com/archondevio/archondev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/archondevio/archondev?style=flat-square&color=yellow)](https://github.com/archondevio/archondev/stargazers) [![Forks](https://img.shields.io/github/forks/archondevio/archondev?style=flat-square&color=blue)](https://github.com/archondevio/archondev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI Development Governance - Stop babysitting your AI agent. Login → Tier → Interview → Build.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ archondevio/archondev 的生产可用性较高，因为最近有活动，采用�
 | forks | 54/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

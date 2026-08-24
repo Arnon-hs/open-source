@@ -1,6 +1,6 @@
 # messense/mupdf-rs
 
-[![Stars](https://img.shields.io/github/stars/messense/mupdf-rs?style=flat-square&color=yellow)](https://github.com/messense/mupdf-rs/stargazers) [![Forks](https://img.shields.io/github/forks/messense/mupdf-rs?style=flat-square&color=blue)](https://github.com/messense/mupdf-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/messense/mupdf-rs?style=flat-square&color=yellow)](https://github.com/messense/mupdf-rs/stargazers) [![Forks](https://img.shields.io/github/forks/messense/mupdf-rs?style=flat-square&color=blue)](https://github.com/messense/mupdf-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust binding to mupdf
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,14 +132,15 @@ The project is **medium‑ready**: it is actively maintained and compiles, but t
 | forks | 45/100 |
 | stars | 49/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # fdmtl/director
 
-[![Stars](https://img.shields.io/github/stars/fdmtl/director?style=flat-square&color=yellow)](https://github.com/fdmtl/director/stargazers) [![Forks](https://img.shields.io/github/forks/fdmtl/director?style=flat-square&color=blue)](https://github.com/fdmtl/director/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fdmtl/director?style=flat-square&color=yellow)](https://github.com/fdmtl/director/stargazers) [![Forks](https://img.shields.io/github/forks/fdmtl/director?style=flat-square&color=blue)](https://github.com/fdmtl/director/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Playbooks for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 480 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ fdmtl/director 的生产可用性非常高，主要原因是：
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

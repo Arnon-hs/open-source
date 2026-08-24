@@ -1,6 +1,6 @@
 # modelcontextprotocol/ruby-sdk
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/ruby-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/ruby-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/ruby-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/ruby-sdk/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/ruby-sdk?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/ruby-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/ruby-sdk?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/ruby-sdk/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The official Ruby SDK for the Model Context Protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 875 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Model Context Protocol Ruby SDK 是一个开源项目，用于连接人工智能
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

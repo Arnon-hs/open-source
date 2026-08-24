@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | 2026-03-15 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,6 +97,7 @@ rendro/countdown 的生产可用性是早期或不明确的。因此，建议在
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

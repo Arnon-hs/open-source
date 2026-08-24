@@ -1,6 +1,6 @@
 # net-snmp/net-snmp
 
-[![Stars](https://img.shields.io/github/stars/net-snmp/net-snmp?style=flat-square&color=yellow)](https://github.com/net-snmp/net-snmp/stargazers) [![Forks](https://img.shields.io/github/forks/net-snmp/net-snmp?style=flat-square&color=blue)](https://github.com/net-snmp/net-snmp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/net-snmp/net-snmp?style=flat-square&color=yellow)](https://github.com/net-snmp/net-snmp/stargazers) [![Forks](https://img.shields.io/github/forks/net-snmp/net-snmp?style=flat-square&color=blue)](https://github.com/net-snmp/net-snmp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A SNMP application library, tools and daemon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ net-snmp/net-snmp 的生产可用性为中等（Medium）。它可以用于原�
 | forks | 62/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

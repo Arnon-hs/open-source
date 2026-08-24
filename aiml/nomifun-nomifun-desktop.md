@@ -1,6 +1,6 @@
 # nomifun/nomifun-desktop
 
-[![Stars](https://img.shields.io/github/stars/nomifun/nomifun-desktop?style=flat-square&color=yellow)](https://github.com/nomifun/nomifun-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nomifun/nomifun-desktop?style=flat-square&color=blue)](https://github.com/nomifun/nomifun-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nomifun/nomifun-desktop?style=flat-square&color=yellow)](https://github.com/nomifun/nomifun-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nomifun/nomifun-desktop?style=flat-square&color=blue)](https://github.com/nomifun/nomifun-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > nomifun ai workstation. desc:A no-holds-barred, fully open-source, local-first super AI workstation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ nomifun/nomifun-desktop 的生产可用性为中等。它适合用于原型设�
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

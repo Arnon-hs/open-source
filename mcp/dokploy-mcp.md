@@ -1,6 +1,6 @@
 # Dokploy/mcp
 
-[![Stars](https://img.shields.io/github/stars/Dokploy/mcp?style=flat-square&color=yellow)](https://github.com/Dokploy/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/mcp?style=flat-square&color=blue)](https://github.com/Dokploy/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dokploy/mcp?style=flat-square&color=yellow)](https://github.com/Dokploy/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/mcp?style=flat-square&color=blue)](https://github.com/Dokploy/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Official MCP package for Dokploy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Dokploy/mcp 的生产可用性很高，得分为 71/100。它有以下优势：
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

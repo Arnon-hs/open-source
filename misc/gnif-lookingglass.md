@@ -1,6 +1,6 @@
 # gnif/LookingGlass
 
-[![Stars](https://img.shields.io/github/stars/gnif/LookingGlass?style=flat-square&color=yellow)](https://github.com/gnif/LookingGlass/stargazers) [![Forks](https://img.shields.io/github/forks/gnif/LookingGlass?style=flat-square&color=blue)](https://github.com/gnif/LookingGlass/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gnif/LookingGlass?style=flat-square&color=yellow)](https://github.com/gnif/LookingGlass/stargazers) [![Forks](https://img.shields.io/github/forks/gnif/LookingGlass?style=flat-square&color=blue)](https://github.com/gnif/LookingGlass/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 320 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ gnif/LookingGlass 在生产环境中有一定的可用性，但需要进行依�
 | forks | 63/100 |
 | stars | 80/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

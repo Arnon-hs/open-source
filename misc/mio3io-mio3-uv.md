@@ -1,6 +1,6 @@
 # mio3io/mio3_uv
 
-[![Stars](https://img.shields.io/github/stars/mio3io/mio3_uv?style=flat-square&color=yellow)](https://github.com/mio3io/mio3_uv/stargazers) [![Forks](https://img.shields.io/github/forks/mio3io/mio3_uv?style=flat-square&color=blue)](https://github.com/mio3io/mio3_uv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mio3io/mio3_uv?style=flat-square&color=yellow)](https://github.com/mio3io/mio3_uv/stargazers) [![Forks](https://img.shields.io/github/forks/mio3io/mio3_uv?style=flat-square&color=blue)](https://github.com/mio3io/mio3_uv/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Blender addon for UV editing support (1.x for Blender 4 / 2.x for Blender 5) (ja/en)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ mio3io/mio3_uv 是一个 Blender 插件，提供 UV 编辑功能：针对 Blende
 | forks | 28/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ljxpython/ai-agent-platform
 
-[![Stars](https://img.shields.io/github/stars/ljxpython/ai-agent-platform?style=flat-square&color=yellow)](https://github.com/ljxpython/ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/ljxpython/ai-agent-platform?style=flat-square&color=blue)](https://github.com/ljxpython/ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ljxpython/ai-agent-platform?style=flat-square&color=yellow)](https://github.com/ljxpython/ai-agent-platform/stargazers) [![Forks](https://img.shields.io/github/forks/ljxpython/ai-agent-platform?style=flat-square&color=blue)](https://github.com/ljxpython/ai-agent-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Database
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ ljxpython/ai-agent-platform 的生产可用性为中等，适合用于原型开�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

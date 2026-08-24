@@ -1,6 +1,6 @@
 # prettier/eslint-config-prettier
 
-[![Stars](https://img.shields.io/github/stars/prettier/eslint-config-prettier?style=flat-square&color=yellow)](https://github.com/prettier/eslint-config-prettier/stargazers) [![Forks](https://img.shields.io/github/forks/prettier/eslint-config-prettier?style=flat-square&color=blue)](https://github.com/prettier/eslint-config-prettier/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prettier/eslint-config-prettier?style=flat-square&color=yellow)](https://github.com/prettier/eslint-config-prettier/stargazers) [![Forks](https://img.shields.io/github/forks/prettier/eslint-config-prettier?style=flat-square&color=blue)](https://github.com/prettier/eslint-config-prettier/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Turns off all rules that are unnecessary or might conflict with Prettier.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ prettier/eslint-config-prettier 通过关闭所有与 Prettier 冲突或多余�
 | forks | 60/100 |
 | stars | 80/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

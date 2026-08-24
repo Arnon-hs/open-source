@@ -1,6 +1,6 @@
 # beilusaiying/always-accompany
 
-[![Stars](https://img.shields.io/github/stars/beilusaiying/always-accompany?style=flat-square&color=yellow)](https://github.com/beilusaiying/always-accompany/stargazers) [![Forks](https://img.shields.io/github/forks/beilusaiying/always-accompany?style=flat-square&color=blue)](https://github.com/beilusaiying/always-accompany/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beilusaiying/always-accompany?style=flat-square&color=yellow)](https://github.com/beilusaiying/always-accompany/stargazers) [![Forks](https://img.shields.io/github/forks/beilusaiying/always-accompany?style=flat-square&color=blue)](https://github.com/beilusaiying/always-accompany/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI platform with three-layer recursive memory (260-year capacity), pre-positioned retrieval AI, and granular context compression — all prompts-driven, zero database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Data
+MCP · Knowledge/RAG · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ beilusaiying/always‑accompany 通过标准协议把 AI 助手与真实工具�
 | forks | 19/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

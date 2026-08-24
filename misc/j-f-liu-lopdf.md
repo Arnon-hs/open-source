@@ -1,6 +1,6 @@
 # J-F-Liu/lopdf
 
-[![Stars](https://img.shields.io/github/stars/J-F-Liu/lopdf?style=flat-square&color=yellow)](https://github.com/J-F-Liu/lopdf/stargazers) [![Forks](https://img.shields.io/github/forks/J-F-Liu/lopdf?style=flat-square&color=blue)](https://github.com/J-F-Liu/lopdf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/J-F-Liu/lopdf?style=flat-square&color=yellow)](https://github.com/J-F-Liu/lopdf/stargazers) [![Forks](https://img.shields.io/github/forks/J-F-Liu/lopdf?style=flat-square&color=blue)](https://github.com/J-F-Liu/lopdf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust library for PDF document manipulation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ J-F-Liu/lopdf 的生产可用性为中等。它可以用于开发原型或内部
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

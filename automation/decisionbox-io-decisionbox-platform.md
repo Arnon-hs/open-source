@@ -1,6 +1,6 @@
 # decisionbox-io/decisionbox-platform
 
-[![Stars](https://img.shields.io/github/stars/decisionbox-io/decisionbox-platform?style=flat-square&color=yellow)](https://github.com/decisionbox-io/decisionbox-platform/stargazers) [![Forks](https://img.shields.io/github/forks/decisionbox-io/decisionbox-platform?style=flat-square&color=blue)](https://github.com/decisionbox-io/decisionbox-platform/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/decisionbox-io/decisionbox-platform?style=flat-square&color=yellow)](https://github.com/decisionbox-io/decisionbox-platform/stargazers) [![Forks](https://img.shields.io/github/forks/decisionbox-io/decisionbox-platform?style=flat-square&color=blue)](https://github.com/decisionbox-io/decisionbox-platform/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > DecisionBox connects to your data warehouse, runs autonomous AI agents that write and execute SQL, and surfaces validated insights and actionable recommendations — without you asking a single question.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data · Database · DevOps/Infra
+Automation · AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ DecisionBox 是一个开源平台，能够直接连接数据仓库，自动驱�
 | forks | 33/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

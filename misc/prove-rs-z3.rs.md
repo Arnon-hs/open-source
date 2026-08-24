@@ -1,6 +1,6 @@
 # prove-rs/z3.rs
 
-[![Stars](https://img.shields.io/github/stars/prove-rs/z3.rs?style=flat-square&color=yellow)](https://github.com/prove-rs/z3.rs/stargazers) [![Forks](https://img.shields.io/github/forks/prove-rs/z3.rs?style=flat-square&color=blue)](https://github.com/prove-rs/z3.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prove-rs/z3.rs?style=flat-square&color=yellow)](https://github.com/prove-rs/z3.rs/stargazers) [![Forks](https://img.shields.io/github/forks/prove-rs/z3.rs?style=flat-square&color=blue)](https://github.com/prove-rs/z3.rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings for the Z3 solver.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ prove-rs/z3.rs 的生产可用性为中等。它适合用于内部流程和原�
 | forks | 55/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

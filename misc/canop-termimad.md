@@ -1,6 +1,6 @@
 # Canop/termimad
 
-[![Stars](https://img.shields.io/github/stars/Canop/termimad?style=flat-square&color=yellow)](https://github.com/Canop/termimad/stargazers) [![Forks](https://img.shields.io/github/forks/Canop/termimad?style=flat-square&color=blue)](https://github.com/Canop/termimad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Canop/termimad?style=flat-square&color=yellow)](https://github.com/Canop/termimad/stargazers) [![Forks](https://img.shields.io/github/forks/Canop/termimad?style=flat-square&color=blue)](https://github.com/Canop/termimad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A library to display rich (Markdown) snippets and texts in a rust terminal application
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Canop/termimad 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 42/100 |
 | stars | 66/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 73/100 |
-| usefulness | 42/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

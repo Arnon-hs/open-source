@@ -1,6 +1,6 @@
 # longbkit/clisbot
 
-[![Stars](https://img.shields.io/github/stars/longbkit/clisbot?style=flat-square&color=yellow)](https://github.com/longbkit/clisbot/stargazers) [![Forks](https://img.shields.io/github/forks/longbkit/clisbot?style=flat-square&color=blue)](https://github.com/longbkit/clisbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/longbkit/clisbot?style=flat-square&color=yellow)](https://github.com/longbkit/clisbot/stargazers) [![Forks](https://img.shields.io/github/forks/longbkit/clisbot?style=flat-square&color=blue)](https://github.com/longbkit/clisbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic Coding CLI & chat bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ longbkit/clisbot 是一个基于 Agentic Coding 的命令行工具与聊天机�
 | forks | 36/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

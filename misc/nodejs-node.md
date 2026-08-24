@@ -1,6 +1,6 @@
 # nodejs/node
 
-[![Stars](https://img.shields.io/github/stars/nodejs/node?style=flat-square&color=yellow)](https://github.com/nodejs/node/stargazers) [![Forks](https://img.shields.io/github/forks/nodejs/node?style=flat-square&color=blue)](https://github.com/nodejs/node/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nodejs/node?style=flat-square&color=yellow)](https://github.com/nodejs/node/stargazers) [![Forks](https://img.shields.io/github/forks/nodejs/node?style=flat-square&color=blue)](https://github.com/nodejs/node/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js JavaScript runtime ✨🐢🚀✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117.9k |
 | 🍴 **Forks** | 35.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Node.js（nodejs/node）是最流行的 JavaScript 运行时，拥有超过 11.7
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

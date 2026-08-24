@@ -1,6 +1,6 @@
 # iohub/codeactor-agent
 
-[![Stars](https://img.shields.io/github/stars/iohub/codeactor-agent?style=flat-square&color=yellow)](https://github.com/iohub/codeactor-agent/stargazers) [![Forks](https://img.shields.io/github/forks/iohub/codeactor-agent?style=flat-square&color=blue)](https://github.com/iohub/codeactor-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iohub/codeactor-agent?style=flat-square&color=yellow)](https://github.com/iohub/codeactor-agent/stargazers) [![Forks](https://img.shields.io/github/forks/iohub/codeactor-agent?style=flat-square&color=blue)](https://github.com/iohub/codeactor-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Repository-Aware, Self-Evolving Agent That Understands Codebase in Real Time powered by Hybrid Semantic + Full-Text Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ iohub/codeactor-agent 是一个面向代码仓库的自进化智能体，利用�
 | forks | 0/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

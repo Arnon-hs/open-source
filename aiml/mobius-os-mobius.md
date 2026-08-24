@@ -1,6 +1,6 @@
 # mobius-os/mobius
 
-[![Stars](https://img.shields.io/github/stars/mobius-os/mobius?style=flat-square&color=yellow)](https://github.com/mobius-os/mobius/stargazers) [![Forks](https://img.shields.io/github/forks/mobius-os/mobius?style=flat-square&color=blue)](https://github.com/mobius-os/mobius/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mobius-os/mobius?style=flat-square&color=yellow)](https://github.com/mobius-os/mobius/stargazers) [![Forks](https://img.shields.io/github/forks/mobius-os/mobius?style=flat-square&color=blue)](https://github.com/mobius-os/mobius/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI agent that builds apps. Chat with a coding agent (Claude Code or Codex) that builds mini-apps, modifies its own UI, and gets sharper the more you use it. Your personal AI operating system, on your own server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ mobius-os/mobius 的生产可用性为中等。它适合用于原型开发或内
 | forks | 15/100 |
 | stars | 25/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

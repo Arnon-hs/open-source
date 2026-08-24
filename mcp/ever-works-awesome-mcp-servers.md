@@ -1,6 +1,6 @@
 # ever-works/awesome-mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/ever-works/awesome-mcp-servers?style=flat-square&color=yellow)](https://github.com/ever-works/awesome-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/ever-works/awesome-mcp-servers?style=flat-square&color=blue)](https://github.com/ever-works/awesome-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ever-works/awesome-mcp-servers?style=flat-square&color=yellow)](https://github.com/ever-works/awesome-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/ever-works/awesome-mcp-servers?style=flat-square&color=blue)](https://github.com/ever-works/awesome-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. - https://mcpserver.ever.works
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ever-works/awesome-mcp-servers 是一个精心打造的 MCP 服务器列表，�
 | forks | 50/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

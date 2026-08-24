@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -75,6 +75,7 @@ dtolnay/proc‑macro2 提供了一个与编译器版本解耦的稳定 TokenStre
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

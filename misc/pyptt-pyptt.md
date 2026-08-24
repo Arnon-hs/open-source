@@ -1,6 +1,6 @@
 # PyPtt/PyPtt
 
-[![Stars](https://img.shields.io/github/stars/PyPtt/PyPtt?style=flat-square&color=yellow)](https://github.com/PyPtt/PyPtt/stargazers) [![Forks](https://img.shields.io/github/forks/PyPtt/PyPtt?style=flat-square&color=blue)](https://github.com/PyPtt/PyPtt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PyPtt/PyPtt?style=flat-square&color=yellow)](https://github.com/PyPtt/PyPtt/stargazers) [![Forks](https://img.shields.io/github/forks/PyPtt/PyPtt?style=flat-square&color=blue)](https://github.com/PyPtt/PyPtt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The best PTT library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 726 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ PyPtt/PyPtt 在生产环境中具有较高的可用性，尤其是考虑到其�
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

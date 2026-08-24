@@ -1,6 +1,6 @@
 # PinkD/corplink-rs
 
-[![Stars](https://img.shields.io/github/stars/PinkD/corplink-rs?style=flat-square&color=yellow)](https://github.com/PinkD/corplink-rs/stargazers) [![Forks](https://img.shields.io/github/forks/PinkD/corplink-rs?style=flat-square&color=blue)](https://github.com/PinkD/corplink-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PinkD/corplink-rs?style=flat-square&color=yellow)](https://github.com/PinkD/corplink-rs/stargazers) [![Forks](https://img.shields.io/github/forks/PinkD/corplink-rs?style=flat-square&color=blue)](https://github.com/PinkD/corplink-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 使用 rust 实现的飞连客户端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ PinkD/corplink-rs 是一个使用 Rust 实现的飞连客户端，适合于某�
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # imzbf/md-editor-v3
 
-[![Stars](https://img.shields.io/github/stars/imzbf/md-editor-v3?style=flat-square&color=yellow)](https://github.com/imzbf/md-editor-v3/stargazers) [![Forks](https://img.shields.io/github/forks/imzbf/md-editor-v3?style=flat-square&color=blue)](https://github.com/imzbf/md-editor-v3/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imzbf/md-editor-v3?style=flat-square&color=yellow)](https://github.com/imzbf/md-editor-v3/stargazers) [![Forks](https://img.shields.io/github/forks/imzbf/md-editor-v3?style=flat-square&color=blue)](https://github.com/imzbf/md-editor-v3/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ imzbf/md-editor-v3 的生产可用性高，它有以下信号：
 | forks | 59/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 81/100 |
-| usefulness | 58/100 |
+| production | 68/100 |
+| usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

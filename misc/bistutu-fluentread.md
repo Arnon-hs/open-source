@@ -1,6 +1,6 @@
 # Bistutu/FluentRead
 
-[![Stars](https://img.shields.io/github/stars/Bistutu/FluentRead?style=flat-square&color=yellow)](https://github.com/Bistutu/FluentRead/stargazers) [![Forks](https://img.shields.io/github/forks/Bistutu/FluentRead?style=flat-square&color=blue)](https://github.com/Bistutu/FluentRead/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bistutu/FluentRead?style=flat-square&color=yellow)](https://github.com/Bistutu/FluentRead/stargazers) [![Forks](https://img.shields.io/github/forks/Bistutu/FluentRead?style=flat-square&color=blue)](https://github.com/Bistutu/FluentRead/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Bistutu/FluentRead 的价值在于，它能够让用户拥有母语般的阅读�
 | forks | 64/100 |
 | stars | 82/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 77/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

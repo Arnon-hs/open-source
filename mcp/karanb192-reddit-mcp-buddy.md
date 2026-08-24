@@ -1,6 +1,6 @@
 # karanb192/reddit-mcp-buddy
 
-[![Stars](https://img.shields.io/github/stars/karanb192/reddit-mcp-buddy?style=flat-square&color=yellow)](https://github.com/karanb192/reddit-mcp-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/karanb192/reddit-mcp-buddy?style=flat-square&color=blue)](https://github.com/karanb192/reddit-mcp-buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karanb192/reddit-mcp-buddy?style=flat-square&color=yellow)](https://github.com/karanb192/reddit-mcp-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/karanb192/reddit-mcp-buddy?style=flat-square&color=blue)](https://github.com/karanb192/reddit-mcp-buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Clean, LLM-optimized Reddit MCP server. Browse posts, search content, analyze users. No fluff, just Reddit data.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 764 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ karanb192/reddit-mcp-buddy的价值在于，它可以帮助连接人工智能助
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 58/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

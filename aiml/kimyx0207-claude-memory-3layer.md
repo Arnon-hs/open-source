@@ -1,6 +1,6 @@
 # KimYx0207/claude-memory-3layer
 
-[![Stars](https://img.shields.io/github/stars/KimYx0207/claude-memory-3layer?style=flat-square&color=yellow)](https://github.com/KimYx0207/claude-memory-3layer/stargazers) [![Forks](https://img.shields.io/github/forks/KimYx0207/claude-memory-3layer?style=flat-square&color=blue)](https://github.com/KimYx0207/claude-memory-3layer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KimYx0207/claude-memory-3layer?style=flat-square&color=yellow)](https://github.com/KimYx0207/claude-memory-3layer/stargazers) [![Forks](https://img.shields.io/github/forks/KimYx0207/claude-memory-3layer?style=flat-square&color=blue)](https://github.com/KimYx0207/claude-memory-3layer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 Claude Code 三层记忆系统 | 结构化存储 + 生命周期管理 + Git追踪 | 官方Auto Memory的管理层 | 一行命令安装 零依赖
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ KimYx0207/claude-memory-3layer 的生产可用性为中等。它适合用于原�
 | forks | 28/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 31/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # yschimke/compose-ai-tools
 
-[![Stars](https://img.shields.io/github/stars/yschimke/compose-ai-tools?style=flat-square&color=yellow)](https://github.com/yschimke/compose-ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/yschimke/compose-ai-tools?style=flat-square&color=blue)](https://github.com/yschimke/compose-ai-tools/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yschimke/compose-ai-tools?style=flat-square&color=yellow)](https://github.com/yschimke/compose-ai-tools/stargazers) [![Forks](https://img.shields.io/github/forks/yschimke/compose-ai-tools?style=flat-square&color=blue)](https://github.com/yschimke/compose-ai-tools/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Helping the Agents Compose the Things
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database · Mobile
+Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ yschimke/compose-ai-tools 是一个开源项目，帮助代理组合工具以可
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

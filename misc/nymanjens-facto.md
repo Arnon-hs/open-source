@@ -1,6 +1,6 @@
 # nymanjens/facto
 
-[![Stars](https://img.shields.io/github/stars/nymanjens/facto?style=flat-square&color=yellow)](https://github.com/nymanjens/facto/stargazers) [![Forks](https://img.shields.io/github/forks/nymanjens/facto?style=flat-square&color=blue)](https://github.com/nymanjens/facto/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nymanjens/facto?style=flat-square&color=yellow)](https://github.com/nymanjens/facto/stargazers) [![Forks](https://img.shields.io/github/forks/nymanjens/facto?style=flat-square&color=blue)](https://github.com/nymanjens/facto/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Family Accounting Tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Facto 是一个基于 Scala 的家庭记账工具，旨在帮助用户以结构�
 | forks | 24/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

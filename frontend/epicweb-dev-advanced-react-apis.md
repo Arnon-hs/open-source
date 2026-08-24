@@ -1,6 +1,6 @@
 # epicweb-dev/advanced-react-apis
 
-[![Stars](https://img.shields.io/github/stars/epicweb-dev/advanced-react-apis?style=flat-square&color=yellow)](https://github.com/epicweb-dev/advanced-react-apis/stargazers) [![Forks](https://img.shields.io/github/forks/epicweb-dev/advanced-react-apis?style=flat-square&color=blue)](https://github.com/epicweb-dev/advanced-react-apis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/epicweb-dev/advanced-react-apis?style=flat-square&color=yellow)](https://github.com/epicweb-dev/advanced-react-apis/stargazers) [![Forks](https://img.shields.io/github/forks/epicweb-dev/advanced-react-apis?style=flat-square&color=blue)](https://github.com/epicweb-dev/advanced-react-apis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Learn Advanced React Hooks workshop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Education
+Frontend
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ epicweb-dev/advanced-react-apis 的生产可用性非常高。项目有近 2.1 �
 | forks | 78/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

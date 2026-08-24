@@ -1,6 +1,6 @@
 # tcgdex/cards-database
 
-[![Stars](https://img.shields.io/github/stars/tcgdex/cards-database?style=flat-square&color=yellow)](https://github.com/tcgdex/cards-database/stargazers) [![Forks](https://img.shields.io/github/forks/tcgdex/cards-database?style=flat-square&color=blue)](https://github.com/tcgdex/cards-database/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tcgdex/cards-database?style=flat-square&color=yellow)](https://github.com/tcgdex/cards-database/stargazers) [![Forks](https://img.shields.io/github/forks/tcgdex/cards-database?style=flat-square&color=blue)](https://github.com/tcgdex/cards-database/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Pokémon Trading Card Game Card (TCG) Database for the TCGdex API. ⭐ Leave a star if the project interest you !
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 918 |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Backend · Data · Database
+Trading · Database
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ tcgdex/cards-database 是一个开源项目，用于Pokémon Trading Card Game C
 | forks | 57/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

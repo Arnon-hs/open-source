@@ -1,6 +1,6 @@
 # michaelsproul/rust_radix_trie
 
-[![Stars](https://img.shields.io/github/stars/michaelsproul/rust_radix_trie?style=flat-square&color=yellow)](https://github.com/michaelsproul/rust_radix_trie/stargazers) [![Forks](https://img.shields.io/github/forks/michaelsproul/rust_radix_trie?style=flat-square&color=blue)](https://github.com/michaelsproul/rust_radix_trie/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/michaelsproul/rust_radix_trie?style=flat-square&color=yellow)](https://github.com/michaelsproul/rust_radix_trie/stargazers) [![Forks](https://img.shields.io/github/forks/michaelsproul/rust_radix_trie?style=flat-square&color=blue)](https://github.com/michaelsproul/rust_radix_trie/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Fast generic radix trie implemented in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ michaelsproul/rust_radix_trie 的主要价值在于其高效的数据组织和�
 | forks | 40/100 |
 | stars | 50/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

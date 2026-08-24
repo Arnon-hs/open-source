@@ -1,6 +1,6 @@
 # joshuar/go-hass-agent
 
-[![Stars](https://img.shields.io/github/stars/joshuar/go-hass-agent?style=flat-square&color=yellow)](https://github.com/joshuar/go-hass-agent/stargazers) [![Forks](https://img.shields.io/github/forks/joshuar/go-hass-agent?style=flat-square&color=blue)](https://github.com/joshuar/go-hass-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshuar/go-hass-agent?style=flat-square&color=yellow)](https://github.com/joshuar/go-hass-agent/stargazers) [![Forks](https://img.shields.io/github/forks/joshuar/go-hass-agent?style=flat-square&color=blue)](https://github.com/joshuar/go-hass-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A Home Assistant, native app for desktop/laptop devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Observability
+Automation · Observability
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ The project scores 77/100 and shows strong OSS credentials: 549 ★, 26 fork
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

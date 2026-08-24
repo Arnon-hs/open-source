@@ -1,6 +1,6 @@
 # a1phyr/assets_manager
 
-[![Stars](https://img.shields.io/github/stars/a1phyr/assets_manager?style=flat-square&color=yellow)](https://github.com/a1phyr/assets_manager/stargazers) [![Forks](https://img.shields.io/github/forks/a1phyr/assets_manager?style=flat-square&color=blue)](https://github.com/a1phyr/assets_manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a1phyr/assets_manager?style=flat-square&color=yellow)](https://github.com/a1phyr/assets_manager/stargazers) [![Forks](https://img.shields.io/github/forks/a1phyr/assets_manager?style=flat-square&color=blue)](https://github.com/a1phyr/assets_manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Conveniently load, cache, and reload external resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ a1phyr/assets_manager的生产可用性为中等（Medium）。它适用于原�
 | forks | 27/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 60/100 |
 | adoption | 42/100 |
-| production | 67/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

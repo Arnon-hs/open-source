@@ -1,6 +1,6 @@
 # Zafer-Liu/Agent_Manager
 
-[![Stars](https://img.shields.io/github/stars/Zafer-Liu/Agent_Manager?style=flat-square&color=yellow)](https://github.com/Zafer-Liu/Agent_Manager/stargazers) [![Forks](https://img.shields.io/github/forks/Zafer-Liu/Agent_Manager?style=flat-square&color=blue)](https://github.com/Zafer-Liu/Agent_Manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zafer-Liu/Agent_Manager?style=flat-square&color=yellow)](https://github.com/Zafer-Liu/Agent_Manager/stargazers) [![Forks](https://img.shields.io/github/forks/Zafer-Liu/Agent_Manager?style=flat-square&color=blue)](https://github.com/Zafer-Liu/Agent_Manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Zafer-Liu/Agent_Manager的价值在于，它帮助连接AI助手与真实工具�
 | forks | 38/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

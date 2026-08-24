@@ -1,6 +1,6 @@
 # fabiolb/fabio
 
-[![Stars](https://img.shields.io/github/stars/fabiolb/fabio?style=flat-square&color=yellow)](https://github.com/fabiolb/fabio/stargazers) [![Forks](https://img.shields.io/github/forks/fabiolb/fabio?style=flat-square&color=blue)](https://github.com/fabiolb/fabio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fabiolb/fabio?style=flat-square&color=yellow)](https://github.com/fabiolb/fabio/stargazers) [![Forks](https://img.shields.io/github/forks/fabiolb/fabio?style=flat-square&color=blue)](https://github.com/fabiolb/fabio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Consul Load-Balancing made simple
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 622 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ fabiolb/fabio 的生产可用性较高，主要原因是：
 | forks | 70/100 |
 | stars | 82/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 79/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

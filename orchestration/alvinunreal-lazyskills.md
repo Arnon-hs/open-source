@@ -1,6 +1,6 @@
 # alvinunreal/lazyskills
 
-[![Stars](https://img.shields.io/github/stars/alvinunreal/lazyskills?style=flat-square&color=yellow)](https://github.com/alvinunreal/lazyskills/stargazers) [![Forks](https://img.shields.io/github/forks/alvinunreal/lazyskills?style=flat-square&color=blue)](https://github.com/alvinunreal/lazyskills/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alvinunreal/lazyskills?style=flat-square&color=yellow)](https://github.com/alvinunreal/lazyskills/stargazers) [![Forks](https://img.shields.io/github/forks/alvinunreal/lazyskills?style=flat-square&color=blue)](https://github.com/alvinunreal/lazyskills/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful terminal UI for discovering, installing, and managing AI agent skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Alvinunreal’s **lazyskills** is a polished terminal‑based UI that lets devel
 | forks | 15/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

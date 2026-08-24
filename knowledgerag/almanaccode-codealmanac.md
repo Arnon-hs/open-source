@@ -1,6 +1,6 @@
 # AlmanacCode/codealmanac
 
-[![Stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=flat-square&color=yellow)](https://github.com/AlmanacCode/codealmanac/stargazers) [![Forks](https://img.shields.io/github/forks/AlmanacCode/codealmanac?style=flat-square&color=blue)](https://github.com/AlmanacCode/codealmanac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=flat-square&color=yellow)](https://github.com/AlmanacCode/codealmanac/stargazers) [![Forks](https://img.shields.io/github/forks/AlmanacCode/codealmanac?style=flat-square&color=blue)](https://github.com/AlmanacCode/codealmanac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ AlmanacCode/codealmanac：AlmanacCode/codealmanac helps make internal knowledge 
 | forks | 27/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

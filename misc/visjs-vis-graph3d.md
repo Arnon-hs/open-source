@@ -1,6 +1,6 @@
 # visjs/vis-graph3d
 
-[![Stars](https://img.shields.io/github/stars/visjs/vis-graph3d?style=flat-square&color=yellow)](https://github.com/visjs/vis-graph3d/stargazers) [![Forks](https://img.shields.io/github/forks/visjs/vis-graph3d?style=flat-square&color=blue)](https://github.com/visjs/vis-graph3d/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/visjs/vis-graph3d?style=flat-square&color=yellow)](https://github.com/visjs/vis-graph3d/stargazers) [![Forks](https://img.shields.io/github/forks/visjs/vis-graph3d?style=flat-square&color=blue)](https://github.com/visjs/vis-graph3d/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 📊 Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-22 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ visjs/vis-graph3d 是一个开源项目，用于创建交互式、动画的 3D �
 | forks | 42/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

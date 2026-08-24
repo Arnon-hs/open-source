@@ -1,6 +1,6 @@
 # yandanp/Connexio
 
-[![Stars](https://img.shields.io/github/stars/yandanp/Connexio?style=flat-square&color=yellow)](https://github.com/yandanp/Connexio/stargazers) [![Forks](https://img.shields.io/github/forks/yandanp/Connexio?style=flat-square&color=blue)](https://github.com/yandanp/Connexio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yandanp/Connexio?style=flat-square&color=yellow)](https://github.com/yandanp/Connexio/stargazers) [![Forks](https://img.shields.io/github/forks/yandanp/Connexio?style=flat-square&color=blue)](https://github.com/yandanp/Connexio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Connexio — Project-based Terminal Manager. Organize terminals by project with persistent sessions, task runner, SSH manager, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Product
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Connexio 是一个基于项目的终端管理器，可以组织终端会话、�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

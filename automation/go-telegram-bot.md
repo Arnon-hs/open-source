@@ -1,6 +1,6 @@
 # go-telegram/bot
 
-[![Stars](https://img.shields.io/github/stars/go-telegram/bot?style=flat-square&color=yellow)](https://github.com/go-telegram/bot/stargazers) [![Forks](https://img.shields.io/github/forks/go-telegram/bot?style=flat-square&color=blue)](https://github.com/go-telegram/bot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-telegram/bot?style=flat-square&color=yellow)](https://github.com/go-telegram/bot/stargazers) [![Forks](https://img.shields.io/github/forks/go-telegram/bot?style=flat-square&color=blue)](https://github.com/go-telegram/bot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Telegram Bot API Go framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ go-telegram/bot 在生产环境中表现良好，具有高生产可用性。它�
 | forks | 55/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

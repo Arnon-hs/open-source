@@ -1,6 +1,6 @@
 # surya-koritala/sigbound
 
-[![Stars](https://img.shields.io/github/stars/surya-koritala/sigbound?style=flat-square&color=yellow)](https://github.com/surya-koritala/sigbound/stargazers) [![Forks](https://img.shields.io/github/forks/surya-koritala/sigbound?style=flat-square&color=blue)](https://github.com/surya-koritala/sigbound/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/surya-koritala/sigbound?style=flat-square&color=yellow)](https://github.com/surya-koritala/sigbound/stargazers) [![Forks](https://img.shields.io/github/forks/surya-koritala/sigbound?style=flat-square&color=blue)](https://github.com/surya-koritala/sigbound/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ surya-koritala/sigbound 的生产可用性为中等。它适用于以下场景�
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

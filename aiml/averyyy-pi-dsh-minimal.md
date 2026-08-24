@@ -1,6 +1,6 @@
 # Averyyy/pi-dsh-minimal
 
-[![Stars](https://img.shields.io/github/stars/Averyyy/pi-dsh-minimal?style=flat-square&color=yellow)](https://github.com/Averyyy/pi-dsh-minimal/stargazers) [![Forks](https://img.shields.io/github/forks/Averyyy/pi-dsh-minimal?style=flat-square&color=blue)](https://github.com/Averyyy/pi-dsh-minimal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Averyyy/pi-dsh-minimal?style=flat-square&color=yellow)](https://github.com/Averyyy/pi-dsh-minimal/stargazers) [![Forks](https://img.shields.io/github/forks/Averyyy/pi-dsh-minimal?style=flat-square&color=blue)](https://github.com/Averyyy/pi-dsh-minimal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need… / I need…, not Let me…
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ Averyyy/pi-dsh-minimal 提供了官方 DeepSeek Harness 的最小化 Pi 适配�
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

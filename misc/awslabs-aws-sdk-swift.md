@@ -1,6 +1,6 @@
 # awslabs/aws-sdk-swift
 
-[![Stars](https://img.shields.io/github/stars/awslabs/aws-sdk-swift?style=flat-square&color=yellow)](https://github.com/awslabs/aws-sdk-swift/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/aws-sdk-swift?style=flat-square&color=blue)](https://github.com/awslabs/aws-sdk-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/aws-sdk-swift?style=flat-square&color=yellow)](https://github.com/awslabs/aws-sdk-swift/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/aws-sdk-swift?style=flat-square&color=blue)](https://github.com/awslabs/aws-sdk-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 483 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ awslabs/aws-sdk-swift 的生产可用性为中等（Medium）。它可以用于�
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

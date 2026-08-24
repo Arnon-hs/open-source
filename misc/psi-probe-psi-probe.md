@@ -1,6 +1,6 @@
 # psi-probe/psi-probe
 
-[![Stars](https://img.shields.io/github/stars/psi-probe/psi-probe?style=flat-square&color=yellow)](https://github.com/psi-probe/psi-probe/stargazers) [![Forks](https://img.shields.io/github/forks/psi-probe/psi-probe?style=flat-square&color=blue)](https://github.com/psi-probe/psi-probe/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psi-probe/psi-probe?style=flat-square&color=yellow)](https://github.com/psi-probe/psi-probe/stargazers) [![Forks](https://img.shields.io/github/forks/psi-probe/psi-probe?style=flat-square&color=blue)](https://github.com/psi-probe/psi-probe/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced manager and monitor for Apache Tomcat, forked from Lambda Probe
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ psi-probe/psi-probe 的生产可用性为中等。它适合于开发者在内部
 | forks | 65/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

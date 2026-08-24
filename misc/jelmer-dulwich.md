@@ -1,6 +1,6 @@
 # jelmer/dulwich
 
-[![Stars](https://img.shields.io/github/stars/jelmer/dulwich?style=flat-square&color=yellow)](https://github.com/jelmer/dulwich/stargazers) [![Forks](https://img.shields.io/github/forks/jelmer/dulwich?style=flat-square&color=blue)](https://github.com/jelmer/dulwich/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jelmer/dulwich?style=flat-square&color=yellow)](https://github.com/jelmer/dulwich/stargazers) [![Forks](https://img.shields.io/github/forks/jelmer/dulwich?style=flat-square&color=blue)](https://github.com/jelmer/dulwich/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Pure-Python Git implementation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 430 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Dulwich is a pure‑Python implementation of Git that lets you read, write, and 
 | forks | 66/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

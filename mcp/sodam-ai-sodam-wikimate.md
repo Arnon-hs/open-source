@@ -1,6 +1,6 @@
 # sodam-ai/SoDam-WikiMate
 
-[![Stars](https://img.shields.io/github/stars/sodam-ai/SoDam-WikiMate?style=flat-square&color=yellow)](https://github.com/sodam-ai/SoDam-WikiMate/stargazers) [![Forks](https://img.shields.io/github/forks/sodam-ai/SoDam-WikiMate?style=flat-square&color=blue)](https://github.com/sodam-ai/SoDam-WikiMate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sodam-ai/SoDam-WikiMate?style=flat-square&color=yellow)](https://github.com/sodam-ai/SoDam-WikiMate/stargazers) [![Forks](https://img.shields.io/github/forks/sodam-ai/SoDam-WikiMate?style=flat-square&color=blue)](https://github.com/sodam-ai/SoDam-WikiMate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AI에게 '정리해줘'라고 하면 흩어진 자료를 옵시디언(원본)에 노트로 정리하고, 관련 노트끼리 연결·분류하고, 선택적으로 노션에 색인하는 Claude Code 플러그인 + 이식형 MCP 코어. 보관함 자동탐지·정리·자동 링크/MOC·자동 분류·검색(가짜 인용 방지)·볼트 건강검진(중복·깨진 링크·고아 탐지, 삭제 없는 안전 수정)·작업 로그. 사람 승인 게이트·원문 보존 알림·경로/프롬프트 인젝션 방어·무의존.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ SoDam-WikiMate 帮助连接 AI 助手到现实工具和数据的标准协议，�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # OpenMOSS/MOVA
 
-[![Stars](https://img.shields.io/github/stars/OpenMOSS/MOVA?style=flat-square&color=yellow)](https://github.com/OpenMOSS/MOVA/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMOSS/MOVA?style=flat-square&color=blue)](https://github.com/OpenMOSS/MOVA/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenMOSS/MOVA?style=flat-square&color=yellow)](https://github.com/OpenMOSS/MOVA/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMOSS/MOVA?style=flat-square&color=blue)](https://github.com/OpenMOSS/MOVA/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > MOVA: Towards Scalable and Synchronized Video–Audio Generation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -80,14 +80,15 @@ OpenMOSS/MOVA 是一个开源项目，致力于解决可扩展和同步的视频
 | forks | 49/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

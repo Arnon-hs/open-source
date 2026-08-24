@@ -1,6 +1,6 @@
 # vleue/polyanya
 
-[![Stars](https://img.shields.io/github/stars/vleue/polyanya?style=flat-square&color=yellow)](https://github.com/vleue/polyanya/stargazers) [![Forks](https://img.shields.io/github/forks/vleue/polyanya?style=flat-square&color=blue)](https://github.com/vleue/polyanya/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vleue/polyanya?style=flat-square&color=yellow)](https://github.com/vleue/polyanya/stargazers) [![Forks](https://img.shields.io/github/forks/vleue/polyanya?style=flat-square&color=blue)](https://github.com/vleue/polyanya/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Pathfinding using Polyanya
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Polyanya 的生产可用性为中等。它适合用于原型或内部工作流�
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

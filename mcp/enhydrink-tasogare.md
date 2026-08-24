@@ -1,6 +1,6 @@
 # EnhydrInk/tasogare
 
-[![Stars](https://img.shields.io/github/stars/EnhydrInk/tasogare?style=flat-square&color=yellow)](https://github.com/EnhydrInk/tasogare/stargazers) [![Forks](https://img.shields.io/github/forks/EnhydrInk/tasogare?style=flat-square&color=blue)](https://github.com/EnhydrInk/tasogare/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EnhydrInk/tasogare?style=flat-square&color=yellow)](https://github.com/EnhydrInk/tasogare/stargazers) [![Forks](https://img.shields.io/github/forks/EnhydrInk/tasogare?style=flat-square&color=blue)](https://github.com/EnhydrInk/tasogare/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Read the same book with your AI. A collaborative reader with text-anchored two-color highlights and an MCP server so an AI companion can flip through, mark up, and comment alongside you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ EnhydrInk/tasogare：EnhydrInk/tasogare helps connect AI assistants to real tool
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

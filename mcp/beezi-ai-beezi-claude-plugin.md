@@ -1,6 +1,6 @@
 # Beezi-AI/beezi-claude-plugin
 
-[![Stars](https://img.shields.io/github/stars/Beezi-AI/beezi-claude-plugin?style=flat-square&color=yellow)](https://github.com/Beezi-AI/beezi-claude-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Beezi-AI/beezi-claude-plugin?style=flat-square&color=blue)](https://github.com/Beezi-AI/beezi-claude-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Beezi-AI/beezi-claude-plugin?style=flat-square&color=yellow)](https://github.com/Beezi-AI/beezi-claude-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Beezi-AI/beezi-claude-plugin?style=flat-square&color=blue)](https://github.com/Beezi-AI/beezi-claude-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Official Beezi plugins for Claude. Track what AI-assisted work costs per session in Claude Code, get a personal usage summary on demand,   and draft tickets from claude.ai — all under your own Beezi account.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Data
+MCP · DevTools · Data
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ Beezi-AI/beezi-claude-plugin：Beezi-AI/beezi-claude-plugin helps connect AI ass
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

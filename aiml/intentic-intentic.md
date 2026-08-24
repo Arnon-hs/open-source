@@ -1,6 +1,6 @@
 # intentic/intentic
 
-[![Stars](https://img.shields.io/github/stars/intentic/intentic?style=flat-square&color=yellow)](https://github.com/intentic/intentic/stargazers) [![Forks](https://img.shields.io/github/forks/intentic/intentic?style=flat-square&color=blue)](https://github.com/intentic/intentic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intentic/intentic?style=flat-square&color=yellow)](https://github.com/intentic/intentic/stargazers) [![Forks](https://img.shields.io/github/forks/intentic/intentic?style=flat-square&color=blue)](https://github.com/intentic/intentic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > You delegate. They work. You approve. Nothing happens out of sight.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · DevOps/Infra
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ intentic/intentic 的生产可用性为中等。它适合用于内部工作流�
 | forks | 8/100 |
 | stars | 25/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

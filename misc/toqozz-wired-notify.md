@@ -1,6 +1,6 @@
 # Toqozz/wired-notify
 
-[![Stars](https://img.shields.io/github/stars/Toqozz/wired-notify?style=flat-square&color=yellow)](https://github.com/Toqozz/wired-notify/stargazers) [![Forks](https://img.shields.io/github/forks/Toqozz/wired-notify?style=flat-square&color=blue)](https://github.com/Toqozz/wired-notify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Toqozz/wired-notify?style=flat-square&color=yellow)](https://github.com/Toqozz/wired-notify/stargazers) [![Forks](https://img.shields.io/github/forks/Toqozz/wired-notify?style=flat-square&color=blue)](https://github.com/Toqozz/wired-notify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight notification daemon with highly customizable layout blocks, written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 697 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Toqozz/wired-notify 的生产可用性为中等（Medium），因为它适合 pr
 | forks | 37/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

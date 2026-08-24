@@ -1,6 +1,6 @@
 # voidmind-io/voidllm
 
-[![Stars](https://img.shields.io/github/stars/voidmind-io/voidllm?style=flat-square&color=yellow)](https://github.com/voidmind-io/voidllm/stargazers) [![Forks](https://img.shields.io/github/forks/voidmind-io/voidllm?style=flat-square&color=blue)](https://github.com/voidmind-io/voidllm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voidmind-io/voidllm?style=flat-square&color=yellow)](https://github.com/voidmind-io/voidllm/stargazers) [![Forks](https://img.shields.io/github/forks/voidmind-io/voidllm?style=flat-square&color=blue)](https://github.com/voidmind-io/voidllm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-first LLM proxy and AI gateway — load balancing, multi-provider routing, API key management, usage tracking, rate limiting. Self-hosted. Zero knowledge of your prompts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ voidmind-io/voidllm 是一个开源项目，提供了一个隐私第一的LLM代
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

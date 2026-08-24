@@ -1,6 +1,6 @@
 # Houseofmvps/ultraship
 
-[![Stars](https://img.shields.io/github/stars/Houseofmvps/ultraship?style=flat-square&color=yellow)](https://github.com/Houseofmvps/ultraship/stargazers) [![Forks](https://img.shields.io/github/forks/Houseofmvps/ultraship?style=flat-square&color=blue)](https://github.com/Houseofmvps/ultraship/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Houseofmvps/ultraship?style=flat-square&color=yellow)](https://github.com/Houseofmvps/ultraship/stargazers) [![Forks](https://img.shields.io/github/forks/Houseofmvps/ultraship?style=flat-square&color=blue)](https://github.com/Houseofmvps/ultraship/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > "ULTRASHIP" Claude Code plugin — 39 skills, 33 tools, 11 agents for ship-ready workflows: planning, review, pentesting, safety guardrails, canary monitoring, SEO/AI-readiness check, penetration testing, code review, competitive analysis, incident response. 1 dependency. 180 tests. MIT.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · Database
+MCP · AI/ML · DevTools · Observability · Security
 
 ## 📝 Summary
 
@@ -128,14 +128,15 @@ Houseofmvps/ultraship 是一个基于 Claude Code 插件的 “ULTRASHIP” 框�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

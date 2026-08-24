@@ -1,6 +1,6 @@
 # asavinov/intelligent-trading-bot
 
-[![Stars](https://img.shields.io/github/stars/asavinov/intelligent-trading-bot?style=flat-square&color=yellow)](https://github.com/asavinov/intelligent-trading-bot/stargazers) [![Forks](https://img.shields.io/github/forks/asavinov/intelligent-trading-bot?style=flat-square&color=blue)](https://github.com/asavinov/intelligent-trading-bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asavinov/intelligent-trading-bot?style=flat-square&color=yellow)](https://github.com/asavinov/intelligent-trading-bot/stargazers) [![Forks](https://img.shields.io/github/forks/asavinov/intelligent-trading-bot?style=flat-square&color=blue)](https://github.com/asavinov/intelligent-trading-bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · Education
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ asavinov/intelligent-trading-bot 是一个开源项目，使用机器学习和�
 | forks | 65/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

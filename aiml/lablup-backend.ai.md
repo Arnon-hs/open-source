@@ -1,6 +1,6 @@
 # lablup/backend.ai
 
-[![Stars](https://img.shields.io/github/stars/lablup/backend.ai?style=flat-square&color=yellow)](https://github.com/lablup/backend.ai/stargazers) [![Forks](https://img.shields.io/github/forks/lablup/backend.ai?style=flat-square&color=blue)](https://github.com/lablup/backend.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lablup/backend.ai?style=flat-square&color=yellow)](https://github.com/lablup/backend.ai/stargazers) [![Forks](https://img.shields.io/github/forks/lablup/backend.ai?style=flat-square&color=blue)](https://github.com/lablup/backend.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Backend.AI is a streamlined, container-based computing cluster platform that hosts popular computing/ML frameworks and diverse programming languages, with pluggable heterogeneous accelerator support including CUDA GPU, ROCm GPU, Gaudi NPU, Google TPU, GraphCore IPU and other NPUs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 655 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database · Observability · DevOps/Infra
+AI/ML · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ lablup/backend.ai 是一个基于容器的计算集群平台，内置主流 AI/M
 | forks | 56/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

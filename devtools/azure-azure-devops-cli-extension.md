@@ -1,6 +1,6 @@
 # Azure/azure-devops-cli-extension
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-devops-cli-extension?style=flat-square&color=yellow)](https://github.com/Azure/azure-devops-cli-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-devops-cli-extension?style=flat-square&color=blue)](https://github.com/Azure/azure-devops-cli-extension/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-devops-cli-extension?style=flat-square&color=yellow)](https://github.com/Azure/azure-devops-cli-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-devops-cli-extension?style=flat-square&color=blue)](https://github.com/Azure/azure-devops-cli-extension/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Azure DevOps Extension for Azure CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Azure/azure-devops-cli-extension 是为 Azure CLI 提供的 Azure DevOps 扩展�
 | forks | 61/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

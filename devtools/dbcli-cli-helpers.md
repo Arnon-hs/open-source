@@ -1,6 +1,6 @@
 # dbcli/cli_helpers
 
-[![Stars](https://img.shields.io/github/stars/dbcli/cli_helpers?style=flat-square&color=yellow)](https://github.com/dbcli/cli_helpers/stargazers) [![Forks](https://img.shields.io/github/forks/dbcli/cli_helpers?style=flat-square&color=blue)](https://github.com/dbcli/cli_helpers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbcli/cli_helpers?style=flat-square&color=yellow)](https://github.com/dbcli/cli_helpers/stargazers) [![Forks](https://img.shields.io/github/forks/dbcli/cli_helpers?style=flat-square&color=blue)](https://github.com/dbcli/cli_helpers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Python helpers for common CLI tasks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ dbcli/cli_helpers 的生产可用性为中等（Medium），因为：
 | forks | 38/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

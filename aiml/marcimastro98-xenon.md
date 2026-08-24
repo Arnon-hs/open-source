@@ -1,6 +1,6 @@
 # marcimastro98/Xenon
 
-[![Stars](https://img.shields.io/github/stars/marcimastro98/Xenon?style=flat-square&color=yellow)](https://github.com/marcimastro98/Xenon/stargazers) [![Forks](https://img.shields.io/github/forks/marcimastro98/Xenon?style=flat-square&color=blue)](https://github.com/marcimastro98/Xenon/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcimastro98/Xenon?style=flat-square&color=yellow)](https://github.com/marcimastro98/Xenon/stargazers) [![Forks](https://img.shields.io/github/forks/marcimastro98/Xenon?style=flat-square&color=blue)](https://github.com/marcimastro98/Xenon/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A 100% local, all-in-one dashboard for any screen, tablet or phone, works on Windows, Linux or MacOS . System monitor, media & mic, a voice AI that can build dashboard pages for you, a Stream-Deck grid, RGB lighting, and Twitch/OBS control. Free, open-source, no account.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Xenon 的生产可用性为中等（Medium）。它适合用于原型开发或�
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

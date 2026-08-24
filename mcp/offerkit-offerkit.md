@@ -1,6 +1,6 @@
 # offerkit/offerkit
 
-[![Stars](https://img.shields.io/github/stars/offerkit/offerkit?style=flat-square&color=yellow)](https://github.com/offerkit/offerkit/stargazers) [![Forks](https://img.shields.io/github/forks/offerkit/offerkit?style=flat-square&color=blue)](https://github.com/offerkit/offerkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/offerkit/offerkit?style=flat-square&color=yellow)](https://github.com/offerkit/offerkit/stargazers) [![Forks](https://img.shields.io/github/forks/offerkit/offerkit?style=flat-square&color=blue)](https://github.com/offerkit/offerkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-first, self-hostable promotion engine for coupons, loyalty, gift cards, referrals, and customer segments.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Offerkit/offerkit 的生产可用性为中等（Medium），适合用于原型�
 | forks | 28/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

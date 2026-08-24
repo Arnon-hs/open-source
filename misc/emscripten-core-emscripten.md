@@ -1,6 +1,6 @@
 # emscripten-core/emscripten
 
-[![Stars](https://img.shields.io/github/stars/emscripten-core/emscripten?style=flat-square&color=yellow)](https://github.com/emscripten-core/emscripten/stargazers) [![Forks](https://img.shields.io/github/forks/emscripten-core/emscripten?style=flat-square&color=blue)](https://github.com/emscripten-core/emscripten/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emscripten-core/emscripten?style=flat-square&color=yellow)](https://github.com/emscripten-core/emscripten/stargazers) [![Forks](https://img.shields.io/github/forks/emscripten-core/emscripten?style=flat-square&color=blue)](https://github.com/emscripten-core/emscripten/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Emscripten: An LLVM-to-WebAssembly Compiler
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.4k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Emscripten 是一个基于 LLVM 的编译器工具链，可将 C/C++（以及其
 | forks | 89/100 |
 | stars | 94/100 |
 | topics | 50/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

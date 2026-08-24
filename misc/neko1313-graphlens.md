@@ -1,6 +1,6 @@
 # Neko1313/graphlens
 
-[![Stars](https://img.shields.io/github/stars/Neko1313/graphlens?style=flat-square&color=yellow)](https://github.com/Neko1313/graphlens/stargazers) [![Forks](https://img.shields.io/github/forks/Neko1313/graphlens?style=flat-square&color=blue)](https://github.com/Neko1313/graphlens/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Neko1313/graphlens?style=flat-square&color=yellow)](https://github.com/Neko1313/graphlens/stargazers) [![Forks](https://img.shields.io/github/forks/Neko1313/graphlens?style=flat-square&color=blue)](https://github.com/Neko1313/graphlens/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: graphlens: превращаем репозиторий в типизированный граф — Python, TypeScript, Go и Rust в одной модели
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ graphlens 是一个开源工具，它把代码仓库解析成统一的、强类�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 53/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 32/100 |
+| quality | 24/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 63/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

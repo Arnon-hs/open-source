@@ -1,6 +1,6 @@
 # nextcloud/ios
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/ios?style=flat-square&color=yellow)](https://github.com/nextcloud/ios/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/ios?style=flat-square&color=blue)](https://github.com/nextcloud/ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/ios?style=flat-square&color=yellow)](https://github.com/nextcloud/ios/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/ios?style=flat-square&color=blue)](https://github.com/nextcloud/ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📱 Nextcloud iOS App
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Nextcloud iOS 是官方维护的 iOS 客户端，使用 Swift 编写，提供对
 | forks | 75/100 |
 | stars | 72/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

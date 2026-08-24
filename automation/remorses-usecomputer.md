@@ -1,6 +1,6 @@
 # remorses/usecomputer
 
-[![Stars](https://img.shields.io/github/stars/remorses/usecomputer?style=flat-square&color=yellow)](https://github.com/remorses/usecomputer/stargazers) [![Forks](https://img.shields.io/github/forks/remorses/usecomputer?style=flat-square&color=blue)](https://github.com/remorses/usecomputer/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remorses/usecomputer?style=flat-square&color=yellow)](https://github.com/remorses/usecomputer/stargazers) [![Forks](https://img.shields.io/github/forks/remorses/usecomputer?style=flat-square&color=blue)](https://github.com/remorses/usecomputer/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fast computer automation CLI for AI agents. Control any desktop with screenshots, clicks, typing, scrolling, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Remorses/usecomputer 的生产可用性为中等（Medium）。它适合用于�
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

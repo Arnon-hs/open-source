@@ -1,6 +1,6 @@
 # verygoodplugins/mcp-automem
 
-[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-automem?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-automem/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-automem?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-automem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verygoodplugins/mcp-automem?style=flat-square&color=yellow)](https://github.com/verygoodplugins/mcp-automem/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/mcp-automem?style=flat-square&color=blue)](https://github.com/verygoodplugins/mcp-automem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > MCP client for AutoMem — give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ verygoodplugins/mcp-automem 是一个开源项目，提供了一个标准的通�
 | forks | 30/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

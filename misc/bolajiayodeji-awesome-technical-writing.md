@@ -1,6 +1,6 @@
 # BolajiAyodeji/awesome-technical-writing
 
-[![Stars](https://img.shields.io/github/stars/BolajiAyodeji/awesome-technical-writing?style=flat-square&color=yellow)](https://github.com/BolajiAyodeji/awesome-technical-writing/stargazers) [![Forks](https://img.shields.io/github/forks/BolajiAyodeji/awesome-technical-writing?style=flat-square&color=blue)](https://github.com/BolajiAyodeji/awesome-technical-writing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BolajiAyodeji/awesome-technical-writing?style=flat-square&color=yellow)](https://github.com/BolajiAyodeji/awesome-technical-writing/stargazers) [![Forks](https://img.shields.io/github/forks/BolajiAyodeji/awesome-technical-writing?style=flat-square&color=blue)](https://github.com/BolajiAyodeji/awesome-technical-writing/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ BolajiAyodeji/awesome-technical-writing 是一个开源项目，收集了大量�
 | forks | 64/100 |
 | stars | 71/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

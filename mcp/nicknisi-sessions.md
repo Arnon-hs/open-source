@@ -1,6 +1,6 @@
 # nicknisi/sessions
 
-[![Stars](https://img.shields.io/github/stars/nicknisi/sessions?style=flat-square&color=yellow)](https://github.com/nicknisi/sessions/stargazers) [![Forks](https://img.shields.io/github/forks/nicknisi/sessions?style=flat-square&color=blue)](https://github.com/nicknisi/sessions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicknisi/sessions?style=flat-square&color=yellow)](https://github.com/nicknisi/sessions/stargazers) [![Forks](https://img.shields.io/github/forks/nicknisi/sessions?style=flat-square&color=blue)](https://github.com/nicknisi/sessions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Search and memory across your AI coding sessions — one index over Claude Code, Codex, and Pi. Fuzzy-find and resume from the CLI, give agents recall via MCP, and get usage reports.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ nicknisi/sessions 通过统一的 Model Context Protocol（MCP）把 Claude Co
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

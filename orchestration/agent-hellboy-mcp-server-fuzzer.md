@@ -1,6 +1,6 @@
 # Agent-Hellboy/mcp-server-fuzzer
 
-[![Stars](https://img.shields.io/github/stars/Agent-Hellboy/mcp-server-fuzzer?style=flat-square&color=yellow)](https://github.com/Agent-Hellboy/mcp-server-fuzzer/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-Hellboy/mcp-server-fuzzer?style=flat-square&color=blue)](https://github.com/Agent-Hellboy/mcp-server-fuzzer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agent-Hellboy/mcp-server-fuzzer?style=flat-square&color=yellow)](https://github.com/Agent-Hellboy/mcp-server-fuzzer/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-Hellboy/mcp-server-fuzzer?style=flat-square&color=blue)](https://github.com/Agent-Hellboy/mcp-server-fuzzer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A generic mcp server fuzzer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Agent-Hellboy/mcp-server-fuzzer 的价值在于，它可以协调多个代理工
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

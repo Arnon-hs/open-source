@@ -1,6 +1,6 @@
 # TheRedDeveloper/ply-engine
 
-[![Stars](https://img.shields.io/github/stars/TheRedDeveloper/ply-engine?style=flat-square&color=yellow)](https://github.com/TheRedDeveloper/ply-engine/stargazers) [![Forks](https://img.shields.io/github/forks/TheRedDeveloper/ply-engine?style=flat-square&color=blue)](https://github.com/TheRedDeveloper/ply-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheRedDeveloper/ply-engine?style=flat-square&color=yellow)](https://github.com/TheRedDeveloper/ply-engine/stargazers) [![Forks](https://img.shields.io/github/forks/TheRedDeveloper/ply-engine?style=flat-square&color=blue)](https://github.com/TheRedDeveloper/ply-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful UIs in Rust. Cross-platform. Dead simple.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Database
+Frontend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ TheRedDeveloper/ply-engine 是一个开源项目，旨在帮助开发者在 Rust
 | forks | 31/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

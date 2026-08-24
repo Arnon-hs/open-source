@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/nodejs-docs-samples
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/nodejs-docs-samples?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/nodejs-docs-samples?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/nodejs-docs-samples?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/nodejs-docs-samples?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js samples for Google Cloud Platform products.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · Education · Product
+Backend · Education
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ GoogleCloudPlatform/nodejs-docs-samples 是一个开源项目，提供 Node.js �
 | forks | 83/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

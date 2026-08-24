@@ -1,6 +1,6 @@
 # hahwul/smugglex
 
-[![Stars](https://img.shields.io/github/stars/hahwul/smugglex?style=flat-square&color=yellow)](https://github.com/hahwul/smugglex/stargazers) [![Forks](https://img.shields.io/github/forks/hahwul/smugglex?style=flat-square&color=blue)](https://github.com/hahwul/smugglex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hahwul/smugglex?style=flat-square&color=yellow)](https://github.com/hahwul/smugglex/stargazers) [![Forks](https://img.shields.io/github/forks/hahwul/smugglex?style=flat-square&color=blue)](https://github.com/hahwul/smugglex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-powered HTTP Request Smuggling Scanner.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ hahwul/smugglex的生产可用性为中等（Medium），因为它主要适用�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

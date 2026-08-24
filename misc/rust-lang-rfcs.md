@@ -1,6 +1,6 @@
 # rust-lang/rfcs
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rfcs?style=flat-square&color=yellow)](https://github.com/rust-lang/rfcs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rfcs?style=flat-square&color=blue)](https://github.com/rust-lang/rfcs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rfcs?style=flat-square&color=yellow)](https://github.com/rust-lang/rfcs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rfcs?style=flat-square&color=blue)](https://github.com/rust-lang/rfcs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > RFCs for changes to Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ rust-lang/rfcs 的生产可用性为中等。它可以用于以下场景：
 | forks | 81/100 |
 | stars | 81/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 81/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

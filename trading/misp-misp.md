@@ -1,6 +1,6 @@
 # MISP/MISP
 
-[![Stars](https://img.shields.io/github/stars/MISP/MISP?style=flat-square&color=yellow)](https://github.com/MISP/MISP/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/MISP?style=flat-square&color=blue)](https://github.com/MISP/MISP/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MISP/MISP?style=flat-square&color=yellow)](https://github.com/MISP/MISP/stargazers) [![Forks](https://img.shields.io/github/forks/MISP/MISP?style=flat-square&color=blue)](https://github.com/MISP/MISP/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Database · Security
+Trading · Security
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ MISP/MISP 的生产可用性很高，主要原因是：
 | forks | 80/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 81/100 |
+| recency | 60/100 |
 | adoption | 81/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

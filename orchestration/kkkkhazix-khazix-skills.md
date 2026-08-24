@@ -1,6 +1,6 @@
 # KKKKhazix/khazix-skills
 
-[![Stars](https://img.shields.io/github/stars/KKKKhazix/khazix-skills?style=flat-square&color=yellow)](https://github.com/KKKKhazix/khazix-skills/stargazers) [![Forks](https://img.shields.io/github/forks/KKKKhazix/khazix-skills?style=flat-square&color=blue)](https://github.com/KKKKhazix/khazix-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KKKKhazix/khazix-skills?style=flat-square&color=yellow)](https://github.com/KKKKhazix/khazix-skills/stargazers) [![Forks](https://img.shields.io/github/forks/KKKKhazix/khazix-skills?style=flat-square&color=blue)](https://github.com/KKKKhazix/khazix-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: neat-freak 洁癖 (docs/memory closeout), hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.8k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Marketing
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ KKKKhazix/khazix-skills 的生产可用性非常高，理由如下：
 | forks | 83/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 80/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

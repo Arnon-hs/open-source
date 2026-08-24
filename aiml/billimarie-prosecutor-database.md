@@ -1,6 +1,6 @@
 # billimarie/prosecutor-database
 
-[![Stars](https://img.shields.io/github/stars/billimarie/prosecutor-database?style=flat-square&color=yellow)](https://github.com/billimarie/prosecutor-database/stargazers) [![Forks](https://img.shields.io/github/forks/billimarie/prosecutor-database?style=flat-square&color=blue)](https://github.com/billimarie/prosecutor-database/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/billimarie/prosecutor-database?style=flat-square&color=yellow)](https://github.com/billimarie/prosecutor-database/stargazers) [![Forks](https://img.shields.io/github/forks/billimarie/prosecutor-database?style=flat-square&color=blue)](https://github.com/billimarie/prosecutor-database/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Civic Tech & Data AI For Good project. Tracks prosecutor election messaging, mass incarceration indicators, and historical context. Utilizes Agentic AI for data scraping.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ billimarie/prosecutor-database 帮助开发者在不从头搭建模型堆栈的�
 | forks | 49/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # microsoft/prompty
 
-[![Stars](https://img.shields.io/github/stars/microsoft/prompty?style=flat-square&color=yellow)](https://github.com/microsoft/prompty/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/prompty?style=flat-square&color=blue)](https://github.com/microsoft/prompty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/prompty?style=flat-square&color=yellow)](https://github.com/microsoft/prompty/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/prompty?style=flat-square&color=blue)](https://github.com/microsoft/prompty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database · Observability · Design
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Prompty 的生产可用性为中等（Medium）。它适用于以下场景：
 | forks | 52/100 |
 | stars | 66/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 80/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

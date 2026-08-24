@@ -1,6 +1,6 @@
 # a2328275243/mempalace-evolve
 
-[![Stars](https://img.shields.io/github/stars/a2328275243/mempalace-evolve?style=flat-square&color=yellow)](https://github.com/a2328275243/mempalace-evolve/stargazers) [![Forks](https://img.shields.io/github/forks/a2328275243/mempalace-evolve?style=flat-square&color=blue)](https://github.com/a2328275243/mempalace-evolve/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a2328275243/mempalace-evolve?style=flat-square&color=yellow)](https://github.com/a2328275243/mempalace-evolve/stargazers) [![Forks](https://img.shields.io/github/forks/a2328275243/mempalace-evolve?style=flat-square&color=blue)](https://github.com/a2328275243/mempalace-evolve/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving memory palace for AI agents — persistent memory with automatic learning, knowledge graph, and multi-agent support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ In short, Mempalace‑Evolve offers a compelling way to give AI agents durable, 
 | forks | 25/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

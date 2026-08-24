@@ -1,6 +1,6 @@
 # scanopy/scanopy
 
-[![Stars](https://img.shields.io/github/stars/scanopy/scanopy?style=flat-square&color=yellow)](https://github.com/scanopy/scanopy/stargazers) [![Forks](https://img.shields.io/github/forks/scanopy/scanopy?style=flat-square&color=blue)](https://github.com/scanopy/scanopy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scanopy/scanopy?style=flat-square&color=yellow)](https://github.com/scanopy/scanopy/stargazers) [![Forks](https://img.shields.io/github/forks/scanopy/scanopy?style=flat-square&color=blue)](https://github.com/scanopy/scanopy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Network diagrams that update themselves
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ scanopy 是一个用 Rust 编写的开源工具，能够根据实时网络状态
 | forks | 60/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

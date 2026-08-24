@@ -1,6 +1,6 @@
 # outline/outline
 
-[![Stars](https://img.shields.io/github/stars/outline/outline?style=flat-square&color=yellow)](https://github.com/outline/outline/stargazers) [![Forks](https://img.shields.io/github/forks/outline/outline?style=flat-square&color=blue)](https://github.com/outline/outline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/outline/outline?style=flat-square&color=yellow)](https://github.com/outline/outline/stargazers) [![Forks](https://img.shields.io/github/forks/outline/outline?style=flat-square&color=blue)](https://github.com/outline/outline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38.5k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · DevTools · DevOps/Infra
+Knowledge/RAG · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Outline 是一款面向成长中的团队的超快知识库，提供美观的实
 | forks | 88/100 |
 | stars | 98/100 |
 | topics | 88/100 |
-| outlook | 86/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
 | adoption | 95/100 |
-| production | 84/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

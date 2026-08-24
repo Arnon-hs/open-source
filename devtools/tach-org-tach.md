@@ -1,6 +1,6 @@
 # tach-org/tach
 
-[![Stars](https://img.shields.io/github/stars/tach-org/tach?style=flat-square&color=yellow)](https://github.com/tach-org/tach/stargazers) [![Forks](https://img.shields.io/github/forks/tach-org/tach?style=flat-square&color=blue)](https://github.com/tach-org/tach/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tach-org/tach?style=flat-square&color=yellow)](https://github.com/tach-org/tach/stargazers) [![Forks](https://img.shields.io/github/forks/tach-org/tach?style=flat-square&color=blue)](https://github.com/tach-org/tach/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ tach 是一款基于 Rust 编写、可通过 pip 安装的 Python 工具，能�
 | forks | 49/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

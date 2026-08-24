@@ -1,6 +1,6 @@
 # sequelize/sequelize
 
-[![Stars](https://img.shields.io/github/stars/sequelize/sequelize?style=flat-square&color=yellow)](https://github.com/sequelize/sequelize/stargazers) [![Forks](https://img.shields.io/github/forks/sequelize/sequelize?style=flat-square&color=blue)](https://github.com/sequelize/sequelize/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sequelize/sequelize?style=flat-square&color=yellow)](https://github.com/sequelize/sequelize/stargazers) [![Forks](https://img.shields.io/github/forks/sequelize/sequelize?style=flat-square&color=blue)](https://github.com/sequelize/sequelize/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30.4k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-29 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Sequelize 的生产可用性很高。它有很强的社区支持，更新频繁�
 | forks | 91/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 87/100 |
+| recency | 60/100 |
 | adoption | 94/100 |
-| production | 83/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

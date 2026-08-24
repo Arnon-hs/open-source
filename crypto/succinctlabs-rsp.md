@@ -1,6 +1,6 @@
 # succinctlabs/rsp
 
-[![Stars](https://img.shields.io/github/stars/succinctlabs/rsp?style=flat-square&color=yellow)](https://github.com/succinctlabs/rsp/stargazers) [![Forks](https://img.shields.io/github/forks/succinctlabs/rsp?style=flat-square&color=blue)](https://github.com/succinctlabs/rsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/succinctlabs/rsp?style=flat-square&color=yellow)](https://github.com/succinctlabs/rsp/stargazers) [![Forks](https://img.shields.io/github/forks/succinctlabs/rsp?style=flat-square&color=blue)](https://github.com/succinctlabs/rsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal implementation of ZKPs of Ethereum block execution using Reth. Supports both Ethereum and OP Stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Automation
+Crypto
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ succinctlabs/rsp 的价值在于，它可以帮助开发者：
 | forks | 49/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 48/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

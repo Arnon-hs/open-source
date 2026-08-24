@@ -1,6 +1,6 @@
 # ThousandBirdsInc/chidori
 
-[![Stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=flat-square&color=yellow)](https://github.com/ThousandBirdsInc/chidori/stargazers) [![Forks](https://img.shields.io/github/forks/ThousandBirdsInc/chidori?style=flat-square&color=blue)](https://github.com/ThousandBirdsInc/chidori/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=flat-square&color=yellow)](https://github.com/ThousandBirdsInc/chidori/stargazers) [![Forks](https://img.shields.io/github/forks/ThousandBirdsInc/chidori?style=flat-square&color=blue)](https://github.com/ThousandBirdsInc/chidori/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The agent framework where every run is durable, replayable, and resumable by default.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ ThousandBirdsInc/chidori 是一个基于 Rust 的智能体框架，所有运行�
 | forks | 44/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

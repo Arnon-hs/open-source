@@ -1,6 +1,6 @@
 # meta-pytorch/torchcodec
 
-[![Stars](https://img.shields.io/github/stars/meta-pytorch/torchcodec?style=flat-square&color=yellow)](https://github.com/meta-pytorch/torchcodec/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/torchcodec?style=flat-square&color=blue)](https://github.com/meta-pytorch/torchcodec/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-pytorch/torchcodec?style=flat-square&color=yellow)](https://github.com/meta-pytorch/torchcodec/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/torchcodec?style=flat-square&color=blue)](https://github.com/meta-pytorch/torchcodec/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > PyTorch media decoding and encoding
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ meta-pytorch/torchcodec 的价值在于，它可以帮助开发者在 PyTorch �
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

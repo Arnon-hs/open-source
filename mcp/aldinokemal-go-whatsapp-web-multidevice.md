@@ -1,6 +1,6 @@
 # aldinokemal/go-whatsapp-web-multidevice
 
-[![Stars](https://img.shields.io/github/stars/aldinokemal/go-whatsapp-web-multidevice?style=flat-square&color=yellow)](https://github.com/aldinokemal/go-whatsapp-web-multidevice/stargazers) [![Forks](https://img.shields.io/github/forks/aldinokemal/go-whatsapp-web-multidevice?style=flat-square&color=blue)](https://github.com/aldinokemal/go-whatsapp-web-multidevice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aldinokemal/go-whatsapp-web-multidevice?style=flat-square&color=yellow)](https://github.com/aldinokemal/go-whatsapp-web-multidevice/stargazers) [![Forks](https://img.shields.io/github/forks/aldinokemal/go-whatsapp-web-multidevice?style=flat-square&color=blue)](https://github.com/aldinokemal/go-whatsapp-web-multidevice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Frontend · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ aldinokemal/go-whatsapp-web-multidevice 是一个开源项目，基于 Golang �
 | forks | 76/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 80/100 |
+| recency | 60/100 |
 | adoption | 77/100 |
-| production | 84/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

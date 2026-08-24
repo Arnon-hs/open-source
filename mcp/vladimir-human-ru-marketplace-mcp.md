@@ -1,6 +1,6 @@
 # Vladimir-Human/ru-marketplace-mcp
 
-[![Stars](https://img.shields.io/github/stars/Vladimir-Human/ru-marketplace-mcp?style=flat-square&color=yellow)](https://github.com/Vladimir-Human/ru-marketplace-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Vladimir-Human/ru-marketplace-mcp?style=flat-square&color=blue)](https://github.com/Vladimir-Human/ru-marketplace-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vladimir-Human/ru-marketplace-mcp?style=flat-square&color=yellow)](https://github.com/Vladimir-Human/ru-marketplace-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Vladimir-Human/ru-marketplace-mcp?style=flat-square&color=blue)](https://github.com/Vladimir-Human/ru-marketplace-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > MCP-серверы для российских маркетплейсов: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, Мегамаркет, Lamoda, DNS, Ситилинк, Taobao и сравнение цен по всем сразу. Только чтение, ключи не нужны.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Vladimir-Human/ru-marketplace-mcp 是一个开源项目，提供了 MCP 服务�
 | forks | 21/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

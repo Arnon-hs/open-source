@@ -1,6 +1,6 @@
 # scanaislop/aislop
 
-[![Stars](https://img.shields.io/github/stars/scanaislop/aislop?style=flat-square&color=yellow)](https://github.com/scanaislop/aislop/stargazers) [![Forks](https://img.shields.io/github/forks/scanaislop/aislop?style=flat-square&color=blue)](https://github.com/scanaislop/aislop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scanaislop/aislop?style=flat-square&color=yellow)](https://github.com/scanaislop/aislop/stargazers) [![Forks](https://img.shields.io/github/forks/scanaislop/aislop?style=flat-square&color=blue)](https://github.com/scanaislop/aislop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python, Go, Rust, Ruby, PHP). Sub-second, deterministic, no LLM at runtime. MIT-licensed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 451 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ scanaislop/aislop 是一款开源的代码质量检测工具，专注于捕捉 A
 | forks | 33/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

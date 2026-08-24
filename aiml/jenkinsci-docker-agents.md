@@ -1,6 +1,6 @@
 # jenkinsci/docker-agents
 
-[![Stars](https://img.shields.io/github/stars/jenkinsci/docker-agents?style=flat-square&color=yellow)](https://github.com/jenkinsci/docker-agents/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/docker-agents?style=flat-square&color=blue)](https://github.com/jenkinsci/docker-agents/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkinsci/docker-agents?style=flat-square&color=yellow)](https://github.com/jenkinsci/docker-agents/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/docker-agents?style=flat-square&color=blue)](https://github.com/jenkinsci/docker-agents/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Jenkins agent (base image) and inbound agent Docker images
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ jenkinsci/docker-agents 是 Jenkins 代理 (基准镜像) 和入站代理 Docker
 | forks | 60/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

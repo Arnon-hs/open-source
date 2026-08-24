@@ -1,6 +1,6 @@
 # Frappucc1no/recall-loom
 
-[![Stars](https://img.shields.io/github/stars/Frappucc1no/recall-loom?style=flat-square&color=yellow)](https://github.com/Frappucc1no/recall-loom/stargazers) [![Forks](https://img.shields.io/github/forks/Frappucc1no/recall-loom?style=flat-square&color=blue)](https://github.com/Frappucc1no/recall-loom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Frappucc1no/recall-loom?style=flat-square&color=yellow)](https://github.com/Frappucc1no/recall-loom/stargazers) [![Forks](https://img.shields.io/github/forks/Frappucc1no/recall-loom?style=flat-square&color=blue)](https://github.com/Frappucc1no/recall-loom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Project memory for long-running AI work across agents, models, and sessions. Keep context, decisions, progress, and next steps in local project files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Frappucc1no/recall-loom 的生产可用性很高，主要原因是其最近的�
 | forks | 19/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # umr-xiaomai/SeekClaw
 
-[![Stars](https://img.shields.io/github/stars/umr-xiaomai/SeekClaw?style=flat-square&color=yellow)](https://github.com/umr-xiaomai/SeekClaw/stargazers) [![Forks](https://img.shields.io/github/forks/umr-xiaomai/SeekClaw?style=flat-square&color=blue)](https://github.com/umr-xiaomai/SeekClaw/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umr-xiaomai/SeekClaw?style=flat-square&color=yellow)](https://github.com/umr-xiaomai/SeekClaw/stargazers) [![Forks](https://img.shields.io/github/forks/umr-xiaomai/SeekClaw?style=flat-square&color=blue)](https://github.com/umr-xiaomai/SeekClaw/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 一个基于 .NET 10 构建的现代化 AI Agent CLI，采用 Runtime First、Plugin First 架构，支持多模型、MCP、Skill、Tool、流式终端交互和可扩展插件系统。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ SeekClaw 的生产可用性为中等（Medium）。它适用于原型或内部�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 43/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 71/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

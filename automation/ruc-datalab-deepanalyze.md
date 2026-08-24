@@ -1,6 +1,6 @@
 # ruc-datalab/DeepAnalyze
 
-[![Stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=flat-square&color=yellow)](https://github.com/ruc-datalab/DeepAnalyze/stargazers) [![Forks](https://img.shields.io/github/forks/ruc-datalab/DeepAnalyze?style=flat-square&color=blue)](https://github.com/ruc-datalab/DeepAnalyze/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=flat-square&color=yellow)](https://github.com/ruc-datalab/DeepAnalyze/stargazers) [![Forks](https://img.shields.io/github/forks/ruc-datalab/DeepAnalyze?style=flat-square&color=blue)](https://github.com/ruc-datalab/DeepAnalyze/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 686 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ DeepAnalyze 是首个具备自主决策能力的 LLM 数据科学代理，能够
 | forks | 71/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

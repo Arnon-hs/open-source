@@ -1,6 +1,6 @@
 # bashly-framework/bashly
 
-[![Stars](https://img.shields.io/github/stars/bashly-framework/bashly?style=flat-square&color=yellow)](https://github.com/bashly-framework/bashly/stargazers) [![Forks](https://img.shields.io/github/forks/bashly-framework/bashly?style=flat-square&color=blue)](https://github.com/bashly-framework/bashly/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bashly-framework/bashly?style=flat-square&color=yellow)](https://github.com/bashly-framework/bashly/stargazers) [![Forks](https://img.shields.io/github/forks/bashly-framework/bashly?style=flat-square&color=blue)](https://github.com/bashly-framework/bashly/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Bash command line framework and CLI generator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Bashly 是一个基于 Ruby 的 Bash 命令行框架及 CLI 生成器，能够�
 | forks | 49/100 |
 | stars | 72/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

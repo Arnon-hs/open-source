@@ -1,6 +1,6 @@
 # oila-gmbh/skill-bill
 
-[![Stars](https://img.shields.io/github/stars/oila-gmbh/skill-bill?style=flat-square&color=yellow)](https://github.com/oila-gmbh/skill-bill/stargazers) [![Forks](https://img.shields.io/github/forks/oila-gmbh/skill-bill?style=flat-square&color=blue)](https://github.com/oila-gmbh/skill-bill/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oila-gmbh/skill-bill?style=flat-square&color=yellow)](https://github.com/oila-gmbh/skill-bill/stargazers) [![Forks](https://img.shields.io/github/forks/oila-gmbh/skill-bill?style=flat-square&color=blue)](https://github.com/oila-gmbh/skill-bill/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > SkillBill packages your engineering judgment into governed skills, then uses a durable Kotlin runtime to ensure agents actually execute that process consistently, resumably, and with bounded context.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ SkillBill 的生产可用性为中等（Medium），适合用于原型或内部�
 | forks | 8/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 20/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

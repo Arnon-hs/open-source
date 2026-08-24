@@ -1,6 +1,6 @@
 # SecureBananaLabs/bug-bounty
 
-[![Stars](https://img.shields.io/github/stars/SecureBananaLabs/bug-bounty?style=flat-square&color=yellow)](https://github.com/SecureBananaLabs/bug-bounty/stargazers) [![Forks](https://img.shields.io/github/forks/SecureBananaLabs/bug-bounty?style=flat-square&color=blue)](https://github.com/SecureBananaLabs/bug-bounty/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SecureBananaLabs/bug-bounty?style=flat-square&color=yellow)](https://github.com/SecureBananaLabs/bug-bounty/stargazers) [![Forks](https://img.shields.io/github/forks/SecureBananaLabs/bug-bounty?style=flat-square&color=blue)](https://github.com/SecureBananaLabs/bug-bounty/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 714 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ SecureBananaLabs/bug-bounty 是一个基于 JavaScript 的开源漏洞赏金管�
 | forks | 71/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # optiscaler/OptiScaler
 
-[![Stars](https://img.shields.io/github/stars/optiscaler/OptiScaler?style=flat-square&color=yellow)](https://github.com/optiscaler/OptiScaler/stargazers) [![Forks](https://img.shields.io/github/forks/optiscaler/OptiScaler?style=flat-square&color=blue)](https://github.com/optiscaler/OptiScaler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/optiscaler/OptiScaler?style=flat-square&color=yellow)](https://github.com/optiscaler/OptiScaler/stargazers) [![Forks](https://img.shields.io/github/forks/optiscaler/OptiScaler?style=flat-square&color=blue)](https://github.com/optiscaler/OptiScaler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ OptiScaler 通过在不同显卡之间统一 AI 超分辨率/帧生成管线，�
 | forks | 63/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Ahoo-Wang/CosId
 
-[![Stars](https://img.shields.io/github/stars/Ahoo-Wang/CosId?style=flat-square&color=yellow)](https://github.com/Ahoo-Wang/CosId/stargazers) [![Forks](https://img.shields.io/github/forks/Ahoo-Wang/CosId?style=flat-square&color=blue)](https://github.com/Ahoo-Wang/CosId/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ahoo-Wang/CosId?style=flat-square&color=yellow)](https://github.com/Ahoo-Wang/CosId/stargazers) [![Forks](https://img.shields.io/github/forks/Ahoo-Wang/CosId?style=flat-square&color=blue)](https://github.com/Ahoo-Wang/CosId/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Universal, flexible, high-performance distributed ID generator.                              | 通用、灵活、高性能的分布式 ID 生成器
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 644 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Ahoo-Wang/CosId 的生产可用性得到了强有力的支持，包括：
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

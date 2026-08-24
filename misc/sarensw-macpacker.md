@@ -1,6 +1,6 @@
 # sarensw/MacPacker
 
-[![Stars](https://img.shields.io/github/stars/sarensw/MacPacker?style=flat-square&color=yellow)](https://github.com/sarensw/MacPacker/stargazers) [![Forks](https://img.shields.io/github/forks/sarensw/MacPacker?style=flat-square&color=blue)](https://github.com/sarensw/MacPacker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sarensw/MacPacker?style=flat-square&color=yellow)](https://github.com/sarensw/MacPacker/stargazers) [![Forks](https://img.shields.io/github/forks/sarensw/MacPacker?style=flat-square&color=blue)](https://github.com/sarensw/MacPacker/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Archive manager for macOS. Open source, because essential tools should be free. Preview (nested) archives without extracting them. Extract single files.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ sarensw/MacPacker 的生产可用性为中等（Medium）。虽然它是一个�
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

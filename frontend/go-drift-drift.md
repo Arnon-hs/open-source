@@ -1,6 +1,6 @@
 # go-drift/drift
 
-[![Stars](https://img.shields.io/github/stars/go-drift/drift?style=flat-square&color=yellow)](https://github.com/go-drift/drift/stargazers) [![Forks](https://img.shields.io/github/forks/go-drift/drift?style=flat-square&color=blue)](https://github.com/go-drift/drift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-drift/drift?style=flat-square&color=yellow)](https://github.com/go-drift/drift/stargazers) [![Forks](https://img.shields.io/github/forks/go-drift/drift?style=flat-square&color=blue)](https://github.com/go-drift/drift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform mobile UI framework for Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ go-drift/drift 是一套基于 Go 语言的跨平台移动 UI 框架，旨在帮
 | forks | 19/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

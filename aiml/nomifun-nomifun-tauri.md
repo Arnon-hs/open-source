@@ -1,6 +1,6 @@
 # nomifun/nomifun-tauri
 
-[![Stars](https://img.shields.io/github/stars/nomifun/nomifun-tauri?style=flat-square&color=yellow)](https://github.com/nomifun/nomifun-tauri/stargazers) [![Forks](https://img.shields.io/github/forks/nomifun/nomifun-tauri?style=flat-square&color=blue)](https://github.com/nomifun/nomifun-tauri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nomifun/nomifun-tauri?style=flat-square&color=yellow)](https://github.com/nomifun/nomifun-tauri/stargazers) [![Forks](https://img.shields.io/github/forks/nomifun/nomifun-tauri?style=flat-square&color=blue)](https://github.com/nomifun/nomifun-tauri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > nomifun ai workstation. desc:A no-holds-barred, fully open-source, local-first super AI workstation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ nomifun/nomifun‑tauri 是一款基于 Rust 与 Tauri 的本地‑first 超级 
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

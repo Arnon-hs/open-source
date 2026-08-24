@@ -1,6 +1,6 @@
 # KudoAI/chatgpt.js
 
-[![Stars](https://img.shields.io/github/stars/KudoAI/chatgpt.js?style=flat-square&color=yellow)](https://github.com/KudoAI/chatgpt.js/stargazers) [![Forks](https://img.shields.io/github/forks/KudoAI/chatgpt.js?style=flat-square&color=blue)](https://github.com/KudoAI/chatgpt.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KudoAI/chatgpt.js?style=flat-square&color=yellow)](https://github.com/KudoAI/chatgpt.js/stargazers) [![Forks](https://img.shields.io/github/forks/KudoAI/chatgpt.js?style=flat-square&color=blue)](https://github.com/KudoAI/chatgpt.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Education
+Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ KudoAI/chatgpt.js：KudoAI/chatgpt.js helps remove repetitive manual operations 
 | forks | 56/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

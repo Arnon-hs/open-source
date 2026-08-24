@@ -1,6 +1,6 @@
 # team-telnyx/ai
 
-[![Stars](https://img.shields.io/github/stars/team-telnyx/ai?style=flat-square&color=yellow)](https://github.com/team-telnyx/ai/stargazers) [![Forks](https://img.shields.io/github/forks/team-telnyx/ai?style=flat-square&color=blue)](https://github.com/team-telnyx/ai/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/team-telnyx/ai?style=flat-square&color=yellow)](https://github.com/team-telnyx/ai/stargazers) [![Forks](https://img.shields.io/github/forks/team-telnyx/ai?style=flat-square&color=blue)](https://github.com/team-telnyx/ai/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Official one-stop shop for AI Agents and developers building with Telnyx.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ team‑telnyx/ai 是 Telnyx 官方提供的一站式 AI Agent 开发套件，帮
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

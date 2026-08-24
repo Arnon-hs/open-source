@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/lmms-eval
 
-[![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=flat-square&color=yellow)](https://github.com/EvolvingLMMs-Lab/lmms-eval/stargazers) [![Forks](https://img.shields.io/github/forks/EvolvingLMMs-Lab/lmms-eval?style=flat-square&color=blue)](https://github.com/EvolvingLMMs-Lab/lmms-eval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=flat-square&color=yellow)](https://github.com/EvolvingLMMs-Lab/lmms-eval/stargazers) [![Forks](https://img.shields.io/github/forks/EvolvingLMMs-Lab/lmms-eval?style=flat-square&color=blue)](https://github.com/EvolvingLMMs-Lab/lmms-eval/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 637 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Evolving
 | forks | 70/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 79/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

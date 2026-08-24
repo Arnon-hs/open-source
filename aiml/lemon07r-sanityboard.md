@@ -1,6 +1,6 @@
 # lemon07r/SanityBoard
 
-[![Stars](https://img.shields.io/github/stars/lemon07r/SanityBoard?style=flat-square&color=yellow)](https://github.com/lemon07r/SanityBoard/stargazers) [![Forks](https://img.shields.io/github/forks/lemon07r/SanityBoard?style=flat-square&color=blue)](https://github.com/lemon07r/SanityBoard/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lemon07r/SanityBoard?style=flat-square&color=yellow)](https://github.com/lemon07r/SanityBoard/stargazers) [![Forks](https://img.shields.io/github/forks/lemon07r/SanityBoard?style=flat-square&color=blue)](https://github.com/lemon07r/SanityBoard/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Home of the SanityHarness Leaderboard website.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ SanityBoard（lemon07r/SanityBoard）是 SanityHarness 计分板的前端实现�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 23/100 |
-| production | 69/100 |
+| production | 42/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

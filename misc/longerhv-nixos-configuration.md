@@ -1,6 +1,6 @@
 # LongerHV/nixos-configuration
 
-[![Stars](https://img.shields.io/github/stars/LongerHV/nixos-configuration?style=flat-square&color=yellow)](https://github.com/LongerHV/nixos-configuration/stargazers) [![Forks](https://img.shields.io/github/forks/LongerHV/nixos-configuration?style=flat-square&color=blue)](https://github.com/LongerHV/nixos-configuration/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LongerHV/nixos-configuration?style=flat-square&color=yellow)](https://github.com/LongerHV/nixos-configuration/stargazers) [![Forks](https://img.shields.io/github/forks/LongerHV/nixos-configuration?style=flat-square&color=blue)](https://github.com/LongerHV/nixos-configuration/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ LongerHV/nixos-configuration 是一个基于 Nix 语言的 NixOS 配置集合，
 | forks | 23/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 65/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

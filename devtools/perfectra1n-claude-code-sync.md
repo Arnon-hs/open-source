@@ -1,6 +1,6 @@
 # perfectra1n/claude-code-sync
 
-[![Stars](https://img.shields.io/github/stars/perfectra1n/claude-code-sync?style=flat-square&color=yellow)](https://github.com/perfectra1n/claude-code-sync/stargazers) [![Forks](https://img.shields.io/github/forks/perfectra1n/claude-code-sync?style=flat-square&color=blue)](https://github.com/perfectra1n/claude-code-sync/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perfectra1n/claude-code-sync?style=flat-square&color=yellow)](https://github.com/perfectra1n/claude-code-sync/stargazers) [![Forks](https://img.shields.io/github/forks/perfectra1n/claude-code-sync?style=flat-square&color=blue)](https://github.com/perfectra1n/claude-code-sync/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Rust CLI tool for syncing Claude Code conversation history across machines using git repositories.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ perfectra1n/claude-code-sync 是一款基于 Rust 实现的命令行工具，能
 | forks | 31/100 |
 | stars | 40/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

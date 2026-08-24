@@ -1,6 +1,6 @@
 # ovh/venom
 
-[![Stars](https://img.shields.io/github/stars/ovh/venom?style=flat-square&color=yellow)](https://github.com/ovh/venom/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/venom?style=flat-square&color=blue)](https://github.com/ovh/venom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovh/venom?style=flat-square&color=yellow)](https://github.com/ovh/venom/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/venom?style=flat-square&color=blue)](https://github.com/ovh/venom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ ovh/venom 有很高的生产可用性，主要原因是：
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

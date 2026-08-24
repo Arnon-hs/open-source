@@ -1,6 +1,6 @@
 # pwmt/zathura
 
-[![Stars](https://img.shields.io/github/stars/pwmt/zathura?style=flat-square&color=yellow)](https://github.com/pwmt/zathura/stargazers) [![Forks](https://img.shields.io/github/forks/pwmt/zathura?style=flat-square&color=blue)](https://github.com/pwmt/zathura/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pwmt/zathura?style=flat-square&color=yellow)](https://github.com/pwmt/zathura/stargazers) [![Forks](https://img.shields.io/github/forks/pwmt/zathura?style=flat-square&color=blue)](https://github.com/pwmt/zathura/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Document viewer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ pwmt/zathura 的生产可用性为中等。它适合用于 prototyping 或内部
 | forks | 58/100 |
 | stars | 75/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

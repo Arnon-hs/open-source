@@ -1,6 +1,6 @@
 # Everyone-Needs-A-Copilot/claude-copilot
 
-[![Stars](https://img.shields.io/github/stars/Everyone-Needs-A-Copilot/claude-copilot?style=flat-square&color=yellow)](https://github.com/Everyone-Needs-A-Copilot/claude-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/Everyone-Needs-A-Copilot/claude-copilot?style=flat-square&color=blue)](https://github.com/Everyone-Needs-A-Copilot/claude-copilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Everyone-Needs-A-Copilot/claude-copilot?style=flat-square&color=yellow)](https://github.com/Everyone-Needs-A-Copilot/claude-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/Everyone-Needs-A-Copilot/claude-copilot?style=flat-square&color=blue)](https://github.com/Everyone-Needs-A-Copilot/claude-copilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Transform Claude Code into a full development team. 11 specialized agents (Architect, Engineer, QA, Security, UX, DevOps, and more), persistent memory across sessions, and 25,000+ on-demand skills. Works immediately for solo devs—customizable with your team's standards, methodologies, and proprietary knowledge.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Database · Security
+MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Everyone-Needs-A-Copilot/claude-copilot：Everyone-Needs-A-Copilot/claude-copilo
 | forks | 15/100 |
 | stars | 24/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

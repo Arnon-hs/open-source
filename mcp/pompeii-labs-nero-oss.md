@@ -1,6 +1,6 @@
 # pompeii-labs/nero-oss
 
-[![Stars](https://img.shields.io/github/stars/pompeii-labs/nero-oss?style=flat-square&color=yellow)](https://github.com/pompeii-labs/nero-oss/stargazers) [![Forks](https://img.shields.io/github/forks/pompeii-labs/nero-oss?style=flat-square&color=blue)](https://github.com/pompeii-labs/nero-oss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pompeii-labs/nero-oss?style=flat-square&color=yellow)](https://github.com/pompeii-labs/nero-oss/stargazers) [![Forks](https://img.shields.io/github/forks/pompeii-labs/nero-oss?style=flat-square&color=blue)](https://github.com/pompeii-labs/nero-oss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The first AI agent with *agency*
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ pompeii‑labs/nero‑oss 是首个具备“代理能力”的 AI Agent，通过
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

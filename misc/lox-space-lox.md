@@ -1,6 +1,6 @@
 # lox-space/lox
 
-[![Stars](https://img.shields.io/github/stars/lox-space/lox?style=flat-square&color=yellow)](https://github.com/lox-space/lox/stargazers) [![Forks](https://img.shields.io/github/forks/lox-space/lox?style=flat-square&color=blue)](https://github.com/lox-space/lox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lox-space/lox?style=flat-square&color=yellow)](https://github.com/lox-space/lox/stargazers) [![Forks](https://img.shields.io/github/forks/lox-space/lox?style=flat-square&color=blue)](https://github.com/lox-space/lox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Oxidized Astrodynamics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Lox-space/lox 的生产可用性为中等。虽然它可以用于原型或内部
 | forks | 29/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

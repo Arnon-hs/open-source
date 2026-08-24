@@ -1,6 +1,6 @@
 # laravel/nightwatch
 
-[![Stars](https://img.shields.io/github/stars/laravel/nightwatch?style=flat-square&color=yellow)](https://github.com/laravel/nightwatch/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/nightwatch?style=flat-square&color=blue)](https://github.com/laravel/nightwatch/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/nightwatch?style=flat-square&color=yellow)](https://github.com/laravel/nightwatch/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/nightwatch?style=flat-square&color=blue)](https://github.com/laravel/nightwatch/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The official Laravel Nightwatch package.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -70,14 +70,15 @@ laravel/nightwatch 是 Laravel 官方的 Nightwatch 包，旨在让生产环境�
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

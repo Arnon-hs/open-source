@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,6 +74,7 @@ spoutn1k/mcmap：spoutn1k/mcmap may be useful when its README and activity match
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

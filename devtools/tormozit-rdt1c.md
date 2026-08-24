@@ -1,6 +1,6 @@
 # tormozit/RDT1C
 
-[![Stars](https://img.shields.io/github/stars/tormozit/RDT1C?style=flat-square&color=yellow)](https://github.com/tormozit/RDT1C/stargazers) [![Forks](https://img.shields.io/github/forks/tormozit/RDT1C?style=flat-square&color=blue)](https://github.com/tormozit/RDT1C/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tormozit/RDT1C?style=flat-square&color=yellow)](https://github.com/tormozit/RDT1C/stargazers) [![Forks](https://img.shields.io/github/forks/tormozit/RDT1C?style=flat-square&color=blue)](https://github.com/tormozit/RDT1C/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Подсистема "Инструменты разработчика" для платформы 1С 8
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 193 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | 1C Enterprise |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ tormozit/RDT1C 的生产可用性为中等。虽然它在内部工作流程和�
 | forks | 31/100 |
 | stars | 49/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

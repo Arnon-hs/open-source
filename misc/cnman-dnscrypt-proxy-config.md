@@ -1,6 +1,6 @@
 # CNMan/dnscrypt-proxy-config
 
-[![Stars](https://img.shields.io/github/stars/CNMan/dnscrypt-proxy-config?style=flat-square&color=yellow)](https://github.com/CNMan/dnscrypt-proxy-config/stargazers) [![Forks](https://img.shields.io/github/forks/CNMan/dnscrypt-proxy-config?style=flat-square&color=blue)](https://github.com/CNMan/dnscrypt-proxy-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CNMan/dnscrypt-proxy-config?style=flat-square&color=yellow)](https://github.com/CNMan/dnscrypt-proxy-config/stargazers) [![Forks](https://img.shields.io/github/forks/CNMan/dnscrypt-proxy-config?style=flat-square&color=blue)](https://github.com/CNMan/dnscrypt-proxy-config/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ CNMan/dnscrypt-proxy-config 是一个开源项目，提供了 dnscrypt-proxy 配
 | forks | 45/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 67/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

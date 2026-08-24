@@ -1,6 +1,6 @@
 # spiculedata/saiku
 
-[![Stars](https://img.shields.io/github/stars/spiculedata/saiku?style=flat-square&color=yellow)](https://github.com/spiculedata/saiku/stargazers) [![Forks](https://img.shields.io/github/forks/spiculedata/saiku?style=flat-square&color=blue)](https://github.com/spiculedata/saiku/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spiculedata/saiku?style=flat-square&color=yellow)](https://github.com/spiculedata/saiku/stargazers) [![Forks](https://img.shields.io/github/forks/spiculedata/saiku?style=flat-square&color=blue)](https://github.com/spiculedata/saiku/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source semantic layer: one cube for Excel (MDX/XMLA), dashboards, and AI agents (MCP). Mondrian + Apache Calcite.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 655 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Data
+MCP · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ spiculedata/saiku 提供一个开源的语义层（基于 Mondrian + Apache Calc
 | forks | 70/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

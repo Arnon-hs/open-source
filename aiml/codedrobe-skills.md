@@ -1,6 +1,6 @@
 # CodeDrobe/skills
 
-[![Stars](https://img.shields.io/github/stars/CodeDrobe/skills?style=flat-square&color=yellow)](https://github.com/CodeDrobe/skills/stargazers) [![Forks](https://img.shields.io/github/forks/CodeDrobe/skills?style=flat-square&color=blue)](https://github.com/CodeDrobe/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeDrobe/skills?style=flat-square&color=yellow)](https://github.com/CodeDrobe/skills/stargazers) [![Forks](https://img.shields.io/github/forks/CodeDrobe/skills?style=flat-square&color=blue)](https://github.com/CodeDrobe/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ CodeDrobe/skills 项目的生产可用性评估为中等（Medium）。它适用
 | forks | 28/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

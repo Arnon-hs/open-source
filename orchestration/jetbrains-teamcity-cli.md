@@ -1,6 +1,6 @@
 # JetBrains/teamcity-cli
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/teamcity-cli?style=flat-square&color=yellow)](https://github.com/JetBrains/teamcity-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/teamcity-cli?style=flat-square&color=blue)](https://github.com/JetBrains/teamcity-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/teamcity-cli?style=flat-square&color=yellow)](https://github.com/JetBrains/teamcity-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/teamcity-cli?style=flat-square&color=blue)](https://github.com/JetBrains/teamcity-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · DevTools
+Orchestration · AI/ML · Backend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ JetBrains/teamcity-cli：JetBrains/teamcity-cli helps turn isolated prompts and 
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

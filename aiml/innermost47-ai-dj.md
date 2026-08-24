@@ -1,6 +1,6 @@
 # innermost47/ai-dj
 
-[![Stars](https://img.shields.io/github/stars/innermost47/ai-dj?style=flat-square&color=yellow)](https://github.com/innermost47/ai-dj/stargazers) [![Forks](https://img.shields.io/github/forks/innermost47/ai-dj?style=flat-square&color=blue)](https://github.com/innermost47/ai-dj/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/innermost47/ai-dj?style=flat-square&color=yellow)](https://github.com/innermost47/ai-dj/stargazers) [![Forks](https://img.shields.io/github/forks/innermost47/ai-dj?style=flat-square&color=blue)](https://github.com/innermost47/ai-dj/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone (Ableton Link) + VST3/AU for live performance. 8 tracks, 8 AI models, 30 seconds of patience per loop. It occasionally hallucinates. Not a song generator - you still have to do the work. Stay human.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 226 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ The project lets developers and musicians add AI‑driven generative elements to
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

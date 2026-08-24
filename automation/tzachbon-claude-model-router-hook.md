@@ -1,6 +1,6 @@
 # tzachbon/claude-model-router-hook
 
-[![Stars](https://img.shields.io/github/stars/tzachbon/claude-model-router-hook?style=flat-square&color=yellow)](https://github.com/tzachbon/claude-model-router-hook/stargazers) [![Forks](https://img.shields.io/github/forks/tzachbon/claude-model-router-hook?style=flat-square&color=blue)](https://github.com/tzachbon/claude-model-router-hook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tzachbon/claude-model-router-hook?style=flat-square&color=yellow)](https://github.com/tzachbon/claude-model-router-hook/stargazers) [![Forks](https://img.shields.io/github/forks/tzachbon/claude-model-router-hook?style=flat-square&color=blue)](https://github.com/tzachbon/claude-model-router-hook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code hooks that auto-switch model tier based on task complexity
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ tzachbon/claude-model-router-hook 是一个开源项目，旨在通过自动切�
 | forks | 19/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

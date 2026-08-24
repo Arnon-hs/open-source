@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 99.3k |
-| 🍴 **Forks** | 27.5k |
+| ⭐ **Stars** | 101k |
+| 🍴 **Forks** | 28.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-04-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,33 +27,35 @@ Misc
 
 ### English
 
-pytorch/pytorch: pytorch/pytorch may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pytorch/pytorch: pytorch/pytorch helps learn proven implementation patterns from working code.. Use it for learn an implementation pattern; build tutorials. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-pytorch/pytorch: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pytorch/pytorch: open-source проект в категориях Education. Практическое применение: learn an implementation pattern; build tutorials. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-pytorch/pytorch：pytorch/pytorch may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pytorch/pytorch：pytorch/pytorch helps learn proven implementation patterns from working code.。适合用于learn an implementation pattern、build tutorials。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
-**Value:** pytorch/pytorch may be useful when its README and activity match a concrete workflow.
+**Value:** pytorch/pytorch helps learn proven implementation patterns from working code.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- learn an implementation pattern
+- build tutorials
+- train a team on a stack
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 99311 GitHub stars
-- 27544 forks
-- updated 2026-04-21
+- 100959 GitHub stars
+- 28090 forks
+- updated 2026-06-22
 - primary language: Python
 - 8 topics
 
@@ -63,18 +65,19 @@ pytorch/pytorch：pytorch/pytorch may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 85/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
+| adoption | 100/100 |
+| production | 64/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-21 · [View on GitHub](https://github.com/pytorch/pytorch) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/pytorch/pytorch) · [← Back to Misc](./README.md)</sub>

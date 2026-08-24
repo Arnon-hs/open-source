@@ -1,6 +1,6 @@
 # VonderVuflya/Yggdrasil
 
-[![Stars](https://img.shields.io/github/stars/VonderVuflya/Yggdrasil?style=flat-square&color=yellow)](https://github.com/VonderVuflya/Yggdrasil/stargazers) [![Forks](https://img.shields.io/github/forks/VonderVuflya/Yggdrasil?style=flat-square&color=blue)](https://github.com/VonderVuflya/Yggdrasil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VonderVuflya/Yggdrasil?style=flat-square&color=yellow)](https://github.com/VonderVuflya/Yggdrasil/stargazers) [![Forks](https://img.shields.io/github/forks/VonderVuflya/Yggdrasil?style=flat-square&color=blue)](https://github.com/VonderVuflya/Yggdrasil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Durable, local-first memory for AI coding agents over MCP — zero-dependency, curated & semantically de-duped, you own the data (SQLite + Markdown). Works with Claude Code, Codex & any MCP host.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · DevTools · Data
+MCP · Knowledge/RAG · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ VonderVuflya/Yggdrasil：VonderVuflya/Yggdrasil helps connect AI assistants to r
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 61/100 |
+| recency | 80/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

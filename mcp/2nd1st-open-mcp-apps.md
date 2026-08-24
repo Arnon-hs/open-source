@@ -1,6 +1,6 @@
 # 2nd1st/open-mcp-apps
 
-[![Stars](https://img.shields.io/github/stars/2nd1st/open-mcp-apps?style=flat-square&color=yellow)](https://github.com/2nd1st/open-mcp-apps/stargazers) [![Forks](https://img.shields.io/github/forks/2nd1st/open-mcp-apps?style=flat-square&color=blue)](https://github.com/2nd1st/open-mcp-apps/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2nd1st/open-mcp-apps?style=flat-square&color=yellow)](https://github.com/2nd1st/open-mcp-apps/stargazers) [![Forks](https://img.shields.io/github/forks/2nd1st/open-mcp-apps?style=flat-square&color=blue)](https://github.com/2nd1st/open-mcp-apps/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI a persistent, reusable UI — it builds the component once, you keep it forever. An open MCP App engine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ To adopt 2nd1st/open-mcp-apps, developers can follow these steps:
 | forks | 19/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 60/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

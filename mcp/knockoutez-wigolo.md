@@ -1,6 +1,6 @@
 # KnockOutEZ/wigolo
 
-[![Stars](https://img.shields.io/github/stars/KnockOutEZ/wigolo?style=flat-square&color=yellow)](https://github.com/KnockOutEZ/wigolo/stargazers) [![Forks](https://img.shields.io/github/forks/KnockOutEZ/wigolo?style=flat-square&color=blue)](https://github.com/KnockOutEZ/wigolo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KnockOutEZ/wigolo?style=flat-square&color=yellow)](https://github.com/KnockOutEZ/wigolo/stargazers) [![Forks](https://img.shields.io/github/forks/KnockOutEZ/wigolo?style=flat-square&color=blue)](https://github.com/KnockOutEZ/wigolo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ KnockOutEZ/wigolo 是面向 AI 编码助手的本地化搜索/抓取/研究平�
 | forks | 8/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

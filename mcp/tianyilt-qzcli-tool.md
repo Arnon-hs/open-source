@@ -1,6 +1,6 @@
 # tianyilt/qzcli_tool
 
-[![Stars](https://img.shields.io/github/stars/tianyilt/qzcli_tool?style=flat-square&color=yellow)](https://github.com/tianyilt/qzcli_tool/stargazers) [![Forks](https://img.shields.io/github/forks/tianyilt/qzcli_tool?style=flat-square&color=blue)](https://github.com/tianyilt/qzcli_tool/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tianyilt/qzcli_tool?style=flat-square&color=yellow)](https://github.com/tianyilt/qzcli_tool/stargazers) [![Forks](https://img.shields.io/github/forks/tianyilt/qzcli_tool?style=flat-square&color=blue)](https://github.com/tianyilt/qzcli_tool/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 启智平台任务管理 CLI：资源查询、任务提交、日志查看和 MCP/agent workflow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · DevOps/Infra
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ tianyilt/qzcli_tool 的生产可用性非常高。它有 106 个 GitHub 星星�
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

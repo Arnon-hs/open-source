@@ -1,6 +1,6 @@
 # pii-shield/pii-shield
 
-[![Stars](https://img.shields.io/github/stars/pii-shield/pii-shield?style=flat-square&color=yellow)](https://github.com/pii-shield/pii-shield/stargazers) [![Forks](https://img.shields.io/github/forks/pii-shield/pii-shield?style=flat-square&color=blue)](https://github.com/pii-shield/pii-shield/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pii-shield/pii-shield?style=flat-square&color=yellow)](https://github.com/pii-shield/pii-shield/stargazers) [![Forks](https://img.shields.io/github/forks/pii-shield/pii-shield?style=flat-square&color=blue)](https://github.com/pii-shield/pii-shield/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ pii-shield/pii-shield 的生产可用性较高，理由如下：
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

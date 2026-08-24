@@ -1,0 +1,83 @@
+# openfootmanager/openfootmanager
+
+[![Stars](https://img.shields.io/github/stars/openfootmanager/openfootmanager?style=flat-square&color=yellow)](https://github.com/openfootmanager/openfootmanager/stargazers) [![Forks](https://img.shields.io/github/forks/openfootmanager/openfootmanager?style=flat-square&color=blue)](https://github.com/openfootmanager/openfootmanager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> An open source soccer/football manager game
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 938 |
+| 🍴 **Forks** | 141 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`engine` `football` `football-manager` `footballmanager` `game` `games` `javascript` `manager` `markov` `markov-chain` `react` `rust`
+
+## 🎯 Categories
+
+Frontend
+
+## 📝 Summary
+
+### English
+
+openfootmanager/openfootmanager: openfootmanager/openfootmanager helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+openfootmanager/openfootmanager: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+openfootmanager/openfootmanager：openfootmanager/openfootmanager helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** openfootmanager/openfootmanager helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 938 GitHub stars
+- 141 forks
+- updated 2026-06-30
+- primary language: Rust
+- 18 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 54/100 |
+| stars | 63/100 |
+| topics | 100/100 |
+| outlook | 58/100 |
+| quality | 67/100 |
+| recency | 40/100 |
+| adoption | 61/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/openfootmanager/openfootmanager) · [← Back to Frontend](./README.md)</sub>

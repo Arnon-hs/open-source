@@ -1,6 +1,6 @@
 # suitenumerique/meet
 
-[![Stars](https://img.shields.io/github/stars/suitenumerique/meet?style=flat-square&color=yellow)](https://github.com/suitenumerique/meet/stargazers) [![Forks](https://img.shields.io/github/forks/suitenumerique/meet?style=flat-square&color=blue)](https://github.com/suitenumerique/meet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suitenumerique/meet?style=flat-square&color=yellow)](https://github.com/suitenumerique/meet/stargazers) [![Forks](https://img.shields.io/github/forks/suitenumerique/meet?style=flat-square&color=blue)](https://github.com/suitenumerique/meet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open source video conferencing app powered by LiveKit. Built with Django and React.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ suitenumerique/meet 的生产可用性较高，主要原因是：
 | forks | 61/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

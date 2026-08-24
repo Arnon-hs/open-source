@@ -1,6 +1,6 @@
 # chuspeeism/dashiAI-ppt-skill
 
-[![Stars](https://img.shields.io/github/stars/chuspeeism/dashiAI-ppt-skill?style=flat-square&color=yellow)](https://github.com/chuspeeism/dashiAI-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/chuspeeism/dashiAI-ppt-skill?style=flat-square&color=blue)](https://github.com/chuspeeism/dashiAI-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chuspeeism/dashiAI-ppt-skill?style=flat-square&color=yellow)](https://github.com/chuspeeism/dashiAI-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/chuspeeism/dashiAI-ppt-skill?style=flat-square&color=blue)](https://github.com/chuspeeism/dashiAI-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 726 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ chuspeeism/dashiAI-ppt-skill 是一个 AI 代理技能，能够从多个视觉�
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Shubchynskyi/garda-agent-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/Shubchynskyi/garda-agent-orchestrator?style=flat-square&color=yellow)](https://github.com/Shubchynskyi/garda-agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Shubchynskyi/garda-agent-orchestrator?style=flat-square&color=blue)](https://github.com/Shubchynskyi/garda-agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shubchynskyi/garda-agent-orchestrator?style=flat-square&color=yellow)](https://github.com/Shubchynskyi/garda-agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Shubchynskyi/garda-agent-orchestrator?style=flat-square&color=blue)](https://github.com/Shubchynskyi/garda-agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Governed local runtime for AI coding agents: task lifecycle, mandatory gates, reviews, doc-impact checks, and auditable completion.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Shubchynskyi/garda-agent-orchestrator 是一个开源项目，用于管理 AI �
 | forks | 0/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 22/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

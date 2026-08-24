@@ -1,6 +1,6 @@
 # houtini-ai/geo-analyzer
 
-[![Stars](https://img.shields.io/github/stars/houtini-ai/geo-analyzer?style=flat-square&color=yellow)](https://github.com/houtini-ai/geo-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/houtini-ai/geo-analyzer?style=flat-square&color=blue)](https://github.com/houtini-ai/geo-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/houtini-ai/geo-analyzer?style=flat-square&color=yellow)](https://github.com/houtini-ai/geo-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/houtini-ai/geo-analyzer?style=flat-square&color=blue)](https://github.com/houtini-ai/geo-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > GEO analysis MCP server for Claude - scores your content on the signals that get it cited by ChatGPT, Perplexity and Google AI Overviews. Claim density, E-E-A-T, extractability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ houtini-ai/geo-analyzer 的主要价值在于帮助连接 AI 辅助工具与真�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

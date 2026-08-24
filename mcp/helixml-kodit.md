@@ -1,6 +1,6 @@
 # helixml/kodit
 
-[![Stars](https://img.shields.io/github/stars/helixml/kodit?style=flat-square&color=yellow)](https://github.com/helixml/kodit/stargazers) [![Forks](https://img.shields.io/github/forks/helixml/kodit?style=flat-square&color=blue)](https://github.com/helixml/kodit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helixml/kodit?style=flat-square&color=yellow)](https://github.com/helixml/kodit/stargazers) [![Forks](https://img.shields.io/github/forks/helixml/kodit?style=flat-square&color=blue)](https://github.com/helixml/kodit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 👩‍💻 MCP server to index external repositories
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ helixml/kodit 是一款基于 Go 实现的 MCP（Model Context Protocol）服务
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

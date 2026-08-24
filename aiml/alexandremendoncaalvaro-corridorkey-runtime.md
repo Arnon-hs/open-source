@@ -1,6 +1,6 @@
 # alexandremendoncaalvaro/CorridorKey-Runtime
 
-[![Stars](https://img.shields.io/github/stars/alexandremendoncaalvaro/CorridorKey-Runtime?style=flat-square&color=yellow)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/stargazers) [![Forks](https://img.shields.io/github/forks/alexandremendoncaalvaro/CorridorKey-Runtime?style=flat-square&color=blue)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexandremendoncaalvaro/CorridorKey-Runtime?style=flat-square&color=yellow)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/stargazers) [![Forks](https://img.shields.io/github/forks/alexandremendoncaalvaro/CorridorKey-Runtime?style=flat-square&color=blue)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Design
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Overall, CorridorKey‑Runtime offers a high‑confidence, low‑friction route 
 | forks | 29/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

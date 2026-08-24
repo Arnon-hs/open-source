@@ -1,6 +1,6 @@
 # Cloud-CV/EvalAI
 
-[![Stars](https://img.shields.io/github/stars/Cloud-CV/EvalAI?style=flat-square&color=yellow)](https://github.com/Cloud-CV/EvalAI/stargazers) [![Forks](https://img.shields.io/github/forks/Cloud-CV/EvalAI?style=flat-square&color=blue)](https://github.com/Cloud-CV/EvalAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cloud-CV/EvalAI?style=flat-square&color=yellow)](https://github.com/Cloud-CV/EvalAI/stargazers) [![Forks](https://img.shields.io/github/forks/Cloud-CV/EvalAI?style=flat-square&color=blue)](https://github.com/Cloud-CV/EvalAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 982 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Education
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Cloud-CV/EvalAI 的生产可用性非常高，尤其是在开源项目中。它�
 | forks | 75/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

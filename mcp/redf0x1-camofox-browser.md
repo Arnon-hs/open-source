@@ -1,6 +1,6 @@
 # redf0x1/camofox-browser
 
-[![Stars](https://img.shields.io/github/stars/redf0x1/camofox-browser?style=flat-square&color=yellow)](https://github.com/redf0x1/camofox-browser/stargazers) [![Forks](https://img.shields.io/github/forks/redf0x1/camofox-browser?style=flat-square&color=blue)](https://github.com/redf0x1/camofox-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redf0x1/camofox-browser?style=flat-square&color=yellow)](https://github.com/redf0x1/camofox-browser/stargazers) [![Forks](https://img.shields.io/github/forks/redf0x1/camofox-browser?style=flat-square&color=blue)](https://github.com/redf0x1/camofox-browser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Anti-detection browser server for AI agents — REST API wrapping Camoufox engine with OpenClaw plugin support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ redf0x1/camofox-browser 的生产可用性较高，主要原因是：
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 81/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 51/100 |
-| production | 83/100 |
+| production | 77/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

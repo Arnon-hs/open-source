@@ -1,6 +1,6 @@
 # bigbluebutton/bigbluebutton
 
-[![Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=flat-square&color=yellow)](https://github.com/bigbluebutton/bigbluebutton/stargazers) [![Forks](https://img.shields.io/github/forks/bigbluebutton/bigbluebutton?style=flat-square&color=blue)](https://github.com/bigbluebutton/bigbluebutton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=flat-square&color=yellow)](https://github.com/bigbluebutton/bigbluebutton/stargazers) [![Forks](https://img.shields.io/github/forks/bigbluebutton/bigbluebutton?style=flat-square&color=blue)](https://github.com/bigbluebutton/bigbluebutton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A complete web conferencing system for virtual classes and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ BigBlueButton 是一套完整的开源网络会议系统，专为虚拟课堂和
 | forks | 94/100 |
 | stars | 84/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

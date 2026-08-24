@@ -1,6 +1,6 @@
 # arbiterForge/codeArbiter
 
-[![Stars](https://img.shields.io/github/stars/arbiterForge/codeArbiter?style=flat-square&color=yellow)](https://github.com/arbiterForge/codeArbiter/stargazers) [![Forks](https://img.shields.io/github/forks/arbiterForge/codeArbiter?style=flat-square&color=blue)](https://github.com/arbiterForge/codeArbiter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arbiterForge/codeArbiter?style=flat-square&color=yellow)](https://github.com/arbiterForge/codeArbiter/stargazers) [![Forks](https://img.shields.io/github/forks/arbiterForge/codeArbiter?style=flat-square&color=blue)](https://github.com/arbiterForge/codeArbiter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > When you can't trust yourself with your code base, trust Arbiter.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ arbiterForge/codeArbiter 是一个基于 Python 的编排框架，帮助把单�
 | forks | 19/100 |
 | stars | 42/100 |
 | topics | 25/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

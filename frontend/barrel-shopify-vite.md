@@ -1,6 +1,6 @@
 # barrel/shopify-vite
 
-[![Stars](https://img.shields.io/github/stars/barrel/shopify-vite?style=flat-square&color=yellow)](https://github.com/barrel/shopify-vite/stargazers) [![Forks](https://img.shields.io/github/forks/barrel/shopify-vite?style=flat-square&color=blue)](https://github.com/barrel/shopify-vite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barrel/shopify-vite?style=flat-square&color=yellow)](https://github.com/barrel/shopify-vite/stargazers) [![Forks](https://img.shields.io/github/forks/barrel/shopify-vite?style=flat-square&color=blue)](https://github.com/barrel/shopify-vite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ barrel/shopify-vite
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 70/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # svy04/ballast
 
-[![Stars](https://img.shields.io/github/stars/svy04/ballast?style=flat-square&color=yellow)](https://github.com/svy04/ballast/stargazers) [![Forks](https://img.shields.io/github/forks/svy04/ballast?style=flat-square&color=blue)](https://github.com/svy04/ballast/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/svy04/ballast?style=flat-square&color=yellow)](https://github.com/svy04/ballast/stargazers) [![Forks](https://img.shields.io/github/forks/svy04/ballast?style=flat-square&color=blue)](https://github.com/svy04/ballast/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Builds up to a goal in a field you have no expertise in: splits it into the foundations that goal actually needs, mobilizes what you already hold, learns what is missing, and leaves every solved path behind for the next goal. Nothing is called done until a check passes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ svy04/ballast 的生产可用性为中等。它适用于原型或内部工作流
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 72/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

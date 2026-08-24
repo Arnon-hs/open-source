@@ -1,6 +1,6 @@
 # intentee/paddler
 
-[![Stars](https://img.shields.io/github/stars/intentee/paddler?style=flat-square&color=yellow)](https://github.com/intentee/paddler/stargazers) [![Forks](https://img.shields.io/github/forks/intentee/paddler?style=flat-square&color=blue)](https://github.com/intentee/paddler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intentee/paddler?style=flat-square&color=yellow)](https://github.com/intentee/paddler/stargazers) [![Forks](https://img.shields.io/github/forks/intentee/paddler?style=flat-square&color=blue)](https://github.com/intentee/paddler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple deployments built around ggml ecosystem. Runs on CPU and GPU.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ intentee/paddler 是一款基于 ggml 生态的开源 LLM/VLM 负载均衡与服
 | forks | 49/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

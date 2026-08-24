@@ -1,6 +1,6 @@
 # ananthakumaran/pimacs.el
 
-[![Stars](https://img.shields.io/github/stars/ananthakumaran/pimacs.el?style=flat-square&color=yellow)](https://github.com/ananthakumaran/pimacs.el/stargazers) [![Forks](https://img.shields.io/github/forks/ananthakumaran/pimacs.el?style=flat-square&color=blue)](https://github.com/ananthakumaran/pimacs.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ananthakumaran/pimacs.el?style=flat-square&color=yellow)](https://github.com/ananthakumaran/pimacs.el/stargazers) [![Forks](https://img.shields.io/github/forks/ananthakumaran/pimacs.el?style=flat-square&color=blue)](https://github.com/ananthakumaran/pimacs.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An Emacs client for Pi Coding Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Ananthakumaran/pimacs.el 的生产可用性为中等（Medium），适合用于�
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 53/100 |
+| recency | 80/100 |
 | adoption | 26/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

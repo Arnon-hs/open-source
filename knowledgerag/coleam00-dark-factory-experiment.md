@@ -1,6 +1,6 @@
 # coleam00/dark-factory-experiment
 
-[![Stars](https://img.shields.io/github/stars/coleam00/dark-factory-experiment?style=flat-square&color=yellow)](https://github.com/coleam00/dark-factory-experiment/stargazers) [![Forks](https://img.shields.io/github/forks/coleam00/dark-factory-experiment?style=flat-square&color=blue)](https://github.com/coleam00/dark-factory-experiment/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coleam00/dark-factory-experiment?style=flat-square&color=yellow)](https://github.com/coleam00/dark-factory-experiment/stargazers) [![Forks](https://img.shields.io/github/forks/coleam00/dark-factory-experiment?style=flat-square&color=blue)](https://github.com/coleam00/dark-factory-experiment/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A repository that ships its own code. AI workflows triage issues, implement them, review, and auto-merge with no human reading the diff. Runs on Archon. The app it maintains is a cited RAG chat over YouTube transcripts, live at chat.dynamous.ai.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ coleam00/dark-factory-experiment 是一个开源项目，旨在通过 AI 工作�
 | forks | 38/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

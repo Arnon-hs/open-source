@@ -1,6 +1,6 @@
 # hengruiyun/AI-Stock-Master
 
-[![Stars](https://img.shields.io/github/stars/hengruiyun/AI-Stock-Master?style=flat-square&color=yellow)](https://github.com/hengruiyun/AI-Stock-Master/stargazers) [![Forks](https://img.shields.io/github/forks/hengruiyun/AI-Stock-Master?style=flat-square&color=blue)](https://github.com/hengruiyun/AI-Stock-Master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hengruiyun/AI-Stock-Master?style=flat-square&color=yellow)](https://github.com/hengruiyun/AI-Stock-Master/stargazers) [![Forks](https://img.shields.io/github/forks/hengruiyun/AI-Stock-Master?style=flat-square&color=blue)](https://github.com/hengruiyun/AI-Stock-Master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI股票大师-基于AI 的股票趋势分析平台，通过AI 解读中国、香港、美国股票市场，融合三大核心算法，独家预分析多维数据，为投资者提供全方位的学习支持. This is an AI-based stock trend analysis platform that integrates three core algorithms:
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 195 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ AI 股票大师（hengruiyun/AI-Stock-Master）是一款基于人工智能的股
 | forks | 41/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Julia |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ JuliaDebug/Cthulhu.jl：JuliaDebug/Cthulhu.jl may be useful when its README and 
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # fjwood69/mori
 
-[![Stars](https://img.shields.io/github/stars/fjwood69/mori?style=flat-square&color=yellow)](https://github.com/fjwood69/mori/stargazers) [![Forks](https://img.shields.io/github/forks/fjwood69/mori?style=flat-square&color=blue)](https://github.com/fjwood69/mori/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fjwood69/mori?style=flat-square&color=yellow)](https://github.com/fjwood69/mori/stargazers) [![Forks](https://img.shields.io/github/forks/fjwood69/mori?style=flat-square&color=blue)](https://github.com/fjwood69/mori/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > mori MCP server — Deterministic boundaries for non-deterministic agents — a governed memory layer for AI coding agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ fjwood69/mori 是一个开源项目，提供了一个可控的内存层（MCP se
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

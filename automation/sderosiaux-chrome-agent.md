@@ -1,6 +1,6 @@
 # sderosiaux/chrome-agent
 
-[![Stars](https://img.shields.io/github/stars/sderosiaux/chrome-agent?style=flat-square&color=yellow)](https://github.com/sderosiaux/chrome-agent/stargazers) [![Forks](https://img.shields.io/github/forks/sderosiaux/chrome-agent?style=flat-square&color=blue)](https://github.com/sderosiaux/chrome-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sderosiaux/chrome-agent?style=flat-square&color=yellow)](https://github.com/sderosiaux/chrome-agent/stargazers) [![Forks](https://img.shields.io/github/forks/sderosiaux/chrome-agent?style=flat-square&color=blue)](https://github.com/sderosiaux/chrome-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Browser automation for AI agents. Single Rust binary, zero deps, CDP direct to Chrome.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ While sderosiaux/chrome-agent has some useful features and a medium production r
 | forks | 17/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Nitrate/Nitrate
 
-[![Stars](https://img.shields.io/github/stars/Nitrate/Nitrate?style=flat-square&color=yellow)](https://github.com/Nitrate/Nitrate/stargazers) [![Forks](https://img.shields.io/github/forks/Nitrate/Nitrate?style=flat-square&color=blue)](https://github.com/Nitrate/Nitrate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nitrate/Nitrate?style=flat-square&color=yellow)](https://github.com/Nitrate/Nitrate/stargazers) [![Forks](https://img.shields.io/github/forks/Nitrate/Nitrate?style=flat-square&color=blue)](https://github.com/Nitrate/Nitrate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Django based full-featured test case management system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Nitrate/Nitrate 的生产可用性较高，主要原因是：
 | forks | 52/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

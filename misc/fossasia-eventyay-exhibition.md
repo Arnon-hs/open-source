@@ -1,6 +1,6 @@
 # fossasia/eventyay-exhibition
 
-[![Stars](https://img.shields.io/github/stars/fossasia/eventyay-exhibition?style=flat-square&color=yellow)](https://github.com/fossasia/eventyay-exhibition/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/eventyay-exhibition?style=flat-square&color=blue)](https://github.com/fossasia/eventyay-exhibition/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fossasia/eventyay-exhibition?style=flat-square&color=yellow)](https://github.com/fossasia/eventyay-exhibition/stargazers) [![Forks](https://img.shields.io/github/forks/fossasia/eventyay-exhibition?style=flat-square&color=blue)](https://github.com/fossasia/eventyay-exhibition/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Exhibition plugin to manage exhibitors and sponsors on eventyay, the open source event management solution
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ fossasia/eventyay-exhibition 是一个开源项目，旨在为 eventyay（一个
 | forks | 42/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

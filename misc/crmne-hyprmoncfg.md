@@ -1,6 +1,6 @@
 # crmne/hyprmoncfg
 
-[![Stars](https://img.shields.io/github/stars/crmne/hyprmoncfg?style=flat-square&color=yellow)](https://github.com/crmne/hyprmoncfg/stargazers) [![Forks](https://img.shields.io/github/forks/crmne/hyprmoncfg?style=flat-square&color=blue)](https://github.com/crmne/hyprmoncfg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crmne/hyprmoncfg?style=flat-square&color=yellow)](https://github.com/crmne/hyprmoncfg/stargazers) [![Forks](https://img.shields.io/github/forks/crmne/hyprmoncfg?style=flat-square&color=blue)](https://github.com/crmne/hyprmoncfg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Arrange Hyprland monitors without doing coordinate math
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Hyprmoncfg 的生产可用性为中等。它适合用于内部工作流或原型
 | forks | 28/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 47/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

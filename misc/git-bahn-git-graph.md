@@ -1,6 +1,6 @@
 # git-bahn/git-graph
 
-[![Stars](https://img.shields.io/github/stars/git-bahn/git-graph?style=flat-square&color=yellow)](https://github.com/git-bahn/git-graph/stargazers) [![Forks](https://img.shields.io/github/forks/git-bahn/git-graph?style=flat-square&color=blue)](https://github.com/git-bahn/git-graph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/git-bahn/git-graph?style=flat-square&color=yellow)](https://github.com/git-bahn/git-graph/stargazers) [![Forks](https://img.shields.io/github/forks/git-bahn/git-graph?style=flat-square&color=blue)](https://github.com/git-bahn/git-graph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Command line tool to show clear git graphs arranged for your branching model
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 958 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ git-bahn/git-graph 的生产可用性为中等。由于它的依赖和维护成�
 | forks | 42/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

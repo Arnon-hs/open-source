@@ -1,6 +1,6 @@
 # starwind-ui/starwind-ui-mcp
 
-[![Stars](https://img.shields.io/github/stars/starwind-ui/starwind-ui-mcp?style=flat-square&color=yellow)](https://github.com/starwind-ui/starwind-ui-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/starwind-ui/starwind-ui-mcp?style=flat-square&color=blue)](https://github.com/starwind-ui/starwind-ui-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/starwind-ui/starwind-ui-mcp?style=flat-square&color=yellow)](https://github.com/starwind-ui/starwind-ui-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/starwind-ui/starwind-ui-mcp?style=flat-square&color=blue)](https://github.com/starwind-ui/starwind-ui-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Framework-aware Starwind UI v3 tools for Astro and React setup, components, docs, and migration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ starwind-ui/starwind-ui-mcp 是一个开源项目，旨在为 Astro 和 React �
 | forks | 33/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hackjutsu/Lepton
 
-[![Stars](https://img.shields.io/github/stars/hackjutsu/Lepton?style=flat-square&color=yellow)](https://github.com/hackjutsu/Lepton/stargazers) [![Forks](https://img.shields.io/github/forks/hackjutsu/Lepton?style=flat-square&color=blue)](https://github.com/hackjutsu/Lepton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hackjutsu/Lepton?style=flat-square&color=yellow)](https://github.com/hackjutsu/Lepton/stargazers) [![Forks](https://img.shields.io/github/forks/hackjutsu/Lepton?style=flat-square&color=blue)](https://github.com/hackjutsu/Lepton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 💻     Democratizing Snippet Management (macOS/Win/Linux)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 476 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ hackjutsu/Lepton 是一款跨平台（macOS/Windows/Linux）的开源代码片�
 | forks | 67/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

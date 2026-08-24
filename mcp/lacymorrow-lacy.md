@@ -1,6 +1,6 @@
 # lacymorrow/lacy
 
-[![Stars](https://img.shields.io/github/stars/lacymorrow/lacy?style=flat-square&color=yellow)](https://github.com/lacymorrow/lacy/stargazers) [![Forks](https://img.shields.io/github/forks/lacymorrow/lacy?style=flat-square&color=blue)](https://github.com/lacymorrow/lacy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lacymorrow/lacy?style=flat-square&color=yellow)](https://github.com/lacymorrow/lacy/stargazers) [![Forks](https://img.shields.io/github/forks/lacymorrow/lacy?style=flat-square&color=blue)](https://github.com/lacymorrow/lacy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Talk to your shell — commands run, questions go to AI. No prefixes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Product
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ lacymorrow/lacy 已经有较高的生产可用性，原因包括：
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

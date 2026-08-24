@@ -1,6 +1,6 @@
 # SWE-bench/SWE-bench
 
-[![Stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=flat-square&color=yellow)](https://github.com/SWE-bench/SWE-bench/stargazers) [![Forks](https://img.shields.io/github/forks/SWE-bench/SWE-bench?style=flat-square&color=blue)](https://github.com/SWE-bench/SWE-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=flat-square&color=yellow)](https://github.com/SWE-bench/SWE-bench/stargazers) [![Forks](https://img.shields.io/github/forks/SWE-bench/SWE-bench?style=flat-square&color=blue)](https://github.com/SWE-bench/SWE-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > SWE-bench: Can Language Models Resolve Real-world Github Issues?
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 934 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ SWE-bench 是一个用于评估语言模型在真实 GitHub Issue 解决能力�
 | forks | 74/100 |
 | stars | 80/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 78/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

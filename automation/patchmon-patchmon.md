@@ -1,6 +1,6 @@
 # PatchMon/PatchMon
 
-[![Stars](https://img.shields.io/github/stars/PatchMon/PatchMon?style=flat-square&color=yellow)](https://github.com/PatchMon/PatchMon/stargazers) [![Forks](https://img.shields.io/github/forks/PatchMon/PatchMon?style=flat-square&color=blue)](https://github.com/PatchMon/PatchMon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PatchMon/PatchMon?style=flat-square&color=yellow)](https://github.com/PatchMon/PatchMon/stargazers) [![Forks](https://img.shields.io/github/forks/PatchMon/PatchMon?style=flat-square&color=blue)](https://github.com/PatchMon/PatchMon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Linux Patch Management & Automation Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Database · DevOps/Infra
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ PatchMon/PatchMon 是一个基于 Go 开发的 Linux 补丁管理与自动化平
 | forks | 56/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

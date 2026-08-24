@@ -1,6 +1,6 @@
 # jeinlee1991/chinese-llm-benchmark
 
-[![Stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=flat-square&color=yellow)](https://github.com/jeinlee1991/chinese-llm-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/jeinlee1991/chinese-llm-benchmark?style=flat-square&color=blue)](https://github.com/jeinlee1991/chinese-llm-benchmark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=flat-square&color=yellow)](https://github.com/jeinlee1991/chinese-llm-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/jeinlee1991/chinese-llm-benchmark?style=flat-square&color=blue)](https://github.com/jeinlee1991/chinese-llm-benchmark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.6、ernie4.5、MiniMax-M2.7、deepseek-v4、Qwen3.6、llama4、智谱GLM-5.1、MiMo-V2、LongCat、gemma4、mistral等开源大模型。不仅提供排行榜，也提供规模超200万的大模型缺陷库！方便广大社区研究分析、改进大模型。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-18 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -67,14 +67,15 @@ jeinlee1991/chinese-llm-benchmark：jeinlee1991/chinese-llm-benchmark helps add 
 | forks | 60/100 |
 | stars | 81/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

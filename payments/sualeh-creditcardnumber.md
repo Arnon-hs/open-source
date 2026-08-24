@@ -1,6 +1,6 @@
 # sualeh/creditcardnumber
 
-[![Stars](https://img.shields.io/github/stars/sualeh/creditcardnumber?style=flat-square&color=yellow)](https://github.com/sualeh/creditcardnumber/stargazers) [![Forks](https://img.shields.io/github/forks/sualeh/creditcardnumber?style=flat-square&color=blue)](https://github.com/sualeh/creditcardnumber/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sualeh/creditcardnumber?style=flat-square&color=yellow)](https://github.com/sualeh/creditcardnumber/stargazers) [![Forks](https://img.shields.io/github/forks/sualeh/creditcardnumber?style=flat-square&color=blue)](https://github.com/sualeh/creditcardnumber/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Java library that can provide details of a bank issued credit card number
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Mobile
+Payments · Mobile
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ sualeh/creditcardnumber 的生产可用性为中等（Medium）。它适合用�
 | forks | 38/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

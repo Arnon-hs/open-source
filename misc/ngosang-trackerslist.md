@@ -1,6 +1,6 @@
 # ngosang/trackerslist
 
-[![Stars](https://img.shields.io/github/stars/ngosang/trackerslist?style=flat-square&color=yellow)](https://github.com/ngosang/trackerslist/stargazers) [![Forks](https://img.shields.io/github/forks/ngosang/trackerslist?style=flat-square&color=blue)](https://github.com/ngosang/trackerslist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ngosang/trackerslist?style=flat-square&color=yellow)](https://github.com/ngosang/trackerslist/stargazers) [![Forks](https://img.shields.io/github/forks/ngosang/trackerslist?style=flat-square&color=blue)](https://github.com/ngosang/trackerslist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Updated list of public BitTorrent trackers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54.3k |
 | 🍴 **Forks** | 6.6k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ The project scores high on production readiness: it has recent activity (last co
 | forks | 95/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 84/100 |
+| recency | 40/100 |
 | adoption | 99/100 |
-| production | 83/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

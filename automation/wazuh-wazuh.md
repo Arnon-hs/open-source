@@ -1,6 +1,6 @@
 # wazuh/wazuh
 
-[![Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=flat-square&color=yellow)](https://github.com/wazuh/wazuh/stargazers) [![Forks](https://img.shields.io/github/forks/wazuh/wazuh?style=flat-square&color=blue)](https://github.com/wazuh/wazuh/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=flat-square&color=yellow)](https://github.com/wazuh/wazuh/stargazers) [![Forks](https://img.shields.io/github/forks/wazuh/wazuh?style=flat-square&color=blue)](https://github.com/wazuh/wazuh/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database · Observability · Security
+Automation · Observability · Security
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Wazuh（wazuh/wazuh）是一个开源安全平台，提供统一的 XDR 与 SIEM
 | forks | 84/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 74/100 |
+| recency | 20/100 |
 | adoption | 88/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

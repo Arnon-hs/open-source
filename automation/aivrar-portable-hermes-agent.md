@@ -1,6 +1,6 @@
 # aivrar/portable-hermes-agent
 
-[![Stars](https://img.shields.io/github/stars/aivrar/portable-hermes-agent?style=flat-square&color=yellow)](https://github.com/aivrar/portable-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aivrar/portable-hermes-agent?style=flat-square&color=blue)](https://github.com/aivrar/portable-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aivrar/portable-hermes-agent?style=flat-square&color=yellow)](https://github.com/aivrar/portable-hermes-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aivrar/portable-hermes-agent?style=flat-square&color=blue)](https://github.com/aivrar/portable-hermes-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevOps/Infra
+Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ aivrar/portable-hermes-agent 将 Hermes Agent 打包成即插即用的 Windows �
 | forks | 39/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

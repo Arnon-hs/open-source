@@ -1,6 +1,6 @@
 # kanchengw/cnllm
 
-[![Stars](https://img.shields.io/github/stars/kanchengw/cnllm?style=flat-square&color=yellow)](https://github.com/kanchengw/cnllm/stargazers) [![Forks](https://img.shields.io/github/forks/kanchengw/cnllm?style=flat-square&color=blue)](https://github.com/kanchengw/cnllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanchengw/cnllm?style=flat-square&color=yellow)](https://github.com/kanchengw/cnllm/stargazers) [![Forks](https://img.shields.io/github/forks/kanchengw/cnllm?style=flat-square&color=blue)](https://github.com/kanchengw/cnllm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Python toolkit for Chinese LLMs, with flexible batch capacity, structured real-time visulization and automated accumulation for streaming, and explicit feedback on vendor-native parameter validation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend · Education
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ kanchengw/cnllm 的生产可用性非常高，项目最近有活动，采用度�
 | forks | 29/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

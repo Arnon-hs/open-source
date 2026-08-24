@@ -1,6 +1,6 @@
 # HaseebKhalid1507/SynapsCLI
 
-[![Stars](https://img.shields.io/github/stars/HaseebKhalid1507/SynapsCLI?style=flat-square&color=yellow)](https://github.com/HaseebKhalid1507/SynapsCLI/stargazers) [![Forks](https://img.shields.io/github/forks/HaseebKhalid1507/SynapsCLI?style=flat-square&color=blue)](https://github.com/HaseebKhalid1507/SynapsCLI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HaseebKhalid1507/SynapsCLI?style=flat-square&color=yellow)](https://github.com/HaseebKhalid1507/SynapsCLI/stargazers) [![Forks](https://img.shields.io/github/forks/HaseebKhalid1507/SynapsCLI?style=flat-square&color=blue)](https://github.com/HaseebKhalid1507/SynapsCLI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal-native AI agent runtime built in Rust. Interactive chat, parallel agent orchestration, and autonomous supervision.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ HaseebKhalid1507/SynapsCLI 的生产可用性为中等（Medium）。它适用�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

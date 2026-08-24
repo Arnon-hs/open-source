@@ -1,6 +1,6 @@
 # supabase-community/launchweek.dev
 
-[![Stars](https://img.shields.io/github/stars/supabase-community/launchweek.dev?style=flat-square&color=yellow)](https://github.com/supabase-community/launchweek.dev/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/launchweek.dev?style=flat-square&color=blue)](https://github.com/supabase-community/launchweek.dev/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase-community/launchweek.dev?style=flat-square&color=yellow)](https://github.com/supabase-community/launchweek.dev/stargazers) [![Forks](https://img.shields.io/github/forks/supabase-community/launchweek.dev?style=flat-square&color=blue)](https://github.com/supabase-community/launchweek.dev/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Tracking launch weeks across the industry for product discovery and inspiration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Launchweek.dev 的生产可用性为中等（Medium），适合用于原型或�
 | forks | 48/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # elliottneilclark/rs-poker
 
-[![Stars](https://img.shields.io/github/stars/elliottneilclark/rs-poker?style=flat-square&color=yellow)](https://github.com/elliottneilclark/rs-poker/stargazers) [![Forks](https://img.shields.io/github/forks/elliottneilclark/rs-poker?style=flat-square&color=blue)](https://github.com/elliottneilclark/rs-poker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elliottneilclark/rs-poker?style=flat-square&color=yellow)](https://github.com/elliottneilclark/rs-poker/stargazers) [![Forks](https://img.shields.io/github/forks/elliottneilclark/rs-poker?style=flat-square&color=blue)](https://github.com/elliottneilclark/rs-poker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > rs-poker is a rust library that includes all of the poker evaluation tools that you need from hand ranking and starting card enumeration to a full agent arena for self learning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Education
+Automation
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ elliottneilclark/rs-poker 是一个基于 Rust 的扑克评估库，提供手牌
 | forks | 42/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 71/100 |
+| recency | 80/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

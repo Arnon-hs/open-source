@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,6 +76,7 @@ ganeshrvel/openmtp：ganeshrvel/openmtp helps ship user-facing interfaces with l
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jellyfin/jellycon
 
-[![Stars](https://img.shields.io/github/stars/jellyfin/jellycon?style=flat-square&color=yellow)](https://github.com/jellyfin/jellycon/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellycon?style=flat-square&color=blue)](https://github.com/jellyfin/jellycon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jellyfin/jellycon?style=flat-square&color=yellow)](https://github.com/jellyfin/jellycon/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellycon?style=flat-square&color=blue)](https://github.com/jellyfin/jellycon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Kodi Addon for Jellyfin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ jellyfin/jellycon：jellyfin/jellycon may be useful when its README and activity
 | forks | 45/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

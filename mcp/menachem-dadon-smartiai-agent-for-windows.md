@@ -1,6 +1,6 @@
 # menachem-dadon/SmartiAI-Agent-for-Windows
 
-[![Stars](https://img.shields.io/github/stars/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=yellow)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/stargazers) [![Forks](https://img.shields.io/github/forks/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=blue)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=yellow)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/stargazers) [![Forks](https://img.shields.io/github/forks/menachem-dadon/SmartiAI-Agent-for-Windows?style=flat-square&color=blue)](https://github.com/menachem-dadon/SmartiAI-Agent-for-Windows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, blazing-fast AI agent for Windows. Automate your OS via CLI control, built-in tools, MCP tools, custom Python scripts, and expandable skills. Fully autonomous.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ SmartiAI‑Agent‑for‑Windows 是一款轻量级、极致快速的 Windows AI
 | forks | 15/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

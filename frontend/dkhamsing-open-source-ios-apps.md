@@ -1,6 +1,6 @@
 # dkhamsing/open-source-ios-apps
 
-[![Stars](https://img.shields.io/github/stars/dkhamsing/open-source-ios-apps?style=flat-square&color=yellow)](https://github.com/dkhamsing/open-source-ios-apps/stargazers) [![Forks](https://img.shields.io/github/forks/dkhamsing/open-source-ios-apps?style=flat-square&color=blue)](https://github.com/dkhamsing/open-source-ios-apps/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dkhamsing/open-source-ios-apps?style=flat-square&color=yellow)](https://github.com/dkhamsing/open-source-ios-apps/stargazers) [![Forks](https://img.shields.io/github/forks/dkhamsing/open-source-ios-apps?style=flat-square&color=blue)](https://github.com/dkhamsing/open-source-ios-apps/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > :iphone: Collaborative List of Open-Source iOS Apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51.4k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ dkhamsing/open-source-ios-apps 的价值在于：
 | forks | 94/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 99/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 84/100 |
+| recency | 40/100 |
 | adoption | 98/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

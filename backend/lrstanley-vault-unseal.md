@@ -1,6 +1,6 @@
 # lrstanley/vault-unseal
 
-[![Stars](https://img.shields.io/github/stars/lrstanley/vault-unseal?style=flat-square&color=yellow)](https://github.com/lrstanley/vault-unseal/stargazers) [![Forks](https://img.shields.io/github/forks/lrstanley/vault-unseal?style=flat-square&color=blue)](https://github.com/lrstanley/vault-unseal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lrstanley/vault-unseal?style=flat-square&color=yellow)](https://github.com/lrstanley/vault-unseal/stargazers) [![Forks](https://img.shields.io/github/forks/lrstanley/vault-unseal?style=flat-square&color=blue)](https://github.com/lrstanley/vault-unseal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > auto-unseal utility for Hashicorp Vault
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ lrstanley/vault-unseal 是一个基于 Go 实现的自动解封工具，帮助�
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

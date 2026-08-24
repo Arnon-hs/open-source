@@ -1,6 +1,6 @@
 # sbt/sbt-dynver
 
-[![Stars](https://img.shields.io/github/stars/sbt/sbt-dynver?style=flat-square&color=yellow)](https://github.com/sbt/sbt-dynver/stargazers) [![Forks](https://img.shields.io/github/forks/sbt/sbt-dynver?style=flat-square&color=blue)](https://github.com/sbt/sbt-dynver/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbt/sbt-dynver?style=flat-square&color=yellow)](https://github.com/sbt/sbt-dynver/stargazers) [![Forks](https://img.shields.io/github/forks/sbt/sbt-dynver?style=flat-square&color=blue)](https://github.com/sbt/sbt-dynver/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An sbt plugin to dynamically set your version from git
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -134,14 +134,15 @@ While sbt/sbt-dynver has a medium production readiness score, it is still a usef
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

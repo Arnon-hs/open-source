@@ -1,6 +1,6 @@
 # Wolfe-Jam/claude-faf-mcp
 
-[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/claude-faf-mcp?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/claude-faf-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/claude-faf-mcp?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/claude-faf-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/claude-faf-mcp?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/claude-faf-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/claude-faf-mcp?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/claude-faf-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent Project Context for Claude — IANA-registered .faf format · 32 tools + 1 prompt · MCP Registry #2759
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Wolfe‑Jam/claude-faf-mcp 提供了一套基于 IANA 注册的 .faf 格式的�
 | forks | 23/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

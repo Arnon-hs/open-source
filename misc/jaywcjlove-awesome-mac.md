@@ -1,6 +1,6 @@
 # jaywcjlove/awesome-mac
 
-[![Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&color=yellow)](https://github.com/jaywcjlove/awesome-mac/stargazers) [![Forks](https://img.shields.io/github/forks/jaywcjlove/awesome-mac?style=flat-square&color=blue)](https://github.com/jaywcjlove/awesome-mac/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat-square&color=yellow)](https://github.com/jaywcjlove/awesome-mac/stargazers) [![Forks](https://img.shields.io/github/forks/jaywcjlove/awesome-mac?style=flat-square&color=blue)](https://github.com/jaywcjlove/awesome-mac/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 >  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106.4k |
 | 🍴 **Forks** | 7.9k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ jaywcjlove/awesome‑mac 是一个精心维护的 macOS 软件清单，按不同
 | forks | 97/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 99/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

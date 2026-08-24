@@ -1,6 +1,6 @@
 # nozomi-koborinai/gcp-cost-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/nozomi-koborinai/gcp-cost-mcp-server?style=flat-square&color=yellow)](https://github.com/nozomi-koborinai/gcp-cost-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nozomi-koborinai/gcp-cost-mcp-server?style=flat-square&color=blue)](https://github.com/nozomi-koborinai/gcp-cost-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nozomi-koborinai/gcp-cost-mcp-server?style=flat-square&color=yellow)](https://github.com/nozomi-koborinai/gcp-cost-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nozomi-koborinai/gcp-cost-mcp-server?style=flat-square&color=blue)](https://github.com/nozomi-koborinai/gcp-cost-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · MCP · AI/ML · Frontend · Backend
+Payments · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -70,14 +70,15 @@ nozomi‑koborinai/gcp‑cost‑mcp‑server 是一个基于 Cloud Billing Catal
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # PragueJames/esplora-v2
 
-[![Stars](https://img.shields.io/github/stars/PragueJames/esplora-v2?style=flat-square&color=yellow)](https://github.com/PragueJames/esplora-v2/stargazers) [![Forks](https://img.shields.io/github/forks/PragueJames/esplora-v2?style=flat-square&color=blue)](https://github.com/PragueJames/esplora-v2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PragueJames/esplora-v2?style=flat-square&color=yellow)](https://github.com/PragueJames/esplora-v2/stargazers) [![Forks](https://img.shields.io/github/forks/PragueJames/esplora-v2?style=flat-square&color=blue)](https://github.com/PragueJames/esplora-v2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcoin Explorer(esplora): Explorer for Bitcoin and Liquid V2
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-19 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Knowledge/RAG · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ PragueJames/esplora-v2 的生产可用性很高，因为该项目有以下优点
 | forks | 93/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

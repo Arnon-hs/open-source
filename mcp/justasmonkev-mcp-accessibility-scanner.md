@@ -1,6 +1,6 @@
 # JustasMonkev/mcp-accessibility-scanner
 
-[![Stars](https://img.shields.io/github/stars/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=yellow)](https://github.com/JustasMonkev/mcp-accessibility-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=blue)](https://github.com/JustasMonkev/mcp-accessibility-scanner/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=yellow)](https://github.com/JustasMonkev/mcp-accessibility-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/JustasMonkev/mcp-accessibility-scanner?style=flat-square&color=blue)](https://github.com/JustasMonkev/mcp-accessibility-scanner/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP (Model Context Protocol) server for performing accessibility audits on webpages using axe-core.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ JustasMonkev/mcp-accessibility-scanner 是一个基于 Model Context Protocol (M
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

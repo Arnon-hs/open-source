@@ -1,6 +1,6 @@
 # LnYo-Cly/ai4j
 
-[![Stars](https://img.shields.io/github/stars/LnYo-Cly/ai4j?style=flat-square&color=yellow)](https://github.com/LnYo-Cly/ai4j/stargazers) [![Forks](https://img.shields.io/github/forks/LnYo-Cly/ai4j?style=flat-square&color=blue)](https://github.com/LnYo-Cly/ai4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LnYo-Cly/ai4j?style=flat-square&color=yellow)](https://github.com/LnYo-Cly/ai4j/stargazers) [![Forks](https://img.shields.io/github/forks/LnYo-Cly/ai4j?style=flat-square&color=blue)](https://github.com/LnYo-Cly/ai4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 一款JavaSDK用于快速接入AI大模型应用，整合多平台大模型，如OpenAi、智谱Zhipu(ChatGLM)、深度求索DeepSeek、月之暗面Moonshot(Kimi)、腾讯混元Hunyuan、零一万物(01)等等，提供统一的输入输出(对齐OpenAi)消除差异化，优化函数调用(Tool Call)，优化RAG调用、支持向量数据库(Pinecone)、内置联网增强，并且支持JDK1.8，为用户提供快速整合AI的能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ LnYo‑Cly/ai4j 通过统一的 Java SDK 把 OpenAI、ChatGLM、DeepSeek、Moons
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # KumihoIO/Revka
 
-[![Stars](https://img.shields.io/github/stars/KumihoIO/Revka?style=flat-square&color=yellow)](https://github.com/KumihoIO/Revka/stargazers) [![Forks](https://img.shields.io/github/forks/KumihoIO/Revka?style=flat-square&color=blue)](https://github.com/KumihoIO/Revka/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KumihoIO/Revka?style=flat-square&color=yellow)](https://github.com/KumihoIO/Revka/stargazers) [![Forks](https://img.shields.io/github/forks/KumihoIO/Revka?style=flat-square&color=blue)](https://github.com/KumihoIO/Revka/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Memory-native AI agent runtime: Rust gateway + React dashboard + Python Operator + Kumiho graph memory
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ KumihoIO/Revka 的生产可用性为中等（Medium），适合用于原型开�
 | forks | 24/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

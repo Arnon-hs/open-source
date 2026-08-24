@@ -1,6 +1,6 @@
 # andyrewlee/amux
 
-[![Stars](https://img.shields.io/github/stars/andyrewlee/amux?style=flat-square&color=yellow)](https://github.com/andyrewlee/amux/stargazers) [![Forks](https://img.shields.io/github/forks/andyrewlee/amux?style=flat-square&color=blue)](https://github.com/andyrewlee/amux/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andyrewlee/amux?style=flat-square&color=yellow)](https://github.com/andyrewlee/amux/stargazers) [![Forks](https://img.shields.io/github/forks/andyrewlee/amux?style=flat-square&color=blue)](https://github.com/andyrewlee/amux/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > TUI for easily running parallel coding agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ andyrewlee/amux 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 12/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

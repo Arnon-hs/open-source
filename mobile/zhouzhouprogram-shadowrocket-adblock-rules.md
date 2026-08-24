@@ -1,6 +1,6 @@
 # zhouzhouprogram/Shadowrocket-ADBlock-Rules
 
-[![Stars](https://img.shields.io/github/stars/zhouzhouprogram/Shadowrocket-ADBlock-Rules?style=flat-square&color=yellow)](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules/stargazers) [![Forks](https://img.shields.io/github/forks/zhouzhouprogram/Shadowrocket-ADBlock-Rules?style=flat-square&color=blue)](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhouzhouprogram/Shadowrocket-ADBlock-Rules?style=flat-square&color=yellow)](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules/stargazers) [![Forks](https://img.shields.io/github/forks/zhouzhouprogram/Shadowrocket-ADBlock-Rules?style=flat-square&color=blue)](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 872 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ The project shows strong production‑grade signals: recent commits (as of 2026�
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

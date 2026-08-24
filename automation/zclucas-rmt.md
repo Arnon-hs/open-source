@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | AutoHotkey |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend
+Automation
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ zclucas/RMT：zclucas/RMT helps remove repetitive manual operations from a workf
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

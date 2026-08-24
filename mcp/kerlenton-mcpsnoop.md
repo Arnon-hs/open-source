@@ -1,6 +1,6 @@
 # kerlenton/mcpsnoop
 
-[![Stars](https://img.shields.io/github/stars/kerlenton/mcpsnoop?style=flat-square&color=yellow)](https://github.com/kerlenton/mcpsnoop/stargazers) [![Forks](https://img.shields.io/github/forks/kerlenton/mcpsnoop?style=flat-square&color=blue)](https://github.com/kerlenton/mcpsnoop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kerlenton/mcpsnoop?style=flat-square&color=yellow)](https://github.com/kerlenton/mcpsnoop/stargazers) [![Forks](https://img.shields.io/github/forks/kerlenton/mcpsnoop?style=flat-square&color=blue)](https://github.com/kerlenton/mcpsnoop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ kerlenton/mcpsnoop 为 Model Context Protocol（MCP）提供了一层透明�
 | forks | 0/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 21/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

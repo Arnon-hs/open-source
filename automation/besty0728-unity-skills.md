@@ -1,6 +1,6 @@
 # Besty0728/Unity-Skills
 
-[![Stars](https://img.shields.io/github/stars/Besty0728/Unity-Skills?style=flat-square&color=yellow)](https://github.com/Besty0728/Unity-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/Besty0728/Unity-Skills?style=flat-square&color=blue)](https://github.com/Besty0728/Unity-Skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Besty0728/Unity-Skills?style=flat-square&color=yellow)](https://github.com/Besty0728/Unity-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/Besty0728/Unity-Skills?style=flat-square&color=blue)](https://github.com/Besty0728/Unity-Skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI automation skills specifically designed for Unity
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Design
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Besty0728/Unity‑Skills 是一套面向 Unity 的 AI 自动化技能库，旨�
 | forks | 53/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

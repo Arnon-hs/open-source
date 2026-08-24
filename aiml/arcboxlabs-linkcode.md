@@ -1,6 +1,6 @@
 # arcboxlabs/linkcode
 
-[![Stars](https://img.shields.io/github/stars/arcboxlabs/linkcode?style=flat-square&color=yellow)](https://github.com/arcboxlabs/linkcode/stargazers) [![Forks](https://img.shields.io/github/forks/arcboxlabs/linkcode?style=flat-square&color=blue)](https://github.com/arcboxlabs/linkcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arcboxlabs/linkcode?style=flat-square&color=yellow)](https://github.com/arcboxlabs/linkcode/stargazers) [![Forks](https://img.shields.io/github/forks/arcboxlabs/linkcode?style=flat-square&color=blue)](https://github.com/arcboxlabs/linkcode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSource Codex/WorkBuddy Desktop App for Claude Code/OpenCode/Pi/Grok Build
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ arcboxlabs/linkcode 的生产可用性为中等。这意味着它适合用于 pr
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

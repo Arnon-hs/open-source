@@ -1,6 +1,6 @@
 # openfaas/faas-cli
 
-[![Stars](https://img.shields.io/github/stars/openfaas/faas-cli?style=flat-square&color=yellow)](https://github.com/openfaas/faas-cli/stargazers) [![Forks](https://img.shields.io/github/forks/openfaas/faas-cli?style=flat-square&color=blue)](https://github.com/openfaas/faas-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openfaas/faas-cli?style=flat-square&color=yellow)](https://github.com/openfaas/faas-cli/stargazers) [![Forks](https://img.shields.io/github/forks/openfaas/faas-cli?style=flat-square&color=blue)](https://github.com/openfaas/faas-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Official CLI for OpenFaaS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 815 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Openfaas/faas-cli 帮助工程师在日常开发和review环节节省时间。
 | forks | 59/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

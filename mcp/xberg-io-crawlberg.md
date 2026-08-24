@@ -1,6 +1,6 @@
 # xberg-io/crawlberg
 
-[![Stars](https://img.shields.io/github/stars/xberg-io/crawlberg?style=flat-square&color=yellow)](https://github.com/xberg-io/crawlberg/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/crawlberg?style=flat-square&color=blue)](https://github.com/xberg-io/crawlberg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xberg-io/crawlberg?style=flat-square&color=yellow)](https://github.com/xberg-io/crawlberg/stargazers) [![Forks](https://img.shields.io/github/forks/xberg-io/crawlberg?style=flat-square&color=blue)](https://github.com/xberg-io/crawlberg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance web crawling engine with bindings for 11 languages
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Database
+MCP
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ xberg-io/crawlberg 是一款高性能网页爬取引擎，核心实现基于 Rus
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

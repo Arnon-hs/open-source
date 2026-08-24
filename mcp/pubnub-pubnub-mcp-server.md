@@ -1,6 +1,6 @@
 # pubnub/pubnub-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/pubnub/pubnub-mcp-server?style=flat-square&color=yellow)](https://github.com/pubnub/pubnub-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/pubnub/pubnub-mcp-server?style=flat-square&color=blue)](https://github.com/pubnub/pubnub-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pubnub/pubnub-mcp-server?style=flat-square&color=yellow)](https://github.com/pubnub/pubnub-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/pubnub/pubnub-mcp-server?style=flat-square&color=blue)](https://github.com/pubnub/pubnub-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > PubNub MCP Model Context Protocol Server for use in Cursor, Windsurf, Claude Desktop, Claude Code and OpenAI Codex and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ pubnub/pubnub-mcp-server 是一套用 TypeScript 实现的 **Model Context Proto
 | forks | 25/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

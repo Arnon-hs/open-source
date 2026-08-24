@@ -1,6 +1,6 @@
 # cvc5/cvc5
 
-[![Stars](https://img.shields.io/github/stars/cvc5/cvc5?style=flat-square&color=yellow)](https://github.com/cvc5/cvc5/stargazers) [![Forks](https://img.shields.io/github/forks/cvc5/cvc5?style=flat-square&color=blue)](https://github.com/cvc5/cvc5/network) [![Language](https://img.shields.io/badge/lang-SMT-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cvc5/cvc5?style=flat-square&color=yellow)](https://github.com/cvc5/cvc5/stargazers) [![Forks](https://img.shields.io/github/forks/cvc5/cvc5?style=flat-square&color=blue)](https://github.com/cvc5/cvc5/network) [![Language](https://img.shields.io/badge/lang-SMT-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 300 |
 | 💻 **Language** | SMT |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ cvc5/cvc5：cvc5/cvc5 may be useful when its README and activity match a concret
 | forks | 62/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 65/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

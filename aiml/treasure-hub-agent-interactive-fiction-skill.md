@@ -1,6 +1,6 @@
 # Treasure-hub-agent/interactive-fiction-skill
 
-[![Stars](https://img.shields.io/github/stars/Treasure-hub-agent/interactive-fiction-skill?style=flat-square&color=yellow)](https://github.com/Treasure-hub-agent/interactive-fiction-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Treasure-hub-agent/interactive-fiction-skill?style=flat-square&color=blue)](https://github.com/Treasure-hub-agent/interactive-fiction-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Treasure-hub-agent/interactive-fiction-skill?style=flat-square&color=yellow)](https://github.com/Treasure-hub-agent/interactive-fiction-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Treasure-hub-agent/interactive-fiction-skill?style=flat-square&color=blue)](https://github.com/Treasure-hub-agent/interactive-fiction-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent 互动小说skill：选项驱动的沉浸式剧情体验，一个skill达到收费平台的体验
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Treasure-hub-agent/interactive-fiction-skill 的生产可用性为中等（Mediu
 | forks | 0/100 |
 | stars | 23/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 17/100 |
-| production | 68/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

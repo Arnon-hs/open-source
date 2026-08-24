@@ -1,6 +1,6 @@
 # frappe/builder
 
-[![Stars](https://img.shields.io/github/stars/frappe/builder?style=flat-square&color=yellow)](https://github.com/frappe/builder/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/builder?style=flat-square&color=blue)](https://github.com/frappe/builder/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/builder?style=flat-square&color=yellow)](https://github.com/frappe/builder/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/builder?style=flat-square&color=blue)](https://github.com/frappe/builder/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 469 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ frappe/builder 是一款基于 Vue 的可视化网页构建工具，用户可以
 | forks | 67/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

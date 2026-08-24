@@ -1,6 +1,6 @@
 # sgaofen/vibe-schooling
 
-[![Stars](https://img.shields.io/github/stars/sgaofen/vibe-schooling?style=flat-square&color=yellow)](https://github.com/sgaofen/vibe-schooling/stargazers) [![Forks](https://img.shields.io/github/forks/sgaofen/vibe-schooling?style=flat-square&color=blue)](https://github.com/sgaofen/vibe-schooling/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgaofen/vibe-schooling?style=flat-square&color=yellow)](https://github.com/sgaofen/vibe-schooling/stargazers) [![Forks](https://img.shields.io/github/forks/sgaofen/vibe-schooling?style=flat-square&color=blue)](https://github.com/sgaofen/vibe-schooling/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Get 4.0 GPA without learning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Education
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ sgaofen/vibe-schooling 的生产可用性为中等（Medium），适合用于原
 | forks | 34/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

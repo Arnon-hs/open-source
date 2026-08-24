@@ -1,6 +1,6 @@
 # dagger/dagger
 
-[![Stars](https://img.shields.io/github/stars/dagger/dagger?style=flat-square&color=yellow)](https://github.com/dagger/dagger/stargazers) [![Forks](https://img.shields.io/github/forks/dagger/dagger?style=flat-square&color=blue)](https://github.com/dagger/dagger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dagger/dagger?style=flat-square&color=yellow)](https://github.com/dagger/dagger/stargazers) [![Forks](https://img.shields.io/github/forks/dagger/dagger?style=flat-square&color=blue)](https://github.com/dagger/dagger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16k |
 | 🍴 **Forks** | 898 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · DevOps/Infra
+Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ dagger/dagger 是一款基于 Go 的自动化引擎，可在本地、CI 或云�
 | forks | 74/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 96/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 83/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

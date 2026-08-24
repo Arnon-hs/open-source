@@ -1,6 +1,6 @@
 # scikit-learn/scikit-learn
 
-[![Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=flat-square&color=yellow)](https://github.com/scikit-learn/scikit-learn/stargazers) [![Forks](https://img.shields.io/github/forks/scikit-learn/scikit-learn?style=flat-square&color=blue)](https://github.com/scikit-learn/scikit-learn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=flat-square&color=yellow)](https://github.com/scikit-learn/scikit-learn/stargazers) [![Forks](https://img.shields.io/github/forks/scikit-learn/scikit-learn?style=flat-square&color=blue)](https://github.com/scikit-learn/scikit-learn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > scikit-learn: machine learning in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66.1k |
 | 🍴 **Forks** | 27k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ scikit‑learn 是基于 Python 的开源机器学习库，提供统一且易用
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 63/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
 | adoption | 100/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

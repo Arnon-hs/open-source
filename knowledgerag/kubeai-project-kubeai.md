@@ -1,6 +1,6 @@
 # kubeai-project/kubeai
 
-[![Stars](https://img.shields.io/github/stars/kubeai-project/kubeai?style=flat-square&color=yellow)](https://github.com/kubeai-project/kubeai/stargazers) [![Forks](https://img.shields.io/github/forks/kubeai-project/kubeai?style=flat-square&color=blue)](https://github.com/kubeai-project/kubeai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeai-project/kubeai?style=flat-square&color=yellow)](https://github.com/kubeai-project/kubeai/stargazers) [![Forks](https://img.shields.io/github/forks/kubeai-project/kubeai?style=flat-square&color=blue)](https://github.com/kubeai-project/kubeai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend · DevOps/Infra · Product
+Knowledge/RAG · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ kubeai-project/kubeai 的生产可用性较高，主要原因是：
 | forks | 53/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

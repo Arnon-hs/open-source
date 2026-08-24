@@ -1,6 +1,6 @@
 # deezertidal/shadowrocket-rules
 
-[![Stars](https://img.shields.io/github/stars/deezertidal/shadowrocket-rules?style=flat-square&color=yellow)](https://github.com/deezertidal/shadowrocket-rules/stargazers) [![Forks](https://img.shields.io/github/forks/deezertidal/shadowrocket-rules?style=flat-square&color=blue)](https://github.com/deezertidal/shadowrocket-rules/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deezertidal/shadowrocket-rules?style=flat-square&color=yellow)](https://github.com/deezertidal/shadowrocket-rules/stargazers) [![Forks](https://img.shields.io/github/forks/deezertidal/shadowrocket-rules?style=flat-square&color=blue)](https://github.com/deezertidal/shadowrocket-rules/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 343 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ deezertidal/shadowrocket‑rules 是一套针对 iOS/ macOS 客户端 **Shadowro
 | forks | 63/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

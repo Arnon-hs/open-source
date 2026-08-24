@@ -1,6 +1,6 @@
 # HarbourMasters/Lighthouse
 
-[![Stars](https://img.shields.io/github/stars/HarbourMasters/Lighthouse?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Lighthouse/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Lighthouse?style=flat-square&color=blue)](https://github.com/HarbourMasters/Lighthouse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarbourMasters/Lighthouse?style=flat-square&color=yellow)](https://github.com/HarbourMasters/Lighthouse/stargazers) [![Forks](https://img.shields.io/github/forks/HarbourMasters/Lighthouse?style=flat-square&color=blue)](https://github.com/HarbourMasters/Lighthouse/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ HarbourMasters/Lighthouse 的价值在于它可以用于某些特定工作流程
 | forks | 35/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 66/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

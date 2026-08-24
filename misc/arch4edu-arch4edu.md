@@ -1,6 +1,6 @@
 # arch4edu/arch4edu
 
-[![Stars](https://img.shields.io/github/stars/arch4edu/arch4edu?style=flat-square&color=yellow)](https://github.com/arch4edu/arch4edu/stargazers) [![Forks](https://img.shields.io/github/forks/arch4edu/arch4edu?style=flat-square&color=blue)](https://github.com/arch4edu/arch4edu/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arch4edu/arch4edu?style=flat-square&color=yellow)](https://github.com/arch4edu/arch4edu/stargazers) [![Forks](https://img.shields.io/github/forks/arch4edu/arch4edu?style=flat-square&color=blue)](https://github.com/arch4edu/arch4edu/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Arch Linux Repository for Education
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 667 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ arch4edu/arch4edu 是一个开源项目，专为教育目的而设计的 Arch Li
 | forks | 42/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

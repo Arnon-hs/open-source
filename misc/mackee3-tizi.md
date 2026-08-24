@@ -1,6 +1,6 @@
 # mackee3/tizi
 
-[![Stars](https://img.shields.io/github/stars/mackee3/tizi?style=flat-square&color=yellow)](https://github.com/mackee3/tizi/stargazers) [![Forks](https://img.shields.io/github/forks/mackee3/tizi?style=flat-square&color=blue)](https://github.com/mackee3/tizi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mackee3/tizi?style=flat-square&color=yellow)](https://github.com/mackee3/tizi/stargazers) [![Forks](https://img.shields.io/github/forks/mackee3/tizi?style=flat-square&color=blue)](https://github.com/mackee3/tizi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 梯子工具推荐🪜
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 498 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ mackee3/tizi 的生产可用性为中等（Medium）。虽然它可以用于内�
 | forks | 12/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 45/100 |
-| production | 70/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

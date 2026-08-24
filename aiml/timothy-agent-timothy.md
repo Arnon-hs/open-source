@@ -1,6 +1,6 @@
 # timothy-agent/timothy
 
-[![Stars](https://img.shields.io/github/stars/timothy-agent/timothy?style=flat-square&color=yellow)](https://github.com/timothy-agent/timothy/stargazers) [![Forks](https://img.shields.io/github/forks/timothy-agent/timothy?style=flat-square&color=blue)](https://github.com/timothy-agent/timothy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timothy-agent/timothy?style=flat-square&color=yellow)](https://github.com/timothy-agent/timothy/stargazers) [![Forks](https://img.shields.io/github/forks/timothy-agent/timothy?style=flat-square&color=blue)](https://github.com/timothy-agent/timothy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted personal AI assistant: chat, cost tracking, tasks, and agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ timothy-agent/timothy：timothy-agent/timothy helps add AI capability without st
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 54/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 69/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

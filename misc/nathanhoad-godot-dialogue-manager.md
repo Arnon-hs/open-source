@@ -1,6 +1,6 @@
 # nathanhoad/godot_dialogue_manager
 
-[![Stars](https://img.shields.io/github/stars/nathanhoad/godot_dialogue_manager?style=flat-square&color=yellow)](https://github.com/nathanhoad/godot_dialogue_manager/stargazers) [![Forks](https://img.shields.io/github/forks/nathanhoad/godot_dialogue_manager?style=flat-square&color=blue)](https://github.com/nathanhoad/godot_dialogue_manager/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nathanhoad/godot_dialogue_manager?style=flat-square&color=yellow)](https://github.com/nathanhoad/godot_dialogue_manager/stargazers) [![Forks](https://img.shields.io/github/forks/nathanhoad/godot_dialogue_manager?style=flat-square&color=blue)](https://github.com/nathanhoad/godot_dialogue_manager/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful nonlinear dialogue system for Godot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | GDScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ nathanhoad/godot_dialogue_manager 是一个强大的非线性对话系统，适�
 | forks | 61/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

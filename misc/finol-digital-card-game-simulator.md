@@ -1,6 +1,6 @@
 # finol-digital/Card-Game-Simulator
 
-[![Stars](https://img.shields.io/github/stars/finol-digital/Card-Game-Simulator?style=flat-square&color=yellow)](https://github.com/finol-digital/Card-Game-Simulator/stargazers) [![Forks](https://img.shields.io/github/forks/finol-digital/Card-Game-Simulator?style=flat-square&color=blue)](https://github.com/finol-digital/Card-Game-Simulator/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finol-digital/Card-Game-Simulator?style=flat-square&color=yellow)](https://github.com/finol-digital/Card-Game-Simulator/stargazers) [![Forks](https://img.shields.io/github/forks/finol-digital/Card-Game-Simulator?style=flat-square&color=blue)](https://github.com/finol-digital/Card-Game-Simulator/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Create, Share, and Play
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ finol-digital/Card-Game-Simulator 是一款基于 C# 开发的卡牌游戏模拟
 | forks | 49/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

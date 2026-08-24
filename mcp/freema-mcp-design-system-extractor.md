@@ -1,6 +1,6 @@
 # freema/mcp-design-system-extractor
 
-[![Stars](https://img.shields.io/github/stars/freema/mcp-design-system-extractor?style=flat-square&color=yellow)](https://github.com/freema/mcp-design-system-extractor/stargazers) [![Forks](https://img.shields.io/github/forks/freema/mcp-design-system-extractor?style=flat-square&color=blue)](https://github.com/freema/mcp-design-system-extractor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freema/mcp-design-system-extractor?style=flat-square&color=yellow)](https://github.com/freema/mcp-design-system-extractor/stargazers) [![Forks](https://img.shields.io/github/forks/freema/mcp-design-system-extractor?style=flat-square&color=blue)](https://github.com/freema/mcp-design-system-extractor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MCP (Model Context Protocol) server that enables AI assistants to interact with Storybook design systems. Extract component HTML, analyze styles, and help with design system adoption and refactoring.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Design
+MCP · Backend · Design
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Freema/MCP-Design-System-Extractor 是一个开源项目，基于 MCP 协议（M
 | forks | 29/100 |
 | stars | 39/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 60/100 |
 | adoption | 37/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

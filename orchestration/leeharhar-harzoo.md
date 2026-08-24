@@ -1,6 +1,6 @@
 # leeharhar/harzoo
 
-[![Stars](https://img.shields.io/github/stars/leeharhar/harzoo?style=flat-square&color=yellow)](https://github.com/leeharhar/harzoo/stargazers) [![Forks](https://img.shields.io/github/forks/leeharhar/harzoo?style=flat-square&color=blue)](https://github.com/leeharhar/harzoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leeharhar/harzoo?style=flat-square&color=yellow)](https://github.com/leeharhar/harzoo/stargazers) [![Forks](https://img.shields.io/github/forks/leeharhar/harzoo?style=flat-square&color=blue)](https://github.com/leeharhar/harzoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > a small, flexible, and transparent AI Agent Framework.   Just 1300 lines of Python code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Harzoo 的生产可用性为中等（Medium）。它适合用于原型或内部�
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # piotrkulpinski/openalternative
 
-[![Stars](https://img.shields.io/github/stars/piotrkulpinski/openalternative?style=flat-square&color=yellow)](https://github.com/piotrkulpinski/openalternative/stargazers) [![Forks](https://img.shields.io/github/forks/piotrkulpinski/openalternative?style=flat-square&color=blue)](https://github.com/piotrkulpinski/openalternative/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/piotrkulpinski/openalternative?style=flat-square&color=yellow)](https://github.com/piotrkulpinski/openalternative/stargazers) [![Forks](https://img.shields.io/github/forks/piotrkulpinski/openalternative?style=flat-square&color=blue)](https://github.com/piotrkulpinski/openalternative/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of open source alternatives to proprietary software.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ piotrkulpinski/openalternative 是一个开源项目，汇集了对专有软件�
 | forks | 62/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ConardLi/garden-skills
 
-[![Stars](https://img.shields.io/github/stars/ConardLi/garden-skills?style=flat-square&color=yellow)](https://github.com/ConardLi/garden-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ConardLi/garden-skills?style=flat-square&color=blue)](https://github.com/ConardLi/garden-skills/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ConardLi/garden-skills?style=flat-square&color=yellow)](https://github.com/ConardLi/garden-skills/stargazers) [![Forks](https://img.shields.io/github/forks/ConardLi/garden-skills?style=flat-square&color=blue)](https://github.com/ConardLi/garden-skills/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 604 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Design
+Knowledge/RAG · AI/ML · Design
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ConardLi/garden‑skills 是 ConardLi 开源的技能集合，涵盖网页设计
 | forks | 70/100 |
 | stars | 77/100 |
 | topics | 75/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

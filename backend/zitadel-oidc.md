@@ -1,6 +1,6 @@
 # zitadel/oidc
 
-[![Stars](https://img.shields.io/github/stars/zitadel/oidc?style=flat-square&color=yellow)](https://github.com/zitadel/oidc/stargazers) [![Forks](https://img.shields.io/github/forks/zitadel/oidc?style=flat-square&color=blue)](https://github.com/zitadel/oidc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zitadel/oidc?style=flat-square&color=yellow)](https://github.com/zitadel/oidc/stargazers) [![Forks](https://img.shields.io/github/forks/zitadel/oidc?style=flat-square&color=blue)](https://github.com/zitadel/oidc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ zitadel/oidc 的生产可用性高，最近有活跃的维护和采用。它已�
 | forks | 58/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 80/100 |
 | adoption | 66/100 |
-| production | 80/100 |
+| production | 74/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

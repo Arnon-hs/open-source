@@ -1,6 +1,6 @@
 # Michael-A-Kuykendall/shimmy
 
-[![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy?style=flat-square&color=yellow)](https://github.com/Michael-A-Kuykendall/shimmy/stargazers) [![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/shimmy?style=flat-square&color=blue)](https://github.com/Michael-A-Kuykendall/shimmy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy?style=flat-square&color=yellow)](https://github.com/Michael-A-Kuykendall/shimmy/stargazers) [![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/shimmy?style=flat-square&color=blue)](https://github.com/Michael-A-Kuykendall/shimmy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 533 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Database · Education
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Sh
 | forks | 68/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

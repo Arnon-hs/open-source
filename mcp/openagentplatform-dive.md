@@ -1,6 +1,6 @@
 # OpenAgentPlatform/Dive
 
-[![Stars](https://img.shields.io/github/stars/OpenAgentPlatform/Dive?style=flat-square&color=yellow)](https://github.com/OpenAgentPlatform/Dive/stargazers) [![Forks](https://img.shields.io/github/forks/OpenAgentPlatform/Dive?style=flat-square&color=blue)](https://github.com/OpenAgentPlatform/Dive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenAgentPlatform/Dive?style=flat-square&color=yellow)](https://github.com/OpenAgentPlatform/Dive/stargazers) [![Forks](https://img.shields.io/github/forks/OpenAgentPlatform/Dive?style=flat-square&color=blue)](https://github.com/OpenAgentPlatform/Dive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ OpenAgentPlatform/Dive 的生产可用性很高，主要原因是：
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 74/100 |
+| recency | 60/100 |
 | adoption | 66/100 |
-| production | 83/100 |
+| production | 69/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

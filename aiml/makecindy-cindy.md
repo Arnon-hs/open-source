@@ -1,6 +1,6 @@
 # makecindy/cindy
 
-[![Stars](https://img.shields.io/github/stars/makecindy/cindy?style=flat-square&color=yellow)](https://github.com/makecindy/cindy/stargazers) [![Forks](https://img.shields.io/github/forks/makecindy/cindy?style=flat-square&color=blue)](https://github.com/makecindy/cindy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/makecindy/cindy?style=flat-square&color=yellow)](https://github.com/makecindy/cindy/stargazers) [![Forks](https://img.shields.io/github/forks/makecindy/cindy?style=flat-square&color=blue)](https://github.com/makecindy/cindy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ makecindy/cindy的生产可用性为中等（Medium），适用于以下场景�
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

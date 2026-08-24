@@ -1,6 +1,6 @@
 # AlekseiUL/openclaw-superagent
 
-[![Stars](https://img.shields.io/github/stars/AlekseiUL/openclaw-superagent?style=flat-square&color=yellow)](https://github.com/AlekseiUL/openclaw-superagent/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseiUL/openclaw-superagent?style=flat-square&color=blue)](https://github.com/AlekseiUL/openclaw-superagent/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlekseiUL/openclaw-superagent?style=flat-square&color=yellow)](https://github.com/AlekseiUL/openclaw-superagent/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseiUL/openclaw-superagent?style=flat-square&color=blue)](https://github.com/AlekseiUL/openclaw-superagent/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Complete AI Agent System for OpenClaw — memory, self-healing, self-improvement, voice, automation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ AlekseiUL/openclaw‑superagent 将零散的 Prompt、工具和脚本封装成�
 | forks | 28/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

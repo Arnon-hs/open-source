@@ -1,6 +1,6 @@
 # rockdaboot/wget2
 
-[![Stars](https://img.shields.io/github/stars/rockdaboot/wget2?style=flat-square&color=yellow)](https://github.com/rockdaboot/wget2/stargazers) [![Forks](https://img.shields.io/github/forks/rockdaboot/wget2?style=flat-square&color=blue)](https://github.com/rockdaboot/wget2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rockdaboot/wget2?style=flat-square&color=yellow)](https://github.com/rockdaboot/wget2/stargazers) [![Forks](https://img.shields.io/github/forks/rockdaboot/wget2?style=flat-square&color=blue)](https://github.com/rockdaboot/wget2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 775 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ rockdaboot/wget2 的生产可用性为中等，适合用于 prototyping 或内�
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

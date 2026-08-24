@@ -1,6 +1,6 @@
 # volcengine/SearchCLI
 
-[![Stars](https://img.shields.io/github/stars/volcengine/SearchCLI?style=flat-square&color=yellow)](https://github.com/volcengine/SearchCLI/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/SearchCLI?style=flat-square&color=blue)](https://github.com/volcengine/SearchCLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volcengine/SearchCLI?style=flat-square&color=yellow)](https://github.com/volcengine/SearchCLI/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/SearchCLI?style=flat-square&color=blue)](https://github.com/volcengine/SearchCLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open CLI for integrating AI search, recommendation, and conversational retrieval into agent systems and business systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 710 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · DevTools · Database
+Knowledge/RAG · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ volcengine/SearchCLI 是一款基于 TypeScript 的开源命令行工具，能�
 | forks | 35/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

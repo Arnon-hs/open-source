@@ -1,6 +1,6 @@
 # barun-saha/kodeagent
 
-[![Stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=flat-square&color=yellow)](https://github.com/barun-saha/kodeagent/stargazers) [![Forks](https://img.shields.io/github/forks/barun-saha/kodeagent?style=flat-square&color=blue)](https://github.com/barun-saha/kodeagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=flat-square&color=yellow)](https://github.com/barun-saha/kodeagent/stargazers) [![Forks](https://img.shields.io/github/forks/barun-saha/kodeagent?style=flat-square&color=blue)](https://github.com/barun-saha/kodeagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The minimal AI agent engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ kodeagent 的生产可用性为中等（Medium），因为它适用于原型开�
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # conceptadev/fvm
 
-[![Stars](https://img.shields.io/github/stars/conceptadev/fvm?style=flat-square&color=yellow)](https://github.com/conceptadev/fvm/stargazers) [![Forks](https://img.shields.io/github/forks/conceptadev/fvm?style=flat-square&color=blue)](https://github.com/conceptadev/fvm/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conceptadev/fvm?style=flat-square&color=yellow)](https://github.com/conceptadev/fvm/stargazers) [![Forks](https://img.shields.io/github/forks/conceptadev/fvm?style=flat-square&color=blue)](https://github.com/conceptadev/fvm/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ conceptadev/fvm 的生产可用性很高。它具有以下特点：
 | forks | 61/100 |
 | stars | 80/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

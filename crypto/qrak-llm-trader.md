@@ -1,6 +1,6 @@
 # qrak/LLM_trader
 
-[![Stars](https://img.shields.io/github/stars/qrak/LLM_trader?style=flat-square&color=yellow)](https://github.com/qrak/LLM_trader/stargazers) [![Forks](https://img.shields.io/github/forks/qrak/LLM_trader?style=flat-square&color=blue)](https://github.com/qrak/LLM_trader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qrak/LLM_trader?style=flat-square&color=yellow)](https://github.com/qrak/LLM_trader/stargazers) [![Forks](https://img.shields.io/github/forks/qrak/LLM_trader?style=flat-square&color=blue)](https://github.com/qrak/LLM_trader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > LLM-powered Crypto Trading Framework with Vision AI chart analysis, real-time Neural Engine, and a live monitoring dashboard at semanticsignal.qrak.org. Features memory-augmented reasoning and professional risk metrics.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ qrak/LLM_trader 的生产可用性非常高，原因包括：
 | forks | 39/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

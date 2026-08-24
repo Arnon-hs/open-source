@@ -1,6 +1,6 @@
 # TheR1D/shell_gpt
 
-[![Stars](https://img.shields.io/github/stars/TheR1D/shell_gpt?style=flat-square&color=yellow)](https://github.com/TheR1D/shell_gpt/stargazers) [![Forks](https://img.shields.io/github/forks/TheR1D/shell_gpt?style=flat-square&color=blue)](https://github.com/TheR1D/shell_gpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheR1D/shell_gpt?style=flat-square&color=yellow)](https://github.com/TheR1D/shell_gpt/stargazers) [![Forks](https://img.shields.io/github/forks/TheR1D/shell_gpt?style=flat-square&color=blue)](https://github.com/TheR1D/shell_gpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 970 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ TheR1D /shell_gpt 是一款基于 GPT‑5 等大模型的命令行生产力工
 | forks | 75/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

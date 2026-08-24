@@ -1,6 +1,6 @@
 # mapbox/mapbox-maps-ios
 
-[![Stars](https://img.shields.io/github/stars/mapbox/mapbox-maps-ios?style=flat-square&color=yellow)](https://github.com/mapbox/mapbox-maps-ios/stargazers) [![Forks](https://img.shields.io/github/forks/mapbox/mapbox-maps-ios?style=flat-square&color=blue)](https://github.com/mapbox/mapbox-maps-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapbox/mapbox-maps-ios?style=flat-square&color=yellow)](https://github.com/mapbox/mapbox-maps-ios/stargazers) [![Forks](https://img.shields.io/github/forks/mapbox/mapbox-maps-ios?style=flat-square&color=blue)](https://github.com/mapbox/mapbox-maps-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive, thoroughly customizable maps for iOS powered by vector tiles and Metal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 601 |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ mapbox/mapbox-maps-ios 是一个开源项目，提供了交互式、可高度定
 | forks | 57/100 |
 | stars | 59/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 59/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

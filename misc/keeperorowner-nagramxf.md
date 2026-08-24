@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,6 +73,7 @@ Keeperorowner/NagramXF：Keeperorowner/NagramXF may be useful when its README an
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

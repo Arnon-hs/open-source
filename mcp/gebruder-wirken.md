@@ -1,6 +1,6 @@
 # gebruder/wirken
 
-[![Stars](https://img.shields.io/github/stars/gebruder/wirken?style=flat-square&color=yellow)](https://github.com/gebruder/wirken/stargazers) [![Forks](https://img.shields.io/github/forks/gebruder/wirken?style=flat-square&color=blue)](https://github.com/gebruder/wirken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gebruder/wirken?style=flat-square&color=yellow)](https://github.com/gebruder/wirken/stargazers) [![Forks](https://img.shields.io/github/forks/gebruder/wirken?style=flat-square&color=blue)](https://github.com/gebruder/wirken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ gebruder/wirken 是面向 AI 代理时代的“交换机”，提供每通道隔
 | forks | 12/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

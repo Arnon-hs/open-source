@@ -1,6 +1,6 @@
 # oomol-lab/open-connector
 
-[![Stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat-square&color=yellow)](https://github.com/oomol-lab/open-connector/stargazers) [![Forks](https://img.shields.io/github/forks/oomol-lab/open-connector?style=flat-square&color=blue)](https://github.com/oomol-lab/open-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat-square&color=yellow)](https://github.com/oomol-lab/open-connector/stargazers) [![Forks](https://img.shields.io/github/forks/oomol-lab/open-connector?style=flat-square&color=blue)](https://github.com/oomol-lab/open-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ oomol-lab/open-connector 的生产可
 | forks | 12/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

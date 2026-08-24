@@ -1,6 +1,6 @@
 # cinderline/northcinder
 
-[![Stars](https://img.shields.io/github/stars/cinderline/northcinder?style=flat-square&color=yellow)](https://github.com/cinderline/northcinder/stargazers) [![Forks](https://img.shields.io/github/forks/cinderline/northcinder?style=flat-square&color=blue)](https://github.com/cinderline/northcinder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cinderline/northcinder?style=flat-square&color=yellow)](https://github.com/cinderline/northcinder/stargazers) [![Forks](https://img.shields.io/github/forks/cinderline/northcinder?style=flat-square&color=blue)](https://github.com/cinderline/northcinder/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ cinderline/northcinder：cinderline/northcinder helps connect AI assistants to r
 | forks | 17/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 79/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

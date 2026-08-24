@@ -1,6 +1,6 @@
 # bdovaz/UnityNuGet
 
-[![Stars](https://img.shields.io/github/stars/bdovaz/UnityNuGet?style=flat-square&color=yellow)](https://github.com/bdovaz/UnityNuGet/stargazers) [![Forks](https://img.shields.io/github/forks/bdovaz/UnityNuGet?style=flat-square&color=blue)](https://github.com/bdovaz/UnityNuGet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bdovaz/UnityNuGet?style=flat-square&color=yellow)](https://github.com/bdovaz/UnityNuGet/stargazers) [![Forks](https://img.shields.io/github/forks/bdovaz/UnityNuGet?style=flat-square&color=blue)](https://github.com/bdovaz/UnityNuGet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Provides a service to install NuGet packages into a Unity project via the Unity Package Manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 741 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ UnityNuGet 的生产可用性为中等。它适合用于快速 prototyping 和�
 | forks | 52/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 73/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 73/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

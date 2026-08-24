@@ -1,6 +1,6 @@
 # PranshulSoni/protonsearch
 
-[![Stars](https://img.shields.io/github/stars/PranshulSoni/protonsearch?style=flat-square&color=yellow)](https://github.com/PranshulSoni/protonsearch/stargazers) [![Forks](https://img.shields.io/github/forks/PranshulSoni/protonsearch?style=flat-square&color=blue)](https://github.com/PranshulSoni/protonsearch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PranshulSoni/protonsearch?style=flat-square&color=yellow)](https://github.com/PranshulSoni/protonsearch/stargazers) [![Forks](https://img.shields.io/github/forks/PranshulSoni/protonsearch?style=flat-square&color=blue)](https://github.com/PranshulSoni/protonsearch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, lightweight, local-first Windows launcher to search apps, files, content, OCR text, clipboard history, browser history, Git activity, settings, commands, and AI agents from one shortcut.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database · Product
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ProtonSearch 是一款基于 Windows 的本地化启动器，使用 Rust 实现�
 | forks | 21/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

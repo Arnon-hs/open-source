@@ -1,6 +1,6 @@
 # meshtastic/web-flasher
 
-[![Stars](https://img.shields.io/github/stars/meshtastic/web-flasher?style=flat-square&color=yellow)](https://github.com/meshtastic/web-flasher/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/web-flasher?style=flat-square&color=blue)](https://github.com/meshtastic/web-flasher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshtastic/web-flasher?style=flat-square&color=yellow)](https://github.com/meshtastic/web-flasher/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/web-flasher?style=flat-square&color=blue)](https://github.com/meshtastic/web-flasher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Official online flasher for Meshtastic device firmware
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Meshtastic/web-flasher 在生产环境中的可用性非常高，因为它有:
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

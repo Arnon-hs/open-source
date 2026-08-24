@@ -1,6 +1,6 @@
 # NEU-ZHA/legal-ai-skills
 
-[![Stars](https://img.shields.io/github/stars/NEU-ZHA/legal-ai-skills?style=flat-square&color=yellow)](https://github.com/NEU-ZHA/legal-ai-skills/stargazers) [![Forks](https://img.shields.io/github/forks/NEU-ZHA/legal-ai-skills?style=flat-square&color=blue)](https://github.com/NEU-ZHA/legal-ai-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NEU-ZHA/legal-ai-skills?style=flat-square&color=yellow)](https://github.com/NEU-ZHA/legal-ai-skills/stargazers) [![Forks](https://img.shields.io/github/forks/NEU-ZHA/legal-ai-skills?style=flat-square&color=blue)](https://github.com/NEU-ZHA/legal-ai-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source legal AI agent skills for PKULaw, citations, and DOCX workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ NEU-ZHA/legal-ai-skills 的生产可用性为中等。它适合用于原型或�
 | forks | 19/100 |
 | stars | 36/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 54/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 39/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

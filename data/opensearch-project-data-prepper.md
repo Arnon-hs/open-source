@@ -1,6 +1,6 @@
 # opensearch-project/data-prepper
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/data-prepper?style=flat-square&color=yellow)](https://github.com/opensearch-project/data-prepper/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/data-prepper?style=flat-square&color=blue)](https://github.com/opensearch-project/data-prepper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/data-prepper?style=flat-square&color=yellow)](https://github.com/opensearch-project/data-prepper/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/data-prepper?style=flat-square&color=blue)](https://github.com/opensearch-project/data-prepper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSearch Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 338 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database · Observability
+Data · Observability
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Data Prepper 的生产可用性为中等（Medium）。它适合用于原型或�
 | forks | 63/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

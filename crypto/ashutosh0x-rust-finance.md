@@ -1,6 +1,6 @@
 # Ashutosh0x/rust-finance
 
-[![Stars](https://img.shields.io/github/stars/Ashutosh0x/rust-finance?style=flat-square&color=yellow)](https://github.com/Ashutosh0x/rust-finance/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutosh0x/rust-finance?style=flat-square&color=blue)](https://github.com/Ashutosh0x/rust-finance/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ashutosh0x/rust-finance?style=flat-square&color=yellow)](https://github.com/Ashutosh0x/rust-finance/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutosh0x/rust-finance?style=flat-square&color=blue)](https://github.com/Ashutosh0x/rust-finance/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-21 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML · Frontend
+Crypto · Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Ashutosh0x/rust-finance：Ashutosh0x/rust-finance helps prototype or inspect blo
 | forks | 52/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

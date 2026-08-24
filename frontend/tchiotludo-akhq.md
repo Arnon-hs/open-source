@@ -1,6 +1,6 @@
 # tchiotludo/akhq
 
-[![Stars](https://img.shields.io/github/stars/tchiotludo/akhq?style=flat-square&color=yellow)](https://github.com/tchiotludo/akhq/stargazers) [![Forks](https://img.shields.io/github/forks/tchiotludo/akhq?style=flat-square&color=blue)](https://github.com/tchiotludo/akhq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tchiotludo/akhq?style=flat-square&color=yellow)](https://github.com/tchiotludo/akhq/stargazers) [![Forks](https://img.shields.io/github/forks/tchiotludo/akhq?style=flat-square&color=blue)](https://github.com/tchiotludo/akhq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 765 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ tchiotludo/akhq 是一款基于 Web 的 Kafka 管理 UI，提供 Topic、消息�
 | forks | 72/100 |
 | stars | 76/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

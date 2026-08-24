@@ -1,6 +1,6 @@
 # vpinball/vpinball
 
-[![Stars](https://img.shields.io/github/stars/vpinball/vpinball?style=flat-square&color=yellow)](https://github.com/vpinball/vpinball/stargazers) [![Forks](https://img.shields.io/github/forks/vpinball/vpinball?style=flat-square&color=blue)](https://github.com/vpinball/vpinball/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vpinball/vpinball?style=flat-square&color=yellow)](https://github.com/vpinball/vpinball/stargazers) [![Forks](https://img.shields.io/github/forks/vpinball/vpinball?style=flat-square&color=blue)](https://github.com/vpinball/vpinball/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Visual Pinball
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 959 |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ vpinball（GitHub 仓库 vpinball/vpinball）是基于 C 语言实现的开�
 | forks | 54/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

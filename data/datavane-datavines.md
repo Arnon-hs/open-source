@@ -1,6 +1,6 @@
 # datavane/datavines
 
-[![Stars](https://img.shields.io/github/stars/datavane/datavines?style=flat-square&color=yellow)](https://github.com/datavane/datavines/stargazers) [![Forks](https://img.shields.io/github/forks/datavane/datavines?style=flat-square&color=blue)](https://github.com/datavane/datavines/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datavane/datavines?style=flat-square&color=yellow)](https://github.com/datavane/datavines/stargazers) [![Forks](https://img.shields.io/github/forks/datavane/datavines?style=flat-square&color=blue)](https://github.com/datavane/datavines/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Know your data better！Datavines is Next-gen Data Observability Platform, support metadata manage and data quality.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 747 |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database · Observability
+Data · Observability
 
 ## 📝 Summary
 
@@ -81,14 +81,15 @@ Datavines 是一款新一代数据可观测性平台，致力于帮助用户深�
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

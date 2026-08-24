@@ -1,6 +1,6 @@
 # guinacio/claude-image-gen
 
-[![Stars](https://img.shields.io/github/stars/guinacio/claude-image-gen?style=flat-square&color=yellow)](https://github.com/guinacio/claude-image-gen/stargazers) [![Forks](https://img.shields.io/github/forks/guinacio/claude-image-gen?style=flat-square&color=blue)](https://github.com/guinacio/claude-image-gen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guinacio/claude-image-gen?style=flat-square&color=yellow)](https://github.com/guinacio/claude-image-gen/stargazers) [![Forks](https://img.shields.io/github/forks/guinacio/claude-image-gen?style=flat-square&color=blue)](https://github.com/guinacio/claude-image-gen/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered image generation using Google Gemini, integrated with Claude Code via Skills or Claude.ai via MCP (Model Context Protocol).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ guinacio/claude-image-gen 是一个开源项目，使用 Google Gemini 和 Claud
 | forks | 21/100 |
 | stars | 36/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Godofcong-1/erArk
 
-[![Stars](https://img.shields.io/github/stars/Godofcong-1/erArk?style=flat-square&color=yellow)](https://github.com/Godofcong-1/erArk/stargazers) [![Forks](https://img.shields.io/github/forks/Godofcong-1/erArk?style=flat-square&color=blue)](https://github.com/Godofcong-1/erArk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Godofcong-1/erArk?style=flat-square&color=yellow)](https://github.com/Godofcong-1/erArk/stargazers) [![Forks](https://img.shields.io/github/forks/Godofcong-1/erArk?style=flat-square&color=blue)](https://github.com/Godofcong-1/erArk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > erArk
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Godofcong-1/erArk 的生产可用性为中等。它适用于原型开发或内�
 | forks | 37/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 80/100 |
 | adoption | 50/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

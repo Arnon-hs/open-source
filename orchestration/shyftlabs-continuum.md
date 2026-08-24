@@ -1,6 +1,6 @@
 # shyftlabs/continuum
 
-[![Stars](https://img.shields.io/github/stars/shyftlabs/continuum?style=flat-square&color=yellow)](https://github.com/shyftlabs/continuum/stargazers) [![Forks](https://img.shields.io/github/forks/shyftlabs/continuum?style=flat-square&color=blue)](https://github.com/shyftlabs/continuum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shyftlabs/continuum?style=flat-square&color=yellow)](https://github.com/shyftlabs/continuum/stargazers) [![Forks](https://img.shields.io/github/forks/shyftlabs/continuum?style=flat-square&color=blue)](https://github.com/shyftlabs/continuum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Continuum — the agent runtime by ShyftLabs. Build, orchestrate, ship.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Observability
+Orchestration · MCP · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Continuum 的生产可用性很高，最近有活跃的开发活动，采用率�
 | forks | 24/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

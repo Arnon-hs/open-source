@@ -1,6 +1,6 @@
 # jlsookiki/secondhand-mcp
 
-[![Stars](https://img.shields.io/github/stars/jlsookiki/secondhand-mcp?style=flat-square&color=yellow)](https://github.com/jlsookiki/secondhand-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jlsookiki/secondhand-mcp?style=flat-square&color=blue)](https://github.com/jlsookiki/secondhand-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jlsookiki/secondhand-mcp?style=flat-square&color=yellow)](https://github.com/jlsookiki/secondhand-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jlsookiki/secondhand-mcp?style=flat-square&color=blue)](https://github.com/jlsookiki/secondhand-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for searching secondhand marketplaces — Facebook Marketplace, eBay, and Depop. Works with Claude Desktop, Claude Code, and other MCP clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ jlsookiki/secondhand-mcp 具有高生产可用性，主要原因是：
 | forks | 28/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

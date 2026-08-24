@@ -1,6 +1,6 @@
 # saschagrunert/demo
 
-[![Stars](https://img.shields.io/github/stars/saschagrunert/demo?style=flat-square&color=yellow)](https://github.com/saschagrunert/demo/stargazers) [![Forks](https://img.shields.io/github/forks/saschagrunert/demo?style=flat-square&color=blue)](https://github.com/saschagrunert/demo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saschagrunert/demo?style=flat-square&color=yellow)](https://github.com/saschagrunert/demo/stargazers) [![Forks](https://img.shields.io/github/forks/saschagrunert/demo?style=flat-square&color=blue)](https://github.com/saschagrunert/demo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for performing live pre-recorded command line demos in the wild 📼
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ The project scores high on readiness: it has recent activity (last commit 2026
 | forks | 33/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

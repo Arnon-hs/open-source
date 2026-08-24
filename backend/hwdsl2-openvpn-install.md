@@ -1,6 +1,6 @@
 # hwdsl2/openvpn-install
 
-[![Stars](https://img.shields.io/github/stars/hwdsl2/openvpn-install?style=flat-square&color=yellow)](https://github.com/hwdsl2/openvpn-install/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/openvpn-install?style=flat-square&color=blue)](https://github.com/hwdsl2/openvpn-install/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwdsl2/openvpn-install?style=flat-square&color=yellow)](https://github.com/hwdsl2/openvpn-install/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/openvpn-install?style=flat-square&color=blue)](https://github.com/hwdsl2/openvpn-install/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OpenVPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE, Amazon Linux 2 and Raspberry Pi OS. Includes interactive setup and client management.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 480 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend · Security
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ hwdsl2/openvpn‑install 是一套一键式 OpenVPN 服务器安装脚本，支�
 | forks | 67/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # martin-ger/esp32_nat_router
 
-[![Stars](https://img.shields.io/github/stars/martin-ger/esp32_nat_router?style=flat-square&color=yellow)](https://github.com/martin-ger/esp32_nat_router/stargazers) [![Forks](https://img.shields.io/github/forks/martin-ger/esp32_nat_router?style=flat-square&color=blue)](https://github.com/martin-ger/esp32_nat_router/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martin-ger/esp32_nat_router?style=flat-square&color=yellow)](https://github.com/martin-ger/esp32_nat_router/stargazers) [![Forks](https://img.shields.io/github/forks/martin-ger/esp32_nat_router?style=flat-square&color=blue)](https://github.com/martin-ger/esp32_nat_router/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-enabled NAT Router/Firewall for the ESP32
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 438 |
 | 💻 **Language** | C |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ martin-ger/esp32_nat_router 是一款基于 ESP32 的 AI 驱动 NAT 路由器/�
 | forks | 66/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

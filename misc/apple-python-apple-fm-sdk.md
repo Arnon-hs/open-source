@@ -1,6 +1,6 @@
 # apple/python-apple-fm-sdk
 
-[![Stars](https://img.shields.io/github/stars/apple/python-apple-fm-sdk?style=flat-square&color=yellow)](https://github.com/apple/python-apple-fm-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/apple/python-apple-fm-sdk?style=flat-square&color=blue)](https://github.com/apple/python-apple-fm-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apple/python-apple-fm-sdk?style=flat-square&color=yellow)](https://github.com/apple/python-apple-fm-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/apple/python-apple-fm-sdk?style=flat-square&color=blue)](https://github.com/apple/python-apple-fm-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -148,14 +148,15 @@ In summary, *apple/python-apple-fm-sdk* offers a valuable shortcut to embed Appl
 | forks | 46/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

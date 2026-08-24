@@ -1,6 +1,6 @@
 # volantis-x/hexo-theme-volantis
 
-[![Stars](https://img.shields.io/github/stars/volantis-x/hexo-theme-volantis?style=flat-square&color=yellow)](https://github.com/volantis-x/hexo-theme-volantis/stargazers) [![Forks](https://img.shields.io/github/forks/volantis-x/hexo-theme-volantis?style=flat-square&color=blue)](https://github.com/volantis-x/hexo-theme-volantis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volantis-x/hexo-theme-volantis?style=flat-square&color=yellow)](https://github.com/volantis-x/hexo-theme-volantis/stargazers) [![Forks](https://img.shields.io/github/forks/volantis-x/hexo-theme-volantis?style=flat-square&color=blue)](https://github.com/volantis-x/hexo-theme-volantis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Wonderful Theme for Hexo.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 613 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ volantis-x/hexo-theme-volantis 是一个为 Hexo 设计的美观主题，适合�
 | forks | 70/100 |
 | stars | 71/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

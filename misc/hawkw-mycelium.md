@@ -1,6 +1,6 @@
 # hawkw/mycelium
 
-[![Stars](https://img.shields.io/github/stars/hawkw/mycelium?style=flat-square&color=yellow)](https://github.com/hawkw/mycelium/stargazers) [![Forks](https://img.shields.io/github/forks/hawkw/mycelium?style=flat-square&color=blue)](https://github.com/hawkw/mycelium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hawkw/mycelium?style=flat-square&color=yellow)](https://github.com/hawkw/mycelium/stargazers) [![Forks](https://img.shields.io/github/forks/hawkw/mycelium?style=flat-square&color=blue)](https://github.com/hawkw/mycelium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🍄  an alleged 'operating system'
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ hawkw/mycelium的价值在于其可以用作原型或内部工作流程的工具
 | forks | 39/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

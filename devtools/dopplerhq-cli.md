@@ -1,6 +1,6 @@
 # DopplerHQ/cli
 
-[![Stars](https://img.shields.io/github/stars/DopplerHQ/cli?style=flat-square&color=yellow)](https://github.com/DopplerHQ/cli/stargazers) [![Forks](https://img.shields.io/github/forks/DopplerHQ/cli?style=flat-square&color=blue)](https://github.com/DopplerHQ/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DopplerHQ/cli?style=flat-square&color=yellow)](https://github.com/DopplerHQ/cli/stargazers) [![Forks](https://img.shields.io/github/forks/DopplerHQ/cli?style=flat-square&color=blue)](https://github.com/DopplerHQ/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The official CLI for interacting with your Doppler secrets and configuration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ DopplerHQ/cli 的生产可用性高，因为它具有以下特点:
 | forks | 47/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 60/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

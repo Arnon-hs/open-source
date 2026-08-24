@@ -1,6 +1,6 @@
 # Tejas-TA/predikit
 
-[![Stars](https://img.shields.io/github/stars/Tejas-TA/predikit?style=flat-square&color=yellow)](https://github.com/Tejas-TA/predikit/stargazers) [![Forks](https://img.shields.io/github/forks/Tejas-TA/predikit?style=flat-square&color=blue)](https://github.com/Tejas-TA/predikit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tejas-TA/predikit?style=flat-square&color=yellow)](https://github.com/Tejas-TA/predikit/stargazers) [![Forks](https://img.shields.io/github/forks/Tejas-TA/predikit?style=flat-square&color=blue)](https://github.com/Tejas-TA/predikit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The missing bridge between your ML models and your AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 418 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ Tejas-TA/predikit 的生产可用性很高，主要原因是：
 | forks | 53/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 70/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

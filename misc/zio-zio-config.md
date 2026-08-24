@@ -1,6 +1,6 @@
 # zio/zio-config
 
-[![Stars](https://img.shields.io/github/stars/zio/zio-config?style=flat-square&color=yellow)](https://github.com/zio/zio-config/stargazers) [![Forks](https://img.shields.io/github/forks/zio/zio-config?style=flat-square&color=blue)](https://github.com/zio/zio-config/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zio/zio-config?style=flat-square&color=yellow)](https://github.com/zio/zio-config/stargazers) [![Forks](https://img.shields.io/github/forks/zio/zio-config?style=flat-square&color=blue)](https://github.com/zio/zio-config/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Easily use and document any config from anywhere in ZIO apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 243 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ zio/zio-config 的生产可用性为中等，适合用于原型或内部工作�
 | forks | 52/100 |
 | stars | 51/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

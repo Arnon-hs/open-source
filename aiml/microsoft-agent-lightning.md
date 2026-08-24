@@ -1,6 +1,6 @@
 # microsoft/agent-lightning
 
-[![Stars](https://img.shields.io/github/stars/microsoft/agent-lightning?style=flat-square&color=yellow)](https://github.com/microsoft/agent-lightning/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/agent-lightning?style=flat-square&color=blue)](https://github.com/microsoft/agent-lightning/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/agent-lightning?style=flat-square&color=yellow)](https://github.com/microsoft/agent-lightning/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/agent-lightning?style=flat-square&color=blue)](https://github.com/microsoft/agent-lightning/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The absolute trainer to light up AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ Microsoft Agent Lightning 的生产可用性高，因为它有活跃的维护者
 | forks | 80/100 |
 | stars | 90/100 |
 | topics | 63/100 |
-| outlook | 85/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

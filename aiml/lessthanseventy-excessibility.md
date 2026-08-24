@@ -1,6 +1,6 @@
 # lessthanseventy/excessibility
 
-[![Stars](https://img.shields.io/github/stars/lessthanseventy/excessibility?style=flat-square&color=yellow)](https://github.com/lessthanseventy/excessibility/stargazers) [![Forks](https://img.shields.io/github/forks/lessthanseventy/excessibility?style=flat-square&color=blue)](https://github.com/lessthanseventy/excessibility/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lessthanseventy/excessibility?style=flat-square&color=yellow)](https://github.com/lessthanseventy/excessibility/stargazers) [![Forks](https://img.shields.io/github/forks/lessthanseventy/excessibility?style=flat-square&color=blue)](https://github.com/lessthanseventy/excessibility/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Accessibility snapshot testing for Phoenix LiveView - capture HTML during tests, run Pa11y for WCAG   compliance, debug with AI-friendly timeline analysis
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ lessthanseventy/excessibility 的生产可用性为中等。它适合用于原�
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

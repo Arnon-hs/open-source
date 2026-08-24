@@ -1,6 +1,6 @@
 # cosmo-wander-ai/cosmo-edge
 
-[![Stars](https://img.shields.io/github/stars/cosmo-wander-ai/cosmo-edge?style=flat-square&color=yellow)](https://github.com/cosmo-wander-ai/cosmo-edge/stargazers) [![Forks](https://img.shields.io/github/forks/cosmo-wander-ai/cosmo-edge?style=flat-square&color=blue)](https://github.com/cosmo-wander-ai/cosmo-edge/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmo-wander-ai/cosmo-edge?style=flat-square&color=yellow)](https://github.com/cosmo-wander-ai/cosmo-edge/stargazers) [![Forks](https://img.shields.io/github/forks/cosmo-wander-ai/cosmo-edge?style=flat-square&color=blue)](https://github.com/cosmo-wander-ai/cosmo-edge/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade C++ edge AI engine for video analytics with visual pipeline orchestration, on-device VLM, and real-time OSD.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 543 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data · Product
+Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ cosmo‑wander‑ai/cosmo‑edge 是一个生产级的 C++ 边缘 AI 引擎，�
 | forks | 54/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 76/100 |
+| recency | 80/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

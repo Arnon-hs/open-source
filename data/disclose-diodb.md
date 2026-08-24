@@ -1,6 +1,6 @@
 # disclose/diodb
 
-[![Stars](https://img.shields.io/github/stars/disclose/diodb?style=flat-square&color=yellow)](https://github.com/disclose/diodb/stargazers) [![Forks](https://img.shields.io/github/forks/disclose/diodb?style=flat-square&color=blue)](https://github.com/disclose/diodb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/disclose/diodb?style=flat-square&color=yellow)](https://github.com/disclose/diodb/stargazers) [![Forks](https://img.shields.io/github/forks/disclose/diodb?style=flat-square&color=blue)](https://github.com/disclose/diodb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source vulnerability disclosure and bug bounty program database
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ disclose/diodb 是一个开源的漏洞披露与赏金计划数据库，提供�
 | forks | 63/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

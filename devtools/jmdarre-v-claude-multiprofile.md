@@ -1,6 +1,6 @@
 # jmdarre-v/claude-multiprofile
 
-[![Stars](https://img.shields.io/github/stars/jmdarre-v/claude-multiprofile?style=flat-square&color=yellow)](https://github.com/jmdarre-v/claude-multiprofile/stargazers) [![Forks](https://img.shields.io/github/forks/jmdarre-v/claude-multiprofile?style=flat-square&color=blue)](https://github.com/jmdarre-v/claude-multiprofile/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmdarre-v/claude-multiprofile?style=flat-square&color=yellow)](https://github.com/jmdarre-v/claude-multiprofile/stargazers) [![Forks](https://img.shields.io/github/forks/jmdarre-v/claude-multiprofile?style=flat-square&color=blue)](https://github.com/jmdarre-v/claude-multiprofile/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Run multiple Claude Desktop and Claude Code accounts side by side on macOS. Fully isolated profiles for personal, work, and clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ jmdarre-v/claude-multiprofile 的主要价值在于帮助开发者节省时间�
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # angelnicolasc/graymatter
 
-[![Stars](https://img.shields.io/github/stars/angelnicolasc/graymatter?style=flat-square&color=yellow)](https://github.com/angelnicolasc/graymatter/stargazers) [![Forks](https://img.shields.io/github/forks/angelnicolasc/graymatter?style=flat-square&color=blue)](https://github.com/angelnicolasc/graymatter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angelnicolasc/graymatter?style=flat-square&color=yellow)](https://github.com/angelnicolasc/graymatter/stargazers) [![Forks](https://img.shields.io/github/forks/angelnicolasc/graymatter?style=flat-square&color=blue)](https://github.com/angelnicolasc/graymatter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 452 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ angelnicolasc/graymatter 通过仅三行代码为 AI 代理提供持久化记忆
 | forks | 39/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

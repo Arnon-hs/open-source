@@ -1,6 +1,6 @@
 # zhaoolee/garss
 
-[![Stars](https://img.shields.io/github/stars/zhaoolee/garss?style=flat-square&color=yellow)](https://github.com/zhaoolee/garss/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoolee/garss?style=flat-square&color=blue)](https://github.com/zhaoolee/garss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhaoolee/garss?style=flat-square&color=yellow)](https://github.com/zhaoolee/garss/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoolee/garss?style=flat-square&color=blue)](https://github.com/zhaoolee/garss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ zhaoolee/garss是一个开源项目，利用Github Actions采集RSS，打造无�
 | forks | 60/100 |
 | stars | 67/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 65/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

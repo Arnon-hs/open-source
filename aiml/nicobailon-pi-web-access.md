@@ -1,6 +1,6 @@
 # nicobailon/pi-web-access
 
-[![Stars](https://img.shields.io/github/stars/nicobailon/pi-web-access?style=flat-square&color=yellow)](https://github.com/nicobailon/pi-web-access/stargazers) [![Forks](https://img.shields.io/github/forks/nicobailon/pi-web-access?style=flat-square&color=blue)](https://github.com/nicobailon/pi-web-access/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nicobailon/pi-web-access?style=flat-square&color=yellow)](https://github.com/nicobailon/pi-web-access/stargazers) [![Forks](https://img.shields.io/github/forks/nicobailon/pi-web-access?style=flat-square&color=blue)](https://github.com/nicobailon/pi-web-access/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Web search and content extraction extension for Pi coding agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ const content = await web.extract(results[0].url);
 | forks | 51/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

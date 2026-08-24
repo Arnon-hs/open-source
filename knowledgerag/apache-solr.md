@@ -1,6 +1,6 @@
 # apache/solr
 
-[![Stars](https://img.shields.io/github/stars/apache/solr?style=flat-square&color=yellow)](https://github.com/apache/solr/stargazers) [![Forks](https://img.shields.io/github/forks/apache/solr?style=flat-square&color=blue)](https://github.com/apache/solr/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/solr?style=flat-square&color=yellow)](https://github.com/apache/solr/stargazers) [![Forks](https://img.shields.io/github/forks/apache/solr?style=flat-square&color=blue)](https://github.com/apache/solr/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Solr open-source search software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 838 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Backend · Database
+Knowledge/RAG · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Apache Solr 是一款基于 Java 的开源企业级搜索平台，提供全文�
 | forks | 73/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 70/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

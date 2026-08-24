@@ -1,6 +1,6 @@
 # initMAX/zabbix-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/initMAX/zabbix-mcp-server?style=flat-square&color=yellow)](https://github.com/initMAX/zabbix-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/initMAX/zabbix-mcp-server?style=flat-square&color=blue)](https://github.com/initMAX/zabbix-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/initMAX/zabbix-mcp-server?style=flat-square&color=yellow)](https://github.com/initMAX/zabbix-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/initMAX/zabbix-mcp-server?style=flat-square&color=blue)](https://github.com/initMAX/zabbix-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer auth, PDF reports, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Backend · Observability
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ initMAX/zabbix-mcp-server的生产可用性非常高，主要原因包括：
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 44/100 |
-| production | 81/100 |
+| production | 68/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

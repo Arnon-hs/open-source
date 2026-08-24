@@ -1,6 +1,6 @@
 # WJZ-P/gemini-skill
 
-[![Stars](https://img.shields.io/github/stars/WJZ-P/gemini-skill?style=flat-square&color=yellow)](https://github.com/WJZ-P/gemini-skill/stargazers) [![Forks](https://img.shields.io/github/forks/WJZ-P/gemini-skill?style=flat-square&color=blue)](https://github.com/WJZ-P/gemini-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WJZ-P/gemini-skill?style=flat-square&color=yellow)](https://github.com/WJZ-P/gemini-skill/stargazers) [![Forks](https://img.shields.io/github/forks/WJZ-P/gemini-skill?style=flat-square&color=blue)](https://github.com/WJZ-P/gemini-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑>◡<๑)۶
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ WJZ-P/gemini-skill 的生产可用性很高，最近有活动，采用度和生�
 | forks | 52/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

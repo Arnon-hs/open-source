@@ -1,6 +1,6 @@
 # kivymd/KivyMD
 
-[![Stars](https://img.shields.io/github/stars/kivymd/KivyMD?style=flat-square&color=yellow)](https://github.com/kivymd/KivyMD/stargazers) [![Forks](https://img.shields.io/github/forks/kivymd/KivyMD?style=flat-square&color=blue)](https://github.com/kivymd/KivyMD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kivymd/KivyMD?style=flat-square&color=yellow)](https://github.com/kivymd/KivyMD/stargazers) [![Forks](https://img.shields.io/github/forks/kivymd/KivyMD?style=flat-square&color=blue)](https://github.com/kivymd/KivyMD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 688 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile · Design
+Frontend · Mobile · Design
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ kivymd/KivyMD：kivymd/KivyMD helps ship user-facing interfaces with less custom
 | forks | 71/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 77/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 66/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

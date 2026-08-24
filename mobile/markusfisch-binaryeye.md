@@ -1,6 +1,6 @@
 # markusfisch/BinaryEye
 
-[![Stars](https://img.shields.io/github/stars/markusfisch/BinaryEye?style=flat-square&color=yellow)](https://github.com/markusfisch/BinaryEye/stargazers) [![Forks](https://img.shields.io/github/forks/markusfisch/BinaryEye?style=flat-square&color=blue)](https://github.com/markusfisch/BinaryEye/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/markusfisch/BinaryEye?style=flat-square&color=yellow)](https://github.com/markusfisch/BinaryEye/stargazers) [![Forks](https://img.shields.io/github/forks/markusfisch/BinaryEye?style=flat-square&color=blue)](https://github.com/markusfisch/BinaryEye/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another barcode scanner for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ BinaryEye 的生产可用性评估为中等（Medium）。它适合于 prototypi
 | forks | 56/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 75/100 |
-| usefulness | 42/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

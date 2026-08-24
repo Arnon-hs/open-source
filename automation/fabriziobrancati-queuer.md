@@ -1,6 +1,6 @@
 # FabrizioBrancati/Queuer
 
-[![Stars](https://img.shields.io/github/stars/FabrizioBrancati/Queuer?style=flat-square&color=yellow)](https://github.com/FabrizioBrancati/Queuer/stargazers) [![Forks](https://img.shields.io/github/forks/FabrizioBrancati/Queuer?style=flat-square&color=blue)](https://github.com/FabrizioBrancati/Queuer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FabrizioBrancati/Queuer?style=flat-square&color=yellow)](https://github.com/FabrizioBrancati/Queuer/stargazers) [![Forks](https://img.shields.io/github/forks/FabrizioBrancati/Queuer?style=flat-square&color=blue)](https://github.com/FabrizioBrancati/Queuer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Queuer - это управляющий очередями проект, кото
 | forks | 42/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

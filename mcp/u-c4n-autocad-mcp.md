@@ -1,6 +1,6 @@
 # U-C4N/Autocad-MCP
 
-[![Stars](https://img.shields.io/github/stars/U-C4N/Autocad-MCP?style=flat-square&color=yellow)](https://github.com/U-C4N/Autocad-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/U-C4N/Autocad-MCP?style=flat-square&color=blue)](https://github.com/U-C4N/Autocad-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/U-C4N/Autocad-MCP?style=flat-square&color=yellow)](https://github.com/U-C4N/Autocad-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/U-C4N/Autocad-MCP?style=flat-square&color=blue)](https://github.com/U-C4N/Autocad-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade AutoCAD MCP server for AI agents — 122 tools, dual COM (live AutoCAD) + headless ezdxf engines, ISO GD&T and dimension-tolerance validation for CAD automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Product
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ U-C4N/Autocad-MCP 帮助连接 AI 助手与实时工具和数据，通过标准�
 | forks | 25/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

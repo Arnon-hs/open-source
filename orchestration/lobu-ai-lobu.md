@@ -1,6 +1,6 @@
 # lobu-ai/lobu
 
-[![Stars](https://img.shields.io/github/stars/lobu-ai/lobu?style=flat-square&color=yellow)](https://github.com/lobu-ai/lobu/stargazers) [![Forks](https://img.shields.io/github/forks/lobu-ai/lobu?style=flat-square&color=blue)](https://github.com/lobu-ai/lobu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lobu-ai/lobu?style=flat-square&color=yellow)](https://github.com/lobu-ai/lobu/stargazers) [![Forks](https://img.shields.io/github/forks/lobu-ai/lobu?style=flat-square&color=blue)](https://github.com/lobu-ai/lobu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source control plane and runtime for organisational agents: shared company context, isolated execution, approvals and MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-08-05 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · DevOps/Infra
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Lobu的生产可用性较高，最近有活动，采用率和生态系统信号�
 | forks | 35/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 65/100 |
+| recency | 60/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

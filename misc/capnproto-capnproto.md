@@ -1,6 +1,6 @@
 # capnproto/capnproto
 
-[![Stars](https://img.shields.io/github/stars/capnproto/capnproto?style=flat-square&color=yellow)](https://github.com/capnproto/capnproto/stargazers) [![Forks](https://img.shields.io/github/forks/capnproto/capnproto?style=flat-square&color=blue)](https://github.com/capnproto/capnproto/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/capnproto/capnproto?style=flat-square&color=yellow)](https://github.com/capnproto/capnproto/stargazers) [![Forks](https://img.shields.io/github/forks/capnproto/capnproto?style=flat-square&color=blue)](https://github.com/capnproto/capnproto/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Cap'n Proto serialization/RPC system - core tools and C++ library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Cap'n Proto 的生产可用性为中等。它适合用于原型开发或内部�
 | forks | 76/100 |
 | stars | 88/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

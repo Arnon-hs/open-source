@@ -1,6 +1,6 @@
 # jellyfin/jellyfin-kodi
 
-[![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin-kodi?style=flat-square&color=yellow)](https://github.com/jellyfin/jellyfin-kodi/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellyfin-kodi?style=flat-square&color=blue)](https://github.com/jellyfin/jellyfin-kodi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin-kodi?style=flat-square&color=yellow)](https://github.com/jellyfin/jellyfin-kodi/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellyfin-kodi?style=flat-square&color=blue)](https://github.com/jellyfin/jellyfin-kodi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Jellyfin Plugin for Kodi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Jellyfin Kodi 插件的生产可用性较高，主要因为它有活跃的维护
 | forks | 55/100 |
 | stars | 65/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 62/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # BeamMW/beam
 
-[![Stars](https://img.shields.io/github/stars/BeamMW/beam?style=flat-square&color=yellow)](https://github.com/BeamMW/beam/stargazers) [![Forks](https://img.shields.io/github/forks/BeamMW/beam?style=flat-square&color=blue)](https://github.com/BeamMW/beam/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BeamMW/beam?style=flat-square&color=yellow)](https://github.com/BeamMW/beam/stargazers) [![Forks](https://img.shields.io/github/forks/BeamMW/beam?style=flat-square&color=blue)](https://github.com/BeamMW/beam/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Beam: Scalable Confidential Cryptocurrency. Leading the way to Confidential DeFi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ BeamMW/beam 提供了一个可扩展的保密加密货币实现，能够在不�
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

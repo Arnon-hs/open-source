@@ -1,6 +1,6 @@
 # softstack/Smart-Contract-Security-Audits
 
-[![Stars](https://img.shields.io/github/stars/softstack/Smart-Contract-Security-Audits?style=flat-square&color=yellow)](https://github.com/softstack/Smart-Contract-Security-Audits/stargazers) [![Forks](https://img.shields.io/github/forks/softstack/Smart-Contract-Security-Audits?style=flat-square&color=blue)](https://github.com/softstack/Smart-Contract-Security-Audits/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softstack/Smart-Contract-Security-Audits?style=flat-square&color=yellow)](https://github.com/softstack/Smart-Contract-Security-Audits/stargazers) [![Forks](https://img.shields.io/github/forks/softstack/Smart-Contract-Security-Audits?style=flat-square&color=blue)](https://github.com/softstack/Smart-Contract-Security-Audits/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Certified Smart Contract Audits for Ethereum, Solana, Near, Cardano, Aptos, Sui, Binance Smart Chain, Fantom, EOS, Tezos and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 798 |
 | 🍴 **Forks** | 399 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML · Frontend · Security
+Crypto · Trading · Security
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Softstack/Smart-Contract-Security-Audits 的接入方式包括:
 | forks | 65/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 78/100 |
+| recency | 80/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

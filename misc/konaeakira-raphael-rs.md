@@ -1,6 +1,6 @@
 # KonaeAkira/raphael-rs
 
-[![Stars](https://img.shields.io/github/stars/KonaeAkira/raphael-rs?style=flat-square&color=yellow)](https://github.com/KonaeAkira/raphael-rs/stargazers) [![Forks](https://img.shields.io/github/forks/KonaeAkira/raphael-rs?style=flat-square&color=blue)](https://github.com/KonaeAkira/raphael-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KonaeAkira/raphael-rs?style=flat-square&color=yellow)](https://github.com/KonaeAkira/raphael-rs/stargazers) [![Forks](https://img.shields.io/github/forks/KonaeAkira/raphael-rs?style=flat-square&color=blue)](https://github.com/KonaeAkira/raphael-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Crafting macro solver for Final Fantasy XIV
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ KonaeAkira/raphael-rs 的生产可用性为中等。它适合用于原型或内�
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lightly-ai/lightly-train
 
-[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly-train?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly-train/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly-train?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly-train/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightly-ai/lightly-train?style=flat-square&color=yellow)](https://github.com/lightly-ai/lightly-train/stargazers) [![Forks](https://img.shields.io/github/forks/lightly-ai/lightly-train?style=flat-square&color=blue)](https://github.com/lightly-ai/lightly-train/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Database · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -87,14 +87,15 @@ The project's high production readiness score is a testament to its stability an
 | forks | 49/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

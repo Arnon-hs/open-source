@@ -1,6 +1,6 @@
 # JamesLMilner/terra-draw
 
-[![Stars](https://img.shields.io/github/stars/JamesLMilner/terra-draw?style=flat-square&color=yellow)](https://github.com/JamesLMilner/terra-draw/stargazers) [![Forks](https://img.shields.io/github/forks/JamesLMilner/terra-draw?style=flat-square&color=blue)](https://github.com/JamesLMilner/terra-draw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JamesLMilner/terra-draw?style=flat-square&color=yellow)](https://github.com/JamesLMilner/terra-draw/stargazers) [![Forks](https://img.shields.io/github/forks/JamesLMilner/terra-draw?style=flat-square&color=blue)](https://github.com/JamesLMilner/terra-draw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A library for drawing on maps that supports Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 998 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ JamesLMilner/terra‑draw 是一款基于 TypeScript 的前端绘图库，能够
 | forks | 51/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

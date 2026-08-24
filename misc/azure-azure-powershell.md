@@ -1,6 +1,6 @@
 # Azure/azure-powershell
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-powershell?style=flat-square&color=yellow)](https://github.com/Azure/azure-powershell/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-powershell?style=flat-square&color=blue)](https://github.com/Azure/azure-powershell/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-powershell?style=flat-square&color=yellow)](https://github.com/Azure/azure-powershell/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-powershell?style=flat-square&color=blue)](https://github.com/Azure/azure-powershell/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Microsoft Azure PowerShell
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ Azure/azure-powershell 是 Microsoft 官方维护的 Azure PowerShell 模块，�
 | forks | 91/100 |
 | stars | 78/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

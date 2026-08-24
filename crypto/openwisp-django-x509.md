@@ -1,6 +1,6 @@
 # openwisp/django-x509
 
-[![Stars](https://img.shields.io/github/stars/openwisp/django-x509?style=flat-square&color=yellow)](https://github.com/openwisp/django-x509/stargazers) [![Forks](https://img.shields.io/github/forks/openwisp/django-x509?style=flat-square&color=blue)](https://github.com/openwisp/django-x509/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openwisp/django-x509?style=flat-square&color=yellow)](https://github.com/openwisp/django-x509/stargazers) [![Forks](https://img.shields.io/github/forks/openwisp/django-x509?style=flat-square&color=blue)](https://github.com/openwisp/django-x509/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Reusable django app implementing x509 PKI certificates management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Security
+Crypto
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ openwisp/django-x509 的生产可用性较高，主要原因是：
 | forks | 48/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 52/100 |
-| production | 77/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mgth/LittleBigMouse
 
-[![Stars](https://img.shields.io/github/stars/mgth/LittleBigMouse?style=flat-square&color=yellow)](https://github.com/mgth/LittleBigMouse/stargazers) [![Forks](https://img.shields.io/github/forks/mgth/LittleBigMouse?style=flat-square&color=blue)](https://github.com/mgth/LittleBigMouse/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mgth/LittleBigMouse?style=flat-square&color=yellow)](https://github.com/mgth/LittleBigMouse/stargazers) [![Forks](https://img.shields.io/github/forks/mgth/LittleBigMouse?style=flat-square&color=blue)](https://github.com/mgth/LittleBigMouse/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > DPI Aware mouse move across screens
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ LittleBigMouse 是一款 DPI‑Aware 的鼠标跨屏移动工具，能够在多�
 | forks | 61/100 |
 | stars | 81/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

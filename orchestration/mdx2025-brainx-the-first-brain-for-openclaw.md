@@ -1,6 +1,6 @@
 # Mdx2025/BrainX-The-First-Brain-for-OpenClaw
 
-[![Stars](https://img.shields.io/github/stars/Mdx2025/BrainX-The-First-Brain-for-OpenClaw?style=flat-square&color=yellow)](https://github.com/Mdx2025/BrainX-The-First-Brain-for-OpenClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Mdx2025/BrainX-The-First-Brain-for-OpenClaw?style=flat-square&color=blue)](https://github.com/Mdx2025/BrainX-The-First-Brain-for-OpenClaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mdx2025/BrainX-The-First-Brain-for-OpenClaw?style=flat-square&color=yellow)](https://github.com/Mdx2025/BrainX-The-First-Brain-for-OpenClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Mdx2025/BrainX-The-First-Brain-for-OpenClaw?style=flat-square&color=blue)](https://github.com/Mdx2025/BrainX-The-First-Brain-for-OpenClaw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 BrainX V6 — The First Brain for OpenClaw. Persistent AI agent memory with PostgreSQL, pgvector, OpenAI embeddings, semantic search, cross-agent learning, and an OpenClaw runtime plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Data · Database
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ BrainX V6 的生产可用性为中等（Medium）。它适合用于原型或内�
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 63/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

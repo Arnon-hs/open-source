@@ -1,6 +1,6 @@
 # kubernetes-sigs/cluster-api-provider-aws
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api-provider-aws?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/cluster-api-provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/cluster-api-provider-aws?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/cluster-api-provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api-provider-aws?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/cluster-api-provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/cluster-api-provider-aws?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/cluster-api-provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of "self-managed" and EKS Kubernetes clusters on AWS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 723 |
 | 🍴 **Forks** | 683 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Kubernetes Cluster API Provider AWS 是一个开源项目，提供了一个一�
 | forks | 71/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

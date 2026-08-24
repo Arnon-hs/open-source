@@ -1,6 +1,6 @@
 # decionis/agent-safe-pipeline
 
-[![Stars](https://img.shields.io/github/stars/decionis/agent-safe-pipeline?style=flat-square&color=yellow)](https://github.com/decionis/agent-safe-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/decionis/agent-safe-pipeline?style=flat-square&color=blue)](https://github.com/decionis/agent-safe-pipeline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/decionis/agent-safe-pipeline?style=flat-square&color=yellow)](https://github.com/decionis/agent-safe-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/decionis/agent-safe-pipeline?style=flat-square&color=blue)](https://github.com/decionis/agent-safe-pipeline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Security
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ decionis/agent-safe-pipeline 是一个开源项目，提供了一个参考架构
 | forks | 8/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sloria/doitlive
 
-[![Stars](https://img.shields.io/github/stars/sloria/doitlive?style=flat-square&color=yellow)](https://github.com/sloria/doitlive/stargazers) [![Forks](https://img.shields.io/github/forks/sloria/doitlive?style=flat-square&color=blue)](https://github.com/sloria/doitlive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sloria/doitlive?style=flat-square&color=yellow)](https://github.com/sloria/doitlive/stargazers) [![Forks](https://img.shields.io/github/forks/sloria/doitlive?style=flat-square&color=blue)](https://github.com/sloria/doitlive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Because sometimes you need to do it live
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ sloria/doitlive 的生产可用性非常高，主要原因是：
 | forks | 50/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

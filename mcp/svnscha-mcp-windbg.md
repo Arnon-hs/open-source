@@ -1,6 +1,6 @@
 # svnscha/mcp-windbg
 
-[![Stars](https://img.shields.io/github/stars/svnscha/mcp-windbg?style=flat-square&color=yellow)](https://github.com/svnscha/mcp-windbg/stargazers) [![Forks](https://img.shields.io/github/forks/svnscha/mcp-windbg?style=flat-square&color=blue)](https://github.com/svnscha/mcp-windbg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/svnscha/mcp-windbg?style=flat-square&color=yellow)](https://github.com/svnscha/mcp-windbg/stargazers) [![Forks](https://img.shields.io/github/forks/svnscha/mcp-windbg?style=flat-square&color=blue)](https://github.com/svnscha/mcp-windbg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol for WinDbg.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ svnscha/mcp-windbg 的生产可用性很高，主要原因是：
 | forks | 53/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

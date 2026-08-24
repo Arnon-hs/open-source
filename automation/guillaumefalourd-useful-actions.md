@@ -1,6 +1,6 @@
 # GuillaumeFalourd/useful-actions
 
-[![Stars](https://img.shields.io/github/stars/GuillaumeFalourd/useful-actions?style=flat-square&color=yellow)](https://github.com/GuillaumeFalourd/useful-actions/stargazers) [![Forks](https://img.shields.io/github/forks/GuillaumeFalourd/useful-actions?style=flat-square&color=blue)](https://github.com/GuillaumeFalourd/useful-actions/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GuillaumeFalourd/useful-actions?style=flat-square&color=yellow)](https://github.com/GuillaumeFalourd/useful-actions/stargazers) [![Forks](https://img.shields.io/github/forks/GuillaumeFalourd/useful-actions?style=flat-square&color=blue)](https://github.com/GuillaumeFalourd/useful-actions/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of useful Github actions with workflows examples 💡
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-07 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevOps/Infra · Education
+Automation
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ GuillaumeFalourd/useful-actions 是一个开源项目，提供了一个精选列
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

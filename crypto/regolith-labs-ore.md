@@ -1,6 +1,6 @@
 # regolith-labs/ore
 
-[![Stars](https://img.shields.io/github/stars/regolith-labs/ore?style=flat-square&color=yellow)](https://github.com/regolith-labs/ore/stargazers) [![Forks](https://img.shields.io/github/forks/regolith-labs/ore?style=flat-square&color=blue)](https://github.com/regolith-labs/ore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/regolith-labs/ore?style=flat-square&color=yellow)](https://github.com/regolith-labs/ore/stargazers) [![Forks](https://img.shields.io/github/forks/regolith-labs/ore?style=flat-square&color=blue)](https://github.com/regolith-labs/ore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Future-proof electronic cash.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 814 |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ regolith‑labs/ore 是一个用 Rust 编写的未来可扩展电子现金原型
 | forks | 62/100 |
 | stars | 62/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

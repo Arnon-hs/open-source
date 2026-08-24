@@ -1,6 +1,6 @@
 # gintasz/unigent
 
-[![Stars](https://img.shields.io/github/stars/gintasz/unigent?style=flat-square&color=yellow)](https://github.com/gintasz/unigent/stargazers) [![Forks](https://img.shields.io/github/forks/gintasz/unigent?style=flat-square&color=blue)](https://github.com/gintasz/unigent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gintasz/unigent?style=flat-square&color=yellow)](https://github.com/gintasz/unigent/stargazers) [![Forks](https://img.shields.io/github/forks/gintasz/unigent?style=flat-square&color=blue)](https://github.com/gintasz/unigent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Unigent SDK 的生产可用性为中等。它适合用于原型或内部工作�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 64/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 26/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 41/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

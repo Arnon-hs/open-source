@@ -1,6 +1,6 @@
 # jihe520/mindpocket
 
-[![Stars](https://img.shields.io/github/stars/jihe520/mindpocket?style=flat-square&color=yellow)](https://github.com/jihe520/mindpocket/stargazers) [![Forks](https://img.shields.io/github/forks/jihe520/mindpocket?style=flat-square&color=blue)](https://github.com/jihe520/mindpocket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jihe520/mindpocket?style=flat-square&color=yellow)](https://github.com/jihe520/mindpocket/stargazers) [![Forks](https://img.shields.io/github/forks/jihe520/mindpocket?style=flat-square&color=blue)](https://github.com/jihe520/mindpocket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-28 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · DevTools · Database
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ jihe520/mindpocket 的生产可用性较高，理由包括：
 | forks | 56/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

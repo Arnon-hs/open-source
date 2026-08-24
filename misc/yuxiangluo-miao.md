@@ -1,6 +1,6 @@
 # YUxiangLuo/miao
 
-[![Stars](https://img.shields.io/github/stars/YUxiangLuo/miao?style=flat-square&color=yellow)](https://github.com/YUxiangLuo/miao/stargazers) [![Forks](https://img.shields.io/github/forks/YUxiangLuo/miao?style=flat-square&color=blue)](https://github.com/YUxiangLuo/miao/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YUxiangLuo/miao?style=flat-square&color=yellow)](https://github.com/YUxiangLuo/miao/stargazers) [![Forks](https://img.shields.io/github/forks/YUxiangLuo/miao?style=flat-square&color=blue)](https://github.com/YUxiangLuo/miao/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 开箱即用的 sing-box 启动器，支持Linux桌面/OpenWrt软路由。30秒实现 TUN 模式透明代理。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ YUxiangLuo/miao 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

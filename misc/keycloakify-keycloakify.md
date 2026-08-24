@@ -1,6 +1,6 @@
 # keycloakify/keycloakify
 
-[![Stars](https://img.shields.io/github/stars/keycloakify/keycloakify?style=flat-square&color=yellow)](https://github.com/keycloakify/keycloakify/stargazers) [![Forks](https://img.shields.io/github/forks/keycloakify/keycloakify?style=flat-square&color=blue)](https://github.com/keycloakify/keycloakify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keycloakify/keycloakify?style=flat-square&color=yellow)](https://github.com/keycloakify/keycloakify/stargazers) [![Forks](https://img.shields.io/github/forks/keycloakify/keycloakify?style=flat-square&color=blue)](https://github.com/keycloakify/keycloakify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🔏 Keycloak theming for the modern web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ keycloakify/keycloakify 的生产可用性较高，因为它有以下优势：
 | forks | 61/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 60/100 |
 | adoption | 69/100 |
-| production | 77/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

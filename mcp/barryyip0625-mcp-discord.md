@@ -1,6 +1,6 @@
 # barryyip0625/mcp-discord
 
-[![Stars](https://img.shields.io/github/stars/barryyip0625/mcp-discord?style=flat-square&color=yellow)](https://github.com/barryyip0625/mcp-discord/stargazers) [![Forks](https://img.shields.io/github/forks/barryyip0625/mcp-discord?style=flat-square&color=blue)](https://github.com/barryyip0625/mcp-discord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barryyip0625/mcp-discord?style=flat-square&color=yellow)](https://github.com/barryyip0625/mcp-discord/stargazers) [![Forks](https://img.shields.io/github/forks/barryyip0625/mcp-discord?style=flat-square&color=blue)](https://github.com/barryyip0625/mcp-discord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Implement Discord MCP server enabling AI assistants to interact with the Discord platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ barryyip0625/mcp-discord 实现了 Discord MCP（Model Context Protocol）服务
 | forks | 44/100 |
 | stars | 42/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

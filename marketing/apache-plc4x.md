@@ -1,6 +1,6 @@
 # apache/plc4x
 
-[![Stars](https://img.shields.io/github/stars/apache/plc4x?style=flat-square&color=yellow)](https://github.com/apache/plc4x/stargazers) [![Forks](https://img.shields.io/github/forks/apache/plc4x?style=flat-square&color=blue)](https://github.com/apache/plc4x/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/plc4x?style=flat-square&color=yellow)](https://github.com/apache/plc4x/stargazers) [![Forks](https://img.shields.io/github/forks/apache/plc4x?style=flat-square&color=blue)](https://github.com/apache/plc4x/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > PLC4X The Industrial IoT adapter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 484 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Apache PLC4X 是 Apache 基金会的开源工业物联网适配器，提供统
 | forks | 67/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

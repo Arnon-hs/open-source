@@ -1,6 +1,6 @@
 # Joanium/Joanium-Classic
 
-[![Stars](https://img.shields.io/github/stars/Joanium/Joanium-Classic?style=flat-square&color=yellow)](https://github.com/Joanium/Joanium-Classic/stargazers) [![Forks](https://img.shields.io/github/forks/Joanium/Joanium-Classic?style=flat-square&color=blue)](https://github.com/Joanium/Joanium-Classic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Joanium/Joanium-Classic?style=flat-square&color=yellow)](https://github.com/Joanium/Joanium-Classic/stargazers) [![Forks](https://img.shields.io/github/forks/Joanium/Joanium-Classic?style=flat-square&color=blue)](https://github.com/Joanium/Joanium-Classic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Your smart, reliable, and friendly personal AI assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Joanium/Joanium-Classic 是一款基于 JavaScript 的个人 AI 助手，能够�
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

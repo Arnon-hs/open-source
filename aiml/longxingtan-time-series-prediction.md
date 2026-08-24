@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ LongxingTan/Time-series-prediction：LongxingTan/Time-series-prediction helps ad
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

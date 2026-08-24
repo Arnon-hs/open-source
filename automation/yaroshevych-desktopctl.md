@@ -1,6 +1,6 @@
 # yaroshevych/desktopctl
 
-[![Stars](https://img.shields.io/github/stars/yaroshevych/desktopctl?style=flat-square&color=yellow)](https://github.com/yaroshevych/desktopctl/stargazers) [![Forks](https://img.shields.io/github/forks/yaroshevych/desktopctl?style=flat-square&color=blue)](https://github.com/yaroshevych/desktopctl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaroshevych/desktopctl?style=flat-square&color=yellow)](https://github.com/yaroshevych/desktopctl/stargazers) [![Forks](https://img.shields.io/github/forks/yaroshevych/desktopctl?style=flat-square&color=blue)](https://github.com/yaroshevych/desktopctl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > GPU-accelerated CLI tool for AI agents, to control computer via screen, mouse, and keyboard.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-08-01 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ yaroshevych/desktopctl 的生产可用性为中等（Medium）。它适合用于
 | forks | 24/100 |
 | stars | 38/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 34/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

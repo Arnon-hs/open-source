@@ -1,6 +1,6 @@
 # PKM-er/awesome-obsidian-zh
 
-[![Stars](https://img.shields.io/github/stars/PKM-er/awesome-obsidian-zh?style=flat-square&color=yellow)](https://github.com/PKM-er/awesome-obsidian-zh/stargazers) [![Forks](https://img.shields.io/github/forks/PKM-er/awesome-obsidian-zh?style=flat-square&color=blue)](https://github.com/PKM-er/awesome-obsidian-zh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PKM-er/awesome-obsidian-zh?style=flat-square&color=yellow)](https://github.com/PKM-er/awesome-obsidian-zh/stargazers) [![Forks](https://img.shields.io/github/forks/PKM-er/awesome-obsidian-zh?style=flat-square&color=blue)](https://github.com/PKM-er/awesome-obsidian-zh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Obsidian 优秀中文插件、主题与资源
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 720 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-08-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ PKM-er/awesome-obsidian-zh 是一个开源项目，提供 Obsidian 的优秀中�
 | forks | 37/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 68/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

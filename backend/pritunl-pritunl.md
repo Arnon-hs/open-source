@@ -1,6 +1,6 @@
 # pritunl/pritunl
 
-[![Stars](https://img.shields.io/github/stars/pritunl/pritunl?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl?style=flat-square&color=blue)](https://github.com/pritunl/pritunl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pritunl/pritunl?style=flat-square&color=yellow)](https://github.com/pritunl/pritunl/stargazers) [![Forks](https://img.shields.io/github/forks/pritunl/pritunl?style=flat-square&color=blue)](https://github.com/pritunl/pritunl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise VPN server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 660 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Pritunl 的生产可用性较高，理由如下：
 | forks | 71/100 |
 | stars | 79/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 60/100 |
 | adoption | 76/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

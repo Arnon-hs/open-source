@@ -1,6 +1,6 @@
 # macuse-app/macuse-mcp
 
-[![Stars](https://img.shields.io/github/stars/macuse-app/macuse-mcp?style=flat-square&color=yellow)](https://github.com/macuse-app/macuse-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/macuse-app/macuse-mcp?style=flat-square&color=blue)](https://github.com/macuse-app/macuse-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/macuse-app/macuse-mcp?style=flat-square&color=yellow)](https://github.com/macuse-app/macuse-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/macuse-app/macuse-mcp?style=flat-square&color=blue)](https://github.com/macuse-app/macuse-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Mac — give AI direct control of Calendar, Mail, Notes, Reminders, Messages, and any Mac app via Computer Use, on-device. Works with Claude Desktop, Cursor, Codex, Raycast, VS Code, Warp, Zed, LM Studio.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · Frontend · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ macuse‑app/macuse‑mcp 是一款运行在 macOS 上的 MCP（Model Context Pr
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

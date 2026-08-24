@@ -1,6 +1,6 @@
 # PaulDuvall/ai-development-patterns
 
-[![Stars](https://img.shields.io/github/stars/PaulDuvall/ai-development-patterns?style=flat-square&color=yellow)](https://github.com/PaulDuvall/ai-development-patterns/stargazers) [![Forks](https://img.shields.io/github/forks/PaulDuvall/ai-development-patterns?style=flat-square&color=blue)](https://github.com/PaulDuvall/ai-development-patterns/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaulDuvall/ai-development-patterns?style=flat-square&color=yellow)](https://github.com/PaulDuvall/ai-development-patterns/stargazers) [![Forks](https://img.shields.io/github/forks/PaulDuvall/ai-development-patterns?style=flat-square&color=blue)](https://github.com/PaulDuvall/ai-development-patterns/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations patterns with practical examples and anti-patterns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 598 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Security
+Automation · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ PaulDuvall/ai-development-patterns 提供了一套完整的 AI 开发模式库�
 | forks | 42/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

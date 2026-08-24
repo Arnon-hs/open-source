@@ -1,6 +1,6 @@
 # pelago-labs/slackhive
 
-[![Stars](https://img.shields.io/github/stars/pelago-labs/slackhive?style=flat-square&color=yellow)](https://github.com/pelago-labs/slackhive/stargazers) [![Forks](https://img.shields.io/github/forks/pelago-labs/slackhive?style=flat-square&color=blue)](https://github.com/pelago-labs/slackhive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pelago-labs/slackhive?style=flat-square&color=yellow)](https://github.com/pelago-labs/slackhive/stargazers) [![Forks](https://img.shields.io/github/forks/pelago-labs/slackhive?style=flat-square&color=blue)](https://github.com/pelago-labs/slackhive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Build, deploy, and orchestrate teams of Claude Code AI agents on Slack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ pelago-labs/slackhive 的生产可用性为中等。它适合用于原型开发�
 | forks | 15/100 |
 | stars | 30/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 47/100 |
+| recency | 60/100 |
 | adoption | 26/100 |
-| production | 71/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

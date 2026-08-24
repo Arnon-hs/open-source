@@ -1,6 +1,6 @@
 # vellvm/vellvm
 
-[![Stars](https://img.shields.io/github/stars/vellvm/vellvm?style=flat-square&color=yellow)](https://github.com/vellvm/vellvm/stargazers) [![Forks](https://img.shields.io/github/forks/vellvm/vellvm?style=flat-square&color=blue)](https://github.com/vellvm/vellvm/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vellvm/vellvm?style=flat-square&color=yellow)](https://github.com/vellvm/vellvm/stargazers) [![Forks](https://img.shields.io/github/forks/vellvm/vellvm?style=flat-square&color=blue)](https://github.com/vellvm/vellvm/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > The Vellvm (Verified LLVM) coq development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 485 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | LLVM |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-17 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ vellvm/vellvm 的生产可用性为 Medium，适合用于原型或内部工作�
 | forks | 41/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

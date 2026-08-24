@@ -1,6 +1,6 @@
 # tripolskypetr/backtest-kit
 
-[![Stars](https://img.shields.io/github/stars/tripolskypetr/backtest-kit?style=flat-square&color=yellow)](https://github.com/tripolskypetr/backtest-kit/stargazers) [![Forks](https://img.shields.io/github/forks/tripolskypetr/backtest-kit?style=flat-square&color=blue)](https://github.com/tripolskypetr/backtest-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tripolskypetr/backtest-kit?style=flat-square&color=yellow)](https://github.com/tripolskypetr/backtest-kit/stargazers) [![Forks](https://img.shields.io/github/forks/tripolskypetr/backtest-kit?style=flat-square&color=blue)](https://github.com/tripolskypetr/backtest-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Engine for live-trading and backtesting strategies with clean architecture and real-time execution capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-04 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · DevTools
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ tripolskypetr/backtest-kit 的主要价值在于其清晰的架构和实时执�
 | forks | 32/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 60/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

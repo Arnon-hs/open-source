@@ -1,6 +1,6 @@
 # owncloud/core
 
-[![Stars](https://img.shields.io/github/stars/owncloud/core?style=flat-square&color=yellow)](https://github.com/owncloud/core/stargazers) [![Forks](https://img.shields.io/github/forks/owncloud/core?style=flat-square&color=blue)](https://github.com/owncloud/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owncloud/core?style=flat-square&color=yellow)](https://github.com/owncloud/core/stargazers) [![Forks](https://img.shields.io/github/forks/owncloud/core?style=flat-square&color=blue)](https://github.com/owncloud/core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > :cloud: ownCloud web server core (Files, DAV, etc.)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ owncloud/core 在生产环境中具有较高的可用性，因为它有强烈的
 | forks | 83/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

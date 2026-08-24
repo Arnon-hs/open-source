@@ -1,6 +1,6 @@
 # barvhaim/HoneyMCP
 
-[![Stars](https://img.shields.io/github/stars/barvhaim/HoneyMCP?style=flat-square&color=yellow)](https://github.com/barvhaim/HoneyMCP/stargazers) [![Forks](https://img.shields.io/github/forks/barvhaim/HoneyMCP?style=flat-square&color=blue)](https://github.com/barvhaim/HoneyMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barvhaim/HoneyMCP?style=flat-square&color=yellow)](https://github.com/barvhaim/HoneyMCP/stargazers) [![Forks](https://img.shields.io/github/forks/barvhaim/HoneyMCP?style=flat-square&color=blue)](https://github.com/barvhaim/HoneyMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Deception Security Layer for MCP Servers. It injects "ghost tools" (fake security-sensitive tools) that act as honeypots.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-02 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ HoneyMCP 的生产可用性为中等。它适合用于原型或内部工作流�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 46/100 |
+| recency | 60/100 |
 | adoption | 24/100 |
-| production | 70/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

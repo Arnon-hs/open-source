@@ -1,6 +1,6 @@
 # 5uck1ess/cicero
 
-[![Stars](https://img.shields.io/github/stars/5uck1ess/cicero?style=flat-square&color=yellow)](https://github.com/5uck1ess/cicero/stargazers) [![Forks](https://img.shields.io/github/forks/5uck1ess/cicero?style=flat-square&color=blue)](https://github.com/5uck1ess/cicero/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/5uck1ess/cicero?style=flat-square&color=yellow)](https://github.com/5uck1ess/cicero/stargazers) [![Forks](https://img.shields.io/github/forks/5uck1ess/cicero?style=flat-square&color=blue)](https://github.com/5uck1ess/cicero/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted voice for coding agents. Talk from any browser or a Telegram call, interrupt mid-sentence, clone any voice, and hand real work to agents that ship PRs. Local STT/TTS; real-time voice client for ACP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ To adopt Cicero, developers can follow these steps:
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

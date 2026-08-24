@@ -1,6 +1,6 @@
 # laolaoshiren/claude-code-skills-zh
 
-[![Stars](https://img.shields.io/github/stars/laolaoshiren/claude-code-skills-zh?style=flat-square&color=yellow)](https://github.com/laolaoshiren/claude-code-skills-zh/stargazers) [![Forks](https://img.shields.io/github/forks/laolaoshiren/claude-code-skills-zh?style=flat-square&color=blue)](https://github.com/laolaoshiren/claude-code-skills-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laolaoshiren/claude-code-skills-zh?style=flat-square&color=yellow)](https://github.com/laolaoshiren/claude-code-skills-zh/stargazers) [![Forks](https://img.shields.io/github/forks/laolaoshiren/claude-code-skills-zh?style=flat-square&color=blue)](https://github.com/laolaoshiren/claude-code-skills-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🛠️ 最实用的 Claude Code Skills 合集 | 精选 100+ | 18个原创可安装技能 | 按场景分类 | 复制即装
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ laolaoshiren/claude-code-skills-zh 是一套面向中文开发者的 Claude Code
 | forks | 40/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -21,61 +21,56 @@
 
 ## 🎯 Categories
 
-MCP · Security · AI Agents · Developer Tools · CI/CD · JSON-RPC
+MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
 ### English
 
-royalpinto007/mcp-audit: royalpinto007/mcp-audit helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+royalpinto007/mcp-audit: . Use it for MCP, AI/ML, DevTools, Security. 
 
 ### Русский
 
-royalpinto007/mcp-audit: open-source проект в категориях MCP, Security, AI Agents, Developer Tools, CI/CD, JSON-RPC. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+royalpinto007/mcp-audit: open-source проект в категориях MCP, AI/ML, DevTools, Security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-royalpinto007/mcp-audit：royalpinto007/mcp-audit helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+royalpinto007/mcp-audit：。适合用于MCP、AI/ML、DevTools、Security。
 
 ## 🧭 Practical evaluation
 
-**Value:** royalpinto007/mcp-audit helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 3 forks
-- updated 2026-08-16
-- primary language: TypeScript
-- 7 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 46/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 60/100 |
-| adoption | 4/100 |
-| categoryMatchCount | 600/100 |
-| stars | 0/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 88/100 |
+| outlook | 60/100 |
+| quality | 46/100 |
+| recency | 80/100 |
+| adoption | 4/100 |
+| production | 61/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

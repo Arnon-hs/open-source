@@ -1,6 +1,6 @@
 # Gennadiyev/STS2MCP
 
-[![Stars](https://img.shields.io/github/stars/Gennadiyev/STS2MCP?style=flat-square&color=yellow)](https://github.com/Gennadiyev/STS2MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Gennadiyev/STS2MCP?style=flat-square&color=blue)](https://github.com/Gennadiyev/STS2MCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gennadiyev/STS2MCP?style=flat-square&color=yellow)](https://github.com/Gennadiyev/STS2MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Gennadiyev/STS2MCP?style=flat-square&color=blue)](https://github.com/Gennadiyev/STS2MCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Full agentic runs for Slay the Spire 2. A mod that exposes in-game state, and the MCP server for the mod.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,14 +122,15 @@ Gennadiyev/STS2MCP 是为《Slay the Spire 2》提供全自动化运行的插件
 | forks | 44/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

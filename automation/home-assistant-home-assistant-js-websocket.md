@@ -1,6 +1,6 @@
 # home-assistant/home-assistant-js-websocket
 
-[![Stars](https://img.shields.io/github/stars/home-assistant/home-assistant-js-websocket?style=flat-square&color=yellow)](https://github.com/home-assistant/home-assistant-js-websocket/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/home-assistant-js-websocket?style=flat-square&color=blue)](https://github.com/home-assistant/home-assistant-js-websocket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-assistant/home-assistant-js-websocket?style=flat-square&color=yellow)](https://github.com/home-assistant/home-assistant-js-websocket/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/home-assistant-js-websocket?style=flat-square&color=blue)](https://github.com/home-assistant/home-assistant-js-websocket/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > :aerial_tramway: JavaScript websocket client for Home Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 405 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools
+Automation
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ home-assistant/home-assistant-js-websocket 是一个开源项目，提供了一�
 | forks | 51/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 64/100 |
+| recency | 60/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

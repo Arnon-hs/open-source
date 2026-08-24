@@ -1,6 +1,6 @@
 # Trendyol/stove
 
-[![Stars](https://img.shields.io/github/stars/Trendyol/stove?style=flat-square&color=yellow)](https://github.com/Trendyol/stove/stargazers) [![Forks](https://img.shields.io/github/forks/Trendyol/stove?style=flat-square&color=blue)](https://github.com/Trendyol/stove/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Trendyol/stove?style=flat-square&color=yellow)](https://github.com/Trendyol/stove/stargazers) [![Forks](https://img.shields.io/github/forks/Trendyol/stove?style=flat-square&color=blue)](https://github.com/Trendyol/stove/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Stove: The easiest way of writing e2e/component tests for your JVM back-end app with Kotlin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Trendyol/stove 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 34/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

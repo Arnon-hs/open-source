@@ -1,6 +1,6 @@
 # rvagg/github-webhook-handler
 
-[![Stars](https://img.shields.io/github/stars/rvagg/github-webhook-handler?style=flat-square&color=yellow)](https://github.com/rvagg/github-webhook-handler/stargazers) [![Forks](https://img.shields.io/github/forks/rvagg/github-webhook-handler?style=flat-square&color=blue)](https://github.com/rvagg/github-webhook-handler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rvagg/github-webhook-handler?style=flat-square&color=yellow)](https://github.com/rvagg/github-webhook-handler/stargazers) [![Forks](https://img.shields.io/github/forks/rvagg/github-webhook-handler?style=flat-square&color=blue)](https://github.com/rvagg/github-webhook-handler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js web handler / middleware for processing GitHub Webhooks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 794 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ rvagg/github-webhook-handler 的生产可用性为中等（Medium）。它适合
 | forks | 52/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

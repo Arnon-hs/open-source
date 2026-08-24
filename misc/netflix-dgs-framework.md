@@ -1,6 +1,6 @@
 # Netflix/dgs-framework
 
-[![Stars](https://img.shields.io/github/stars/Netflix/dgs-framework?style=flat-square&color=yellow)](https://github.com/Netflix/dgs-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Netflix/dgs-framework?style=flat-square&color=blue)](https://github.com/Netflix/dgs-framework/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Netflix/dgs-framework?style=flat-square&color=yellow)](https://github.com/Netflix/dgs-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Netflix/dgs-framework?style=flat-square&color=blue)](https://github.com/Netflix/dgs-framework/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > GraphQL for Java with Spring Boot made easy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Netflix/dgs-framework 的生产可用性为中等，适合用于 prototyping 或
 | forks | 63/100 |
 | stars | 75/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 60/100 |
 | adoption | 72/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

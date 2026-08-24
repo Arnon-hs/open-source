@@ -1,6 +1,6 @@
 # calliope-project/calliope
 
-[![Stars](https://img.shields.io/github/stars/calliope-project/calliope?style=flat-square&color=yellow)](https://github.com/calliope-project/calliope/stargazers) [![Forks](https://img.shields.io/github/forks/calliope-project/calliope?style=flat-square&color=blue)](https://github.com/calliope-project/calliope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calliope-project/calliope?style=flat-square&color=yellow)](https://github.com/calliope-project/calliope/stargazers) [![Forks](https://img.shields.io/github/forks/calliope-project/calliope?style=flat-square&color=blue)](https://github.com/calliope-project/calliope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-scale energy systems modelling framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ calliope-project/calliope 可以在以下场景中发挥作用：
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

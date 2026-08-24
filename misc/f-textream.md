@@ -1,6 +1,6 @@
 # f/textream
 
-[![Stars](https://img.shields.io/github/stars/f/textream?style=flat-square&color=yellow)](https://github.com/f/textream/stargazers) [![Forks](https://img.shields.io/github/forks/f/textream?style=flat-square&color=blue)](https://github.com/f/textream/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f/textream?style=flat-square&color=yellow)](https://github.com/f/textream/stargazers) [![Forks](https://img.shields.io/github/forks/f/textream?style=flat-square&color=blue)](https://github.com/f/textream/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-08 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ f/textream 是一个免费的 macOS 电子滚动器应用，专为直播主、�
 | forks | 60/100 |
 | stars | 75/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 60/100 |
 | adoption | 71/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

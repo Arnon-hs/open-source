@@ -1,6 +1,6 @@
 # jakubtomsu/awesome-odin
 
-[![Stars](https://img.shields.io/github/stars/jakubtomsu/awesome-odin?style=flat-square&color=yellow)](https://github.com/jakubtomsu/awesome-odin/stargazers) [![Forks](https://img.shields.io/github/forks/jakubtomsu/awesome-odin?style=flat-square&color=blue)](https://github.com/jakubtomsu/awesome-odin/network) [![Language](https://img.shields.io/badge/lang-Odin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jakubtomsu/awesome-odin?style=flat-square&color=yellow)](https://github.com/jakubtomsu/awesome-odin/stargazers) [![Forks](https://img.shields.io/github/forks/jakubtomsu/awesome-odin?style=flat-square&color=blue)](https://github.com/jakubtomsu/awesome-odin/network) [![Language](https://img.shields.io/badge/lang-Odin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 937 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Odin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ With these steps, `awesome-odin` can become a reliable foundation for Odin‑bas
 | forks | 42/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

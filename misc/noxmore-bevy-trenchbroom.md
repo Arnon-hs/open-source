@@ -1,6 +1,6 @@
 # Noxmore/bevy_trenchbroom
 
-[![Stars](https://img.shields.io/github/stars/Noxmore/bevy_trenchbroom?style=flat-square&color=yellow)](https://github.com/Noxmore/bevy_trenchbroom/stargazers) [![Forks](https://img.shields.io/github/forks/Noxmore/bevy_trenchbroom?style=flat-square&color=blue)](https://github.com/Noxmore/bevy_trenchbroom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Noxmore/bevy_trenchbroom?style=flat-square&color=yellow)](https://github.com/Noxmore/bevy_trenchbroom/stargazers) [![Forks](https://img.shields.io/github/forks/Noxmore/bevy_trenchbroom?style=flat-square&color=blue)](https://github.com/Noxmore/bevy_trenchbroom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > TrenchBroom integration, .map, and .bsp loading for Bevy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -135,14 +135,15 @@ Overall, *bevy_trenchbroom* offers a practical bridge between TrenchBroom level 
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

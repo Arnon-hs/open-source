@@ -1,6 +1,6 @@
 # heng1234/claude-web
 
-[![Stars](https://img.shields.io/github/stars/heng1234/claude-web?style=flat-square&color=yellow)](https://github.com/heng1234/claude-web/stargazers) [![Forks](https://img.shields.io/github/forks/heng1234/claude-web?style=flat-square&color=blue)](https://github.com/heng1234/claude-web/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heng1234/claude-web?style=flat-square&color=yellow)](https://github.com/heng1234/claude-web/stargazers) [![Forks](https://img.shields.io/github/forks/heng1234/claude-web?style=flat-square&color=blue)](https://github.com/heng1234/claude-web/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI for Claude Code CLI - token streaming, tool visualization, checkpoint, multi-session management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ heng1234/claude-web 是一个基于 Claude Code CLI 的 Web UI，支持 token �
 | forks | 25/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

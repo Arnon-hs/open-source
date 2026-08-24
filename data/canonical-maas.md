@@ -1,6 +1,6 @@
 # canonical/maas
 
-[![Stars](https://img.shields.io/github/stars/canonical/maas?style=flat-square&color=yellow)](https://github.com/canonical/maas/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/maas?style=flat-square&color=blue)](https://github.com/canonical/maas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canonical/maas?style=flat-square&color=yellow)](https://github.com/canonical/maas/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/maas?style=flat-square&color=blue)](https://github.com/canonical/maas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Official MAAS repository. Bugs are tracked on Launchpad: https://bugs.launchpad.net/maas
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ canonical/maas 是 MAAS（Metal‑as‑a‑Service）的官方代码库，提供
 | forks | 55/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

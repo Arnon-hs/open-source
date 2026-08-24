@@ -1,6 +1,6 @@
 # FrancyJGLisboa/agent-skill-creator
 
-[![Stars](https://img.shields.io/github/stars/FrancyJGLisboa/agent-skill-creator?style=flat-square&color=yellow)](https://github.com/FrancyJGLisboa/agent-skill-creator/stargazers) [![Forks](https://img.shields.io/github/forks/FrancyJGLisboa/agent-skill-creator?style=flat-square&color=blue)](https://github.com/FrancyJGLisboa/agent-skill-creator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FrancyJGLisboa/agent-skill-creator?style=flat-square&color=yellow)](https://github.com/FrancyJGLisboa/agent-skill-creator/stargazers) [![Forks](https://img.shields.io/github/forks/FrancyJGLisboa/agent-skill-creator?style=flat-square&color=blue)](https://github.com/FrancyJGLisboa/agent-skill-creator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any workflow into reusable AI agent skills that install on 17 platforms — Claude Code, Copilot, Cursor, Windsurf, Codex, Gemini, Kiro, and more. One SKILL.md, every platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Database
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ FrancyJGLisboa/agent-skill-creator 的生产可用性为中等。它适用于原
 | forks | 59/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

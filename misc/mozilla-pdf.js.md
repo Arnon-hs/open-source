@@ -1,6 +1,6 @@
 # mozilla/pdf.js
 
-[![Stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=flat-square&color=yellow)](https://github.com/mozilla/pdf.js/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/pdf.js?style=flat-square&color=blue)](https://github.com/mozilla/pdf.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=flat-square&color=yellow)](https://github.com/mozilla/pdf.js/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/pdf.js?style=flat-square&color=blue)](https://github.com/mozilla/pdf.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > PDF Reader in JavaScript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53.7k |
 | 🍴 **Forks** | 10.6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-31 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ mozilla/pdf.js 的生产可用性很高，因为它有强大的社区支持、�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 100/100 |
-| production | 76/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

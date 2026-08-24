@@ -1,6 +1,6 @@
 # sohaha/zlsgo
 
-[![Stars](https://img.shields.io/github/stars/sohaha/zlsgo?style=flat-square&color=yellow)](https://github.com/sohaha/zlsgo/stargazers) [![Forks](https://img.shields.io/github/forks/sohaha/zlsgo?style=flat-square&color=blue)](https://github.com/sohaha/zlsgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sohaha/zlsgo?style=flat-square&color=yellow)](https://github.com/sohaha/zlsgo/stargazers) [![Forks](https://img.shields.io/github/forks/sohaha/zlsgo?style=flat-square&color=blue)](https://github.com/sohaha/zlsgo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 简单易用、足够轻量、性能好的 Golang 库 - Easy to use, light enough, good performance Golang library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ sohaha/zlsgo 具有高生产可用性，理由如下：
 | forks | 44/100 |
 | stars | 64/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

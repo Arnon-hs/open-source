@@ -1,6 +1,6 @@
 # Uniswap/interface
 
-[![Stars](https://img.shields.io/github/stars/Uniswap/interface?style=flat-square&color=yellow)](https://github.com/Uniswap/interface/stargazers) [![Forks](https://img.shields.io/github/forks/Uniswap/interface?style=flat-square&color=blue)](https://github.com/Uniswap/interface/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Uniswap/interface?style=flat-square&color=yellow)](https://github.com/Uniswap/interface/stargazers) [![Forks](https://img.shields.io/github/forks/Uniswap/interface?style=flat-square&color=blue)](https://github.com/Uniswap/interface/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🦄 Open source interfaces for the Uniswap protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Uniswap/interface 的生产可用性很高，因为它有强大的生态系统�
 | forks | 93/100 |
 | stars | 80/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

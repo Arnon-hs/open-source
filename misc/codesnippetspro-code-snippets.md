@@ -1,6 +1,6 @@
 # codesnippetspro/code-snippets
 
-[![Stars](https://img.shields.io/github/stars/codesnippetspro/code-snippets?style=flat-square&color=yellow)](https://github.com/codesnippetspro/code-snippets/stargazers) [![Forks](https://img.shields.io/github/forks/codesnippetspro/code-snippets?style=flat-square&color=blue)](https://github.com/codesnippetspro/code-snippets/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codesnippetspro/code-snippets?style=flat-square&color=yellow)](https://github.com/codesnippetspro/code-snippets/stargazers) [![Forks](https://img.shields.io/github/forks/codesnippetspro/code-snippets?style=flat-square&color=blue)](https://github.com/codesnippetspro/code-snippets/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Code Snippets WordPress Plugin
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-20 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Code Snippets WordPress 插件的价值在于，它可以帮助开发者快速�
 | forks | 51/100 |
 | stars | 54/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

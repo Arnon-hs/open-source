@@ -1,6 +1,6 @@
 # overmind1980/oeasy-linux-tutorial
 
-[![Stars](https://img.shields.io/github/stars/overmind1980/oeasy-linux-tutorial?style=flat-square&color=yellow)](https://github.com/overmind1980/oeasy-linux-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/overmind1980/oeasy-linux-tutorial?style=flat-square&color=blue)](https://github.com/overmind1980/oeasy-linux-tutorial/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/overmind1980/oeasy-linux-tutorial?style=flat-square&color=yellow)](https://github.com/overmind1980/oeasy-linux-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/overmind1980/oeasy-linux-tutorial?style=flat-square&color=blue)](https://github.com/overmind1980/oeasy-linux-tutorial/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > oeasy教您玩转linux教程。从命令行零基础 入门。逐个介绍LINUX查看系统版本、常用命令、基础知识、涵盖多种命令与原理。带您玩转linux的世界。😄
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Database · Education
+Database
 
 ## 📝 Summary
 
@@ -67,14 +67,15 @@ overmind1980/oeasy-linux-tutorial：overmind1980/oeasy-linux-tutorial helps team
 | forks | 42/100 |
 | stars | 42/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 65/100 |
+| recency | 80/100 |
 | adoption | 42/100 |
-| production | 71/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

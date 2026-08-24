@@ -1,6 +1,6 @@
 # Greedysky/TTKWidgetTools
 
-[![Stars](https://img.shields.io/github/stars/Greedysky/TTKWidgetTools?style=flat-square&color=yellow)](https://github.com/Greedysky/TTKWidgetTools/stargazers) [![Forks](https://img.shields.io/github/forks/Greedysky/TTKWidgetTools?style=flat-square&color=blue)](https://github.com/Greedysky/TTKWidgetTools/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Greedysky/TTKWidgetTools?style=flat-square&color=yellow)](https://github.com/Greedysky/TTKWidgetTools/stargazers) [![Forks](https://img.shields.io/github/forks/Greedysky/TTKWidgetTools?style=flat-square&color=blue)](https://github.com/Greedysky/TTKWidgetTools/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > QWidget 自定义控件集合  持续更新中......
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Greedysky/TTKWidgetTools 可能在以下场景中有用：
 | forks | 58/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 80/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

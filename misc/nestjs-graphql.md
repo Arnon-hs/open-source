@@ -1,6 +1,6 @@
 # nestjs/graphql
 
-[![Stars](https://img.shields.io/github/stars/nestjs/graphql?style=flat-square&color=yellow)](https://github.com/nestjs/graphql/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/graphql?style=flat-square&color=blue)](https://github.com/nestjs/graphql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nestjs/graphql?style=flat-square&color=yellow)](https://github.com/nestjs/graphql/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/graphql?style=flat-square&color=blue)](https://github.com/nestjs/graphql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > GraphQL (TypeScript) module for Nest framework (node.js) 🍷
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 430 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ NestJS GraphQL 的生产可用性较高，主要原因是：
 | forks | 66/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 60/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

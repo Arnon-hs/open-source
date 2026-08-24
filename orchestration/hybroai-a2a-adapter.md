@@ -1,6 +1,6 @@
 # hybroai/a2a-adapter
 
-[![Stars](https://img.shields.io/github/stars/hybroai/a2a-adapter?style=flat-square&color=yellow)](https://github.com/hybroai/a2a-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/hybroai/a2a-adapter?style=flat-square&color=blue)](https://github.com/hybroai/a2a-adapter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hybroai/a2a-adapter?style=flat-square&color=yellow)](https://github.com/hybroai/a2a-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/hybroai/a2a-adapter?style=flat-square&color=blue)](https://github.com/hybroai/a2a-adapter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source A2A Protocol Adapter SDK for Different Agent Frameworks and Harnesses
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ hybroai/a2a-adapter：hybroai/a2a-adapter helps turn isolated prompts and tools 
 | forks | 27/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 67/100 |
+| recency | 80/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 71/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

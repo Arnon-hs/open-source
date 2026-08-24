@@ -1,6 +1,6 @@
 # Vigil-SOC/vigil
 
-[![Stars](https://img.shields.io/github/stars/Vigil-SOC/vigil?style=flat-square&color=yellow)](https://github.com/Vigil-SOC/vigil/stargazers) [![Forks](https://img.shields.io/github/forks/Vigil-SOC/vigil?style=flat-square&color=blue)](https://github.com/Vigil-SOC/vigil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vigil-SOC/vigil?style=flat-square&color=yellow)](https://github.com/Vigil-SOC/vigil/stargazers) [![Forks](https://img.shields.io/github/forks/Vigil-SOC/vigil?style=flat-square&color=blue)](https://github.com/Vigil-SOC/vigil/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Vigil - an ever improving 100% OpenSource AI system for security
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-30 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Vigil 的生产可用性非常高，主要原因包括：
 | forks | 45/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

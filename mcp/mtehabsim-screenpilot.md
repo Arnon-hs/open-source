@@ -1,6 +1,6 @@
 # Mtehabsim/ScreenPilot
 
-[![Stars](https://img.shields.io/github/stars/Mtehabsim/ScreenPilot?style=flat-square&color=yellow)](https://github.com/Mtehabsim/ScreenPilot/stargazers) [![Forks](https://img.shields.io/github/forks/Mtehabsim/ScreenPilot?style=flat-square&color=blue)](https://github.com/Mtehabsim/ScreenPilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mtehabsim/ScreenPilot?style=flat-square&color=yellow)](https://github.com/Mtehabsim/ScreenPilot/stargazers) [![Forks](https://img.shields.io/github/forks/Mtehabsim/ScreenPilot?style=flat-square&color=blue)](https://github.com/Mtehabsim/ScreenPilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Tool that allows the AI to control your device in the same way you do, enabling automation for everything!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Mtehabsim/ScreenPilot的生产可用性为中等（Medium）。它适用于原�
 | forks | 25/100 |
 | stars | 37/100 |
 | topics | 25/100 |
-| outlook | 74/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rekog-labs/MCP-Nest
 
-[![Stars](https://img.shields.io/github/stars/rekog-labs/MCP-Nest?style=flat-square&color=yellow)](https://github.com/rekog-labs/MCP-Nest/stargazers) [![Forks](https://img.shields.io/github/forks/rekog-labs/MCP-Nest?style=flat-square&color=blue)](https://github.com/rekog-labs/MCP-Nest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rekog-labs/MCP-Nest?style=flat-square&color=yellow)](https://github.com/rekog-labs/MCP-Nest/stargazers) [![Forks](https://img.shields.io/github/forks/rekog-labs/MCP-Nest?style=flat-square&color=blue)](https://github.com/rekog-labs/MCP-Nest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A NestJS module to effortlessly create Model Context Protocol (MCP) servers for exposing AI tools, resources, and prompts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ rekog-labs/MCP-Nest 的生产可用性很高，因为它有：
 | forks | 51/100 |
 | stars | 60/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

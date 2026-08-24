@@ -1,6 +1,6 @@
 # hjerpbakk/OpenFolderInVSCode
 
-[![Stars](https://img.shields.io/github/stars/hjerpbakk/OpenFolderInVSCode?style=flat-square&color=yellow)](https://github.com/hjerpbakk/OpenFolderInVSCode/stargazers) [![Forks](https://img.shields.io/github/forks/hjerpbakk/OpenFolderInVSCode?style=flat-square&color=blue)](https://github.com/hjerpbakk/OpenFolderInVSCode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hjerpbakk/OpenFolderInVSCode?style=flat-square&color=yellow)](https://github.com/hjerpbakk/OpenFolderInVSCode/stargazers) [![Forks](https://img.shields.io/github/forks/hjerpbakk/OpenFolderInVSCode?style=flat-square&color=blue)](https://github.com/hjerpbakk/OpenFolderInVSCode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-21 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevTools · Product
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ hjerpbakk/OpenFolderInVSCode 是一个 macOS 服务，允许从 Finder 的上下
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

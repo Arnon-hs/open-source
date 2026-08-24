@@ -1,6 +1,6 @@
 # hexlet-basics/hexlet-basics
 
-[![Stars](https://img.shields.io/github/stars/hexlet-basics/hexlet-basics?style=flat-square&color=yellow)](https://github.com/hexlet-basics/hexlet-basics/stargazers) [![Forks](https://img.shields.io/github/forks/hexlet-basics/hexlet-basics?style=flat-square&color=blue)](https://github.com/hexlet-basics/hexlet-basics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexlet-basics/hexlet-basics?style=flat-square&color=yellow)](https://github.com/hexlet-basics/hexlet-basics/stargazers) [![Forks](https://img.shields.io/github/forks/hexlet-basics/hexlet-basics?style=flat-square&color=blue)](https://github.com/hexlet-basics/hexlet-basics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive Programming Courses
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 515 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ hexlet-basics/hexlet-basics 是一个基于 TypeScript 的交互式编程课程�
 | forks | 50/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

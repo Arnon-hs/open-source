@@ -1,6 +1,6 @@
 # jupyter/notebook
 
-[![Stars](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&color=yellow)](https://github.com/jupyter/notebook/stargazers) [![Forks](https://img.shields.io/github/forks/jupyter/notebook?style=flat-square&color=blue)](https://github.com/jupyter/notebook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&color=yellow)](https://github.com/jupyter/notebook/stargazers) [![Forks](https://img.shields.io/github/forks/jupyter/notebook?style=flat-square&color=blue)](https://github.com/jupyter/notebook/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Jupyter Interactive Notebook
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.3k |
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-17 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ jupyter/notebook：jupyter/notebook may be useful when its README and activity m
 | forks | 94/100 |
 | stars | 88/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 83/100 |
+| recency | 80/100 |
 | adoption | 90/100 |
-| production | 77/100 |
+| production | 70/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

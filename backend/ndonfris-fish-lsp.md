@@ -1,6 +1,6 @@
 # ndonfris/fish-lsp
 
-[![Stars](https://img.shields.io/github/stars/ndonfris/fish-lsp?style=flat-square&color=yellow)](https://github.com/ndonfris/fish-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/ndonfris/fish-lsp?style=flat-square&color=blue)](https://github.com/ndonfris/fish-lsp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ndonfris/fish-lsp?style=flat-square&color=yellow)](https://github.com/ndonfris/fish-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/ndonfris/fish-lsp?style=flat-square&color=blue)](https://github.com/ndonfris/fish-lsp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > LSP implementation for the fish shell language  🐠
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Overall, `fish-lsp` is a production‑ready OSS component that can be piloted qu
 | forks | 28/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tobiasehlert/teslamateapi
 
-[![Stars](https://img.shields.io/github/stars/tobiasehlert/teslamateapi?style=flat-square&color=yellow)](https://github.com/tobiasehlert/teslamateapi/stargazers) [![Forks](https://img.shields.io/github/forks/tobiasehlert/teslamateapi?style=flat-square&color=blue)](https://github.com/tobiasehlert/teslamateapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tobiasehlert/teslamateapi?style=flat-square&color=yellow)](https://github.com/tobiasehlert/teslamateapi/stargazers) [![Forks](https://img.shields.io/github/forks/tobiasehlert/teslamateapi?style=flat-square&color=blue)](https://github.com/tobiasehlert/teslamateapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > TeslaMateApi is a RESTful API to get data collected by self-hosted data logger TeslaMate in JSON.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 231 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ TeslaMateApi 是一个基于 Go 实现的 RESTful 接口，能够以 JSON 格式
 | forks | 41/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

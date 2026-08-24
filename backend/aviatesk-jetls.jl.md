@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Julia |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend
 
 ## 📝 Summary
 
@@ -76,6 +76,7 @@ aviatesk/JETLS.jl：aviatesk/JETLS.jl helps teams reuse service infrastructure i
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

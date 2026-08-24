@@ -1,6 +1,6 @@
 # outlmd/outl
 
-[![Stars](https://img.shields.io/github/stars/outlmd/outl?style=flat-square&color=yellow)](https://github.com/outlmd/outl/stargazers) [![Forks](https://img.shields.io/github/forks/outlmd/outl?style=flat-square&color=blue)](https://github.com/outlmd/outl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/outlmd/outl?style=flat-square&color=yellow)](https://github.com/outlmd/outl/stargazers) [![Forks](https://img.shields.io/github/forks/outlmd/outl?style=flat-square&color=blue)](https://github.com/outlmd/outl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first outliner. Markdown is the source of truth. Sync that doesn't corrupt your tree when two devices edit offline
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ outlmd/outl 的生产可用性为中等：它适合用于原型或内部工作�
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 40/100 |
-| production | 68/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # qntx/x402-openai-typescript
 
-[![Stars](https://img.shields.io/github/stars/qntx/x402-openai-typescript?style=flat-square&color=yellow)](https://github.com/qntx/x402-openai-typescript/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/x402-openai-typescript?style=flat-square&color=blue)](https://github.com/qntx/x402-openai-typescript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qntx/x402-openai-typescript?style=flat-square&color=yellow)](https://github.com/qntx/x402-openai-typescript/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/x402-openai-typescript?style=flat-square&color=blue)](https://github.com/qntx/x402-openai-typescript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-in OpenAI Typescript client with transparent x402 payment support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML · DevTools
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ qntx/x402-openai-typescript 是一个开源项目，提供了一个透明的 x40
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 80/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 69/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

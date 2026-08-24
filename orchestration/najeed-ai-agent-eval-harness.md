@@ -1,6 +1,6 @@
 # najeed/ai-agent-eval-harness
 
-[![Stars](https://img.shields.io/github/stars/najeed/ai-agent-eval-harness?style=flat-square&color=yellow)](https://github.com/najeed/ai-agent-eval-harness/stargazers) [![Forks](https://img.shields.io/github/forks/najeed/ai-agent-eval-harness?style=flat-square&color=blue)](https://github.com/najeed/ai-agent-eval-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/najeed/ai-agent-eval-harness?style=flat-square&color=yellow)](https://github.com/najeed/ai-agent-eval-harness/stargazers) [![Forks](https://img.shields.io/github/forks/najeed/ai-agent-eval-harness?style=flat-square&color=blue)](https://github.com/najeed/ai-agent-eval-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source MultiAgentOps evaluation and verification harness for any industry business workflow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Data
+Orchestration · Automation · AI/ML · Data · Observability
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ najeed/ai-agent-eval-harness 的生产可用性为中等。它适合用于原型
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 58/100 |
+| recency | 60/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

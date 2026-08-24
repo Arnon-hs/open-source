@@ -1,6 +1,6 @@
 # shixinnt/codex-image-context-runtime
 
-[![Stars](https://img.shields.io/github/stars/shixinnt/codex-image-context-runtime?style=flat-square&color=yellow)](https://github.com/shixinnt/codex-image-context-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/shixinnt/codex-image-context-runtime?style=flat-square&color=blue)](https://github.com/shixinnt/codex-image-context-runtime/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shixinnt/codex-image-context-runtime?style=flat-square&color=yellow)](https://github.com/shixinnt/codex-image-context-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/shixinnt/codex-image-context-runtime?style=flat-square&color=blue)](https://github.com/shixinnt/codex-image-context-runtime/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A Codex plugin and local MCP runtime for context-bounded image generation and inspection.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ shixinnt/codex-image-context-runtime 是一个用于上下文约束图像生成�
 | forks | 0/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 64/100 |
+| recency | 80/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 68/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

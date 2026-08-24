@@ -1,6 +1,6 @@
 # artokun/comfyui-mcp-panel
 
-[![Stars](https://img.shields.io/github/stars/artokun/comfyui-mcp-panel?style=flat-square&color=yellow)](https://github.com/artokun/comfyui-mcp-panel/stargazers) [![Forks](https://img.shields.io/github/forks/artokun/comfyui-mcp-panel?style=flat-square&color=blue)](https://github.com/artokun/comfyui-mcp-panel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artokun/comfyui-mcp-panel?style=flat-square&color=yellow)](https://github.com/artokun/comfyui-mcp-panel/stargazers) [![Forks](https://img.shields.io/github/forks/artokun/comfyui-mcp-panel?style=flat-square&color=blue)](https://github.com/artokun/comfyui-mcp-panel/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LLM costs). Drives your live graph: edits, workflows & installs in natural language. The panel UI for comfyui-mcp, the agent-native control plane for ComfyUI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · MCP · Automation · AI/ML · Frontend
+Payments · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ artokun/comfyui-mcp-panel 是一个本地第一侧边栏 AI 代理，专为 Comf
 | forks | 25/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

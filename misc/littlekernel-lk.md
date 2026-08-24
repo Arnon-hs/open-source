@@ -1,6 +1,6 @@
 # littlekernel/lk
 
-[![Stars](https://img.shields.io/github/stars/littlekernel/lk?style=flat-square&color=yellow)](https://github.com/littlekernel/lk/stargazers) [![Forks](https://img.shields.io/github/forks/littlekernel/lk?style=flat-square&color=blue)](https://github.com/littlekernel/lk/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/littlekernel/lk?style=flat-square&color=yellow)](https://github.com/littlekernel/lk/stargazers) [![Forks](https://img.shields.io/github/forks/littlekernel/lk?style=flat-square&color=blue)](https://github.com/littlekernel/lk/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > LK embedded kernel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 765 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-09 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ LK的生产可用性为中等。它适合用于内部开发和测试，或者作
 | forks | 72/100 |
 | stars | 76/100 |
 | topics | 25/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 60/100 |
 | adoption | 75/100 |
-| production | 73/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Arch1eSUN/Arcgentic
 
-[![Stars](https://img.shields.io/github/stars/Arch1eSUN/Arcgentic?style=flat-square&color=yellow)](https://github.com/Arch1eSUN/Arcgentic/stargazers) [![Forks](https://img.shields.io/github/forks/Arch1eSUN/Arcgentic?style=flat-square&color=blue)](https://github.com/Arch1eSUN/Arcgentic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arch1eSUN/Arcgentic?style=flat-square&color=yellow)](https://github.com/Arch1eSUN/Arcgentic/stargazers) [![Forks](https://img.shields.io/github/forks/Arch1eSUN/Arcgentic?style=flat-square&color=blue)](https://github.com/Arch1eSUN/Arcgentic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Mechanical plan/dev/self-audit/external-audit gates for AI coding agents, with a configurable role-routing topology engine, an MCP-UI live status panel, and native-tooling Claude Code V2 dispatch. Claude Code, Codex, OpenClaw, and PyPI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-08-12 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Arch1eSUN/Arcgentic 的价值在于，它帮助连接 AI 助手到实用工具�
 | forks | 0/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 60/100 |
+| recency | 80/100 |
 | adoption | 23/100 |
-| production | 76/100 |
+| production | 69/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

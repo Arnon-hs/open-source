@@ -1,6 +1,6 @@
 # ahujasid/blender-mcp
 
-[![Stars](https://img.shields.io/github/stars/ahujasid/blender-mcp?style=flat-square&color=yellow)](https://github.com/ahujasid/blender-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ahujasid/blender-mcp?style=flat-square&color=blue)](https://github.com/ahujasid/blender-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahujasid/blender-mcp?style=flat-square&color=yellow)](https://github.com/ahujasid/blender-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ahujasid/blender-mcp?style=flat-square&color=blue)](https://github.com/ahujasid/blender-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Community plugin to control Blender 3D with any LLM of your choice
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25.9k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-08-16 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ahujasid/blender-mcp 是一个开源项目，旨在通过标准协议连接 AI �
 | forks | 85/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 82/100 |
+| quality | 91/100 |
+| recency | 80/100 |
 | adoption | 91/100 |
-| production | 87/100 |
+| production | 80/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

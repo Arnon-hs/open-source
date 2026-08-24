@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | voxcpm |
 | 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-04-16 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | huggingface |
 
 ## 🏷️ Topics
@@ -104,6 +104,7 @@ openbmb/VoxCPM2 的生产可用性被评估为早期或不确定。使用该模�
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

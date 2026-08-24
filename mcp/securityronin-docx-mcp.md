@@ -1,6 +1,6 @@
 # SecurityRonin/docx-mcp
 
-[![Stars](https://img.shields.io/github/stars/SecurityRonin/docx-mcp?style=flat-square&color=yellow)](https://github.com/SecurityRonin/docx-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SecurityRonin/docx-mcp?style=flat-square&color=blue)](https://github.com/SecurityRonin/docx-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SecurityRonin/docx-mcp?style=flat-square&color=yellow)](https://github.com/SecurityRonin/docx-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SecurityRonin/docx-mcp?style=flat-square&color=blue)](https://github.com/SecurityRonin/docx-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for reading and editing Word (.docx) documents with track changes, comments, footnotes, and structural validation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-27 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ SecurityRonin/docx-mcp 的生产可用性为中等（Medium）。它适合用于
 | forks | 26/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 59/100 |
+| recency | 60/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

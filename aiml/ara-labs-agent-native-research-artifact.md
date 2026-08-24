@@ -1,6 +1,6 @@
 # ARA-Labs/Agent-Native-Research-Artifact
 
-[![Stars](https://img.shields.io/github/stars/ARA-Labs/Agent-Native-Research-Artifact?style=flat-square&color=yellow)](https://github.com/ARA-Labs/Agent-Native-Research-Artifact/stargazers) [![Forks](https://img.shields.io/github/forks/ARA-Labs/Agent-Native-Research-Artifact?style=flat-square&color=blue)](https://github.com/ARA-Labs/Agent-Native-Research-Artifact/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ARA-Labs/Agent-Native-Research-Artifact?style=flat-square&color=yellow)](https://github.com/ARA-Labs/Agent-Native-Research-Artifact/stargazers) [![Forks](https://img.shields.io/github/forks/ARA-Labs/Agent-Native-Research-Artifact?style=flat-square&color=blue)](https://github.com/ARA-Labs/Agent-Native-Research-Artifact/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A protocol that recasts the primary research object from narrative document to machine-executable knowledge package — so AI agents can navigate, reproduce, and extend published research without re-discovering every dead end.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ARA‑Labs/Agent‑Native‑Research‑Artifact 将科研成果从传统的文�
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

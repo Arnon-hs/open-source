@@ -1,6 +1,6 @@
 # Evolveum/midpoint
 
-[![Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=flat-square&color=yellow)](https://github.com/Evolveum/midpoint/stargazers) [![Forks](https://img.shields.io/github/forks/Evolveum/midpoint?style=flat-square&color=blue)](https://github.com/Evolveum/midpoint/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=flat-square&color=yellow)](https://github.com/Evolveum/midpoint/stargazers) [![Forks](https://img.shields.io/github/forks/Evolveum/midpoint?style=flat-square&color=blue)](https://github.com/Evolveum/midpoint/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Evolveum MidPoint: Identity Management (IDM) and Identity Governance (IGA)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Evolveum MidPoint 是一款基于 Java 的开源身份管理（IDM）和身份
 | forks | 59/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

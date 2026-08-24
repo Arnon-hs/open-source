@@ -1,6 +1,6 @@
 # vincentarelbundock/calepin
 
-[![Stars](https://img.shields.io/github/stars/vincentarelbundock/calepin?style=flat-square&color=yellow)](https://github.com/vincentarelbundock/calepin/stargazers) [![Forks](https://img.shields.io/github/forks/vincentarelbundock/calepin?style=flat-square&color=blue)](https://github.com/vincentarelbundock/calepin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincentarelbundock/calepin?style=flat-square&color=yellow)](https://github.com/vincentarelbundock/calepin/stargazers) [![Forks](https://img.shields.io/github/forks/vincentarelbundock/calepin?style=flat-square&color=blue)](https://github.com/vincentarelbundock/calepin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Computational notebooks in Typst
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-16 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ vincentarelbundock/calepin 的生产可用性被评估为中等（Medium）。�
 | forks | 19/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

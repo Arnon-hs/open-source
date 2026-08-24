@@ -1,6 +1,6 @@
 # tradingstrategy-ai/trading-strategy
 
-[![Stars](https://img.shields.io/github/stars/tradingstrategy-ai/trading-strategy?style=flat-square&color=yellow)](https://github.com/tradingstrategy-ai/trading-strategy/stargazers) [![Forks](https://img.shields.io/github/forks/tradingstrategy-ai/trading-strategy?style=flat-square&color=blue)](https://github.com/tradingstrategy-ai/trading-strategy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tradingstrategy-ai/trading-strategy?style=flat-square&color=yellow)](https://github.com/tradingstrategy-ai/trading-strategy/stargazers) [![Forks](https://img.shields.io/github/forks/tradingstrategy-ai/trading-strategy?style=flat-square&color=blue)](https://github.com/tradingstrategy-ai/trading-strategy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Python framework for quantitative financial analysis and trading algorithms on decentralised exchanges
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-18 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Automation · AI/ML
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ tradingstrategy-ai/trading-strategy 是一个用于量化金融分析和在去�
 | forks | 46/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

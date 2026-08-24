@@ -1,6 +1,6 @@
 # stenolabs/stenoai
 
-[![Stars](https://img.shields.io/github/stars/stenolabs/stenoai?style=flat-square&color=yellow)](https://github.com/stenolabs/stenoai/stargazers) [![Forks](https://img.shields.io/github/forks/stenolabs/stenoai?style=flat-square&color=blue)](https://github.com/stenolabs/stenoai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stenolabs/stenoai?style=flat-square&color=yellow)](https://github.com/stenolabs/stenoai/stargazers) [![Forks](https://img.shields.io/github/forks/stenolabs/stenoai?style=flat-square&color=blue)](https://github.com/stenolabs/stenoai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Steno is the highly secure privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. For government and defence sectors.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-03 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Steno 的生产可用性非常高。根据 GitHub 的信息，项目最近有活
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 73/100 |
+| recency | 60/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Canop/broot
 
-[![Stars](https://img.shields.io/github/stars/Canop/broot?style=flat-square&color=yellow)](https://github.com/Canop/broot/stargazers) [![Forks](https://img.shields.io/github/forks/Canop/broot?style=flat-square&color=blue)](https://github.com/Canop/broot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Canop/broot?style=flat-square&color=yellow)](https://github.com/Canop/broot/stargazers) [![Forks](https://img.shields.io/github/forks/Canop/broot?style=flat-square&color=blue)](https://github.com/Canop/broot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A new way to see and navigate directory trees : https://dystroy.org/broot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.7k |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ Canop/broot（broot）是一款用 Rust 编写的交互式文件树浏览器，�
 | forks | 62/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 80/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

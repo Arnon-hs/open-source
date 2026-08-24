@@ -1,6 +1,6 @@
 # enkryptai/secure-mcp-gateway
 
-[![Stars](https://img.shields.io/github/stars/enkryptai/secure-mcp-gateway?style=flat-square&color=yellow)](https://github.com/enkryptai/secure-mcp-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/enkryptai/secure-mcp-gateway?style=flat-square&color=blue)](https://github.com/enkryptai/secure-mcp-gateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enkryptai/secure-mcp-gateway?style=flat-square&color=yellow)](https://github.com/enkryptai/secure-mcp-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/enkryptai/secure-mcp-gateway?style=flat-square&color=blue)](https://github.com/enkryptai/secure-mcp-gateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Secure MCP Gateway - Setup Admin level gateway functionality for MCP servers - with guardrails at each MCP server to overcome multiple security issues with using MCPs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-08-19 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · AI/ML · Security
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ enkryptai/secure-mcp-gateway：enkryptai/secure-mcp-gateway helps connect AI ass
 | forks | 24/100 |
 | stars | 37/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 56/100 |
+| recency | 80/100 |
 | adoption | 34/100 |
-| production | 72/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

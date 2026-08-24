@@ -1,6 +1,6 @@
 # ontograph/ontoindex
 
-[![Stars](https://img.shields.io/github/stars/ontograph/ontoindex?style=flat-square&color=yellow)](https://github.com/ontograph/ontoindex/stargazers) [![Forks](https://img.shields.io/github/forks/ontograph/ontoindex?style=flat-square&color=blue)](https://github.com/ontograph/ontoindex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ontograph/ontoindex?style=flat-square&color=yellow)](https://github.com/ontograph/ontoindex/stargazers) [![Forks](https://img.shields.io/github/forks/ontograph/ontoindex?style=flat-square&color=blue)](https://github.com/ontograph/ontoindex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Code Graph mcp solutions for AI agents with ontology and sentence. Supports extra large  codebases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-06 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP
 
 ## 📝 Summary
 
@@ -89,14 +89,15 @@ ontograph/ontoindex 为生产环境提供中等可用性。它适合用于原型
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 42/100 |
+| recency | 60/100 |
 | adoption | 27/100 |
-| production | 69/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

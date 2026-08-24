@@ -1,6 +1,6 @@
 # coturn/coturn
 
-[![Stars](https://img.shields.io/github/stars/coturn/coturn?style=flat-square&color=yellow)](https://github.com/coturn/coturn/stargazers) [![Forks](https://img.shields.io/github/forks/coturn/coturn?style=flat-square&color=blue)](https://github.com/coturn/coturn/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coturn/coturn?style=flat-square&color=yellow)](https://github.com/coturn/coturn/stargazers) [![Forks](https://img.shields.io/github/forks/coturn/coturn?style=flat-square&color=blue)](https://github.com/coturn/coturn/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > coturn TURN server project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ coturn（coturn/coturn）是业界成熟的开源 TURN/STUN 服务器实现，�
 | forks | 84/100 |
 | stars | 88/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 87/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

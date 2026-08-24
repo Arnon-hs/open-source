@@ -1,6 +1,6 @@
 # eneskirca/nodeterm
 
-[![Stars](https://img.shields.io/github/stars/eneskirca/nodeterm?style=flat-square&color=yellow)](https://github.com/eneskirca/nodeterm/stargazers) [![Forks](https://img.shields.io/github/forks/eneskirca/nodeterm?style=flat-square&color=blue)](https://github.com/eneskirca/nodeterm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eneskirca/nodeterm?style=flat-square&color=yellow)](https://github.com/eneskirca/nodeterm/stargazers) [![Forks](https://img.shields.io/github/forks/eneskirca/nodeterm?style=flat-square&color=blue)](https://github.com/eneskirca/nodeterm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 519 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-10 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ eneskirca/nodeterm 的生产可用性为中等。它适合用于：
 | forks | 44/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 80/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

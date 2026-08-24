@@ -1,6 +1,6 @@
 # uphy/obsidian-reminder
 
-[![Stars](https://img.shields.io/github/stars/uphy/obsidian-reminder?style=flat-square&color=yellow)](https://github.com/uphy/obsidian-reminder/stargazers) [![Forks](https://img.shields.io/github/forks/uphy/obsidian-reminder?style=flat-square&color=blue)](https://github.com/uphy/obsidian-reminder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uphy/obsidian-reminder?style=flat-square&color=yellow)](https://github.com/uphy/obsidian-reminder/stargazers) [![Forks](https://img.shields.io/github/forks/uphy/obsidian-reminder?style=flat-square&color=blue)](https://github.com/uphy/obsidian-reminder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Reminder plugin for Obsidian
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 650 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -84,14 +84,15 @@ Obsidian 提醒插件（uphy/obsidian-reminder）是为 Obsidian 平台开发的
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

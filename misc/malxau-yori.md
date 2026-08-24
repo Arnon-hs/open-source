@@ -1,6 +1,6 @@
 # malxau/yori
 
-[![Stars](https://img.shields.io/github/stars/malxau/yori?style=flat-square&color=yellow)](https://github.com/malxau/yori/stargazers) [![Forks](https://img.shields.io/github/forks/malxau/yori?style=flat-square&color=blue)](https://github.com/malxau/yori/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/malxau/yori?style=flat-square&color=yellow)](https://github.com/malxau/yori/stargazers) [![Forks](https://img.shields.io/github/forks/malxau/yori?style=flat-square&color=blue)](https://github.com/malxau/yori/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Yori 的生产可用性评估为中等。它适合用于原型或内部工作流
 | forks | 40/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 75/100 |
+| recency | 80/100 |
 | adoption | 59/100 |
-| production | 74/100 |
+| production | 67/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
