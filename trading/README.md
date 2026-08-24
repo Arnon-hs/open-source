@@ -124,8 +124,8 @@
 | 114 | [217heidai/adblockfilters](./217heidai-adblockfilters.md) | ⭐ 7.2k | Python | 67/100 |
 | 115 | [intel/auto-round](./intel-auto-round.md) | ⭐ 1.4k | Python | 67/100 |
 | 116 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 1.7k | TypeScript | 67/100 |
-| 117 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
-| 118 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
+| 117 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
+| 118 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
 | 119 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 66/100 |
 | 120 | [8680/GOODBYEADS](./8680-goodbyeads.md) | ⭐ 1.8k | Python | 66/100 |
 | 121 | [discopy/discopy](./discopy-discopy.md) | ⭐ 430 | Python | 66/100 |

@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32904** |
-| 📁 **Categories** | **44** |
+| 🗂️ **Total projects** | **32913** |
+| 📁 **Categories** | **45** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,12 +18,12 @@
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 7674 | [Browse →](./misc/) |
+| 📦 **Misc** | 7678 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 7657 | [Browse →](./aiml/) |
-| 🎨 **Frontend** | 2538 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 2540 | [Browse →](./frontend/) |
 | 🏷️ **Mcp** | 2527 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2306 | [Browse →](./orchestration/) |
-| 🏷️ **Automation** | 1676 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1678 | [Browse →](./automation/) |
 | 🔧 **DevTools** | 1547 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 1176 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 990 | [Browse →](./crypto/) |
@@ -49,6 +49,7 @@
 | 🏷️ **Image-processing** | 2 | [Browse →](./image-processing/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Ai** | 2 | [Browse →](./ai/) |
+| 🏷️ **Github-actions** | 1 | [Browse →](./github-actions/) |
 | 🏷️ **Ai-video** | 1 | [Browse →](./ai-video/) |
 | 🏷️ **Lead-generation** | 1 | [Browse →](./lead-generation/) |
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |

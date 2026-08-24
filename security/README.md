@@ -218,8 +218,8 @@
 | 208 | [TheRealYT/git-knife](./therealyt-git-knife.md) | ⭐ — | — | 41/100 |
 | 209 | [ucan-wg/spec](./ucan-wg-spec.md) | ⭐ — | — | 41/100 |
 | 210 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 41/100 |
-| 211 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 41/100 |
-| 212 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 41/100 |
+| 211 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 41/100 |
+| 212 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 41/100 |
 | 213 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 41/100 |
 | 214 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 41/100 |
 | 215 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 41/100 |
