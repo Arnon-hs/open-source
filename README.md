@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32899** |
+| 🗂️ **Total projects** | **32901** |
 | 📁 **Categories** | **44** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,7 +18,7 @@
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 7673 | [Browse →](./misc/) |
+| 📦 **Misc** | 7674 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 7657 | [Browse →](./aiml/) |
 | 🎨 **Frontend** | 2538 | [Browse →](./frontend/) |
 | 🏷️ **Mcp** | 2527 | [Browse →](./mcp/) |
@@ -41,7 +41,7 @@
 | 🏷️ **Templates** | 81 | [Browse →](./templates/) |
 | 🏷️ **Video-editing** | 79 | [Browse →](./video-editing/) |
 | 🏷️ **Marketing** | 53 | [Browse →](./marketing/) |
-| 🏷️ **Vertical-video** | 51 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 52 | [Browse →](./vertical-video/) |
 | 🎯 **Product** | 47 | [Browse →](./product/) |
 | 🏷️ **Content-creation** | 39 | [Browse →](./content-creation/) |
 | 🏷️ **Python** | 2 | [Browse →](./python/) |

@@ -622,8 +622,8 @@
 | 612 | [Armur-Ai/Pentest-Swarm-AI](./armur-ai-pentest-swarm-ai.md) | ⭐ 1k | Go | 69/100 |
 | 613 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 3k | TypeScript | 69/100 |
 | 614 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 68/100 |
-| 615 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
-| 616 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
+| 615 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
+| 616 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
 | 617 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 68/100 |
 | 618 | [1technophile/OpenMQTTGateway](./1technophile-openmqttgateway.md) | ⭐ 4.1k | C++ | 68/100 |
 | 619 | [inclusionAI/Awex](./inclusionai-awex.md) | ⭐ 169 | Python | 68/100 |
@@ -718,8 +718,8 @@
 | 708 | [asc-community/AngouriMath](./asc-community-angourimath.md) | ⭐ 824 | C# | 67/100 |
 | 709 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 67/100 |
 | 710 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 67/100 |
-| 711 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
-| 712 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
+| 711 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
+| 712 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
 | 713 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 67/100 |
 | 714 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 927 | Java | 67/100 |
 | 715 | [robot-descriptions/robot_descriptions.py](./robot-descriptions-robot-descriptions.py.md) | ⭐ 796 | Python | 67/100 |
@@ -1119,8 +1119,8 @@
 | 1109 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
 | 1110 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 1111 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 1112 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
-| 1113 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
+| 1112 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
+| 1113 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
 | 1114 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 1115 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 1116 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1654,8 +1654,8 @@
 | 1644 | [forrestblade/lr5-liberation](./forrestblade-lr5-liberation.md) | ⭐ — | — | 41/100 |
 | 1645 | [GorrihmAI/fbai-nonconscious-ai](./gorrihmai-fbai-nonconscious-ai.md) | ⭐ — | — | 41/100 |
 | 1646 | [mogwi1983/policybot](./mogwi1983-policybot.md) | ⭐ — | — | 41/100 |
-| 1647 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
-| 1648 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
+| 1647 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
+| 1648 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
 | 1649 | [robbyant/lingbot-video](./robbyant-lingbot-video.md) | ⭐ — | — | 41/100 |
 | 1650 | [smithandrewjohn/kindalive](./smithandrewjohn-kindalive.md) | ⭐ — | — | 41/100 |
 | 1651 | [Robbyant/lingbot-world-v2l-2026-07-10](./robbyant-lingbot-world-v2l-2026-07-10.md) | ⭐ — | — | 41/100 |
@@ -1682,8 +1682,8 @@
 | 1672 | [XENOCOREGIGER31/local-model](./xenocoregiger31-local-model.md) | ⭐ — | — | 33/100 |
 | 1673 | [AutoPackAI/beebot](./autopackai-beebot.md) | ⭐ — | — | 32/100 |
 | 1674 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
-| 1675 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
-| 1676 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1675 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1676 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
 
 ---
 

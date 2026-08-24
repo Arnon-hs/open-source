@@ -59,8 +59,8 @@
 | 49 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 394 | C++ | 74/100 |
 | 50 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 623 | PowerShell | 74/100 |
 | 51 | [xbbg-org/xbbg](./xbbg-org-xbbg.md) | ⭐ 834 | Rust | 74/100 |
-| 52 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
-| 53 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 52 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 53 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
 | 54 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 105 | TypeScript | 74/100 |
 | 55 | [fasiondog/hikyuu](./fasiondog-hikyuu.md) | ⭐ 3.3k | C++ | 74/100 |
 | 56 | [iconben/z-image-studio](./iconben-z-image-studio.md) | ⭐ 121 | Python | 73/100 |
@@ -124,8 +124,8 @@
 | 114 | [217heidai/adblockfilters](./217heidai-adblockfilters.md) | ⭐ 7.2k | Python | 67/100 |
 | 115 | [intel/auto-round](./intel-auto-round.md) | ⭐ 1.4k | Python | 67/100 |
 | 116 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 1.7k | TypeScript | 67/100 |
-| 117 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
-| 118 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
+| 117 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
+| 118 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
 | 119 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 66/100 |
 | 120 | [8680/GOODBYEADS](./8680-goodbyeads.md) | ⭐ 1.8k | Python | 66/100 |
 | 121 | [discopy/discopy](./discopy-discopy.md) | ⭐ 430 | Python | 66/100 |
@@ -270,8 +270,8 @@
 | 260 | [quantiota/AI-Agent-Host](./quantiota-ai-agent-host.md) | ⭐ 32 | Python | 52/100 |
 | 261 | [FLOX-Foundation/flox](./flox-foundation-flox.md) | ⭐ — | — | 52/100 |
 | 262 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 52/100 |
-| 263 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
-| 264 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
+| 263 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
+| 264 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
 | 265 | [Xbs950812/okx_fvg_agent](./xbs950812-okx-fvg-agent.md) | ⭐ 1 | Python | 52/100 |
 | 266 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 624 | Python | 51/100 |
 | 267 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 951 | JavaScript | 51/100 |

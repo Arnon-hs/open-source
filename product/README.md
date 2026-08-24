@@ -36,8 +36,8 @@
 | 26 | [getsentry/junior](./getsentry-junior.md) | ⭐ 311 | TypeScript | 53/100 |
 | 27 | [dial9-rs/dial9](./dial9-rs-dial9.md) | ⭐ 387 | Rust | 52/100 |
 | 28 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ — | — | 48/100 |
-| 29 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 46/100 |
-| 30 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 46/100 |
+| 29 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 46/100 |
+| 30 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 46/100 |
 | 31 | [nyaomaru/is-kit](./nyaomaru-is-kit.md) | ⭐ — | — | 45/100 |
 | 32 | [sinai-doron/md-todo-list](./sinai-doron-md-todo-list.md) | ⭐ — | — | 45/100 |
 | 33 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 44/100 |

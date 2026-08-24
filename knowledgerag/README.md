@@ -833,8 +833,8 @@
 | 823 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ — | — | 48/100 |
 | 824 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 825 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
-| 826 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
-| 827 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
+| 826 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
+| 827 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
 | 828 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
 | 829 | [software-mansion/react-native-executorch](./software-mansion-react-native-executorch.md) | ⭐ 1.5k | C++ | 48/100 |
 | 830 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
@@ -843,8 +843,8 @@
 | 833 | [trvon/yams](./trvon-yams.md) | ⭐ 373 | C++ | 47/100 |
 | 834 | [NodeDB-Lab/nodedb](./nodedb-lab-nodedb.md) | ⭐ 119 | Rust | 47/100 |
 | 835 | [GiulioDER/RE-call](./giulioder-re-call.md) | ⭐ — | — | 46/100 |
-| 836 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
-| 837 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 836 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 837 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
 | 838 | [Build5Nines/SharpVector](./build5nines-sharpvector.md) | ⭐ 133 | C# | 46/100 |
 | 839 | [DataTalksClub/llm-zoomcamp](./datatalksclub-llm-zoomcamp.md) | ⭐ 5k | Jupyter Notebook | 46/100 |
 | 840 | [io-s2c/s2c](./io-s2c-s2c.md) | ⭐ — | — | 45/100 |
@@ -880,8 +880,8 @@
 | 870 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
 | 871 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
 | 872 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 873 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 874 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 873 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 874 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
 | 875 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 876 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 877 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |

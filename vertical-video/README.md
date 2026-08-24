@@ -2,7 +2,7 @@
 
 > 
 
-**51 projects** in this category.
+**52 projects** in this category.
 
 ## Projects
 
@@ -50,15 +50,16 @@
 | 40 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 45 | HTML | 57/100 |
 | 41 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 41 | — | 57/100 |
 | 42 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 11 | Python | 56/100 |
-| 43 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
-| 44 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
-| 45 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 53/100 |
-| 46 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 53/100 |
-| 47 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 53/100 |
-| 48 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
-| 49 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 50/100 |
-| 50 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 50/100 |
-| 51 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
+| 43 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 55/100 |
+| 44 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
+| 45 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
+| 46 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 53/100 |
+| 47 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 53/100 |
+| 48 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 53/100 |
+| 49 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
+| 50 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 50/100 |
+| 51 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 50/100 |
+| 52 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
 
 ---
 

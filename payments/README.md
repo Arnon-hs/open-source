@@ -290,8 +290,8 @@
 | 280 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 51 | Rust | 53/100 |
 | 281 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 53/100 |
 | 282 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 198 | Rust | 53/100 |
-| 283 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 53/100 |
-| 284 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 53/100 |
+| 283 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 53/100 |
+| 284 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 53/100 |
 | 285 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 53/100 |
 | 286 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 53/100 |
 | 287 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 597 | Python | 53/100 |
