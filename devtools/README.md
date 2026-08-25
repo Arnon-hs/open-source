@@ -346,14 +346,14 @@
 | 336 | [BoboTiG/python-mss](./bobotig-python-mss.md) | ⭐ 1.3k | Python | 63/100 |
 | 337 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 327 | TypeScript | 63/100 |
 | 338 | [kubecolor/kubecolor](./kubecolor-kubecolor.md) | ⭐ 1.3k | Go | 63/100 |
-| 339 | [whyisdifficult/jiratui](./whyisdifficult-jiratui.md) | ⭐ 1.6k | Python | 63/100 |
-| 340 | [noobaa/noobaa-operator](./noobaa-noobaa-operator.md) | ⭐ 122 | Go | 63/100 |
+| 339 | [noobaa/noobaa-operator](./noobaa-noobaa-operator.md) | ⭐ 122 | Go | 63/100 |
+| 340 | [whyisdifficult/jiratui](./whyisdifficult-jiratui.md) | ⭐ 1.6k | Python | 63/100 |
 | 341 | [remkop/picocli](./remkop-picocli.md) | ⭐ 5.4k | Java | 63/100 |
 | 342 | [fujiapple852/trippy](./fujiapple852-trippy.md) | ⭐ 6.8k | Rust | 63/100 |
 | 343 | [hidevopsio/hiboot](./hidevopsio-hiboot.md) | ⭐ 179 | Go | 63/100 |
 | 344 | [jkwill87/mnamer](./jkwill87-mnamer.md) | ⭐ 1.1k | Python | 63/100 |
-| 345 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 46k | PowerShell | 63/100 |
-| 346 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
+| 345 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
+| 346 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 46k | PowerShell | 63/100 |
 | 347 | [noborus/trdsql](./noborus-trdsql.md) | ⭐ 2.2k | Go | 63/100 |
 | 348 | [beetbox/beets](./beetbox-beets.md) | ⭐ 15.1k | Python | 63/100 |
 | 349 | [yeojz/otplib](./yeojz-otplib.md) | ⭐ 2.2k | TypeScript | 63/100 |
@@ -390,8 +390,8 @@
 | 380 | [bgreenwell/lstr](./bgreenwell-lstr.md) | ⭐ 1.5k | Rust | 62/100 |
 | 381 | [shanggqm/codexU](./shanggqm-codexu.md) | ⭐ 118 | Swift | 62/100 |
 | 382 | [hatoo/oha](./hatoo-oha.md) | ⭐ 10.4k | Rust | 62/100 |
-| 383 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 62/100 |
-| 384 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 62/100 |
+| 383 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 62/100 |
+| 384 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 62/100 |
 | 385 | [sindresorhus/np](./sindresorhus-np.md) | ⭐ 7.7k | JavaScript | 62/100 |
 | 386 | [chenquan/diskusage](./chenquan-diskusage.md) | ⭐ 309 | Go | 62/100 |
 | 387 | [Derssa/Torollo](./derssa-torollo.md) | ⭐ 182 | TypeScript | 62/100 |
@@ -445,8 +445,8 @@
 | 435 | [aws-cloudformation/cfn-lint](./aws-cloudformation-cfn-lint.md) | ⭐ 2.6k | Python | 61/100 |
 | 436 | [postcss/postcss-cli](./postcss-postcss-cli.md) | ⭐ 856 | JavaScript | 61/100 |
 | 437 | [8LWXpg/ptr](./8lwxpg-ptr.md) | ⭐ 147 | Rust | 61/100 |
-| 438 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 143 | Rust | 61/100 |
-| 439 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 31 | Go | 61/100 |
+| 438 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 31 | Go | 61/100 |
+| 439 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 143 | Rust | 61/100 |
 | 440 | [stackryze/FreeDomains](./stackryze-freedomains.md) | ⭐ 9.2k | JavaScript | 61/100 |
 | 441 | [zap-studio/monorepo](./zap-studio-monorepo.md) | ⭐ 166 | TypeScript | 61/100 |
 | 442 | [K-vanc/Tempest-EPG-Generator](./k-vanc-tempest-epg-generator.md) | ⭐ 193 | PHP | 61/100 |
@@ -483,8 +483,8 @@
 | 473 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 61/100 |
 | 474 | [tarampampam/tinifier](./tarampampam-tinifier.md) | ⭐ 115 | Go | 61/100 |
 | 475 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 334 | Python | 61/100 |
-| 476 | [karlderkaefer/cdk-notifier](./karlderkaefer-cdk-notifier.md) | ⭐ 132 | Go | 61/100 |
-| 477 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 189 | Python | 61/100 |
+| 476 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 189 | Python | 61/100 |
+| 477 | [karlderkaefer/cdk-notifier](./karlderkaefer-cdk-notifier.md) | ⭐ 132 | Go | 61/100 |
 | 478 | [python-jsonschema/check-jsonschema](./python-jsonschema-check-jsonschema.md) | ⭐ 321 | Python | 61/100 |
 | 479 | [twilio-labs/serverless-toolkit](./twilio-labs-serverless-toolkit.md) | ⭐ 127 | TypeScript | 61/100 |
 | 480 | [qaware/protocurl](./qaware-protocurl.md) | ⭐ 251 | Go | 61/100 |
@@ -572,8 +572,8 @@
 | 562 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 60/100 |
 | 563 | [fastify/fastify-cli](./fastify-fastify-cli.md) | ⭐ 730 | JavaScript | 60/100 |
 | 564 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 60/100 |
-| 565 | [chainguard-dev/dfc](./chainguard-dev-dfc.md) | ⭐ 101 | Go | 60/100 |
-| 566 | [neondatabase/neonctl](./neondatabase-neonctl.md) | ⭐ 116 | TypeScript | 60/100 |
+| 565 | [neondatabase/neonctl](./neondatabase-neonctl.md) | ⭐ 116 | TypeScript | 60/100 |
+| 566 | [chainguard-dev/dfc](./chainguard-dev-dfc.md) | ⭐ 101 | Go | 60/100 |
 | 567 | [oclif/oclif](./oclif-oclif.md) | ⭐ 9.5k | TypeScript | 60/100 |
 | 568 | [fraenky8/tables-to-go](./fraenky8-tables-to-go.md) | ⭐ 242 | Go | 60/100 |
 | 569 | [NuGet/NuGet.Client](./nuget-nuget.client.md) | ⭐ 815 | C# | 60/100 |
@@ -610,8 +610,8 @@
 | 600 | [OvertureMaps/overturemaps-py](./overturemaps-overturemaps-py.md) | ⭐ 256 | Python | 59/100 |
 | 601 | [mtkennerly/dunamai](./mtkennerly-dunamai.md) | ⭐ 383 | Python | 59/100 |
 | 602 | [hrtsegv/gitcs](./hrtsegv-gitcs.md) | ⭐ 133 | Go | 59/100 |
-| 603 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 59/100 |
-| 604 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 59/100 |
+| 603 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 59/100 |
+| 604 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 59/100 |
 | 605 | [sindresorhus/meow](./sindresorhus-meow.md) | ⭐ 3.7k | JavaScript | 59/100 |
 | 606 | [kyu08/fzf-make](./kyu08-fzf-make.md) | ⭐ 289 | Rust | 59/100 |
 | 607 | [MohsenBg/bgscan](./mohsenbg-bgscan.md) | ⭐ 48 | Go | 59/100 |
@@ -663,8 +663,8 @@
 | 653 | [AnswerDotAI/nbdev](./answerdotai-nbdev.md) | ⭐ 5.3k | Jupyter Notebook | 59/100 |
 | 654 | [mobile-next/mobilecli](./mobile-next-mobilecli.md) | ⭐ 179 | Go | 59/100 |
 | 655 | [bensadeh/circumflex](./bensadeh-circumflex.md) | ⭐ 2k | Go | 59/100 |
-| 656 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 59/100 |
-| 657 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 59/100 |
+| 656 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 59/100 |
+| 657 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 59/100 |
 | 658 | [ekristen/aws-nuke](./ekristen-aws-nuke.md) | ⭐ 1.3k | Go | 59/100 |
 | 659 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.3k | Shell | 59/100 |
 | 660 | [netinvent/npbackup](./netinvent-npbackup.md) | ⭐ 329 | Python | 59/100 |
@@ -1250,10 +1250,10 @@
 | 1240 | [openchoreo/openchoreo](./openchoreo-openchoreo.md) | ⭐ 848 | Go | 51/100 |
 | 1241 | [serkanyersen/dotstate](./serkanyersen-dotstate.md) | ⭐ 339 | Rust | 51/100 |
 | 1242 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 51/100 |
-| 1243 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 509 | Rust | 51/100 |
+| 1243 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 51/100 |
 | 1244 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 540 | Rust | 51/100 |
-| 1245 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
-| 1246 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 51/100 |
+| 1245 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 509 | Rust | 51/100 |
+| 1246 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
 | 1247 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 51/100 |
 | 1248 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 51/100 |
 | 1249 | [geodro/lerd](./geodro-lerd.md) | ⭐ 207 | Go | 51/100 |
@@ -1340,8 +1340,8 @@
 | 1330 | [lovestaco/ratatop](./lovestaco-ratatop.md) | ⭐ — | — | 43/100 |
 | 1331 | [geturbackend/urBackend](./geturbackend-urbackend.md) | ⭐ — | — | 40/100 |
 | 1332 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 40/100 |
-| 1333 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 37/100 |
-| 1334 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 37/100 |
+| 1333 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 37/100 |
+| 1334 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 37/100 |
 
 ---
 
