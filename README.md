@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33133** |
-| **Categories** | **35** |
+| **Projects** | **33141** |
+| **Categories** | **36** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14883 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3253 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14889 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3254 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2523 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2175 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1334 | [Browse →](./devtools/) |
@@ -51,6 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Memory** | 1 | [Browse →](./memory/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 | 🏷️ **Sqlite** | 1 | [Browse →](./sqlite/) |
 | 🏷️ **Docker** | 1 | [Browse →](./docker/) |
