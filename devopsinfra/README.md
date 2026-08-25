@@ -210,8 +210,8 @@
 | 200 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
 | 201 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 662 | Python | 61/100 |
 | 202 | [lichess-org/lila-docker](./lichess-org-lila-docker.md) | ⭐ 126 | Rust | 60/100 |
-| 203 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
-| 204 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 203 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 204 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
 | 205 | [crumbhole/argocd-lovely-plugin](./crumbhole-argocd-lovely-plugin.md) | ⭐ 490 | Go | 60/100 |
 | 206 | [zammad/zammad-docker-compose](./zammad-zammad-docker-compose.md) | ⭐ 379 | — | 60/100 |
 | 207 | [will-moss/isaiah](./will-moss-isaiah.md) | ⭐ 1.1k | Go | 60/100 |

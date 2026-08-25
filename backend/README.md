@@ -443,8 +443,8 @@
 | 433 | [jellyfin/jellyfin](./jellyfin-jellyfin.md) | ⭐ 51.6k | C# | 61/100 |
 | 434 | [apache/thrift](./apache-thrift.md) | ⭐ 10.9k | C++ | 61/100 |
 | 435 | [zelon88/HRConvert2](./zelon88-hrconvert2.md) | ⭐ 1.3k | PHP | 61/100 |
-| 436 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 61/100 |
-| 437 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 61/100 |
+| 436 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 61/100 |
+| 437 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 61/100 |
 | 438 | [http4k/http4k](./http4k-http4k.md) | ⭐ 2.8k | Kotlin | 61/100 |
 | 439 | [ardatan/feTS](./ardatan-fets.md) | ⭐ 714 | TypeScript | 61/100 |
 | 440 | [LargeModGames/spotatui](./largemodgames-spotatui.md) | ⭐ 655 | Rust | 61/100 |
@@ -677,8 +677,8 @@
 | 667 | [Submitty/Submitty](./submitty-submitty.md) | ⭐ 773 | PHP | 55/100 |
 | 668 | [ActivityWatch/aw-server-rust](./activitywatch-aw-server-rust.md) | ⭐ 303 | Rust | 55/100 |
 | 669 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 55/100 |
-| 670 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
-| 671 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
+| 670 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
+| 671 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
 | 672 | [ndonfris/fish-lsp](./ndonfris-fish-lsp.md) | ⭐ 306 | TypeScript | 55/100 |
 | 673 | [owasp-noir/noir](./owasp-noir-noir.md) | ⭐ 1.2k | Crystal | 55/100 |
 | 674 | [napi-rs/node-rs](./napi-rs-node-rs.md) | ⭐ 1.4k | Rust | 55/100 |
@@ -894,8 +894,8 @@
 | 884 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 113 | Rust | 42/100 |
 | 885 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 42/100 |
 | 886 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
-| 887 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
-| 888 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 887 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 888 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
 | 889 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
 
 ---
