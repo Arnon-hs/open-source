@@ -60,8 +60,8 @@
 | 50 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 508 | Python | 64/100 |
 | 51 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 138 | Go | 64/100 |
 | 52 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 253 | JavaScript | 64/100 |
-| 53 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 76 | Python | 64/100 |
-| 54 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 64/100 |
+| 53 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 64/100 |
+| 54 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 76 | Python | 64/100 |
 | 55 | [paypal-examples/v6-web-sdk-sample-integration](./paypal-examples-v6-web-sdk-sample-integration.md) | ⭐ 53 | TypeScript | 64/100 |
 | 56 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 64/100 |
 | 57 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
@@ -78,8 +78,8 @@
 | 68 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](./nvidia-ai-blueprints-retail-agentic-commerce.md) | ⭐ 47 | Python | 62/100 |
 | 69 | [stripe/stripe-php](./stripe-stripe-php.md) | ⭐ 4k | PHP | 62/100 |
 | 70 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 62/100 |
-| 71 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
-| 72 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
+| 71 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
+| 72 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
 | 73 | [talivia-group/talivia](./talivia-group-talivia.md) | ⭐ 52 | TypeScript | 61/100 |
 | 74 | [ellite/Wallos](./ellite-wallos.md) | ⭐ 8.2k | PHP | 61/100 |
 | 75 | [Floe-Labs/floe-guard](./floe-labs-floe-guard.md) | ⭐ 35 | Python | 61/100 |
