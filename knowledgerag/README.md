@@ -512,8 +512,8 @@
 | 502 | [rimironenko/rag-staleness-check](./rimironenko-rag-staleness-check.md) | ⭐ — | — | 39/100 |
 | 503 | [DemigodDSK/hubmesh](./demigoddsk-hubmesh.md) | ⭐ — | — | 39/100 |
 | 504 | [antonyrag/ragleap-core](./antonyrag-ragleap-core.md) | ⭐ — | — | 39/100 |
-| 505 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
-| 506 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
+| 505 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
+| 506 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
 | 507 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
 | 508 | [Ajay6601/embedcache](./ajay6601-embedcache.md) | ⭐ — | — | 39/100 |
 | 509 | [impel-intelligence/Minna](./impel-intelligence-minna.md) | ⭐ — | — | 38/100 |
@@ -526,8 +526,8 @@
 | 516 | [sentence-transformers/all-MiniLM-L12-v2](./sentence-transformers-all-minilm-l12-v2.md) | ⭐ 324 | sentence-transformers | 37/100 |
 | 517 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 37/100 |
 | 518 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 37/100 |
-| 519 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 37/100 |
-| 520 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 37/100 |
+| 519 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 37/100 |
+| 520 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 37/100 |
 | 521 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 37/100 |
 | 522 | [gnosislabstech/marrow](./gnosislabstech-marrow.md) | ⭐ — | — | 36/100 |
 | 523 | [chrisgagne/grounded-forge](./chrisgagne-grounded-forge.md) | ⭐ — | — | 36/100 |
