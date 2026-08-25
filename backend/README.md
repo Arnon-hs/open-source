@@ -249,8 +249,8 @@
 | 239 | [go-vikunja/vikunja](./go-vikunja-vikunja.md) | ⭐ 4.2k | Go | 66/100 |
 | 240 | [LizardByte/Sunshine](./lizardbyte-sunshine.md) | ⭐ 36.7k | C++ | 66/100 |
 | 241 | [lollipopkit/flutter_server_box](./lollipopkit-flutter-server-box.md) | ⭐ 8.5k | Dart | 65/100 |
-| 242 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 65/100 |
-| 243 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 65/100 |
+| 242 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 65/100 |
+| 243 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 65/100 |
 | 244 | [sequelize/sequelize](./sequelize-sequelize.md) | ⭐ 30.4k | TypeScript | 65/100 |
 | 245 | [apache/logging-log4j2](./apache-logging-log4j2.md) | ⭐ 3.6k | Java | 65/100 |
 | 246 | [chatanywhere/GPT_API_free](./chatanywhere-gpt-api-free.md) | ⭐ 38.9k | — | 65/100 |
@@ -687,8 +687,8 @@
 | 677 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 1.1k | Swift | 55/100 |
 | 678 | [Pumpkin-MC/Pumpkin](./pumpkin-mc-pumpkin.md) | ⭐ 7.5k | Rust | 55/100 |
 | 679 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
-| 680 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
-| 681 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 680 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 681 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
 | 682 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 6.9k | Java | 55/100 |
 | 683 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 4.9k | Rust | 55/100 |
 | 684 | [modrinth/code](./modrinth-code.md) | ⭐ 2.1k | Rust | 55/100 |
@@ -895,8 +895,8 @@
 | 885 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 113 | Rust | 42/100 |
 | 886 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 42/100 |
 | 887 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
-| 888 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
-| 889 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 888 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 889 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
 | 890 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
 
 ---
