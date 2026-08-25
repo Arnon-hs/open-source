@@ -46,8 +46,8 @@
 | 36 | [mivano/azure-cost-cli](./mivano-azure-cost-cli.md) | ⭐ 1.1k | C# | 66/100 |
 | 37 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 66/100 |
 | 38 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.4k | TypeScript | 66/100 |
-| 39 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
-| 40 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
+| 39 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
+| 40 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
 | 41 | [abracadabra50/uk-grocery-cli](./abracadabra50-uk-grocery-cli.md) | ⭐ 68 | TypeScript | 65/100 |
 | 42 | [nozomi-koborinai/gcp-cost-mcp-server](./nozomi-koborinai-gcp-cost-mcp-server.md) | ⭐ 21 | Go | 65/100 |
 | 43 | [InvoicePlane/InvoicePlane](./invoiceplane-invoiceplane.md) | ⭐ 3.1k | PHP | 65/100 |
@@ -60,8 +60,8 @@
 | 50 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 508 | Python | 64/100 |
 | 51 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 138 | Go | 64/100 |
 | 52 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 253 | JavaScript | 64/100 |
-| 53 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 64/100 |
-| 54 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 76 | Python | 64/100 |
+| 53 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 76 | Python | 64/100 |
+| 54 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 64/100 |
 | 55 | [paypal-examples/v6-web-sdk-sample-integration](./paypal-examples-v6-web-sdk-sample-integration.md) | ⭐ 53 | TypeScript | 64/100 |
 | 56 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 64/100 |
 | 57 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
@@ -78,8 +78,8 @@
 | 68 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](./nvidia-ai-blueprints-retail-agentic-commerce.md) | ⭐ 47 | Python | 62/100 |
 | 69 | [stripe/stripe-php](./stripe-stripe-php.md) | ⭐ 4k | PHP | 62/100 |
 | 70 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 62/100 |
-| 71 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
-| 72 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
+| 71 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
+| 72 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
 | 73 | [talivia-group/talivia](./talivia-group-talivia.md) | ⭐ 52 | TypeScript | 61/100 |
 | 74 | [ellite/Wallos](./ellite-wallos.md) | ⭐ 8.2k | PHP | 61/100 |
 | 75 | [Floe-Labs/floe-guard](./floe-labs-floe-guard.md) | ⭐ 35 | Python | 61/100 |
@@ -252,8 +252,8 @@
 | 242 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 48/100 |
 | 243 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 48/100 |
 | 244 | [bytedoger/awesome-OpenPrice](./bytedoger-awesome-openprice.md) | ⭐ 74 | TypeScript | 47/100 |
-| 245 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 61 | Swift | 47/100 |
-| 246 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 47/100 |
+| 245 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 47/100 |
+| 246 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 61 | Swift | 47/100 |
 | 247 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 104 | Go | 47/100 |
 | 248 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.3k | C# | 47/100 |
 | 249 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 47/100 |
