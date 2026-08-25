@@ -555,8 +555,8 @@
 | 545 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 31/100 |
 | 546 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 31/100 |
 | 547 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 31/100 |
-| 548 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
-| 549 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
+| 548 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
+| 549 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
 | 550 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 31/100 |
 | 551 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 31/100 |
 | 552 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 31/100 |
@@ -565,8 +565,8 @@
 | 555 | [ShahramMebashar/cairn](./shahrammebashar-cairn.md) | ⭐ — | — | 31/100 |
 | 556 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 31/100 |
 | 557 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ — | — | 31/100 |
-| 558 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 31/100 |
-| 559 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 31/100 |
+| 558 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 31/100 |
+| 559 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 31/100 |
 | 560 | [intellideep/nlproxy](./intellideep-nlproxy.md) | ⭐ — | — | 31/100 |
 | 561 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 31/100 |
 | 562 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ — | — | 28/100 |
