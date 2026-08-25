@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [k2-fsa/openwakeword](./k2-fsa-openwakeword.md) | ⭐ — | — | 24/100 |
 
 ---
 
