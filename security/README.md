@@ -341,8 +341,8 @@
 | 331 | [MSNightmare/ShieldBreak](./msnightmare-shieldbreak.md) | ⭐ — | — | 38/100 |
 | 332 | [GnomeMan4201/reasoning-diff-lab](./gnomeman4201-reasoning-diff-lab.md) | ⭐ — | — | 36/100 |
 | 333 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ — | — | 36/100 |
-| 334 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 36/100 |
-| 335 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 36/100 |
+| 334 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 36/100 |
+| 335 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 36/100 |
 | 336 | [arm/metis](./arm-metis.md) | ⭐ — | — | 36/100 |
 | 337 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 36/100 |
 | 338 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 36/100 |
