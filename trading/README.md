@@ -77,8 +77,8 @@
 | 67 | [QuantConnect/Lean](./quantconnect-lean.md) | ⭐ 18.8k | C# | 61/100 |
 | 68 | [bmoscon/orderbook](./bmoscon-orderbook.md) | ⭐ 318 | Python | 60/100 |
 | 69 | [qusong0627/QuantMind](./qusong0627-quantmind.md) | ⭐ 524 | Python | 60/100 |
-| 70 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 60/100 |
-| 71 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 60/100 |
+| 70 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 60/100 |
+| 71 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 60/100 |
 | 72 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 60/100 |
 | 73 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.1k | Python | 59/100 |
 | 74 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 208 | Rust | 59/100 |
@@ -138,8 +138,8 @@
 | 128 | [floor-licker/polyfill-rs](./floor-licker-polyfill-rs.md) | ⭐ 204 | Rust | 52/100 |
 | 129 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 52/100 |
 | 130 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 52/100 |
-| 131 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
-| 132 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
+| 131 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
+| 132 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
 | 133 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 36 | Python | 51/100 |
 | 134 | [alphabench/raptorbt](./alphabench-raptorbt.md) | ⭐ 35 | Rust | 51/100 |
 | 135 | [mothparkzo6249/TG-Polymarket-bot](./mothparkzo6249-tg-polymarket-bot.md) | ⭐ 316 | JavaScript | 51/100 |
