@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**388 projects** in this category.
+**389 projects** in this category.
 
 ## Projects
 
@@ -355,47 +355,48 @@
 | 345 | [Oxen-AI/Oxen](./oxen-ai-oxen.md) | ⭐ 1.1k | Rust | 49/100 |
 | 346 | [celestiaorg/celestia-node](./celestiaorg-celestia-node.md) | ⭐ 995 | Go | 49/100 |
 | 347 | [terminusdb/terminusdb](./terminusdb-terminusdb.md) | ⭐ 3.3k | Prolog | 49/100 |
-| 348 | [michaelsproul/rust_radix_trie](./michaelsproul-rust-radix-trie.md) | ⭐ 217 | Rust | 48/100 |
-| 349 | [pyOpenSci/python-package-guide](./pyopensci-python-package-guide.md) | ⭐ 152 | Python | 48/100 |
-| 350 | [theseus-rs/rsql](./theseus-rs-rsql.md) | ⭐ 447 | Rust | 48/100 |
-| 351 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 687 | Rust | 48/100 |
-| 352 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 818 | JavaScript | 48/100 |
-| 353 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 491 | HTML | 48/100 |
-| 354 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 141 | Rust | 48/100 |
-| 355 | [quantgirluk/aleatory](./quantgirluk-aleatory.md) | ⭐ 365 | Python | 48/100 |
-| 356 | [WerWolv/ImHex-Patterns](./werwolv-imhex-patterns.md) | ⭐ 958 | Rust | 48/100 |
-| 357 | [rweekly/rweekly.org](./rweekly-rweekly.org.md) | ⭐ 813 | Rez | 48/100 |
-| 358 | [PRQL/prql](./prql-prql.md) | ⭐ 10.8k | Rust | 48/100 |
-| 359 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 48/100 |
-| 360 | [feldera/feldera](./feldera-feldera.md) | ⭐ 1.9k | Rust | 48/100 |
-| 361 | [supabase/etl](./supabase-etl.md) | ⭐ 2.2k | Rust | 48/100 |
-| 362 | [gokimedia/turkish-ev-charging-intents](./gokimedia-turkish-ev-charging-intents.md) | ⭐ — | JavaScript | 47/100 |
+| 348 | [bijay-odyssey/edaprep](./bijay-odyssey-edaprep.md) | ⭐ — | Python | 48/100 |
+| 349 | [michaelsproul/rust_radix_trie](./michaelsproul-rust-radix-trie.md) | ⭐ 217 | Rust | 48/100 |
+| 350 | [pyOpenSci/python-package-guide](./pyopensci-python-package-guide.md) | ⭐ 152 | Python | 48/100 |
+| 351 | [theseus-rs/rsql](./theseus-rs-rsql.md) | ⭐ 447 | Rust | 48/100 |
+| 352 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 687 | Rust | 48/100 |
+| 353 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 818 | JavaScript | 48/100 |
+| 354 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 491 | HTML | 48/100 |
+| 355 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 141 | Rust | 48/100 |
+| 356 | [quantgirluk/aleatory](./quantgirluk-aleatory.md) | ⭐ 365 | Python | 48/100 |
+| 357 | [WerWolv/ImHex-Patterns](./werwolv-imhex-patterns.md) | ⭐ 958 | Rust | 48/100 |
+| 358 | [rweekly/rweekly.org](./rweekly-rweekly.org.md) | ⭐ 813 | Rez | 48/100 |
+| 359 | [PRQL/prql](./prql-prql.md) | ⭐ 10.8k | Rust | 48/100 |
+| 360 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 48/100 |
+| 361 | [feldera/feldera](./feldera-feldera.md) | ⭐ 1.9k | Rust | 48/100 |
+| 362 | [supabase/etl](./supabase-etl.md) | ⭐ 2.2k | Rust | 48/100 |
 | 363 | [gokimedia/turkish-ev-charging-intents](./gokimedia-turkish-ev-charging-intents.md) | ⭐ — | JavaScript | 47/100 |
-| 364 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 47/100 |
-| 365 | [beling/bsuccinct-rs](./beling-bsuccinct-rs.md) | ⭐ 161 | Rust | 47/100 |
-| 366 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 482 | Python | 47/100 |
-| 367 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 47/100 |
-| 368 | [opengeos/aws-open-data-geo](./opengeos-aws-open-data-geo.md) | ⭐ 304 | Python | 47/100 |
-| 369 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 47/100 |
-| 370 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 47/100 |
-| 371 | [crepererum-oss/pdatastructs.rs](./crepererum-oss-pdatastructs.rs.md) | ⭐ 147 | Rust | 46/100 |
-| 372 | [s2e-systems/dust-dds](./s2e-systems-dust-dds.md) | ⭐ 158 | Rust | 46/100 |
-| 373 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 46/100 |
-| 374 | [explodingcamera/liwan](./explodingcamera-liwan.md) | ⭐ 190 | Rust | 45/100 |
-| 375 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 45/100 |
-| 376 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 120 | Rust | 45/100 |
-| 377 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 571 | JavaScript | 45/100 |
-| 378 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 45/100 |
-| 379 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
-| 380 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 45/100 |
-| 381 | [saschagrunert/indextree](./saschagrunert-indextree.md) | ⭐ 786 | Rust | 44/100 |
-| 382 | [MIERUNE/svelte-maplibre-gl](./mierune-svelte-maplibre-gl.md) | ⭐ 301 | Svelte | 44/100 |
-| 383 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
-| 384 | [jamditis/claude-skills-journalism](./jamditis-claude-skills-journalism.md) | ⭐ 192 | HTML | 44/100 |
-| 385 | [tonbo-io/typed-arrow](./tonbo-io-typed-arrow.md) | ⭐ 209 | Rust | 43/100 |
-| 386 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
-| 387 | [calcit-lang/calcit](./calcit-lang-calcit.md) | ⭐ 138 | Rust | 41/100 |
-| 388 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 31/100 |
+| 364 | [gokimedia/turkish-ev-charging-intents](./gokimedia-turkish-ev-charging-intents.md) | ⭐ — | JavaScript | 47/100 |
+| 365 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 47/100 |
+| 366 | [beling/bsuccinct-rs](./beling-bsuccinct-rs.md) | ⭐ 161 | Rust | 47/100 |
+| 367 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 482 | Python | 47/100 |
+| 368 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 47/100 |
+| 369 | [opengeos/aws-open-data-geo](./opengeos-aws-open-data-geo.md) | ⭐ 304 | Python | 47/100 |
+| 370 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 47/100 |
+| 371 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 47/100 |
+| 372 | [crepererum-oss/pdatastructs.rs](./crepererum-oss-pdatastructs.rs.md) | ⭐ 147 | Rust | 46/100 |
+| 373 | [s2e-systems/dust-dds](./s2e-systems-dust-dds.md) | ⭐ 158 | Rust | 46/100 |
+| 374 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 46/100 |
+| 375 | [explodingcamera/liwan](./explodingcamera-liwan.md) | ⭐ 190 | Rust | 45/100 |
+| 376 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 45/100 |
+| 377 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 120 | Rust | 45/100 |
+| 378 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 571 | JavaScript | 45/100 |
+| 379 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 45/100 |
+| 380 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
+| 381 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 45/100 |
+| 382 | [saschagrunert/indextree](./saschagrunert-indextree.md) | ⭐ 786 | Rust | 44/100 |
+| 383 | [MIERUNE/svelte-maplibre-gl](./mierune-svelte-maplibre-gl.md) | ⭐ 301 | Svelte | 44/100 |
+| 384 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
+| 385 | [jamditis/claude-skills-journalism](./jamditis-claude-skills-journalism.md) | ⭐ 192 | HTML | 44/100 |
+| 386 | [tonbo-io/typed-arrow](./tonbo-io-typed-arrow.md) | ⭐ 209 | Rust | 43/100 |
+| 387 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
+| 388 | [calcit-lang/calcit](./calcit-lang-calcit.md) | ⭐ 138 | Rust | 41/100 |
+| 389 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 31/100 |
 
 ---
 

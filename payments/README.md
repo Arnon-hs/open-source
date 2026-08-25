@@ -253,8 +253,8 @@
 | 243 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 48/100 |
 | 244 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 48/100 |
 | 245 | [bytedoger/awesome-OpenPrice](./bytedoger-awesome-openprice.md) | ⭐ 74 | TypeScript | 47/100 |
-| 246 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 61 | Swift | 47/100 |
-| 247 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 47/100 |
+| 246 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 47/100 |
+| 247 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 61 | Swift | 47/100 |
 | 248 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 104 | Go | 47/100 |
 | 249 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.3k | C# | 47/100 |
 | 250 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 47/100 |

@@ -322,8 +322,8 @@
 | 312 | [steel-dev/awesome-web-agents](./steel-dev-awesome-web-agents.md) | ⭐ 1.4k | Python | 66/100 |
 | 313 | [gradle/gradle](./gradle-gradle.md) | ⭐ 18.5k | Groovy | 66/100 |
 | 314 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
-| 315 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
-| 316 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 315 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 316 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
 | 317 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 318 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 319 | [kunchenguid/chrome-devtools-axi](./kunchenguid-chrome-devtools-axi.md) | ⭐ 306 | TypeScript | 65/100 |
@@ -400,8 +400,8 @@
 | 390 | [signalridge/slipway](./signalridge-slipway.md) | ⭐ 21 | Go | 64/100 |
 | 391 | [dvcoolarun/web2pdf](./dvcoolarun-web2pdf.md) | ⭐ 1.3k | Python | 64/100 |
 | 392 | [krypton-byte/neonize](./krypton-byte-neonize.md) | ⭐ 423 | Python | 64/100 |
-| 393 | [channprj/kmsg](./channprj-kmsg.md) | ⭐ 222 | Swift | 64/100 |
-| 394 | [karanb192/claude-code-hooks](./karanb192-claude-code-hooks.md) | ⭐ 435 | JavaScript | 64/100 |
+| 393 | [karanb192/claude-code-hooks](./karanb192-claude-code-hooks.md) | ⭐ 435 | JavaScript | 64/100 |
+| 394 | [channprj/kmsg](./channprj-kmsg.md) | ⭐ 222 | Swift | 64/100 |
 | 395 | [czlonkowski/n8n-skills](./czlonkowski-n8n-skills.md) | ⭐ 5.7k | Shell | 64/100 |
 | 396 | [ohdearquant/lionagi](./ohdearquant-lionagi.md) | ⭐ 398 | Python | 64/100 |
 | 397 | [alan-ai/alan-sdk-web](./alan-ai-alan-sdk-web.md) | ⭐ 2.4k | — | 64/100 |
@@ -534,8 +534,8 @@
 | 524 | [garagon/nanostack](./garagon-nanostack.md) | ⭐ 194 | Shell | 62/100 |
 | 525 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 526 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 527 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 528 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 527 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 528 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 529 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 530 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 531 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1171,8 +1171,8 @@
 | 1161 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
 | 1162 | [agronholm/apscheduler](./agronholm-apscheduler.md) | ⭐ — | — | 38/100 |
 | 1163 | [roughnecks/ffetcher](./roughnecks-ffetcher.md) | ⭐ — | — | 37/100 |
-| 1164 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
-| 1165 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
+| 1164 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
+| 1165 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
 | 1166 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 37/100 |
 | 1167 | [vifudotdev/vifu](./vifudotdev-vifu.md) | ⭐ — | — | 36/100 |
 | 1168 | [fellowgeek/in-meeting](./fellowgeek-in-meeting.md) | ⭐ — | — | 36/100 |
@@ -1224,8 +1224,8 @@
 | 1214 | [kristofers322/SvelteChatKit](./kristofers322-sveltechatkit.md) | ⭐ — | — | 31/100 |
 | 1215 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 31/100 |
 | 1216 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 31/100 |
-| 1217 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1218 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1217 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1218 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 
 ---
 

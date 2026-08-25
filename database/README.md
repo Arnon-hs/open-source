@@ -563,8 +563,8 @@
 | 553 | [ShahramMebashar/cairn](./shahrammebashar-cairn.md) | ⭐ — | — | 31/100 |
 | 554 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 31/100 |
 | 555 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ — | — | 31/100 |
-| 556 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 31/100 |
-| 557 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 31/100 |
+| 556 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 31/100 |
+| 557 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 31/100 |
 | 558 | [intellideep/nlproxy](./intellideep-nlproxy.md) | ⭐ — | — | 31/100 |
 | 559 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 31/100 |
 | 560 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ — | — | 28/100 |

@@ -77,8 +77,8 @@
 | 67 | [QuantConnect/Lean](./quantconnect-lean.md) | ⭐ 18.8k | C# | 61/100 |
 | 68 | [bmoscon/orderbook](./bmoscon-orderbook.md) | ⭐ 318 | Python | 60/100 |
 | 69 | [qusong0627/QuantMind](./qusong0627-quantmind.md) | ⭐ 524 | Python | 60/100 |
-| 70 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 60/100 |
-| 71 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 60/100 |
+| 70 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 60/100 |
+| 71 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 60/100 |
 | 72 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 60/100 |
 | 73 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.1k | Python | 59/100 |
 | 74 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 208 | Rust | 59/100 |
