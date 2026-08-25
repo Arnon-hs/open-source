@@ -182,8 +182,8 @@
 | 172 | [miroslavpejic85/call-me](./miroslavpejic85-call-me.md) | ⭐ 759 | JavaScript | 62/100 |
 | 173 | [Websoft9/websoft9](./websoft9-websoft9.md) | ⭐ 2.1k | Python | 62/100 |
 | 174 | [huangchengsir/pipewright](./huangchengsir-pipewright.md) | ⭐ 31 | Go | 61/100 |
-| 175 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 61/100 |
-| 176 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 177 | Go | 61/100 |
+| 175 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 177 | Go | 61/100 |
+| 176 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 61/100 |
 | 177 | [unikraft/kraftkit](./unikraft-kraftkit.md) | ⭐ 437 | Go | 61/100 |
 | 178 | [kubernetes-sigs/kro](./kubernetes-sigs-kro.md) | ⭐ 3k | Go | 61/100 |
 | 179 | [tektoncd/pipelines-as-code](./tektoncd-pipelines-as-code.md) | ⭐ 208 | Go | 61/100 |
@@ -546,8 +546,8 @@
 | 536 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 43/100 |
 | 537 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 291 | Rust | 43/100 |
 | 538 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
-| 539 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 540 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 539 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 540 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 541 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ — | — | 42/100 |
 | 542 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ — | — | 42/100 |
 | 543 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ — | — | 42/100 |
