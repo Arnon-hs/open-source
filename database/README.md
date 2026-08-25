@@ -154,8 +154,8 @@
 | 144 | [linq2db/linq2db](./linq2db-linq2db.md) | ⭐ 3.3k | C# | 58/100 |
 | 145 | [exceptionless/Exceptionless](./exceptionless-exceptionless.md) | ⭐ 2.5k | C# | 58/100 |
 | 146 | [walinejs/waline](./walinejs-waline.md) | ⭐ 3k | JavaScript | 58/100 |
-| 147 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 768 | PHP | 58/100 |
-| 148 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 841 | Java | 58/100 |
+| 147 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 841 | Java | 58/100 |
+| 148 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 768 | PHP | 58/100 |
 | 149 | [signal18/replication-manager](./signal18-replication-manager.md) | ⭐ 729 | Go | 58/100 |
 | 150 | [postgis/postgis](./postgis-postgis.md) | ⭐ 2.2k | PLpgSQL | 57/100 |
 | 151 | [sqlite/sqlite](./sqlite-sqlite.md) | ⭐ 10.3k | C | 57/100 |
@@ -531,8 +531,8 @@
 | 521 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 31/100 |
 | 522 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 31/100 |
 | 523 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ — | — | 31/100 |
-| 524 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
-| 525 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 524 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 525 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
 | 526 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ — | — | 31/100 |
 | 527 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 31/100 |
 | 528 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 31/100 |
