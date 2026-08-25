@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33181** |
-| **Categories** | **37** |
+| **Projects** | **33196** |
+| **Categories** | **39** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14919 | [Browse →](./misc/) |
+| 📦 **Misc** | 14925 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3254 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2524 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2525 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2177 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1334 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1218 | [Browse →](./automation/) |
+| 🔧 **DevTools** | 1335 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 1219 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 961 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 890 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 748 | [Browse →](./crypto/) |
@@ -36,12 +36,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 603 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 570 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 554 | [Browse →](./knowledgerag/) |
-| 🏷️ **Templates** | 409 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 410 | [Browse →](./templates/) |
 | 📊 **Data** | 389 | [Browse →](./data/) |
 | 🔐 **Security** | 385 | [Browse →](./security/) |
 | 🏷️ **Observability** | 334 | [Browse →](./observability/) |
-| 💳 **Payments** | 297 | [Browse →](./payments/) |
-| 🏷️ **Video-editing** | 268 | [Browse →](./video-editing/) |
+| 💳 **Payments** | 298 | [Browse →](./payments/) |
+| 🏷️ **Video-editing** | 269 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 181 | [Browse →](./trading/) |
 | ✨ **Design** | 162 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 122 | [Browse →](./content-creation/) |
@@ -50,7 +50,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Memory** | 1 | [Browse →](./memory/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
