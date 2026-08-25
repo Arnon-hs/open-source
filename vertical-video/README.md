@@ -2,7 +2,7 @@
 
 > 
 
-**68 projects** in this category.
+**69 projects** in this category.
 
 ## Projects
 
@@ -58,24 +58,25 @@
 | 48 | [JayWebtech/autoshorts](./jaywebtech-autoshorts.md) | ⭐ 638 | Rust | 60/100 |
 | 49 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 1.7k | Python | 60/100 |
 | 50 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 51 | Python | 58/100 |
-| 51 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 45 | HTML | 57/100 |
-| 52 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 41 | — | 57/100 |
-| 53 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 15 | C# | 57/100 |
-| 54 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 11 | Python | 56/100 |
-| 55 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 51 | JavaScript | 56/100 |
-| 56 | [m1ng-li/mac-thermalright-ai-monitor](./m1ng-li-mac-thermalright-ai-monitor.md) | ⭐ 46 | Swift | 56/100 |
-| 57 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 55/100 |
-| 58 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
-| 59 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
-| 60 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 53/100 |
-| 61 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 53/100 |
-| 62 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 53/100 |
-| 63 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
-| 64 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 50/100 |
-| 65 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 50/100 |
-| 66 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
-| 67 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 430 | PHP | 48/100 |
-| 68 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 340 | PHP | 45/100 |
+| 51 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 11 | Python | 57/100 |
+| 52 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 45 | HTML | 57/100 |
+| 53 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 41 | — | 57/100 |
+| 54 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 15 | C# | 57/100 |
+| 55 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 11 | Python | 56/100 |
+| 56 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 51 | JavaScript | 56/100 |
+| 57 | [m1ng-li/mac-thermalright-ai-monitor](./m1ng-li-mac-thermalright-ai-monitor.md) | ⭐ 46 | Swift | 56/100 |
+| 58 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 55/100 |
+| 59 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
+| 60 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
+| 61 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 53/100 |
+| 62 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 53/100 |
+| 63 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 53/100 |
+| 64 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
+| 65 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 50/100 |
+| 66 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 50/100 |
+| 67 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
+| 68 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 430 | PHP | 48/100 |
+| 69 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 340 | PHP | 45/100 |
 
 ---
 

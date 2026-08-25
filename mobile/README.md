@@ -293,8 +293,8 @@
 | 283 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 4.2k | Kotlin | 53/100 |
 | 284 | [tanujnotes/Olauncher](./tanujnotes-olauncher.md) | ⭐ 3.6k | Kotlin | 53/100 |
 | 285 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.4k | Kotlin | 53/100 |
-| 286 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 53/100 |
-| 287 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 53/100 |
+| 286 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 53/100 |
+| 287 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 53/100 |
 | 288 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 431 | Java | 53/100 |
 | 289 | [MuntashirAkon/AppManager](./muntashirakon-appmanager.md) | ⭐ 8.4k | Java | 53/100 |
 | 290 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.6k | Java | 53/100 |
@@ -459,8 +459,8 @@
 | 449 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 214 | Shell | 49/100 |
 | 450 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 49/100 |
 | 451 | [HatsuneMikuUwU/MikuBoxForAndroid](./hatsunemikuuwu-mikuboxforandroid.md) | ⭐ 621 | Kotlin | 49/100 |
-| 452 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 905 | Kotlin | 49/100 |
-| 453 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 694 | Kotlin | 49/100 |
+| 452 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 694 | Kotlin | 49/100 |
+| 453 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 905 | Kotlin | 49/100 |
 | 454 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.6k | Java | 49/100 |
 | 455 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 49/100 |
 | 456 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 559 | Kotlin | 49/100 |
@@ -699,8 +699,8 @@
 | 689 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 31/100 |
 | 690 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 31/100 |
 | 691 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 31/100 |
-| 692 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 31/100 |
-| 693 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 31/100 |
+| 692 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 31/100 |
+| 693 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 31/100 |
 | 694 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 31/100 |
 | 695 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 31/100 |
 | 696 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 31/100 |
