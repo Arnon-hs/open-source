@@ -263,8 +263,8 @@
 | 253 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 48/100 |
 | 254 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 48/100 |
 | 255 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 47/100 |
-| 256 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 47/100 |
-| 257 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 47/100 |
+| 256 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 47/100 |
+| 257 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 47/100 |
 | 258 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 47/100 |
 | 259 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 556 | C | 47/100 |
 | 260 | [tkhq/qos](./tkhq-qos.md) | ⭐ 114 | Rust | 47/100 |
@@ -346,8 +346,8 @@
 | 336 | [MSNightmare/ShieldBreak](./msnightmare-shieldbreak.md) | ⭐ — | — | 38/100 |
 | 337 | [GnomeMan4201/reasoning-diff-lab](./gnomeman4201-reasoning-diff-lab.md) | ⭐ — | — | 36/100 |
 | 338 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ — | — | 36/100 |
-| 339 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 36/100 |
-| 340 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 36/100 |
+| 339 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 36/100 |
+| 340 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 36/100 |
 | 341 | [arm/metis](./arm-metis.md) | ⭐ — | — | 36/100 |
 | 342 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 36/100 |
 | 343 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 36/100 |
@@ -356,9 +356,9 @@
 | 346 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
 | 347 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 35/100 |
 | 348 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 35/100 |
-| 349 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 35/100 |
-| 350 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 35/100 |
-| 351 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 35/100 |
+| 349 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 35/100 |
+| 350 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 35/100 |
+| 351 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 35/100 |
 | 352 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 35/100 |
 | 353 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 35/100 |
 | 354 | [ion-elgreco/rivers](./ion-elgreco-rivers.md) | ⭐ — | — | 35/100 |

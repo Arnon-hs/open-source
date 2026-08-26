@@ -555,8 +555,8 @@
 | 545 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 31/100 |
 | 546 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 31/100 |
 | 547 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 31/100 |
-| 548 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
-| 549 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
+| 548 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
+| 549 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
 | 550 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 31/100 |
 | 551 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 31/100 |
 | 552 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 31/100 |
