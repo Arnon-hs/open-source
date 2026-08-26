@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33227** |
+| **Projects** | **33234** |
 | **Categories** | **40** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14941 | [Browse →](./misc/) |
+| 📦 **Misc** | 14945 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3256 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2525 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2178 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1336 | [Browse →](./devtools/) |
+| 🧩 **Orchestration** | 2179 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 1337 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1222 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 961 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 890 | [Browse →](./backend/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔐 **Security** | 386 | [Browse →](./security/) |
 | 🏷️ **Observability** | 335 | [Browse →](./observability/) |
 | 💳 **Payments** | 298 | [Browse →](./payments/) |
-| 🏷️ **Video-editing** | 269 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 270 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 182 | [Browse →](./trading/) |
 | ✨ **Design** | 162 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 122 | [Browse →](./content-creation/) |
@@ -76,8 +76,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 6 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
 | 7 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
 | 8 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 9 | [coze-dev/coze-studio](./knowledgerag/coze-dev-coze-studio.md) | ⭐ 21.3k | Knowledgerag |
-| 10 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | ⭐ 14.9k | Templates |
+| 9 | [hwchase17/langchain](./orchestration/hwchase17-langchain.md) | ⭐ 145k | Orchestration |
+| 10 | [coze-dev/coze-studio](./knowledgerag/coze-dev-coze-studio.md) | ⭐ 21.3k | Knowledgerag |
 
 ## What each entry includes
 
