@@ -120,8 +120,8 @@
 | 110 | [dolthub/doltgresql](./dolthub-doltgresql.md) | ⭐ 2.1k | Go | 59/100 |
 | 111 | [2shady4u/godot-sqlite](./2shady4u-godot-sqlite.md) | ⭐ 1.4k | C++ | 59/100 |
 | 112 | [apache/skywalking-banyandb](./apache-skywalking-banyandb.md) | ⭐ 348 | Go | 59/100 |
-| 113 | [tursodatabase/turso-cli](./tursodatabase-turso-cli.md) | ⭐ 319 | Go | 59/100 |
-| 114 | [dotnet/EntityFramework.Docs](./dotnet-entityframework.docs.md) | ⭐ 1.7k | Mermaid | 59/100 |
+| 113 | [dotnet/EntityFramework.Docs](./dotnet-entityframework.docs.md) | ⭐ 1.7k | Mermaid | 59/100 |
+| 114 | [tursodatabase/turso-cli](./tursodatabase-turso-cli.md) | ⭐ 319 | Go | 59/100 |
 | 115 | [mongodb/mongo-python-driver](./mongodb-mongo-python-driver.md) | ⭐ 4.4k | Python | 59/100 |
 | 116 | [5e-bits/5e-database](./5e-bits-5e-database.md) | ⭐ 918 | TypeScript | 59/100 |
 | 117 | [digoal/blog](./digoal-blog.md) | ⭐ 8.5k | HTML | 59/100 |
@@ -533,8 +533,8 @@
 | 523 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 31/100 |
 | 524 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 31/100 |
 | 525 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ — | — | 31/100 |
-| 526 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
-| 527 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 526 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 527 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
 | 528 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ — | — | 31/100 |
 | 529 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 31/100 |
 | 530 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 31/100 |
