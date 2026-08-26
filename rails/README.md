@@ -1,4 +1,4 @@
-# 🏷️ Llm
+# 🏷️ Rails
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [datago_8008/burn_probe](./datago-8008-burn-probe.md) | ⭐ — | — | 27/100 |
+| 1 | [your-org/hstore-translate](./your-org-hstore-translate.md) | ⭐ — | — | 24/100 |
 
 ---
 
