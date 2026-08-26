@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33209** |
+| **Projects** | **33211** |
 | **Categories** | **39** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 14933 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3255 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 3256 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2525 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2177 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1335 | [Browse →](./devtools/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 603 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 570 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 554 | [Browse →](./knowledgerag/) |
-| 🏷️ **Templates** | 410 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 411 | [Browse →](./templates/) |
 | 📊 **Data** | 389 | [Browse →](./data/) |
 | 🔐 **Security** | 385 | [Browse →](./security/) |
 | 🏷️ **Observability** | 334 | [Browse →](./observability/) |
