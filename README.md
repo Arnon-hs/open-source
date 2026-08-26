@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33266** |
-| **Categories** | **43** |
+| **Projects** | **33289** |
+| **Categories** | **46** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,22 +23,22 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14964 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3258 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2525 | [Browse →](./mcp/) |
+| 📦 **Misc** | 14974 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3259 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2526 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2179 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1338 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1223 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 961 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 890 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 891 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 749 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 704 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 606 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 609 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 570 | [Browse →](./database/) |
-| 🏷️ **Knowledgerag** | 554 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 556 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 411 | [Browse →](./templates/) |
 | 📊 **Data** | 389 | [Browse →](./data/) |
-| 🔐 **Security** | 386 | [Browse →](./security/) |
+| 🔐 **Security** | 388 | [Browse →](./security/) |
 | 🏷️ **Observability** | 336 | [Browse →](./observability/) |
 | 💳 **Payments** | 299 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 271 | [Browse →](./video-editing/) |
@@ -52,6 +52,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Agents** | 1 | [Browse →](./agents/) |
+| 🏷️ **Java** | 1 | [Browse →](./java/) |
+| 🏷️ **Self-hosted** | 1 | [Browse →](./self-hosted/) |
 | 🏷️ **Llm** | 1 | [Browse →](./llm/) |
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Azure** | 1 | [Browse →](./azure/) |
