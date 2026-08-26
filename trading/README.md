@@ -70,8 +70,8 @@
 | 60 | [HiThink-Tech/Financial-API](./hithink-tech-financial-api.md) | ⭐ 96 | Python | 62/100 |
 | 61 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 25.3k | Python | 62/100 |
 | 62 | [Krexind/quant-trading](./krexind-quant-trading.md) | ⭐ 38 | Python | 61/100 |
-| 63 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 61/100 |
-| 64 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 61/100 |
+| 63 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 61/100 |
+| 64 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 61/100 |
 | 65 | [hugodemenez/deltalytix](./hugodemenez-deltalytix.md) | ⭐ 126 | TypeScript | 61/100 |
 | 66 | [shinnytech/tqsdk-python](./shinnytech-tqsdk-python.md) | ⭐ 4.7k | Python | 61/100 |
 | 67 | [QuantConnect/Lean](./quantconnect-lean.md) | ⭐ 18.8k | C# | 61/100 |
