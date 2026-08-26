@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33214** |
-| **Categories** | **39** |
+| **Projects** | **33222** |
+| **Categories** | **40** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,22 +23,22 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14935 | [Browse →](./misc/) |
+| 📦 **Misc** | 14938 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3256 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2525 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2177 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2178 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1335 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1221 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1222 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 961 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 890 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 749 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 704 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 603 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 604 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 570 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 554 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 411 | [Browse →](./templates/) |
 | 📊 **Data** | 389 | [Browse →](./data/) |
-| 🔐 **Security** | 385 | [Browse →](./security/) |
+| 🔐 **Security** | 386 | [Browse →](./security/) |
 | 🏷️ **Observability** | 334 | [Browse →](./observability/) |
 | 💳 **Payments** | 298 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 269 | [Browse →](./video-editing/) |
@@ -52,6 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Visa** | 1 | [Browse →](./visa/) |
 | 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Memory** | 1 | [Browse →](./memory/) |
