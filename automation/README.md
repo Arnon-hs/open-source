@@ -1175,8 +1175,8 @@
 | 1165 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
 | 1166 | [agronholm/apscheduler](./agronholm-apscheduler.md) | ⭐ — | — | 38/100 |
 | 1167 | [roughnecks/ffetcher](./roughnecks-ffetcher.md) | ⭐ — | — | 37/100 |
-| 1168 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
-| 1169 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
+| 1168 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
+| 1169 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
 | 1170 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 37/100 |
 | 1171 | [vifudotdev/vifu](./vifudotdev-vifu.md) | ⭐ — | — | 36/100 |
 | 1172 | [fellowgeek/in-meeting](./fellowgeek-in-meeting.md) | ⭐ — | — | 36/100 |
@@ -1220,16 +1220,16 @@
 | 1210 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 31/100 |
 | 1211 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 31/100 |
 | 1212 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 31/100 |
-| 1213 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
-| 1214 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
+| 1213 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
+| 1214 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
 | 1215 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 31/100 |
 | 1216 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 31/100 |
 | 1217 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 31/100 |
 | 1218 | [kristofers322/SvelteChatKit](./kristofers322-sveltechatkit.md) | ⭐ — | — | 31/100 |
 | 1219 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 31/100 |
 | 1220 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 31/100 |
-| 1221 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1222 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1221 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1222 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 
 ---
 

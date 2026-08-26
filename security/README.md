@@ -344,8 +344,8 @@
 | 334 | [MSNightmare/ShieldBreak](./msnightmare-shieldbreak.md) | ⭐ — | — | 38/100 |
 | 335 | [GnomeMan4201/reasoning-diff-lab](./gnomeman4201-reasoning-diff-lab.md) | ⭐ — | — | 36/100 |
 | 336 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ — | — | 36/100 |
-| 337 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 36/100 |
-| 338 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 36/100 |
+| 337 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 36/100 |
+| 338 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 36/100 |
 | 339 | [arm/metis](./arm-metis.md) | ⭐ — | — | 36/100 |
 | 340 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 36/100 |
 | 341 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 36/100 |
@@ -354,9 +354,9 @@
 | 344 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
 | 345 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 35/100 |
 | 346 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 35/100 |
-| 347 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 35/100 |
-| 348 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 35/100 |
-| 349 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 35/100 |
+| 347 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 35/100 |
+| 348 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 35/100 |
+| 349 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 35/100 |
 | 350 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 35/100 |
 | 351 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 35/100 |
 | 352 | [ion-elgreco/rivers](./ion-elgreco-rivers.md) | ⭐ — | — | 35/100 |
