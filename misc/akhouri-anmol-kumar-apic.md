@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-08-06 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-Akhouri-Anmol-Kumar/APIC: . Use it for Misc. 
+Akhouri-Anmol-Kumar/APIC: Akhouri-Anmol-Kumar/APIC may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
@@ -35,25 +35,27 @@ Akhouri-Anmol-Kumar/APIC: open-source проект в категориях Misc.
 
 ### 中文
 
-Akhouri-Anmol-Kumar/APIC：。适合用于Misc。
+Akhouri-Anmol-Kumar/APIC：Akhouri-Anmol-Kumar/APIC may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** Akhouri-Anmol-Kumar/APIC may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 1 GitHub stars
+- updated 2026-08-06
+- 16 topics
 
-**Risks:** No metadata risk notes yet.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
@@ -70,7 +72,6 @@ Akhouri-Anmol-Kumar/APIC：。适合用于Misc。
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 0/100 |
 
 ---
 
