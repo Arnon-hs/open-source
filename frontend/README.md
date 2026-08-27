@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**961 projects** in this category.
+**962 projects** in this category.
 
 ## Projects
 
@@ -531,8 +531,8 @@
 | 521 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 890 | TypeScript | 56/100 |
 | 522 | [danmolitor/forme](./danmolitor-forme.md) | ⭐ 145 | Rust | 56/100 |
 | 523 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 803 | TypeScript | 56/100 |
-| 524 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 56/100 |
-| 525 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.1k | TypeScript | 56/100 |
+| 524 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.1k | TypeScript | 56/100 |
+| 525 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 56/100 |
 | 526 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2k | TypeScript | 56/100 |
 | 527 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 320 | TypeScript | 56/100 |
 | 528 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 637 | Rust | 56/100 |
@@ -675,8 +675,8 @@
 | 665 | [gnoviawan/termul](./gnoviawan-termul.md) | ⭐ 149 | TypeScript | 54/100 |
 | 666 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 44 | TypeScript | 54/100 |
 | 667 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 247 | Rust | 54/100 |
-| 668 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 4.9k | C | 54/100 |
-| 669 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 54/100 |
+| 668 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 54/100 |
+| 669 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 4.9k | C | 54/100 |
 | 670 | [SpartanJ/eepp](./spartanj-eepp.md) | ⭐ 620 | C++ | 54/100 |
 | 671 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.3k | Astro | 54/100 |
 | 672 | [VKCOM/VKUI](./vkcom-vkui.md) | ⭐ 1.1k | TypeScript | 54/100 |
@@ -952,23 +952,24 @@
 | 942 | [plone/volto](./plone-volto.md) | ⭐ 612 | JavaScript | 44/100 |
 | 943 | [Mystic-Stars/Axolotl](./mystic-stars-axolotl.md) | ⭐ 107 | Rust | 43/100 |
 | 944 | [renzora/engine](./renzora-engine.md) | ⭐ 135 | Rust | 43/100 |
-| 945 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ — | — | 42/100 |
-| 946 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ — | — | 42/100 |
+| 945 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ — | — | 42/100 |
+| 946 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ — | — | 42/100 |
 | 947 | [dekirisu/mevy](./dekirisu-mevy.md) | ⭐ 125 | Rust | 42/100 |
 | 948 | [greeeen-dev/natsumi-browser](./greeeen-dev-natsumi-browser.md) | ⭐ 666 | JavaScript | 42/100 |
 | 949 | [Coursemology/coursemology2](./coursemology-coursemology2.md) | ⭐ 156 | Ruby | 41/100 |
-| 950 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ — | — | 40/100 |
-| 951 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 64 | Java | 40/100 |
-| 952 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
-| 953 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ — | — | 39/100 |
-| 954 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 36/100 |
-| 955 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 36/100 |
-| 956 | [thuangf45/LuciaCore.Assets](./thuangf45-luciacore.assets.md) | ⭐ — | — | 36/100 |
-| 957 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ — | — | 34/100 |
-| 958 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
-| 959 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ — | — | 33/100 |
-| 960 | [Anmol-Baranwal/hndigest](./anmol-baranwal-hndigest.md) | ⭐ — | — | 30/100 |
-| 961 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 30/100 |
+| 950 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 1 | HTML | 40/100 |
+| 951 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ — | — | 40/100 |
+| 952 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 64 | Java | 40/100 |
+| 953 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
+| 954 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ — | — | 39/100 |
+| 955 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 36/100 |
+| 956 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 36/100 |
+| 957 | [thuangf45/LuciaCore.Assets](./thuangf45-luciacore.assets.md) | ⭐ — | — | 36/100 |
+| 958 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ — | — | 34/100 |
+| 959 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
+| 960 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ — | — | 33/100 |
+| 961 | [Anmol-Baranwal/hndigest](./anmol-baranwal-hndigest.md) | ⭐ — | — | 30/100 |
+| 962 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 30/100 |
 
 ---
 

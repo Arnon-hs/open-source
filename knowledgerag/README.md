@@ -344,8 +344,8 @@
 | 334 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 55/100 |
 | 335 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 55/100 |
 | 336 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 55/100 |
-| 337 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 55/100 |
-| 338 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 55/100 |
+| 337 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 55/100 |
+| 338 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 55/100 |
 | 339 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 55/100 |
 | 340 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 55/100 |
 | 341 | [lux-db/lux](./lux-db-lux.md) | ⭐ 270 | Rust | 55/100 |
@@ -469,8 +469,8 @@
 | 459 | [kenforthewin/atomic](./kenforthewin-atomic.md) | ⭐ 1.4k | Rust | 48/100 |
 | 460 | [ChuckHend/pg_vectorize](./chuckhend-pg-vectorize.md) | ⭐ 831 | Rust | 48/100 |
 | 461 | [crawlchat/crawlchat](./crawlchat-crawlchat.md) | ⭐ 119 | TypeScript | 48/100 |
-| 462 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
-| 463 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
+| 462 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
+| 463 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
 | 464 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
 | 465 | [software-mansion/react-native-executorch](./software-mansion-react-native-executorch.md) | ⭐ 1.5k | C++ | 48/100 |
 | 466 | [1661169091kiwi/Knote](./1661169091kiwi-knote.md) | ⭐ 37 | Vue | 47/100 |
@@ -516,22 +516,22 @@
 | 506 | [rimironenko/rag-staleness-check](./rimironenko-rag-staleness-check.md) | ⭐ — | — | 39/100 |
 | 507 | [DemigodDSK/hubmesh](./demigoddsk-hubmesh.md) | ⭐ — | — | 39/100 |
 | 508 | [antonyrag/ragleap-core](./antonyrag-ragleap-core.md) | ⭐ — | — | 39/100 |
-| 509 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
+| 509 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
 | 510 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
-| 511 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
+| 511 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
 | 512 | [Ajay6601/embedcache](./ajay6601-embedcache.md) | ⭐ — | — | 39/100 |
 | 513 | [impel-intelligence/Minna](./impel-intelligence-minna.md) | ⭐ — | — | 38/100 |
 | 514 | [pollockchris083-arch/counterentry](./pollockchris083-arch-counterentry.md) | ⭐ — | — | 38/100 |
 | 515 | [punnerud/Local_Knowledge_Graph](./punnerud-local-knowledge-graph.md) | ⭐ — | — | 38/100 |
 | 516 | [asanabrial/leteo](./asanabrial-leteo.md) | ⭐ — | — | 38/100 |
 | 517 | [cloudkj/lance-bundle](./cloudkj-lance-bundle.md) | ⭐ — | — | 38/100 |
-| 518 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 38/100 |
-| 519 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 38/100 |
+| 518 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 38/100 |
+| 519 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 38/100 |
 | 520 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 37/100 |
 | 521 | [sentence-transformers/all-MiniLM-L12-v2](./sentence-transformers-all-minilm-l12-v2.md) | ⭐ 324 | sentence-transformers | 37/100 |
 | 522 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 37/100 |
-| 523 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 37/100 |
-| 524 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 37/100 |
+| 523 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 37/100 |
+| 524 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 37/100 |
 | 525 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 37/100 |
 | 526 | [gnosislabstech/marrow](./gnosislabstech-marrow.md) | ⭐ — | — | 36/100 |
 | 527 | [chrisgagne/grounded-forge](./chrisgagne-grounded-forge.md) | ⭐ — | — | 36/100 |
