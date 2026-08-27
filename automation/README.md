@@ -401,8 +401,8 @@
 | 391 | [signalridge/slipway](./signalridge-slipway.md) | ⭐ 21 | Go | 64/100 |
 | 392 | [dvcoolarun/web2pdf](./dvcoolarun-web2pdf.md) | ⭐ 1.3k | Python | 64/100 |
 | 393 | [krypton-byte/neonize](./krypton-byte-neonize.md) | ⭐ 423 | Python | 64/100 |
-| 394 | [channprj/kmsg](./channprj-kmsg.md) | ⭐ 222 | Swift | 64/100 |
-| 395 | [karanb192/claude-code-hooks](./karanb192-claude-code-hooks.md) | ⭐ 435 | JavaScript | 64/100 |
+| 394 | [karanb192/claude-code-hooks](./karanb192-claude-code-hooks.md) | ⭐ 435 | JavaScript | 64/100 |
+| 395 | [channprj/kmsg](./channprj-kmsg.md) | ⭐ 222 | Swift | 64/100 |
 | 396 | [czlonkowski/n8n-skills](./czlonkowski-n8n-skills.md) | ⭐ 5.7k | Shell | 64/100 |
 | 397 | [ohdearquant/lionagi](./ohdearquant-lionagi.md) | ⭐ 398 | Python | 64/100 |
 | 398 | [alan-ai/alan-sdk-web](./alan-ai-alan-sdk-web.md) | ⭐ 2.4k | — | 64/100 |
@@ -535,8 +535,8 @@
 | 525 | [garagon/nanostack](./garagon-nanostack.md) | ⭐ 194 | Shell | 62/100 |
 | 526 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 527 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 528 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 529 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 528 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 529 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 530 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 531 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 532 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1177,8 +1177,8 @@
 | 1167 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
 | 1168 | [agronholm/apscheduler](./agronholm-apscheduler.md) | ⭐ — | — | 38/100 |
 | 1169 | [roughnecks/ffetcher](./roughnecks-ffetcher.md) | ⭐ — | — | 37/100 |
-| 1170 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
-| 1171 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
+| 1170 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
+| 1171 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
 | 1172 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 37/100 |
 | 1173 | [vifudotdev/vifu](./vifudotdev-vifu.md) | ⭐ — | — | 36/100 |
 | 1174 | [fellowgeek/in-meeting](./fellowgeek-in-meeting.md) | ⭐ — | — | 36/100 |
@@ -1222,8 +1222,8 @@
 | 1212 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 31/100 |
 | 1213 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 31/100 |
 | 1214 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 31/100 |
-| 1215 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
-| 1216 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
+| 1215 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
+| 1216 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
 | 1217 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 31/100 |
 | 1218 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 31/100 |
 | 1219 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 31/100 |
