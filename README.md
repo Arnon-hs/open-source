@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33398** |
-| **Categories** | **49** |
+| **Projects** | **33408** |
+| **Categories** | **50** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15044 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3268 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15052 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3269 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2530 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2182 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1338 | [Browse →](./devtools/) |
@@ -53,6 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **App-migration** | 1 | [Browse →](./app-migration/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Agent-security** | 1 | [Browse →](./agent-security/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |

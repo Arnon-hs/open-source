@@ -552,8 +552,8 @@
 | 542 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 43/100 |
 | 543 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 291 | Rust | 43/100 |
 | 544 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
-| 545 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 546 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 545 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 546 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 547 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ — | — | 42/100 |
 | 548 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ — | — | 42/100 |
 | 549 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ — | — | 42/100 |
