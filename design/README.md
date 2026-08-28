@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**162 projects** in this category.
+**163 projects** in this category.
 
 ## Projects
 
@@ -112,64 +112,65 @@
 | 102 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 48/100 |
 | 103 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 48/100 |
 | 104 | [benjaminshoemaker/ai_coding_project_base](./benjaminshoemaker-ai-coding-project-base.md) | ⭐ 41 | Shell | 48/100 |
-| 105 | [swisspost/design-system](./swisspost-design-system.md) | ⭐ 173 | SCSS | 47/100 |
-| 106 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 390 | HTML | 47/100 |
-| 107 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 355 | MDX | 47/100 |
-| 108 | [coinbase/cds](./coinbase-cds.md) | ⭐ 488 | TypeScript | 47/100 |
-| 109 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 364 | Rust | 47/100 |
-| 110 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 141 | Rust | 47/100 |
-| 111 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 47/100 |
-| 112 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
-| 113 | [bencium/bencium-marketplace](./bencium-bencium-marketplace.md) | ⭐ 354 | — | 46/100 |
-| 114 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 101 | Rust | 46/100 |
-| 115 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 572 | Rust | 46/100 |
-| 116 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 322 | HTML | 46/100 |
-| 117 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.3k | WebAssembly | 46/100 |
-| 118 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 46/100 |
-| 119 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 734 | Assembly | 46/100 |
-| 120 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 759 | JavaScript | 46/100 |
-| 121 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 701 | Shell | 46/100 |
-| 122 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
-| 123 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 629 | TypeScript | 46/100 |
-| 124 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 707 | Emacs Lisp | 46/100 |
-| 125 | [EightPotions/Myli](./eightpotions-myli.md) | ⭐ — | — | 45/100 |
-| 126 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.1k | C++ | 45/100 |
-| 127 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 120 | Rust | 45/100 |
-| 128 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 605 | Java | 45/100 |
-| 129 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 45/100 |
-| 130 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 45/100 |
-| 131 | [ghaida/intent](./ghaida-intent.md) | ⭐ 88 | CSS | 44/100 |
-| 132 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 43/100 |
-| 133 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 43/100 |
-| 134 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 41/100 |
-| 135 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ — | — | 40/100 |
-| 136 | [David-OConnor/bio_tools](./david-oconnor-bio-tools.md) | ⭐ — | — | 39/100 |
-| 137 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
-| 138 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
-| 139 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
-| 140 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ — | — | 38/100 |
-| 141 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ — | — | 36/100 |
-| 142 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ — | — | 36/100 |
-| 143 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 36/100 |
-| 144 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ — | — | 35/100 |
-| 145 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 35/100 |
-| 146 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 35/100 |
-| 147 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 35/100 |
-| 148 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 35/100 |
-| 149 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 35/100 |
-| 150 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ — | — | 35/100 |
-| 151 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 35/100 |
-| 152 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 35/100 |
-| 153 | [Nutlope/hallmark](./nutlope-hallmark.md) | ⭐ — | — | 35/100 |
-| 154 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 33/100 |
-| 155 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 31/100 |
-| 156 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 31/100 |
-| 157 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 31/100 |
-| 158 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 31/100 |
-| 159 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ — | — | 31/100 |
-| 160 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 30/100 |
-| 161 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 28/100 |
-| 162 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 28/100 |
+| 105 | [remojansen/rflct](./remojansen-rflct.md) | ⭐ 2 | TypeScript | 47/100 |
+| 106 | [swisspost/design-system](./swisspost-design-system.md) | ⭐ 173 | SCSS | 47/100 |
+| 107 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 390 | HTML | 47/100 |
+| 108 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 355 | MDX | 47/100 |
+| 109 | [coinbase/cds](./coinbase-cds.md) | ⭐ 488 | TypeScript | 47/100 |
+| 110 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 364 | Rust | 47/100 |
+| 111 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 141 | Rust | 47/100 |
+| 112 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 47/100 |
+| 113 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
+| 114 | [bencium/bencium-marketplace](./bencium-bencium-marketplace.md) | ⭐ 354 | — | 46/100 |
+| 115 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 101 | Rust | 46/100 |
+| 116 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 572 | Rust | 46/100 |
+| 117 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 322 | HTML | 46/100 |
+| 118 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.3k | WebAssembly | 46/100 |
+| 119 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 46/100 |
+| 120 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 734 | Assembly | 46/100 |
+| 121 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 759 | JavaScript | 46/100 |
+| 122 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 701 | Shell | 46/100 |
+| 123 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
+| 124 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 629 | TypeScript | 46/100 |
+| 125 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 707 | Emacs Lisp | 46/100 |
+| 126 | [EightPotions/Myli](./eightpotions-myli.md) | ⭐ — | — | 45/100 |
+| 127 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.1k | C++ | 45/100 |
+| 128 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 120 | Rust | 45/100 |
+| 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 605 | Java | 45/100 |
+| 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 45/100 |
+| 131 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 45/100 |
+| 132 | [ghaida/intent](./ghaida-intent.md) | ⭐ 88 | CSS | 44/100 |
+| 133 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 43/100 |
+| 134 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 43/100 |
+| 135 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 41/100 |
+| 136 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ — | — | 40/100 |
+| 137 | [David-OConnor/bio_tools](./david-oconnor-bio-tools.md) | ⭐ — | — | 39/100 |
+| 138 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
+| 139 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
+| 140 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
+| 141 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ — | — | 38/100 |
+| 142 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ — | — | 36/100 |
+| 143 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ — | — | 36/100 |
+| 144 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 36/100 |
+| 145 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ — | — | 35/100 |
+| 146 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 35/100 |
+| 147 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 35/100 |
+| 148 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 35/100 |
+| 149 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 35/100 |
+| 150 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 35/100 |
+| 151 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ — | — | 35/100 |
+| 152 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 35/100 |
+| 153 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 35/100 |
+| 154 | [Nutlope/hallmark](./nutlope-hallmark.md) | ⭐ — | — | 35/100 |
+| 155 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 33/100 |
+| 156 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 31/100 |
+| 157 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 31/100 |
+| 158 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 31/100 |
+| 159 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 31/100 |
+| 160 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ — | — | 31/100 |
+| 161 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 30/100 |
+| 162 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 28/100 |
+| 163 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 28/100 |
 
 ---
 
