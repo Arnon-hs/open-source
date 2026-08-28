@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 782 |
+| 🍴 **Forks** | 781 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,39 +27,33 @@ Frontend · Design
 
 ### English
 
-go-admin-team/go-admin-ui: go-admin-team/go-admin-ui helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+go-admin-team/go-admin-ui: . Use it for Frontend, Design. 
 
 ### Русский
 
-go-admin-team/go-admin-ui: open-source проект в категориях Frontend, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+go-admin-team/go-admin-ui: open-source проект в категориях Frontend, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-go-admin-team/go-admin-ui：go-admin-team/go-admin-ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+go-admin-team/go-admin-ui：。适合用于Frontend、Design。
 
 ## 🧭 Practical evaluation
 
-**Value:** go-admin-team/go-admin-ui helps ship user-facing interfaces with less custom UI work.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- build product UI faster
-- reuse interface components
-- improve frontend delivery
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1325 GitHub stars
-- 782 forks
-- updated 2026-08-23
-- primary language: Vue
-- 7 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -76,6 +70,7 @@ go-admin-team/go-admin-ui：go-admin-team/go-admin-ui helps ship user-facing int
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
