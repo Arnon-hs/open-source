@@ -678,8 +678,8 @@
 | 668 | [Submitty/Submitty](./submitty-submitty.md) | ⭐ 773 | PHP | 55/100 |
 | 669 | [ActivityWatch/aw-server-rust](./activitywatch-aw-server-rust.md) | ⭐ 303 | Rust | 55/100 |
 | 670 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 55/100 |
-| 671 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
-| 672 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
+| 671 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
+| 672 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
 | 673 | [ndonfris/fish-lsp](./ndonfris-fish-lsp.md) | ⭐ 306 | TypeScript | 55/100 |
 | 674 | [owasp-noir/noir](./owasp-noir-noir.md) | ⭐ 1.2k | Crystal | 55/100 |
 | 675 | [napi-rs/node-rs](./napi-rs-node-rs.md) | ⭐ 1.4k | Rust | 55/100 |
@@ -899,8 +899,8 @@
 | 889 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 113 | Rust | 42/100 |
 | 890 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 42/100 |
 | 891 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
-| 892 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
-| 893 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 892 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 893 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
 | 894 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
 
 ---

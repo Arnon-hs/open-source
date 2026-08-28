@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NSTechBytes/MonkeySounds](./nstechbytes-monkeysounds.md) | ⭐ — | C++ | 50/100 |
+| 1 | [sudoatif/AlwaysUp](./sudoatif-alwaysup.md) | ⭐ — | — | 24/100 |
 
 ---
 
