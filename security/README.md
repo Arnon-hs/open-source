@@ -264,8 +264,8 @@
 | 254 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 48/100 |
 | 255 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 48/100 |
 | 256 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 47/100 |
-| 257 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 47/100 |
-| 258 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 47/100 |
+| 257 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 47/100 |
+| 258 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 47/100 |
 | 259 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 47/100 |
 | 260 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 556 | C | 47/100 |
 | 261 | [tkhq/qos](./tkhq-qos.md) | ⭐ 114 | Rust | 47/100 |
@@ -386,8 +386,8 @@
 | 376 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 31/100 |
 | 377 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 31/100 |
 | 378 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 31/100 |
-| 379 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 31/100 |
-| 380 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 31/100 |
+| 379 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 31/100 |
+| 380 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 31/100 |
 | 381 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 31/100 |
 | 382 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 31/100 |
 | 383 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 31/100 |
