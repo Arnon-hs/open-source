@@ -518,9 +518,9 @@
 | 508 | [rimironenko/rag-staleness-check](./rimironenko-rag-staleness-check.md) | ⭐ — | — | 39/100 |
 | 509 | [DemigodDSK/hubmesh](./demigoddsk-hubmesh.md) | ⭐ — | — | 39/100 |
 | 510 | [antonyrag/ragleap-core](./antonyrag-ragleap-core.md) | ⭐ — | — | 39/100 |
-| 511 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
-| 512 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
-| 513 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
+| 511 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
+| 512 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
+| 513 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
 | 514 | [Ajay6601/embedcache](./ajay6601-embedcache.md) | ⭐ — | — | 39/100 |
 | 515 | [impel-intelligence/Minna](./impel-intelligence-minna.md) | ⭐ — | — | 38/100 |
 | 516 | [pollockchris083-arch/counterentry](./pollockchris083-arch-counterentry.md) | ⭐ — | — | 38/100 |
