@@ -677,8 +677,8 @@
 | 667 | [Submitty/Submitty](./submitty-submitty.md) | ⭐ 773 | PHP | 55/100 |
 | 668 | [ActivityWatch/aw-server-rust](./activitywatch-aw-server-rust.md) | ⭐ 303 | Rust | 55/100 |
 | 669 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 55/100 |
-| 670 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
-| 671 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
+| 670 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
+| 671 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
 | 672 | [ndonfris/fish-lsp](./ndonfris-fish-lsp.md) | ⭐ 306 | TypeScript | 55/100 |
 | 673 | [owasp-noir/noir](./owasp-noir-noir.md) | ⭐ 1.2k | Crystal | 55/100 |
 | 674 | [napi-rs/node-rs](./napi-rs-node-rs.md) | ⭐ 1.4k | Rust | 55/100 |
