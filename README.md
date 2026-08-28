@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33488** |
-| **Categories** | **54** |
+| **Projects** | **33493** |
+| **Categories** | **55** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15101 | [Browse →](./misc/) |
+| 📦 **Misc** | 15103 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3273 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2532 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2184 | [Browse →](./orchestration/) |
@@ -31,7 +31,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1227 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 962 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 893 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 750 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 751 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 705 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 609 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 572 | [Browse →](./database/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 390 | [Browse →](./data/) |
 | 🔐 **Security** | 390 | [Browse →](./security/) |
 | 🏷️ **Observability** | 339 | [Browse →](./observability/) |
-| 💳 **Payments** | 299 | [Browse →](./payments/) |
+| 💳 **Payments** | 300 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 280 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 183 | [Browse →](./trading/) |
 | ✨ **Design** | 162 | [Browse →](./design/) |
@@ -55,6 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Dns** | 1 | [Browse →](./dns/) |
 | 🏷️ **Ai-agents** | 1 | [Browse →](./ai-agents/) |
 | 🏷️ **Cms** | 1 | [Browse →](./cms/) |
 | 🏷️ **App-migration** | 1 | [Browse →](./app-migration/) |
