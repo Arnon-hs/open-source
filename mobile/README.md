@@ -182,8 +182,8 @@
 | 172 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 113.8k | Rust | 56/100 |
 | 173 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.4k | Markdown | 56/100 |
 | 174 | [Milad-Akarie/smooth_page_indicator](./milad-akarie-smooth-page-indicator.md) | ⭐ 1.5k | Dart | 55/100 |
-| 175 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
-| 176 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
+| 175 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
+| 176 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
 | 177 | [maazm7d/TermuxHub](./maazm7d-termuxhub.md) | ⭐ 306 | Kotlin | 55/100 |
 | 178 | [mpv-android/mpv-android](./mpv-android-mpv-android.md) | ⭐ 3.5k | Kotlin | 55/100 |
 | 179 | [termux/termux-x11](./termux-termux-x11.md) | ⭐ 4.5k | C | 55/100 |
