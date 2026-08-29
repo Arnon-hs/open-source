@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-08-23 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-macht1212/numpy-cache: . Use it for Misc. 
+macht1212/numpy-cache: macht1212/numpy-cache may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
@@ -35,25 +35,26 @@ macht1212/numpy-cache: open-source проект в категориях Misc. П
 
 ### 中文
 
-macht1212/numpy-cache：。适合用于Misc。
+macht1212/numpy-cache：macht1212/numpy-cache may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** macht1212/numpy-cache may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- updated 2026-08-23
+- primary language: Python
 
-**Risks:** No metadata risk notes yet.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
@@ -70,7 +71,6 @@ macht1212/numpy-cache：。适合用于Misc。
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 0/100 |
 
 ---
 
