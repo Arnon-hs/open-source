@@ -79,8 +79,8 @@
 | 69 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](./nvidia-ai-blueprints-retail-agentic-commerce.md) | ⭐ 47 | Python | 62/100 |
 | 70 | [stripe/stripe-php](./stripe-stripe-php.md) | ⭐ 4k | PHP | 62/100 |
 | 71 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 62/100 |
-| 72 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
-| 73 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
+| 72 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
+| 73 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
 | 74 | [talivia-group/talivia](./talivia-group-talivia.md) | ⭐ 52 | TypeScript | 61/100 |
 | 75 | [ellite/Wallos](./ellite-wallos.md) | ⭐ 8.2k | PHP | 61/100 |
 | 76 | [Floe-Labs/floe-guard](./floe-labs-floe-guard.md) | ⭐ 35 | Python | 61/100 |
@@ -255,8 +255,8 @@
 | 245 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 48/100 |
 | 246 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 48/100 |
 | 247 | [bytedoger/awesome-OpenPrice](./bytedoger-awesome-openprice.md) | ⭐ 74 | TypeScript | 47/100 |
-| 248 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 47/100 |
-| 249 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 61 | Swift | 47/100 |
+| 248 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 61 | Swift | 47/100 |
+| 249 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 47/100 |
 | 250 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 104 | Go | 47/100 |
 | 251 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.3k | C# | 47/100 |
 | 252 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 47/100 |
