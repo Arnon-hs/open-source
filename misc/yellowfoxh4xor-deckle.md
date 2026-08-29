@@ -1,0 +1,78 @@
+# YellowFoxH4XOR/deckle
+
+[![Stars](https://img.shields.io/github/stars/YellowFoxH4XOR/deckle?style=flat-square&color=yellow)](https://github.com/YellowFoxH4XOR/deckle/stargazers) [![Forks](https://img.shields.io/github/forks/YellowFoxH4XOR/deckle?style=flat-square&color=blue)](https://github.com/YellowFoxH4XOR/deckle/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+
+> Discovered from Hacker News (github-mentions)
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-29 |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+`hn` `github-mentions`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Deckle is a macOS app that overlays a paper texture on your screen, giving documents and presentations a more tactile, realistic look. Install it from GitHub, enable it via the menu bar, and tweak opacity settings to match your workflow. It’s production‑ready for prototypes and internal use, though you should review its dependencies and update cadence before full deployment.
+
+### Русский
+
+Deckle – macOS‑приложение, накладывающее текстуру бумаги на экран, помогает создавать более «живые» презентации и заметки, сохраняя привычный визуальный стиль. Чтобы начать, установите приложение из GitHub, включите его в меню «Объекты» и настройте параметры прозрачности. Приложение стабильно, но требует ручной проверки зависимостей и обновлений перед использованием в продакшене.
+
+### 中文
+
+Deckle 是一款 macOS 应用，可在屏幕上叠加纸张纹理，赋予文档和演示更逼真的触感。只需从 GitHub 安装，开启菜单栏功能并调整透明度即可。该工具适合原型和内部使用，建议在正式部署前检查其依赖和更新频率。
+
+## 🧭 Practical evaluation
+
+**Value:** Show HN: Deckle – A macOS app that overlays paper texture onto your screen may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-08-29
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 54/100 |
+| quality | 41/100 |
+| recency | 100/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-08-29 · [View on GitHub](https://github.com/YellowFoxH4XOR/deckle) · [← Back to Misc](./README.md)</sub>
