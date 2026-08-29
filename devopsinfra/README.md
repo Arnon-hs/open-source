@@ -323,8 +323,8 @@
 | 313 | [dockur/macos](./dockur-macos.md) | ⭐ 19.9k | Shell | 57/100 |
 | 314 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
 | 315 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 57/100 |
-| 316 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
-| 317 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
+| 316 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
+| 317 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
 | 318 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 57/100 |
 | 319 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 57/100 |
 | 320 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 57/100 |
