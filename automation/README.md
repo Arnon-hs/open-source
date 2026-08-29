@@ -557,8 +557,8 @@
 | 547 | [qwen-code-dev-bot/oh-my-cli](./qwen-code-dev-bot-oh-my-cli.md) | ⭐ 339 | TypeScript | 61/100 |
 | 548 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 61/100 |
 | 549 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 61/100 |
-| 550 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 61/100 |
-| 551 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 61/100 |
+| 550 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 61/100 |
+| 551 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 61/100 |
 | 552 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 61/100 |
 | 553 | [discordeno/discordeno](./discordeno-discordeno.md) | ⭐ 939 | TypeScript | 61/100 |
 | 554 | [tonylofgren/aurora-smart-home](./tonylofgren-aurora-smart-home.md) | ⭐ 97 | Python | 61/100 |
@@ -583,8 +583,8 @@
 | 573 | [iloom-ai/iloom-cli](./iloom-ai-iloom-cli.md) | ⭐ 103 | TypeScript | 61/100 |
 | 574 | [fossology/fossology](./fossology-fossology.md) | ⭐ 985 | HTML | 61/100 |
 | 575 | [mono0926/LicensePlist](./mono0926-licenseplist.md) | ⭐ 2.5k | Swift | 61/100 |
-| 576 | [antoniorodr/lexy](./antoniorodr-lexy.md) | ⭐ 114 | Python | 61/100 |
-| 577 | [abhinavxd/libredesk](./abhinavxd-libredesk.md) | ⭐ 2.5k | Go | 61/100 |
+| 576 | [abhinavxd/libredesk](./abhinavxd-libredesk.md) | ⭐ 2.5k | Go | 61/100 |
+| 577 | [antoniorodr/lexy](./antoniorodr-lexy.md) | ⭐ 114 | Python | 61/100 |
 | 578 | [apache/ofbiz-framework](./apache-ofbiz-framework.md) | ⭐ 1k | Java | 61/100 |
 | 579 | [Hacker-Valley-Media/Interceptor](./hacker-valley-media-interceptor.md) | ⭐ 225 | Swift | 61/100 |
 | 580 | [kdcokenny/opencode-worktree](./kdcokenny-opencode-worktree.md) | ⭐ 523 | TypeScript | 61/100 |
@@ -1182,8 +1182,8 @@
 | 1172 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
 | 1173 | [agronholm/apscheduler](./agronholm-apscheduler.md) | ⭐ — | — | 38/100 |
 | 1174 | [roughnecks/ffetcher](./roughnecks-ffetcher.md) | ⭐ — | — | 37/100 |
-| 1175 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
-| 1176 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
+| 1175 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 37/100 |
+| 1176 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 37/100 |
 | 1177 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 37/100 |
 | 1178 | [vifudotdev/vifu](./vifudotdev-vifu.md) | ⭐ — | — | 36/100 |
 | 1179 | [fellowgeek/in-meeting](./fellowgeek-in-meeting.md) | ⭐ — | — | 36/100 |
@@ -1228,8 +1228,8 @@
 | 1218 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 31/100 |
 | 1219 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 31/100 |
 | 1220 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 31/100 |
-| 1221 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
-| 1222 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
+| 1221 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
+| 1222 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
 | 1223 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 31/100 |
 | 1224 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 31/100 |
 | 1225 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 31/100 |

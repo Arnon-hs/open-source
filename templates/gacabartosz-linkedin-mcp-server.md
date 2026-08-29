@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-08-14 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,38 +27,33 @@ Templates · MCP
 
 ### English
 
-gacabartosz/linkedin-mcp-server: gacabartosz/linkedin-mcp-server helps teams reuse working workflows and production presets instead of rebuilding them.. Use it for start from reusable workflows; standardize production recipes. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gacabartosz/linkedin-mcp-server: . Use it for Templates, MCP. 
 
 ### Русский
 
-gacabartosz/linkedin-mcp-server: open-source проект в категориях Templates, MCP. Практическое применение: start from reusable workflows; standardize production recipes. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gacabartosz/linkedin-mcp-server: open-source проект в категориях Templates, MCP. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-gacabartosz/linkedin-mcp-server：gacabartosz/linkedin-mcp-server helps teams reuse working workflows and production presets instead of rebuilding them.。适合用于start from reusable workflows、standardize production recipes。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gacabartosz/linkedin-mcp-server：。适合用于Templates、MCP。
 
 ## 🧭 Practical evaluation
 
-**Value:** gacabartosz/linkedin-mcp-server helps teams reuse working workflows and production presets instead of rebuilding them.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- start from reusable workflows
-- standardize production recipes
-- share repeatable setups with a team
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 5 GitHub stars
-- 1 forks
-- updated 2026-08-14
-- primary language: JavaScript
+- Not enough metadata yet.
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -75,6 +70,7 @@ gacabartosz/linkedin-mcp-server：gacabartosz/linkedin-mcp-server helps teams re
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
