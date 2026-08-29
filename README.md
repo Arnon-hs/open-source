@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33605** |
-| **Categories** | **57** |
+| **Projects** | **33612** |
+| **Categories** | **58** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15181 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3277 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15182 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3281 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2535 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2184 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1341 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1342 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1230 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 964 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 894 | [Browse →](./backend/) |
@@ -55,6 +55,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Copilot** | 1 | [Browse →](./copilot/) |
 | 🏷️ **Ai-agent** | 1 | [Browse →](./ai-agent/) |
 | 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Dns** | 1 | [Browse →](./dns/) |
