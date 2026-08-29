@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33700** |
+| **Projects** | **33703** |
 | **Categories** | **62** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 15242 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3286 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 3287 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2537 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2186 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1343 | [Browse →](./devtools/) |
@@ -37,10 +37,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 576 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 560 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 413 | [Browse →](./templates/) |
+| 🔐 **Security** | 392 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
-| 🔐 **Security** | 391 | [Browse →](./security/) |
 | 🏷️ **Observability** | 340 | [Browse →](./observability/) |
-| 💳 **Payments** | 301 | [Browse →](./payments/) |
+| 💳 **Payments** | 302 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 289 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 184 | [Browse →](./trading/) |
 | ✨ **Design** | 165 | [Browse →](./design/) |
