@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 78 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-08-24 |
+| 🗓️ **Last push** | 2026-08-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Orchestration · MCP · AI/ML · Backend · DevTools
 
 ### English
 
-sandbaseai/deepseek-harness-handbook: sandbaseai/deepseek-harness-handbook helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sandbaseai/deepseek-harness-handbook: an English-canonical, multilingual DeepSeek Harness handbook with 162 source-backed guides, 31 curated Agent resources, interactive diagnostics, and production runbooks. Use it to understand runtime seams, evaluate plugins, and coordinate multi-agent workflows.
 
 ### Русский
 
@@ -35,7 +35,7 @@ sandbaseai/deepseek-harness-handbook: open-source проект в категор
 
 ### 中文
 
-sandbaseai/deepseek-harness-handbook：sandbaseai/deepseek-harness-handbook helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sandbaseai/deepseek-harness-handbook：包含 162 篇有来源依据的指南、31 个 Agent 资源和交互式诊断工具，帮助读者理解 DeepSeek Harness 运行时边界、评估插件并协调多 Agent 工作流。
 
 ## 🧭 Practical evaluation
 
@@ -53,9 +53,9 @@ sandbaseai/deepseek-harness-handbook：sandbaseai/deepseek-harness-handbook help
 
 **Quality signals**
 
-- 23 GitHub stars
-- 2 forks
-- updated 2026-08-19
+- 78 GitHub stars
+- 11 forks
+- updated 2026-08-29
 - primary language: HTML
 - 20 topics
 
