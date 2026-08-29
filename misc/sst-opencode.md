@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200.3k |
-| 🍴 **Forks** | 25.9k |
+| ⭐ **Stars** | 200.7k |
+| 🍴 **Forks** | 26k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-08-24 |
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-sst/opencode: . Use it for Misc. 
+sst/opencode: sst/opencode may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
@@ -35,25 +35,28 @@ sst/opencode: open-source проект в категориях Misc. Практ�
 
 ### 中文
 
-sst/opencode：。适合用于Misc。
+sst/opencode：sst/opencode may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Manual review required.
+**Value:** sst/opencode may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** No integration notes yet.
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Production readiness has not been assessed yet.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 200664 GitHub stars
+- 25951 forks
+- updated 2026-08-24
+- primary language: TypeScript
 
-**Risks:** No metadata risk notes yet.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
@@ -70,7 +73,6 @@ sst/opencode：。适合用于Misc。
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
-| categoryMatchCount | 0/100 |
 
 ---
 

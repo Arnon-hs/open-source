@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33697** |
-| **Categories** | **61** |
+| **Projects** | **33700** |
+| **Categories** | **62** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15241 | [Browse →](./misc/) |
+| 📦 **Misc** | 15242 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3286 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2537 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2186 | [Browse →](./orchestration/) |
@@ -51,6 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Sre** | 2 | [Browse →](./sre/) |
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
