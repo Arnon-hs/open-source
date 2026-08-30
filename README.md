@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33713** |
-| **Categories** | **63** |
+| **Projects** | **33716** |
+| **Categories** | **64** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15247 | [Browse →](./misc/) |
+| 📦 **Misc** | 15248 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3290 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2538 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2539 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2186 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1343 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1230 | [Browse →](./automation/) |
@@ -58,6 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Git** | 1 | [Browse →](./git/) |
 | 🏷️ **Claude-code** | 1 | [Browse →](./claude-code/) |
 | 🏷️ **Tts** | 1 | [Browse →](./tts/) |
 | 🏷️ **Real-time-dubbing** | 1 | [Browse →](./real-time-dubbing/) |
