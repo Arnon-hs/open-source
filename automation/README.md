@@ -536,8 +536,8 @@
 | 526 | [garagon/nanostack](./garagon-nanostack.md) | ⭐ 194 | Shell | 62/100 |
 | 527 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 528 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 529 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 530 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 529 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 530 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 531 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 532 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 533 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -786,8 +786,8 @@
 | 776 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.3k | Go | 57/100 |
 | 777 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 57/100 |
 | 778 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 57/100 |
-| 779 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 57/100 |
-| 780 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 57/100 |
+| 779 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 57/100 |
+| 780 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 57/100 |
 | 781 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 57/100 |
 | 782 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 379 | Nushell | 57/100 |
 | 783 | [crucible-security/crucible](./crucible-security-crucible.md) | ⭐ 44 | Python | 57/100 |
@@ -1074,8 +1074,8 @@
 | 1064 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1065 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1066 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1067 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
-| 1068 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1067 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1068 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
 | 1069 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1070 | [shotium/n8n-nodes-shotium](./shotium-n8n-nodes-shotium.md) | ⭐ — | — | 48/100 |
 | 1071 | [nivinvysakh/syncmydep](./nivinvysakh-syncmydep.md) | ⭐ — | TypeScript | 48/100 |
@@ -1208,8 +1208,8 @@
 | 1198 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 36/100 |
 | 1199 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 36/100 |
 | 1200 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 36/100 |
-| 1201 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
-| 1202 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
+| 1201 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
+| 1202 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
 | 1203 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 35/100 |
 | 1204 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 35/100 |
 | 1205 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 35/100 |

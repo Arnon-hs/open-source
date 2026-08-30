@@ -211,8 +211,8 @@
 | 201 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 234 | Kotlin | 55/100 |
 | 202 | [zhashut/goread](./zhashut-goread.md) | ⭐ 591 | TypeScript | 55/100 |
 | 203 | [LottieFiles/dotlottie-rs](./lottiefiles-dotlottie-rs.md) | ⭐ 268 | Rust | 55/100 |
-| 204 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 55/100 |
-| 205 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 55/100 |
+| 204 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 55/100 |
+| 205 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 55/100 |
 | 206 | [pascal-lab/Tai-e](./pascal-lab-tai-e.md) | ⭐ 1.8k | Java | 55/100 |
 | 207 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 800 | JavaScript | 55/100 |
 | 208 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13k | Swift | 55/100 |

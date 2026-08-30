@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33764** |
+| **Projects** | **33767** |
 | **Categories** | **66** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15271 | [Browse →](./misc/) |
+| 📦 **Misc** | 15272 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3295 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2540 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -49,11 +49,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
+| 🏷️ **Ai** | 4 | [Browse →](./ai/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
 | 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
 | 🏷️ **Markdown** | 2 | [Browse →](./markdown/) |
-| 🏷️ **Ai** | 2 | [Browse →](./ai/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
