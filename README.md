@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33787** |
-| **Categories** | **68** |
+| **Projects** | **33792** |
+| **Categories** | **69** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15282 | [Browse →](./misc/) |
+| 📦 **Misc** | 15286 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3296 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Npm** | 1 | [Browse →](./npm/) |
 | 🏷️ **Ai-verification** | 1 | [Browse →](./ai-verification/) |
 | 🏷️ **Phi** | 1 | [Browse →](./phi/) |
 | 🏷️ **Incident-response** | 1 | [Browse →](./incident-response/) |
