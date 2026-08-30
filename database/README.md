@@ -120,8 +120,8 @@
 | 110 | [dolthub/doltgresql](./dolthub-doltgresql.md) | ⭐ 2.1k | Go | 59/100 |
 | 111 | [2shady4u/godot-sqlite](./2shady4u-godot-sqlite.md) | ⭐ 1.4k | C++ | 59/100 |
 | 112 | [apache/skywalking-banyandb](./apache-skywalking-banyandb.md) | ⭐ 348 | Go | 59/100 |
-| 113 | [dotnet/EntityFramework.Docs](./dotnet-entityframework.docs.md) | ⭐ 1.7k | Mermaid | 59/100 |
-| 114 | [tursodatabase/turso-cli](./tursodatabase-turso-cli.md) | ⭐ 319 | Go | 59/100 |
+| 113 | [tursodatabase/turso-cli](./tursodatabase-turso-cli.md) | ⭐ 319 | Go | 59/100 |
+| 114 | [dotnet/EntityFramework.Docs](./dotnet-entityframework.docs.md) | ⭐ 1.7k | Mermaid | 59/100 |
 | 115 | [mongodb/mongo-python-driver](./mongodb-mongo-python-driver.md) | ⭐ 4.4k | Python | 59/100 |
 | 116 | [5e-bits/5e-database](./5e-bits-5e-database.md) | ⭐ 918 | TypeScript | 59/100 |
 | 117 | [digoal/blog](./digoal-blog.md) | ⭐ 8.5k | HTML | 59/100 |
@@ -561,8 +561,8 @@
 | 551 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 31/100 |
 | 552 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 31/100 |
 | 553 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 31/100 |
-| 554 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
-| 555 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
+| 554 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
+| 555 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
 | 556 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 31/100 |
 | 557 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 31/100 |
 | 558 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 31/100 |

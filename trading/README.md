@@ -72,15 +72,15 @@
 | 62 | [HiThink-Tech/Financial-API](./hithink-tech-financial-api.md) | ⭐ 96 | Python | 62/100 |
 | 63 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 25.3k | Python | 62/100 |
 | 64 | [Krexind/quant-trading](./krexind-quant-trading.md) | ⭐ 38 | Python | 61/100 |
-| 65 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 61/100 |
-| 66 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 61/100 |
+| 65 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 61/100 |
+| 66 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 61/100 |
 | 67 | [hugodemenez/deltalytix](./hugodemenez-deltalytix.md) | ⭐ 126 | TypeScript | 61/100 |
 | 68 | [shinnytech/tqsdk-python](./shinnytech-tqsdk-python.md) | ⭐ 4.7k | Python | 61/100 |
 | 69 | [QuantConnect/Lean](./quantconnect-lean.md) | ⭐ 18.8k | C# | 61/100 |
 | 70 | [bmoscon/orderbook](./bmoscon-orderbook.md) | ⭐ 318 | Python | 60/100 |
 | 71 | [qusong0627/QuantMind](./qusong0627-quantmind.md) | ⭐ 524 | Python | 60/100 |
-| 72 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 60/100 |
-| 73 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 60/100 |
+| 72 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 60/100 |
+| 73 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 60/100 |
 | 74 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 60/100 |
 | 75 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.1k | Python | 59/100 |
 | 76 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 208 | Rust | 59/100 |

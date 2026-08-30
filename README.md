@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33797** |
-| **Categories** | **71** |
+| **Projects** | **33802** |
+| **Categories** | **72** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15289 | [Browse →](./misc/) |
+| 📦 **Misc** | 15293 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3296 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -63,6 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Referral** | 1 | [Browse →](./referral/) |
 | 🏷️ **Card-game** | 1 | [Browse →](./card-game/) |
 | 🏷️ **Tracking** | 1 | [Browse →](./tracking/) |
 | 🏷️ **Npm** | 1 | [Browse →](./npm/) |
