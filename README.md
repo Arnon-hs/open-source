@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33703** |
-| **Categories** | **62** |
+| **Projects** | **33707** |
+| **Categories** | **63** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15242 | [Browse →](./misc/) |
+| 📦 **Misc** | 15245 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3287 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2537 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2186 | [Browse →](./orchestration/) |
@@ -58,6 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Claude-code** | 1 | [Browse →](./claude-code/) |
 | 🏷️ **Tts** | 1 | [Browse →](./tts/) |
 | 🏷️ **Real-time-dubbing** | 1 | [Browse →](./real-time-dubbing/) |
 | 🏷️ **Copilot** | 1 | [Browse →](./copilot/) |
