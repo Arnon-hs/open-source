@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33782** |
+| **Projects** | **33787** |
 | **Categories** | **68** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15281 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3295 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2540 | [Browse →](./mcp/) |
+| 📦 **Misc** | 15282 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3296 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1345 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1233 | [Browse →](./automation/) |
@@ -50,6 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Ai** | 4 | [Browse →](./ai/) |
+| 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
@@ -84,7 +85,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Azure** | 1 | [Browse →](./azure/) |
 | 🏷️ **Visa** | 1 | [Browse →](./visa/) |
-| 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Memory** | 1 | [Browse →](./memory/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
