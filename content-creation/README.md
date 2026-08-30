@@ -2,7 +2,7 @@
 
 > 
 
-**125 projects** in this category.
+**126 projects** in this category.
 
 ## Projects
 
@@ -114,25 +114,26 @@
 | 104 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 49/100 |
 | 105 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 49/100 |
 | 106 | [forwardemail/forwardemail.net](./forwardemail-forwardemail.net.md) | ⭐ 1.6k | JavaScript | 49/100 |
-| 107 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 48/100 |
-| 108 | [ALEEEHU/World-Simulator](./aleeehu-world-simulator.md) | ⭐ 382 | — | 48/100 |
-| 109 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 598 | Ruby | 47/100 |
-| 110 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 319 | Ruby | 47/100 |
-| 111 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 8 | — | 46/100 |
-| 112 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 46/100 |
-| 113 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
-| 114 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 52 | JavaScript | 45/100 |
-| 115 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.4k | HTML | 45/100 |
-| 116 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
-| 117 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 44/100 |
-| 118 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 43/100 |
-| 119 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
-| 120 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
-| 121 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 122 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 107 | [lightx2v/Minimax-h3-Turbo](./lightx2v-minimax-h3-turbo.md) | ⭐ 764 | diffusers | 48/100 |
+| 108 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 48/100 |
+| 109 | [ALEEEHU/World-Simulator](./aleeehu-world-simulator.md) | ⭐ 382 | — | 48/100 |
+| 110 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 598 | Ruby | 47/100 |
+| 111 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 319 | Ruby | 47/100 |
+| 112 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 8 | — | 46/100 |
+| 113 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 46/100 |
+| 114 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
+| 115 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 52 | JavaScript | 45/100 |
+| 116 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.4k | HTML | 45/100 |
+| 117 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
+| 118 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 44/100 |
+| 119 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 43/100 |
+| 120 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
+| 121 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
+| 122 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
 | 123 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
-| 124 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 35/100 |
-| 125 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 35/100 |
+| 124 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 125 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 35/100 |
+| 126 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 35/100 |
 
 ---
 
