@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33757** |
+| **Projects** | **33764** |
 | **Categories** | **66** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15268 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3293 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15271 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3295 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2540 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1345 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1231 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1232 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 894 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
@@ -51,6 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
 | 🏷️ **Markdown** | 2 | [Browse →](./markdown/) |
 | 🏷️ **Ai** | 2 | [Browse →](./ai/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
@@ -69,7 +70,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 1 | [Browse →](./ai-agent/) |
 | 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Dns** | 1 | [Browse →](./dns/) |
-| 🏷️ **Ai-agents** | 1 | [Browse →](./ai-agents/) |
 | 🏷️ **Cms** | 1 | [Browse →](./cms/) |
 | 🏷️ **App-migration** | 1 | [Browse →](./app-migration/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
