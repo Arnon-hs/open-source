@@ -248,8 +248,8 @@
 | 238 | [glotzerlab/hoomd-blue](./glotzerlab-hoomd-blue.md) | ⭐ 444 | C++ | 59/100 |
 | 239 | [nicholas-fedor/watchtower](./nicholas-fedor-watchtower.md) | ⭐ 4.2k | Go | 59/100 |
 | 240 | [Sportarr/Sportarr](./sportarr-sportarr.md) | ⭐ 430 | C# | 59/100 |
-| 241 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
-| 242 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
+| 241 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
+| 242 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
 | 243 | [NVIDIA/k8s-device-plugin](./nvidia-k8s-device-plugin.md) | ⭐ 3.8k | Go | 59/100 |
 | 244 | [project-dalec/dalec](./project-dalec-dalec.md) | ⭐ 314 | Go | 59/100 |
 | 245 | [OWASP/wrongsecrets](./owasp-wrongsecrets.md) | ⭐ 1.4k | Java | 59/100 |
@@ -323,8 +323,8 @@
 | 313 | [dockur/macos](./dockur-macos.md) | ⭐ 19.9k | Shell | 57/100 |
 | 314 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
 | 315 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 57/100 |
-| 316 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
-| 317 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 316 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 317 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
 | 318 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 57/100 |
 | 319 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 57/100 |
 | 320 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 57/100 |
@@ -533,8 +533,8 @@
 | 523 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 47/100 |
 | 524 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 46/100 |
 | 525 | [ministryofjustice/modernisation-platform](./ministryofjustice-modernisation-platform.md) | ⭐ 722 | HCL | 46/100 |
-| 526 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 46/100 |
-| 527 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
+| 526 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
+| 527 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 46/100 |
 | 528 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 600 | Perl | 46/100 |
 | 529 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 45/100 |
 | 530 | [isms-core-project/kubernetes-dashboard](./isms-core-project-kubernetes-dashboard.md) | ⭐ — | — | 45/100 |
@@ -553,8 +553,8 @@
 | 543 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 43/100 |
 | 544 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 291 | Rust | 43/100 |
 | 545 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
-| 546 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 547 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 546 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 547 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 548 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ — | — | 42/100 |
 | 549 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ — | — | 42/100 |
 | 550 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ — | — | 42/100 |

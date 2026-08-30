@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33717** |
-| **Categories** | **64** |
+| **Projects** | **33719** |
+| **Categories** | **65** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15249 | [Browse →](./misc/) |
+| 📦 **Misc** | 15250 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3290 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2539 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2186 | [Browse →](./orchestration/) |
@@ -58,6 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Incident-response** | 1 | [Browse →](./incident-response/) |
 | 🏷️ **Git** | 1 | [Browse →](./git/) |
 | 🏷️ **Claude-code** | 1 | [Browse →](./claude-code/) |
 | 🏷️ **Tts** | 1 | [Browse →](./tts/) |
