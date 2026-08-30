@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33732** |
+| **Projects** | **33737** |
 | **Categories** | **65** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15256 | [Browse →](./misc/) |
+| 📦 **Misc** | 15257 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3292 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2540 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2188 | [Browse →](./orchestration/) |
@@ -35,22 +35,23 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 708 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 610 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 576 | [Browse →](./database/) |
-| 🏷️ **Knowledgerag** | 560 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 561 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 413 | [Browse →](./templates/) |
 | 🔐 **Security** | 392 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 340 | [Browse →](./observability/) |
 | 💳 **Payments** | 302 | [Browse →](./payments/) |
-| 🏷️ **Video-editing** | 289 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 290 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 184 | [Browse →](./trading/) |
 | ✨ **Design** | 165 | [Browse →](./design/) |
-| 🏷️ **Content-creation** | 124 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 125 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 70 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Ai** | 2 | [Browse →](./ai/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
@@ -87,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Docker** | 1 | [Browse →](./docker/) |
 | 🏷️ **Scraper** | 1 | [Browse →](./scraper/) |
 | 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
-| 🏷️ **Ai** | 1 | [Browse →](./ai/) |
 
 ## Top projects by score
 

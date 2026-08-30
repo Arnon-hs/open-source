@@ -324,8 +324,8 @@
 | 314 | [steel-dev/awesome-web-agents](./steel-dev-awesome-web-agents.md) | ⭐ 1.4k | Python | 66/100 |
 | 315 | [gradle/gradle](./gradle-gradle.md) | ⭐ 18.5k | Groovy | 66/100 |
 | 316 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
-| 317 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
-| 318 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 317 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 318 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
 | 319 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 320 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 321 | [kunchenguid/chrome-devtools-axi](./kunchenguid-chrome-devtools-axi.md) | ⭐ 306 | TypeScript | 65/100 |
@@ -1237,8 +1237,8 @@
 | 1227 | [kristofers322/SvelteChatKit](./kristofers322-sveltechatkit.md) | ⭐ — | — | 31/100 |
 | 1228 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 31/100 |
 | 1229 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 31/100 |
-| 1230 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
-| 1231 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1230 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1231 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
 
 ---
 
