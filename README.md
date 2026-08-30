@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33771** |
-| **Categories** | **66** |
+| **Projects** | **33782** |
+| **Categories** | **68** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15276 | [Browse →](./misc/) |
+| 📦 **Misc** | 15281 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3295 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2540 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1345 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1232 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1233 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 894 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 576 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 562 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 413 | [Browse →](./templates/) |
-| 🔐 **Security** | 392 | [Browse →](./security/) |
+| 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 340 | [Browse →](./observability/) |
 | 💳 **Payments** | 302 | [Browse →](./payments/) |
@@ -48,10 +48,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 70 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
-| 🎯 **Product** | 8 | [Browse →](./product/) |
+| 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Ai** | 4 | [Browse →](./ai/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
 | 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
 | 🏷️ **Markdown** | 2 | [Browse →](./markdown/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
@@ -61,6 +62,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Ai-verification** | 1 | [Browse →](./ai-verification/) |
+| 🏷️ **Phi** | 1 | [Browse →](./phi/) |
 | 🏷️ **Incident-response** | 1 | [Browse →](./incident-response/) |
 | 🏷️ **Git** | 1 | [Browse →](./git/) |
 | 🏷️ **Claude-code** | 1 | [Browse →](./claude-code/) |
@@ -88,7 +91,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sqlite** | 1 | [Browse →](./sqlite/) |
 | 🏷️ **Docker** | 1 | [Browse →](./docker/) |
 | 🏷️ **Scraper** | 1 | [Browse →](./scraper/) |
-| 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
 
 ## Top projects by score
 
