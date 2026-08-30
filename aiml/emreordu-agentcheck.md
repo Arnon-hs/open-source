@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,38 +27,33 @@ AI/ML · DevTools
 
 ### English
 
-emreordu/agentcheck: emreordu/agentcheck helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+emreordu/agentcheck: . Use it for AI/ML, DevTools. 
 
 ### Русский
 
-emreordu/agentcheck: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+emreordu/agentcheck: open-source проект в категориях AI/ML, DevTools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-emreordu/agentcheck：emreordu/agentcheck helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+emreordu/agentcheck：。适合用于AI/ML、DevTools。
 
 ## 🧭 Practical evaluation
 
-**Value:** emreordu/agentcheck helps add AI capability without starting from a blank model stack.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1 GitHub stars
-- updated 2026-08-23
-- primary language: TypeScript
-- 12 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -75,6 +70,7 @@ emreordu/agentcheck：emreordu/agentcheck helps add AI capability without starti
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
