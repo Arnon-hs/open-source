@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [vystartasv/spfx-factory](./vystartasv-spfx-factory.md) | ⭐ — | TypeScript | 46/100 |
+| 2 | [vystartasv/spfx-estate-doctor](./vystartasv-spfx-estate-doctor.md) | ⭐ — | TypeScript | 42/100 |
 
 ---
 

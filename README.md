@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33895** |
+| **Projects** | **33901** |
 | **Categories** | **91** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15340 | [Browse →](./misc/) |
+| 📦 **Misc** | 15344 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 341 | [Browse →](./observability/) |
 | 💳 **Payments** | 303 | [Browse →](./payments/) |
-| 🏷️ **Video-editing** | 297 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 298 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 184 | [Browse →](./trading/) |
 | ✨ **Design** | 165 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
@@ -56,6 +56,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Spfx** | 2 | [Browse →](./spfx/) |
 | 🏷️ **Sharepoint** | 2 | [Browse →](./sharepoint/) |
 | 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
@@ -72,7 +73,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
 | 🏷️ **Radiology** | 1 | [Browse →](./radiology/) |
 | 🏷️ **Http** | 1 | [Browse →](./http/) |
-| 🏷️ **Spfx** | 1 | [Browse →](./spfx/) |
 | 🏷️ **Terminal** | 1 | [Browse →](./terminal/) |
 | 🏷️ **Crash-safety** | 1 | [Browse →](./crash-safety/) |
 | 🏷️ **Retry** | 1 | [Browse →](./retry/) |
