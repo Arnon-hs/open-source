@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**302 projects** in this category.
+**303 projects** in this category.
 
 ## Projects
 
@@ -46,8 +46,8 @@
 | 36 | [mivano/azure-cost-cli](./mivano-azure-cost-cli.md) | ⭐ 1.1k | C# | 66/100 |
 | 37 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 66/100 |
 | 38 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.4k | TypeScript | 66/100 |
-| 39 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
-| 40 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 39 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 40 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
 | 41 | [abracadabra50/uk-grocery-cli](./abracadabra50-uk-grocery-cli.md) | ⭐ 68 | TypeScript | 65/100 |
 | 42 | [nozomi-koborinai/gcp-cost-mcp-server](./nozomi-koborinai-gcp-cost-mcp-server.md) | ⭐ 21 | Go | 65/100 |
 | 43 | [InvoicePlane/InvoicePlane](./invoiceplane-invoiceplane.md) | ⭐ 3.1k | PHP | 65/100 |
@@ -79,8 +79,8 @@
 | 69 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](./nvidia-ai-blueprints-retail-agentic-commerce.md) | ⭐ 47 | Python | 62/100 |
 | 70 | [stripe/stripe-php](./stripe-stripe-php.md) | ⭐ 4k | PHP | 62/100 |
 | 71 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 62/100 |
-| 72 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
-| 73 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
+| 72 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 28.2k | TypeScript | 62/100 |
+| 73 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.4k | MDX | 62/100 |
 | 74 | [talivia-group/talivia](./talivia-group-talivia.md) | ⭐ 52 | TypeScript | 61/100 |
 | 75 | [ellite/Wallos](./ellite-wallos.md) | ⭐ 8.2k | PHP | 61/100 |
 | 76 | [Floe-Labs/floe-guard](./floe-labs-floe-guard.md) | ⭐ 35 | Python | 61/100 |
@@ -290,26 +290,27 @@
 | 280 | [stripe/purl](./stripe-purl.md) | ⭐ 177 | Rust | 42/100 |
 | 281 | [raine/claude-code-proxy](./raine-claude-code-proxy.md) | ⭐ 223 | Rust | 42/100 |
 | 282 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 42/100 |
-| 283 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 41/100 |
-| 284 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 41/100 |
-| 285 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 41/100 |
-| 286 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 41/100 |
-| 287 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 41/100 |
-| 288 | [fivetran/dbt_stripe](./fivetran-dbt-stripe.md) | ⭐ 58 | Shell | 40/100 |
-| 289 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 40/100 |
-| 290 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 40/100 |
-| 291 | [rikocr8orh8/x402-bazaar-survey](./rikocr8orh8-x402-bazaar-survey.md) | ⭐ — | — | 39/100 |
-| 292 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 115 | Rust | 39/100 |
-| 293 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
-| 294 | [joey-io/gauge](./joey-io-gauge.md) | ⭐ — | — | 38/100 |
-| 295 | [DanielIoni-creator/MyZubsterAPP](./danielioni-creator-myzubsterapp.md) | ⭐ — | — | 36/100 |
-| 296 | [wkoverfield/quilt](./wkoverfield-quilt.md) | ⭐ — | — | 36/100 |
-| 297 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 35/100 |
-| 298 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 35/100 |
-| 299 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 31/100 |
-| 300 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 31/100 |
-| 301 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 31/100 |
-| 302 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 30/100 |
+| 283 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ — | — | 41/100 |
+| 284 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 41/100 |
+| 285 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 41/100 |
+| 286 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 41/100 |
+| 287 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 41/100 |
+| 288 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 41/100 |
+| 289 | [fivetran/dbt_stripe](./fivetran-dbt-stripe.md) | ⭐ 58 | Shell | 40/100 |
+| 290 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 40/100 |
+| 291 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 40/100 |
+| 292 | [rikocr8orh8/x402-bazaar-survey](./rikocr8orh8-x402-bazaar-survey.md) | ⭐ — | — | 39/100 |
+| 293 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 115 | Rust | 39/100 |
+| 294 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
+| 295 | [joey-io/gauge](./joey-io-gauge.md) | ⭐ — | — | 38/100 |
+| 296 | [DanielIoni-creator/MyZubsterAPP](./danielioni-creator-myzubsterapp.md) | ⭐ — | — | 36/100 |
+| 297 | [wkoverfield/quilt](./wkoverfield-quilt.md) | ⭐ — | — | 36/100 |
+| 298 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 35/100 |
+| 299 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 35/100 |
+| 300 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 31/100 |
+| 301 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 31/100 |
+| 302 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 31/100 |
+| 303 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 30/100 |
 
 ---
 

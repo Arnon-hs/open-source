@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33889** |
+| **Projects** | **33895** |
 | **Categories** | **91** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15337 | [Browse →](./misc/) |
+| 📦 **Misc** | 15340 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -34,13 +34,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 710 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 610 | [Browse →](./devopsinfra/) |
-| 🏷️ **Database** | 577 | [Browse →](./database/) |
+| 🏷️ **Database** | 578 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 562 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 414 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 341 | [Browse →](./observability/) |
-| 💳 **Payments** | 302 | [Browse →](./payments/) |
+| 💳 **Payments** | 303 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 297 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 184 | [Browse →](./trading/) |
 | ✨ **Design** | 165 | [Browse →](./design/) |
@@ -56,6 +56,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Sharepoint** | 2 | [Browse →](./sharepoint/) |
 | 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
 | 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
@@ -71,7 +72,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
 | 🏷️ **Radiology** | 1 | [Browse →](./radiology/) |
 | 🏷️ **Http** | 1 | [Browse →](./http/) |
-| 🏷️ **Sharepoint** | 1 | [Browse →](./sharepoint/) |
 | 🏷️ **Spfx** | 1 | [Browse →](./spfx/) |
 | 🏷️ **Terminal** | 1 | [Browse →](./terminal/) |
 | 🏷️ **Crash-safety** | 1 | [Browse →](./crash-safety/) |
