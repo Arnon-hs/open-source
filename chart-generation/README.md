@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fscss-ttr/provchart-readme-action](./fscss-ttr-provchart-readme-action.md) | ⭐ 1 | JavaScript | 40/100 |
+| 1 | [fscss-ttr/provchart-readme-action](./fscss-ttr-provchart-readme-action.md) | ⭐ 1 | JavaScript | 37/100 |
 
 ---
 

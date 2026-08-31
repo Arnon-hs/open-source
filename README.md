@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33869** |
-| **Categories** | **85** |
+| **Projects** | **33881** |
+| **Categories** | **90** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15326 | [Browse →](./misc/) |
+| 📦 **Misc** | 15330 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 896 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
-| 📱 **Mobile** | 709 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 710 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 610 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 577 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 562 | [Browse →](./knowledgerag/) |
@@ -51,6 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Ai** | 4 | [Browse →](./ai/) |
+| 🏷️ **Browser-based** | 3 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
@@ -65,6 +66,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Devops** | 1 | [Browse →](./devops/) |
+| 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
+| 🏷️ **Radiology** | 1 | [Browse →](./radiology/) |
+| 🏷️ **Http** | 1 | [Browse →](./http/) |
 | 🏷️ **Sharepoint** | 1 | [Browse →](./sharepoint/) |
 | 🏷️ **Spfx** | 1 | [Browse →](./spfx/) |
 | 🏷️ **Terminal** | 1 | [Browse →](./terminal/) |
