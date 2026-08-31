@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33808** |
-| **Categories** | **73** |
+| **Projects** | **33809** |
+| **Categories** | **74** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -65,6 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Insurance** | 1 | [Browse →](./insurance/) |
 | 🏷️ **Referral** | 1 | [Browse →](./referral/) |
 | 🏷️ **Card-game** | 1 | [Browse →](./card-game/) |
