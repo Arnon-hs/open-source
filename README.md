@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33827** |
+| **Projects** | **33833** |
 | **Categories** | **77** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15305 | [Browse →](./misc/) |
+| 📦 **Misc** | 15306 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1345 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1233 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1234 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 894 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 896 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 709 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 610 | [Browse →](./devopsinfra/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 340 | [Browse →](./observability/) |
 | 💳 **Payments** | 302 | [Browse →](./payments/) |
-| 🏷️ **Video-editing** | 292 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 293 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 184 | [Browse →](./trading/) |
 | ✨ **Design** | 165 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
@@ -50,6 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Ai** | 4 | [Browse →](./ai/) |
+| 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
@@ -63,7 +64,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
-| 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
 | 🏷️ **Exactly-once** | 1 | [Browse →](./exactly-once/) |
 | 🏷️ **Reversibility** | 1 | [Browse →](./reversibility/) |
