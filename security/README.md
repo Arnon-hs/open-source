@@ -264,8 +264,8 @@
 | 254 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 48/100 |
 | 255 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 48/100 |
 | 256 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 47/100 |
-| 257 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 47/100 |
-| 258 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 47/100 |
+| 257 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 47/100 |
+| 258 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 47/100 |
 | 259 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 47/100 |
 | 260 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 556 | C | 47/100 |
 | 261 | [tkhq/qos](./tkhq-qos.md) | ⭐ 114 | Rust | 47/100 |
@@ -361,8 +361,8 @@
 | 351 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
 | 352 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 35/100 |
 | 353 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 35/100 |
-| 354 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 35/100 |
-| 355 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 35/100 |
+| 354 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 35/100 |
+| 355 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 35/100 |
 | 356 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 35/100 |
 | 357 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 35/100 |
 | 358 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 35/100 |
