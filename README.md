@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33802** |
-| **Categories** | **72** |
+| **Projects** | **33808** |
+| **Categories** | **73** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15293 | [Browse →](./misc/) |
+| 📦 **Misc** | 15296 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3296 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -53,6 +53,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Llm** | 2 | [Browse →](./llm/) |
+| 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
 | 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
 | 🏷️ **Markdown** | 2 | [Browse →](./markdown/) |
@@ -63,6 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Insurance** | 1 | [Browse →](./insurance/) |
 | 🏷️ **Referral** | 1 | [Browse →](./referral/) |
 | 🏷️ **Card-game** | 1 | [Browse →](./card-game/) |
 | 🏷️ **Tracking** | 1 | [Browse →](./tracking/) |
@@ -85,13 +88,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Self-hosted** | 1 | [Browse →](./self-hosted/) |
-| 🏷️ **Llm** | 1 | [Browse →](./llm/) |
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Azure** | 1 | [Browse →](./azure/) |
 | 🏷️ **Visa** | 1 | [Browse →](./visa/) |
 | 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Memory** | 1 | [Browse →](./memory/) |
-| 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 | 🏷️ **Sqlite** | 1 | [Browse →](./sqlite/) |
 | 🏷️ **Docker** | 1 | [Browse →](./docker/) |
 | 🏷️ **Scraper** | 1 | [Browse →](./scraper/) |
