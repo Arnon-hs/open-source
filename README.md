@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33836** |
-| **Categories** | **77** |
+| **Projects** | **33843** |
+| **Categories** | **78** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15307 | [Browse →](./misc/) |
+| 📦 **Misc** | 15311 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 610 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 577 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 562 | [Browse →](./knowledgerag/) |
-| 🏷️ **Templates** | 413 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 414 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 340 | [Browse →](./observability/) |
@@ -49,8 +49,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
+| 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Ai** | 4 | [Browse →](./ai/) |
-| 🏷️ **Llm** | 3 | [Browse →](./llm/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
@@ -65,6 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Qt** | 1 | [Browse →](./qt/) |
 | 🏷️ **Exactly-once** | 1 | [Browse →](./exactly-once/) |
 | 🏷️ **Reversibility** | 1 | [Browse →](./reversibility/) |
 | 🏷️ **Marketplace** | 1 | [Browse →](./marketplace/) |
