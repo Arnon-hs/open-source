@@ -248,8 +248,8 @@
 | 238 | [glotzerlab/hoomd-blue](./glotzerlab-hoomd-blue.md) | ⭐ 444 | C++ | 59/100 |
 | 239 | [nicholas-fedor/watchtower](./nicholas-fedor-watchtower.md) | ⭐ 4.2k | Go | 59/100 |
 | 240 | [Sportarr/Sportarr](./sportarr-sportarr.md) | ⭐ 430 | C# | 59/100 |
-| 241 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
-| 242 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 241 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 242 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
 | 243 | [NVIDIA/k8s-device-plugin](./nvidia-k8s-device-plugin.md) | ⭐ 3.8k | Go | 59/100 |
 | 244 | [project-dalec/dalec](./project-dalec-dalec.md) | ⭐ 314 | Go | 59/100 |
 | 245 | [OWASP/wrongsecrets](./owasp-wrongsecrets.md) | ⭐ 1.4k | Java | 59/100 |
@@ -323,8 +323,8 @@
 | 313 | [dockur/macos](./dockur-macos.md) | ⭐ 19.9k | Shell | 57/100 |
 | 314 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
 | 315 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 57/100 |
-| 316 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
-| 317 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 316 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 317 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
 | 318 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 57/100 |
 | 319 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 57/100 |
 | 320 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 57/100 |
