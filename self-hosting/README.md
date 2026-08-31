@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pinkpixel-dev/kintara](./pinkpixel-dev-kintara.md) | ⭐ 4 | Rust | 66/100 |
-| 2 | [rafaeloliveiraz/gitglance](./rafaeloliveiraz-gitglance.md) | ⭐ 1 | JavaScript | 53/100 |
+| 1 | [hieunc229/mailflare](./hieunc229-mailflare.md) | ⭐ 2.1k | TypeScript | 59/100 |
 
 ---
 

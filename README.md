@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33909** |
-| **Categories** | **93** |
+| **Projects** | **33918** |
+| **Categories** | **95** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15349 | [Browse →](./misc/) |
+| 📦 **Misc** | 15351 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -42,21 +42,22 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 341 | [Browse →](./observability/) |
 | 💳 **Payments** | 303 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 298 | [Browse →](./video-editing/) |
-| 📈 **Trading** | 184 | [Browse →](./trading/) |
+| 📈 **Trading** | 185 | [Browse →](./trading/) |
 | ✨ **Design** | 165 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 72 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
-| 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
+| 🏷️ **Ai** | 6 | [Browse →](./ai/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
-| 🏷️ **Ai** | 4 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 3 | [Browse →](./ai-agents/) |
 | 🏷️ **Browser-based** | 3 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Comfyui** | 2 | [Browse →](./comfyui/) |
 | 🏷️ **Spfx** | 2 | [Browse →](./spfx/) |
 | 🏷️ **Sharepoint** | 2 | [Browse →](./sharepoint/) |
 | 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
@@ -68,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Self-hosting** | 1 | [Browse →](./self-hosting/) |
 | 🏷️ **Selfimprovement** | 1 | [Browse →](./selfimprovement/) |
 | 🏷️ **Sourcing** | 1 | [Browse →](./sourcing/) |
 | 🏷️ **Telemetry** | 1 | [Browse →](./telemetry/) |

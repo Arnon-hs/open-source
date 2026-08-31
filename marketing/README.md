@@ -2,7 +2,7 @@
 
 > 
 
-**43 projects** in this category.
+**44 projects** in this category.
 
 ## Projects
 
@@ -41,16 +41,17 @@
 | 31 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 43/100 |
 | 32 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
 | 33 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
-| 34 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 41/100 |
-| 35 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 39/100 |
-| 36 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 39/100 |
-| 37 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
-| 38 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 33/100 |
-| 39 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 31/100 |
-| 40 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 31/100 |
-| 41 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 31/100 |
-| 42 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 31/100 |
-| 43 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 28/100 |
+| 34 | [postnhost/postnhost](./postnhost-postnhost.md) | ⭐ — | — | 41/100 |
+| 35 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 41/100 |
+| 36 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 39/100 |
+| 37 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 39/100 |
+| 38 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
+| 39 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 33/100 |
+| 40 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 31/100 |
+| 41 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 31/100 |
+| 42 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 31/100 |
+| 43 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 31/100 |
+| 44 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 28/100 |
 
 ---
 
