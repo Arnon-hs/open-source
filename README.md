@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33901** |
-| **Categories** | **91** |
+| **Projects** | **33909** |
+| **Categories** | **93** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15344 | [Browse →](./misc/) |
+| 📦 **Misc** | 15349 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2541 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2190 | [Browse →](./orchestration/) |
@@ -51,6 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Ai** | 4 | [Browse →](./ai/) |
+| 🏷️ **Ai-agents** | 3 | [Browse →](./ai-agents/) |
 | 🏷️ **Browser-based** | 3 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
@@ -60,7 +61,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sharepoint** | 2 | [Browse →](./sharepoint/) |
 | 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
-| 🏷️ **Ai-agents** | 2 | [Browse →](./ai-agents/) |
 | 🏷️ **Markdown** | 2 | [Browse →](./markdown/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
@@ -68,6 +68,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Selfimprovement** | 1 | [Browse →](./selfimprovement/) |
+| 🏷️ **Sourcing** | 1 | [Browse →](./sourcing/) |
 | 🏷️ **Telemetry** | 1 | [Browse →](./telemetry/) |
 | 🏷️ **Devops** | 1 | [Browse →](./devops/) |
 | 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
