@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**165 projects** in this category.
+**166 projects** in this category.
 
 ## Projects
 
@@ -134,45 +134,46 @@
 | 124 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
 | 125 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 629 | TypeScript | 46/100 |
 | 126 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 707 | Emacs Lisp | 46/100 |
-| 127 | [EightPotions/Myli](./eightpotions-myli.md) | ⭐ — | — | 45/100 |
-| 128 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.1k | C++ | 45/100 |
-| 129 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 120 | Rust | 45/100 |
-| 130 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 605 | Java | 45/100 |
-| 131 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 45/100 |
-| 132 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 45/100 |
-| 133 | [ghaida/intent](./ghaida-intent.md) | ⭐ 88 | CSS | 44/100 |
-| 134 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 43/100 |
-| 135 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 43/100 |
-| 136 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 41/100 |
-| 137 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 41/100 |
-| 138 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ — | — | 40/100 |
-| 139 | [David-OConnor/bio_tools](./david-oconnor-bio-tools.md) | ⭐ — | — | 39/100 |
-| 140 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
-| 141 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
-| 142 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
-| 143 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ — | — | 38/100 |
-| 144 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ — | — | 36/100 |
-| 145 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ — | — | 36/100 |
-| 146 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 36/100 |
-| 147 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ — | — | 35/100 |
-| 148 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 35/100 |
-| 149 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 35/100 |
-| 150 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 35/100 |
-| 151 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 35/100 |
-| 152 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 35/100 |
-| 153 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ — | — | 35/100 |
-| 154 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 35/100 |
-| 155 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 35/100 |
-| 156 | [Nutlope/hallmark](./nutlope-hallmark.md) | ⭐ — | — | 35/100 |
-| 157 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 33/100 |
-| 158 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 31/100 |
-| 159 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 31/100 |
-| 160 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 31/100 |
-| 161 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 31/100 |
-| 162 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ — | — | 31/100 |
-| 163 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 30/100 |
-| 164 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 28/100 |
-| 165 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 28/100 |
+| 127 | [cedRiC874/researchops-agent](./cedric874-researchops-agent.md) | ⭐ — | — | 45/100 |
+| 128 | [EightPotions/Myli](./eightpotions-myli.md) | ⭐ — | — | 45/100 |
+| 129 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.1k | C++ | 45/100 |
+| 130 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 120 | Rust | 45/100 |
+| 131 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 605 | Java | 45/100 |
+| 132 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 45/100 |
+| 133 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 45/100 |
+| 134 | [ghaida/intent](./ghaida-intent.md) | ⭐ 88 | CSS | 44/100 |
+| 135 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 43/100 |
+| 136 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 43/100 |
+| 137 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 41/100 |
+| 138 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 41/100 |
+| 139 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ — | — | 40/100 |
+| 140 | [David-OConnor/bio_tools](./david-oconnor-bio-tools.md) | ⭐ — | — | 39/100 |
+| 141 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
+| 142 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
+| 143 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
+| 144 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ — | — | 38/100 |
+| 145 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ — | — | 36/100 |
+| 146 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ — | — | 36/100 |
+| 147 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 36/100 |
+| 148 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ — | — | 35/100 |
+| 149 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 35/100 |
+| 150 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 35/100 |
+| 151 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 35/100 |
+| 152 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 35/100 |
+| 153 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 35/100 |
+| 154 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ — | — | 35/100 |
+| 155 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 35/100 |
+| 156 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 35/100 |
+| 157 | [Nutlope/hallmark](./nutlope-hallmark.md) | ⭐ — | — | 35/100 |
+| 158 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 33/100 |
+| 159 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 31/100 |
+| 160 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 31/100 |
+| 161 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 31/100 |
+| 162 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 31/100 |
+| 163 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ — | — | 31/100 |
+| 164 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 30/100 |
+| 165 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 28/100 |
+| 166 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 28/100 |
 
 ---
 

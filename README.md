@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33959** |
-| **Categories** | **102** |
+| **Projects** | **33971** |
+| **Categories** | **105** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15376 | [Browse →](./misc/) |
+| 📦 **Misc** | 15381 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2542 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -43,13 +43,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 303 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 300 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
-| ✨ **Design** | 165 | [Browse →](./design/) |
+| ✨ **Design** | 166 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 72 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Ai** | 6 | [Browse →](./ai/) |
+| 🏷️ **Privacy** | 4 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 4 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 3 | [Browse →](./ai-agents/) |
 | 🏷️ **Browser-based** | 3 | [Browse →](./browser-based/) |
@@ -57,6 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Validation** | 2 | [Browse →](./validation/) |
 | 🏷️ **Android** | 2 | [Browse →](./android/) |
 | 🏷️ **Hijri** | 2 | [Browse →](./hijri/) |
 | 🏷️ **Comfyui** | 2 | [Browse →](./comfyui/) |
@@ -69,8 +71,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
-| 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Circuitdesign** | 1 | [Browse →](./circuitdesign/) |
+| 🏷️ **Codex** | 1 | [Browse →](./codex/) |
 | 🏷️ **Roblox** | 1 | [Browse →](./roblox/) |
 | 🏷️ **Nextjs** | 1 | [Browse →](./nextjs/) |
 | 🏷️ **Cheminformatics** | 1 | [Browse →](./cheminformatics/) |
