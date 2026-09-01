@@ -324,8 +324,8 @@
 | 314 | [steel-dev/awesome-web-agents](./steel-dev-awesome-web-agents.md) | ⭐ 1.4k | Python | 66/100 |
 | 315 | [gradle/gradle](./gradle-gradle.md) | ⭐ 18.5k | Groovy | 66/100 |
 | 316 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
-| 317 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
-| 318 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
+| 317 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
+| 318 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
 | 319 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 320 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 321 | [kunchenguid/chrome-devtools-axi](./kunchenguid-chrome-devtools-axi.md) | ⭐ 306 | TypeScript | 65/100 |
@@ -1210,8 +1210,8 @@
 | 1200 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 36/100 |
 | 1201 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 36/100 |
 | 1202 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 36/100 |
-| 1203 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
-| 1204 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
+| 1203 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
+| 1204 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
 | 1205 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 35/100 |
 | 1206 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 35/100 |
 | 1207 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 35/100 |
@@ -1232,8 +1232,8 @@
 | 1222 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 31/100 |
 | 1223 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 31/100 |
 | 1224 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 31/100 |
-| 1225 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
-| 1226 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
+| 1225 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
+| 1226 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
 | 1227 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 31/100 |
 | 1228 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 31/100 |
 | 1229 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 31/100 |

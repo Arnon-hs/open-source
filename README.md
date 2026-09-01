@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33971** |
-| **Categories** | **105** |
+| **Projects** | **33972** |
+| **Categories** | **106** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -72,6 +72,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Video-production** | 1 | [Browse →](./video-production/) |
 | 🏷️ **Circuitdesign** | 1 | [Browse →](./circuitdesign/) |
 | 🏷️ **Codex** | 1 | [Browse →](./codex/) |
 | 🏷️ **Roblox** | 1 | [Browse →](./roblox/) |
