@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-08-15 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,39 +27,33 @@ Backend · Observability
 
 ### English
 
-statping-ng/statping-ng: statping-ng/statping-ng helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+statping-ng/statping-ng: . Use it for Backend, Observability. 
 
 ### Русский
 
-statping-ng/statping-ng: open-source проект в категориях Backend, Observability. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+statping-ng/statping-ng: open-source проект в категориях Backend, Observability. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-statping-ng/statping-ng：statping-ng/statping-ng helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+statping-ng/statping-ng：。适合用于Backend、Observability。
 
 ## 🧭 Practical evaluation
 
-**Value:** statping-ng/statping-ng helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- ship API services faster
-- reuse backend infrastructure
-- standardize service patterns
+- Not enough metadata yet.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1988 GitHub stars
-- 184 forks
-- updated 2026-08-15
-- primary language: Go
-- 10 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -76,6 +70,7 @@ statping-ng/statping-ng：statping-ng/statping-ng helps teams reuse service infr
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

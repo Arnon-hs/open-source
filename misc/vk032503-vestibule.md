@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | 2026-08-20 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,7 +27,7 @@ Misc
 
 ### English
 
-vk032503/vestibule: vk032503/vestibule may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+vk032503/vestibule: . Use it for Misc. 
 
 ### Русский
 
@@ -35,26 +35,25 @@ vk032503/vestibule: open-source проект в категориях Misc. Пр�
 
 ### 中文
 
-vk032503/vestibule：vk032503/vestibule may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+vk032503/vestibule：。适合用于Misc。
 
 ## 🧭 Practical evaluation
 
-**Value:** vk032503/vestibule may be useful when its README and activity match a concrete workflow.
+**Value:** Manual review required.
 
 **Best use cases**
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- updated 2026-08-20
-- primary language: Python
+- Not enough metadata yet.
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -71,6 +70,7 @@ vk032503/vestibule：vk032503/vestibule may be useful when its README and activi
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
