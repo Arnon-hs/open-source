@@ -46,8 +46,8 @@
 | 36 | [mivano/azure-cost-cli](./mivano-azure-cost-cli.md) | ⭐ 1.1k | C# | 66/100 |
 | 37 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 66/100 |
 | 38 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.4k | TypeScript | 66/100 |
-| 39 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
-| 40 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
+| 39 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
+| 40 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
 | 41 | [abracadabra50/uk-grocery-cli](./abracadabra50-uk-grocery-cli.md) | ⭐ 68 | TypeScript | 65/100 |
 | 42 | [nozomi-koborinai/gcp-cost-mcp-server](./nozomi-koborinai-gcp-cost-mcp-server.md) | ⭐ 21 | Go | 65/100 |
 | 43 | [InvoicePlane/InvoicePlane](./invoiceplane-invoiceplane.md) | ⭐ 3.1k | PHP | 65/100 |
