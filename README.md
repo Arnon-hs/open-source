@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33947** |
-| **Categories** | **99** |
+| **Projects** | **33951** |
+| **Categories** | **101** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15369 | [Browse →](./misc/) |
+| 📦 **Misc** | 15370 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2542 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -57,6 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Hijri** | 2 | [Browse →](./hijri/) |
 | 🏷️ **Comfyui** | 2 | [Browse →](./comfyui/) |
 | 🏷️ **Spfx** | 2 | [Browse →](./spfx/) |
 | 🏷️ **Sharepoint** | 2 | [Browse →](./sharepoint/) |
@@ -69,6 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Nextjs** | 1 | [Browse →](./nextjs/) |
 | 🏷️ **Cheminformatics** | 1 | [Browse →](./cheminformatics/) |
 | 🏷️ **Software-supply-chain** | 1 | [Browse →](./software-supply-chain/) |
 | 🏷️ **X402** | 1 | [Browse →](./x402/) |
