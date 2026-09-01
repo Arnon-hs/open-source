@@ -2,7 +2,7 @@
 
 > 
 
-**4 projects** in this category.
+**5 projects** in this category.
 
 ## Projects
 
@@ -10,8 +10,9 @@
 |---|---|---|---|---|
 | 1 | [abetlen/llama-cpp-python](./abetlen-llama-cpp-python.md) | ⭐ 10.6k | Python | 61/100 |
 | 2 | [tab4moji/pystdoc](./tab4moji-pystdoc.md) | ⭐ — | Python | 42/100 |
-| 3 | [iDebunk/cachegate](./idebunk-cachegate.md) | ⭐ — | JavaScript | 39/100 |
-| 4 | [datago_8008/burn_probe](./datago-8008-burn-probe.md) | ⭐ — | — | 27/100 |
+| 3 | [oceanforge/inference-shootout](./oceanforge-inference-shootout.md) | ⭐ — | Python | 39/100 |
+| 4 | [iDebunk/cachegate](./idebunk-cachegate.md) | ⭐ — | JavaScript | 39/100 |
+| 5 | [datago_8008/burn_probe](./datago-8008-burn-probe.md) | ⭐ — | — | 27/100 |
 
 ---
 
