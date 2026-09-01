@@ -542,8 +542,8 @@
 | 532 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 31/100 |
 | 533 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 31/100 |
 | 534 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ — | — | 31/100 |
-| 535 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
-| 536 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 535 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 536 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
 | 537 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ — | — | 31/100 |
 | 538 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 31/100 |
 | 539 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 31/100 |
@@ -574,8 +574,8 @@
 | 564 | [ShahramMebashar/cairn](./shahrammebashar-cairn.md) | ⭐ — | — | 31/100 |
 | 565 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 31/100 |
 | 566 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ — | — | 31/100 |
-| 567 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 31/100 |
-| 568 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 31/100 |
+| 567 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 31/100 |
+| 568 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 31/100 |
 | 569 | [intellideep/nlproxy](./intellideep-nlproxy.md) | ⭐ — | — | 31/100 |
 | 570 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 31/100 |
 | 571 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ — | — | 28/100 |
