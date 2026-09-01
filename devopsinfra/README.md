@@ -248,8 +248,8 @@
 | 238 | [glotzerlab/hoomd-blue](./glotzerlab-hoomd-blue.md) | ⭐ 444 | C++ | 59/100 |
 | 239 | [nicholas-fedor/watchtower](./nicholas-fedor-watchtower.md) | ⭐ 4.2k | Go | 59/100 |
 | 240 | [Sportarr/Sportarr](./sportarr-sportarr.md) | ⭐ 430 | C# | 59/100 |
-| 241 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
-| 242 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 241 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 242 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
 | 243 | [NVIDIA/k8s-device-plugin](./nvidia-k8s-device-plugin.md) | ⭐ 3.8k | Go | 59/100 |
 | 244 | [project-dalec/dalec](./project-dalec-dalec.md) | ⭐ 314 | Go | 59/100 |
 | 245 | [OWASP/wrongsecrets](./owasp-wrongsecrets.md) | ⭐ 1.4k | Java | 59/100 |
@@ -553,8 +553,8 @@
 | 543 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 43/100 |
 | 544 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 291 | Rust | 43/100 |
 | 545 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
-| 546 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 547 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 546 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 547 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 548 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ — | — | 42/100 |
 | 549 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ — | — | 42/100 |
 | 550 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ — | — | 42/100 |
