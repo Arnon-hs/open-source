@@ -324,8 +324,8 @@
 | 314 | [steel-dev/awesome-web-agents](./steel-dev-awesome-web-agents.md) | ⭐ 1.4k | Python | 66/100 |
 | 315 | [gradle/gradle](./gradle-gradle.md) | ⭐ 18.5k | Groovy | 66/100 |
 | 316 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
-| 317 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
-| 318 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 317 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 318 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
 | 319 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 320 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 321 | [kunchenguid/chrome-devtools-axi](./kunchenguid-chrome-devtools-axi.md) | ⭐ 306 | TypeScript | 65/100 |
@@ -402,8 +402,8 @@
 | 392 | [signalridge/slipway](./signalridge-slipway.md) | ⭐ 21 | Go | 64/100 |
 | 393 | [dvcoolarun/web2pdf](./dvcoolarun-web2pdf.md) | ⭐ 1.3k | Python | 64/100 |
 | 394 | [krypton-byte/neonize](./krypton-byte-neonize.md) | ⭐ 423 | Python | 64/100 |
-| 395 | [karanb192/claude-code-hooks](./karanb192-claude-code-hooks.md) | ⭐ 435 | JavaScript | 64/100 |
-| 396 | [channprj/kmsg](./channprj-kmsg.md) | ⭐ 222 | Swift | 64/100 |
+| 395 | [channprj/kmsg](./channprj-kmsg.md) | ⭐ 222 | Swift | 64/100 |
+| 396 | [karanb192/claude-code-hooks](./karanb192-claude-code-hooks.md) | ⭐ 435 | JavaScript | 64/100 |
 | 397 | [czlonkowski/n8n-skills](./czlonkowski-n8n-skills.md) | ⭐ 5.7k | Shell | 64/100 |
 | 398 | [ohdearquant/lionagi](./ohdearquant-lionagi.md) | ⭐ 398 | Python | 64/100 |
 | 399 | [alan-ai/alan-sdk-web](./alan-ai-alan-sdk-web.md) | ⭐ 2.4k | — | 64/100 |

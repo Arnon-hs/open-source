@@ -647,8 +647,8 @@
 | 637 | [mytechnotalent/Go-Hacking](./mytechnotalent-go-hacking.md) | ⭐ 309 | Go | 56/100 |
 | 638 | [rathena/rathena](./rathena-rathena.md) | ⭐ 3.4k | C++ | 56/100 |
 | 639 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
-| 640 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
-| 641 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 640 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 641 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
 | 642 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 643 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
 | 644 | [kysely-org/kysely](./kysely-org-kysely.md) | ⭐ 13.8k | TypeScript | 56/100 |
@@ -678,8 +678,8 @@
 | 668 | [Submitty/Submitty](./submitty-submitty.md) | ⭐ 773 | PHP | 55/100 |
 | 669 | [ActivityWatch/aw-server-rust](./activitywatch-aw-server-rust.md) | ⭐ 303 | Rust | 55/100 |
 | 670 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 55/100 |
-| 671 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
-| 672 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
+| 671 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
+| 672 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
 | 673 | [ndonfris/fish-lsp](./ndonfris-fish-lsp.md) | ⭐ 306 | TypeScript | 55/100 |
 | 674 | [owasp-noir/noir](./owasp-noir-noir.md) | ⭐ 1.2k | Crystal | 55/100 |
 | 675 | [napi-rs/node-rs](./napi-rs-node-rs.md) | ⭐ 1.4k | Rust | 55/100 |
@@ -688,8 +688,8 @@
 | 678 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 1.1k | Swift | 55/100 |
 | 679 | [Pumpkin-MC/Pumpkin](./pumpkin-mc-pumpkin.md) | ⭐ 7.5k | Rust | 55/100 |
 | 680 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
-| 681 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
-| 682 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 681 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 682 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
 | 683 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 6.9k | Java | 55/100 |
 | 684 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 4.9k | Rust | 55/100 |
 | 685 | [modrinth/code](./modrinth-code.md) | ⭐ 2.1k | Rust | 55/100 |
@@ -901,8 +901,8 @@
 | 891 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 113 | Rust | 42/100 |
 | 892 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 42/100 |
 | 893 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
-| 894 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
-| 895 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 894 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 895 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
 | 896 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
 
 ---

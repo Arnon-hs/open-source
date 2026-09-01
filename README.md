@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33977** |
-| **Categories** | **109** |
+| **Projects** | **33984** |
+| **Categories** | **112** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15382 | [Browse →](./misc/) |
+| 📦 **Misc** | 15385 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2542 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -58,6 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Validation** | 2 | [Browse →](./validation/) |
 | 🏷️ **Android** | 2 | [Browse →](./android/) |
 | 🏷️ **Hijri** | 2 | [Browse →](./hijri/) |
@@ -72,6 +73,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Robotics** | 1 | [Browse →](./robotics/) |
+| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Postgresql** | 1 | [Browse →](./postgresql/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Uzbek** | 1 | [Browse →](./uzbek/) |
