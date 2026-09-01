@@ -1075,8 +1075,8 @@
 | 1065 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1066 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1067 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1068 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
-| 1069 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1068 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1069 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
 | 1070 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1071 | [durable-workflow/sample-app](./durable-workflow-sample-app.md) | ⭐ — | — | 48/100 |
 | 1072 | [muzhi-888/ai-side-hustle-checker](./muzhi-888-ai-side-hustle-checker.md) | ⭐ — | — | 48/100 |
@@ -1213,8 +1213,8 @@
 | 1203 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 36/100 |
 | 1204 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 36/100 |
 | 1205 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 36/100 |
-| 1206 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
-| 1207 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
+| 1206 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
+| 1207 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
 | 1208 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 35/100 |
 | 1209 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 35/100 |
 | 1210 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 35/100 |
@@ -1235,16 +1235,16 @@
 | 1225 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 31/100 |
 | 1226 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 31/100 |
 | 1227 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 31/100 |
-| 1228 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
-| 1229 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
+| 1228 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 31/100 |
+| 1229 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 31/100 |
 | 1230 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 31/100 |
 | 1231 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 31/100 |
 | 1232 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 31/100 |
 | 1233 | [kristofers322/SvelteChatKit](./kristofers322-sveltechatkit.md) | ⭐ — | — | 31/100 |
 | 1234 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 31/100 |
 | 1235 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 31/100 |
-| 1236 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1237 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1236 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1237 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 | 1238 | [crewAI/crewAI](./crewai-crewai.md) | ⭐ — | — | 24/100 |
 
 ---

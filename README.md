@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34054** |
-| **Categories** | **118** |
+| **Projects** | **34056** |
+| **Categories** | **119** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 341 | [Browse →](./observability/) |
 | 💳 **Payments** | 303 | [Browse →](./payments/) |
-| 🏷️ **Video-editing** | 300 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 301 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
 | ✨ **Design** | 166 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Cost-analysis** | 1 | [Browse →](./cost-analysis/) |
 | 🏷️ **Sec** | 1 | [Browse →](./sec/) |
 | 🏷️ **Angular** | 1 | [Browse →](./angular/) |
 | 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |

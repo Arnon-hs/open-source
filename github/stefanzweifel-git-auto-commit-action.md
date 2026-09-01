@@ -1,6 +1,6 @@
 # stefanzweifel/git-auto-commit-action
 
-[![Stars](https://img.shields.io/github/stars/stefanzweifel/git-auto-commit-action?style=flat-square&color=yellow)](https://github.com/stefanzweifel/git-auto-commit-action/stargazers) [![Forks](https://img.shields.io/github/forks/stefanzweifel/git-auto-commit-action?style=flat-square&color=blue)](https://github.com/stefanzweifel/git-auto-commit-action/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanzweifel/git-auto-commit-action?style=flat-square&color=yellow)](https://github.com/stefanzweifel/git-auto-commit-action/stargazers) [![Forks](https://img.shields.io/github/forks/stefanzweifel/git-auto-commit-action?style=flat-square&color=blue)](https://github.com/stefanzweifel/git-auto-commit-action/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-08-29 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ stefanzweifel/git-auto-commit-action：stefanzweifel/git-auto-commit-action may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 69/100 |
 | categoryMatchCount | 600/100 |
 | stars | 73/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
