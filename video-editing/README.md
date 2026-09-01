@@ -47,8 +47,8 @@
 | 37 | [Megafitzkiln/video-editor-works](./megafitzkiln-video-editor-works.md) | ⭐ 23 | — | 73/100 |
 | 38 | [linzzzzzz/openclip](./linzzzzzz-openclip.md) | ⭐ 549 | Python | 73/100 |
 | 39 | [haidrrrry/claude-remotion-skill](./haidrrrry-claude-remotion-skill.md) | ⭐ 72 | TypeScript | 73/100 |
-| 40 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
-| 41 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
+| 40 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
+| 41 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
 | 42 | [SysAdminDoc/OpenCut](./sysadmindoc-opencut.md) | ⭐ 40 | Python | 73/100 |
 | 43 | [drakulavich/kesha-voice-kit](./drakulavich-kesha-voice-kit.md) | ⭐ 68 | TypeScript | 73/100 |
 | 44 | [krillinai/KrillinAI](./krillinai-krillinai.md) | ⭐ 10.5k | Go | 73/100 |
@@ -287,8 +287,8 @@
 | 277 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 182 | Ruby | 42/100 |
 | 278 | [bart6114/loofah](./bart6114-loofah.md) | ⭐ — | — | 41/100 |
 | 279 | [michaelwilhelmsen/humla](./michaelwilhelmsen-humla.md) | ⭐ 106 | Rust | 40/100 |
-| 280 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 39/100 |
-| 281 | [Salesforce/blip-image-captioning-large](./salesforce-blip-image-captioning-large.md) | ⭐ 1.5k | transformers | 39/100 |
+| 280 | [Salesforce/blip-image-captioning-large](./salesforce-blip-image-captioning-large.md) | ⭐ 1.5k | transformers | 39/100 |
+| 281 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 39/100 |
 | 282 | [karamuhammet/Open-Editor-Dika-Studio-Community](./karamuhammet-open-editor-dika-studio-community.md) | ⭐ — | — | 38/100 |
 | 283 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ — | — | 38/100 |
 | 284 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ — | — | 38/100 |

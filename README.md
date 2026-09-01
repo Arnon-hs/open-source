@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33940** |
-| **Categories** | **98** |
+| **Projects** | **33944** |
+| **Categories** | **99** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15365 | [Browse →](./misc/) |
+| 📦 **Misc** | 15367 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2542 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2191 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1345 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1234 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
@@ -69,6 +69,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Cheminformatics** | 1 | [Browse →](./cheminformatics/) |
 | 🏷️ **Software-supply-chain** | 1 | [Browse →](./software-supply-chain/) |
 | 🏷️ **X402** | 1 | [Browse →](./x402/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
