@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34056** |
-| **Categories** | **119** |
+| **Projects** | **34060** |
+| **Categories** | **121** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15433 | [Browse →](./misc/) |
+| 📦 **Misc** | 15435 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3298 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2543 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -74,6 +74,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Reactive** | 1 | [Browse →](./reactive/) |
+| 🏷️ **Screenshot** | 1 | [Browse →](./screenshot/) |
 | 🏷️ **Cost-analysis** | 1 | [Browse →](./cost-analysis/) |
 | 🏷️ **Sec** | 1 | [Browse →](./sec/) |
 | 🏷️ **Angular** | 1 | [Browse →](./angular/) |
