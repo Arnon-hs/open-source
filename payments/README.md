@@ -60,8 +60,8 @@
 | 50 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 508 | Python | 64/100 |
 | 51 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 138 | Go | 64/100 |
 | 52 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 253 | JavaScript | 64/100 |
-| 53 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 76 | Python | 64/100 |
-| 54 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 64/100 |
+| 53 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 174 | PHP | 64/100 |
+| 54 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 76 | Python | 64/100 |
 | 55 | [paypal-examples/v6-web-sdk-sample-integration](./paypal-examples-v6-web-sdk-sample-integration.md) | ⭐ 53 | TypeScript | 64/100 |
 | 56 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 64/100 |
 | 57 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
@@ -225,8 +225,8 @@
 | 215 | [stustapay/stustapay](./stustapay-stustapay.md) | ⭐ 153 | Python | 50/100 |
 | 216 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 479 | Rust | 50/100 |
 | 217 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 50/100 |
-| 218 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 219 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 50/100 |
+| 218 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 50/100 |
+| 219 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 220 | [lopinx/epay](./lopinx-epay.md) | ⭐ 113 | PHP | 49/100 |
 | 221 | [braintree/braintree_node](./braintree-braintree-node.md) | ⭐ 333 | JavaScript | 49/100 |
 | 222 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 381 | JavaScript | 49/100 |
