@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33955** |
-| **Categories** | **101** |
+| **Projects** | **33959** |
+| **Categories** | **102** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15374 | [Browse →](./misc/) |
+| 📦 **Misc** | 15376 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3297 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2542 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -57,6 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Android** | 2 | [Browse →](./android/) |
 | 🏷️ **Hijri** | 2 | [Browse →](./hijri/) |
 | 🏷️ **Comfyui** | 2 | [Browse →](./comfyui/) |
 | 🏷️ **Spfx** | 2 | [Browse →](./spfx/) |
@@ -70,6 +71,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Privacy** | 2 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Roblox** | 1 | [Browse →](./roblox/) |
 | 🏷️ **Nextjs** | 1 | [Browse →](./nextjs/) |
 | 🏷️ **Cheminformatics** | 1 | [Browse →](./cheminformatics/) |
 | 🏷️ **Software-supply-chain** | 1 | [Browse →](./software-supply-chain/) |
@@ -87,7 +89,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Crash-safety** | 1 | [Browse →](./crash-safety/) |
 | 🏷️ **Retry** | 1 | [Browse →](./retry/) |
 | 🏷️ **Chart-generation** | 1 | [Browse →](./chart-generation/) |
-| 🏷️ **Android** | 1 | [Browse →](./android/) |
 | 🏷️ **Qt** | 1 | [Browse →](./qt/) |
 | 🏷️ **Exactly-once** | 1 | [Browse →](./exactly-once/) |
 | 🏷️ **Reversibility** | 1 | [Browse →](./reversibility/) |
