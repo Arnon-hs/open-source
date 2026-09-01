@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [venturaproject/tooler](./venturaproject-tooler.md) | ⭐ — | Rust | 52/100 |
+| 1 | [venturaproject/tooler](./venturaproject-tooler.md) | ⭐ — | Rust | 49/100 |
 
 ---
 
