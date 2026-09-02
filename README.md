@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34089** |
-| **Categories** | **123** |
+| **Projects** | **34094** |
+| **Categories** | **125** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15455 | [Browse →](./misc/) |
+| 📦 **Misc** | 15458 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3298 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2543 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -75,6 +75,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Meetingroom** | 1 | [Browse →](./meetingroom/) |
+| 🏷️ **Runtime-security** | 1 | [Browse →](./runtime-security/) |
 | 🏷️ **Benchmark** | 1 | [Browse →](./benchmark/) |
 | 🏷️ **Reactive** | 1 | [Browse →](./reactive/) |
 | 🏷️ **Screenshot** | 1 | [Browse →](./screenshot/) |
