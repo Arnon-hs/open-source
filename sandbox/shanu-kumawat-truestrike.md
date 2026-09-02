@@ -1,6 +1,6 @@
 # Shanu-Kumawat/truestrike
 
-[![Stars](https://img.shields.io/github/stars/Shanu-Kumawat/truestrike?style=flat-square&color=yellow)](https://github.com/Shanu-Kumawat/truestrike/stargazers) [![Forks](https://img.shields.io/github/forks/Shanu-Kumawat/truestrike?style=flat-square&color=blue)](https://github.com/Shanu-Kumawat/truestrike/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shanu-Kumawat/truestrike?style=flat-square&color=yellow)](https://github.com/Shanu-Kumawat/truestrike/stargazers) [![Forks](https://img.shields.io/github/forks/Shanu-Kumawat/truestrike?style=flat-square&color=blue)](https://github.com/Shanu-Kumawat/truestrike/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > TrueStrike - autonomous, human-approved web pentest agent on TrueForge (Agent Harness Hackathon)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-08-30 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Shanu-Kumawat/truestrike：Shanu-Kumawat/truestrike may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
