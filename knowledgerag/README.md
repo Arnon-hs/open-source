@@ -532,8 +532,8 @@
 | 522 | [cloudkj/lance-bundle](./cloudkj-lance-bundle.md) | ⭐ — | — | 38/100 |
 | 523 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 38/100 |
 | 524 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 38/100 |
-| 525 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 37/100 |
-| 526 | [sentence-transformers/all-MiniLM-L12-v2](./sentence-transformers-all-minilm-l12-v2.md) | ⭐ 324 | sentence-transformers | 37/100 |
+| 525 | [sentence-transformers/all-MiniLM-L12-v2](./sentence-transformers-all-minilm-l12-v2.md) | ⭐ 324 | sentence-transformers | 37/100 |
+| 526 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 37/100 |
 | 527 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 37/100 |
 | 528 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 37/100 |
 | 529 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 37/100 |

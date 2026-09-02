@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [htmlradar/htmlradar](./htmlradar-htmlradar.md) | ⭐ 1 | TypeScript | 68/100 |
+| 1 | [htmlradar/htmlradar](./htmlradar-htmlradar.md) | ⭐ 1 | TypeScript | 65/100 |
 
 ---
 
