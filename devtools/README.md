@@ -615,8 +615,8 @@
 | 605 | [OvertureMaps/overturemaps-py](./overturemaps-overturemaps-py.md) | ⭐ 256 | Python | 59/100 |
 | 606 | [mtkennerly/dunamai](./mtkennerly-dunamai.md) | ⭐ 383 | Python | 59/100 |
 | 607 | [hrtsegv/gitcs](./hrtsegv-gitcs.md) | ⭐ 133 | Go | 59/100 |
-| 608 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 59/100 |
-| 609 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 59/100 |
+| 608 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 59/100 |
+| 609 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 59/100 |
 | 610 | [sindresorhus/meow](./sindresorhus-meow.md) | ⭐ 3.7k | JavaScript | 59/100 |
 | 611 | [kyu08/fzf-make](./kyu08-fzf-make.md) | ⭐ 289 | Rust | 59/100 |
 | 612 | [MohsenBg/bgscan](./mohsenbg-bgscan.md) | ⭐ 48 | Go | 59/100 |
@@ -701,8 +701,8 @@
 | 691 | [VerisimilitudeX/DNAnalyzer](./verisimilitudex-dnanalyzer.md) | ⭐ 181 | Java | 58/100 |
 | 692 | [iamkaran/whats](./iamkaran-whats.md) | ⭐ 31 | Go | 58/100 |
 | 693 | [jpillora/opts](./jpillora-opts.md) | ⭐ 172 | Go | 58/100 |
-| 694 | [tim-janik/jj-fzf](./tim-janik-jj-fzf.md) | ⭐ 250 | Shell | 58/100 |
-| 695 | [l0ng-ai/tty7](./l0ng-ai-tty7.md) | ⭐ 114 | Rust | 58/100 |
+| 694 | [l0ng-ai/tty7](./l0ng-ai-tty7.md) | ⭐ 114 | Rust | 58/100 |
+| 695 | [tim-janik/jj-fzf](./tim-janik-jj-fzf.md) | ⭐ 250 | Shell | 58/100 |
 | 696 | [thegoodduck/NetSour](./thegoodduck-netsour.md) | ⭐ 110 | Python | 58/100 |
 | 697 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 58/100 |
 | 698 | [darksworm/argonaut](./darksworm-argonaut.md) | ⭐ 410 | Go | 58/100 |
@@ -1183,8 +1183,8 @@
 | 1173 | [0x61nas/aarty](./0x61nas-aarty.md) | ⭐ 84 | Rust | 52/100 |
 | 1174 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 293 | PHP | 52/100 |
 | 1175 | [th0r/npm-upgrade](./th0r-npm-upgrade.md) | ⭐ 337 | JavaScript | 52/100 |
-| 1176 | [ad-si/TaskLite](./ad-si-tasklite.md) | ⭐ 282 | Elm | 52/100 |
-| 1177 | [wezm/git-grab](./wezm-git-grab.md) | ⭐ 176 | Rust | 52/100 |
+| 1176 | [wezm/git-grab](./wezm-git-grab.md) | ⭐ 176 | Rust | 52/100 |
+| 1177 | [ad-si/TaskLite](./ad-si-tasklite.md) | ⭐ 282 | Elm | 52/100 |
 | 1178 | [MicrosoftDocs/edge-developer](./microsoftdocs-edge-developer.md) | ⭐ 434 | JavaScript | 52/100 |
 | 1179 | [alexdlaird/amazon-orders](./alexdlaird-amazon-orders.md) | ⭐ 143 | Python | 52/100 |
 | 1180 | [Harry-kp/vortix](./harry-kp-vortix.md) | ⭐ 417 | Rust | 52/100 |
@@ -1225,8 +1225,8 @@
 | 1215 | [aeyoll/soulseek-cli](./aeyoll-soulseek-cli.md) | ⭐ 180 | JavaScript | 51/100 |
 | 1216 | [serein431/Codex-Mate](./serein431-codex-mate.md) | ⭐ 145 | Python | 51/100 |
 | 1217 | [kunobi-ninja/kache](./kunobi-ninja-kache.md) | ⭐ 239 | Rust | 51/100 |
-| 1218 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 51/100 |
-| 1219 | [wp-cli/doctor-command](./wp-cli-doctor-command.md) | ⭐ 165 | Gherkin | 51/100 |
+| 1218 | [wp-cli/doctor-command](./wp-cli-doctor-command.md) | ⭐ 165 | Gherkin | 51/100 |
+| 1219 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 51/100 |
 | 1220 | [conduktor/conduktor-platform](./conduktor-conduktor-platform.md) | ⭐ 157 | — | 51/100 |
 | 1221 | [eduwass/tmux-palette](./eduwass-tmux-palette.md) | ⭐ 205 | TypeScript | 51/100 |
 | 1222 | [tlipinski/rura](./tlipinski-rura.md) | ⭐ 36 | Rust | 51/100 |
@@ -1260,9 +1260,9 @@
 | 1250 | [openchoreo/openchoreo](./openchoreo-openchoreo.md) | ⭐ 848 | Go | 51/100 |
 | 1251 | [serkanyersen/dotstate](./serkanyersen-dotstate.md) | ⭐ 339 | Rust | 51/100 |
 | 1252 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 51/100 |
-| 1253 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 540 | Rust | 51/100 |
-| 1254 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
-| 1255 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 509 | Rust | 51/100 |
+| 1253 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 509 | Rust | 51/100 |
+| 1254 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 540 | Rust | 51/100 |
+| 1255 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 238 | Rust | 51/100 |
 | 1256 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 51/100 |
 | 1257 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 51/100 |
 | 1258 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 51/100 |
