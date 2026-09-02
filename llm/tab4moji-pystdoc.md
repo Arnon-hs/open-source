@@ -1,6 +1,6 @@
 # tab4moji/pystdoc
 
-[![Stars](https://img.shields.io/github/stars/tab4moji/pystdoc?style=flat-square&color=yellow)](https://github.com/tab4moji/pystdoc/stargazers) [![Forks](https://img.shields.io/github/forks/tab4moji/pystdoc?style=flat-square&color=blue)](https://github.com/tab4moji/pystdoc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tab4moji/pystdoc?style=flat-square&color=yellow)](https://github.com/tab4moji/pystdoc/stargazers) [![Forks](https://img.shields.io/github/forks/tab4moji/pystdoc?style=flat-square&color=blue)](https://github.com/tab4moji/pystdoc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > It analyzes codebases in **bottom-up + top-down topological passes**, constructs hierarchical execution/data models, and synthesizes clean, human-centric Markdown and Mermaid diagrams within a **16K context window**.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-08-30 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ tab4moji/pystdoc：tab4moji/pystdoc may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
