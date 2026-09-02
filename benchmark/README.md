@@ -1,4 +1,4 @@
-# 🏷️ Phi
+# 🏷️ Benchmark
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Abidit/phi-guard-mcp](./abidit-phi-guard-mcp.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [argszero/silicon-science-cs](./argszero-silicon-science-cs.md) | ⭐ — | Python | 46/100 |
 
 ---
 
