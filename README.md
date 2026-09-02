@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34169** |
+| **Projects** | **34172** |
 | **Categories** | **127** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15513 | [Browse →](./misc/) |
+| 📦 **Misc** | 15515 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3300 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2544 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -58,6 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Prompt-optimization** | 2 | [Browse →](./prompt-optimization/) |
 | 🏷️ **Ebpf** | 2 | [Browse →](./ebpf/) |
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
@@ -127,7 +128,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-verification** | 1 | [Browse →](./ai-verification/) |
 | 🏷️ **Phi** | 1 | [Browse →](./phi/) |
 | 🏷️ **Incident-response** | 1 | [Browse →](./incident-response/) |
-| 🏷️ **Git** | 1 | [Browse →](./git/) |
 | 🏷️ **Claude-code** | 1 | [Browse →](./claude-code/) |
 | 🏷️ **Tts** | 1 | [Browse →](./tts/) |
 | 🏷️ **Real-time-dubbing** | 1 | [Browse →](./real-time-dubbing/) |
