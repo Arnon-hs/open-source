@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [imarpanpatra/portcullis](./imarpanpatra-portcullis.md) | ⭐ — | Python | 39/100 |
+| 1 | [imarpanpatra/portcullis](./imarpanpatra-portcullis.md) | ⭐ — | Python | 36/100 |
 
 ---
 
