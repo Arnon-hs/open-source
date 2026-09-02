@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34094** |
-| **Categories** | **125** |
+| **Projects** | **34097** |
+| **Categories** | **126** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -34,12 +34,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 713 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 612 | [Browse →](./devopsinfra/) |
-| 🏷️ **Database** | 579 | [Browse →](./database/) |
+| 🏷️ **Database** | 580 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 563 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 416 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
-| 🏷️ **Observability** | 341 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 342 | [Browse →](./observability/) |
 | 🏷️ **Video-editing** | 303 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 303 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
@@ -75,6 +75,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Edge** | 1 | [Browse →](./edge/) |
 | 🏷️ **Meetingroom** | 1 | [Browse →](./meetingroom/) |
 | 🏷️ **Runtime-security** | 1 | [Browse →](./runtime-security/) |
 | 🏷️ **Benchmark** | 1 | [Browse →](./benchmark/) |
