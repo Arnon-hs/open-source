@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34145** |
+| **Projects** | **34151** |
 | **Categories** | **127** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15494 | [Browse →](./misc/) |
+| 📦 **Misc** | 15498 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3300 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2544 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 612 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 580 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 563 | [Browse →](./knowledgerag/) |
-| 🏷️ **Templates** | 416 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 417 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 342 | [Browse →](./observability/) |
@@ -49,7 +49,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
-| 🏷️ **Ai** | 8 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 9 | [Browse →](./ai/) |
 | 🏷️ **Privacy** | 6 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 5 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 3 | [Browse →](./ai-agents/) |

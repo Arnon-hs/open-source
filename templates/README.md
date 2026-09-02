@@ -2,7 +2,7 @@
 
 > 
 
-**416 projects** in this category.
+**417 projects** in this category.
 
 ## Projects
 
@@ -411,19 +411,20 @@
 | 401 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ — | — | 42/100 |
 | 402 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 42/100 |
 | 403 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 42/100 |
-| 404 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
-| 405 | [artob/readmer](./artob-readmer.md) | ⭐ — | — | 39/100 |
-| 406 | [human0-ai/template](./human0-ai-template.md) | ⭐ — | — | 39/100 |
-| 407 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ — | — | 39/100 |
-| 408 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ — | — | 39/100 |
-| 409 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 39/100 |
-| 410 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 39/100 |
-| 411 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 36/100 |
-| 412 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 35/100 |
-| 413 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 35/100 |
-| 414 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 35/100 |
-| 415 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 31/100 |
-| 416 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
+| 404 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
+| 405 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
+| 406 | [artob/readmer](./artob-readmer.md) | ⭐ — | — | 39/100 |
+| 407 | [human0-ai/template](./human0-ai-template.md) | ⭐ — | — | 39/100 |
+| 408 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ — | — | 39/100 |
+| 409 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ — | — | 39/100 |
+| 410 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 39/100 |
+| 411 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 39/100 |
+| 412 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 36/100 |
+| 413 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 35/100 |
+| 414 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 35/100 |
+| 415 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 35/100 |
+| 416 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 31/100 |
+| 417 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 
 ---
 

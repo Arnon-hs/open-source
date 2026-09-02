@@ -1,6 +1,6 @@
 # alexcorvi/heic2any
 
-[![Stars](https://img.shields.io/github/stars/alexcorvi/heic2any?style=flat-square&color=yellow)](https://github.com/alexcorvi/heic2any/stargazers) [![Forks](https://img.shields.io/github/forks/alexcorvi/heic2any?style=flat-square&color=blue)](https://github.com/alexcorvi/heic2any/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexcorvi/heic2any?style=flat-square&color=yellow)](https://github.com/alexcorvi/heic2any/stargazers) [![Forks](https://img.shields.io/github/forks/alexcorvi/heic2any?style=flat-square&color=blue)](https://github.com/alexcorvi/heic2any/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Converting HEIF/HEIF image formats to PNG/GIF/JPEG in the browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 883 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-08-30 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ alexcorvi/heic2any：alexcorvi/heic2any may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 62/100 |
+| outlook | 62/100 |
 | adoption | 59/100 |
 | categoryMatchCount | 800/100 |
 | stars | 63/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 
