@@ -154,8 +154,8 @@
 | 144 | [linq2db/linq2db](./linq2db-linq2db.md) | ⭐ 3.3k | C# | 58/100 |
 | 145 | [exceptionless/Exceptionless](./exceptionless-exceptionless.md) | ⭐ 2.5k | C# | 58/100 |
 | 146 | [walinejs/waline](./walinejs-waline.md) | ⭐ 3k | JavaScript | 58/100 |
-| 147 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 841 | Java | 58/100 |
-| 148 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 768 | PHP | 58/100 |
+| 147 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 768 | PHP | 58/100 |
+| 148 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 841 | Java | 58/100 |
 | 149 | [signal18/replication-manager](./signal18-replication-manager.md) | ⭐ 729 | Go | 58/100 |
 | 150 | [postgis/postgis](./postgis-postgis.md) | ⭐ 2.2k | PLpgSQL | 57/100 |
 | 151 | [sqlite/sqlite](./sqlite-sqlite.md) | ⭐ 10.3k | C | 57/100 |
@@ -542,8 +542,8 @@
 | 532 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 31/100 |
 | 533 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 31/100 |
 | 534 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ — | — | 31/100 |
-| 535 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
-| 536 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
+| 535 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
+| 536 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
 | 537 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ — | — | 31/100 |
 | 538 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 31/100 |
 | 539 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 31/100 |
@@ -564,8 +564,8 @@
 | 554 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 31/100 |
 | 555 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 31/100 |
 | 556 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 31/100 |
-| 557 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
-| 558 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
+| 557 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 31/100 |
+| 558 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 31/100 |
 | 559 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 31/100 |
 | 560 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 31/100 |
 | 561 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 31/100 |
