@@ -191,8 +191,8 @@
 | 181 | [tektoncd/pipelines-as-code](./tektoncd-pipelines-as-code.md) | ⭐ 208 | Go | 61/100 |
 | 182 | [tektoncd/operator](./tektoncd-operator.md) | ⭐ 562 | Go | 61/100 |
 | 183 | [crazy-max/docker-fail2ban](./crazy-max-docker-fail2ban.md) | ⭐ 756 | Dockerfile | 61/100 |
-| 184 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 658 | Go | 61/100 |
-| 185 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 61/100 |
+| 184 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 61/100 |
+| 185 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 658 | Go | 61/100 |
 | 186 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 61/100 |
 | 187 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 178 | Python | 61/100 |
 | 188 | [hadolint/hadolint](./hadolint-hadolint.md) | ⭐ 12.3k | Haskell | 61/100 |
@@ -555,8 +555,8 @@
 | 545 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 43/100 |
 | 546 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 291 | Rust | 43/100 |
 | 547 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
-| 548 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
-| 549 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
+| 548 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
+| 549 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
 | 550 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ — | — | 42/100 |
 | 551 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ — | — | 42/100 |
 | 552 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ — | — | 42/100 |
