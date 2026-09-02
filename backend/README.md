@@ -901,8 +901,8 @@
 | 891 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 113 | Rust | 42/100 |
 | 892 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 42/100 |
 | 893 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
-| 894 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
-| 895 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 894 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 895 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
 | 896 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
 
 ---
