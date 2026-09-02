@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Reet24-del/the-verifier](./reet24-del-the-verifier.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [Reet24-del/the-verifier](./reet24-del-the-verifier.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
