@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34195** |
-| **Categories** | **128** |
+| **Projects** | **34204** |
+| **Categories** | **131** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15529 | [Browse →](./misc/) |
+| 📦 **Misc** | 15532 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3300 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2545 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 305 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 305 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
-| ✨ **Design** | 166 | [Browse →](./design/) |
+| ✨ **Design** | 167 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 73 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
@@ -53,12 +53,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 8 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 5 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
+| 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Markdown** | 3 | [Browse →](./markdown/) |
 | 🏷️ **Browser-based** | 3 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Prompt-optimization** | 2 | [Browse →](./prompt-optimization/) |
 | 🏷️ **Ebpf** | 2 | [Browse →](./ebpf/) |
@@ -69,13 +71,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Comfyui** | 2 | [Browse →](./comfyui/) |
 | 🏷️ **Spfx** | 2 | [Browse →](./spfx/) |
 | 🏷️ **Sharepoint** | 2 | [Browse →](./sharepoint/) |
-| 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |
+| 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Seccomp** | 1 | [Browse →](./seccomp/) |
 | 🏷️ **Edge** | 1 | [Browse →](./edge/) |
