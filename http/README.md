@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kareemheshaam/Reqvexa](./kareemheshaam-reqvexa.md) | ⭐ 3 | Python | 61/100 |
+| 1 | [kareemheshaam/Reqvexa](./kareemheshaam-reqvexa.md) | ⭐ 3 | Python | 58/100 |
 
 ---
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34235** |
+| **Projects** | **34244** |
 | **Categories** | **135** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,15 +23,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15548 | [Browse →](./misc/) |
+| 📦 **Misc** | 15554 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3301 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2546 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1346 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1347 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1243 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 753 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 714 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 612 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 580 | [Browse →](./database/) |
@@ -61,6 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Prompt-optimization** | 2 | [Browse →](./prompt-optimization/) |
@@ -111,7 +112,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Software-supply-chain** | 1 | [Browse →](./software-supply-chain/) |
 | 🏷️ **X402** | 1 | [Browse →](./x402/) |
 | 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
-| 🏷️ **Self-hosting** | 1 | [Browse →](./self-hosting/) |
 | 🏷️ **Selfimprovement** | 1 | [Browse →](./selfimprovement/) |
 | 🏷️ **Sourcing** | 1 | [Browse →](./sourcing/) |
 | 🏷️ **Telemetry** | 1 | [Browse →](./telemetry/) |

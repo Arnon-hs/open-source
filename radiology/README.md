@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CTCycle/XREPORT-radiological-reports-generator](./ctcycle-xreport-radiological-reports-generator.md) | ⭐ 6 | Python | 59/100 |
+| 1 | [CTCycle/XREPORT-radiological-reports-generator](./ctcycle-xreport-radiological-reports-generator.md) | ⭐ 6 | Python | 56/100 |
 
 ---
 
