@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34306** |
-| **Categories** | **144** |
+| **Projects** | **34312** |
+| **Categories** | **146** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15589 | [Browse →](./misc/) |
+| 📦 **Misc** | 15593 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3302 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2547 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -82,6 +82,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **C** | 1 | [Browse →](./c/) |
+| 🏷️ **Ai-assisted-coding** | 1 | [Browse →](./ai-assisted-coding/) |
 | 🏷️ **Zero-dependency** | 1 | [Browse →](./zero-dependency/) |
 | 🏷️ **Design-engineering** | 1 | [Browse →](./design-engineering/) |
 | 🏷️ **Context** | 1 | [Browse →](./context/) |
