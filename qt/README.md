@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [calvinhxx/Fluent-Qt](./calvinhxx-fluent-qt.md) | ⭐ 72 | C++ | 55/100 |
+| 1 | [calvinhxx/Fluent-Qt](./calvinhxx-fluent-qt.md) | ⭐ 72 | C++ | 52/100 |
 
 ---
 

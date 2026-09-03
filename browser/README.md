@@ -1,4 +1,4 @@
-# 🏷️ Terminal
+# 🏷️ Browser
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [idrisharis12/ani-sync](./idrisharis12-ani-sync.md) | ⭐ — | Python | 56/100 |
+| 1 | [mun-jeong-min/BugBaton](./mun-jeong-min-bugbaton.md) | ⭐ — | JavaScript | 60/100 |
 
 ---
 

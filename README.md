@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34192** |
-| **Categories** | **127** |
+| **Projects** | **34195** |
+| **Categories** | **128** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -40,8 +40,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 343 | [Browse →](./observability/) |
+| 🏷️ **Video-editing** | 305 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 305 | [Browse →](./payments/) |
-| 🏷️ **Video-editing** | 304 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
 | ✨ **Design** | 166 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
@@ -53,6 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 8 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 5 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
+| 🏷️ **Markdown** | 3 | [Browse →](./markdown/) |
 | 🏷️ **Browser-based** | 3 | [Browse →](./browser-based/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
@@ -70,12 +71,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sharepoint** | 2 | [Browse →](./sharepoint/) |
 | 🏷️ **Open-source** | 2 | [Browse →](./open-source/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
-| 🏷️ **Markdown** | 2 | [Browse →](./markdown/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Seccomp** | 1 | [Browse →](./seccomp/) |
 | 🏷️ **Edge** | 1 | [Browse →](./edge/) |
 | 🏷️ **Meetingroom** | 1 | [Browse →](./meetingroom/) |
