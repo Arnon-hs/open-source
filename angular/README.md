@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [inandusolutions/inandu-grid](./inandusolutions-inandu-grid.md) | ⭐ — | TypeScript | 47/100 |
+| 1 | [inandusolutions/inandu-grid](./inandusolutions-inandu-grid.md) | ⭐ — | TypeScript | 44/100 |
 
 ---
 
