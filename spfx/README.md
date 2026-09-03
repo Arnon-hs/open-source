@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vystartasv/spfx-factory](./vystartasv-spfx-factory.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [vystartasv/spfx-factory](./vystartasv-spfx-factory.md) | ⭐ — | TypeScript | 43/100 |
 | 2 | [vystartasv/spfx-estate-doctor](./vystartasv-spfx-estate-doctor.md) | ⭐ — | TypeScript | 42/100 |
 
 ---

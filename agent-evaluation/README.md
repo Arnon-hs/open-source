@@ -1,4 +1,4 @@
-# 🏷️ Codex
+# 🏷️ Agent-evaluation
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yuanjohn01-byte/codex-skin-plugin](./yuanjohn01-byte-codex-skin-plugin.md) | ⭐ — | Go | 44/100 |
+| 1 | [chasedndt/agent-review-studio](./chasedndt-agent-review-studio.md) | ⭐ — | JavaScript | 43/100 |
 
 ---
 

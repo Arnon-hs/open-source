@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34226** |
-| **Categories** | **133** |
+| **Projects** | **34231** |
+| **Categories** | **134** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15544 | [Browse →](./misc/) |
+| 📦 **Misc** | 15546 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3301 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2545 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -48,11 +48,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 73 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 12 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 13 | [Browse →](./ai/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Privacy** | 8 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 6 | [Browse →](./llm/) |
-| 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Migration** | 3 | [Browse →](./migration/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Markdown** | 3 | [Browse →](./markdown/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |
 | 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |

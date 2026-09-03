@@ -1,6 +1,6 @@
 # yuanjohn01-byte/codex-skin-plugin
 
-[![Stars](https://img.shields.io/github/stars/yuanjohn01-byte/codex-skin-plugin?style=flat-square&color=yellow)](https://github.com/yuanjohn01-byte/codex-skin-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/yuanjohn01-byte/codex-skin-plugin?style=flat-square&color=blue)](https://github.com/yuanjohn01-byte/codex-skin-plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuanjohn01-byte/codex-skin-plugin?style=flat-square&color=yellow)](https://github.com/yuanjohn01-byte/codex-skin-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/yuanjohn01-byte/codex-skin-plugin?style=flat-square&color=blue)](https://github.com/yuanjohn01-byte/codex-skin-plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Public Codex Plugin, skills, helpers, adapters, restorer, and public contracts for Codex Skin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-08-31 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ yuanjohn01-byte/codex-skin-plugin：yuanjohn01-byte/codex-skin-plugin may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 54/100 |
+| production | 55/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # react-native-async-storage/async-storage
 
-[![Stars](https://img.shields.io/github/stars/react-native-async-storage/async-storage?style=flat-square&color=yellow)](https://github.com/react-native-async-storage/async-storage/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-async-storage/async-storage?style=flat-square&color=blue)](https://github.com/react-native-async-storage/async-storage/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react-native-async-storage/async-storage?style=flat-square&color=yellow)](https://github.com/react-native-async-storage/async-storage/stargazers) [![Forks](https://img.shields.io/github/forks/react-native-async-storage/async-storage?style=flat-square&color=blue)](https://github.com/react-native-async-storage/async-storage/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An asynchronous, persistent, key-value storage system for React Native.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 483 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-08-31 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ react-native-async-storage/async-storage：react-native-async-storage/async-stor
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 61/100 |
+| outlook | 65/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 800/100 |
 | stars | 79/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jindrabe/editbar](./jindrabe-editbar.md) | ⭐ 1 | JavaScript | 53/100 |
+| 1 | [jindrabe/editbar](./jindrabe-editbar.md) | ⭐ 1 | JavaScript | 50/100 |
 
 ---
 
