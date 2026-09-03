@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Mah3Sec/ForgeGuardian](./mah3sec-forgeguardian.md) | ⭐ 7 | Go | 56/100 |
+| 1 | [Mah3Sec/ForgeGuardian](./mah3sec-forgeguardian.md) | ⭐ 7 | Go | 53/100 |
 
 ---
 
