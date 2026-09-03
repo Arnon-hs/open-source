@@ -902,8 +902,8 @@
 | 892 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 42/100 |
 | 893 | [8Protons/POWBlock](./8protons-powblock.md) | ⭐ — | — | 41/100 |
 | 894 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
-| 895 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
-| 896 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 895 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 40/100 |
+| 896 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 40/100 |
 | 897 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
 
 ---
