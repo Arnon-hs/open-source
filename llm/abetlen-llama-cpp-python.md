@@ -1,6 +1,6 @@
 # abetlen/llama-cpp-python
 
-[![Stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=flat-square&color=yellow)](https://github.com/abetlen/llama-cpp-python/stargazers) [![Forks](https://img.shields.io/github/forks/abetlen/llama-cpp-python?style=flat-square&color=blue)](https://github.com/abetlen/llama-cpp-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=flat-square&color=yellow)](https://github.com/abetlen/llama-cpp-python/stargazers) [![Forks](https://img.shields.io/github/forks/abetlen/llama-cpp-python?style=flat-square&color=blue)](https://github.com/abetlen/llama-cpp-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Python bindings for llama.cpp
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-08-31 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ abetlen/llama-cpp-python：abetlen/llama-cpp-python may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 84/100 |
 | categoryMatchCount | 600/100 |
 | stars | 86/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
