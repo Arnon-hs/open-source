@@ -537,8 +537,8 @@
 | 527 | [garagon/nanostack](./garagon-nanostack.md) | ⭐ 194 | Shell | 62/100 |
 | 528 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 529 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 530 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 531 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 530 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 531 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 532 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 533 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 534 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -584,8 +584,8 @@
 | 574 | [iloom-ai/iloom-cli](./iloom-ai-iloom-cli.md) | ⭐ 103 | TypeScript | 61/100 |
 | 575 | [fossology/fossology](./fossology-fossology.md) | ⭐ 985 | HTML | 61/100 |
 | 576 | [mono0926/LicensePlist](./mono0926-licenseplist.md) | ⭐ 2.5k | Swift | 61/100 |
-| 577 | [antoniorodr/lexy](./antoniorodr-lexy.md) | ⭐ 114 | Python | 61/100 |
-| 578 | [abhinavxd/libredesk](./abhinavxd-libredesk.md) | ⭐ 2.5k | Go | 61/100 |
+| 577 | [abhinavxd/libredesk](./abhinavxd-libredesk.md) | ⭐ 2.5k | Go | 61/100 |
+| 578 | [antoniorodr/lexy](./antoniorodr-lexy.md) | ⭐ 114 | Python | 61/100 |
 | 579 | [apache/ofbiz-framework](./apache-ofbiz-framework.md) | ⭐ 1k | Java | 61/100 |
 | 580 | [Hacker-Valley-Media/Interceptor](./hacker-valley-media-interceptor.md) | ⭐ 225 | Swift | 61/100 |
 | 581 | [kdcokenny/opencode-worktree](./kdcokenny-opencode-worktree.md) | ⭐ 523 | TypeScript | 61/100 |
@@ -1218,8 +1218,8 @@
 | 1208 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 36/100 |
 | 1209 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 36/100 |
 | 1210 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 36/100 |
-| 1211 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
-| 1212 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
+| 1211 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 35/100 |
+| 1212 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 35/100 |
 | 1213 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 35/100 |
 | 1214 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 35/100 |
 | 1215 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 35/100 |

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-08-23 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,38 +27,33 @@ MCP
 
 ### English
 
-harishsg993010/damn-vulnerable-MCP-server: harishsg993010/damn-vulnerable-MCP-server helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+harishsg993010/damn-vulnerable-MCP-server: . Use it for MCP. 
 
 ### Русский
 
-harishsg993010/damn-vulnerable-MCP-server: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+harishsg993010/damn-vulnerable-MCP-server: open-source проект в категориях MCP. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-harishsg993010/damn-vulnerable-MCP-server：harishsg993010/damn-vulnerable-MCP-server helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+harishsg993010/damn-vulnerable-MCP-server：。适合用于MCP。
 
 ## 🧭 Practical evaluation
 
-**Value:** harishsg993010/damn-vulnerable-MCP-server helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1336 GitHub stars
-- 174 forks
-- updated 2026-08-23
-- primary language: Python
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -75,6 +70,7 @@ harishsg993010/damn-vulnerable-MCP-server：harishsg993010/damn-vulnerable-MCP-s
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

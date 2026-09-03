@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MyZubster-Ecosystem/myzubster](./myzubster-ecosystem-myzubster.md) | ⭐ 1 | JavaScript | 42/100 |
+| 1 | [MyZubster-Ecosystem/myzubster](./myzubster-ecosystem-myzubster.md) | ⭐ 1 | JavaScript | 39/100 |
 
 ---
 
