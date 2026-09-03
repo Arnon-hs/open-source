@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [metricshour-netizen/edgar-geo-revenue](./metricshour-netizen-edgar-geo-revenue.md) | ⭐ 1 | Python | 56/100 |
+| 1 | [metricshour-netizen/edgar-geo-revenue](./metricshour-netizen-edgar-geo-revenue.md) | ⭐ 1 | Python | 53/100 |
 
 ---
 

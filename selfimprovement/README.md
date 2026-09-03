@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [meta-agentic/meta-science](./meta-agentic-meta-science.md) | ⭐ — | Python | 44/100 |
+| 1 | [meta-agentic/meta-science](./meta-agentic-meta-science.md) | ⭐ — | Python | 41/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # CircuitVerse/cv-frontend-vue
 
-[![Stars](https://img.shields.io/github/stars/CircuitVerse/cv-frontend-vue?style=flat-square&color=yellow)](https://github.com/CircuitVerse/cv-frontend-vue/stargazers) [![Forks](https://img.shields.io/github/forks/CircuitVerse/cv-frontend-vue?style=flat-square&color=blue)](https://github.com/CircuitVerse/cv-frontend-vue/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CircuitVerse/cv-frontend-vue?style=flat-square&color=yellow)](https://github.com/CircuitVerse/cv-frontend-vue/stargazers) [![Forks](https://img.shields.io/github/forks/CircuitVerse/cv-frontend-vue?style=flat-square&color=blue)](https://github.com/CircuitVerse/cv-frontend-vue/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Re write of simulator UI in vuejs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-08-31 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ CircuitVerse/cv-frontend-vue：CircuitVerse/cv-frontend-vue may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 45/100 |
 | categoryMatchCount | 600/100 |
 | stars | 38/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 

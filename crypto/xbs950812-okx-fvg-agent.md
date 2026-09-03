@@ -12,7 +12,7 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-08-22 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
@@ -27,38 +27,33 @@ Crypto · Trading · Automation
 
 ### English
 
-Xbs950812/okx_fvg_agent: Xbs950812/okx_fvg_agent helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Xbs950812/okx_fvg_agent: . Use it for Crypto, Trading, Automation. 
 
 ### Русский
 
-Xbs950812/okx_fvg_agent: open-source проект в категориях Crypto, Trading, Automation. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Xbs950812/okx_fvg_agent: open-source проект в категориях Crypto, Trading, Automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Xbs950812/okx_fvg_agent：Xbs950812/okx_fvg_agent helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Xbs950812/okx_fvg_agent：。适合用于Crypto、Trading、Automation。
 
 ## 🧭 Practical evaluation
 
-**Value:** Xbs950812/okx_fvg_agent helps prototype or inspect blockchain workflows with open implementation details.
+**Value:** Manual review required.
 
 **Best use cases**
 
-- build Web3 workflows
-- inspect blockchain integrations
-- prototype wallet or DeFi features
+- Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** No integration notes yet.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Production readiness has not been assessed yet.
 
 **Quality signals**
 
-- 1 GitHub stars
-- updated 2026-08-22
-- primary language: Python
-- 9 topics
+- Not enough metadata yet.
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** No metadata risk notes yet.
 
 ## 🧮 Score breakdown
 
@@ -75,6 +70,7 @@ Xbs950812/okx_fvg_agent：Xbs950812/okx_fvg_agent helps prototype or inspect blo
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

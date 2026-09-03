@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34263** |
-| **Categories** | **139** |
+| **Projects** | **34279** |
+| **Categories** | **142** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15563 | [Browse →](./misc/) |
+| 📦 **Misc** | 15570 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3302 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2546 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2547 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1347 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1244 | [Browse →](./automation/) |
@@ -34,16 +34,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 753 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 714 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 613 | [Browse →](./devopsinfra/) |
-| 🏷️ **Database** | 580 | [Browse →](./database/) |
+| 🏷️ **Database** | 581 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 563 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 418 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
-| 🏷️ **Observability** | 344 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 345 | [Browse →](./observability/) |
 | 🏷️ **Video-editing** | 306 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 305 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
-| ✨ **Design** | 167 | [Browse →](./design/) |
+| ✨ **Design** | 168 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 73 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
@@ -62,6 +62,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Crashsafety** | 2 | [Browse →](./crashsafety/) |
+| 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
 | 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
@@ -79,6 +81,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Design-engineering** | 1 | [Browse →](./design-engineering/) |
 | 🏷️ **Context** | 1 | [Browse →](./context/) |
 | 🏷️ **Ai-coding** | 1 | [Browse →](./ai-coding/) |
 | 🏷️ **Repo-management** | 1 | [Browse →](./repo-management/) |

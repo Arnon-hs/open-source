@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [ajv-validator/ajv](./ajv-validator-ajv.md) | ⭐ 14.8k | TypeScript | 63/100 |
-| 2 | [CircuitVerse/cv-frontend-vue](./circuitverse-cv-frontend-vue.md) | ⭐ 63 | JavaScript | 51/100 |
+| 2 | [CircuitVerse/cv-frontend-vue](./circuitverse-cv-frontend-vue.md) | ⭐ 63 | JavaScript | 48/100 |
 
 ---
 

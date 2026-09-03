@@ -14,8 +14,8 @@
 | 4 | [saleh-alhaddad/itqan-engineering](./saleh-alhaddad-itqan-engineering.md) | ⭐ 6 | Shell | 55/100 |
 | 5 | [chahe-dridi/vscode-agent-bell](./chahe-dridi-vscode-agent-bell.md) | ⭐ 3 | TypeScript | 47/100 |
 | 6 | [javimosch/fleet-cli](./javimosch-fleet-cli.md) | ⭐ — | Go | 47/100 |
-| 7 | [knightsky-cpu/col-workspace](./knightsky-cpu-col-workspace.md) | ⭐ 1 | Python | 47/100 |
-| 8 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 44/100 |
+| 7 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 44/100 |
+| 8 | [knightsky-cpu/col-workspace](./knightsky-cpu-col-workspace.md) | ⭐ 1 | Python | 44/100 |
 | 9 | [razashariff/agentpass-opa](./razashariff-agentpass-opa.md) | ⭐ — | — | 28/100 |
 | 10 | [razashariff/agentmesh](./razashariff-agentmesh.md) | ⭐ — | — | 28/100 |
 | 11 | [javimosch/am-fleet](./javimosch-am-fleet.md) | ⭐ — | — | 24/100 |

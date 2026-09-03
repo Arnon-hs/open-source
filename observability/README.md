@@ -2,7 +2,7 @@
 
 > 
 
-**344 projects** in this category.
+**345 projects** in this category.
 
 ## Projects
 
@@ -318,40 +318,41 @@
 | 308 | [yuuki/lustre-ebpf-exporter](./yuuki-lustre-ebpf-exporter.md) | ⭐ — | — | 42/100 |
 | 309 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 42/100 |
 | 310 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 501 | C | 42/100 |
-| 311 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ — | — | 41/100 |
-| 312 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ — | — | 41/100 |
-| 313 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 41/100 |
-| 314 | [Tboworst/beacon](./tboworst-beacon.md) | ⭐ — | — | 39/100 |
-| 315 | [SmolNero/quack](./smolnero-quack.md) | ⭐ — | — | 39/100 |
-| 316 | [varmax2511/trail](./varmax2511-trail.md) | ⭐ — | — | 39/100 |
-| 317 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ — | — | 39/100 |
-| 318 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ — | — | 39/100 |
-| 319 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 4 | Jupyter Notebook | 38/100 |
-| 320 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ — | — | 38/100 |
-| 321 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 38/100 |
-| 322 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ — | — | 38/100 |
-| 323 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 38/100 |
-| 324 | [eric-tramel/moraine](./eric-tramel-moraine.md) | ⭐ — | — | 36/100 |
-| 325 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ — | — | 36/100 |
-| 326 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 35/100 |
-| 327 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ — | — | 35/100 |
-| 328 | [mcindi/siematic](./mcindi-siematic.md) | ⭐ — | — | 35/100 |
-| 329 | [ctrlb-hq/ctrlb-decompose](./ctrlb-hq-ctrlb-decompose.md) | ⭐ — | — | 35/100 |
-| 330 | [swiftlogicsystems/swifttopology](./swiftlogicsystems-swifttopology.md) | ⭐ — | — | 35/100 |
-| 331 | [JustinNarracott/ShadowGlass](./justinnarracott-shadowglass.md) | ⭐ — | — | 35/100 |
-| 332 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 35/100 |
-| 333 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 35/100 |
-| 334 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ — | — | 33/100 |
-| 335 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ — | — | 33/100 |
-| 336 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ — | — | 31/100 |
-| 337 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 31/100 |
-| 338 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 31/100 |
-| 339 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ — | — | 31/100 |
-| 340 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ — | — | 31/100 |
-| 341 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 31/100 |
-| 342 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 31/100 |
-| 343 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 28/100 |
-| 344 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 28/100 |
+| 311 | [ImmersiveFusion/snowglobe](./immersivefusion-snowglobe.md) | ⭐ — | — | 41/100 |
+| 312 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ — | — | 41/100 |
+| 313 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ — | — | 41/100 |
+| 314 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 41/100 |
+| 315 | [Tboworst/beacon](./tboworst-beacon.md) | ⭐ — | — | 39/100 |
+| 316 | [SmolNero/quack](./smolnero-quack.md) | ⭐ — | — | 39/100 |
+| 317 | [varmax2511/trail](./varmax2511-trail.md) | ⭐ — | — | 39/100 |
+| 318 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ — | — | 39/100 |
+| 319 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ — | — | 39/100 |
+| 320 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 4 | Jupyter Notebook | 38/100 |
+| 321 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ — | — | 38/100 |
+| 322 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 38/100 |
+| 323 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ — | — | 38/100 |
+| 324 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 38/100 |
+| 325 | [eric-tramel/moraine](./eric-tramel-moraine.md) | ⭐ — | — | 36/100 |
+| 326 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ — | — | 36/100 |
+| 327 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 35/100 |
+| 328 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ — | — | 35/100 |
+| 329 | [mcindi/siematic](./mcindi-siematic.md) | ⭐ — | — | 35/100 |
+| 330 | [ctrlb-hq/ctrlb-decompose](./ctrlb-hq-ctrlb-decompose.md) | ⭐ — | — | 35/100 |
+| 331 | [swiftlogicsystems/swifttopology](./swiftlogicsystems-swifttopology.md) | ⭐ — | — | 35/100 |
+| 332 | [JustinNarracott/ShadowGlass](./justinnarracott-shadowglass.md) | ⭐ — | — | 35/100 |
+| 333 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 35/100 |
+| 334 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 35/100 |
+| 335 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ — | — | 33/100 |
+| 336 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ — | — | 33/100 |
+| 337 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ — | — | 31/100 |
+| 338 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 31/100 |
+| 339 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 31/100 |
+| 340 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ — | — | 31/100 |
+| 341 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ — | — | 31/100 |
+| 342 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 31/100 |
+| 343 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 31/100 |
+| 344 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 28/100 |
+| 345 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 28/100 |
 
 ---
 

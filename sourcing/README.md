@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [assassinationss/awesome-china-sourcing](./assassinationss-awesome-china-sourcing.md) | ⭐ — | — | 63/100 |
+| 1 | [assassinationss/awesome-china-sourcing](./assassinationss-awesome-china-sourcing.md) | ⭐ — | — | 60/100 |
 
 ---
 
