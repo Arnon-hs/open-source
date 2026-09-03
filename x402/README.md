@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [holistis/tokenizen](./holistis-tokenizen.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [holistis/tokenizen](./holistis-tokenizen.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 
