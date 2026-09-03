@@ -1,6 +1,6 @@
 # aegisora-ai/aegisora
 
-[![Stars](https://img.shields.io/github/stars/aegisora-ai/aegisora?style=flat-square&color=yellow)](https://github.com/aegisora-ai/aegisora/stargazers) [![Forks](https://img.shields.io/github/forks/aegisora-ai/aegisora?style=flat-square&color=blue)](https://github.com/aegisora-ai/aegisora/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aegisora-ai/aegisora?style=flat-square&color=yellow)](https://github.com/aegisora-ai/aegisora/stargazers) [![Forks](https://img.shields.io/github/forks/aegisora-ai/aegisora?style=flat-square&color=blue)](https://github.com/aegisora-ai/aegisora/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Zero-Trust Runtime Security & Governance Layer for Autonomous AI Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-08-30 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ aegisora-ai/aegisora：aegisora-ai/aegisora may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 94/100 |
-| production | 73/100 |
-| outlook | 73/100 |
+| production | 67/100 |
+| outlook | 66/100 |
 | adoption | 24/100 |
 | categoryMatchCount | 500/100 |
 | stars | 27/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aegisora-ai/aegisora](./aegisora-ai-aegisora.md) | ⭐ 18 | Python | 71/100 |
+| 1 | [aegisora-ai/aegisora](./aegisora-ai-aegisora.md) | ⭐ 18 | Python | 68/100 |
 
 ---
 
