@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34211** |
-| **Categories** | **132** |
+| **Projects** | **34226** |
+| **Categories** | **133** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15535 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3300 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15544 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3301 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2545 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2192 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1346 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1243 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 752 | [Browse →](./crypto/) |
-| 📱 **Mobile** | 713 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 714 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 612 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 580 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 563 | [Browse →](./knowledgerag/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
 | 🏷️ **Observability** | 343 | [Browse →](./observability/) |
-| 🏷️ **Video-editing** | 305 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 306 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 305 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
 | ✨ **Design** | 167 | [Browse →](./design/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 12 | [Browse →](./ai/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Privacy** | 8 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 5 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 6 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 4 | [Browse →](./ai-agents/) |
 | 🏷️ **Migration** | 3 | [Browse →](./migration/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |
 | 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |

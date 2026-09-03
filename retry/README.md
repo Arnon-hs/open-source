@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AubaidFarrukh/smart-retry](./aubaidfarrukh-smart-retry.md) | ⭐ 2 | TypeScript | 49/100 |
+| 1 | [AubaidFarrukh/smart-retry](./aubaidfarrukh-smart-retry.md) | ⭐ 2 | TypeScript | 46/100 |
 
 ---
 

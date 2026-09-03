@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sponge-b0b/arid](./sponge-b0b-arid.md) | ⭐ 3 | Rust | 44/100 |
-| 2 | [macht1212/numpy-cache](./macht1212-numpy-cache.md) | ⭐ — | Python | 42/100 |
+| 1 | [Akhouri-Anmol-Kumar/ACALCU-v3](./akhouri-anmol-kumar-acalcu-v3.md) | ⭐ 3 | — | 32/100 |
 
 ---
 

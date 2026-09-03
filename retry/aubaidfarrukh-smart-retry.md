@@ -1,6 +1,6 @@
 # AubaidFarrukh/smart-retry
 
-[![Stars](https://img.shields.io/github/stars/AubaidFarrukh/smart-retry?style=flat-square&color=yellow)](https://github.com/AubaidFarrukh/smart-retry/stargazers) [![Forks](https://img.shields.io/github/forks/AubaidFarrukh/smart-retry?style=flat-square&color=blue)](https://github.com/AubaidFarrukh/smart-retry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AubaidFarrukh/smart-retry?style=flat-square&color=yellow)](https://github.com/AubaidFarrukh/smart-retry/stargazers) [![Forks](https://img.shields.io/github/forks/AubaidFarrukh/smart-retry?style=flat-square&color=blue)](https://github.com/AubaidFarrukh/smart-retry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligent HTTP retry with exponential backoff, automatic failure logging, and replay support
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-08-31 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AubaidFarrukh/smart-retry：AubaidFarrukh/smart-retry may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 58/100 |
+| outlook | 56/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 700/100 |
 | stars | 10/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
