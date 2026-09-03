@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34231** |
-| **Categories** | **134** |
+| **Projects** | **34235** |
+| **Categories** | **135** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15546 | [Browse →](./misc/) |
+| 📦 **Misc** | 15548 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3301 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2545 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2546 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1346 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1243 | [Browse →](./automation/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Offline** | 1 | [Browse →](./offline/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |

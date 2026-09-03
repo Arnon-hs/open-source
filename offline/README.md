@@ -1,4 +1,4 @@
-# 🏷️ Cheminformatics
+# 🏷️ Offline
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cosmol-studio/COSMolKit](./cosmol-studio-cosmolkit.md) | ⭐ 13 | Rust | 57/100 |
+| 1 | [aurelio-nakamura/cmdxray](./aurelio-nakamura-cmdxray.md) | ⭐ 2 | TypeScript | 61/100 |
 
 ---
 
