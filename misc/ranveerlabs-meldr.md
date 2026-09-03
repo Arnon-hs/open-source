@@ -1,0 +1,78 @@
+# ranveerlabs/meldr
+
+[![Stars](https://img.shields.io/github/stars/ranveerlabs/meldr?style=flat-square&color=yellow)](https://github.com/ranveerlabs/meldr/stargazers) [![Forks](https://img.shields.io/github/forks/ranveerlabs/meldr?style=flat-square&color=blue)](https://github.com/ranveerlabs/meldr/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> Discovered from Hacker News (github-mentions)
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-03 |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+`hn` `github-mentions`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+OpenAPI spec is lying to you offers insight into how the OpenAPI specification can mislead developers, especially when dealing with real-world APIs. A practical adoption path starts with validating the documentation and example usage, then integrating it into a prototype and gradually expanding into internal workflows. Production readiness is medium—ensure dependency stability and regular updates before scaling to production.
+
+### Русский
+
+OpenAPI spec is lying to you предоставляет ценную информацию о том, как спецификация OpenAPI может вводить в заблуждение, особенно при работе с реальными API. Для практического внедрения сначала проверьте актуальность документации и наличие примеров, затем интегрируйте в прототип, постепенно расширяя до внутреннего рабочего процесса. Подготовка к продакшн‑использованию умеренная: убедитесь в стабильности зависимостей и наличии регулярных обновлений, прежде чем переходить к масштабированию.
+
+### 中文
+
+OpenAPI spec is lying to you 说明了 OpenAPI 规范在实际使用中可能导致误解，尤其是在处理真实 API 时。实践路径建议先验证文档和示例的准确性，再将其集成到原型中，随后逐步扩展到内部工作流程。生产就绪度为中等，需要确认依赖稳定性和定期更新后再投入生产。
+
+## 🧭 Practical evaluation
+
+**Value:** OpenAPI spec is lying to you may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-09-03
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 57/100 |
+| quality | 41/100 |
+| recency | 100/100 |
+| adoption | 0/100 |
+| production | 60/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-09-03 · [View on GitHub](https://github.com/ranveerlabs/meldr) · [← Back to Misc](./README.md)</sub>

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rhasspy/piper](./rhasspy-piper.md) | ⭐ 11.3k | C++ | 60/100 |
+| 1 | [rhasspy/piper](./rhasspy-piper.md) | ⭐ 11.3k | C++ | 57/100 |
 
 ---
 
