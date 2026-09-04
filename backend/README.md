@@ -647,8 +647,8 @@
 | 637 | [mytechnotalent/Go-Hacking](./mytechnotalent-go-hacking.md) | ⭐ 309 | Go | 56/100 |
 | 638 | [rathena/rathena](./rathena-rathena.md) | ⭐ 3.4k | C++ | 56/100 |
 | 639 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
-| 640 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
-| 641 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 640 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 641 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
 | 642 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 643 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
 | 644 | [kysely-org/kysely](./kysely-org-kysely.md) | ⭐ 13.8k | TypeScript | 56/100 |
