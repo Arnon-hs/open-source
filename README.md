@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34449** |
-| **Categories** | **167** |
+| **Projects** | **34451** |
+| **Categories** | **168** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15652 | [Browse →](./misc/) |
+| 📦 **Misc** | 15653 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -90,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Web-security** | 1 | [Browse →](./web-security/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Taskmanagement** | 1 | [Browse →](./taskmanagement/) |
 | 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
