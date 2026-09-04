@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34383** |
+| **Projects** | **34387** |
 | **Categories** | **156** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15618 | [Browse →](./misc/) |
+| 📦 **Misc** | 15620 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3304 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2549 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 418 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
-| 🏷️ **Observability** | 345 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 346 | [Browse →](./observability/) |
 | 🏷️ **Video-editing** | 322 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 306 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Offline** | 2 | [Browse →](./offline/) |
 | 🏷️ **Bbc-micro** | 2 | [Browse →](./bbc-micro/) |
@@ -177,7 +178,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 1 | [Browse →](./ci/) |
 | 🏷️ **Memory** | 1 | [Browse →](./memory/) |
 | 🏷️ **Sqlite** | 1 | [Browse →](./sqlite/) |
-| 🏷️ **Docker** | 1 | [Browse →](./docker/) |
 | 🏷️ **Scraper** | 1 | [Browse →](./scraper/) |
 
 ## Top projects by score
