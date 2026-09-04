@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [supabase/supabase-dotnet](./supabase-supabase-dotnet.md) | ⭐ — | — | 24/100 |
+| 1 | [soloncode/soloncode](./soloncode-soloncode.md) | ⭐ — | — | 24/100 |
+| 2 | [supabase/supabase-dotnet](./supabase-supabase-dotnet.md) | ⭐ — | — | 24/100 |
 
 ---
 
