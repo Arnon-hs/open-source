@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34437** |
-| **Categories** | **164** |
+| **Projects** | **34443** |
+| **Categories** | **165** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15649 | [Browse →](./misc/) |
+| 📦 **Misc** | 15651 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -48,7 +48,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 77 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
-| 🏷️ **Ai** | 13 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 15 | [Browse →](./ai/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Privacy** | 9 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
@@ -56,6 +56,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 4 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 4 | [Browse →](./migration/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
+| 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Remote-shell** | 3 | [Browse →](./remote-shell/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
@@ -80,7 +81,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Prompt-optimization** | 2 | [Browse →](./prompt-optimization/) |
 | 🏷️ **Ebpf** | 2 | [Browse →](./ebpf/) |
 | 🏷️ **Validation** | 2 | [Browse →](./validation/) |
-| 🏷️ **Android** | 2 | [Browse →](./android/) |
 | 🏷️ **Hijri** | 2 | [Browse →](./hijri/) |
 | 🏷️ **Comfyui** | 2 | [Browse →](./comfyui/) |
 | 🏷️ **Spfx** | 2 | [Browse →](./spfx/) |
@@ -90,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
 | 🏷️ **Digital-identity** | 1 | [Browse →](./digital-identity/) |
 | 🏷️ **Volunteer-management** | 1 | [Browse →](./volunteer-management/) |
 | 🏷️ **Apify** | 1 | [Browse →](./apify/) |
