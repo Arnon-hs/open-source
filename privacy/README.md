@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [naptha/tesseract.js](./naptha-tesseract.js.md) | ⭐ 38.7k | JavaScript | 63/100 |
-| 2 | [huggingface/transformers.js](./huggingface-transformers.js.md) | ⭐ 16.3k | JavaScript | 61/100 |
+| 1 | [huggingface/transformers.js](./huggingface-transformers.js.md) | ⭐ 16.3k | JavaScript | 61/100 |
+| 2 | [naptha/tesseract.js](./naptha-tesseract.js.md) | ⭐ 38.7k | JavaScript | 60/100 |
 | 3 | [alexcorvi/heic2any](./alexcorvi-heic2any.md) | ⭐ 883 | TypeScript | 54/100 |
 | 4 | [MihaiMotoi/SifEdge](./mihaimotoi-sifedge.md) | ⭐ — | JavaScript | 39/100 |
 | 5 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 37/100 |

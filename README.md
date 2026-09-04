@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34376** |
+| **Projects** | **34378** |
 | **Categories** | **155** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15614 | [Browse →](./misc/) |
+| 📦 **Misc** | 15615 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3304 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2549 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -65,6 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Offline** | 2 | [Browse →](./offline/) |
 | 🏷️ **Bbc-micro** | 2 | [Browse →](./bbc-micro/) |
 | 🏷️ **Crashsafety** | 2 | [Browse →](./crashsafety/) |
@@ -85,7 +86,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
-| 🏷️ **React-native** | 1 | [Browse →](./react-native/) |
 | 🏷️ **Pii** | 1 | [Browse →](./pii/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Market-calendar** | 1 | [Browse →](./market-calendar/) |
