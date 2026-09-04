@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ctxloom/ctxloom](./ctxloom-ctxloom.md) | ⭐ — | Go | 39/100 |
+| 1 | [ctxloom/ctxloom](./ctxloom-ctxloom.md) | ⭐ — | Go | 36/100 |
 
 ---
 

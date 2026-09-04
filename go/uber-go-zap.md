@@ -1,6 +1,6 @@
 # uber-go/zap
 
-[![Stars](https://img.shields.io/github/stars/uber-go/zap?style=flat-square&color=yellow)](https://github.com/uber-go/zap/stargazers) [![Forks](https://img.shields.io/github/forks/uber-go/zap?style=flat-square&color=blue)](https://github.com/uber-go/zap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uber-go/zap?style=flat-square&color=yellow)](https://github.com/uber-go/zap/stargazers) [![Forks](https://img.shields.io/github/forks/uber-go/zap?style=flat-square&color=blue)](https://github.com/uber-go/zap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Blazing fast, structured, leveled logging in Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.6k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ uber-go/zap：uber-go/zap may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 90/100 |
 | categoryMatchCount | 600/100 |
 | stars | 93/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

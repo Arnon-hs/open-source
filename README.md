@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34339** |
+| **Projects** | **34343** |
 | **Categories** | **151** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -35,7 +35,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 715 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 613 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 582 | [Browse →](./database/) |
-| 🏷️ **Knowledgerag** | 563 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 418 | [Browse →](./templates/) |
 | 🔐 **Security** | 393 | [Browse →](./security/) |
 | 📊 **Data** | 391 | [Browse →](./data/) |
@@ -54,6 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
+| 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
 | 🏷️ **Migration** | 3 | [Browse →](./migration/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
@@ -63,6 +64,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Offline** | 2 | [Browse →](./offline/) |
 | 🏷️ **Bbc-micro** | 2 | [Browse →](./bbc-micro/) |
 | 🏷️ **Crashsafety** | 2 | [Browse →](./crashsafety/) |
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
@@ -92,10 +94,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Zero-dependency** | 1 | [Browse →](./zero-dependency/) |
 | 🏷️ **Design-engineering** | 1 | [Browse →](./design-engineering/) |
 | 🏷️ **Context** | 1 | [Browse →](./context/) |
-| 🏷️ **Ai-coding** | 1 | [Browse →](./ai-coding/) |
 | 🏷️ **Repo-management** | 1 | [Browse →](./repo-management/) |
 | 🏷️ **Account-management** | 1 | [Browse →](./account-management/) |
-| 🏷️ **Offline** | 1 | [Browse →](./offline/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Ai-safety** | 1 | [Browse →](./ai-safety/) |
