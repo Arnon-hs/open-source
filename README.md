@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34387** |
+| **Projects** | **34388** |
 | **Categories** | **156** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Offline** | 2 | [Browse →](./offline/) |
@@ -163,7 +164,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Real-time-dubbing** | 1 | [Browse →](./real-time-dubbing/) |
 | 🏷️ **Copilot** | 1 | [Browse →](./copilot/) |
 | 🏷️ **Ai-agent** | 1 | [Browse →](./ai-agent/) |
-| 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Dns** | 1 | [Browse →](./dns/) |
 | 🏷️ **Cms** | 1 | [Browse →](./cms/) |
 | 🏷️ **App-migration** | 1 | [Browse →](./app-migration/) |

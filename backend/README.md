@@ -647,8 +647,8 @@
 | 637 | [mytechnotalent/Go-Hacking](./mytechnotalent-go-hacking.md) | ⭐ 309 | Go | 56/100 |
 | 638 | [rathena/rathena](./rathena-rathena.md) | ⭐ 3.4k | C++ | 56/100 |
 | 639 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
-| 640 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
-| 641 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 640 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 641 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
 | 642 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 643 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
 | 644 | [kysely-org/kysely](./kysely-org-kysely.md) | ⭐ 13.8k | TypeScript | 56/100 |
@@ -663,8 +663,8 @@
 | 653 | [029danio/fly](./029danio-fly.md) | ⭐ 2.6k | HTML | 55/100 |
 | 654 | [cactus/go-camo](./cactus-go-camo.md) | ⭐ 308 | Go | 55/100 |
 | 655 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 399 | HCL | 55/100 |
-| 656 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 55/100 |
-| 657 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.3k | C++ | 55/100 |
+| 656 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.3k | C++ | 55/100 |
+| 657 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 55/100 |
 | 658 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 3.8k | TypeScript | 55/100 |
 | 659 | [parse-community/parse-server-example](./parse-community-parse-server-example.md) | ⭐ 1.9k | JavaScript | 55/100 |
 | 660 | [LeleDerGrasshalmi/FortniteEndpointsDocumentation](./leledergrasshalmi-fortniteendpointsdocumentation.md) | ⭐ 466 | — | 55/100 |
@@ -678,8 +678,8 @@
 | 668 | [Submitty/Submitty](./submitty-submitty.md) | ⭐ 773 | PHP | 55/100 |
 | 669 | [ActivityWatch/aw-server-rust](./activitywatch-aw-server-rust.md) | ⭐ 303 | Rust | 55/100 |
 | 670 | [privacyidea/privacyidea](./privacyidea-privacyidea.md) | ⭐ 1.7k | Python | 55/100 |
-| 671 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
-| 672 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
+| 671 | [Megabit/Blazorise](./megabit-blazorise.md) | ⭐ 3.5k | C# | 55/100 |
+| 672 | [open-meteo/open-meteo](./open-meteo-open-meteo.md) | ⭐ 5.5k | Swift | 55/100 |
 | 673 | [ndonfris/fish-lsp](./ndonfris-fish-lsp.md) | ⭐ 306 | TypeScript | 55/100 |
 | 674 | [owasp-noir/noir](./owasp-noir-noir.md) | ⭐ 1.2k | Crystal | 55/100 |
 | 675 | [napi-rs/node-rs](./napi-rs-node-rs.md) | ⭐ 1.4k | Rust | 55/100 |
