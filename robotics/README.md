@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [liesliy/rda](./liesliy-rda.md) | ⭐ 1 | Python | 43/100 |
+| 1 | [liesliy/rda](./liesliy-rda.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 
