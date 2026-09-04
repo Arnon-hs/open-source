@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [node-fetch/node-fetch](./node-fetch-node-fetch.md) | ⭐ 8.9k | JavaScript | 78/100 |
+| 1 | [node-fetch/node-fetch](./node-fetch-node-fetch.md) | ⭐ 8.9k | JavaScript | 74/100 |
 | 2 | [JibanKumar-cloud/faber](./jibankumar-cloud-faber.md) | ⭐ 3 | TypeScript | 62/100 |
 | 3 | [Bryandero98/packetforge](./bryandero98-packetforge.md) | ⭐ — | TypeScript | 58/100 |
 | 4 | [saleh-alhaddad/itqan-engineering](./saleh-alhaddad-itqan-engineering.md) | ⭐ 6 | Shell | 55/100 |
