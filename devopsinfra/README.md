@@ -212,8 +212,8 @@
 | 202 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
 | 203 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 662 | Python | 61/100 |
 | 204 | [lichess-org/lila-docker](./lichess-org-lila-docker.md) | ⭐ 126 | Rust | 60/100 |
-| 205 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
-| 206 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 205 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 206 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
 | 207 | [crumbhole/argocd-lovely-plugin](./crumbhole-argocd-lovely-plugin.md) | ⭐ 490 | Go | 60/100 |
 | 208 | [zammad/zammad-docker-compose](./zammad-zammad-docker-compose.md) | ⭐ 379 | — | 60/100 |
 | 209 | [will-moss/isaiah](./will-moss-isaiah.md) | ⭐ 1.1k | Go | 60/100 |
@@ -535,8 +535,8 @@
 | 525 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 47/100 |
 | 526 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 46/100 |
 | 527 | [ministryofjustice/modernisation-platform](./ministryofjustice-modernisation-platform.md) | ⭐ 722 | HCL | 46/100 |
-| 528 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
-| 529 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 46/100 |
+| 528 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 46/100 |
+| 529 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 46/100 |
 | 530 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 600 | Perl | 46/100 |
 | 531 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 45/100 |
 | 532 | [isms-core-project/kubernetes-dashboard](./isms-core-project-kubernetes-dashboard.md) | ⭐ — | — | 45/100 |
