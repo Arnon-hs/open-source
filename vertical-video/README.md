@@ -2,7 +2,7 @@
 
 > 
 
-**76 projects** in this category.
+**77 projects** in this category.
 
 ## Projects
 
@@ -68,22 +68,23 @@
 | 58 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 45 | HTML | 57/100 |
 | 59 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 41 | — | 57/100 |
 | 60 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 15 | C# | 57/100 |
-| 61 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 11 | Python | 56/100 |
-| 62 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 51 | JavaScript | 56/100 |
-| 63 | [m1ng-li/mac-thermalright-ai-monitor](./m1ng-li-mac-thermalright-ai-monitor.md) | ⭐ 46 | Swift | 56/100 |
-| 64 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 55/100 |
-| 65 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
-| 66 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
-| 67 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 20 | JavaScript | 53/100 |
-| 68 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 53/100 |
-| 69 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 53/100 |
-| 70 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 53/100 |
-| 71 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
-| 72 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 50/100 |
-| 73 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 50/100 |
-| 74 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
-| 75 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 430 | PHP | 48/100 |
-| 76 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 340 | PHP | 45/100 |
+| 61 | [kaomei/script-to-card-video](./kaomei-script-to-card-video.md) | ⭐ 11 | JavaScript | 56/100 |
+| 62 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 11 | Python | 56/100 |
+| 63 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 51 | JavaScript | 56/100 |
+| 64 | [m1ng-li/mac-thermalright-ai-monitor](./m1ng-li-mac-thermalright-ai-monitor.md) | ⭐ 46 | Swift | 56/100 |
+| 65 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 55/100 |
+| 66 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
+| 67 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
+| 68 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 20 | JavaScript | 53/100 |
+| 69 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 53/100 |
+| 70 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 53/100 |
+| 71 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 53/100 |
+| 72 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
+| 73 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 50/100 |
+| 74 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 50/100 |
+| 75 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
+| 76 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 430 | PHP | 48/100 |
+| 77 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 340 | PHP | 45/100 |
 
 ---
 

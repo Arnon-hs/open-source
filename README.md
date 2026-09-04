@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34416** |
-| **Categories** | **158** |
+| **Projects** | **34423** |
+| **Categories** | **161** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15639 | [Browse →](./misc/) |
+| 📦 **Misc** | 15641 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2551 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -45,7 +45,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
 | ✨ **Design** | 169 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 76 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 77 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 13 | [Browse →](./ai/) |
@@ -53,9 +53,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 9 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
+| 🏷️ **Self-hosting** | 4 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 4 | [Browse →](./migration/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
-| 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Remote-shell** | 3 | [Browse →](./remote-shell/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
@@ -89,6 +89,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Load-balancing** | 1 | [Browse →](./load-balancing/) |
+| 🏷️ **Monorepo** | 1 | [Browse →](./monorepo/) |
+| 🏷️ **Forum** | 1 | [Browse →](./forum/) |
 | 🏷️ **N8n** | 1 | [Browse →](./n8n/) |
 | 🏷️ **Job-hunting** | 1 | [Browse →](./job-hunting/) |
 | 🏷️ **Pii** | 1 | [Browse →](./pii/) |
