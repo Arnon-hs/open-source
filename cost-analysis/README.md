@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [talcaldeg/context-economy](./talcaldeg-context-economy.md) | ⭐ — | Python | 53/100 |
+| 1 | [talcaldeg/context-economy](./talcaldeg-context-economy.md) | ⭐ — | Python | 50/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # talcaldeg/context-economy
 
-[![Stars](https://img.shields.io/github/stars/talcaldeg/context-economy?style=flat-square&color=yellow)](https://github.com/talcaldeg/context-economy/stargazers) [![Forks](https://img.shields.io/github/forks/talcaldeg/context-economy?style=flat-square&color=blue)](https://github.com/talcaldeg/context-economy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/talcaldeg/context-economy?style=flat-square&color=yellow)](https://github.com/talcaldeg/context-economy/stargazers) [![Forks](https://img.shields.io/github/forks/talcaldeg/context-economy?style=flat-square&color=blue)](https://github.com/talcaldeg/context-economy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only scripts that measure where a coding agent's tokens actually go, from its own .jsonl transcripts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ talcaldeg/context-economy：talcaldeg/context-economy may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
