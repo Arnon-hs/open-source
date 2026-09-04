@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34451** |
-| **Categories** | **168** |
+| **Projects** | **34460** |
+| **Categories** | **170** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15653 | [Browse →](./misc/) |
+| 📦 **Misc** | 15656 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2194 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1348 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1245 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1246 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 756 | [Browse →](./crypto/) |
@@ -52,12 +52,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Privacy** | 9 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
+| 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Self-hosting** | 4 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 4 | [Browse →](./migration/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
-| 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Remote-shell** | 3 | [Browse →](./remote-shell/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
@@ -90,6 +90,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Agent-orchestration** | 1 | [Browse →](./agent-orchestration/) |
+| 🏷️ **Kubernetes** | 1 | [Browse →](./kubernetes/) |
 | 🏷️ **Web-security** | 1 | [Browse →](./web-security/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Taskmanagement** | 1 | [Browse →](./taskmanagement/) |
