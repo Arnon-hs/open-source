@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34378** |
-| **Categories** | **155** |
+| **Projects** | **34383** |
+| **Categories** | **156** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15615 | [Browse →](./misc/) |
+| 📦 **Misc** | 15618 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3304 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2549 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -54,6 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
+| 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Remote-shell** | 3 | [Browse →](./remote-shell/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
@@ -70,7 +71,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bbc-micro** | 2 | [Browse →](./bbc-micro/) |
 | 🏷️ **Crashsafety** | 2 | [Browse →](./crashsafety/) |
 | 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
-| 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Git** | 2 | [Browse →](./git/) |
 | 🏷️ **Prompt-optimization** | 2 | [Browse →](./prompt-optimization/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Job-hunting** | 1 | [Browse →](./job-hunting/) |
 | 🏷️ **Pii** | 1 | [Browse →](./pii/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Market-calendar** | 1 | [Browse →](./market-calendar/) |

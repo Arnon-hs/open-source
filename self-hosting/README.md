@@ -2,7 +2,7 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|
 | 1 | [hieunc229/mailflare](./hieunc229-mailflare.md) | ⭐ 2.1k | TypeScript | 56/100 |
 | 2 | [The-17/agentsecrets-server](./the-17-agentsecrets-server.md) | ⭐ 2 | Python | 48/100 |
+| 3 | [fastwebsockets/fastwebsockets](./fastwebsockets-fastwebsockets.md) | ⭐ — | — | 24/100 |
 
 ---
 
