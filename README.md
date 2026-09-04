@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34394** |
-| **Categories** | **156** |
+| **Projects** | **34399** |
+| **Categories** | **158** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15626 | [Browse →](./misc/) |
+| 📦 **Misc** | 15627 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3304 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2549 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -50,7 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
 | 🏷️ **Ai** | 13 | [Browse →](./ai/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
-| 🏷️ **Privacy** | 8 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 9 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
@@ -88,6 +89,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **N8n** | 1 | [Browse →](./n8n/) |
 | 🏷️ **Job-hunting** | 1 | [Browse →](./job-hunting/) |
 | 🏷️ **Pii** | 1 | [Browse →](./pii/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |

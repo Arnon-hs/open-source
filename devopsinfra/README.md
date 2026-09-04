@@ -191,8 +191,8 @@
 | 181 | [tektoncd/pipelines-as-code](./tektoncd-pipelines-as-code.md) | ⭐ 208 | Go | 61/100 |
 | 182 | [tektoncd/operator](./tektoncd-operator.md) | ⭐ 562 | Go | 61/100 |
 | 183 | [crazy-max/docker-fail2ban](./crazy-max-docker-fail2ban.md) | ⭐ 756 | Dockerfile | 61/100 |
-| 184 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 61/100 |
-| 185 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 658 | Go | 61/100 |
+| 184 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 658 | Go | 61/100 |
+| 185 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 61/100 |
 | 186 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 61/100 |
 | 187 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 178 | Python | 61/100 |
 | 188 | [hadolint/hadolint](./hadolint-hadolint.md) | ⭐ 12.3k | Haskell | 61/100 |
@@ -212,8 +212,8 @@
 | 202 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
 | 203 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 662 | Python | 61/100 |
 | 204 | [lichess-org/lila-docker](./lichess-org-lila-docker.md) | ⭐ 126 | Rust | 60/100 |
-| 205 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
-| 206 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 205 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
+| 206 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
 | 207 | [crumbhole/argocd-lovely-plugin](./crumbhole-argocd-lovely-plugin.md) | ⭐ 490 | Go | 60/100 |
 | 208 | [zammad/zammad-docker-compose](./zammad-zammad-docker-compose.md) | ⭐ 379 | — | 60/100 |
 | 209 | [will-moss/isaiah](./will-moss-isaiah.md) | ⭐ 1.1k | Go | 60/100 |
@@ -248,8 +248,8 @@
 | 238 | [glotzerlab/hoomd-blue](./glotzerlab-hoomd-blue.md) | ⭐ 444 | C++ | 59/100 |
 | 239 | [nicholas-fedor/watchtower](./nicholas-fedor-watchtower.md) | ⭐ 4.2k | Go | 59/100 |
 | 240 | [Sportarr/Sportarr](./sportarr-sportarr.md) | ⭐ 430 | C# | 59/100 |
-| 241 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
-| 242 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 241 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 59/100 |
+| 242 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 214 | Go | 59/100 |
 | 243 | [NVIDIA/k8s-device-plugin](./nvidia-k8s-device-plugin.md) | ⭐ 3.8k | Go | 59/100 |
 | 244 | [project-dalec/dalec](./project-dalec-dalec.md) | ⭐ 314 | Go | 59/100 |
 | 245 | [OWASP/wrongsecrets](./owasp-wrongsecrets.md) | ⭐ 1.4k | Java | 59/100 |
@@ -323,8 +323,8 @@
 | 313 | [dockur/macos](./dockur-macos.md) | ⭐ 19.9k | Shell | 57/100 |
 | 314 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
 | 315 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 57/100 |
-| 316 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
-| 317 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 316 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
+| 317 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
 | 318 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 57/100 |
 | 319 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 57/100 |
 | 320 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 57/100 |
@@ -556,8 +556,8 @@
 | 546 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 43/100 |
 | 547 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 291 | Rust | 43/100 |
 | 548 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 43/100 |
-| 549 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
-| 550 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
+| 549 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
+| 550 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
 | 551 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ — | — | 42/100 |
 | 552 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ — | — | 42/100 |
 | 553 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ — | — | 42/100 |

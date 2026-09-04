@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cilium/ebpf](./cilium-ebpf.md) | ⭐ 7.9k | Go | 63/100 |
+| 1 | [cilium/ebpf](./cilium-ebpf.md) | ⭐ 7.9k | Go | 60/100 |
 | 2 | [shinagawa-web/tinytap](./shinagawa-web-tinytap.md) | ⭐ — | C | 33/100 |
 
 ---

@@ -1,6 +1,6 @@
 # cilium/ebpf
 
-[![Stars](https://img.shields.io/github/stars/cilium/ebpf?style=flat-square&color=yellow)](https://github.com/cilium/ebpf/stargazers) [![Forks](https://img.shields.io/github/forks/cilium/ebpf?style=flat-square&color=blue)](https://github.com/cilium/ebpf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cilium/ebpf?style=flat-square&color=yellow)](https://github.com/cilium/ebpf/stargazers) [![Forks](https://img.shields.io/github/forks/cilium/ebpf?style=flat-square&color=blue)](https://github.com/cilium/ebpf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 885 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ cilium/ebpf：cilium/ebpf may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 600/100 |
 | stars | 83/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
