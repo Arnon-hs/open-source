@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34443** |
-| **Categories** | **165** |
+| **Projects** | **34449** |
+| **Categories** | **167** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15651 | [Browse →](./misc/) |
+| 📦 **Misc** | 15652 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -31,7 +31,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1245 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 755 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 756 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 715 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 613 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 582 | [Browse →](./database/) |
@@ -53,6 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 9 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
+| 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Self-hosting** | 4 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 4 | [Browse →](./migration/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
@@ -68,7 +69,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
-| 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
@@ -90,6 +90,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Api** | 1 | [Browse →](./api/) |
+| 🏷️ **Taskmanagement** | 1 | [Browse →](./taskmanagement/) |
 | 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
 | 🏷️ **Digital-identity** | 1 | [Browse →](./digital-identity/) |
 | 🏷️ **Volunteer-management** | 1 | [Browse →](./volunteer-management/) |

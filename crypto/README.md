@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**755 projects** in this category.
+**756 projects** in this category.
 
 ## Projects
 
@@ -80,10 +80,10 @@
 | 70 | [nirholas/x402-deploy](./nirholas-x402-deploy.md) | ⭐ 23 | TypeScript | 68/100 |
 | 71 | [cryptomator/cryptomator](./cryptomator-cryptomator.md) | ⭐ 15.5k | Java | 68/100 |
 | 72 | [horizontalsystems/unstoppable-wallet-android](./horizontalsystems-unstoppable-wallet-android.md) | ⭐ 1.2k | Kotlin | 68/100 |
-| 73 | [JKorf/CoinEx.Net](./jkorf-coinex.net.md) | ⭐ 55 | C# | 67/100 |
-| 74 | [JKorf/HTX.Net](./jkorf-htx.net.md) | ⭐ 76 | C# | 67/100 |
-| 75 | [edtechre/pybroker](./edtechre-pybroker.md) | ⭐ 3.5k | Python | 67/100 |
-| 76 | [suenot/profitmaker](./suenot-profitmaker.md) | ⭐ 362 | TypeScript | 67/100 |
+| 73 | [JKorf/HTX.Net](./jkorf-htx.net.md) | ⭐ 76 | C# | 67/100 |
+| 74 | [JKorf/CoinEx.Net](./jkorf-coinex.net.md) | ⭐ 55 | C# | 67/100 |
+| 75 | [suenot/profitmaker](./suenot-profitmaker.md) | ⭐ 362 | TypeScript | 67/100 |
+| 76 | [edtechre/pybroker](./edtechre-pybroker.md) | ⭐ 3.5k | Python | 67/100 |
 | 77 | [paxlabs-inc/matrix-core](./paxlabs-inc-matrix-core.md) | ⭐ 62 | Go | 67/100 |
 | 78 | [horizontalsystems/unstoppable-wallet-ios](./horizontalsystems-unstoppable-wallet-ios.md) | ⭐ 892 | Swift | 67/100 |
 | 79 | [Greenheart/pagecrypt](./greenheart-pagecrypt.md) | ⭐ 341 | HTML | 67/100 |
@@ -128,8 +128,8 @@
 | 118 | [hiero-ledger/hiero-sdk-cpp](./hiero-ledger-hiero-sdk-cpp.md) | ⭐ 41 | C++ | 64/100 |
 | 119 | [tonnode/mcp](./tonnode-mcp.md) | ⭐ 42 | TypeScript | 64/100 |
 | 120 | [vybenetwork/solana-swap-api](./vybenetwork-solana-swap-api.md) | ⭐ 975 | JavaScript | 64/100 |
-| 121 | [hyperledger/fabric](./hyperledger-fabric.md) | ⭐ 16.7k | Go | 64/100 |
-| 122 | [fireblocks/fireblocks-sdk-js](./fireblocks-fireblocks-sdk-js.md) | ⭐ 84 | TypeScript | 64/100 |
+| 121 | [fireblocks/fireblocks-sdk-js](./fireblocks-fireblocks-sdk-js.md) | ⭐ 84 | TypeScript | 64/100 |
+| 122 | [hyperledger/fabric](./hyperledger-fabric.md) | ⭐ 16.7k | Go | 64/100 |
 | 123 | [polkadot-api/polkadot-api](./polkadot-api-polkadot-api.md) | ⭐ 155 | TypeScript | 64/100 |
 | 124 | [Quantova/Qweb4.rs](./quantova-qweb4.rs.md) | ⭐ 205 | Rust | 64/100 |
 | 125 | [tardis-dev/tardis-node](./tardis-dev-tardis-node.md) | ⭐ 353 | TypeScript | 64/100 |
@@ -148,8 +148,8 @@
 | 138 | [BlockRunAI/blockrun-mcp](./blockrunai-blockrun-mcp.md) | ⭐ 466 | TypeScript | 63/100 |
 | 139 | [DSB-117/brainblast](./dsb-117-brainblast.md) | ⭐ 53 | TypeScript | 63/100 |
 | 140 | [getumbrel/umbrel](./getumbrel-umbrel.md) | ⭐ 11.2k | TypeScript | 63/100 |
-| 141 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
-| 142 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
+| 141 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
+| 142 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
 | 143 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 63/100 |
 | 144 | [thegeronimo/hyperopen](./thegeronimo-hyperopen.md) | ⭐ 45 | Clojure | 62/100 |
 | 145 | [binance/binance-skills-hub](./binance-binance-skills-hub.md) | ⭐ 956 | Python | 62/100 |
@@ -199,8 +199,8 @@
 | 189 | [argotorg/solidity](./argotorg-solidity.md) | ⭐ 25.7k | C++ | 61/100 |
 | 190 | [ialapont9/AgenticDeFi-Trainer](./ialapont9-agenticdefi-trainer.md) | ⭐ 44 | Python | 61/100 |
 | 191 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 61/100 |
-| 192 | [lojo64945-beep/AgenticDeFi-Trainer](./lojo64945-beep-agenticdefi-trainer.md) | ⭐ 43 | Python | 61/100 |
-| 193 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 61/100 |
+| 192 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 61/100 |
+| 193 | [lojo64945-beep/AgenticDeFi-Trainer](./lojo64945-beep-agenticdefi-trainer.md) | ⭐ 43 | Python | 61/100 |
 | 194 | [nautechsystems/nautilus_trader](./nautechsystems-nautilus-trader.md) | ⭐ 22.6k | Rust | 61/100 |
 | 195 | [Draichi/T-1000](./draichi-t-1000.md) | ⭐ 176 | Python | 60/100 |
 | 196 | [superfluid-org/protocol-monorepo](./superfluid-org-protocol-monorepo.md) | ⭐ 905 | TypeScript | 60/100 |
@@ -262,17 +262,17 @@
 | 252 | [ChainSafe/lodestar](./chainsafe-lodestar.md) | ⭐ 1.4k | TypeScript | 59/100 |
 | 253 | [Ashutosh0x/rust-finance](./ashutosh0x-rust-finance.md) | ⭐ 388 | Rust | 58/100 |
 | 254 | [XRPLF/xrpl-py](./xrplf-xrpl-py.md) | ⭐ 241 | Python | 58/100 |
-| 255 | [Coldcard/firmware](./coldcard-firmware.md) | ⭐ 773 | Python | 58/100 |
-| 256 | [nanocurrency/nano-node](./nanocurrency-nano-node.md) | ⭐ 3.5k | C++ | 58/100 |
-| 257 | [apache/incubator-resilientdb](./apache-incubator-resilientdb.md) | ⭐ 169 | TypeScript | 58/100 |
+| 255 | [apache/incubator-resilientdb](./apache-incubator-resilientdb.md) | ⭐ 169 | TypeScript | 58/100 |
+| 256 | [Coldcard/firmware](./coldcard-firmware.md) | ⭐ 773 | Python | 58/100 |
+| 257 | [nanocurrency/nano-node](./nanocurrency-nano-node.md) | ⭐ 3.5k | C++ | 58/100 |
 | 258 | [wonglaitung/fortune](./wonglaitung-fortune.md) | ⭐ 74 | Python | 58/100 |
 | 259 | [cosmos/ibc](./cosmos-ibc.md) | ⭐ 1k | Go | 58/100 |
 | 260 | [iktok90-design/ai-smart-contract-auditor](./iktok90-design-ai-smart-contract-auditor.md) | ⭐ 75 | JavaScript | 58/100 |
 | 261 | [solana-foundation/program-examples](./solana-foundation-program-examples.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 262 | [0xcregis/anychain](./0xcregis-anychain.md) | ⭐ 252 | Rust | 58/100 |
-| 263 | [DimensionDev/Maskbook](./dimensiondev-maskbook.md) | ⭐ 1.6k | TypeScript | 58/100 |
-| 264 | [besu-eth/besu-docs](./besu-eth-besu-docs.md) | ⭐ 88 | JavaScript | 58/100 |
-| 265 | [rodrigo-brito/ninjabot](./rodrigo-brito-ninjabot.md) | ⭐ 1.6k | Go | 58/100 |
+| 263 | [besu-eth/besu-docs](./besu-eth-besu-docs.md) | ⭐ 88 | JavaScript | 58/100 |
+| 264 | [rodrigo-brito/ninjabot](./rodrigo-brito-ninjabot.md) | ⭐ 1.6k | Go | 58/100 |
+| 265 | [DimensionDev/Maskbook](./dimensiondev-maskbook.md) | ⭐ 1.6k | TypeScript | 58/100 |
 | 266 | [openwisp/django-x509](./openwisp-django-x509.md) | ⭐ 351 | Python | 58/100 |
 | 267 | [protofire/solhint](./protofire-solhint.md) | ⭐ 1.1k | JavaScript | 58/100 |
 | 268 | [beefyfinance/beefy-api](./beefyfinance-beefy-api.md) | ⭐ 128 | TypeScript | 58/100 |
@@ -298,8 +298,8 @@
 | 288 | [bitcoin-dot-org/Bitcoin.org](./bitcoin-dot-org-bitcoin.org.md) | ⭐ 1.8k | HTML | 57/100 |
 | 289 | [softstack/Smart-Contract-Security-Audits](./softstack-smart-contract-security-audits.md) | ⭐ 798 | HTML | 57/100 |
 | 290 | [cyberia-to/cyb](./cyberia-to-cyb.md) | ⭐ 173 | Rust | 57/100 |
-| 291 | [AcalaNetwork/Acala](./acalanetwork-acala.md) | ⭐ 761 | Rust | 57/100 |
-| 292 | [tink-crypto/tink-py](./tink-crypto-tink-py.md) | ⭐ 78 | Python | 57/100 |
+| 291 | [tink-crypto/tink-py](./tink-crypto-tink-py.md) | ⭐ 78 | Python | 57/100 |
+| 292 | [AcalaNetwork/Acala](./acalanetwork-acala.md) | ⭐ 761 | Rust | 57/100 |
 | 293 | [Consensys/gnark-crypto](./consensys-gnark-crypto.md) | ⭐ 600 | Go | 57/100 |
 | 294 | [paulmillr/noble-curves](./paulmillr-noble-curves.md) | ⭐ 934 | TypeScript | 57/100 |
 | 295 | [ponder-sh/ponder](./ponder-sh-ponder.md) | ⭐ 1.1k | TypeScript | 57/100 |
@@ -361,10 +361,10 @@
 | 351 | [GLEECBTC/gleec-wallet](./gleecbtc-gleec-wallet.md) | ⭐ 288 | Dart | 55/100 |
 | 352 | [piotrnar/gocoin](./piotrnar-gocoin.md) | ⭐ 1k | Go | 55/100 |
 | 353 | [ecency/vision-mobile](./ecency-vision-mobile.md) | ⭐ 262 | TypeScript | 55/100 |
-| 354 | [weidai11/cryptopp](./weidai11-cryptopp.md) | ⭐ 5.5k | C++ | 55/100 |
-| 355 | [paritytech/banana_split](./paritytech-banana-split.md) | ⭐ 350 | TypeScript | 55/100 |
-| 356 | [ecency/ecency-mobile](./ecency-ecency-mobile.md) | ⭐ 262 | TypeScript | 55/100 |
-| 357 | [dusta378/crypto-pay-for-edd](./dusta378-crypto-pay-for-edd.md) | ⭐ 151 | HTML | 55/100 |
+| 354 | [paritytech/banana_split](./paritytech-banana-split.md) | ⭐ 350 | TypeScript | 55/100 |
+| 355 | [weidai11/cryptopp](./weidai11-cryptopp.md) | ⭐ 5.5k | C++ | 55/100 |
+| 356 | [dusta378/crypto-pay-for-edd](./dusta378-crypto-pay-for-edd.md) | ⭐ 151 | HTML | 55/100 |
+| 357 | [ecency/ecency-mobile](./ecency-ecency-mobile.md) | ⭐ 262 | TypeScript | 55/100 |
 | 358 | [qntx/r402](./qntx-r402.md) | ⭐ 149 | Rust | 55/100 |
 | 359 | [MIgHTy-alIeN/Trading-Bot](./mighty-alien-trading-bot.md) | ⭐ 89 | Solidity | 55/100 |
 | 360 | [solana-foundation/solana-dev-skill](./solana-foundation-solana-dev-skill.md) | ⭐ 526 | TypeScript | 55/100 |
@@ -495,12 +495,12 @@
 | 485 | [paradigmxyz/reth](./paradigmxyz-reth.md) | ⭐ 5.6k | Rust | 52/100 |
 | 486 | [rust-bitcoin/rust-miniscript](./rust-bitcoin-rust-miniscript.md) | ⭐ 426 | Rust | 51/100 |
 | 487 | [ohioism/polymarket-taker-trading-bot](./ohioism-polymarket-taker-trading-bot.md) | ⭐ 38 | — | 51/100 |
-| 488 | [Synthetixio/SIPs](./synthetixio-sips.md) | ⭐ 121 | Jupyter Notebook | 51/100 |
-| 489 | [ErcinDedeoglu/crypto-market-data](./ercindedeoglu-crypto-market-data.md) | ⭐ 75 | — | 51/100 |
+| 488 | [ErcinDedeoglu/crypto-market-data](./ercindedeoglu-crypto-market-data.md) | ⭐ 75 | — | 51/100 |
+| 489 | [Synthetixio/SIPs](./synthetixio-sips.md) | ⭐ 121 | Jupyter Notebook | 51/100 |
 | 490 | [solana-mobile/mobile-wallet-adapter](./solana-mobile-mobile-wallet-adapter.md) | ⭐ 328 | TypeScript | 51/100 |
 | 491 | [sanbir/evm-hack-registry](./sanbir-evm-hack-registry.md) | ⭐ 52 | Solidity | 51/100 |
-| 492 | [balancer/frontend-monorepo](./balancer-frontend-monorepo.md) | ⭐ 37 | TypeScript | 51/100 |
-| 493 | [gemwalletcom/wallet](./gemwalletcom-wallet.md) | ⭐ 45 | Rust | 51/100 |
+| 492 | [gemwalletcom/wallet](./gemwalletcom-wallet.md) | ⭐ 45 | Rust | 51/100 |
+| 493 | [balancer/frontend-monorepo](./balancer-frontend-monorepo.md) | ⭐ 37 | TypeScript | 51/100 |
 | 494 | [ruzickap/malware-cryptominer-container](./ruzickap-malware-cryptominer-container.md) | ⭐ 51 | Dockerfile | 51/100 |
 | 495 | [tpm2-software/tpm2-pkcs11](./tpm2-software-tpm2-pkcs11.md) | ⭐ 355 | C | 51/100 |
 | 496 | [sparrowwallet/sparrow](./sparrowwallet-sparrow.md) | ⭐ 2.1k | Java | 51/100 |
@@ -687,8 +687,8 @@
 | 677 | [axiom-crypto/halo2-lib](./axiom-crypto-halo2-lib.md) | ⭐ 312 | Rust | 44/100 |
 | 678 | [stacks-sbtc/sbtc](./stacks-sbtc-sbtc.md) | ⭐ 560 | Rust | 44/100 |
 | 679 | [Bermfs/blockonomics-edd-wallet-gateway](./bermfs-blockonomics-edd-wallet-gateway.md) | ⭐ 68 | HTML | 44/100 |
-| 680 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 44/100 |
-| 681 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 44/100 |
+| 680 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 44/100 |
+| 681 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 44/100 |
 | 682 | [getAlby/awesome-nwc](./getalby-awesome-nwc.md) | ⭐ 94 | — | 44/100 |
 | 683 | [nimiq/core-rs-albatross](./nimiq-core-rs-albatross.md) | ⭐ 173 | Rust | 44/100 |
 | 684 | [solana-foundation/surfpool](./solana-foundation-surfpool.md) | ⭐ 550 | Rust | 44/100 |
@@ -724,45 +724,46 @@
 | 714 | [block-mesh/block-mesh-monorepo](./block-mesh-block-mesh-monorepo.md) | ⭐ 163 | Rust | 42/100 |
 | 715 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 42/100 |
 | 716 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 42/100 |
-| 717 | [Blockstream/lwk](./blockstream-lwk.md) | ⭐ 110 | Rust | 41/100 |
-| 718 | [Bonasa-Tech/manifest](./bonasa-tech-manifest.md) | ⭐ 138 | Rust | 41/100 |
-| 719 | [aurora-is-near/aurora-engine](./aurora-is-near-aurora-engine.md) | ⭐ 362 | Rust | 41/100 |
-| 720 | [blockwright/kopilka](./blockwright-kopilka.md) | ⭐ — | — | 40/100 |
-| 721 | [chain-shield/ai-agent-audit](./chain-shield-ai-agent-audit.md) | ⭐ — | — | 40/100 |
-| 722 | [Chronolapse411/sicarius-guard](./chronolapse411-sicarius-guard.md) | ⭐ — | — | 40/100 |
-| 723 | [RustCrypto/crypto-bigint](./rustcrypto-crypto-bigint.md) | ⭐ 296 | Rust | 40/100 |
-| 724 | [propeller-heads/tycho-indexer](./propeller-heads-tycho-indexer.md) | ⭐ 159 | Rust | 40/100 |
-| 725 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 40/100 |
-| 726 | [cosmos/solidity-ibc-eureka](./cosmos-solidity-ibc-eureka.md) | ⭐ 102 | Rust | 39/100 |
-| 727 | [yaojin0609/erc-8004-liveness](./yaojin0609-erc-8004-liveness.md) | ⭐ — | — | 38/100 |
-| 728 | [ignotusnemo/parano1d](./ignotusnemo-parano1d.md) | ⭐ — | — | 38/100 |
-| 729 | [trailofbits/publications](./trailofbits-publications.md) | ⭐ — | — | 38/100 |
-| 730 | [aleks-ent/pump-dump-crypto-screener](./aleks-ent-pump-dump-crypto-screener.md) | ⭐ — | — | 38/100 |
-| 731 | [getpassmint/passmint](./getpassmint-passmint.md) | ⭐ — | — | 38/100 |
-| 732 | [03012009BTC/miners-bitcoin-lottery](./03012009btc-miners-bitcoin-lottery.md) | ⭐ — | — | 38/100 |
-| 733 | [Neptune-Crypto/neptune-core](./neptune-crypto-neptune-core.md) | ⭐ 101 | Rust | 38/100 |
-| 734 | [privacy-ethereum/halo2curves](./privacy-ethereum-halo2curves.md) | ⭐ 224 | Rust | 38/100 |
-| 735 | [qkniep/alpenglow](./qkniep-alpenglow.md) | ⭐ 139 | Rust | 38/100 |
-| 736 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 38/100 |
-| 737 | [iotaledger/iota](./iotaledger-iota.md) | ⭐ 101 | Rust | 38/100 |
-| 738 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 38/100 |
-| 739 | [Jaybell31/dreamwalk](./jaybell31-dreamwalk.md) | ⭐ — | — | 36/100 |
-| 740 | [zachrip/claude-bucks](./zachrip-claude-bucks.md) | ⭐ — | — | 36/100 |
-| 741 | [elwakeupman-shhh/offchain-integrity-verifier](./elwakeupman-shhh-offchain-integrity-verifier.md) | ⭐ — | Python | 36/100 |
-| 742 | [elwakeupman-shhh/usdt-receipt-verifier](./elwakeupman-shhh-usdt-receipt-verifier.md) | ⭐ — | Python | 36/100 |
-| 743 | [organicbitcoin/obtcd](./organicbitcoin-obtcd.md) | ⭐ — | — | 35/100 |
-| 744 | [kotagit75/btfy](./kotagit75-btfy.md) | ⭐ — | — | 35/100 |
-| 745 | [EthereumPhone/PQ1](./ethereumphone-pq1.md) | ⭐ — | — | 35/100 |
-| 746 | [juan23z/openclaw-audit](./juan23z-openclaw-audit.md) | ⭐ — | — | 35/100 |
-| 747 | [minhoyoo-iotrust/waiaas](./minhoyoo-iotrust-waiaas.md) | ⭐ — | — | 34/100 |
-| 748 | [chipcoin-protocol/chipcoin](./chipcoin-protocol-chipcoin.md) | ⭐ — | — | 31/100 |
-| 749 | [TVHeroes/sharecoin](./tvheroes-sharecoin.md) | ⭐ — | — | 31/100 |
-| 750 | [biochain-code/biochain](./biochain-code-biochain.md) | ⭐ — | — | 31/100 |
-| 751 | [babakkarimib/sharden-miner](./babakkarimib-sharden-miner.md) | ⭐ — | — | 31/100 |
-| 752 | [kachence/polymm](./kachence-polymm.md) | ⭐ — | — | 31/100 |
-| 753 | [raphaelwkago69-create/GLYPH](./raphaelwkago69-create-glyph.md) | ⭐ — | — | 31/100 |
-| 754 | [VeilusDigital/PhantomChatCrypto](./veilusdigital-phantomchatcrypto.md) | ⭐ — | — | 31/100 |
-| 755 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 28/100 |
+| 717 | [hosseinpro/yubishard](./hosseinpro-yubishard.md) | ⭐ — | — | 41/100 |
+| 718 | [Blockstream/lwk](./blockstream-lwk.md) | ⭐ 110 | Rust | 41/100 |
+| 719 | [Bonasa-Tech/manifest](./bonasa-tech-manifest.md) | ⭐ 138 | Rust | 41/100 |
+| 720 | [aurora-is-near/aurora-engine](./aurora-is-near-aurora-engine.md) | ⭐ 362 | Rust | 41/100 |
+| 721 | [blockwright/kopilka](./blockwright-kopilka.md) | ⭐ — | — | 40/100 |
+| 722 | [chain-shield/ai-agent-audit](./chain-shield-ai-agent-audit.md) | ⭐ — | — | 40/100 |
+| 723 | [Chronolapse411/sicarius-guard](./chronolapse411-sicarius-guard.md) | ⭐ — | — | 40/100 |
+| 724 | [RustCrypto/crypto-bigint](./rustcrypto-crypto-bigint.md) | ⭐ 296 | Rust | 40/100 |
+| 725 | [propeller-heads/tycho-indexer](./propeller-heads-tycho-indexer.md) | ⭐ 159 | Rust | 40/100 |
+| 726 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 40/100 |
+| 727 | [cosmos/solidity-ibc-eureka](./cosmos-solidity-ibc-eureka.md) | ⭐ 102 | Rust | 39/100 |
+| 728 | [yaojin0609/erc-8004-liveness](./yaojin0609-erc-8004-liveness.md) | ⭐ — | — | 38/100 |
+| 729 | [ignotusnemo/parano1d](./ignotusnemo-parano1d.md) | ⭐ — | — | 38/100 |
+| 730 | [trailofbits/publications](./trailofbits-publications.md) | ⭐ — | — | 38/100 |
+| 731 | [aleks-ent/pump-dump-crypto-screener](./aleks-ent-pump-dump-crypto-screener.md) | ⭐ — | — | 38/100 |
+| 732 | [getpassmint/passmint](./getpassmint-passmint.md) | ⭐ — | — | 38/100 |
+| 733 | [03012009BTC/miners-bitcoin-lottery](./03012009btc-miners-bitcoin-lottery.md) | ⭐ — | — | 38/100 |
+| 734 | [Neptune-Crypto/neptune-core](./neptune-crypto-neptune-core.md) | ⭐ 101 | Rust | 38/100 |
+| 735 | [privacy-ethereum/halo2curves](./privacy-ethereum-halo2curves.md) | ⭐ 224 | Rust | 38/100 |
+| 736 | [qkniep/alpenglow](./qkniep-alpenglow.md) | ⭐ 139 | Rust | 38/100 |
+| 737 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 38/100 |
+| 738 | [iotaledger/iota](./iotaledger-iota.md) | ⭐ 101 | Rust | 38/100 |
+| 739 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 38/100 |
+| 740 | [Jaybell31/dreamwalk](./jaybell31-dreamwalk.md) | ⭐ — | — | 36/100 |
+| 741 | [zachrip/claude-bucks](./zachrip-claude-bucks.md) | ⭐ — | — | 36/100 |
+| 742 | [elwakeupman-shhh/offchain-integrity-verifier](./elwakeupman-shhh-offchain-integrity-verifier.md) | ⭐ — | Python | 36/100 |
+| 743 | [elwakeupman-shhh/usdt-receipt-verifier](./elwakeupman-shhh-usdt-receipt-verifier.md) | ⭐ — | Python | 36/100 |
+| 744 | [organicbitcoin/obtcd](./organicbitcoin-obtcd.md) | ⭐ — | — | 35/100 |
+| 745 | [kotagit75/btfy](./kotagit75-btfy.md) | ⭐ — | — | 35/100 |
+| 746 | [EthereumPhone/PQ1](./ethereumphone-pq1.md) | ⭐ — | — | 35/100 |
+| 747 | [juan23z/openclaw-audit](./juan23z-openclaw-audit.md) | ⭐ — | — | 35/100 |
+| 748 | [minhoyoo-iotrust/waiaas](./minhoyoo-iotrust-waiaas.md) | ⭐ — | — | 34/100 |
+| 749 | [chipcoin-protocol/chipcoin](./chipcoin-protocol-chipcoin.md) | ⭐ — | — | 31/100 |
+| 750 | [TVHeroes/sharecoin](./tvheroes-sharecoin.md) | ⭐ — | — | 31/100 |
+| 751 | [biochain-code/biochain](./biochain-code-biochain.md) | ⭐ — | — | 31/100 |
+| 752 | [babakkarimib/sharden-miner](./babakkarimib-sharden-miner.md) | ⭐ — | — | 31/100 |
+| 753 | [kachence/polymm](./kachence-polymm.md) | ⭐ — | — | 31/100 |
+| 754 | [raphaelwkago69-create/GLYPH](./raphaelwkago69-create-glyph.md) | ⭐ — | — | 31/100 |
+| 755 | [VeilusDigital/PhantomChatCrypto](./veilusdigital-phantomchatcrypto.md) | ⭐ — | — | 31/100 |
+| 756 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 28/100 |
 
 ---
 
