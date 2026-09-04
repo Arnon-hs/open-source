@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34406** |
+| **Projects** | **34408** |
 | **Categories** | **158** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15634 | [Browse →](./misc/) |
+| 📦 **Misc** | 15635 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3304 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2549 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -53,12 +53,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 9 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
+| 🏷️ **Migration** | 4 | [Browse →](./migration/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
 | 🏷️ **Self-hosting** | 3 | [Browse →](./self-hosting/) |
 | 🏷️ **Remote-shell** | 3 | [Browse →](./remote-shell/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
-| 🏷️ **Migration** | 3 | [Browse →](./migration/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Markdown** | 3 | [Browse →](./markdown/) |
 | 🏷️ **Browser-based** | 3 | [Browse →](./browser-based/) |
