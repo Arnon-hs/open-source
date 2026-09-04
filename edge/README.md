@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [camthink-ai/NeoMind](./camthink-ai-neomind.md) | ⭐ 40 | Rust | 46/100 |
+| 1 | [camthink-ai/NeoMind](./camthink-ai-neomind.md) | ⭐ 40 | Rust | 43/100 |
 
 ---
 
