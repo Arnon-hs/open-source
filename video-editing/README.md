@@ -2,7 +2,7 @@
 
 > 
 
-**306 projects** in this category.
+**307 projects** in this category.
 
 ## Projects
 
@@ -275,45 +275,46 @@
 | 265 | [taco-group/SparkVSR](./taco-group-sparkvsr.md) | ⭐ 422 | Python | 49/100 |
 | 266 | [yohasebe/whisper-stream](./yohasebe-whisper-stream.md) | ⭐ 119 | Shell | 49/100 |
 | 267 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
-| 268 | [amekusa03/mp3-to-ac3-converter](./amekusa03-mp3-to-ac3-converter.md) | ⭐ — | — | 48/100 |
-| 269 | [skrylkovs/trippi-oss](./skrylkovs-trippi-oss.md) | ⭐ — | — | 48/100 |
-| 270 | [OpenMOSS/MOSS-Transcribe-Diarize](./openmoss-moss-transcribe-diarize.md) | ⭐ 1.2k | Python | 48/100 |
-| 271 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 48/100 |
-| 272 | [VisoMasterFusion/VisoMaster-Fusion](./visomasterfusion-visomaster-fusion.md) | ⭐ 312 | Python | 48/100 |
-| 273 | [gcanat/video_reader-rs](./gcanat-video-reader-rs.md) | ⭐ 125 | Rust | 47/100 |
-| 274 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 47/100 |
-| 275 | [zmwangx/rust-ffmpeg-sys](./zmwangx-rust-ffmpeg-sys.md) | ⭐ 202 | Rust | 46/100 |
-| 276 | [Pedal-Intelligence/saypi-userscript](./pedal-intelligence-saypi-userscript.md) | ⭐ 24 | TypeScript | 46/100 |
-| 277 | [Rapptz/jimaku](./rapptz-jimaku.md) | ⭐ 142 | Rust | 45/100 |
-| 278 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 45/100 |
-| 279 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ — | — | 44/100 |
-| 280 | [kristoferlund/ostt](./kristoferlund-ostt.md) | ⭐ 206 | Rust | 44/100 |
-| 281 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ — | — | 43/100 |
-| 282 | [diffusionstudio/editor](./diffusionstudio-editor.md) | ⭐ — | — | 42/100 |
-| 283 | [thiagoalbrecht/weave](./thiagoalbrecht-weave.md) | ⭐ — | — | 42/100 |
-| 284 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 182 | Ruby | 42/100 |
-| 285 | [bart6114/loofah](./bart6114-loofah.md) | ⭐ — | — | 41/100 |
-| 286 | [michaelwilhelmsen/humla](./michaelwilhelmsen-humla.md) | ⭐ 106 | Rust | 40/100 |
-| 287 | [Salesforce/blip-image-captioning-large](./salesforce-blip-image-captioning-large.md) | ⭐ 1.5k | transformers | 39/100 |
-| 288 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 39/100 |
-| 289 | [karamuhammet/Open-Editor-Dika-Studio-Community](./karamuhammet-open-editor-dika-studio-community.md) | ⭐ — | — | 38/100 |
-| 290 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ — | — | 38/100 |
-| 291 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ — | — | 38/100 |
-| 292 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ — | — | 38/100 |
-| 293 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ — | — | 36/100 |
-| 294 | [JeffreyHamilton6399/ShrinkRay](./jeffreyhamilton6399-shrinkray.md) | ⭐ — | — | 36/100 |
-| 295 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ — | — | 35/100 |
-| 296 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ — | — | 35/100 |
-| 297 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ — | — | 35/100 |
-| 298 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ — | — | 35/100 |
-| 299 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ — | — | 33/100 |
-| 300 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ — | — | 33/100 |
-| 301 | [Relo-video/SynthCut](./relo-video-synthcut.md) | ⭐ — | — | 31/100 |
-| 302 | [khaledalam/avatoon](./khaledalam-avatoon.md) | ⭐ — | — | 31/100 |
-| 303 | [HeyMeco/MecoScribe](./heymeco-mecoscribe.md) | ⭐ — | — | 31/100 |
-| 304 | [google-deepmind/speech-compass](./google-deepmind-speech-compass.md) | ⭐ — | — | 31/100 |
-| 305 | [arthiccc/gcolab-whisper](./arthiccc-gcolab-whisper.md) | ⭐ — | — | 31/100 |
-| 306 | [loopedautomation/whisper](./loopedautomation-whisper.md) | ⭐ — | — | 31/100 |
+| 268 | [rtagliaviaz/audio-track-remover](./rtagliaviaz-audio-track-remover.md) | ⭐ — | — | 48/100 |
+| 269 | [amekusa03/mp3-to-ac3-converter](./amekusa03-mp3-to-ac3-converter.md) | ⭐ — | — | 48/100 |
+| 270 | [skrylkovs/trippi-oss](./skrylkovs-trippi-oss.md) | ⭐ — | — | 48/100 |
+| 271 | [OpenMOSS/MOSS-Transcribe-Diarize](./openmoss-moss-transcribe-diarize.md) | ⭐ 1.2k | Python | 48/100 |
+| 272 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 48/100 |
+| 273 | [VisoMasterFusion/VisoMaster-Fusion](./visomasterfusion-visomaster-fusion.md) | ⭐ 312 | Python | 48/100 |
+| 274 | [gcanat/video_reader-rs](./gcanat-video-reader-rs.md) | ⭐ 125 | Rust | 47/100 |
+| 275 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 47/100 |
+| 276 | [zmwangx/rust-ffmpeg-sys](./zmwangx-rust-ffmpeg-sys.md) | ⭐ 202 | Rust | 46/100 |
+| 277 | [Pedal-Intelligence/saypi-userscript](./pedal-intelligence-saypi-userscript.md) | ⭐ 24 | TypeScript | 46/100 |
+| 278 | [Rapptz/jimaku](./rapptz-jimaku.md) | ⭐ 142 | Rust | 45/100 |
+| 279 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 45/100 |
+| 280 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ — | — | 44/100 |
+| 281 | [kristoferlund/ostt](./kristoferlund-ostt.md) | ⭐ 206 | Rust | 44/100 |
+| 282 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ — | — | 43/100 |
+| 283 | [diffusionstudio/editor](./diffusionstudio-editor.md) | ⭐ — | — | 42/100 |
+| 284 | [thiagoalbrecht/weave](./thiagoalbrecht-weave.md) | ⭐ — | — | 42/100 |
+| 285 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 182 | Ruby | 42/100 |
+| 286 | [bart6114/loofah](./bart6114-loofah.md) | ⭐ — | — | 41/100 |
+| 287 | [michaelwilhelmsen/humla](./michaelwilhelmsen-humla.md) | ⭐ 106 | Rust | 40/100 |
+| 288 | [Salesforce/blip-image-captioning-large](./salesforce-blip-image-captioning-large.md) | ⭐ 1.5k | transformers | 39/100 |
+| 289 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 39/100 |
+| 290 | [karamuhammet/Open-Editor-Dika-Studio-Community](./karamuhammet-open-editor-dika-studio-community.md) | ⭐ — | — | 38/100 |
+| 291 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ — | — | 38/100 |
+| 292 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ — | — | 38/100 |
+| 293 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ — | — | 38/100 |
+| 294 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ — | — | 36/100 |
+| 295 | [JeffreyHamilton6399/ShrinkRay](./jeffreyhamilton6399-shrinkray.md) | ⭐ — | — | 36/100 |
+| 296 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ — | — | 35/100 |
+| 297 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ — | — | 35/100 |
+| 298 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ — | — | 35/100 |
+| 299 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ — | — | 35/100 |
+| 300 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ — | — | 33/100 |
+| 301 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ — | — | 33/100 |
+| 302 | [Relo-video/SynthCut](./relo-video-synthcut.md) | ⭐ — | — | 31/100 |
+| 303 | [khaledalam/avatoon](./khaledalam-avatoon.md) | ⭐ — | — | 31/100 |
+| 304 | [HeyMeco/MecoScribe](./heymeco-mecoscribe.md) | ⭐ — | — | 31/100 |
+| 305 | [google-deepmind/speech-compass](./google-deepmind-speech-compass.md) | ⭐ — | — | 31/100 |
+| 306 | [arthiccc/gcolab-whisper](./arthiccc-gcolab-whisper.md) | ⭐ — | — | 31/100 |
+| 307 | [loopedautomation/whisper](./loopedautomation-whisper.md) | ⭐ — | — | 31/100 |
 
 ---
 
