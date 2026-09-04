@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34316** |
-| **Categories** | **146** |
+| **Projects** | **34322** |
+| **Categories** | **147** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15595 | [Browse →](./misc/) |
+| 📦 **Misc** | 15597 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3302 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2548 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1347 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1348 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1245 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 306 | [Browse →](./video-editing/) |
 | 💳 **Payments** | 306 | [Browse →](./payments/) |
 | 📈 **Trading** | 185 | [Browse →](./trading/) |
-| ✨ **Design** | 168 | [Browse →](./design/) |
+| ✨ **Design** | 169 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 126 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 74 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
@@ -54,6 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 7 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 5 | [Browse →](./ai-agents/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
+| 🏷️ **Agent** | 3 | [Browse →](./agent/) |
 | 🏷️ **Migration** | 3 | [Browse →](./migration/) |
 | 🏷️ **Open-source** | 3 | [Browse →](./open-source/) |
 | 🏷️ **Markdown** | 3 | [Browse →](./markdown/) |
@@ -79,9 +80,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
 | 🏷️ **Sre** | 2 | [Browse →](./sre/) |
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
-| 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Token-governance** | 1 | [Browse →](./token-governance/) |
 | 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Ai-assisted-coding** | 1 | [Browse →](./ai-assisted-coding/) |
 | 🏷️ **Zero-dependency** | 1 | [Browse →](./zero-dependency/) |
