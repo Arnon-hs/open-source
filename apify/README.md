@@ -1,4 +1,4 @@
-# 🏷️ Screenshot
+# 🏷️ Apify
 
 > 
 
@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ldeng83/Sealshot](./ldeng83-sealshot.md) | ⭐ 11 | Swift | 45/100 |
+| 1 | [CBLU2005/us-govdata-mcp](./cblu2005-us-govdata-mcp.md) | ⭐ — | TypeScript | 68/100 |
 
 ---
 

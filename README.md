@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34423** |
-| **Categories** | **161** |
+| **Projects** | **34429** |
+| **Categories** | **162** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15641 | [Browse →](./misc/) |
+| 📦 **Misc** | 15644 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2551 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1348 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1245 | [Browse →](./automation/) |
@@ -66,6 +66,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Multimodal** | 3 | [Browse →](./multimodal/) |
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
+| 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
@@ -89,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Apify** | 1 | [Browse →](./apify/) |
 | 🏷️ **Load-balancing** | 1 | [Browse →](./load-balancing/) |
 | 🏷️ **Monorepo** | 1 | [Browse →](./monorepo/) |
 | 🏷️ **Forum** | 1 | [Browse →](./forum/) |
@@ -128,7 +130,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cms-migration** | 1 | [Browse →](./cms-migration/) |
 | 🏷️ **Robotics** | 1 | [Browse →](./robotics/) |
 | 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
-| 🏷️ **Postgresql** | 1 | [Browse →](./postgresql/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Uzbek** | 1 | [Browse →](./uzbek/) |
 | 🏷️ **Video-production** | 1 | [Browse →](./video-production/) |

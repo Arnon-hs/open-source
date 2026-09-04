@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rahadbhuiya/HuddleCluster](./rahadbhuiya-huddlecluster.md) | ⭐ — | — | 24/100 |
+| 1 | [rahadbhuiya/HuddleCluster](./rahadbhuiya-huddlecluster.md) | ⭐ 16 | Python | 48/100 |
 
 ---
 
