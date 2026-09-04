@@ -1,6 +1,6 @@
 # RikkaApps/Shizuku
 
-[![Stars](https://img.shields.io/github/stars/RikkaApps/Shizuku?style=flat-square&color=yellow)](https://github.com/RikkaApps/Shizuku/stargazers) [![Forks](https://img.shields.io/github/forks/RikkaApps/Shizuku?style=flat-square&color=blue)](https://github.com/RikkaApps/Shizuku/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RikkaApps/Shizuku?style=flat-square&color=yellow)](https://github.com/RikkaApps/Shizuku/stargazers) [![Forks](https://img.shields.io/github/forks/RikkaApps/Shizuku?style=flat-square&color=blue)](https://github.com/RikkaApps/Shizuku/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.6k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ RikkaApps/Shizuku：RikkaApps/Shizuku may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 66/100 |
+| outlook | 70/100 |
 | adoption | 93/100 |
 | categoryMatchCount | 800/100 |
 | stars | 95/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
