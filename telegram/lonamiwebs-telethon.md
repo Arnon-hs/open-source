@@ -1,6 +1,6 @@
 # LonamiWebs/Telethon
 
-[![Stars](https://img.shields.io/github/stars/LonamiWebs/Telethon?style=flat-square&color=yellow)](https://github.com/LonamiWebs/Telethon/stargazers) [![Forks](https://img.shields.io/github/forks/LonamiWebs/Telethon?style=flat-square&color=blue)](https://github.com/LonamiWebs/Telethon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LonamiWebs/Telethon?style=flat-square&color=yellow)](https://github.com/LonamiWebs/Telethon/stargazers) [![Forks](https://img.shields.io/github/forks/LonamiWebs/Telethon?style=flat-square&color=blue)](https://github.com/LonamiWebs/Telethon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Python 3 MTProto API Telegram client library, for bots too!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Telegram · API · Proxy · MTProto · Privacy · AI agent
 
 ### English
 
-LonamiWebs/Telethon: LonamiWebs/Telethon may be useful when its README and activity match a concrete workflow.. Use it for Telegram, API, Proxy, MTProto, Privacy, AI agent. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LonamiWebs/Telethon: LonamiWebs/Telethon may be useful when its README and activity match a concrete workflow.. Use it for Telegram, API, Proxy, MTProto, Privacy, AI agent. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-LonamiWebs/Telethon: open-source проект в категориях Telegram, API, Proxy, MTProto, Privacy, AI agent. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+LonamiWebs/Telethon: open-source проект в категориях Telegram, API, Proxy, MTProto, Privacy, AI agent. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-LonamiWebs/Telethon：LonamiWebs/Telethon may be useful when its README and activity match a concrete workflow.。适合用于Telegram、API、Proxy、MTProto、Privacy、AI agent。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LonamiWebs/Telethon：LonamiWebs/Telethon may be useful when its README and activity match a concrete workflow.。适合用于Telegram、API、Proxy、MTProto、Privacy、AI agent。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ LonamiWebs/Telethon：LonamiWebs/Telethon may be useful when its README and acti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ LonamiWebs/Telethon：LonamiWebs/Telethon may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 87/100 |
+| production | 74/100 |
+| outlook | 80/100 |
 | adoption | 85/100 |
 | categoryMatchCount | 600/100 |
 | stars | 87/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

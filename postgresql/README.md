@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [turfin-logic/migra-guard](./turfin-logic-migra-guard.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [turfin-logic/migra-guard](./turfin-logic-migra-guard.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

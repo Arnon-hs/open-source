@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [DostonUr/uzwords_2](./dostonur-uzwords-2.md) | ⭐ — | Python | 42/100 |
+| 1 | [DostonUr/uzwords_2](./dostonur-uzwords-2.md) | ⭐ — | Python | 39/100 |
 
 ---
 

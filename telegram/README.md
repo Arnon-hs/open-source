@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [LonamiWebs/Telethon](./lonamiwebs-telethon.md) | ⭐ 12.1k | Python | 81/100 |
+| 1 | [LonamiWebs/Telethon](./lonamiwebs-telethon.md) | ⭐ 12.1k | Python | 78/100 |
 
 ---
 
