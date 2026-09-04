@@ -1,6 +1,6 @@
 # PijarAdiluhung/mabims-hijri
 
-[![Stars](https://img.shields.io/github/stars/PijarAdiluhung/mabims-hijri?style=flat-square&color=yellow)](https://github.com/PijarAdiluhung/mabims-hijri/stargazers) [![Forks](https://img.shields.io/github/forks/PijarAdiluhung/mabims-hijri?style=flat-square&color=blue)](https://github.com/PijarAdiluhung/mabims-hijri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PijarAdiluhung/mabims-hijri?style=flat-square&color=yellow)](https://github.com/PijarAdiluhung/mabims-hijri/stargazers) [![Forks](https://img.shields.io/github/forks/PijarAdiluhung/mabims-hijri?style=flat-square&color=blue)](https://github.com/PijarAdiluhung/mabims-hijri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > MABIMS.dev is an unofficial, free, open-source API that provides an ecosystem for the Indonesian Hijri calendar based on MABIMS criteria from Kementerian Agama Republik Indonesia.  This NPM package wraps the MABIMS API with offline-first capabilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ PijarAdiluhung/mabims-hijri：PijarAdiluhung/mabims-hijri may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 59/100 |
+| production | 56/100 |
+| outlook | 52/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 

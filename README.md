@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34331** |
-| **Categories** | **148** |
+| **Projects** | **34339** |
+| **Categories** | **151** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15603 | [Browse →](./misc/) |
+| 📦 **Misc** | 15606 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3303 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2548 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2193 | [Browse →](./orchestration/) |
@@ -31,7 +31,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1245 | [Browse →](./automation/) |
 | 🎨 **Frontend** | 965 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 897 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 753 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 755 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 715 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 613 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 582 | [Browse →](./database/) |
@@ -82,6 +82,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Market-calendar** | 1 | [Browse →](./market-calendar/) |
+| 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
+| 🏷️ **Vbscript** | 1 | [Browse →](./vbscript/) |
 | 🏷️ **Vulnerability-scanning** | 1 | [Browse →](./vulnerability-scanning/) |
 | 🏷️ **Token-governance** | 1 | [Browse →](./token-governance/) |
 | 🏷️ **C** | 1 | [Browse →](./c/) |

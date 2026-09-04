@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [react-native-async-storage/async-storage](./react-native-async-storage-async-storage.md) | ⭐ 5.1k | Kotlin | 57/100 |
-| 2 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 52/100 |
+| 2 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 49/100 |
 
 ---
 
