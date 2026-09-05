@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34476** |
-| **Categories** | **171** |
+| **Projects** | **34479** |
+| **Categories** | **172** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15667 | [Browse →](./misc/) |
+| 📦 **Misc** | 15668 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3306 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2552 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2195 | [Browse →](./orchestration/) |
@@ -58,6 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 4 | [Browse →](./self-hosting/) |
 | 🏷️ **Migration** | 4 | [Browse →](./migration/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
+| 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Remote-shell** | 3 | [Browse →](./remote-shell/) |
 | 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
@@ -70,7 +71,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Deskcrew** | 3 | [Browse →](./deskcrew/) |
 | 🏷️ **Ci** | 2 | [Browse →](./ci/) |
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
-| 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Offline** | 2 | [Browse →](./offline/) |
@@ -91,6 +91,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-sandboxing** | 2 | [Browse →](./ai-sandboxing/) |
 | 🏷️ **Ai-assisted-design** | 2 | [Browse →](./ai-assisted-design/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Architecture-diagrams** | 1 | [Browse →](./architecture-diagrams/) |
 | 🏷️ **Reproducibility** | 1 | [Browse →](./reproducibility/) |
 | 🏷️ **Agent-orchestration** | 1 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Kubernetes** | 1 | [Browse →](./kubernetes/) |

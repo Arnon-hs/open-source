@@ -546,8 +546,8 @@
 | 536 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 31/100 |
 | 537 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 31/100 |
 | 538 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ — | — | 31/100 |
-| 539 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
-| 540 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 539 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 31/100 |
+| 540 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 31/100 |
 | 541 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ — | — | 31/100 |
 | 542 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 31/100 |
 | 543 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 31/100 |
