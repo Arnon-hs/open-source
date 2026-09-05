@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **34551** |
-| **Categories** | **27** |
+| **Projects** | **34552** |
+| **Categories** | **28** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -32,12 +32,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 973 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 902 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 758 | [Browse →](./crypto/) |
-| 📱 **Mobile** | 722 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 723 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 616 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 588 | [Browse →](./database/) |
 | 🏷️ **Knowledgerag** | 564 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 421 | [Browse →](./templates/) |
-| 🔐 **Security** | 396 | [Browse →](./security/) |
+| 🔐 **Security** | 395 | [Browse →](./security/) |
 | 📊 **Data** | 393 | [Browse →](./data/) |
 | 🏷️ **Observability** | 345 | [Browse →](./observability/) |
 | 🏷️ **Video-editing** | 328 | [Browse →](./video-editing/) |
@@ -50,6 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 44 | [Browse →](./marketing/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Ai** | 1 | [Browse →](./ai/) |
+| 🏷️ **Networking** | 1 | [Browse →](./networking/) |
 
 ## Top projects by score
 
